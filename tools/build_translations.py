@@ -41,6 +41,11 @@ def norm(value):
 
 def translatable(s):
     v = norm(s)
+    # Internal URL paths and asset paths are identifiers, not translatable copy.
+    # Previously strings such as /blogs/goc-tu-van/... were marked untranslated
+    # and could prevent an otherwise complete page from being published.
+    if re.fullmatch(r'/[^\s<>]+', v):
+        return False
     return (len(v) > 1 and bool(LETTER.search(v))
         and not re.match(r'^(https?://|www\.|mailto:|tel:)', v, re.I)
         and not re.fullmatch(r'[\w.+-]+@[\w.-]+\.[a-z]{2,}', v, re.I)
@@ -195,7 +200,17 @@ def init_argos():
 def build(pages,max_new=100000,demo=False):
     cache=cached_json(STORE,{})
     if not isinstance(cache,dict):cache={}
-    missing=sorted({s for group in pages.values() for s in group if s not in cache or not all(cache[s].get(k) for k in ('en','zh'))})
+    missing_set={s for group in pages.values() for s in group if s not in cache or not all(cache[s].get(k) for k in ('en','zh'))}
+    # Prioritize completing the homepage, then pages closest to full coverage.
+    # Unlike lexical sorting of 19k strings, this can publish complete packs
+    # early without requiring every page to be finished first.
+    route_order=sorted(pages, key=lambda r: (0 if r=='/' else 1,
+                     sum(x in missing_set for x in pages[r]),r))
+    missing=[]; scheduled=set()
+    for r in route_order:
+        for item in sorted(pages[r]):
+            if item in missing_set and item not in scheduled:
+                missing.append(item);scheduled.add(item)
     print('All unique strings:',len({s for group in pages.values() for s in group}))
     print('Missing translations:',len(missing))
     engine=None
@@ -223,7 +238,7 @@ def build(pages,max_new=100000,demo=False):
         except Exception as ex:
             print('Translation failed:',source[:45],str(ex)[:70])
     save_json(STORE,cache)
-    released=0;partial=0
+    released=0;partial=0;pending_report=[]
     for route,items in pages.items():
         missing_entries=[x for x in items if x not in cache or not all(cache[x].get(y) for y in ('en','zh'))]
         if missing_entries:
@@ -231,11 +246,20 @@ def build(pages,max_new=100000,demo=False):
             # Never serve an outdated pack if the same page was rebuilt incomplete.
             old_file=PUBLIC/(route_id(route)+'.json')
             if old_file.exists():old_file.unlink()
+            # Only PUBLIC website snippets appear in this report; no private data.
+            pending_report.append({'route':route,'missing_count':len(missing_entries),
+                                   'examples':sorted(missing_entries)[:4]})
             print('HOLD (incomplete):',route,len(missing_entries));continue
         mapping={k:cache[k] for k in sorted(items)}
         out={'version':3,'route':route,'texts':mapping}
         save_json(PUBLIC/(route_id(route)+'.json'),out)
         released+=1
+    save_json(PUBLIC/'audit.json',{
+        'version':3,'pages_seen':len(pages),'pages_published':released,
+        'pages_pending':partial,'missing_unique_texts':len({x for p in pages.values()
+           for x in p if x not in cache or not all(cache[x].get(k) for k in ('en','zh'))}),
+        'pending_pages':sorted(pending_report,key=lambda x:(x['missing_count'],x['route']))
+    })
     save_json(PUBLIC/'manifest.json',{
         'version':3,
         'site':BASE,
@@ -261,6 +285,8 @@ def main():
         texts,_=collect_text_from_html(sample)
         assert 'Trang chủ' in texts and 'Nhập mã vận đơn' in texts
         assert 'doNotRead()' not in texts
+        assert not translatable('/blogs/goc-tu-van/bien-so-56-o-dau')
+        assert translatable('Vận chuyển hàng hóa Bắc Nam')
         print('SELF-TEST PASS: public text and input labels detected, scripts excluded. No output published.')
         return
     session=requests.Session();session.headers.update({'User-Agent':USER_AGENT})
