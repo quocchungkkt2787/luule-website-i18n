@@ -1,0 +1,854 @@
+{
+  "route": "/blogs/goc-tu-van/cac-tuyen-duong-sat-chinh-cua-viet-nam",
+  "texts": {
+    "11 Tháng 3 2021": {
+      "en": "11 March 2021",
+      "zh": "2021年3月11日 (中文(简体) )."
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ đường sắt Việt Nam": {
+      "en": "Vietnam Railroad Map",
+      "zh": "越南铁路地图"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyến tàu trong hệ thống đường sắt chính của Việt Nam": {
+      "en": "Train in Vietnam's main rail system",
+      "zh": "越南主要铁路系统列车"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chất lượng hạ tầng chưa đảm bảo do chi phí sửa chữa không đủ": {
+      "en": "The infrastructure quality is not guaranteed due to repair costs.",
+      "zh": "由于修复费用,基础设施质量得不到保证。"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các tuyến đường sắt chính của Việt Nam": {
+      "en": "Vietnam's main railways",
+      "zh": "越南的主要铁路"
+    },
+    "Các tuyến đường sắt chính của Việt Nam hiện nay": {
+      "en": "Vietnam's Main Railways Today",
+      "zh": "今日越南干线铁路"
+    },
+    "Các tuyến đường sắt nối liền 34 tỉnh thành và còn nối liền đường sắt Trung Quốc theo hai hướng Vân Nam qua Lào Cai và Quảng Tây qua tỉnh Lạng Sơn.": {
+      "en": "Railways connected 34 provinces and also connected the Chinese railways in two directions through the Laos Cai and Guangxi through the Dashan Province.",
+      "zh": "铁路连接了34个省份,并同时将中国铁路双向通过老挝蔡和广西通过大山省."
+    },
+    "Các ưu nhược điểm của đường sắt so với các phương tiện khác": {
+      "en": "The strengths of the railway compared to other means",
+      "zh": "铁路相对于其他手段的优势"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có nhiều hạn chế về đường ga do tải trọng lớn, đường chạy chưa được nâng cấp hạ tầng": {
+      "en": "There are many restrictions on the rails due to heavy load, the track has not been upgraded to sublevel",
+      "zh": "由于负载过重,铁路有诸多限制,有轨电车尚未升级为下级."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công nghệ đường sắt còn lạc hậu": {
+      "en": "The railroad technology is behind us.",
+      "zh": "铁路技术落后."
+    },
+    "Cập nhật bản đồ đường sắt nước ta giúp bạn nắm được các tuyến đường sắt chính của Việt Nam và dễ dàng hơn khi tra cứu lộ trình di chuyển.": {
+      "en": "Update our country railway map allows you to capture Vietnam's main rails and make it easier to look up the route.",
+      "zh": "更新我国铁路图 让你能捕捉越南干线铁路 方便查取路线."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện nay, tại nước ta có": {
+      "en": "Now, in the country we have",
+      "zh": "现在,在我们的国家"
+    },
+    "Hiện nay, đường sắt tại Việt Nam được chia làm 3 khổ đường: Loại đường 1000km, đường tiêu chuẩn 1.435km và đường lồng tức là bao gồm cả 2 loại đường trên. Mạng lưới đường sắt tại Việt Nam dài khoảng 4.161km với khoảng hơn 2000 km đường chính tuyến. Hệ thống các tuyến đường sắt chính của Việt Nam nối liền những khu dân cư, trung tâm văn hóa công nông nghiệp, trừ khu vực sông Cửu Long.": {
+      "en": "Currently, the railway in Vietnam is divided into three sugars: Type 1000 km, standard line 1,435 km (4.35 km) and the cage line is including 2 types of road above. The railway network in Vietnam was approximately 4.161 km (4.16 km) long with more than 2000 km of the main route. Vietnam's main railway system connects residential areas, the agricultural cultural centre, except the Nine Long River area.",
+      "zh": "目前,越南的铁路被分为三道:1000公里型,标准线为1,435公里(4.35公里),而笼子线包括了上方的2道类型. 越南铁路网长约4.161公里(4.16公里),主干道有2000多公里. 越南的主要铁路系统连接了住宅区,农业文化中心,九长河地区除外."
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hình ảnh bản đồ đường sắt Việt Nam": {
+      "en": "Vietnam Railroad Map",
+      "zh": "越南铁路地图"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hệ thống đường sắt hiện nay đang gặp nhiều khó khăn, cụ thể như:": {
+      "en": "The railway system currently suffers from difficulties, namely:",
+      "zh": "铁路系统目前遇到困难,即:"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lịch sử đường sắt Việt Nam": {
+      "en": "Vietnam Railway History",
+      "zh": "越南铁路史"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài ra, các tuyến đường nhánh cơ sở hạ tầng tương đối kém chưa tương xứng với quy mô phát triển của vùng. Ở một số cảng như cảng Quy Nhơn, Cửa Lò đường sắt còn bị gỡ bỏ và nhiều nơi tuyến đường dang dở chưa được đầu tư trọn vẹn. Hai khu vực chiến lược như Tây nguyên và Đồng bằng sông Cửu Long không được phân bố mạng lưới đường sắt.": {
+      "en": "In addition, the infrastructure branches are relatively poorly proportional to the area's growth scale. In some ports such as the ports of thejuris, the Railway is also removed and many places where the unfinished route is not fully invested. Two strategic areas such as the West and the Plains of the Nine Long River were not distributed to the railway network.",
+      "zh": "此外,基础设施分支与该地区的增长规模相对不相称。 在一些港口,如陪都港,铁路也被移除,还有许多未完成的航线没有完全投入的地方. 西部和九龙江平原等两个战略地区未分配到铁路网."
+    },
+    "Ngoài ra, khi bạn cần di chuyển bằng đường sắt, bạn có thể vận chuyển cả các phương tiện đi lại của mình cực kỳ tiện lợi với mức giá khá rẻ.": {
+      "en": "Also, when you need to move by rail, you can move your vehicles around very, very, very cheaply.",
+      "zh": "另外,当你需要通过铁路移动时, 你可以非常,非常,非常廉价地移动你的车辆。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những vấn đề về kết cấu hạ tầng là nguyên nhân khiến thị phần vận tải đường sắt có dấu hiệu sụt giảm trong nhiều năm trở lại đây. Đối với khách hàng đi các chuyến ngắn thì đường sắt không so được với đường bộ. Nếu khách hàng đi đường dài, chi phí đi máy bay giá rẻ sẽ ổn hơn đường sắt.": {
+      "en": "The problems with infrastructure are the cause of the railway transport share that has been a decline for years. For the customer on short trips, the railway is no match for the road. If the customer travels the long way, the cost of cheap aircraft will be better than the railway.",
+      "zh": "基础设施问题是多年来铁路运输份额下降的原因。 对于在短途旅行的客户来说,铁路与公路并不匹配. 如果顾客长途跋涉,廉价飞机的成本将优于铁路."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời điểm chiến tranh, hệ thống đường sắt hư hại khá nhiều nên được tiến hành khôi phục lại vào năm 1986. Sau đó, theo cơ chế thị trường, đường sắt bắt đầu vào công cuộc hiện đại hóa nỗ lực trở thành ngành vận tải hàng đầu góp phần vào phát triển kinh tế của cả nước. Trong những năm vừa qua, hệ thống đường sắt được triển khai, phát triển mạnh mẽ nối liền các vùng miền.": {
+      "en": "By the time of the war, the railroad system had suffered quite a loss, so it was restored in 1986. Later, according to the market mechanism, the railroad began its work modernizing the effort to become the leading transportation industry contributing to the country's economic development. Over the past few years, the railway system has been deployed, thriving to connect regions.",
+      "zh": "到了战国时期,铁路系统已经遭受了相当严重的损失,因此在1986年恢复. 后来,根据市场机制,铁路开始进行现代化工作,成为推动国家经济发展的主要运输业。 过去几年来,铁路系统得到部署,繁荣起来,连接各个地区。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những thông tin về các tuyến đường sắt chính của Việt Nam. Hy vọng đây sẽ là các kiến thức bổ ích giúp bạn hiểu hơn về hệ thống đường sắt và những vấn đề liên quan.": {
+      "en": "Above are information about Vietnam's major railway routes. Hopefully this will be helpful knowledge that will help you to understand more about the rail system and the issues involved.",
+      "zh": "上面是关于越南主要铁路路线的资料。 希望这能帮助你进一步了解铁路系统及所涉问题。"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên, đường sắt vẫn có nhiều lợi thế như tính ổn định và an toàn. Ngoài ra, tàu có thể vận chuyển khối lượng lớn và gần như không chịu sự tác động của thời tiết. Chi phí đi lại rẻ và có các điểm dừng trong trung tâm thành phố và nhiều tụ điểm du lịch.": {
+      "en": "The railway, however, has many advantages, such as stability and safety. In addition, the vessel can transport large amounts and is barely subject to the effects of the weather. The cost of cheap travel and there were stops in downtown and many tourist venues.",
+      "zh": "然而,铁路有着许多优点,例如稳定和安全. 此外,该船可以运输大量货物,几乎不受天气的影响。 廉价旅行的费用,市中心以及许多旅游场所都停了下来。"
+    },
+    "Tuyến đường sắt Hà Nội – Hải Phòng": {
+      "en": "Hanoi Railway – Sea Hall",
+      "zh": "河内铁路-海洋厅"
+    },
+    "Tuyến đường sắt Hà Nội – Lào Cai": {
+      "en": "Hanoi Railway – Laos Cai",
+      "zh": "河内铁路—老挝蔡"
+    },
+    "Tuyến đường sắt Hà Nội – Quán Triều Tp. Thái Nguyên": {
+      "en": "The Hanoi Railway – Tp Crown House.",
+      "zh": "河内铁路 – Tp Crown House."
+    },
+    "Tuyến đường sắt Hà Nội – TP.HCM": {
+      "en": "Hanoi Railway – TP.HCM",
+      "zh": "河内铁路-TP.HCM"
+    },
+    "Tuyến đường sắt Hà Nội – Đồng Đăng": {
+      "en": "Hanoi Railway – Coon",
+      "zh": "河内铁路-库恩"
+    },
+    "Tuyến đường sắt Kép Bắc Giang – Lưu Xá Thái Nguyên": {
+      "en": "The Yugong Rail Line – Liu Yuan",
+      "zh": "玉环铁路线——刘元"
+    },
+    "Tuyến đường sắt Kép Bắc Giang – Uông Bí – Hạ Long Quảng Ninh": {
+      "en": "The Rail Line Khexiang - The Secret U – Ha Long Guang Ning",
+      "zh": "铁路克西安线 - 秘乌 - 夏龙广宁"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng bằng đường sắt": {
+      "en": "Transported by railway",
+      "zh": "铁路运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "[Bản đồ] Hệ thống các tuyến đường sắt chính của Việt Nam": {
+      "en": "[ Map] Vietnam's Main Railway System",
+      "zh": "[地图]越南主要铁路系统."
+    },
+    "các tuyến đường sắt chính": {
+      "en": "main railways",
+      "zh": "主要铁路"
+    },
+    "như sau:": {
+      "en": "as follows:",
+      "zh": "内容如下:"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Điểm danh những tuyến đường sắt đẹp nhất Việt Nam": {
+      "en": "Score of Vietnam's Best Railways",
+      "zh": "越南最好的铁路"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đường sắt Việt Nam cho đến thời điểm hiện tại có khoảng 260 ga nhưng đa phần quy mô nhỏ và hạ tầng đã cũ, chiều dài đường ga khá ngắn. Hệ thống thông tin giữa các tuyến đường sắt không đồng bộ về kỹ thuật và công nghệ. Theo công bố, có đến gần 300 đầu máy hoạt động có đến hơn 90% đã hoạt động 30 năm trở lên. Các xe hàng và toa xe khách của đường sắt cũng được dùng lâu năm và chưa được thay mới.": {
+      "en": "The Vietnam Railroad until the present time has about 260 stations but most of the scale is small and subsurface is old, the length is quite short. The information system between railroads does not sync with technology and technology. According to the release, nearly 300 active locomotives have been active for over 90% of the next 30 years. The freight cars and passenger wagons of the railway were also long used and had not been replaced.",
+      "zh": "目前为止的越南铁路约有260个站点,但大部分规模较小,地表下较为陈旧,长度相当短. 铁路之间的信息系统不与科技同步. 根据该出品,近300台现役机车在接下来的30年中90%以上都投入使用. 铁路的货运车和客车也长期使用,没有更换."
+    },
+    "Đường sắt Việt Nam là công trình lâu đời nối liền 34 tỉnh thành được nhiều người ưa chuộng. Dưới đây là những cập nhật các tuyến đường sắt chính của Việt Nam mới nhất và những thông tin có thể bạn quan tâm về hệ thống vận tải này.": {
+      "en": "The Vietnam Railroad is a long-lived work that connects 34 provinces to popular popularity. Below are the latest Vietnam's major railroad updates and the information you might be interested in this transportation system.",
+      "zh": "越南铁路是一条长生不老的作品,连接了34个省份的通俗化. 下面是越南最新的铁路更新数据 以及你们可能感兴趣的信息"
+    },
+    "Đường sắt Việt Nam từng lọt vào danh sách Top 10 các tuyến đường sắt đẹp nhất của thế giới. Phong cảnh trải dài chiều dọc của đất nước, tuyến đường sắt Bắc Nam khiến mọi du khách đều muốn trải nghiệm ít nhất một lần trong đời.": {
+      "en": "The Vietnamese Railroad has been on the Top 10 list of the world's most beautiful railroads. The landscape extends the length of the country, the North South Railway which makes every tourist want to experience at least once in his life.",
+      "zh": "越南铁路已入选\"世界最美铁路\"十强. 该地貌延长了国家,即南北铁路的长度,使得每位游客都希望一生中至少体验一次."
+    },
+    "Đường sắt Việt Nam được cho là một trong những công nghệ lâu đời nhất hiện nay. Hệ thống đường sắt ra đời từ năm 1881 với công trình xây dựng tuyến đường sắt từ Sài Gòn đến Phú Thọ. Đây là tuyến đường đầu tiên được nhà nước xây dựng, có độ dài khoảng 70km.": {
+      "en": "The Vietnam Railroad is said to be one of the oldest technologies available today. The railway system was born from 1881 with the construction of the railway from Saigon to Fuji Tem. This is the first route built by the state, which has a length of about 70 km.",
+      "zh": "越南铁路据说是当今现存最古老的技术之一. 铁路系统从1881年随着从西贡到富士铁姆的铁路建设而诞生. 这是国家建造的第一条路线,长度约为70公里."
+    },
+    "Đường sắt có thị phần riêng trong ngành vận tải nước nhà": {
+      "en": "The railway has its own share in the domestic water transport industry",
+      "zh": "铁路在国内水上运输业中占有自己的份额."
+    },
+    "Đường sắt nối liền các tỉnh trên cả nước": {
+      "en": "The railroad connects provinces across the country",
+      "zh": "铁路连接全国各省"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Đường tàu Mường Hoa tại Sapa: Đường tàu lập kỷ lục tàu leo núi dài nhất Việt Nam, ngồi trên tàu bạn có thể ngắm nhìn toàn cảnh vẻ đẹp thiên nhiên tại thung lũng tuyệt đẹp": {
+      "en": "The Rose Road at Sapa: Vietnam's longest climbing ship record, sitting on board, you can see the entire natural beauty in the beautiful valley.",
+      "zh": "萨帕的玫瑰道:越南最长的攀登船纪录,坐上船去,可以看到美丽的山谷中整个自然美."
+    },
+    "► Đường tàu Trần Quý Cáp, Đà Lạt: Con đường đặc biệt lãng mạn vào mùa hoa mai anh đào nở với sắc hồng rực rỡ cùng sắc vàng rực của hoa dã quỳ ven đường": {
+      "en": "The Tang of the Ships of Lut, Dattt: The road is especially romantic in the morning season of the cherry blossoms blooming with bright pink and bright yellow colour of the wildflowers kneel by the side of the road",
+      "zh": "鲁特之相\"之相\"之相\"之相\"之相\"之相\"之相\"之相\":\"道\"在樱花开花的清晨一季中特别浪漫,花被明亮的粉色和明亮的黄色花被花儿跪在道边\"."
+    },
+    "► Đường tàu đèo Hải Vân: Tuyến đường độc đáo một bên là núi cao sừng sững, một bên là biển sâu thăm thẳm là cảnh tượng thiên nhiên hiếm có được nhiều du khách nước ngoài đánh giá cao": {
+      "en": "The Haeundae Pass Line: The unique one-side route is the towering mountain, one side the deep sea is a rare sight of many foreign visitors being appreciated",
+      "zh": "海恩达出行线:独有的一面路线是高山,一面是深海,是不少外国游客欣赏的罕见景象."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

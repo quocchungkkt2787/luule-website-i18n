@@ -1,0 +1,842 @@
+{
+  "route": "/blogs/goc-tu-van/icon-shipper",
+  "texts": {
+    "29 Tháng 9 2021": {
+      "en": "29 September 2021",
+      "zh": "2021年9月29日 (中文(简体) )."
+    },
+    ">>> Xem ngay:": {
+      "en": "> DHS View Now:",
+      "zh": "现在 > DHS 视图 :"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các nhân viên shipper này còn tự do khi tham gia tại các hội nhóm ship bên ngoài, và thường chỉ được tham gia một đơn vị giao hàng tại cùng một thời điểm.": {
+      "en": "These shipper employees are free to participate in the outsideship groups, and are usually only joined by a delivery unit at the same time.",
+      "zh": "这些托运人雇员可以自由参加舱外小组,通常只有交付单位同时加入."
+    },
+    "Các shipper tự do đúng như tên gọi, họ là những người hành nghề shipper nhưng hoạt động tự do không thuộc quyền quản lý của bất kỳ tổ chức, công ty vận chuyển nào cả. Họ nhận công việc giao hàng theo yêu cầu trực tiếp từ khách hàng, thanh toán thù lao, thoả thuận đều được thực hiện trực tiếp giữa cs bên với nhau.": {
+      "en": "The shippers are free as they are named, they are shippers but the free-acting act is not the management of any organization, the shipping company. They took the delivery job on a direct request from the customer, paid the fee, the deal was both made directly between cs sided with each other.",
+      "zh": "托运人是免费的,因为他们是托运人,但自由行为不是任何组织,即航运公司的管理。 他们根据客户的直接要求接受了送货工作,支付了费用,这笔交易都是由cs直接和对方进行."
+    },
+    "Các đơn vị vận chuyển cung cấp đa dạng hình thức giao hàng. Các dịch vụ giao hàng chuyển phát thường, giao hàng chuyển phát nhanh và hình thức giao hàng hoả tốc. Tuỳ theo các nhu cầu, mặt hàng mà mức chi phí vận chuyển của các kiện hàng sẽ không giống nhau.": {
+      "en": "Transport units provide diverse delivery formats. Regular delivery services, rapid delivery and form of express delivery. Depending on the needs, the goods on which the transportation costs of the packages will not be the same.",
+      "zh": "运输单位提供不同的交付方式。 定期快递服务,快递快递和快递形式. 根据需要,包件运输成本不相同的货物."
+    },
+    "Các đơn vị vận chuyển thường nhận nhiệm vụ vận chuyển hàng hoá theo kiện. Các đơn vị này thường có hệ thống bưu cục, nhân viên, kho hàng, hệ thống rộng lớn để phục vụ hoạt động này. Khách hàng có thể dễ dàng gửi hàng đến mọi địa điểm mà khách mong muốn, thông thường chỉ có thông tin địa điểm nhận hàng, lấy hàng, thông tin liên hệ.": {
+      "en": "Transporting units typically receive delivery duties under lawsuit. These units usually have postal systems, personnel, warehouses, extensive systems to serve this activity. Customers can easily send the product to every location the customer wants, usually only the location to receive the package, pick up the merchandise, contact information.",
+      "zh": "运输单位通常根据诉讼接受交货义务。 这些单位通常有邮政系统,人员,仓库,广泛的系统为这种活动服务. 客户可以轻松地将产品发送到客户想要的每一个地点,通常只有接收包裹的地点,取出商品,联系信息."
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển Bắc Trung Nam Lưu Lê": {
+      "en": "North Central Liu Transport Service",
+      "zh": "刘中北交通局."
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Icon Shipper": {
+      "en": "Icon Shipper",
+      "zh": "图标发货人"
+    },
+    "Icon shipper (xe máy)": {
+      "en": "Icon shipper (cycle)",
+      "zh": "图标托运人(周期)"
+    },
+    "Icon shipper (ô tô)": {
+      "en": "Icon shipper",
+      "zh": "图标托运人"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khách hàng có nhu cầu giao hàng sẽ gửi yêu cầu lên nhóm, kèm thông tin để các shipper vào nhận việc hoặc thoả thuận thêm. Ngày nay với nền tảng ứng dụng giao hàng phát triển, các shipper công nghệ vẫn thường tham gia hội nhóm để nhận thêm việc ở hội nhóm tự do này.": {
+      "en": "Customers with demand of delivery will send requests to the group, accompanying information for the shippers to take the job or further deal. Today with the development delivery application basis, technology shippers often join the group to receive more work in this liberal group.",
+      "zh": "有交货要求的客户将向小组提出请求,并附上信息,供托运人承担工作或进一步交易。 今天随着开发交付应用基础的建立,技术发货人常常加入这个小组,在这个自由小组中接受更多的工作."
+    },
+    "Kinh nghiệm gửi hàng Hà Nội đi Sài Gòn": {
+      "en": "Experience of sending Hanoi to Saigon",
+      "zh": "将河内送往西贡的经验"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mẫu Icon Shipper đẹp & Phân loại shipper hoạt động trên thị trường hiện nay": {
+      "en": "Fine Icon Shipper & Category shipper operating on current markets",
+      "zh": "精细图标托运人和在现市场上运营的类别托运人"
+    },
+    "Mẫu icon shipper 1": {
+      "en": "icon shipper1",
+      "zh": "图标托运人1"
+    },
+    "Mẫu icon shipper 2": {
+      "en": "icon shipper 2",
+      "zh": "图标托运人 2"
+    },
+    "Mẫu icon shipper 3": {
+      "en": "Model of icon shipper 3",
+      "zh": "图标托运人模式 3"
+    },
+    "Mẫu icon shipper 4": {
+      "en": "icon shipper 4",
+      "zh": "图标托运人 4"
+    },
+    "Mẫu icon shipper 5": {
+      "en": "icon shipper 5",
+      "zh": "图标托运人 5"
+    },
+    "Mẫu icon shipper 6": {
+      "en": "icon shipper 6",
+      "zh": "图标托运人 6"
+    },
+    "Mẫu icon shipper 7": {
+      "en": "icon shipper 7",
+      "zh": "图标托运人 7"
+    },
+    "Mẫu icon shipper 8": {
+      "en": "icon shipper 8",
+      "zh": "图标发件人 8"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một số mẫu icon shipper đẹp": {
+      "en": "Some fine shipper icon samples",
+      "zh": "一些精细的托运人图标样本"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu vận chuyển hàng hoá tại các thành phố lớn ngày càng tăng cao, vì thế mà các dịch vụ giao hàng, shipper hoạt động ngày càng đa dạng. Mỗi dịch vụ giao hàng sẽ có những bộ nhận diện thương hiệu với hình icon shipper khác nhau để khách hàng dễ dàng nhận biết, phân biệt. Không chỉ là giao hàng mà còn là giao đồ ăn, đi chợ hộ… shipper đều nhận hỗ trợ nhằm mang đến dịch vụ tốt nhất cho khách hàng. Cùng khám phá thêm phân loại shipper đang hoạt động trên thị trường, lựa chọn cho mình dịch vụ tốt nhất, phù hợp nhất bạn nhé.": {
+      "en": "The demand for freight in large cities is increasing, so the delivery services, shipper, are increasingly diverse. Each delivery service will have brand recognitions with different shipper iconoids so that customers can easily identify, distinguish. It's not just the delivery, it's the delivery of food, it's the market, it's all in favor of bringing the best service to the customer. Let's explore more shipper classification operating on the market, select your best service, best suit you.",
+      "zh": "大城市对货运的需求正在增加,因此,交付服务,托运人,日益多样化. 每项交付服务将具有不同托运人图标的品牌识别,以便客户能够容易地识别、区分。 不仅是送货,是送粮,是市场,都赞成给客户带来最好的服务. 让我们探索更多的托运人分类 在市场上运行, 选择你最好的服务, 最适合你。"
+    },
+    "Nhóm icon shipper công ty vận chuyển": {
+      "en": "The icons shipper company",
+      "zh": "图标托运人公司"
+    },
+    "Nhóm icon shipper ứng dụng công nghệ": {
+      "en": "Tech Application icon group",
+      "zh": "Tech 应用程序图标组"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những công ty vận chuyển hàng hoá này cũng được nhận diện với hình ảnh riêng. Có thể kết tên một số đơn vị như: Vận tải Lưu Lê, Viettel Post, Vietnam Post, Lalamove, Giao hàng tiết kiệm, Giao hàng nhanh, Ahamove, J&T Express....": {
+      "en": "These freight companies were also identified with their own images. You can name some units such as: Liu Transport, Vittel Post, Vietnam Post, Lalamove, Savings, Fast Transit, Ahamove, J&T Express....",
+      "zh": "这些货运公司也被确定为有自己的形象。 你可以命名一些单位,如:刘运,维泰尔邮报,越南邮报,拉拉莫夫,储蓄,快递,阿哈莫夫,J&T Express..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu bạn quan tâm hơn tới lĩnh vực này, có thể truy cập thêm vào website của": {
+      "en": "If you're more interested in this field, you can add additional access to the website of",
+      "zh": "如果您对这个领域更感兴趣,您可以添加额外的访问权限到网站"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Shipper chuyên biệt của cửa hàng": {
+      "en": "Shipper special store",
+      "zh": "托运人特别商店"
+    },
+    "Shipper của các công ty vận chuyển": {
+      "en": "Shipper of Transporting Companys",
+      "zh": "运输公司的托运人"
+    },
+    "Shipper của các ứng dụng công nghệ": {
+      "en": "Shipper of Technology Applications",
+      "zh": "技术应用托运人"
+    },
+    "Shipper giải pháp giao hàng nhanh chóng tiết kiệm": {
+      "en": "Shipper delivers quickly save",
+      "zh": "飞船快送货"
+    },
+    "Shipper tự do trên các hội nhóm": {
+      "en": "Shipper Free on Groups",
+      "zh": "组装自由的托运人"
+    },
+    "Sự phát triển đa dạng của các ứng dụng công nghệ giao hàng này thực sự là giải pháp hữu ích trong thời đại công nghệ hiện nay.": {
+      "en": "The diverse development of these delivery technology applications is indeed a useful solution in today's technology age.",
+      "zh": "这些交付技术应用的多样化发展确实是当今技术时代的有用解决方案."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời đại công nghệ thông tin phát triển, các ứng dụng được ra đời phục vụ đời sống của con người, làm cho cuộc sống trở nên tiện lợi hơn bao giờ hết. Với nhu cầu giao hàng, khách hàng có thể dễ dàng tìm kiếm shipper thông qua các ứng dụng công nghệ như Grab, Be, Mygo, Gojek, Beamin,... Mỗi ứng dụng đều có những dịch vụ shipper riêng, có quy định và đặc điểm riêng biệt. Mỗi đơn vị đều có hình ảnh, icon shipper để khách hàng dễ dàng nhận diện ra họ trong những thương hiệu khác.": {
+      "en": "The age of technology developed, applications were created for human life, making life more convenient than ever. With the demand for delivery, customers can easily search shipper through technology applications such as Grab, Be, Mygo, Gojek, Beamin,... Each application has its own shipper services, its own regulations and features. Each unit has pictures, icon shipper so the customer can easily identify them in other brands.",
+      "zh": "技术发展的时代,应用是为人类生活创造的,使得生活比以往任何时候都更加方便. 随着对交货的需求,客户可以通过Grab,Be,Mygo,Gojek,Beamin等技术应用方便地搜索托运人. 每个应用都有自己的托运人服务,自己的规定和特点. 每个单位都有图片,图标托运人,这样客户就可以轻松地在其他品牌中识别."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển Bắc Nam nhanh nhất": {
+      "en": "The fastest North South Transportation",
+      "zh": "南北运输最快"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tại Lưu Lê nhé. Tại đây chúng tôi chia sẻ thông tin đa dạng, đầy đủ cho lĩnh vực này, chia sẻ thêm các mẹo vận chuyển hàng hoá rất bổ ích. Hy vọng bạn sẽ có được thứ mình cần tìm.": {
+      "en": "It's Liu. Here we share diverse information, fully for the field, sharing additional freight tips very rewarding. Hope you get what you need.",
+      "zh": "是刘'. 在这里,我们分享各种信息,完全用于外地,分享额外的运费提示非常有益。 希望你得到你需要的东西。"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về phía shipper, họ sẽ cần cung cấp đầy đủ các thông tin cá nhân cần thiết khi đã đáp ứng các điều kiện về pháp lý, sức khoẻ mà nhà quản lý ứng dụng giao hàng đặt ra sẽ được xuất hiện nên hệ thống. Sau khi đã đăng ký thành công hợp đồng để trở thành nhân viên giao hàng tại đơn vị, shipper sẽ được cấp tài khoản người giao hàng, đồng phục kèm các hình ảnh icon shipper đặc trưng của từng đơn vị. Ứng dụng chính là bên thứ ba để kết nối giữa nhân viên giao hàng với khách có nhu cầu giao hàng. Các giao dịch sẽ được thực hiện ngay trên ứng dụng và được phía đơn vị đó quản lý, nhằm đảm bảo đúng và đủ quyền lợi của hai bên.": {
+      "en": "On the shipper side, they will need to provide the required personal information once they have met the legal, healthy conditions that the delivery manager will be shown to be the system. Having successfully registered contract to become a delivery employee at the unit, shipper will be given the delivery account, the uniform accompanying the features of each unit. The main application is the third party to connect the delivery staff with customers in need of delivery. The transactions will be made immediately above the application and managed by that unit's side, to ensure the right and sufficient rights of the two sides.",
+      "zh": "在托运人方面,一旦他们满足了将证明交货经理是系统的合法、健康条件,他们就需要提供必要的个人信息。 在成功登记合同成为该单位的交货雇员后,托运人将获得交付账户,每个单位的特征所附带的制服。 主要应用是第三方将送货人员与需要送货的客户联系起来. 交易将在申请上方进行,并由该单位管理,以确保双方的权利和充分的权利。"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với những chia sẻ về phân loại shipper, hình ảnh icon shipper đi kèm trên đây rất hữu ích để giúp bạn hiểu rõ hơn về hoạt động ngành nghề này. Nghề vận tải hàng hoá rất đa dạng, từ giao hàng nhanh khu vực nội thành, chuyển phát toàn quốc, vận tải siêu trường quốc tế, v.v...": {
+      "en": "With the share of the shipper classification, the icon shipper accompanying above is useful to help you better understand this occupation. The freight industry is diverse, from rapid delivery of the inner city, national transfers, international superfields, etc.",
+      "zh": "根据托运人的分类份额,上面所附的图标托运人有助于帮助您更好地理解这一职业。 货运业种类繁多,从内城快递,国家转移,国际超级场等."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây là nhóm shipper chuyên vận chuyển hàng hoá cho một công ty, tổ chức hay cửa hàng. Shipper ruột là cái tên thường được sử dụng cho nhóm shipper này. Các shipper hoạt động giống như nhân viên chính thức của công ty, chuyên vận chuyển hàng hoá và thường không được nhận đơn ngoài.": {
+      "en": "This is the shipper group that specializes in freight for a company, organization, or store. Shipper gut is the name commonly used for this shipper group. The shippers act like the company's official staff, which specializes in shipping goods and are often not given an external application.",
+      "zh": "这是专门为公司、组织或商店进行货运的托运人小组。 发货人沟是这个发货集团常用的名称. 发货人的行为就像公司的官方工作人员一样,他们专门从事发货业务,往往得不到外部申请."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đối tượng shipper này thường hoạt động tự do hoặc riêng lẻ tập hợp thành từng nhóm. Bạn thường thấy các hội nhóm shipper nội thành Hà Nội, shipper khu vực Quận 9 Sài Gòn, shipper Hoà Vang Đà Nẵng… đây chính là những nơi để shipper và người muốn giao hàng gặp gỡ, tìm kiếm vào trao đổi với nhau. Các hội nhóm này là nền tảng cơ bản, đầu tiên của hoạt động giao hàng hiện nay. Các hội nhóm phát triển rất mạnh mẽ, lượng tương tác rất cao.": {
+      "en": "This shipper object usually operates freely or separately grouped into groups. You often see the group of internal shippers of Hanoi, shipper of the district of 9 Saigon, shipper of Xbox Dyer... these are the places where shipper and who want to deliver meet, seek to exchange. These groups are the basic, first foundation of the current delivery operation. Groups grow very strongly, very high levels of interaction.",
+      "zh": "该发货人物体通常可以自由操作或单独分组。 你经常看到河内的内部托运人,西贡九区的托运人,Xbox Dyer的托运人... 这些是托运人和希望交货的托运人会面,寻求交换的地方. 这些团体是目前交付业务的基本和第一基础。 团体发展得非常有力,互动水平很高。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

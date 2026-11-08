@@ -1,0 +1,794 @@
+{
+  "route": "/blogs/goc-tu-van/lam-shipper-thu-nhap-bao-nhieu",
+  "texts": {
+    "27 Tháng 10 2021": {
+      "en": "27 October 2021",
+      "zh": "2021年10月27日 (中文(简体) )."
+    },
+    ">>> Xem ngay: Kinh nghiệm": {
+      "en": "> ‹ See now: Experience",
+      "zh": "> ‹ 参见:经验"
+    },
+    ">>> Xem thêm: Kinh nghiệm": {
+      "en": "> DHS See More: Experience",
+      "zh": "> DHS 更多信息:经验"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần có kỹ năng giao tiếp tốt và khả năng xử lý vấn đề với khách khi nhận hàng. Nếu không biết cách xử lý, số đơn bạn có thể nhận sẽ giảm đi.": {
+      "en": "You need good communication skills and the ability to handle problems with customers when receiving them. If you do not know how to handle it, the singles you may receive will be reduced.",
+      "zh": "需要良好的沟通技能和在接待客户时处理问题的能力. 如果你不知道如何处理它,你可能收到的单曲会减少。"
+    },
+    "Bạn cần phải thông thuộc đường đi, có thể tổ chức lộ trình giao hàng linh hoạt, nếu không thời gian và công sức của bạn sẽ không được tối ưu hóa. Chỉ dựa vào Google Maps, bạn có thể phải di chuyển quãng đường dài hơn bình thường và giảm hiệu suất làm việc.": {
+      "en": "You need to know the route, you can organize the flexible delivery route, if you don't have time and energy you won't optimize. Just based on Google Maps, you may have to move longer distance than usual and reduce performance.",
+      "zh": "要了解路线,可以组织灵活投递路线,如果时间不够,精力不够,就无法优化. 仅仅根据Google地图,你可能需要移动比平时更长的距离并降低性能."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Còn nếu làm trong các công ty vận chuyển thì mức lương của shipper sẽ ở trong khoảng 5.000.000 – 8.000.000 VNĐ. Mức lương này sẽ tùy thuộc vào từng đơn vị vận chuyển. Ngoài mức lương cơ bản, các shipper sẽ được thêm tiền hoa hồng từ mỗi đơn giao thành công.": {
+      "en": "If you work in shipping companies, shipper's salary will be within 5,000,000 – 8,000,000 VNA. This salary will depend on each of the transport units. In addition to basic wage, the shippers will be added commissions from each successful delivery form.",
+      "zh": "如果您在航运公司工作,托运人的工资将不超过5,000,000 –8,000,000 VNA. 这一工资取决于每个运输单位。 除了基本工资外,托运人还将从每份成功交付单中加收佣金。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công việc của một shipper là gì?": {
+      "en": "What is the work of a shipper?",
+      "zh": "托运人的工作是什么?"
+    },
+    "Công việc của một shipper là nhận hàng hóa và thông tin người nhận từ phía người giao và giao hàng đến cho người nhận. Trong quá trình này, shipper còn phải thực hiện nhiều công việc khác như: sắp xếp hàng hóa để quá trình giao hàng diễn ra nhanh hơn, gọi điện cho người nhận trước khi giao hàng để xác nhận thông tin, v.v...": {
+      "en": "The work of a shipper is to take the receiver's goods and information from the receiver's side and deliver the delivery to the receiver. During this process, shipper had to perform many other tasks such as: sorting the cargo to make the delivery process go faster, calling the receiver before delivering information, etc.",
+      "zh": "托运人的工作是将接收人的货物和资料从接收人一方带走并交付给接收人。 在这一过程中,托运人必须履行许多其他任务,例如:对货物进行分拣,使交付过程更快地进行,在发送信息之前给接收人打电话等。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện nay, shipper có hai loại: Một là shipper làm việc cho một công ty vận chuyển; Hai là shipper làm việc tự do.": {
+      "en": "Currently, shipper has two categories: One is shipper working for a shipping company; Two is shipper working freely.",
+      "zh": "目前,托运人分为两类:一类是为一家航运公司工作的托运人; 二是托运人自由工作。"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hằng ngày, shipper phải gặp nhiều đối tượng khách khác nhau. Nếu may mắn gặp những khách đúng giờ, không đòi hỏi nhiều thì việc ship hàng sẽ rất dễ dàng. Nếu không may gặp phải những khách hàng thiếu văn minh, thường xuyên hẹn nhưng không lấy hàng sẽ gây rắc rối trong quá trình giao hàng.": {
+      "en": "Every day, shipper meets various guest subjects. If we're lucky to meet our customers on time, we don't expect much, then the stockship will be easy. If unfortunately encounters with uncivilized customers, regularly dating but not taking the load will cause trouble in the delivery process.",
+      "zh": "每天,托运人都会遇到各种客座科目. 如果我们幸运地准时与顾客见面,我们并不期望太多,那么股票就很容易了. 如果不幸地遇到不文明的顾客,定期约会但不接货会给送货过程带来麻烦."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Làm Shipper thu nhập bao nhiêu": {
+      "en": "How much does Shipper make?",
+      "zh": "船夫赚多少钱?"
+    },
+    "Làm shipper thu nhập bao nhiêu": {
+      "en": "How much does shipper make?",
+      "zh": "托运人能赚多少钱?"
+    },
+    "Làm shipper thu nhập bao nhiêu? Làm shipper có yêu cầu bằng cấp không?": {
+      "en": "How much does shipper make? Does the shipper require a degree?",
+      "zh": "托运人能赚多少钱? 托运人是否需要学位?"
+    },
+    "Làm shipper thu nhập bao nhiêu? Lương của các shipper có cao không?": {
+      "en": "How much does shipper make? Were the shippers' wages high?",
+      "zh": "托运人能赚多少钱? 托运人的工资是否很高?"
+    },
+    "Lương của shipper có cao không?": {
+      "en": "Is shipper's salary high?",
+      "zh": "托运人的工资高吗?"
+    },
+    "Muốn làm shipper bạn cần có phương tiện cá nhân để vận chuyển hàng hóa và thiết bị liên lạc.": {
+      "en": "To make shipper you need personal means to transport goods and communications equipment.",
+      "zh": "使托运人需要个人手段来运输货物和通信设备。"
+    },
+    "Muốn trở thành một shipper thì bạn cũng phải có một sức khỏe tốt, vì bạn sẽ phải lái xe trên đường trong một thời gian dài. Nhất là những người làm shipper ở các thành phố lớn, mật độ di chuyển trên đường phố rất cao, không khí ô nhiễm thì sẽ ảnh hưởng nghiêm trọng đến sức khỏe.": {
+      "en": "To become a shipper, you must also have a good health, as you will have to drive on the road for a long time. Especially those who make shippers in major cities, the density of street travel is very high, the air of pollution will have a serious impact on health.",
+      "zh": "要成为一名托运人,你还必须身体健康,因为你必须在路上长时间开车。 特别是那些在大城市做托运人的人,街头旅行的密度非常高,污染的空气会对健康产生严重影响."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài ra, nhân viên giao nhận hàng hóa là những người thường xuyên lưu thông trên đường và không thể kiểm soát hết các rủi ro, ví dụ như trong các vụ tai nạn đường bộ, nguy hiểm rình rập bất cứ khi nào. Nhìn chung, nghề shipper là một nghề mang lại thu nhập khá cao nhưng đồng thời bạn cũng phải chống chọi với nhiều khó khăn, vất vả chứ không hề đơn giản như nhiều người nghĩ.": {
+      "en": "Additionally, delivery personnel who receive goods are people who regularly travel on the road and cannot control all the risks, such as in road accidents, the danger of stalking at any time. In general, the shipper occupation is a fairly high income but at the same time you also have to contend with many difficulties, difficulties, and not as simple as many people think.",
+      "zh": "此外,接受货物的送货人员是经常上路的人,无法控制所有风险,例如道路事故、随时跟踪的危险。 总的来说,托运人的职业是相当高的收入,但与此同时,你还必须面对许多困难和困难,而不是像许多人认为的那样简单。"
+    },
+    "Nhiều người nghĩ rằng shipper là một công việc nhàn hạ, thu nhập cao, chỉ việc ngồi xe đi giao hàng mà vẫn có thiền lương hấp dẫn. Tuy nhiên, thực tế, để có được số tiền này, người giao hàng cũng phải đối mặt với nhiều thử thách, khó khăn mà người ngoài cuộc khó có thể hiểu được.": {
+      "en": "Many people think that shipper is a low-cost job, high-income job, just sitting in a delivery car and still having attractive pay meditations. However, in fact, to get this money, the deliveryer also faces many challenges, difficulties that outsiders are hard to understand.",
+      "zh": "许多人认为托运人是一个低成本,高收入的工作,只是坐在快递车上,仍然有吸引人的报酬冥想. 然而,事实上,为了得到这笔钱,送货人也面临着许多挑战,外人难以理解的困难."
+    },
+    "Nhân viên giao hàng có cần bằng cấp gì không?": {
+      "en": "Does the delivery staff need a degree?",
+      "zh": "接生员需要学位吗?"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu bạn là một shipper tự do, mức lương phụ thuộc vào lượng hàng, khoảng cách, loại hàng mà bạn giao.Thông thường, mức thu nhập của shipper này không ổn định và thường tính theo ngày. Mức thu nhập có thể thấp hơn so với những shipper của các dịch vụ chuyển hàng hóa nhưng nó lại có ưu điểm về thời gian, shipper có thể linh hoạt làm bất cứ khi nào rảnh.": {
+      "en": "If you're a free shipper, the wages depend on the amount, the distance, the kind of goods you deliver. Typically, this shipper's income levels are unstable and typically by date. The income level may be lower than the shippers of the freight services but it has an advantage in time, the shipper can be flexible at any time.",
+      "zh": "如果你是免费的托运人,工资取决于你交付的货物的数量,距离,种类. 通常情况下,这种托运人的收入水平不稳定,而且一般按日期计算。 收入水平可能低于货运服务的托运人,但是在时间上具有优势,托运人可以随时灵活行事。"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Qua bài viết này, chắc bạn cũng đã trả lời được câu hỏi: Làm shipper lương bao nhiêu một tháng? Thu nhập shippe có cao không? Ngoài ra, nếu bạn đang muốn vận chuyển hàng hóa Bắc Nam thì hãy tham khảo dịch vụ vận chuyển của đơn vị vận tải Lưu Lê tại": {
+      "en": "By means of this article, you too may have answered the question: How much does shipper pay a month? Is the shippe income high? In addition, if you're trying to transport North South goods, refer to the transport services of the Liu at",
+      "zh": "通过本条,你也可以回答问题: 托运人一个月付多少钱? 船皮收入高吗? 此外,如果试图运输南北物资,则指刘航的运输服务."
+    },
+    "Shipper có phải là công việc nhàn hạ, lương cao không?": {
+      "en": "Shipper is a low-profile, well-paid job?",
+      "zh": "船夫是个低调,高薪的工作?"
+    },
+    "Shipper hay còn gọi là nhân viên giao hàng là công việc được rất nhiều người quan tâm. Công việc này không yêu cầu cao nhưng đòi hỏi người làm việc phải chăm chỉ, có thể làm việc ở mọi khoảng thời gian. Bởi đặc trưng của nhân viên giao hàng phụ thuộc nhiều vào bên phía đơn vị giao và người nhận hàng. Do đó, không có thời gian làm việc cố định, có thể phải giao hàng cả buổi trưa hoặc buổi tối.": {
+      "en": "Shipper is also known as the delivery staff as a work of great interest. This work does not require high demands but requires hard work, which can be done at all times. By the characteristic of the delivery staff depending heavily on the side of the delivery unit and the receiver. Thus, without fixed working time, it may be necessary to deliver both noon and evening.",
+      "zh": "托运人也被称为送货人员,是一件极受关注的作品. 这项工作不需要很高的要求,而是需要艰苦的工作,这在任何时候都可以做到。 以交付人员主要依赖交付单元和接收器的一侧为特征。 因此,如果没有固定的工作时间,可能既需要中午,也需要晚上。"
+    },
+    "Shipper không yêu cầu cao về kinh nghiệm hay bằng cấp mà cần có một số kỹ năng cơ bản để hoàn thành công việc một cách tốt nhất, mang lại hiệu suất làm việc cao. Một số yêu cầu cần có của một nhân viên giao hàng:": {
+      "en": "Shipper does not require a high degree of experience or degree that requires some basic skills to accomplish the work best, bringing high performance. Some requests are required by a delivery employee:",
+      "zh": "托运人不需要高度的经验或程度,不需要一些基本技能来完成最佳的工作,带来高性能. 分娩雇员需要一些要求:"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong thời buổi hiện đại như ngày nay, nhu cầu sử dụng hàng hóa và dịch vụ của mọi người là rất cao. Đặc biệt là dịch vụ giao nhận hàng tận nơi. Điều này đã tạo ra một công việc là shipper - người vận chuyển. Nhiều người thắc mắc lương shipper có cao không? Làm shipper thu nhập bao nhiêu? Để có câu trả lời hãy tham khảo ngay bài viết sau đây nhé.": {
+      "en": "In modern times as today, the demand for people's goods and services is very high. In particular, the delivery service takes the place. This created a job as shipper - Transporter. Many wonder if shipper wages are high? How much does shipper make? Please refer to the following article as your answer.",
+      "zh": "在当今的现代,对人们的商品和服务的需求非常高. 特别是送货服务就位. 这创造了托运人-运输商的工作。 许多人想知道托运人的工资是否很高? 托运人能赚多少钱? 请参看以下条款作为你的回答。"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "gửi hàng HCM đi Hà Nội": {
+      "en": "Send HCM to Hanoi",
+      "zh": "向河内发送母国措施"
+    },
+    "nhé.": {
+      "en": "Okay.",
+      "zh": "好吧,我说..."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa Hà Nội Sài Gòn": {
+      "en": "Transportation of Hanan Saigon",
+      "zh": "花南西贡运输"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

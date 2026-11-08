@@ -1,0 +1,814 @@
+{
+  "route": "/blogs/goc-tu-van/con-an-xa-co-quyen-bat-xe-khong",
+  "texts": {
+    "18 Tháng 11 2021": {
+      "en": "18 November 2021",
+      "zh": "2021年11月18日 (中文(简体) )."
+    },
+    ">>> Xem ngay:": {
+      "en": "> DHS View Now:",
+      "zh": "现在 > DHS 视图 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Con an xã có quyền bắt xe không": {
+      "en": "Do you have the right to take the car?",
+      "zh": "你有权利坐车吗?"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các trường hợp phương tiện không có gương chiếu hậu.": {
+      "en": "Media cases don't have rear-view mirrors.",
+      "zh": "媒体案件没有后视镜."
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công an xã có quyền bắt xe không": {
+      "en": "Do the police have the right to take the car?",
+      "zh": "警察有权开车吗?"
+    },
+    "Công an xã có quyền bắt xe không?": {
+      "en": "Do the police have the right to take the car?",
+      "zh": "警察有权开车吗?"
+    },
+    "Công an xã có quyền bắt xe không? Thẩm quyền của công an xã là gì?": {
+      "en": "Do the police have the right to take the car? What is the authority of the police?",
+      "zh": "警察有权开车吗? 警察的权威是什么?"
+    },
+    "Công an xã có quyền bắt xe vi phạm giao thông trong một số trường hợp": {
+      "en": "Social police have the right to arrest traffic violations in some cases",
+      "zh": "在某些情况下,社会警察有权逮捕交通违规者。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện việc lực lượng công an của thành phố tham gia xử phạt các phương tiện giao thông tại địa phương ngày càng nhiều trên thực tế. Vậy, theo pháp luật, công an xã có quyền bắt xe không? Hãy tham khảo ngay bài viết sau đây!": {
+      "en": "The fact that the city's police forces participate in the punishment of local vehicles is increasingly in practice. So, by law, do the police have the right to take the car? Consult the following article immediately!",
+      "zh": "该市的警察部队参与惩罚当地车辆的事实在实践上越来越明显. 所以,根据法律,警察有权利坐车吗? 立即查阅下一篇文章!"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi an toàn giao thông đường bộ gây ảnh hưởng nghiêm trọng đến chất lượng sống hoặc các vấn đề an ninh xã hội của người dân trong khu vực quản lý.": {
+      "en": "When road traffic safety severely affects the quality of life or the social security issues of the people in the management area.",
+      "zh": "当道路交通安全严重影响了管理区内人民的生活质量或社会保障问题时."
+    },
+    "Khi nhận thấy tình hình vi phạm giao thông tại khu vực ngày càng nghiêm trọng và cần phải có biện pháp can thiệp để tránh ùn tắc giao thông khi có diễn biến phức tạp.": {
+      "en": "When it is observed that traffic violations in the area are becoming more serious and that there is a need for interventions to avoid traffic traffic traffic jams when complex developments occur.",
+      "zh": "据观察,该地区的交通违法行为正变得更加严重,在出现复杂事态发展时,需要采取干预措施来避免交通堵塞。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lực lượng công an xã chỉ được tham gia tổ chức kiểm tra, giám sát đảm bảo trật tự, an toàn giao thông đường bộ khi được sự cho phép của người có thẩm quyền. Lực lượng này chỉ được quyền thực hiện các biện pháp xử phạt với hành vi vi phạm nếu có Quyết định hoặc Kế hoạch huy động của người có thẩm quyền.": {
+      "en": "Social security forces are allowed only to participate in the inspection organization, monitoring order, road safety when authorized by the authorities. This force is only authorized to carry out sanctions with violations if there is a decision or campaign plan of the authority.",
+      "zh": "经有关部门批准,社会安全部队方可参加监察组织,监察秩序,道路安全工作. 这支部队只有在当局有决定或竞选计划时,才有权执行违反制裁。"
+    },
+    "Lực lượng công an xã/ phường sẽ được yêu cầu phối hợp với cảnh sát đường bộ tham gia tuần tra, thực thi pháp luật và đảm bảo an toàn giao thông đường bộ. Trong những trường hợp sau đây:": {
+      "en": "Social/City police forces will be asked to coordinate with road police to participate in patrols, enforce laws and secure road transport. In the following cases:",
+      "zh": "将要求社会/城市警察部队与公路警察协调,参加巡逻、执行法律和保障公路运输安全。 在下列情况下:"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài ra, để được hỗ trợ về quá trình vận tải, vận chuyển an toàn thì hãy truy cập website của Lưu Lê tại địa chỉ:": {
+      "en": "Also, for support in the transport process, safe transport, go to Liu's website at the address:",
+      "zh": "另外,为了支持运输流程,安全运输,请到刘某的网址:"
+    },
+    "Như vậy, có thể khẳng định: Công an xã có quyền được bắt xe. Tuy nhiên quyền này bị hạn chế, chỉ xảy ra trong một số trường hợp nhất định chứ không được bắt xe trong mọi trường hợp.": {
+      "en": "Thus, it can be asserted: The police have the right to arrest cars. However, this right is limited, which occurs only in certain cases, not in any case.",
+      "zh": "因此,可以断言: 警察有权逮捕汽车。 然而,这项权利是有限的,只在某些情况下发生,绝不是在任何情况下发生。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhằm đảm bảo an toàn giao thông trên địa bàn, hầu hết các xã thường hiện nay đều có một đội công an đi tuần tra giao thông tại các khu đông người. Tuy nhiên, việc tuần tra giao thông này có hợp pháp hay không?": {
+      "en": "In order to secure traffic safety on the grounds, most of the society currently has a police patrol patrol in densely populated areas. However, is this traffic patrol legal?",
+      "zh": "为了确保地面交通安全,社会多数地区目前在人口稠密地区有警察巡逻。 但是,这个交通巡逻是合法的吗?"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những trường hợp công an xã có quyền bắt xe?": {
+      "en": "Where the police have the right to take cars?",
+      "zh": "哪里的警察有权开车?"
+    },
+    "Những đối tượng điều khiển xe khi chưa đủ tuổi điều khiển phương tiện theo quy định của pháp luật.": {
+      "en": "Objects to control cars when they are not old enough to direct vehicles according to the rules of law.",
+      "zh": "管制车辆的物体,当其年限不足,不能按照法律规定指挥车辆时."
+    },
+    "Những đợt cao điểm của giao thông, vận tải trong khu vực nhằm đảm bảo an toàn giao thông theo chỉ đạo của các Bộ về chỉnh đốn trật tự, an toàn xã hội của khu vực.": {
+      "en": "The peaks of traffic, transportation in the area to ensure traffic safety at the direction of the Ministry of Order, Social Safety of the area.",
+      "zh": "交通高峰,区内交通要按照秩序,社会安全部的指示保证交通安全."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo quy định tại Điều 7 Thông tư 47/2011/TT-BCA hướng dẫn Nghị định 27/2010/NĐ-CP quy định thì công an thành phố có thể phối hợp với Cảnh sát giao thông theo dõi, kiểm tra, giám sát an toàn giao thông trong một số trường hợp cần thiết do Bộ Công an ban hành. Lực lượng Công an xã chỉ được phép hoạt động tuần tra, giám sát trên những tuyến đường thuộc khu vực quản lý và được phép xử lý các hành vi vi phạm trật tự, an toàn khi tham gia giao thông.": {
+      "en": "By regulation at Article 7 The 47/2011/TT-BCA Guides Parliament 27/2010/NC Rules the city's police can coordinate with traffic police watching, checking, monitoring traffic safety in some cases required by the Department of Public Affairs. Social Security forces are allowed to operate patrols, monitors on routes in the management area and are allowed to handle orderly, safe traffic violations.",
+      "zh": "根据第七条的规定 议会指南 27/2010/NC 规定该市的警察可以与交通警察协调,在公共事务部要求的某些情况下监视,检查,监督交通安全. 允许社保部队在管理区内进行巡查,巡查路线,并允许处理有秩序,安全的交通违法行为."
+    },
+    "Theo đó, lực lượng công an xã có quyền dừng phương tiện, kiểm tra để xử lý các hành vi vi phạm trật tự an toàn giao thông như:": {
+      "en": "According to this, the police have the right to stop vehicles, testing to handle traffic safety violations such as:",
+      "zh": "据此,警察有权拦截车辆,进行测试,以处理违反交通安全的行为,例如:"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong thời gian tổ chức lễ kỷ niệm; các sự kiện chính trị – xã hội; hoạt động thể dục, thể thao lớn trong khu vực.": {
+      "en": "During the celebration of the celebration; political events – society; physical activity, large sports in the area.",
+      "zh": "庆典期间; 政治活动–社会; 体育活动, 该地区的大型运动."
+    },
+    "Trong trường hợp, công an xã không nhận được một trong 2 văn bản này thì mọi biện pháp xử lý sẽ không phù hợp với quy định của pháp luật. Khi đó, người dân có quyền yêu cầu các lực lượng này xuất trình giấy tờ vận động để chứng minh thẩm quyền.": {
+      "en": "In the event that the social police did not receive one of these two texts, any treatment would be out of harmony with the rule of law. At that time, the people had the right to ask these forces to show the campaign papers to prove the authority.",
+      "zh": "如果社会警察没有收到上述两种文本中的一种,任何待遇都不符合法治。 当时,人民有权要求这些部队出示竞选文件来证明权威."
+    },
+    "Trong trường hợp, lực lượng Cảnh sát giao thông không thể đi cùng lực lượng công an xã/ phường thì việc tuần tra, giám sát giao thông của công an xã/phường được thực hiện theo kế hoạch đã được cơ quan có thẩm quyền phê duyệt.": {
+      "en": "In the event that the traffic police were unable to travel with the social/community police force, the patrol, the traffic monitoring of the public police/conservation was carried out according to the plan that was approved by the agency.",
+      "zh": "如果交通警察无法与社会/社区警察部队一起旅行,巡逻,则根据该机构核准的计划对公共警察/警察进行交通监测。"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những thông tin về việc công an xã có quyền bắt xe không? Câu trả lời là có nhưng phải phụ thuộc vào nhiều trường hợp. Bạn có thể tham khảo các thông tin trên để có kiến thức và cách xử lý khi bị công an xã kiểm tra. Nhưng dù như thế nào, khi tham gia giao thông thì bạn cũng nên tuân thủ theo đúng pháp luật để đảm bảo an toàn giao thông cho chính bản thân mình và những người xung quanh.": {
+      "en": "These are information about whether the police have the right to take a car? The answer is yes but must depend on many cases. You can refer to the above information for knowledge and handling when examined by the social police. But either way, when you're involved in traffic, you should obey the law to ensure traffic safety for yourself and those around you.",
+      "zh": "这些是警察是否有权开车的信息? 答案是肯定的,但必须取决于许多情况。 社会警察检查时,您可参考上述信息了解和处理。 但无论哪种方式,当你参与交通时,你应该遵守法律,确保自己和周围的人的交通安全."
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy vào từng vi phạm mà sẽ có những mức phạt khác nhau: có thể thu xe, thu giấy tờ, phạt hành chính,.. Nếu trong thời gian thực hiện nhiệm vụ, công an xã gặp phải trường hợp vi phạm hành chính vượt quá thẩm quyền thì cần lập biên bản vi phạm để báo cáo đến đơn vị có thẩm quyền giải quyết.": {
+      "en": "Depending on every violation which would have different fines: being able to collect cars, collect papers, fines,... If in the course of the mission, the public police are faced with a case of a violation of administrative authority that is beyond the jurisdiction, it is necessary to establish a violation to report to the authorities.",
+      "zh": "取决于每一次违反会有不同的罚款:能够收集汽车,收集文件,罚款...... 如果在执行任务过程中,公安部门遇到超越管辖范围的违反行政职权案件,必须查处违法行为,向有关部门报告."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Bắc Nam giá rẻ - an toàn": {
+      "en": "Cheap North South Transport - Safe",
+      "zh": "廉价的南北运输-安全"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải bằng đường sắt": {
+      "en": "Transport by railway",
+      "zh": "铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "Xử lý các hành vi chở quá số người quy định, chở hàng hóa cồng kềnh gây cản trở giao thông hoặc trở quá trọng tải cho phép.": {
+      "en": "Processing over-numbered behaviors, carrying cargo of Melanthius Melanthius interferes with traffic or backs overloading allows.",
+      "zh": "处理过号行为,搭载梅兰修斯·梅兰修斯的货物会干扰交通或背部超载允许."
+    },
+    "Xử lý các hành vi điều khiển xe mô tô, xe gắn máy không đội mũ bảo hiểm.": {
+      "en": "Processing motorcycle control behaviors, motorcycles without helmets.",
+      "zh": "处理摩托车控制行为,没有头盔的摩托车."
+    },
+    "Xử lý các trường hợp đỗ xe ở lòng đường trái quy định và gây cản trở lưu thông trên đường.": {
+      "en": "Dealing with parking cases in the middle of the road against regulations and hindering traffic on the road.",
+      "zh": "处理路中路违章停车案件,阻碍路面交通."
+    },
+    "Xử lý đối tượng điều khiển phương tiện phóng nhanh, vượt ẩu, lạng lách, đánh võng, tháo ống xả gây nguy hiểm cho người khác.": {
+      "en": "Dealing with the object that controls the fast-flying vehicle, crossovers, ovals, hammocks, draining drains that endanger others.",
+      "zh": "处理控制快速飞行飞行器,交叉式,椭圆式,吊床,排水管等危及他人的物体."
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "uy tín - nhanh - giá rẻ!": {
+      "en": "Equity - Quick - Cheap!",
+      "zh": "股权 - 快 - 便宜!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để cập nhật.": {
+      "en": "To update.",
+      "zh": "以更新。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

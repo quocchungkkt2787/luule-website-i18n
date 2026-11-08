@@ -1,0 +1,810 @@
+{
+  "route": "/blogs/goc-tu-van/kinh-nghiem-chon-giuong-nam-khoang-4-va-6-dieu-hoa-tren-tau",
+  "texts": {
+    "23 Tháng 3 2021": {
+      "en": "23 March 2021",
+      "zh": "2021年3月23日 (中文(简体) )."
+    },
+    ">>> Có thể bạn quan tâm dịch vụ:": {
+      "en": "> DSTOR You may be interested in services:",
+      "zh": "> 数据存储器 您可能感兴趣的服务:"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bên cạnh việc tìm hiểu các loại giường nằm khoang 4 điều hòa hay 6 điều hòa trên tàu hỏa có nhiều tiện ích như thế nào thì giá vé tàu cũng là điều khiến cho nhiều thực khách phải suy nghĩ đấy. Vậy giá vé tàu hỏa loại khoang 4 điều hòa và giường nằm khoang 6 điều hòa này có mắc không. Thì bạn hoàn toàn yên tâm bởi nó được quy định riêng theo đúng cục đường sắt Việt Nam, nên giá vé hoàn toàn minh bạch và được niêm yết rõ ràng trên website của đường sắt Việt Nam.": {
+      "en": "In addition to finding out what types of beds are in the 4th or 6th air conditioning on the train, the price of train tickets is also what makes many visitors think. So the price of train fares type 4 air conditioners and the bed in the 6th deck of this air conditioner is not expensive. Then you're perfectly secure because it's customized according to the Vietnamese Railroad, so the fare is completely transparent and clearly sealed on the Vietnam Railroad website.",
+      "zh": "除了了解列车上4号或6号空调的床位类型外,列车车票的价格也使许多游客产生思考. 因此这款空调车的4型火车票价和这款空调车第6甲板的车床并不昂贵. 那你就完全安全了,因为它是根据越南铁路定制的,所以票价是完全透明的,在越南铁路网站上明确密封."
+    },
+    "Bên cạnh đó, cũng có một số mùa cao điểm, khi lượng khách mua vé quá đông thì giường nằm khoang 4 điều hòa này sẽ được đổi loại ghế ngồi điều hòa, với một giường sẽ chuyển đổi thành 3 ghế mềm để phục vụ đủ cho các hàng khách.": {
+      "en": "Besides, there are also some peak seasons, when the number of guests who buy tickets is overcrowded, the bed in the 4th deck will be changed to the type of air conditioning seats, with a bed that will convert into three soft seats to serve enough for the customers.",
+      "zh": "此外,也有一些高峰季节,当购买入场券的来宾人数过于拥挤时,第4甲板的床会被改为空调座席类型,床会转换为3个软座以足够供顾客使用."
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bởi mức giá vé giường nằm khoang 4 điều hòa đã được ban quản lý nhà nước tham khỏa và phê duyệt ở mức ổn định với từng chặng đường, và đều được niêm yết rõ ràng trên các trạm bán vé tàu hỏa nên hàng khách có thể yên tâm không mua phải vé tàu giả hay chênh lệch quá lớn khi niêm yết.": {
+      "en": "Due to the price of the bed fares in the 4th deck of the air conditioning, the state's management and approvals are stable at the same rate as the lengths, and are clearly sealed on train ticket stations so the customers can rest assured not to have to buy a fake train ticket or be too much of a difference when it is sealed.",
+      "zh": "由于空调4号甲板的床费价格,本州管理和审批的票价稳定,与长度相同,并明确封入火车票站,使客户可以放心不必购买假火车票或封存后差异太大."
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giường nằm khoang 4 điều hòa": {
+      "en": "Bed of 4 air conditioning",
+      "zh": "4个空调床"
+    },
+    "Giường nằm khoang 4 điều hòa là khoang VIP của tàu hỏa, với mỗi phòng có trong khoang có 4 giường nằm, được chia thành 2 tầng, và thường mỗi giường có kích thước từ 80x190cm. Đây được xem là khoang rộng rãi và VIP nhất của đoàn tàu.": {
+      "en": "The bed bed of the 4th air conditioning is the VIP compartment of the train, with each chamber in which four beds lie, divided into two floors, and usually each of the beds is the size of 80x190 cm. This is considered the most extensive and VIP compartment of the train.",
+      "zh": "第4道空调的床是列车的VIP座舱,每间舱内有4个床位,分为两层,通常每层床位为80×190厘米. 这被认为是列车最宽和最要人车厢."
+    },
+    "Giường nằm khoang 6 điều hòa": {
+      "en": "The bed is in the 6th air conditioning.",
+      "zh": "床在第六空调."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn Hà Nội": {
+      "en": "Send Saigon Hanoi",
+      "zh": "派西贡河内去"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hi vọng với những thông tin trên của Vận Tải Lưu Lê có thể giúp cho bạn có cách nhìn cụ thể hơn về giường nằm khoang 4 và 6 điều hòa. Nếu quý khách hàng mong muốn có một cuộc hành trình khám phá mới lạ thì hạng ghế giường nằm khoang 4 và 6 điều hòa này chính là lựa chọn hoàn hảo và cực an toàn đấy.": {
+      "en": "Hopefully, with the above information from the Media may help you to have a more specific view of the bed in 4 and 6 air conditioning. If you wish to have a new expedition of discovery, then this 4th and 6th-class bed seat is the perfect and extremely safe choice.",
+      "zh": "希望通过媒体提供的上述信息,你能够更具体地了解4和6个空调的床景。 如果你想有新的探险 发现, 那么这个四等和六等的床位 是完美的和极其安全的选择。"
+    },
+    "Hiện nay, du lịch bằng tàu hỏa cũng là một trong những phương tiện khám phá thiên nhiên của khá nhiều bạn trẻ mong muốn tìm hiểu và khám phá. Nhưng mẹo như thế nào để lựa chọn một chỗ ngồi tốt nhất trên khoang tàu hỏa, để bạn có thể du hí thoải mái nhất?": {
+      "en": "Now, train tourism is also one of the natural exploration means of quite a lot of young people who are eager to learn and explore. But how do you choose the best seat on the train deck, so you can have the most comfortable ride?",
+      "zh": "现在,火车旅游也是相当多渴望学习和探索的年轻人的自然探索手段之一. 但是,如何选择火车甲板上最好的座位,这样你就可以有最舒适的座椅了?"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoặc việc lựa chọn giường nằm khoang 4 điều hòa hay giường nằm khoang 6 điều hòa sẽ tốt nhất cho bạn. Tất cả sẽ được Vận Tải Lưu Lê giải đáp qua bài viết sau đây nhé!": {
+      "en": "Or the choice of a bed in the 4th deck or a 6th deck bed would be best for you. Everything will be answered in the following article.",
+      "zh": "或者在四号甲板或六号甲板上选个床对你最好 一切如来下文所答."
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hình ảnh: Giường nằm khoang 4 điều hòa với nhiều tiện nghi cho bạn khám phá": {
+      "en": "Image: 4th deck bed regulates with many conveniences for you to explore",
+      "zh": "图片:四号甲板床可以方便你探索"
+    },
+    "Hình ảnh: giường nằm khoang 4 điều hòa tiện nghi": {
+      "en": "Image: bed in deck 4 Conveniencies",
+      "zh": "图片:4号甲板的床位"
+    },
+    "Hình ảnh: giường nằm khoang 6 điều hòa": {
+      "en": "Image: bed on deck 6 air conditioning",
+      "zh": "图像:6号甲板上铺有空调"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khám phá giường nằm điều hòa khoang 6 là gì?": {
+      "en": "What's the discovery of a 6th deck bed?",
+      "zh": "第六甲板床的发现是什么?"
+    },
+    "Không những thế, giường nằm khoang 4 điều hòa sẽ có đầy đủ các tiện nghi với điều hòa, chăn mềm, ổ cắm sạc trên đầu mỗi cửa vào, có bình hoa và nước lọc miễn phí cho quý khách sử dụng.": {
+      "en": "Not only that, the bed in the 4th deck will have all the comforts with air conditioning, soft blankets, charging slots on each door, with a free vase and filter for your use.",
+      "zh": "不仅如此,第4甲板的床会拥有所有舒适的空调,软毯,每扇门上充电插槽,配有免费花瓶和过滤器供您使用."
+    },
+    "Không những thế, với các bạn sinh viên thì mức giá vé sẽ được trợ giá cực ưu đãi, nên nếu bạn còn nằm trong độ tuổi đi học, thì việc trải nghiệm dịch vụ này là không nên bỏ qua đấy.": {
+      "en": "Not only that, for students the price of the ticket will be extremely favourable, so if you're still in school age, then the experience of the service should not be ignored.",
+      "zh": "不仅如此,对于学生来说,票价将极其优惠,所以如果您还处于学龄,那么服务的经历就不应该被忽略了."
+    },
+    "Khảo sát giá vé giường nằm khoang 4 điều hòa và giường nằm khoang 6 điều hòa": {
+      "en": "Survey of fare fares on deck 4 air conditioner and bed bed deck 6 air conditioning",
+      "zh": "4号甲板空调和6号甲板空调的票价调查"
+    },
+    "Kinh nghiệm chọn Giường nằm khoang 4 và 6 điều hòa trên tàu": {
+      "en": "The experience of selecting the bed is 4th and 6nd air conditioning on board.",
+      "zh": "选床经验为机上四等和六等空调."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhưng bên cạnh đó, với nhược điểm duy nhất của giường nằm khoang 6 điều hòa này chính là tầng 1 thì tương đối ổn định còn những hành khách nằm trên tầng 2 và 3 thì sẽ cảm thấy không thoải mái vì không gian có chút chập và khiến bạn không thoải mái thì ngồi thẳng lưng được.": {
+      "en": "But besides, with the only weaknesses of this six-way bed, the first floor is relatively stable, and passengers on the second and third floors are going to feel uncomfortable because the space is a little short and the space that makes you uncomfortable is sitting upright.",
+      "zh": "但除此以外,由于这六道床的唯一弱点,一楼相对稳定,二楼和三楼的乘客会觉得不舒服,因为空间有点短,让你不舒服的空间正坐立不安."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là một số thông tin về vế giường nằm khoang 4 điều hòa và giường nằm khoang 6 điều hòa là 2 giá vé được nhiều hành khách tìm tòi và mong muốn khám phá nhất. Không những thế, tàu hỏa vẫn còn các giá vé khác với các loại ghế ngồi:": {
+      "en": "Above are some of the information on the side of the bed that is in the 4th division of the AC and the bed that is in the 6th deck of the AC is two fares that are most sought and desired by most passengers. In addition to that, the train still had other fares from the type of seats:",
+      "zh": "上面是位于AC第4师的床侧部分信息,位于AC第6甲板的床是大多数乘客最想要和最想要的两种票价. 除此之外,列车还有其它票价与座椅类型不同:"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm hiểu giường nằm điều hòa khoang 4 là gì?": {
+      "en": "Find out what's a 4th deck air bed?",
+      "zh": "找出第四层的空气床是什么?"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Và điều quan trọng nhất là giá vé ở giường nằm khoang 6 điều hòa này sẽ mắc thứ 2 sau với giường nằm khoang 4 điều hòa.": {
+      "en": "And the most important thing is that the fare in the bed is in this 6nd air conditioner, which will be second to the bed in the 4th air conditioning.",
+      "zh": "而最重要的是,床上的票价是在这6号空调机上,这在4号空调机中将次于床."
+    },
+    "Vì vậy tàu hỏa chính là phương tiện phục vụ rất tốt của nhiều hành khách sinh sống và làm việc xa khi muốn trở về nhà với chi phí vô cùng thấp và an toàn. Đồng thời với những bạn trẻ muốn khám phá những tuyến đường đẹp hay trải nghiệm mới lạ với dịch vụ tàu hỏa cao cấp thì cũng phương tiện này cũng là một điểm cộng cho bạn đấy.": {
+      "en": "So the train is the very good service vehicle of many passengers living and working far away who want to return home at extremely low and safe costs. At the same time that young people want to explore the new fine routes or experiences with advanced train service is also a plus for you.",
+      "zh": "因此列车是许多在远方生活和工作的乘客的非常好的服务车,他们想以极其低廉的安全成本回家. 同时,年轻人希望探索新的精细路线或先进列车服务经验,这也是你的一个优点."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa Hà Nội Sài Gòn": {
+      "en": "Transportation of Hanan Saigon",
+      "zh": "汉南西贡运输"
+    },
+    "Vận chuyển đường sắt": {
+      "en": "Rail Transport",
+      "zh": "铁路运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với ưu điểm của giường nằm khoang 6 điều hòa này: Khi quý khách sử dụng khoang này thì có thể ngả lưng thoải mái với điều hòa liên tục và phù hợp cho các chuyến tàu đi xa như Hà Nội – TP.HCM.": {
+      "en": "With the advantages of this 6-centered bed: When you use this bay, you can lie back comfortably with constant air conditioning and suitable for long-distance trains like Hanoi – TP.HCM.",
+      "zh": "以这张6个床的优势: 在使用这个海湾时,可以舒适地躺回固定的空调,适合河内等长途列车运行 – TP.HCM."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "ghế ngồi cứng, ghế ngồi cứng điều hòa, ghế ngồi mềm điều hòa, ghế nằm cứng điều hòa ….": {
+      "en": "Hard seats, hard seats, soft seats, air conditioning seats...",
+      "zh": "硬座,硬座,软座,空调座..."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây là khoang giường nằm được đánh giá là mang đến cảm giác thoải mái và tiện nghi nhất mà bạn được khuyên nên trải nghiệm thử trong các chuyến hành trình nối chuyến của mình để được vừa ngắm cảnh tuyệt vời qua khung cửa sổ vừa trải nghiệm dịch vụ tuyệt vời của tàu lửa.": {
+      "en": "This is the bedbed which is rated as bringing the most comfortable and comfortable feeling that you are advised to experiment on your journeys to be spectacularly viewed through the window frame and experience the excellent service of the train.",
+      "zh": "这是床,被评为带来最舒适和舒适的感觉,建议你在旅途中进行实验,通过窗框进行壮观的观看,体验火车的出色服务."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đồng thời, với loại giường nằm khoang 6 điều hòa thì là loại khoang giường được trải tấm nệm mỏng hơn tầm khoảng 3cm, trong khoang sẽ xếp 6 giường ngủ chia làm 3 tầng, với kích thước mỗi giường là vào khoảng 78x190cm.": {
+      "en": "At the same time, with a six-story bed bed bed, it's the kind of bedbed that's spread thiner than about 3 cm, in the compartment which will stack six beds in three floors, with the size of each bed at about 78x190 cm.",
+      "zh": "同时以六层床位为床位,是床位分布较相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相距相相距相距相距相距相距相距相距相相相距相距相距"
+    },
+    "để quý khách hàng có thể thuận tiện lựa chọn.": {
+      "en": "So you can make your choice.",
+      "zh": "所以你可以做出选择。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

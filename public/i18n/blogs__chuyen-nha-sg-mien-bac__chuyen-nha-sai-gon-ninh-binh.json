@@ -1,0 +1,826 @@
+{
+  "route": "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-ninh-binh",
+  "texts": {
+    "04 Tháng 7 2022": {
+      "en": "04 July 2022",
+      "zh": "2022年7月04日 (中文(简体) )."
+    },
+    ">>> Tham khảo thêm:": {
+      "en": "> Additional Reference:",
+      "zh": "> 补充参考 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Tiếp nhận yêu cầu của khách hàng có nhu cầu chuyển nhà từ Sài Gòn ra Ninh Bình.": {
+      "en": "Step 1: Accept the customer's request for the move from Saigon to Ninhing.",
+      "zh": "第1步:接受客户要求从西贡迁入宁兴."
+    },
+    "Bước 2: Khảo sát thực tế, xem số lượng đồ đạc của gia đình cần chuyển. Và sau đó tiến hành báo giá dịch vụ tương ứng.": {
+      "en": "Step 2: Reality Survey, See the number of family items to move. And then proceed to notice the corresponding service price.",
+      "zh": "步骤2:现实调查,参见需要移动的家庭物品数量. 然后开始注意相应的服务价格."
+    },
+    "Bước 3: Ký hợp đồng ( bao gồm đầy đủ thời gian thực hiện, cam kết,...).": {
+      "en": "Step 3: Sign the contract (including full-time implementation, commitment,...).",
+      "zh": "第3步:签署合同(包括全职执行,承诺,.)."
+    },
+    "Bước 4: Cùng chủ nhà kiểm kê tài sản, đồ đạc để tránh bị thiếu mất trong quá trình vận chuyển. Tiếp theo là dọn nhà và chuyển đồ như trong hợp đồng.": {
+      "en": "Step 4: With the host who examined the property, things to avoid being lost during the transport. The move and move were followed as part of the contract.",
+      "zh": "第4步:与检查地产的东道主一起,避免在运输过程中丢失的东西. 搬迁和搬迁是合同的一部分。"
+    },
+    "Bước 5: Kiểm kê tài sản, đồ đạc sau khi hoàn thành vận chuyển đến địa điểm Ninh Bình, bàn giao cho gia chủ và thanh toán.": {
+      "en": "Step 5: Check the property, furniture after the completion of transport to Ning Ping site, desks to the owner and payment.",
+      "zh": "第5步:检查房产,家具到宁平站的运输完成后,向业主提供桌子并支付."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá dịch vụ chuyển hàng hóa Bắc Nam": {
+      "en": "Northern South Transport Service Table",
+      "zh": "南北交通服务表."
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí chuyển nhà hợp lý, rõ ràng trong từng công đoạn.": {
+      "en": "The housing costs are reasonable, clear in each segment.",
+      "zh": "住房费用合理,每个部分都清楚。"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn - Ninh Bình": {
+      "en": "Move to Saigon - Ning Ping",
+      "zh": "迁至西贡-宁平"
+    },
+    "Chuyển nhà Sài Gòn Miền Bắc": {
+      "en": "Move North Saigon",
+      "zh": "移动北西贡"
+    },
+    "Chuyển nhà Sài Gòn Ninh Bình": {
+      "en": "Move on to Saigon.",
+      "zh": "迁入西贡."
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển nhà đến nơi mới là chuẩn bị một khởi đầu, với nhiều người đó làm niềm vui. Nhưng thực sự quá trình chuyển nhà chính là “ác mộng”, khi có quá nhiều đồ đạc, quy trình cần thực hiện. Do đó, để việc chuyển nhà Sài Gòn - Ninh Bình của bạn diễn ra được thuận lợi và dễ dàng nhất, cần có sự lựa chọn hình thức vận chuyển phù hợp.": {
+      "en": "To move to a new place is to prepare a start, with many of them making fun. But the actual move process was “a nightmare, when there were too many things, the process needed to be done. Therefore, in order for your move to the Saigon - The Peace House to take place as convenient and as easy as possible, it takes the appropriate form of transportation.",
+      "zh": "迁入新地是准备起步,其中不少人取笑. 但是,实际的移动过程是“一个噩梦,当事情太多时,这一过程需要完成。 因此,为了让您搬到西贡 - 和平之家尽可能方便和方便,它采取了适当的交通形式."
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các hình thức chuyển nhà Sài Gòn - Ninh Bình phổ biến": {
+      "en": "The most common form of Saigon-Ninhung",
+      "zh": "西贡-新鸿最常用的形式"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Còn chưa kể là thuê theo giờ, không có hợp đồng thi rất dễ xảy ra mất mát hàng hóa của gia đình bạn. Họ không có kinh nghiệm khuân vác, đóng gói cũng không thể đảm bảo được chất lượng đồ đạc khi chuyển một quãng đường dài.": {
+      "en": "Not to mention that by the hour, there's no easy test contract that's missing your family's goods. They have neither load nor package experience guarantee the quality of their belongings when moving a long distance.",
+      "zh": "更何况在时间上,没有容易的测试合同会错过你家人的货. 他们既无负载经验,也无包装经验,在远行时保证了物品的质量."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ chuyển nhà Sài Gòn - Ninh Bình an toàn, tiết kiệm": {
+      "en": "Saigon Transportation Services - Security, Saving",
+      "zh": "西贡运输服务-安全、储蓄"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao thông tại Ninh Bình cũng rất thuận tiện, có 5 quốc lộ (trong đó có 3 quốc lộ khởi đầu và 2 quốc lộ đi qua) được dàn đều trên tất cả các huyện, thị xã và thành phố trong tỉnh. Có các quốc lộ lớn như Quốc lộ 12B, Quốc lộ 10, Quốc lộ 38B và Quốc lộ 45. Tiện lợi cho việc giao thương, vận chuyển giữa Ninh Bình với các tỉnh thành khác.": {
+      "en": "The traffic at Ninh Ping was also very convenient, there were five highways (which included three of the starting highways and two highways passing through) which were staged on all districts, towns and cities in the province. There are major highways such as Highway 12B, Highway 10, Highway 38B and Route 45. A utility for trade, transportation between Ninhing and other provinces.",
+      "zh": "宁平的交通也十分便利,有5条高速公路(其中起步高速公路有3条,通车高速公路有2条),在全省各县,乡,镇布置. 有12B高速公路,10号高速公路,38B高速公路和45号公路等主要高速公路. 用于宁兴等省之间的通商,通运."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hy vọng với những thông tin về": {
+      "en": "Hope with information about",
+      "zh": "希望有关于"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hệ thống, phương tiện vận chuyển hiện đại với đầy đủ loại hình: từ tàu hỏa, xe đầu kéo, xe tải, ...": {
+      "en": "Systems, modern transports with all types: from trains, tractors, trucks, ...",
+      "zh": "系统,现代运输有各种类型:从火车,拖拉机,卡车,."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khái quát chung nhu cầu chuyển nhà Sài Gòn - Ninh Bình": {
+      "en": "In general, the need for the Saigon and Tennis move",
+      "zh": "一般来说,西贡和网球运动的必要性"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê làm việc 24/24, dịch vụ chăm sóc khách hàng chu đáo và tận tình.": {
+      "en": "Liu Bei works 24 hours, caring for his customers well and devoted.",
+      "zh": "刘备工作24小时,善待顾客,专心致志."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhiều dịch vụ đáp ứng mọi nhu cầu: chuyển nhà trọn gói, chỉ vận chuyển,...": {
+      "en": "Many services meet every need: move the house full, only transport,...",
+      "zh": "许多服务满足了各种需要: 将房子搬满,只有运输,......"
+    },
+    "Nhưng điều cần thiết hơn cả là bạn phải tìm được một đơn vị cung cấp dịch vụ chuyển nhà uy tín. Và Lưu Lê là một trong những cái tên được nhiều nhiều người đề xuất nhất. Vận tải Lưu Lê ngày càng chiếm được cảm tình của các khách hàng, nhờ chất lượng dịch vụ và chăm sóc khách hàng tuyệt vời.": {
+      "en": "But what's more important is that you have to find a unit that delivers the prestigious mover service. And Liu Levi is one of the most widely proposed names. Liu Li transport is increasingly gaining the affection of customers, thanks to the quality of the great service and care of the customers.",
+      "zh": "但更重要的是,你必须找到一个单位 提供著名的搬运工服务。 而刘列维是最广泛推荐的名字之一. 刘力运输日益获得顾客的好感,多亏了顾客的出色服务和关怀."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Ninh Bình được biết đến là vùng đất với trang sử vẻ vang, kinh đô xưa của thời tiền Lê và nhà Lý Việt Nam. Nơi đây có vẻ đẹp núi non hùng vĩ, với khung cảnh đã xuất hiện nhiều trong các bộ phim nổi tiếng. Đời sống kinh tế của người dân phát triển đa dạng lĩnh vực, nhất là du lịch được khai thác rất tốt. Do đó, rất nhiều người dân sinh sống ở các tỉnh thành khác, trong đó có Hồ Chính Minh đã chuyển nhà đến Ninh Binh để sinh sống, kinh doanh hoặc có mong muốn gần người thân hơn.": {
+      "en": "Ninh Ping is known as the land with its glorious pages, the ancient capital of the pre-President era and the Vietnamese Li, which features a majestic mountain beauty, with the landscape which has appeared extensively in popular films. The economic life of the people developed a variety of fields, notably tourism very well exploited. As a result, many residents of other provinces, including the Chief Fox, moved to Nénhên to live, do business, or have a desire to be closer to their loved ones.",
+      "zh": "宁平以其辉煌的篇章被称为大地,是总统前时代的古代首都,也是越南李氏,其特色是壮观的山水美景,风景在流行电影中广泛出现. 人民的经济生活发展了各种各样的领域,特别是旅游业得到了很好的利用。 因此,包括福克斯酋长在内的其他省份的很多居民都搬到内恩居住,经商,或者有更亲近亲人的愿望."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình chuyển nhà Sài Gòn - Ninh Bình nhanh gọn, uy tín.": {
+      "en": "The move process for Saigon - Ning Ping is brief, prestigious.",
+      "zh": "西贡-宁平的迁建过程简洁,有声望."
+    },
+    "Sau đó, bạn cũng phải tự mình tìm phương tiện để chuyển đồ đạc từ Sài Gòn ra Ninh Bình. Tất nhiên việc chuyển nhà là không thường xuyên nên bạn sẽ không có kinh nghiệm để chọn phương tiện phù hợp nhất. Dẫn đến việc độn chi phí lên cao. Tóm lại là tồn tại rất nhiều rủi ro cho phương án thuê người dọn, chuyển và hỗ trợ trong mỗi công đoạn.": {
+      "en": "Later, you also have to find your own means to move things from Saigon to Ninhping. Of course moving your home is not very often, so you will not have experience in choosing the most suitable medium. Which led to the footing of costs. The bottom line is there's a lot of risk to the employing of people, moving and supporting in each segment.",
+      "zh": "后来,你还必须找到自己的手段,把东西从西贡搬到宁平. 当然搬家并不经常,所以你没有选择最合适的媒介的经验. 这导致了成本的基础。 底线是每个区段雇用人员,移动和支持的风险很大."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo như Google Map, khoảng cách từ Sài Gòn đến Ninh Bình là 1.625 km đường bộ (khoảng hơn 30 tiếng đi ô tô) và 1050 km theo đường chim bay. Quãng đường sắt từ ga Sài Gòn đi đến ga của TP Ninh Bình dài 1611 km. Đây là quãng đường dài khi chuyển nhà, nên trong mọi quy trình bạn cần phải thực hiện thật kỹ càng.": {
+      "en": "According to Google Map, the distance from Saigon to Nirvana is 1.625 km of road (about 30 hours of automobile ride) and 1050 km in the flight of birds. Railways from Saigon station travel to the station of the TP Ninh of Peace 1611 km long. This is a long way to go when moving, so in all processes you need to be thorough.",
+      "zh": "根据Google地图,从西贡到尼尔瓦纳的距离是1.625公里的道路(约30小时的汽车骑行)和1050公里的鸟类飞行. 从西贡站出发的铁路前往和平宁的TP站,全长1611公里. 这在移动时还有很长的路要走,所以在所有过程中你都需要彻底."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Và sau đó, bạn cũng phải tự có phương án lựa chọn phương tiện chuyển đồ đạc từ Sài Gòn ra Ninh Bình. Các công việc của quá trình chuyển nhà sẽ không được liền mạch. Gia chủ tốn rất nhiều thời gian, cũng như tiền bạc để bỏ ra trong từng công đoạn. Và không phải gia đình nào cũng có số lượng thành viên nhiều để giúp đỡ, cũng phần nào gây phiền hà đến mọi người.": {
+      "en": "And then, you also have to make your own choice of how to move things from Saigon to Ninhing. The work of the move of the house will not be cut straight. The host spends a lot of time, as well as money to spend in stages. And not every family has a large number of members to help, which is somewhat disturbing to everyone.",
+      "zh": "然后,你还必须自己选择如何把东西从西贡移到宁兴. 迁房之工,不直截. 主持人花费了大量的时间,以及分阶段花费的资金. 而并非每个家庭都有大量成员需要帮助,这对每个人都有些令人不安."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê cam kết rõ ràng.": {
+      "en": "Liu Li transport is clearly committed.",
+      "zh": "刘力交通明确承诺."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với kinh nghiệm lâu năm của các đơn vị dịch vụ, chi phí chuyển nhà Sài Gòn - Ninh Bình cũng được tiết kiệm tối đa. Họ sẽ có phương án để vận chuyển nhanh, chính xác và hợp lý nhất. Đảm bảo đáp ứng đúng tiến độ chuyển nhà của gia chủ.": {
+      "en": "With the long-term experience of service units, the cost of the Saigon-Ninh Ping residence was also greatly saved. They will have the best and fastest means of rapid transport. Make sure to meet the master's move schedule properly.",
+      "zh": "随着服务单位的长期经验,西贡-宁平官邸的费用也被大大节省. 它们将拥有最佳和最快的快速运输手段。 确保适当满足主人的移动时间表."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chuyển nhà Sài Gòn - Ninh Bình": {
+      "en": "move Saigon - Ninh Ping",
+      "zh": "移动西贡 - 宁平"
+    },
+    "của vận tải Lưu Lê để tư vấn và hỗ trợ nhanh nhất nha!": {
+      "en": "Liu transport to advise and support as fast as you can!",
+      "zh": "刘运尽速建议和支持!"
+    },
+    "mà chúng tôi cùng cấp, sẽ giúp cho quá trình chuyển “tổ ấm” mới của bạn suôn sẻ và dễ dàng hơn. Liên hệ hotline": {
+      "en": "will help make the transition of your new warmth smoother and easier. Hotline Contact",
+      "zh": "将帮助转变 你的新温暖 平稳和容易。 热线联系人"
+    },
+    "trở nên dễ dàng hơn nhờ có các đơn vị dịch vụ. Trong bài viết dưới đây, vận tải Lưu Lê sẽ đưa các kinh nghiệm cần thiết cũng như gợi ý đơn vị vận tải uy tín, để quá trình chuyển nhà giữa hai tỉnh thành này an toàn và tiết kiệm nhất.": {
+      "en": "became easier due to service units. In the following article, Liu Li transport will bring the necessary experiences as well as suggest the prestigious transport unit, so that the transition process between the two provinces is the safest and most savings.",
+      "zh": "由于服务单位的存在,变得更加容易。 以下文章中,刘力运输将带来必要的经验,并推荐有声望的运输单位,使两省之间的过渡进程是最安全,最节省的."
+    },
+    "tại Lưu Lê": {
+      "en": "at Liu Li",
+      "zh": "在刘力那里"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây cũng là hình thức chuyển nhà được rất nhiều người lựa chọn. Ưu điểm đầu tiên là độ tin cậy cao, bạn sẽ không lo bị mất đồ đạc của gia đình mình. Nhưng những người thân hầu như cũng không có nhiều kinh nghiệm trong các quy trình, dẫn đến tốn khá nhiều thời gian thu xếp, đóng gói, khuân vác.": {
+      "en": "This is also the type of move that has been chosen by many people. The first advantage is high trust, you won't worry about losing your family's belongings. But relatives also have little experience in the processes, resulting in considerable amount of time in the arrangements, packing, carrying.",
+      "zh": "这也是许多人选择的动作类型. 第一个优势是高度信任,你不会担心失去你家人的财产. 但亲属在工艺中也很少经验,导致在安排,包装,携带方面有相当长的时间."
+    },
+    "Đây là hình thức chuyển nhà truyền thống của các hộ gia đình. Mỗi công đoạn chuyển nhà như dọn dẹp, khuân vác, vận chuyển,... bạn sẽ phải thuê ngoài riêng. Có thể, sẽ giúp bạn phần nào mệt mỏi, nhưng tự mình bao quát quá trình nhiều khi xảy ra sai sót.": {
+      "en": "This is the traditional form of moving households. Every move is like cleaning, carrying, shipping,... you'll have to rent out. Perhaps, it will help you to get somewhat tired, but to cover the process yourself often when mistakes occur.",
+      "zh": "这是传统的家庭迁移形式。 每一个动作都像清洁,搬运,运输... 你得租出去. 也许,它会帮助你有点疲倦,但当错误发生时,会经常自己覆盖过程."
+    },
+    "Đây là hình thức chuyển nhà được hầu hết các gia đình lựa chọn khi muốn rời tổ ấm từ Sài Gòn ra Ninh Bình. Từng công đoạn sẽ được lên trong hợp đồng chi tiết. Bạn sẽ không phải lo lắng bất kỳ điều gì và hoàn toàn an tâm về số lượng và chất lượng của đồ đạc trong gia đình.": {
+      "en": "This is the type of move that most families choose when they want to leave their home from Saigon to Ninhing. The segments will rise in the detailed contract. You will not have to worry about anything and be completely secure about the quantity and quality of things in the family.",
+      "zh": "这是大多数家庭在想从西贡出家去到宁兴时选择的搬迁类型. 这些部分将在详细的合同中上升。 你不必担心任何事 也不必担心家里的数量和质量"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đảm bảo đồ đạc và tải sản của gia chủ còn đầy đủ, nguyên vẹn sau khi đến chỗ ở mới.": {
+      "en": "Make sure the owner's belongings and belongings are complete, intact after arriving at his new residence.",
+      "zh": "确保所有者的物品和物品完整,到达新住所后完好无损."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Nhờ đến sự giúp đỡ của người thân để chuyển nhà Sài Gòn - Ninh Bình": {
+      "en": "‹ Thanks to the help of relatives to move to Saigon",
+      "zh": "感谢亲戚的帮助 搬到了西贡"
+    },
+    "► Quy trình chuyển nhà Sài Gòn - Ninh Bình của vận tải Lưu Lê": {
+      "en": "\"States move sequence of Saigon's - Ning of Liu Transport\"",
+      "zh": "\"西贡国家移动序列-刘运宁\"."
+    },
+    "► Sử dụng dịch vụ chuyển nhà Sài Gòn - Ninh Bình trọn gói": {
+      "en": "Use of Saigon's move service - Ning Ping full package",
+      "zh": "使用西贡移动服务-宁平全包"
+    },
+    "► Thuê người dọn dẹp, hỗ trợ từng công đoạn": {
+      "en": "‹ Cleaners, supporting segments",
+      "zh": "* 清洁工,辅助部门"
+    },
+    "► Tại sao nên chọn Lưu Lê để hỗ trợ chuyển nhà Sài Gòn ra Ninh Bình": {
+      "en": "RYI Why Chose Liu to Support the Saigon move to Ninh Ping",
+      "zh": "丽来 刘选才为何要支持西贡去宁平"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

@@ -1,0 +1,786 @@
+{
+  "route": "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-phu-an-thanh",
+  "texts": {
+    ". Hy vọng rằng bài viết này sẽ có ích cho công việc của bạn, nếu còn thắc mắc nào thì hãy liên hệ hotline": {
+      "en": "Yeah. Hopefully this article will be useful for your work, if you have any questions, contact hotline.",
+      "zh": "对 希望这篇文章对您的工作有帮助, 如果您有任何问题, 联系热线。"
+    },
+    "31 Tháng 7 2022": {
+      "en": "31 July 2022",
+      "zh": "2022年7月31日 (中文(简体) )."
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Hà Nội KCN Phú An Thạnh": {
+      "en": "Transported Hanoi KCN Fuji An TD",
+      "zh": "运输的河内KCN 藤安TD"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có bến thủy nội địa trong khu công nghiệp nên rất thuận tiện cho việc vận chuyển, bốc dỡ nguyên vật liệu và hàng hóa.": {
+      "en": "There's a domestic waterfront in the industry, so it's very convenient for transportation, for unloading materials and goods.",
+      "zh": "业内有家用水口,因此交通方便,可以卸取物资和货物."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cả chuyển hàng từ Hà Nội vào KCN Phú An Thạnh là cạnh tranh và hợp lý nhất thị trường.": {
+      "en": "The price of shipping from Hanoi into KCN Fuji An MD is the most competitive and reasonable market.",
+      "zh": "从河内运入KCN藤安MD的通货价格是最有竞争力和最合理的市场."
+    },
+    "Giới thiệu KCN Phú An Thạnh": {
+      "en": "About KCN Fuji AnTD",
+      "zh": "关于KCN 富士安地"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội KCN Long An": {
+      "en": "Send the Hanoi Mui KNN Long An",
+      "zh": "派河内慕伊克南长安"
+    },
+    "Gửi hàng Hà Nội – KCN Phú An Thạnh tốt nhất hiện nay": {
+      "en": "Mail Hanoit – KNC FujiTM Best Current",
+      "zh": "邮件河内特 – KNC 富士TM 最佳时装"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng hóa được gửi từ Hà Nội – KCN Phú An Thạnh thường là những máy móc, trang thiết bị cồng kềnh khó vận chuyển. Nên để tìm kiếm được đơn vị vận tải phù hợp, đáp ứng các yêu cầu của khách hàng là điều không dễ dàng.": {
+      "en": "The goods sent from Hanoi – KCN Fuji AnTM are often machines, equipment that are difficult to transport. It is not easy to find suitable transportation units, which meet customer requirements.",
+      "zh": "从河内发来的货物 — KCN Fuji AnTM往往是机器,设备难以运输. 很难找到符合客户要求的适当运输单位。"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hỗ trợ nhà đầu tư tiếp cận nguồn các vốn vay trung và dài hạn với lãi suất ưu đãi.": {
+      "en": "Supporting investors access to medium and long-term loans with favourable interest rates.",
+      "zh": "支持投资者获得利率有利的中长期贷款."
+    },
+    "KCN Phú An Thạnh có vị trí chiến lược thuận lợi nằm trên mặt tiền đường tỉnh lộ 830 kết nối với quốc lộ 1A, cách nút giao thông đường cao tốc Sài Gòn-Trung Lương chỉ 3km. Bên cạnh đó KCN này còn nối với các trục đường chính như: đại lộ Nguyễn Văn Linh, đại lộ Đông Tây về TP. Hồ Chí Minh và cảng Cát Lái.": {
+      "en": "KNC Fuji An TD has a favorable strategic position located on the western front of Route 830 connecting with Highway 1A, 3 km from the Saigon Highway Inter-China. In addition, KNC is also connected to the main road shafts such as: the Taystal Avenue, East Avenue on TP, Lake Chi Minh and Sand Harbor.",
+      "zh": "KNC富士安地铁(KNC Fuji An TD)在830国道西线与1A号高速公路相接而来,距离西贡高速公路通向中国内地有3公里,具有有利的战略地位. 此外,KNC还连接了主要的道路轴道,如:泰斯塔尔大道,TP上的东大道,志明湖和沙港."
+    },
+    "KCN Phú An Thạnh có vị trí chính xác Tỉnh lộ 830, xã An Thạnh, huyện Bến Lức, tỉnh Long An. Với các đặc điểm thuận lợi như:": {
+      "en": "KNC Fuji Anhm has the exact location of the province of 830, Social Security, County District, Long An Province. With favorable characteristics such as:",
+      "zh": "KNC 富士安有\"长安道\",\"社保\",\"县地\",\"长安道\",\"长安道\",\"长安道\"等省的确切位置. 有以下有利特点:"
+    },
+    "KCN này còn được phép tiếp nhận các ngành nghề ô nhiễm như dệt nhuộm, xi mạ, thuộc da. Các ngành nghề này bố trí các phân khu riêng biệt thích hợp theo từng mức độ ô nhiễm.": {
+      "en": "The KNNC was even allowed to adopt the pollution professions such as textiles, huff, leather. These disciplines layout separate sections suitable in each level of pollution.",
+      "zh": "KNNC甚至被允许采用纺织,花皮等污染行业. 这些学科在布局上分出适合每一级污染的科."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lý do bạn nên lựa chọn Vận tải Lưu Lê khi gửi hàng Hà Nội – KCN Phú An Thạnh": {
+      "en": "The reason why you should choose Liu Transport when sending Hanoi – KNC Fuji An TM",
+      "zh": "您在发送河内时选择刘运的原因 – KNC 藤安TM"
+    },
+    "Lưu Lê luôn luôn tư vấn nhiệt tình và chu đáo cho khách hàng.": {
+      "en": "Liu Li always advises his customers with warmth and care.",
+      "zh": "刘力总是以温暖和关怀的心情劝告顾客."
+    },
+    "Lựa chọn loại hình vận tải phù hợp khi gửi hàng Hà Nội – KCN Phú An Thạnh": {
+      "en": "Select the type of transportation that is appropriate when sending Hanoi goods – KCN Fuji An TD",
+      "zh": "选择在发送河内货物时适当的运输类型 – KCN Fuji An TD"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một trong những điều giúp cho quá trình gửi hàng Hà Nội - KCN Phú An Thạnh diễn ra suôn sẻ, thuận lợi nhất, chính là lựa chọn được đơn vị vận tải uy tín. Vận tải Lưu Lê chính là một trong những cái tên được khách hàng ở Hà Nội và KCN Phú An Thạnh biết đến và lựa chọn nhiều nhất.": {
+      "en": "One of the things that helped the Hanoi delivery process - KCN Fuji AnTM went smoothly, most favorablely, was the choice of prestigious transportation. Liu Li's main transport is one of the most known and selected names by his client in Hanoi and KCN Fuji AnTM.",
+      "zh": "帮助河内运输过程的一件事——KCN Fuji AnTM顺利进行,最受欢迎的是,选择了著名的运输。 刘力的主要运输方式是其客户在河内和KCN富士安TM最知名和最精选的名字之一."
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu gửi hàng Hà Nội – KCN Phú An Thạnh": {
+      "en": "The Need for Sending Hanoi – KCN Fuji An ITM",
+      "zh": "(原始内容存档于2019-03-03). The Need to send the Hine – KCN Fuji An ITM"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những ngành nghề được ưu tiên tại KCN bao gồm: Công nghiệp sản xuất gia công, chế biến nông, lâm, thủy hải sản, Công nghiệp bảo quản thực phẩm, nông phẩm, Các ngành công nghiệp cơ khí, sản xuất máy tàu thủy, thiết bị phụ tùng, Sản xuất các loại dược phẩm, dệt, in ấn, sản xuất thiết bị ngành dệt may,...": {
+      "en": "The professions that are preferred at KNC include: the industrial manufacturing industry, farming, forestry, marines, food conservation industry, agriculture, mechanical industries, ship production, spares equipment, production of drugs, textiles, printing, textile equipment,...",
+      "zh": "KNC所偏爱的职业包括:工业制造业,养殖业,林业,海军陆战队,粮食节约工业,农业,机械工业,船舶生产,零部件设备,药品生产,纺织,印刷,纺织设备,......"
+    },
+    "Nếu khách hàng thường xuyên phải vận chuyển hàng hóa Hà Nội – KCN Phú An Thạnh thì việc xem xét, lựa chọn phương thức vận chuyển nào thuận tiện, nhanh chóng và tiết kiệm chi phí vận chuyển nhất là rất quan trọng. Hiện nay trên thị trường có 4 phương thức vận tải phổ biến để khách hàng lựa chọn để gửi hàng Hà Nội – KCN Phú An Thạnh đó là vận tải đường bộ bằng xe tải hoặc container, vận tải bằng đường hàng không, vận tải tàu thủy bằng đường biển hay vận tải đường sắt.": {
+      "en": "If customers regularly have to transport the goods of Hanoi – KCN Fuji An TM then the consideration, the option of transportation that is convenient, quick and the most cost of transportation is very important. Currently on the market there are 4 popular transportation methods for customers to choose to send Hanoi – KNC Fuji AnTM which is a road transport by truck or container, shipping by air, shipping by seaway or railway transport.",
+      "zh": "如果客户经常必须运输河内的货物-KCN藤安机,那么考虑一下方便、快捷和运输成本最高的运输选择非常重要。 目前市场上有四种流行的运输方法供顾客选择送河内—KNC Fuji AnTM,这是一种通过卡车或集装箱、空运、海运或铁路运输的公路运输。"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy mô, vị trí, ngành nghề đa dạng… chính là những lợi thế nổi bật để thu hút nhà đầu tư tại KCN Phú An Thạnh. Nên giao thương tại KCN này và các tỉnh thành trên cả nước cực kỳ phát triển. Hà Nội là một trong những tỉnh thành có hoạt động giao thương thường xuyên nhất với KCN Phú An Thạnh. Vì thế mà nhu cầu vận chuyển hàng hóa từ Hà Nội đến KCN Phú An Thạnh tăng mạnh trong thời gian qua.": {
+      "en": "The scale, the position, the diverse profession... are the outstanding advantages to attract investors in KNC Fuji AnTM. So trade in this KNC and the provinces across the country extremely developed. As a result, the demand for freight from Hanoi to KCN Fuji An TM has increased dramatically over the last time.",
+      "zh": "规模,职位,职业多样化... 是吸引KNC富士AnTM投资者的杰出优势. 因此,这个KNC和全国各省的贸易极为发达。 因此,河内至KCN藤安机车的货运需求在上一次大幅增长."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian chuyển hàng đến KCN Phú An Thạnh là nhanh nhất chỉ mất khoản 4 - 5 (ngày, không kể lễ, tết).": {
+      "en": "The time for the delivery to KCN FujiTM is as fast as it takes only around 4/5 (days, no holidays, no holidays).",
+      "zh": "向KCN FujiTM交货的时间也快到4/5左右(日,无节,无节)."
+    },
+    "Thực hiện đúng và đủ mọi điều khoản trong hợp đồng gửi hàng Hà Nội - KCN Phú An Thạnh.": {
+      "en": "Performing the right and all the terms in the Hanoi shipping contract - KNC Fuji An TM.",
+      "zh": "履行河内航运合同中的权利和所有条款-KNC藤安TM."
+    },
+    "Tiêu chí để lựa chọn một đơn vị": {
+      "en": "Focus to Select a Unit",
+      "zh": "焦点选择单位"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những chia sẻ của chúng tôi về kinh nghiệm": {
+      "en": "Above are our share of experience",
+      "zh": "以上是我们的经验"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Vì tọa lạc trên vùng đất có kết cấu địa chất tốt, sức chịu tải của đất nên KCN Phú An Thạnh phù hợp với mọi ngành nghề sản xuất, thuận lợi cho việc xây dựng các nhà máy có kết cấu nặng.": {
+      "en": "Since it is located in the land of fine geometry, the load capacity of the land, KNNN Fuji AWA is in harmony with all manufacturing professions, favouring the construction of heavily structured factories.",
+      "zh": "由于它位于精美几何的国土,土地的负载能力,KNNN Fuji AWA与所有制造业专业相协调,倾向于建造结构森严的工厂."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê sẽ bồi thường 100% giá trị hàng hóa, nếu quá trình gửi hàng từ Hà Nội vào KCN Phú An Thạnh gặp thiệt hại do phía công ty gây ra.": {
+      "en": "Liu transport will compensate 100% of the value of goods, if the delivery process is sent from Hanoi into KCN Fuji An TDD damage caused by the company's side.",
+      "zh": "刘运将100%补偿货物价值,如果交货过程从河内送入KCN富士安TDD公司一方造成的损坏."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với hơn 10 năm kinh nghiệm trong ngành vận tải cùng với đội ngũ nhân viên chuyên nghiệp, tận tâm, Vận tải Lưu Lê cam kết mang đến cho khách hàng những trải nghiệm tốt nhất. Khi sử dụng dịch vụ của Vận tải Lưu Lê, khách hàng được cam kết:": {
+      "en": "With more than 10 years of experience in transportation along with the team of professional, dedicated staff, Liu Li transport is committed to bringing its customers the best experiences. When using the service of Liu Transport, the customer is committed:",
+      "zh": "与专业,敬业的工作人员团队一道,拥有10多年的运输经验,刘力运输致力于为客户带来最佳经验. 使用刘运服务时,客户承诺:"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Lưu Lê để được tư vấn nhé!": {
+      "en": "It's Liu's for counseling!",
+      "zh": "刘家的,是给咨询的!"
+    },
+    "gửi hàng Hà Nội - KCN Phú An Thạnh": {
+      "en": "Order of Hanoi - KCN Fuji AnTM",
+      "zh": "河内勋章-KCN藤安机"
+    },
+    "tốt nhất hiện nay phù hợp cho công ty của bạn là gì? Hãy thử xem bài viết này để lựa chọn đơn vị vận chuyển, gửi đồ uy tín nhất nhé.": {
+      "en": "What's best fit for your company now? Let's see if this article can pick the transportation unit, send the most prestigious.",
+      "zh": "现在最适合你的公司吗? 看看这篇文章能否挑出运输单位,派最有声望的人来."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa Hà Nội – KCN Phú An Thạnh": {
+      "en": "Transportation of Hanoit – KCN Fuji AnTM",
+      "zh": "河内运输-KCN 藤安机"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đảm bảo hàng hóa đến KCN Phú An Thạnh là đủ số lượng và đúng chất lượng.": {
+      "en": "Make sure that goods go to KNC FujiTM are enough and right quality.",
+      "zh": "确保商品去KNC FujitTM足够,质量正确."
+    },
+    "Đối với việc gửi hàng Hà Nội – KCN Phú An Thạnh thì hàng thường có giá trị cao, kích thước lớn yêu cầu vừa nhanh, vừa an toàn nên vận tải bằng đường bộ hoặc đường sắt là lựa chọn tốt nhất. Vận tải đường sắt hiện nay đang được phát triển rất mạnh, được sử dụng rộng rãi trên khắp cả nước, có sức cạnh tranh trực tiếp với vận chuyển đường bộ và đường biển. Vận tải đường sắt có lợi thế là thời gian vận chuyển nhanh cùng với đó là giá thành lại tiết kiệm hơn nhiều so với những loại hình vận tải khác.": {
+      "en": "For the delivery of Hanoi – KCN Fuji AnTM the goods are usually of high value, the large size of the request is both fast and safe so the transport is by foot or railway is the best option. Rail transport is currently highly developed, widely used throughout the country, having the power to compete directly with road transport and sea routes. The advantage of railway transport is fast transport time along with that the price becomes much more savings than other form of transportation.",
+      "zh": "对于河内—KCN Fuji AnTM的交付来说,货物通常价值高,要求的大尺寸既快又安全,因此运输是步行或铁路的最佳选择. 铁路运输目前高度发达,在全国广泛使用,拥有与道路运输和出海航道直接竞争的权力. 铁路运输的优点是运输时间快而价格比其他形式的运输节省了多得多。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

@@ -1,0 +1,882 @@
+{
+  "route": "/blogs/goc-tu-van/chieu-cao-xe-container",
+  "texts": {
+    "- Chiều cao xe container với loại thường là 8 feet 6, loại cao là 9 feet 6. Trước đây người ta thường sử dụng nhiều loại container cao 8 feet nhưng từ khi áp dụng theo tiêu chuẩn quốc tế thì không còn sử dụng nữa mà thay vào đó là loại 8 feet 6 inch.": {
+      "en": "- The container height with the common type is 8 feet 6, the tall type is 9 feet 6. Many of the container types were previously used eight feet tall but since application by international standards were no longer used but instead were 8 feet 6 inches (6 inches).",
+      "zh": "- 有常见型号的容器高为8英尺6分,高为9英尺6分. 许多集装箱类型以前使用高8英尺,但由于国际标准的应用不再使用,而是8英尺6英寸(6英寸)."
+    },
+    "- Chiều dài xe container lấy loại container 40 feet làm chuẩn. Các loại container khác sẽ được thiết kế sao cho có thể xếp dưới container 40 feet mà vẫn đảm bảo có khe hở 3 inch.": {
+      "en": "- The length of the container takes a 40-foot container. Other containers will be designed so that they can be lined under the 40-foot container and still ensure a 3-inch gap.",
+      "zh": "- 容器的长度需要40英尺的容器。 其他的容器会被设计成能被排入40英尺的容器下并仍能保证有3英寸的间隙."
+    },
+    "05 Tháng 7 2021": {
+      "en": "05 July 2021",
+      "zh": "2021年7月05日 (中文(简体) )."
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chiều cao xe container": {
+      "en": "container car height",
+      "zh": "集装箱车高"
+    },
+    "Chiều cao xe container chi tiết theo từng loại": {
+      "en": "The container height details each type",
+      "zh": "容器高度详细列出每种类型"
+    },
+    "Chiều cao xe container tiêu chuẩn là bao nhiêu?": {
+      "en": "What's the standard container height?",
+      "zh": "标准集装箱高度是多少?"
+    },
+    "Chiều cao: bên ngoài 8 feet 6 inch, bên trong 7 feet 10.2 inch.": {
+      "en": "Height: Outside 8 feet 6 inches, inside 7 feet 10.2 inches.",
+      "zh": "高度:外高8英尺6英寸,内高7英尺10.2英寸."
+    },
+    "Chiều cao: bên ngoài 8 feet 6 inch, bên trong 7 feet 10.3 inch.": {
+      "en": "Height: Outside 8 feet 6 inches, inside 7 feet 10.3 inches.",
+      "zh": "高度:外高8英尺6英寸,内高7英尺10.3英寸."
+    },
+    "Chiều cao: bên ngoài 8 feet 6 inch, bên trong 7 feet 3.6 inch.": {
+      "en": "Height: Outside 8 feet 6 inches, inside 7 feet 3.6 inches.",
+      "zh": "高度:外高8英尺6英寸,内高7英尺3.6英寸."
+    },
+    "Chiều cao: bên ngoài 8 feet 6 inch, bên trong 7 feet 5.2 inch.": {
+      "en": "Height: Outside 8 feet 6 inches, inside 7 feet 5.2 inches.",
+      "zh": "高度:外高8英尺6英寸,内高7英尺5.2英寸."
+    },
+    "Chiều cao: bên ngoài 8 feet 6 inch, bên trong 7 feet 8.9 inch.": {
+      "en": "Height: Outside 8 feet 6 inches, inside 7 feet 8.9 inches.",
+      "zh": "身高:外高8英尺6英寸,内高7英尺8.9英寸."
+    },
+    "Chiều cao: bên ngoài 9 feet 6 inch, bên trong 7 feet 3.3 inch.": {
+      "en": "Height: Outside 9 feet 6 inches, inside 7 feet 3.3 inches.",
+      "zh": "高度:外高9英尺6英寸,内高7英尺3.3英寸."
+    },
+    "Chiều cao: bên ngoài 9 feet 6 inch, bên trong 8 feet 10.2 inch.": {
+      "en": "Height: Outside 9 feet 6 inches, inside 8 feet 10.2 inches.",
+      "zh": "身高:外高9英尺6英寸,内高8英尺10.2英寸."
+    },
+    "Chiều dài: bên ngoài 20 feet, bên trong 17 feet 11.9 inch.": {
+      "en": "Length: Outside 20 feet, inside 17 feet 11.9 inches.",
+      "zh": "长度:外出20英尺,内出17英尺11.9英寸."
+    },
+    "Chiều dài: bên ngoài 20 feet, bên trong 19 feet 4.2 inch.": {
+      "en": "Length: Outside 20 feet, inside 19 feet 4.2 inches.",
+      "zh": "长度:外出20英尺,内出19英尺4.2英寸."
+    },
+    "Chiều dài: bên ngoài 20 feet, bên trong 19 feet 4.3 inch.": {
+      "en": "Length: Outside 20 feet, inside 19 feet 4.3 inches.",
+      "zh": "长度:外出20英尺,内出19英尺4.3英寸."
+    },
+    "Chiều dài: bên ngoài 40 feet, bên trong 19 feet 4.3 inch.": {
+      "en": "Length: Outside 40 feet, inside 19 feet 4.3 inches.",
+      "zh": "长度:外出40英尺,内出19英尺4.3英寸."
+    },
+    "Chiều dài: bên ngoài 40 feet, bên trong 37 feet 11.0 inch.": {
+      "en": "Length: Outside 40 feet, inside 37 feet 11.0 inches.",
+      "zh": "长度:外出40英尺,内出37英尺11.0英寸."
+    },
+    "Chiều dài: bên ngoài 40 feet, bên trong 37 feet 11.6 inch.": {
+      "en": "Length: Outside 40 feet, inside 37 feet 11.6 inches.",
+      "zh": "长度:外出40英尺,内出37英尺11.6英寸."
+    },
+    "Chiều dài: bên ngoài 40 feet, bên trong 39 feet 5.3 inch.": {
+      "en": "Length: Outside 40 feet, inside 39 feet 5.3 inches.",
+      "zh": "长度:外出40英尺,内出39英尺5.3英寸."
+    },
+    "Chiều dài: bên ngoài 40 feet, bên trong 39 feet 5.7 inch.": {
+      "en": "Length: Outside 40 feet, inside 39 feet 5.7 inches.",
+      "zh": "长度:外出40英尺,内出39英尺5.7英寸."
+    },
+    "Chiều dài: bên ngoài 40 feet, bên trong 39 feet 5.8 inch.": {
+      "en": "Length: Outside 40 feet, inside 39 feet 5.8 inches.",
+      "zh": "长度:外出40英尺,内出39英尺5.8英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet (2.44m), bên trong 7 feet 8.6 inch.": {
+      "en": "Range: Outside 8 feet (2.44 m), inside 7 feet 8.6 inches.",
+      "zh": "范围:外出8英尺(2.44米),内出7英尺8.6英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet, bên trong 7 feet 6.0 inch.": {
+      "en": "Range: Outside 8 feet, inside 7 feet 6.0 inches.",
+      "zh": "距离:外出8英尺,内出7英尺6.0英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet, bên trong 7 feet 6.2 inch.": {
+      "en": "Range: Outside 8 feet, inside 7 feet 6.2 inches.",
+      "zh": "距离:外出8英尺,内出7英尺6.2英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet, bên trong 7 feet 6.4 inch.": {
+      "en": "Range: Outside 8 feet, inside 7 feet 6.4 inches.",
+      "zh": "距离:外出8英尺,内出7英尺6.4英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet, bên trong 7 feet 8.4 inch.": {
+      "en": "Wide: Outside 8 feet, inside 7 feet 8.4 inches.",
+      "zh": "宽:外出8英尺,内出7英尺8.4英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet, bên trong 7 feet 8.5 inch.": {
+      "en": "Wide: Outside 8 feet, inside 7 feet 8.5 inches.",
+      "zh": "宽:外出8英尺,内出7英尺8.5英寸."
+    },
+    "Chiều rộng: bên ngoài 8 feet, bên trong 7 feet 8.6 inch.": {
+      "en": "Range: Outside 8 feet, inside 7 feet 8.6 inches.",
+      "zh": "距离:8英尺外,7英尺8.6英寸内."
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Container 20 foot dry có chiều cao bên ngoài 8 feet 6, chiều cao bên trong 7 feet 10.3 inch": {
+      "en": "Container 20 foot dry has height outside 8 feet 6, height inside 7 feet 10.3 inches",
+      "zh": "20英尺干燥的集装箱在8英尺6外 有7英尺10.3英寸的高度"
+    },
+    "Container 40 foot open top container có chiều trong bên ngoài 8 feet 6, chiều cao bên trong 7 feet 8.9 inch": {
+      "en": "Container 40 foot open top container has an internal dimension inside 8 feet 6, the height inside 7 feet 8.9 inches",
+      "zh": "集装箱40英尺开口 顶部容器在8英尺6分内 有内部尺寸 高度在7英尺8.9英寸"
+    },
+    "Container là phương tiện tiện vận chuyển hàng hóa mang tính quốc tế. Do vậy, kích thước chiều cao xe container được quy định rất rõ ràng để đảm bảo sự đồng nhất giữa các quốc gia, giúp thuận tiện hơn trong khâu nhận biết và quản lý. Vậy": {
+      "en": "Container is an international freight vehicle. Thus, the size of the container car is very clear to ensure the consensus among countries, which helps to be more convenient in the awareness and management of the container. Then",
+      "zh": "集装箱是一种国际货运车辆。 因此,集装箱车的尺寸非常清楚,可以确保各国达成共识,这有助于更方便地认识和管理集装箱。 礛"
+    },
+    "Container được thiết kế với nhiều kích thước khác nhau để phù hợp nhu cầu chở hàng": {
+      "en": "Container was designed in various sizes to match the demand for freight",
+      "zh": "集装箱设计大小各异,与货运需求相匹配"
+    },
+    "Container được thiết kế với nhiều loại có kích thước khác nhau, phù hợp với từng đơn vị sử dụng. Do yêu cầu chuẩn hóa thiết kế container trên toàn cầu nên việc sản xuất container đều phải tuân thủ theo tiêu chuẩn ISO đã được quy định từ trước.": {
+      "en": "Container was designed with a variety of sizes, which fit each unit. Due to the requirement for standardization of container design worldwide, container production was all required to conform to the ISO standards that had been pre-ordered.",
+      "zh": "集装箱的设计尺寸各有不同,适合每个单元。 由于全世界集装箱设计标准化的要求,集装箱生产都必须符合事先订购的ISO标准。"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy định về tiêu chuẩn kích thước chiều cao của container": {
+      "en": "The standard for the height of the container",
+      "zh": "容器高度标准"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy thuộc mỗi loại container khác nhau mà kích thước chiều cao sẽ có phần khác nhau. Bạn đang tìm kiếm container chuyên chở hàng hóa? Vận tải Lưu Lê sẽ là địa chỉ không thể tuyệt vời hơn dành cho bạn lúc này. Chúng tôi trang bị đầy đủ các loại container khác nhau với nhiều kích thước đa dạng, phục vụ nhu cầu của khách hàng. Mọi thông tin liên hệ xin vui long gọi theo số hotline để được tư vấn nhanh chóng nhất!": {
+      "en": "Depending on each different container that the height size will be somewhat different. You're looking for shipping containers? Liu Li Transport will be a better address than it is for you now. We have a full range of different container types with diverse sizes, serving customers' needs. All related information please call at number hotline to get the fastest counseling!",
+      "zh": "根据每个不同的容器,高度大小将有所不同。 你在找集装箱吗? 刘力运输会比你现在的地址好 我们有各种各样的不同集装箱类型,大小各异,满足客户的需要。 所有相关信息请拨打热线电话,以获得最快的咨询!"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển container Bắc Nam": {
+      "en": "Northern South container shipping",
+      "zh": "南北集装箱运输"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chiều cao xe container tiêu chuẩn": {
+      "en": "Standard container height",
+      "zh": "标准集装箱高度"
+    },
+    "như thế nào? Cùng tìm hiểu chi tiết qua bài viết dưới đây!": {
+      "en": "How? Let us examine details from the following article!",
+      "zh": "怎么会? 让我们从下篇文章中审查详细情况!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để giúp bạn nắm rõ hơn kích thước chiều cao của các loại container hiện nay. Dưới đây là bảng tổng hợp tiêu chuẩn container chi tiết như sau:": {
+      "en": "To help you better understand the height of current container types. The following is the detailed container standard synthesis board:",
+      "zh": "帮助您更好地了解当前容器类型的高度. 以下是详细的容器标准合成板:"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► 20 foot flat rack": {
+      "en": "►20 foot flack",
+      "zh": "20英尺长"
+    },
+    "► 20 foot open top container": {
+      "en": "20 foot open top container",
+      "zh": "20英尺打开顶部容器"
+    },
+    "► 20 foot refrigerated container": {
+      "en": "20 foot refigerated container",
+      "zh": "20英尺重置集装箱"
+    },
+    "► 40 foot flat rack": {
+      "en": "ED 40 foot flack",
+      "zh": "径40英尺"
+    },
+    "► 40 foot high cube container": {
+      "en": "JSTOR 40 foot up container",
+      "zh": "JSTOR 40英尺高的容器"
+    },
+    "► 40 foot high cube refrigerated container": {
+      "en": "JSTOR 40 foot high cube refigerated container",
+      "zh": "JSTOR 40英尺高的立方体重置容器"
+    },
+    "► 40 foot open top container": {
+      "en": "40 foot open top container",
+      "zh": "40英尺开口顶部容器"
+    },
+    "► 40 foot refrigerated container": {
+      "en": "JSTOR 40 foot refigerated container",
+      "zh": "JSTOR 40英尺重置容器"
+    },
+    "► Container 20’ Dry": {
+      "en": "ISI Continner 20’ Dry",
+      "zh": "ISI Continner 20 干法"
+    },
+    "► Container 40’ dry": {
+      "en": "ISI Continner 40' dry",
+      "zh": "三军情报局 Continner 40'干燥"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

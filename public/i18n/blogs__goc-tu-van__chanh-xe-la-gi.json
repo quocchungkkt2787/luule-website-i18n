@@ -1,0 +1,842 @@
+{
+  "route": "/blogs/goc-tu-van/chanh-xe-la-gi",
+  "texts": {
+    "16 Tháng 6 2021": {
+      "en": "June 16, 2021",
+      "zh": "2021年6月16日 (英语)."
+    },
+    ": Xác nhận các hàng hóa, khối lượng và địa điểm xuất phát, địa điểm trả hàng cùng thời gian giao nhận cụ thể.": {
+      "en": ": Confirm the goods, mass and site origins, the exact time payment site.",
+      "zh": ":确认货物,质量和站点来源,准确的时间支付站点."
+    },
+    ">>> Xem ngay:": {
+      "en": "> DHS View Now:",
+      "zh": "现在 > DHS 视图 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Báo giá cho khách hàng theo mặt hàng và quãng đường vận chuyển.": {
+      "en": "Report the price to the customer on the line and the distance of transport.",
+      "zh": "上线向客户报告价格和运输距离."
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1:": {
+      "en": "Step 1:",
+      "zh": "步骤1:"
+    },
+    "Bước 2:": {
+      "en": "Step 2:",
+      "zh": "步骤2:"
+    },
+    "Bước 3:": {
+      "en": "Step 3:",
+      "zh": "步骤3:"
+    },
+    "Bước 4:": {
+      "en": "Step 4:",
+      "zh": "步骤4:"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chành là xe một phương thức vận chuyển hàng hóa phổ biến ở các khu vực miền Trung, có 3 loại chành xe hiện nay đang được sử dụng nhiều, vậy": {
+      "en": "The car is a popular delivery method in central areas, there are three types of vehicles currently in use, so",
+      "zh": "该车在中部地区是一种受欢迎的接送方式,目前使用的有三种车型,所以"
+    },
+    "Chành xe Bắc Nam": {
+      "en": "North South car lane",
+      "zh": "南北车道"
+    },
+    "Chành xe có ý nghĩa gì? Có những loại Chành xe nào hãy cùng Lưu Lê tìm hiểu ngay để hiễu rõ hơn.": {
+      "en": "What's the meaning of the car? There are some types of vehicles, let's find out immediately.",
+      "zh": "何等为车. 有一些类型的车辆,让我们立即发现。"
+    },
+    "Chành xe hiện nay có nhiều loại nên bạn cần nắm rõ để hoạt động hàng hóa diễn ra tốt hơn. Mỗi loại chành xe có đặc điểm và ý nghĩa riêng trong vận chuyển hàng hóa. Cụ thể như sau:": {
+      "en": "There are many types of vehicles available today, so you need to get a good grasp of what works better. Each car type has its own character and meaning in freight. Specifically as follows:",
+      "zh": "今天有很多类型的车辆,所以你需要很好地掌握什么是更好的。 每种车型在货运中都有自己的特点和意义. 具体如下:"
+    },
+    "Chành xe khách chức năng chính để vận chuyển người giữa các địa điểm với nhau. Tuy nhiên, do chành xe khách thường có khoang hàng trống nên có nhận vận chuyển hàng hóa đi kèm. Do chức năng chính là chở người nên lượng hàng hóa chở bằng chành xe khách không nhiều, đa số là hàng xách tay của khách với lượng ít.": {
+      "en": "The main function passenger car to transport people between locations together. However, since the passenger car often had an empty cargo compartment, it was taken with it. Due to the main function of carrying people, the bulk of the cargo was not much, most of it was the customer's portable goods with little amount.",
+      "zh": "主要功能为客车,将人员运送到不同地点之间. 然而,由于客车经常有空载货舱,因此被取走. 由于载人的主要功能,大部分货物并不多,大部分是客户的便携式货物,数量很少."
+    },
+    "Chành xe khách sẽ giao hàng theo dọc đường di chuyển của xe hoặc có thể giao tại các bến xe miền hàng đến tận tay người nhận. Khách hàng cần phải trả phí vận chuyển để vận chuyển hàng hóa, thông thường chỉ khoảng vài chục đến vài trăm tùy mặt hàng.": {
+      "en": "The passenger carriage will be delivered along the route of the vehicle or can be delivered at the freight terminals to the receiver. Customers need to pay transportation fees to transport goods, typically only about a few dozen to a few hundred custom items.",
+      "zh": "客运车厢将沿车辆行驶路线交付,或可在货运站交付接收. 客户需要支付运输货物的运输费,一般只有几十到几百个定制物品。"
+    },
+    "Chành xe là gì": {
+      "en": "What's a parking lot?",
+      "zh": "什么是停车场?"
+    },
+    "Chành xe là gì?": {
+      "en": "What are cars?",
+      "zh": "什么是汽车?"
+    },
+    "Chành xe là gì? Chành xe có ý nghĩa gì? Cách gửi chành xe Bắc Nam": {
+      "en": "What are cars? What's the meaning of the car? How to Send North South Car",
+      "zh": "什么是汽车? 何等为车. 如何送出南车"
+    },
+    "Chành xe là nơi diễn ra dịch vụ vận chuyển hàng hóa. Chành xe tiếp nhận nguồn hàng hóa từ nơi này đến một nơi khác theo yêu cầu của khách hàng. Hiện nay, hầu hết mọi người đều biết đến chành xe là nơi tập kết những loại hàng hóa nhận từ khách và chuẩn bị lên đường để gửi đi nơi khác theo đơn đặt hàng.": {
+      "en": "The parking lot is where the freight service is going. The vehicle receives supplies from one place to another at the request of the customer. Currently, most people are known for their car’s drive, where they gather the goods received from guests and prepare to send them elsewhere in order.",
+      "zh": "停车场为货运服务站点. 车辆应顾客的要求从一地到另一地接收用品。 目前,大多数人因开车而出名,他们从客人那里收集收到的货物,并准备将其送往其他地方。"
+    },
+    "Chành xe là địa điểm tập kết hàng hóa": {
+      "en": "The parking lot is the location of the cargo assembly.",
+      "zh": "停车场是货物组装的地点."
+    },
+    "Chành xe thực chất là thuật ngữ khá quen thuộc vì đã sử dụng nhiều trong những hoạt động vận tải. Tìm hiểu về khái niệm, nguồn gốc và phân loại cũng như ý nghĩa của chành xe sẽ giúp bạn củng cố thêm kiến thức hữu ích để phục vụ nhu cầu vận chuyển hàng hóa của mình trong cuộc sống.": {
+      "en": "Parking cars are actually fairly familiar terms for having used a lot of transportation activities. Learning about the concept, origin, and classification as well as the meaning of the car will help you to strengthen your useful knowledge to serve your needs for freight in life.",
+      "zh": "停车车辆实际上相当熟悉使用许多运输活动。 了解汽车的概念、来源和分类以及意义,将有助于增强你的有用知识,满足你一生的货运需要。"
+    },
+    "Chành xe tải chuyên chở hàng hóa": {
+      "en": "The freight truck.",
+      "zh": "货车。"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Chọn đơn vị cung cấp dịch vụ vận tải chuyên nghiệp": {
+      "en": "Select the unit that provides professional transportation services",
+      "zh": "选择提供专业运输服务的单位"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cách gửi chành xe Bắc Nam tại công ty Vận Tải Lưu Lê": {
+      "en": "The way to send the North South car to the Liu Transport Company",
+      "zh": "南车北去刘公交公司的方法"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng hóa tại công ty Vận Tải Lưu Lê được thực hiện theo các bước sau:": {
+      "en": "The freight service at the Liu Transport Company was taken in the following steps:",
+      "zh": "刘公运公司货运服务采取以下步骤: 一,本站办理货运业务."
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao đơn hàng đến tay người nhận theo thời gian đã thỏa thuận trong hợp đồng. Đảm bảo an toàn cho hàng hóa khi di chuyển và báo cho khách hàng trước khoảng 1 – 2 tiếng khi hàng chuẩn bị đến.": {
+      "en": "Delivering the order to the receiver in time had agreed on the contract. Secure the cargo when moving and informing the customer before about 1 – 2 hours when the package is ready to arrive.",
+      "zh": "及时向接收人交付订单就合同达成了协议。 当货包准备到达时,在大约1至2小时前将货物安全运出并通知客户。"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lợi ích rõ nhất khi bạn sử dụng loại dịch vụ chành xe này là ưu đãi về chi phí vận chuyển. Mức phí vận chuyển bên thứ ba tương đối thấp đáp ứng mong muốn của khách hàng và vận chuyển hàng hóa nhanh chóng.": {
+      "en": "The most obvious benefit when you use this type of car service is that of the transportation costs. The third-party transport fee is relatively low in response to customers' wishes and rapid freight.",
+      "zh": "当您使用这种类型的汽车服务时,最明显的好处是交通成本。 第三方运输费相对较低,以响应客户的愿望和快速货运."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhân viên tư vấn cho khách hàng phương án vận chuyển phù hợp.": {
+      "en": "Advisory to the customer the appropriate transport plan.",
+      "zh": "向客户建议适当的运输计划。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những thông tin trong bài viết này chắc hẳn đã giúp bạn hiểu về thuật ngữ chành xe là gì. Vui lòng liên hệ với Vận Tải Lưu Lê nếu bạn cần vận chuyển hàng hóa nhé!": {
+      "en": "The information in this article must have helped you to understand what the term car is. Please contact Liu Transport if you need freight.",
+      "zh": "这篇文章中的信息一定帮助你理解汽车一词是什么. 需要货运请联系刘运."
+    },
+    "Nếu bạn đang thắc mắc chành xe là gì và loại chành xe nào phổ biến thì chành xe tải là câu trả lời chính xác. Loại chành xe này có nhiều ưu điểm hơn so với chành xe khách và được ứng dụng nhiều trong dịch vụ vận tải hàng hóa chuyên nghiệp.": {
+      "en": "If you're wondering what a car is and what kind of car car is popular, trucks are the exact answer. This type of car has more advantages than passenger cars and is more used in professional freight services.",
+      "zh": "如果你想知道什么是汽车 什么样的汽车是流行的, 卡车是确切的答案。 这种车型的优点比客车多,在专业货运服务中使用较多."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thuật ngữ chành xe xuất hiện từ khá lâu, ngay từ thời điểm dịch vụ vận chuyển xuất hiện và bắt đầu những bước phát triển đầu tiên. Thực chất chành xe là ngôn ngữ nói theo giọng điệu của người hoa của từ gốc “trạm xe”.": {
+      "en": "The term car used to appear a long time ago, from the time the transport service appeared and began its first development steps. The original word for the original word “car car.",
+      "zh": "汽车一词在很久以前就已经出现,从运输服务出现开始,开始其最初的开发步骤. 原词\"车\"的原词."
+    },
+    "Thuật ngữ này nói đến các đơn vị vận chuyển liên kết cùng nhau để tạo dịch vụ vận tải nhiều phương thức vận chuyển. Hiểu đơn giản là các đơn vị này không có phương tiện vận chuyển mà họ chỉ là trung gian đứng ra nhận đơn hàng sau đó liên hệ với nhà xe để thỏa thuận vận chuyển về hàng hóa.": {
+      "en": "The term refers to co-linked transport units to create multiple transport services. It is simply understood that these units had no means of transportation that they were just intermediate to recognize the order then contact the garage for the delivery deal.",
+      "zh": "该术语是指建立多种运输服务的联运单位. 简单地说,这些单位没有交通工具,它们只是中间体,可以确认订单,然后与停车场联系,进行交货交易。"
+    },
+    "Tiếp nhận thông tin khách hàng qua": {
+      "en": "Receive customer information through",
+      "zh": "通过"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xe tải được sử dụng mục đích chính để chở hàng hóa nên có lộ trình cụ thể khi vận chuyển. Ngoài ra, số lượng hàng hóa có thể vận chuyển bằng chành xe tải nhiều hơn và đa dạng hơn. Xe có thể vận chuyển hàng hóa với kích thước lớn lên tới 100kg.": {
+      "en": "Trucks were used for the main purpose of carrying goods should have specific routes when transporting. Additionally, the amount of goods can be transported by trucks more and more diverse. Cars can transport goods at a size of up to 100 kg.",
+      "zh": "卡车用于运载货物的主要目的,在运输时应有特定路线。 此外,货车运送的货物数量可能越来越多。 车厢可载货,载货量可达100公斤."
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "uy tín tại TPHCM!": {
+      "en": "Fame at TPHCM!",
+      "zh": "在TPHCM的名声!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Ý nghĩa các loại chành xe trên thị trường": {
+      "en": "The Meaning of Caring Types on Market",
+      "zh": "市场照顾类型的含义"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để tăng hiệu quả khi hoạt động, các nhà xe thường nhận vận chuyển thêm hàng hóa qua hình thức ký gửi. Những mặt hàng này thường phải đảm bảo độ nhỏ gọn, đóng gói chắc chắn và không có mùi gây ảnh hưởng đến hành khách trong xe. Vì vậy, nếu bạn cần gửi những món hàng nhỏ có thể tận dụng chành xe khách để gửi khá tiện lợi và giá thành tương đối phải chăng.": {
+      "en": "To increase efficiency in operations, garages often receive extra freight via deposit form. These items often have to ensure a small, solid, and no smell that affects passengers in the car. So if you need to send small items that can make good use of the passenger car to send it fairly convenient and affordable.",
+      "zh": "为了提高业务效率,车库经常通过存款表获得额外的运费. 这些物品往往需要保证一个小的,坚固的,没有影响车内乘客的味道. 所以,如果你需要寄出能够很好地利用客车的小物品,以相当方便和负担得起的方式寄出."
+    },
+    "Đối tượng nên sử dụng chành xe tải để vận chuyển hàng hóa thường là các cửa hàng hay doanh nghiệp có nhu cầu vận chuyển nhiều hàng. Phương pháp vận chuyển của hình thức này là ghép xe, ghép hàng khi nhiều khách có cùng lộ trình sẽ lên cùng một chành xe để có hành trình vận chuyển chung tiết kiệm chi phí và thời gian.": {
+      "en": "Subjects should use trucks to transport goods often are shops or businesses where the demand for transportation is greater. The method of transport of this form is car transplantation, the assembly as many passengers with the same route will go up to the same car to take a joint transport route that saves costs and time.",
+      "zh": "主体应使用卡车来运输货物,通常是运输需求较大的商店或企业. 这种形式的运输方式是汽车移植,同道同道的乘客众多后组装会上同道同道同道同道同道同道同道同道同道可节省成本和时间."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Ưu điểm lớn nhất của chành xe khách là thời gian giao hàng nhanh vì khoảng thời gian này tính bằng hành trình đi và đến giữa các điểm của xe khách. Hàng hóa khi vận chuyển qua hình thức này không cần trải qua công đoạn chuyển kho hay lưu kho nên tiết kiệm thời gian cho người nhận.": {
+      "en": "The biggest advantage of the passenger car is the time of rapid delivery as this period counts by the journey and comes between the destinations of the passenger car. The goods when transported in this form do not need to undergo the archive or archive transfers should save time for receivers.",
+      "zh": "客车的最大优势是快速发车的时间,因为这一时期的起跑时间依次计算,并出现在客车的目的地之间. 以这种形式运输的货物不需要经过档案或档案转移,应当为接收者节省时间。"
+    },
+    "► Chành không có xe": {
+      "en": "There's no car.",
+      "zh": "没有车。"
+    },
+    "► Chành xe khách": {
+      "en": "The passenger car.",
+      "zh": "客车."
+    },
+    "► Chành xe tải": {
+      "en": "The truck.",
+      "zh": "卡车"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

@@ -1,0 +1,814 @@
+{
+  "route": "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-go-dau",
+  "texts": {
+    ". Hy vọng những kiến thức này sẽ giúp quá trình chuyển hàng hóa của cá nhân hoặc doanh nghiệp bạn suôn sẻ nhất. Nếu còn bất cứ thắc mắc nào liên quan đến chuyển hàng tại KCN Gò Dầu, hãy liên hệ vận tải Lưu Lê ngay để được tư vấn nha!": {
+      "en": "Yeah. Hopefully these knowledges will help carry your personal or business the most smoothly. If you have any questions about shipping at KCNC Oil, contact Liu Li Transport immediately for consultation!",
+      "zh": "对 希望这些知识能帮助你最顺利地处理你的私人或生意. 如果对KCNC Oil的航运有任何疑问,请立即联系刘力运输咨询!"
+    },
+    "20 Tháng 7 2022": {
+      "en": "20 July 2022",
+      "zh": "2022年7月20日 (中文(简体) )."
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Tiếp nhận nhu cầu của khách muốn gửi hàng Hà Nội - KCN Gò Dầu.": {
+      "en": "Step 1: Accept the needs of guests who wish to send Hanoi's goods - the oil.",
+      "zh": "步骤一:接受想送出河内货的来宾的需求-石油."
+    },
+    "Bước 2: Khảo sát thực tế hàng hóa tại kho Hà Nội, sau đó báo giá dịch vụ phù hợp.": {
+      "en": "Step 2: Survey of real goods at the Hanoi Archive, then report the appropriate service price.",
+      "zh": "步骤2:在河内档案馆进行实货调查,然后报告适当的服务价格。"
+    },
+    "Bước 3: Tiến hành ký hợp đồng chuyển hàng từ Hà Nội vào KCN Gò Dầu.": {
+      "en": "Step 3: Proceed with a transfer contract from Hanoi into KCNNC Oil.",
+      "zh": "第3步:着手执行从河内转到KCNNC Oil的合同。"
+    },
+    "Bước 4: Kiểm kê hàng hóa thật cẩn thận trước khi chuyển hàng vào KCN Gò Dầu, dọn đồ, khuân vác, sắp xếp và chuyển đầy đủ theo hợp đồng.": {
+      "en": "Step 4: Check the goods carefully before moving into KNC Oil, packing, carrying, arranging, and moving fully under contract.",
+      "zh": "第4步:在进入KNC Oil之前仔细检查货物,包装、携带、安排和完全按照合同运输。"
+    },
+    "Bước 5: Kiểm kê lại với người nhận ở KCN Gò Dầu, nếu không có bất kỳ thắc mắc nào sẽ bàn giao và thanh toán đúng hợp đồng.": {
+      "en": "Step 5: Check with the recipient at KCNCNC Oil, without any question will hand over and pay the contract accordingly.",
+      "zh": "第5步:与KCNCNC Oil的接收者核对,不问任何问题,将移交并相应支付合同."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí vận chuyển là tất cả chi phí của phương tiện chuyển hàng từ Hà Nội đến KCN Gò Dầu.": {
+      "en": "Transportation costs are all the costs of transport from Hanoi to KCNCN Oil.",
+      "zh": "运输费用是从河内到KCN Oil的所有运输费用。"
+    },
+    "Chuyển hàng Hà Nội KCN Gò Dầu": {
+      "en": "Transported Hanoi Internal Oil",
+      "zh": "河内石油运输公司"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính nhờ những thuận lợi của giao thông, nên hoạt động giao thương giữa KCN Gò Dầu diễn ra rất sôi nổi. Không chỉ xuất hàng từ KCN đến các tỉnh thành khác, mà hoạt động nhận hàng có hằng ngày. Và một trong những cái tên tiêu biểu thường xuyên giao - nhận hàng với KCN Gò Dầu chính là thủ đô Hà Nội. Từ Hà Nội vào KCN Gò Dầu có thể di chuyển bằng đường bộ hoặc đường hàng không. Nhưng để thuận lợi cho chuyển hàng hóa khối lượng nặng, cồng kềnh thì đường sắt vẫn là phương án ưu tiên.": {
+      "en": "It was due to traffic advantages, the trade activity between KCNCNNA oil was very intense. Not only did they produce from KNC to other provinces, but the daily acquisition activity. And one of the typical names that regularly intersects – receiving with KCNNC Oil is the Hanoi capital. From Hanoi to KNNC oil can be moved by land route or airway. But in order to make it easy for heavy mass freight, Mela Meadow is still a priority option.",
+      "zh": "由于交通优势,克CNNA石油之间的贸易活动非常激烈. 他们不仅从克民盟生产到其他省份,而且每天从事收购活动。 而经常相交的典型名称之一——接收到与KCNNC Oil的为河内省会. 从河内到KNNC的石油可以由陆路或空运来转移. 但为了方便重载货运,梅拉·梅多仍然是优先选择."
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các chi phí tháo dỡ, đóng gói, lắp ráp (nếu có phát sinh) + các chi phí khuân vác, bốc dỡ liên quan (nếu có) sẽ phụ thuộc vào khối lượng hàng hóa, số nhân công và máy móc sử dụng.": {
+      "en": "The cost of dismantled, packaged, assembled (if any arise) + the cost of carrying, the relevant lift (if any) will depend on the mass of goods, the number of workers and machines used.",
+      "zh": "拆卸、包装、组装(如果有的话)的费用+搬运费用,有关的起重(如果有的话)将取决于货物质量、工人数量和使用的机器。"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có phải bạn đang quan tâm đến vấn đề": {
+      "en": "Are you interested in the matter",
+      "zh": "你对这件事有兴趣吗?"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cùng với đó là hệ thống xử lý nước thải công suất 5000m3/day và các tiện ích khác tạo điều kiện cho các doanh nghiệp hoạt động tối đa năng suất của mình.": {
+      "en": "Along with that is the 5,000 m/day power waste disposal system and other utility that facilitates the most active businesses of his productivity.",
+      "zh": "与此同时,还有5 000米/日的电力废物处理系统和其他便利于其生产力最活跃的企业的公用事业。"
+    },
+    "Cơ sở hạ tầng tại khu công nghiệp Gò Dầu cũng được đầu tư xây dựng rất đầy đủ. Với khu giao thông nội bộ có đường chính gồm 4 làn, đường nhánh phụ có 2 làn thoải mái cho các loại xe di chuyển trong KCN. Hơn nữa, nguồn điện được cung cấp đầy đủ với công suất 40 MVA, hệ thống nước sạch công suất 10000m3/day.": {
+      "en": "The infrastructure at the Medved Industries is also invested in very well-built. With the internal traffic area with the main line of 4 lanes, the subway has 2 lanes of comfort for the type of vehicles moving in KCNN. Furthermore, the power source is fully supplied with a capacity of 40 MVA, the 10,000 m3/day clean water system.",
+      "zh": "Medved工业的基础设施也投资在非常完善的建筑上。 以内地交通区为主干线为4车道,地铁为KCNN出行的车辆类型设置了2道舒适道. 此外,电力源的供电能力为40兆瓦,即每天10 000立方米的清洁供水系统。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá chuyển hàng từ Hà Nội vào đến KCN Gò Dầu = Các chi phí tháo dỡ, lắp ráp, đóng gói (nếu có phát sinh) + các chi phí bốc xếp liên quan (nếu có) + chi phí vận chuyển.": {
+      "en": "The shipping price from Hanoi into KCNCNN Oil= The cost of dissolution, assembly, packing (if any arise) + related stacking costs (if any) + transportation costs.",
+      "zh": "从河内运入KCNN Oil的运价=溶解、组装、包装(如有)+相关堆放费用(如有)+运输费用。"
+    },
+    "Giá cả chuyển hàng ở Lưu Lê phải chăng và được đánh nhận xét là hợp lý nhất thị trường.": {
+      "en": "The cost of shipping in Liu Li was reasonable and was contested as the fairest market.",
+      "zh": "刘力的航运成本合理,被质疑为最公平市场."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội KCN Đồng Nai": {
+      "en": "Send the Hanoi KNC Plains",
+      "zh": "发送河内 KNC平原"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hình 3: Quy trình gửi hàng Hà Nội - KCN Gò Dầu của vận tải Lưu Lê rất chuyên nghiệp": {
+      "en": "Photo 3: The Hanoi-KNNC oil delivery process of Liu transport is very professional",
+      "zh": "图片3:刘运的河内-KNNC石油输送过程非常专业."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khu công nghiệp Gò Dầu có diện tích là 210ha": {
+      "en": "The Meadow Industrial Zone has an area of 210ha",
+      "zh": "Meadow工业区面积为210ha"
+    },
+    "Khu công nghiệp Gò Dầu có địa chỉ cụ thể ở Xã Phước Thái, huyện Long Thành, tỉnh Đồng Nai. Diện tích của nó là 210ha và tỷ lệ lấp đầy 100%. Các ngành được ưu tiên hoạt động trong khu công nghiệp này như cơ khí và sản xuất cấu kiện kim loại, sản xuất phân bón và hóa chất, công nghiệp sản xuất nhựa và chất dẻo,...": {
+      "en": "The Industry Zone has a specific address in the Thai Society, the district of Long City, the province of Nai. Its area is 210ha and its capacity is 100%. The industries are preferred to operate in this industry as mechanics and production of metal lawsuits, fertilizer and chemicals, plastic production industry and plastic material,...",
+      "zh": "工业区在泰会,龙城区,直隶省有具体地址. 它的面积为210ha,容量为100%. 这些工业更倾向于作为机械和生产金属诉讼、化肥和化学品、塑料生产工业和塑料材料的工业。"
+    },
+    "Khu công nghiệp Gò Dầu thuộc vùng kinh tế trọng điểm phía Nam. Đây là một trong số ít các khu công nghiệp có cảng nội khu thuận tiện cho việc vận chuyển hàng hóa xuất nhập khẩu. KCN Gò Dầu cách trung tâm thành phố Hồ Chí Minh chỉ 67km, đến TP Biên Hòa là 42km. Hơn nữa từ KCN này đến sân bay Quốc tế Long Thành cũng chỉ 12km và rất gần với các cảng biển, nhà ga lớn.": {
+      "en": "The Meadow Industrial Area of Oil is part of the southern point economic region. This is one of the few industrial districts with a convenient interior port for import goods transport. KCNCN 187 miles (67 km) from the center of Ho Chi Minh, to TP Border Republic is 42 km (42 km). Moreover from this KNC to Long City International Airport is also only 12 km (12 km) and is very close to the seaports, the large station.",
+      "zh": "Meadow工业区石油是南点经济区的一部分. 这是少数拥有便利内地港口的工业区之一,用于进口货物运输. 从胡志明市中心到TP边境共和国的克CN187英里(67公里)为42公里(42公里). 此外从这个KNC到长城国际机场也只有12公里(12公里),并非常靠近海港,即大站."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê là đơn vị gửi hàng Hà Nội đến KCN Gò Dầu uy tín nhất": {
+      "en": "Liu Li is the unit that sent Hanoi to KCNCNCU the most prestigious oil",
+      "zh": "刘力是把最有声望的石油送到河内的"
+    },
+    "Lưu Lê sẽ chịu hoàn toàn trách nhiệm nếu chẳng may quá trình chuyển hàng hóa rủi ro hay thiệt hại do lỗi của công ty.": {
+      "en": "Liu Li will take full responsibility if, unfortunately, the delivery of risk or damage caused by the company's fault.",
+      "zh": "刘力如不幸交付公司过失造成的风险或损害,将承担全部责任."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một trong những cái tên được nhiều cá nhân, doanh nghiệp đề xuất lựa chọn khi gửi hàng Hà Nội - KCN Tân Bình đó chính là Lưu Lê. Chất lượng dịch vụ uy tín - Dịch vụ vận chuyển an toàn - Chi phí phải chăng là những điều mà Lưu Lê luôn mang đến cho khách hàng.": {
+      "en": "One of the names that has been widely owned, the business proposes choice when it sends Hanoi-KN New Year is Liu. The quality of the prestigious service - the safe transport service - the cost is what Liu Liu always gives his customers.",
+      "zh": "被广泛拥有的地名之一,企业在送河内-KN新年时提出选择是刘. 声望很高的服务质量——安全运输服务——成本是刘刘总是给顾客的."
+    },
+    "Một điều vô cùng quan trọng để quá trình gửi hàng Hà Nội - KCN Gò Dầu diễn ra thuận lợi nhất đó là tìm được đơn vị vận tải uy tín. Họ sẽ giúp đỡ bạn trong tất cả các quy trình, không mất nhiều thời gian và sức lực. Cùng những kinh nghiệm của đơn vị vận tải đã tích lũy, chắc chắn họ cũng sẽ đưa ra phương án vận chuyển đến KCN Gò Dầu tiết kiệm chi phí nhất cho bạn.": {
+      "en": "One of the most important things for the Hanoi-KNNC oil delivery process to take its most favorable course is to find the prestigious shipping unit. They will help you in all the processes, not taking much time and energy. As well as the experiences of the already accumulated transport units, they will surely provide the means to transport to KNNCNC oils which save the most cost to you.",
+      "zh": "河内-KNNC的石油输送过程要走最有利的道路,最重要的一件事就是找到著名的货运单位。 他们会帮助你 在所有的过程, 不花太多的时间和精力。 除了已经积累起来的运输单位的经验之外,它们肯定会为KNNCNC的石油提供运输手段,为你们节省最大的费用。"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Gò Dầu": {
+      "en": "The Need to Send Hanoi - KNNC Oil",
+      "zh": "需要送河内 - KNNC 石油"
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Gò Dầu ngày càng tăng": {
+      "en": "The need to send Hanoi – KNNC oil is increasing",
+      "zh": "河内 — — KNNC石油的需求在增加。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian vận chuyển đến KCN Gò Dầu nhanh và chính xác như hợp đồng.": {
+      "en": "The time of transport to KCNCNNC oil is fast and accurate as contract.",
+      "zh": "运输到KCNNC石油的时间作为合同是迅速和准确的。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong đó:": {
+      "en": "In it:",
+      "zh": "其中:"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những chia sẻ của chúng tôi về": {
+      "en": "Above are our share of",
+      "zh": "以上是我们的份额"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê cam kết thực hiện đúng và đủ mọi điều khoản hợp đồng chuyển hàng từ Hà Nội đến KCN Gò Dầu.": {
+      "en": "Liu Li's transport is committed to doing the right thing and all the terms of the transfer from Hanoi to KCNNC Oil.",
+      "zh": "刘力运承诺做好河内至中国民委石油调剂的正确工作和所有条件."
+    },
+    "Vận tải Lưu Lê làm việc 24/24 bao gồm tất cả các ngày nghỉ, cũng luôn sẵn sàng phục vụ khách hàng.": {
+      "en": "Liu transport works 24 hours of the day including all holidays, also available for customer service.",
+      "zh": "刘运日全天24小时工作,包括所有节假日,也提供客户服务."
+    },
+    "Vận tải Lưu Lê mang đến quy trình gửi hàng từ Hà Nội đến KCN Gò Dầu là nhanh và chuyên nghiệp nhất.": {
+      "en": "Liu Li transport brought the delivery process from Hanoi to KCNCN Oil was the fastest and most professional.",
+      "zh": "刘力运将运油过程从河内运至朝中CN石油最快,最专业."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "gửi hàng Hà Nội - KCN Gò Dầu": {
+      "en": "Order of Hanoi - KNNC Oil",
+      "zh": "河内勋章-KNNC 石油"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về KCN Gò Dầu": {
+      "en": "\"Transpan's BITS\".",
+      "zh": "\"Transpan的BITS\" (英语)."
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị gửi hàng Hà Nội - KCN Gò Dầu uy tín nhất": {
+      "en": "The Hanoi Rowing Unit - KNNNNNC Celebrity Oil",
+      "zh": "河内分队-KNNNNC名人石油公司"
+    },
+    "Đảm bảo luôn vận chuyển an toàn, hàng đến KCN Gò Dầu sẽ đủ số lượng và đúng chất lượng.": {
+      "en": "Make sure that it's always safe to transport, line to KCNCNNN Oil will be sufficient and proper.",
+      "zh": "确保运输总是安全的,通往KCNNN Oil的线路将足够和适当."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đúng không nhỉ? Bạn đang muốn biết thêm kinh nghiệm chuyển hàng và tìm đơn vị vận tải uy tín trên cung đường này. Vậy hãy cùng Lưu Lê tham khảo chi tiết tất cả những điều đó trong bài viết dưới đây nhé.": {
+      "en": "It's not like you're talking, is it? You are wanted to learn more about shipping experience and find the prestigious shipping unit on this arc. So let Liu refer to all of that in the following article.",
+      "zh": "这不是你说话,是吗? 你们想更多地了解航运经验 找到这个弧形上的著名航运单位 所以,让刘 Liu在下篇中全部提及."
+    },
+    "► Giá gửi hàng Hà Nội - KCN Gò Dầu tại Lưu Lê": {
+      "en": "The price of sending Hanoi - KNNNC oil at Liu Liu",
+      "zh": "送出河内-KNNNC油到刘刘的价钱"
+    },
+    "► Những cam kết của Lưu Lê khi gửi hàng Hà Nội - KCN Gò Dầu": {
+      "en": "← Liu's commitments when sending Hanoi's goods",
+      "zh": "——刘'送出河内货物时的承诺."
+    },
+    "► Quy trình gửi hàng Hà Nội - KCN Gò Dầu của vận tải Lưu Lê": {
+      "en": "The Hanoi-KNNC oil delivery process of Liu Transport",
+      "zh": "刘运的河内-KNNC石油输送过程"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

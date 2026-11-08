@@ -1,0 +1,1358 @@
+{
+  "route": "/blogs/goc-tu-van/cuoc-van-chuyen-hang-hoa-bang-o-to",
+  "texts": {
+    "(Hãy xoay màn hình theo chiều ngang nếu như đang xem bằng điện thoại)": {
+      "en": "(Turn the screen horizontally if you are watching by phone)",
+      "zh": "(若您正在通过电话观看,请横向转动屏幕)"
+    },
+    ". Hình thức vận chuyển bằng xe tải từ dưới": {
+      "en": "Yeah. Trucking form from bottom",
+      "zh": "对 从底部取货"
+    },
+    ". Vận tải đường ngắn thường giao hàng rất nhanh. Thời gian giao hàng tính bằng giờ và giá cước vận tải cũng tương đối thấp so với các hình thức vận tải khác.": {
+      "en": "Yeah. Short road transport usually delivers very quickly. The time of the delivery is equal to hours and the price of transportation is relatively low compared to other form of transportation.",
+      "zh": "对 短途公路运输通常交货速度非常快. 交付时间与小时相等,与其他形式的运输相比,运输价格相对较低."
+    },
+    "1 tấn → 18 tấn": {
+      "en": "1 ton (18 tons)",
+      "zh": "1吨(18吨)"
+    },
+    "1,1 tấn - 2, 5 tấn": {
+      "en": "1,1 tons - 2, 5 tons",
+      "zh": "1,1吨-2,5吨"
+    },
+    "1,1 đến 5 khối": {
+      "en": "1,1 to 5 blocks",
+      "zh": "1 1至5个区块"
+    },
+    "1,1tr/ tấn": {
+      "en": "1,1tr/ton",
+      "zh": "1,1吨/吨"
+    },
+    "1,2tr/ tấn": {
+      "en": "1.2tr/ton",
+      "zh": "1.2吨/吨"
+    },
+    "1,3tr/ tấn": {
+      "en": "1.3tr/ton",
+      "zh": "1.3吨/吨"
+    },
+    "1,4tr/ tấn": {
+      "en": "1.4tr/ton",
+      "zh": "1.4吨/吨"
+    },
+    "1,5tr/ tấn": {
+      "en": "1.5tr/ton",
+      "zh": "1.5吨/吨"
+    },
+    "1,6tr/ tấn": {
+      "en": "1.6tr/ton",
+      "zh": "1.6吨/吨"
+    },
+    "1,7tr/ tấn": {
+      "en": "1.7tr/ton",
+      "zh": "1.7吨/吨"
+    },
+    "1,8tr/ tấn": {
+      "en": "1.8tr/ton",
+      "zh": "1.8吨/吨"
+    },
+    "1.500đ/kg": {
+      "en": "1,500 mph/kg",
+      "zh": "1 500 mb/kg (单位:公斤)"
+    },
+    "1.535.000đ": {
+      "en": "1,535,000 p.",
+      "zh": "1,535,000页."
+    },
+    "1.850.000đ": {
+      "en": "US$80,000",
+      "zh": "80 000美元"
+    },
+    "10 khối -15 khối": {
+      "en": "10 Blocks - 15 Blocks",
+      "zh": "10个区 -- -- 15个区"
+    },
+    "10,1 tấn - 15 tấn": {
+      "en": "10,1 tons - 15 tons",
+      "zh": "10,1吨 - 15吨"
+    },
+    "101 khối - 150 khối": {
+      "en": "101 Block - 150 Blocks",
+      "zh": "101个区-150个区"
+    },
+    "101 → 150km": {
+      "en": "101 (13 mi)",
+      "zh": "101 (13米) (中文(简体) )."
+    },
+    "11 → 25km": {
+      "en": "11 (10 km)",
+      "zh": "11 (10公里)"
+    },
+    "120km": {
+      "en": "120 km",
+      "zh": "120公里"
+    },
+    "15 khối - 25 khối": {
+      "en": "15 blocks - 25 blocks",
+      "zh": "15个区块-25个区块"
+    },
+    "15,1 tấn - 18 tấn": {
+      "en": "15,1 tons - 18 tons",
+      "zh": "15,1吨 - 18吨"
+    },
+    "151 → 200km": {
+      "en": "151 (10 km)",
+      "zh": "151(10公里)"
+    },
+    "16tr/55 khối": {
+      "en": "16tr/55 block",
+      "zh": "16tr/55区块"
+    },
+    "17 Tháng 12 2020": {
+      "en": "17 December 2020",
+      "zh": "2020年12月17日 (中文(简体) )."
+    },
+    "19tr/55 Khối": {
+      "en": "19tr/55 Blocks",
+      "zh": "19tr/55区"
+    },
+    "1km → 300km": {
+      "en": "1 km (1300 km)",
+      "zh": "1公里(1 300公里)"
+    },
+    "1tr/ tấn": {
+      "en": "1tr/ton",
+      "zh": "1吨/吨"
+    },
+    "2,5 tấn": {
+      "en": "2.5 tons",
+      "zh": "2.5吨"
+    },
+    "2,6 tấn - 5 tấn": {
+      "en": "2.6 tons - 5 tons",
+      "zh": "2.6吨 -- -- 5吨"
+    },
+    "2.000đ/kg": {
+      "en": "2,000 mph/kg",
+      "zh": "2 000 mph/kg (单位:公斤)"
+    },
+    "2.200đ/kg": {
+      "en": "2.200 x/kg",
+      "zh": "2.200 x/千克 (单位:公斤)"
+    },
+    "2.500đ/kg": {
+      "en": "2,500 mph/kg",
+      "zh": "2 500 mph/kg (单位:公斤)"
+    },
+    "20 tấn → 30 tấn": {
+      "en": "20 tons (30 tons)",
+      "zh": "20吨(30吨)"
+    },
+    "200kg - 500kg": {
+      "en": "200 kg - 500 kg",
+      "zh": "200公斤 -- -- 500公斤"
+    },
+    "201 → 300km": {
+      "en": "201 (10 km)",
+      "zh": "201 (10公里)"
+    },
+    "25 khối - 50 khối": {
+      "en": "25 Block - 50 Blocks",
+      "zh": "25个区 -- -- 50个区"
+    },
+    "25 → 50km": {
+      "en": "25 (10 km)",
+      "zh": "25 (10公里)"
+    },
+    "260N/khối": {
+      "en": "260N/Local",
+      "zh": "260N/当地雇员"
+    },
+    "270N/khối": {
+      "en": "270N/160",
+      "zh": "270N/160号"
+    },
+    "280N/khối": {
+      "en": "280N/Local",
+      "zh": "280 N/当地雇员"
+    },
+    "3.000đ/kg": {
+      "en": "3,000 mph/kg",
+      "zh": "3 000 mph/kg (单位:公斤)"
+    },
+    "300N/khối": {
+      "en": "300N/Local",
+      "zh": "300N/当地雇员"
+    },
+    "30km": {
+      "en": "30 km",
+      "zh": "30公里"
+    },
+    "330N/khối": {
+      "en": "3DN/Local",
+      "zh": "3DN/当地雇员"
+    },
+    "350N/khối": {
+      "en": "350N/Local",
+      "zh": "350N/当地雇员"
+    },
+    "360N/khối": {
+      "en": "360N/Local",
+      "zh": "360N/ 当地雇员"
+    },
+    "370N/khối": {
+      "en": "370N/Local",
+      "zh": "370N/当地雇员"
+    },
+    "380N/khối": {
+      "en": "380N/Local",
+      "zh": "380N/当地雇员"
+    },
+    "4.720.000đ": {
+      "en": "4.7 dm",
+      "zh": "4.7达米"
+    },
+    "400N/khối": {
+      "en": "400N/Local",
+      "zh": "400N/当地雇员"
+    },
+    "450N/khối": {
+      "en": "450N/160",
+      "zh": "450N/160号"
+    },
+    "5 khối - 10 khối": {
+      "en": "5 blocks - 10 blocks",
+      "zh": "5个区块 - 10个区块"
+    },
+    "5,1 tấn - 8 tấn": {
+      "en": "5.1 tons - 8 tons",
+      "zh": "5.1吨 -- -- 8吨"
+    },
+    "50 khối - 70 khối": {
+      "en": "50 block - 70 block",
+      "zh": "50个街区-70个街区"
+    },
+    "500N/khối": {
+      "en": "500N/Local",
+      "zh": "500N/当地雇员"
+    },
+    "501kg - 1 tấn": {
+      "en": "501 kg - 1 ton",
+      "zh": "501公斤 - 1吨"
+    },
+    "51 → 100km": {
+      "en": "51 (10 mi)",
+      "zh": "51 (10米) (中文(简体) )."
+    },
+    "600N/khối": {
+      "en": "600N/Local",
+      "zh": "600N/当地雇员"
+    },
+    "70 khối - 100 khối": {
+      "en": "70 blocks - 100 blocks",
+      "zh": "70个街区-100个街区"
+    },
+    "70km": {
+      "en": "70 km",
+      "zh": "70公里处"
+    },
+    "8,1 tấn - 10 tấn": {
+      "en": "8,1 tons - 10 tons",
+      "zh": "8,1吨 -- -- 10吨"
+    },
+    "900N/ tấn": {
+      "en": "900N/ton",
+      "zh": "900 N/吨(吨)"
+    },
+    "950N/ tấn": {
+      "en": "950N/ton",
+      "zh": "950 N/吨(吨)"
+    },
+    ": Giá thanh toán = 250.000đ (Giá cố định) + (10km x 30.000đ) + (15km x 20.000đ) + (25km x 17.000đ) + (20km x 13.000đ) =": {
+      "en": ": The price of the payment is 250,000 x (TMD) + (10 km x 30,000 dm plus (15 km x 20,000) + (25 km x 177 dm) + (20km x 13,000 dm) =",
+      "zh": ":支付价格为25万×(TMD)+(10公里×30,000 dm+(15公里×20,000)+(25公里×177 dm)+(20公里×13,000 dm)="
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    ">>> Xem đầy đủ:": {
+      "en": "& Full View:",
+      "zh": "完整视图( F) :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn đang muốn gửi hàng hóa, đồ dùng của mình đến một nơi khác bằng ô tô, xe tải, xe container. Tuy nhiên, bạn lại không biết cước vận chuyển hàng hóa bằng phương tiện ô tô, xe tải, xe container sẽ là bao nhiêu để lường giá, việc này khiến bạn trở nên lo ngại về việc giá cả.": {
+      "en": "You're wanting to send goods, your belongings to another location by car, truck, container car. However, you don't know how much the shipping rate by car, truck, container car is going to be to measure the price, which makes you nervous about the price.",
+      "zh": "你想用汽车、卡车、集装箱车 将货物和物品送到另一个地方 然而,你不知道汽车,卡车,集装箱车的运价会是多少来测量价格,这让你对价格感到紧张."
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá cước vận chuyển hàng hóa bằng ô tô, xe tải mới nhất": {
+      "en": "Car Transport Board, latest truck",
+      "zh": "汽车运输委员会,最新卡车"
+    },
+    "Bảng giá giao hàng xe tải dưới 5 tấn": {
+      "en": "Truck delivery panel under 5 tons",
+      "zh": "5吨以下卡车运送板"
+    },
+    "Bảng giá giao hàng xe tải trên 5 tấn": {
+      "en": "Truck delivery panel on 5 tons",
+      "zh": "5吨卡车交货面板"
+    },
+    "Bảng giá vận chuyển hàng từ Nam ra Bắc": {
+      "en": "Transport price from South to North",
+      "zh": "从南方到北方的运输价格"
+    },
+    "Bảng giá xe đường dài": {
+      "en": "Long-distance fare",
+      "zh": "长途票价"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chưa bao gồm VAT;": {
+      "en": "Not including VAT;",
+      "zh": "不包括增值税;"
+    },
+    "Chưa bao gồm phí bốc xếp 2 đầu kho (Dao động từ 50.000đ/tấn → 200.000đ/tấn);": {
+      "en": "Not including the waste set 2 heads of storage (Diamond from 50,000 dp/3000/200);",
+      "zh": "不包括2个储存头的废物(从50,000 dp.300/200;"
+    },
+    "Chưa bao gồm phí chờ xe (Dao động từ 50.000đ/giờ → 200.000đ/giờ tùy từng loại xe);": {
+      "en": "Not including the car waiting fee (Moves from 50,000 ml/h/200/hours per car type);",
+      "zh": "不包括汽车等候费(每辆汽车5万毫升/小时/小时/小时);"
+    },
+    "Chưa bao gồm phí neo xe (Dao động từ 200.000đ → 500.000đ tùy từng loại xe).": {
+      "en": "Not including the parking fee (Dao verbs from 200,000 dpd) per car type).",
+      "zh": "不包括停车费(每个车型从20万dpd起的道动词)."
+    },
+    "Chưa bao gồm vào đường cấm tải;": {
+      "en": "Not including to the restricted line;",
+      "zh": "不包括限制线;"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Container 18 - 30t": {
+      "en": "Container 18 - 30t",
+      "zh": "集装箱 18 - 30吨"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung đường": {
+      "en": "Roads",
+      "zh": "道路"
+    },
+    "Cách tính cước vận chuyển hàng hóa bằng ô tô tại Lưu Lê như thế nào?": {
+      "en": "How do you plan to transport goods by car at Liu Liu?",
+      "zh": "刘刘店如何用汽车运输货物?."
+    },
+    "Cách tính giá cước:": {
+      "en": "Billing calculations:",
+      "zh": "计费计算:"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có 2 phương thức tính cước phí vận chuyển hàng hóa:": {
+      "en": "There are two ways to calculate freight costs:",
+      "zh": "计算运费有两种方法:"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước vận chuyển hàng hóa bằng ô tô": {
+      "en": "Carload of goods",
+      "zh": "货车载荷"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do đó, để giúp bạn có thêm nhiều thông tin bổ ích các quy định vận chuyển và giá cả. Bài viết dưới đây sẽ mang lại cho bạn những thông tin hữu ích và cách tính": {
+      "en": "So, to help you get more information that will help you get more transport regulations and prices. The following article will give you useful information and character",
+      "zh": "所以,为了帮助你获得更多的信息, 帮助你获得更多的运输条例和价格。 以下文章将为您提供有用的信息和性格"
+    },
+    "Dưới 1 khối": {
+      "en": "Under 1 Block",
+      "zh": "1个区以下"
+    },
+    "Dưới 100kg": {
+      "en": "Under 100 kg",
+      "zh": "100公斤以下"
+    },
+    "Dưới 10km": {
+      "en": "Under 10 km",
+      "zh": "10公里以下"
+    },
+    "Dưới đây là những quy định chung về giá cước dành cho các dịch vụ vận chuyển hàng hóa bằng ô tô mà bạn cần nắm rõ để có thể lường được cước phí hay bạn nên tránh những điều gì khi gửi hàng.": {
+      "en": "Here are the general regulations for the price of the price for car freight services that you need to know about in order to measure the fees or what you should avoid when you send them.",
+      "zh": "以下是汽车货运服务价格的通则,您需要了解这些通则,以便测量收费或者您在发送时应当避免的收费."
+    },
+    "Dưới đây sẽ là Biểu cước vận chuyển hàng hóa bằng ô tô, xe tải, xe container mà bạn có thể xem qua.": {
+      "en": "The following will be the automotive freight chart, truck, container car that you can look at.",
+      "zh": "以下为可查看的汽车货运图,卡车,集装箱车."
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận tải hàng hóa Bắc Nam bằng đường bộ": {
+      "en": "Northern South freight service by land",
+      "zh": "北部 南方陆运服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Email: vantailuule@gmail.com": {
+      "en": "Email: vantailule@translate.com",
+      "zh": "电子邮件:vantailule@translate.com"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GHI CHÚ:": {
+      "en": "CONTINUTION:",
+      "zh": "续曰:"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá Bao Xe": {
+      "en": "Carnack price",
+      "zh": "卡纳克价格"
+    },
+    "Giá chưa bao gồm các khoản phí:": {
+      "en": "The price has not yet included the fees:",
+      "zh": "价格尚未包括收费:"
+    },
+    "Giá cước sẽ được tính dựa trên khoảng cách thực tế vận chuyển có hàng. Cụ thể tính: Đơn vị khoảng cách sẽ được tính là kilomet. Mức giá thấp nhất được tính trên 1km trở lên.": {
+      "en": "The ratings will be calculated based on the actual distance of freight. In particular: The distance unit will be counted as kilometers. The lowest price was counted on a mile up.",
+      "zh": "评分将根据货运的实际距离来计算. 特别是:距离单位会被计为公里. 最低价被计算在一英里高。"
+    },
+    "Giá cước vận chuyển hàng hóa bằng ô tô, xe tải, xe container bạn nên biết": {
+      "en": "The rate of transportation in cars, trucks, container cars, you should know.",
+      "zh": "汽车,卡车,集装箱汽车的运输率,你应该知道."
+    },
+    "Giá cước được tính theo khoảng cách": {
+      "en": "The value is measured in distance.",
+      "zh": "值用相距来测量."
+    },
+    "Giá cước được tính theo phương pháp tổng lũy kế từng khung quảng đường cụ thể và loại xe vận chuyển.": {
+      "en": "The costs are calculated according to the general method of the fortification of specific road frames and the type of transport vehicles.",
+      "zh": "有关费用按照具体路架加固的一般方法和运输车辆种类计算."
+    },
+    "Giá cố định": {
+      "en": "A fixed price",
+      "zh": "固定价格"
+    },
+    "Giá thanh toán = 500.000đ (giá cố định) + (10km x 50.000đ) + (15km x 45.000đ) + (5km x 35.000đ) =": {
+      "en": "The price of the payment is 500,000 n( fixed) + (10 km x 50,000 d) + (15 km x 45,000) + (5 km x 3000) =",
+      "zh": "付款价格为50万n(固定)+(10公里×5万d)+(15公里×45,000)+(5公里×3000)="
+    },
+    "Giá thanh toán = 700.000đ (Giá cố định) + (10km x 60.000đ) + (15km x 54.000đ) + (25km x 42.000đ) + (50km x 24.000đ) + (20km x 18.000đ) =": {
+      "en": "The cost is 700,000 dm plus (10 km xvid) + (15 km x 5000 dm) + (25 km x 42,000 dm) + (50 km x2000 dm) + (20km x x/2000) =",
+      "zh": "成本为70万德米(10公里xvid)+(15公里x5000德米)+(25公里x42,000德米)+(50公里x2000德米)+(20公里x2000)="
+    },
+    "Giá vận chuyển = Chiều dài * Chiều rộng * Chiều cao * Đơn giá của từng loại hàng.": {
+      "en": "Transport price = length * width * height Singles of each category.",
+      "zh": "运输价格 = 长度 * 宽 * 高 各类别单人."
+    },
+    "Giá vận chuyển = Giá cước * Trọng lượng": {
+      "en": "Transportation Price=DF Load",
+      "zh": "运输价格=DF负载"
+    },
+    "Giá Đi Ghép": {
+      "en": "Dealing Price",
+      "zh": "价格交易"
+    },
+    "Giá đã bao gồm các khoản phí:": {
+      "en": "The price already includes the fees:",
+      "zh": "价格已经包括收费:"
+    },
+    "Giải đáp": {
+      "en": "Answers",
+      "zh": "答复"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện nay, khi con người đầu tư chú trọng vào công việc thì các nhu cầu trao đổi, vận chuyển hàng hóa cơ bản để làm ăn ngày càng nhiều. Bên cạnh đó, với sự phát triển của khoa học công nghệ, phương tiện": {
+      "en": "Now, as people invest in the work, the demand for exchange, the transportation of basic goods for business is increasing. Besides, with the development of technology science, means",
+      "zh": "现在,随着人们在工作上的投资,交换的需求,为商业提供基本物资的运输量正在增加. 此外,随着技术科学的发展,意味着"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: (028) 6255 3652 – 0909 81 6625 - 0987 172 477": {
+      "en": "Hotline: (02) 655 3652 – 090909 81 6625 - 0987 177",
+      "zh": "热线:(02) 655 3652 – 090909 81 6625 - 0987 177"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa bị hư hỏng trong quá trình vận chuyển thì tôi có được đền bù không?": {
+      "en": "Am I compensated for the damaged cargo in the transport?",
+      "zh": "我是不是要赔偿运输中受损的货物?"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng quá khổ là những mặt hàng đóng không thể tháo rời khi xếp vào xe. Trong đó, hàng hóa buộc phải có chiều dài không vượt quá 12m và chiều rộng dưới 2,5m so với thùng xe, chiều cao quá 3,2 tính từ mặt đất lên.": {
+      "en": "Too much cargo is the ones that can't be removed when lined up in the car. In it, goods are forced to have lengths that do not exceed 12 metres (12 m) and a width of less than 2.5 metres (3.5 m) than the trunk, a height of over 3.2 from the ground up.",
+      "zh": "太多的货物是那些在车内排队时无法取出的货物. 在其中,货物被强迫有长度不超过12米(12米)并比干线宽小于2.5米(3.5米),从地上起高可超过3.2."
+    },
+    "Hàng quá nặng là những mặt hàng có trọng lượng trên 5 tấn đến dưới 20 tấn. Trong trường hợp nhập phải mặt hàng vừa quá khổ vừa quá nặng, chủ xe chỉ được thu mức giá 1 trong 2.": {
+      "en": "The load too heavy is the ones that weigh over 5 tons to under 20 tons. In the event that the imports are too heavy and too heavy, the car owner gets only 1 out of 2.",
+      "zh": "负荷过重的是5吨到20吨以下的重量。 如果进口量过重而过重,车主只能得到2分中1分."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mọi hàng hóa khi bị hư hỏng hoặc mất mát, trầy xước, không nguyên đai, nguyên kiện do lỗi chủ quan của công ty thì đều được Vận Tải Lưu Lê đền bù 100% giá trị thiệt hại.": {
+      "en": "All goods when damaged or lost, scratched, unbarred, and filed by the company's subjective error are paid 100% of the damage.",
+      "zh": "受损或丢失,刮伤,无障碍,因公司主观错误而备案的商品,一律按100%赔偿损失."
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một số quy định chung về giá cước vận chuyển hàng hóa bằng ô tô, xe tải, container": {
+      "en": "A number of general regulations about the cost of transportation by car, truck, container",
+      "zh": "关于汽车、卡车、集装箱运输费用的若干一般条例"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu vận chuyển hàng hóa bằng ô tô, xe tải, xe container ngày nay": {
+      "en": "Cars, trucks, container cars demand today",
+      "zh": "今天的汽车,卡车,集装箱车需求"
+    },
+    "Như trên đã đề cập, trong lượng hoàng hóa được tính cước dựa trên đơn vị là tấn hoặc kg. Đặc biệt, trong lượng hàng hóa chính là trọng lượng kể cả bao bì bên ngoài gói hàng. Khi đó, tất cả những thứ báo bọc cố định vào kiện hàng sẽ buộc phải tính phí dựa vào trọng lượng.": {
+      "en": "As noted above, in the amount of imperialization that is calculated in units is ton or kilogram. In particular, in the main amount of goods is the weight including the envelope outside the package. At that time, all the regular coverage of the package will be forced to charge weight-based fees.",
+      "zh": "如上所述,单位计算的帝国化数量为吨或公斤。 特别是,货物的主要数量是重量,包括包件以外的信封。 当时,套装的所有常规覆盖都将被迫收取按重量计费."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu có nhu cầu sử dụng dịch vụ vận chuyển hàng hóa bằng ô tô, quý khách hàng có thể liên hệ trực tiếp với Công Ty TNHH Vận Tải Lưu Lê tại văn phòng công ty hoặc qua Online nhiều kênh khác nhau. Chi tiết các kênh vui lòng xem tại website:": {
+      "en": "If there is a need to use car freight services, the customer may be in direct contact with the CNWL Media Company at the company's office or via Online various channels. Details Channels Please View at website:",
+      "zh": "如果需要使用汽车货运服务,客户可以直接与该公司办公室的CNWL媒体公司联系或通过Online各种渠道联系. 详细频道请在网站上查看 :"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phí cầu đường (không bao gồm vé phà, vé qua đường thủy, biển).": {
+      "en": "The road bridge fee (not including ferry tickets, sea pass, sea pass).",
+      "zh": "公路桥梁收费(不包括轮渡票,海路通行费,海路通行费)."
+    },
+    "Phí người lái xe;": {
+      "en": "Driver's Cost;",
+      "zh": "司机费用;"
+    },
+    "Phí nhiên liệu;": {
+      "en": "Fuel fee;",
+      "zh": "燃料费;"
+    },
+    "Quý khách hàng có thể thanh toán chi phí dịch vụ thông qua 2 phương thức, đó là phương thức thanh toán bằng tiền mặt hoặc xuất hóa đơn chuyển khoản công ty.": {
+      "en": "The customer can pay for the service through 2 methods, which is the method of paying cash or exporting bills for the company transfer.",
+      "zh": "客户可以通过两种方法支付服务费,即支付现金或出口公司转账账单的方法."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG TIN LIÊN HỆ:": {
+      "en": "EARLIAL REPUBLIC:",
+      "zh": "伊朗伊斯兰共和国:"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên 150 Khối": {
+      "en": "Over 150 Blocks",
+      "zh": "150多个街区"
+    },
+    "Trên đây là những thông tin hữu ích cho bạn về cước vận chuyển hàng hóa bằng ô tô, giúp bạn có thêm nhiều thông tin để. Nếu có vấn đề gì còn thắc mắc hãy liên hệ với chúng tôi bằng cách truy cập vào website": {
+      "en": "These are useful information for you about car transportation, which gives you more information to do. If you have any questions, please contact us by accessing the website.",
+      "zh": "这些是有关汽车运输的有用信息, 这给你更多的信息。 如有任何问题,请访问该网站联系我们。"
+    },
+    "Trọng Lượng Thực (Đối với hàng nhẹ)": {
+      "en": "Food weight (for light row)",
+      "zh": "食物重量(轻排)"
+    },
+    "Trọng Lượng Thực (Đối với hàng nặng)": {
+      "en": "Realweight (For Heavy Rows)",
+      "zh": "实际重量( 重排)"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến miền Bắc": {
+      "en": "Northern Line",
+      "zh": "北线"
+    },
+    "Tuyến miền Nam": {
+      "en": "Southern Line",
+      "zh": "南线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tôi có thể liên hệ với Vận Tải Lưu Lê bằng hình thức nào để yêu cầu sử dụng dịch vụ vận tải hàng hóa?": {
+      "en": "In what form can I contact the Archives to require transportation services?",
+      "zh": "我以何种形式与档案馆联系,要求提供运输服务?"
+    },
+    "Tôi có thể thanh toán chi phí dịch vụ vận chuyển hàng hóa bằng những phương thức nào?": {
+      "en": "What methods can I pay for the freight services?",
+      "zh": "我能付什么运费?"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Ví dụ:": {
+      "en": "Examples:",
+      "zh": "实例:"
+    },
+    "Ví dụ: Xe": {
+      "en": "Examples: Cars",
+      "zh": "例如:汽车"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa bằng ô tô ngày càng trở nên phổ biến": {
+      "en": "Car Transporting is becoming increasingly popular",
+      "zh": "汽车运输越来越受欢迎"
+    },
+    "Vận chuyển hàng hóa bằng ô tô được tính dựa trên số lượng hàng và quãng đường vận chuyển": {
+      "en": "Car Transportation is calculated by the amount of goods and the distance of transportation",
+      "zh": "运输按货物数量和运输距离计算"
+    },
+    "Vận chuyển hàng hóa bằng đường sắt": {
+      "en": "Transported goods by railway",
+      "zh": "铁路运输货物"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải xe đường ngắn": {
+      "en": "Short Road Truck",
+      "zh": "短途卡车"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với mặt hàng thông thường:": {
+      "en": "With regular goods:",
+      "zh": "有普通货物:"
+    },
+    "Với sản phầm hàng hóa cồng kềnh:": {
+      "en": "With the goods of Melanthius:",
+      "zh": "带着梅兰修斯的财物"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "Website: vantailuule.vn": {
+      "en": "Website: vantailule.vn",
+      "zh": "网站:vantailule.vn"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe 1 → 2,5 tấn (8m3)": {
+      "en": "Car 1.5.5 tons (8m3)",
+      "zh": "1.5.5吨(8立方米)车"
+    },
+    "Xe 10 tấn (30m3)": {
+      "en": "10 tons (30 m3)",
+      "zh": "10吨(30立方米)"
+    },
+    "Xe 15 tấn (45m3)": {
+      "en": "Car 15 tons (45 m3)",
+      "zh": "15吨(45立方米)"
+    },
+    "Xe 18 tấn (54m3)": {
+      "en": "Car 18 tons (54m3)",
+      "zh": "18吨(54立方米)"
+    },
+    "Xe 3,5 tấn (12m3)": {
+      "en": "The 3.5 tonne (12 m3)",
+      "zh": "3.5吨(12立方米)"
+    },
+    "Xe 5 tấn": {
+      "en": "5 ton car",
+      "zh": "5吨车"
+    },
+    "Xe 5 tấn (16m3)": {
+      "en": "5 tons (16m3)",
+      "zh": "5吨(16立方米)"
+    },
+    "Xe 8 tấn": {
+      "en": "8 tons",
+      "zh": "8吨"
+    },
+    "Xe 8 tấn (24m3)": {
+      "en": "Car 8 tons (24m3)",
+      "zh": "8吨(24立方米)"
+    },
+    "Xe dưới 1 tấn (3m3)": {
+      "en": "Car under 1 ton (3 m3)",
+      "zh": "1吨以下车(3立方米)"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "cuoc-van-chuyen-hang-hoa-bang-oto": {
+      "en": "cuoc-van-chá-hang-ho-bang-oto",
+      "zh": "库克·万·查昌·霍邦-奥托"
+    },
+    "cước vận chuyển hàng hóa bằng ô tô, xe tải, xe container": {
+      "en": "Cars, trucks, container carriers costs",
+      "zh": "汽车、卡车、集装箱承运人费用"
+    },
+    "hiện nay.": {
+      "en": "now.",
+      "zh": "现在"
+    },
+    "hoặc gọi qua số điện thoại 0909 81 6625. Chúng tôi sẽ giúp bạn giải quyết một cách nhanh chóng.": {
+      "en": "or phone number 0909 81 6625. We'll help you deal with it quickly.",
+      "zh": "或电话号码:0909 81 6625。 我们会很快帮你处理的"
+    },
+    "là dịch vụ vận chuyển hàng hóa bằng xe ô tô tải có phạm vi bán kính từ": {
+      "en": "It's a freight service in a truck with a range of magnetic ranges.",
+      "zh": "它是一种在磁场范围内的卡车上的货运服务."
+    },
+    "miền Bắc": {
+      "en": "North",
+      "zh": "北边"
+    },
+    "miền Nam": {
+      "en": "Southern",
+      "zh": "南方地区"
+    },
+    "van-chuyen-bac-nam-oto": {
+      "en": "van-chür-bac-nam-oto",
+      "zh": "范哲尔-巴克-南-奥托"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và các loại xe rờ móc kéo hàng công nghiệp quá khổ, có trọng lượng từ": {
+      "en": "And the kind of trawler that pulls over industrial goods, has weight from",
+      "zh": "拖网拖着工业品的"
+    },
+    "vận chuyển hàng hóa bằng ô tô, xe tải, xe container được nhiều người lựa chọn nhiều nhất. Đặc biệt là các tỉnh thành lớn, có các cá nhân, công ty có nhu cầu vận chuyển hàng hóa lớn, từ vùng này sang vùng khác, từ miền này sang miền khác, từ tỉnh này đến tỉnh khác trên khắp cả nước Việt Nam. Vì vậy, rất nhiều đơn vị dịch vụ vận chuyển hàng hóa bằng ô tô, xe tải, xe container": {
+      "en": "Transported goods by car, trucks, container cars are most selected. In particular, the major provinces, there were individuals, companies with great demand for freight, from one area to another, from one region to another, from one province to another throughout Vietnam. So, a lot of services carrying goods in cars, trucks, container cars.",
+      "zh": "由汽车,卡车,集装箱车运输的货物,最有选择. 特别是,在越南全国,主要省份,有对货运需求巨大的个人,公司,从一个地区到另一个地区,从一个省份到另一个省份. 因此,很多服务在汽车,卡车,集装箱汽车中运送货物."
+    },
+    "vận chuyển đoạn đường": {
+      "en": "Move the road.",
+      "zh": "移动道路。"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Địa chỉ: Mỹ Hòa, Trung Chánh, Hóc Môn, Tp.HCM": {
+      "en": "Address: American Republic, Central Chief, Litc Men, Tp.HCM",
+      "zh": "地址:美利坚共和国,中央酋长,Litc Men,Tp.HCM"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đã ra đời nhằm phục vụ mọi nhu cầu của khách hàng.": {
+      "en": "was born to serve all the needs of the customers.",
+      "zh": "生来就满足顾客的所有需要"
+    },
+    "được tính giá như sau": {
+      "en": "is calculated as follows",
+      "zh": "计算如下:"
+    },
+    "► Bảng giá xe đường ngắn": {
+      "en": "Short road fare",
+      "zh": "短路费"
+    },
+    "► Giá cước được tính theo trọng lượng hàng hóa": {
+      "en": "The value of the bill is calculated by the weight of the goods",
+      "zh": "账单价值由货物重量计算"
+    },
+    "► NHỮNG CÂU HỎI THƯỜNG GẶP VỀ DỊCH VỤ VẬN CHUYỂN HÀNG HÓA BẰNG Ô TÔ, XE TẢI, CONTAINER TẠI LƯU LÊ?": {
+      "en": "INTERVIECTIONS OF THE LECTIONS?",
+      "zh": "对选举的干涉?"
+    },
+    "► Những kiện hàng quá khổ, quá nặng": {
+      "en": "The package is too heavy.",
+      "zh": "包裹太重了。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

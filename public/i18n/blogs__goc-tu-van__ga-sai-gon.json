@@ -1,0 +1,930 @@
+{
+  "route": "/blogs/goc-tu-van/ga-sai-gon",
+  "texts": {
+    "(Miễn phí giao vé trong vòng 7 km tính từ Ga Sài Gòn)": {
+      "en": "(President delivery fee in seven kilometers from Saigon)",
+      "zh": "(主席交货费,离西贡七公里)"
+    },
+    "05 Tháng 8 2018": {
+      "en": "05 August 2018",
+      "zh": "2018年8月05日 (中文(简体) )."
+    },
+    ": Cùng với Ga Hà Nội thì Ga Sài Gòn là Ga tàu hỏa lớn nhất Việt Nam hiện nay với diện tích lên tới 40.000 m2, đây chính là ga chuyên về vận chuyển hành khách trọng điểm của ngành vận tải đường sắt, là đầu mối giao thông cực kỳ quan trọng khu vực Sài Gòn, các tỉnh phía Nam và tuyến đường sắt Bắc Nam. Nếu đi từ Bắc vào Nam thì Ga Sài Gòn là ga cuối cùng trên tuyến đường sắt Bắc Nam, và ngược lại từ Nam ra Bắc thì Ga Sài Gòn là ga đầu tiên trên tuyến đường sắt Nam Bắc. Mặc dù có lịch sử từ rất lâu đời (năm 1885) nhưng mãi tới tháng 10 năm 1983 ga Sài gòn mới chính thức được đưa vào hoạt động và trực thuộc sự quản lý của công ty vận tải hành khách đường sắt Sài Gòn cho đến nay.": {
+      "en": ": Along with Gan Hanoi, Saigon is the largest station in Vietnam today with an area of up to 40,000 m2, which is the major passenger station of the railway transport industry, which is the crucial lead of the Saigon area, the southern provinces and the North South Southbound Railway. Despite long history (1885), it was not until October 1983 that Saigon Station was officially brought into operation and duty in the management of the Saigon Railway Transporting Company.",
+      "zh": ":同甘河内站一起,西贡站是今天越南最大的车站,车站面积可达4万平方米,是铁路运输业的主要客运站,是西贡地区,南部省份和南北向铁路的关键干道. 尽管历史悠久(1885年),直到1983年10月,西贡站才正式投入运营并承担了西贡铁路运输公司管理的职责."
+    },
+    ": về Ga Sóng Thần và xem bản đồ hướng dẫn đường đi từ nơi ở của bạn tới:": {
+      "en": ": About the Spirit Wave and see the guide map from where you live:",
+      "zh": ":关于\"精神之波\",从所住之地看出指南地图:"
+    },
+    ">>> Có thể bạn quan tâm về dịch vụ:": {
+      "en": "> DSTOR You may be interested in service:",
+      "zh": "> 数据存储器 您可能感兴趣的服务:"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bài viết sau đây sẽ giúp mọi người giải đáp đầy đủ và chính xác nhất cho những băn khoăn trên. Hãy cùng đi tìm hiểu chi tiết nhé!": {
+      "en": "The following article will help all to give the above questions the most complete and accurate answers. Let's go find out the details.",
+      "zh": "以下一篇文章将有助于大家对上述问题给出最完整和准确的答案. 我们去看看细节"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ Ga Sài Gòn": {
+      "en": "Ga Saigon Map",
+      "zh": "加西贡地图"
+    },
+    "Bản đồ hướng dẫn đường đi từ nơi ở của bạn tới ga Sài Gòn": {
+      "en": "Map Guides From Your Place to Saigon Station",
+      "zh": "从你的地方到西贡站的地图指南"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cùng với Ga Hà Nội thì Ga Sài Gòn là Ga tàu hỏa lớn nhất Việt Nam hiện nay với diện tích lên tới 40.000 m2, đây chính là ga chuyên về vận chuyển hành khách trọng điểm của ngành vận tải đường sắt, là đầu mối giao thông cực kỳ quan trọng khu vực Sài Gòn, các tỉnh phía Nam và tuyến đường sắt Bắc Nam. Nếu đi từ Bắc vào Nam thì Ga Sài Gòn là ga cuối cùng trên tuyến đường sắt Bắc Nam, và ngược lại từ Nam ra Bắc thì Ga Sài Gòn là ga đầu tiên trên tuyến đường sắt Nam Bắc. Mặc dù có lịch sử từ rất lâu đời (năm 1885) nhưng mãi tới tháng 10 năm 1983 ga Sài gòn mới chính thức được đưa vào hoạt động và trực thuộc sự quản lý của công ty vận tải hành khách đường sắt Sài Gòn cho đến nay.": {
+      "en": "Along with Hanoi, Saigon is the largest railway station in Vietnam today with an area of up to 40,000 m2, which is the major passenger station of the railway transport industry, which is the most important link to the Saigon area, the southern provinces and the North South Southbound Railway. Despite long history (1885), it was not until October 1983 that Saigon Station was officially brought into operation and duty in the management of the Saigon Railway Transporting Company.",
+      "zh": "与河内站一起,西贡站是今天越南最大的火车站,面积可达40000平米,是铁路运输业的主要客运站,是西贡地区,南部省份和南北向铁路最重要的连接站. 尽管历史悠久(1885年),直到1983年10月,西贡站才正式投入运营并承担了西贡铁路运输公司管理的职责."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do đó, nếu bạn muốn vận chuyển hàng hóa từ Sài Gòn đi Hà Nội và các tỉnh phía Bắc thì bạn nên gửi ở Ga Sóng Thần nhé. Trừ trường hợp bạn vận chuyển một số hàng nhỏ, lẻ và lại ở gần Ga Sài Gòn thì bạn mới đến Ga Sài Gòn để gửi hàng.": {
+      "en": "So if you want to transport goods from Saigon to Hanoi and the northern provinces then you should send them in the Spirit Wave. Unless you're transporting some small, odd, and close to Saigon then you're going to Saigon to send it.",
+      "zh": "所以,如果你想把货物从西贡运到河内和北方各省,那么就应该用\"灵波\"寄出. 除非你在西贡附近 运送一些小的奇怪的东西 然后去西贡送去"
+    },
+    "Dưới đây là bản đồ Ga Sài Gòn để mọi người tham khảo nhé:": {
+      "en": "Here's a map of Saigon for people to refer to:",
+      "zh": "以下是西贡的地图,供人们参考:"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ Gửi hàng Ga Sài Gòn giá rẻ, an toàn": {
+      "en": "The Ga Saigon Posting Service is cheap, safe",
+      "zh": "加西贡邮局便宜又安全"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Email: vantailuule@gmail.com": {
+      "en": "Email: vantailule@translate.com",
+      "zh": "电子邮件:vantailule@translate.com"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Ga Hòa Hưng ở đâu? Số điện thoại, giờ làm việc, bản đồ Ga Sài Gòn như thế nào? Ở đây có giữ xe qua đêm không? Dịch vụ Gửi,": {
+      "en": "Where is the Renaissance? Do you have a phone number, work hours, a map of Saigon? Send Service,",
+      "zh": "文艺复兴在哪里? 你有电话号码、工作时间、西贡地图吗? 发送服务,"
+    },
+    "Ga Sài Gòn": {
+      "en": "Saigon",
+      "zh": "西贡"
+    },
+    "Ga Sài Gòn trực thuộc đơn vị nhà nước nên giờ làm việc là theo giờ hành chánh, cụ thể từ 7h30 – 17h00. Tuy nhiên, khác với những đơn vị nhà nước khác, Ga Sài Gòn phải làm việc cả thứ 7 và chủ nhật để đáp ứng nhu cầu của người dân, bởi 2 ngày cuối tuần là 2 ngày có lượng hành khách đông nhất.": {
+      "en": "Saigon was in the state unit, so it was in administrative hours, specifically from 7:30 – 1700. However, unlike other state units, Saigon had to work both Saturdays and Sundays to meet the people's needs, because two weekends were two days of the largest passenger population.",
+      "zh": "西贡当时在州单位,所以是在行政上的时间,具体从7:30到15:00. 然而,与其他州分队不同的是,西贡必须同时在星期六和星期天工作,以满足人民的需要,因为两个周末是最大的客运量的两天."
+    },
+    "Giải đáp": {
+      "en": "Answers",
+      "zh": "答复"
+    },
+    "Giới thiệu chung về Ga Sài Gòn": {
+      "en": "General Introduction to Saigon",
+      "zh": "西贡概况."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "Gửi xe máy từ Sài Gòn ra Hà Nội": {
+      "en": "Send motorcycles from Saigon to Hanoi",
+      "zh": "把摩托车从西贡送到河内"
+    },
+    "Gửi xe ô tô từ Sài Gòn ra Hà Nội": {
+      "en": "Send cars from Saigon to Hanoi",
+      "zh": "从西贡派车去河内"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline của Ga tàu Sài Gòn là:": {
+      "en": "Hotline of the Saigon Train Station is:",
+      "zh": "西贡火车站的热线是:"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: (028) 6255 3652 - 0909 81 6625": {
+      "en": "Hotline: (02) 655 3652 - 0909 81 6625",
+      "zh": "热线:(02) 655 3652 - 0909 81 6625"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hướng dẫn đường đi từ nơi ở của bạn đến ga Sài Gòn": {
+      "en": "Guide the way from where you live to Saigon station",
+      "zh": "从你住的地方到西贡站"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Mobile: 0909 889 455 - 0987 172 477": {
+      "en": "Mobile: 0909 889 455 - 0987 177",
+      "zh": "手机: 0909 889 455 - 0987 177"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "NHỮNG CÂU HỎI LIÊN QUAN THƯỜNG GẶP VỀ GA SÀI GÒN?": {
+      "en": "WHAT ABOUT GA?",
+      "zh": "GA怎么样?"
+    },
+    "Như đã nói ở trên, Ga Sài Gòn chuyên về vận tải hành khách, còn vận chuyển hàng hóa thì Ga Sài Gòn là nơi nhận những hàng hóa nhỏ lẻ, đi kèm theo người. Tuy nhiên, tất cả các loại hàng hóa nhận được từ Ga Sài Gòn cuối cùng cũng đều tập kết về Ga Sóng Thần (là nhà ga vận chuyển hàng hóa lớn nhất của Sài Gòn và khu vực miền Nam).": {
+      "en": "As noted above, Saigon specializes in passenger transport, while shipping the goods of Saigon is the place to receive small goods, accompanied by people. However, all of the goods received from Saigon eventually gathered to the God Wave (as the largest freight station of Saigon and the Southern Region).",
+      "zh": "如上所述,西贡专门从事客运,而西贡的货运是接收小货物,人员陪同的地方. 然而,从西贡收到的所有货物最终都聚集到神浪(作为西贡和南部地区最大的货运站)."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Office: HCM(Ga Sóng Thần) - HN(Ga Giáp Bát)": {
+      "en": "Office: HCM(Gawaves) - HN(Ga Bamboo)",
+      "zh": "办公室:HCM(加瓦夫)-HN(加竹)"
+    },
+    "Phòng vé đoàn:": {
+      "en": "Ticket Room:",
+      "zh": "票房:"
+    },
+    "Số 01 Đường Nguyễn Thông, Phường 10, Quận 3, Tp. Hồ Chí Minh.": {
+      "en": "No. 01 Tranquillity Route, Midland 10, District 3, Tp. Lake Chi Minh.",
+      "zh": "01号 中原路10号 3号区 Tp. 志明湖."
+    },
+    "Số Hotline của Ga Sài Gòn cũng là một chủ đề được rất nhiều người quan tâm, có nhiều người không biết làm cách nào để liên hệ được với Ga Sài Gòn. Vậy số điện thoại Ga Sài Gòn là bao nhiêu?": {
+      "en": "The Hotline of Saigon is also a subject of great interest, many people don't know how to relate to Saigon.",
+      "zh": "西贡热线也是一个引起极大兴趣的话题,许多人不知道如何联系西贡."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG TIN LIÊN HỆ": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là thông tin chi tiết về": {
+      "en": "Above is detailed information about",
+      "zh": "上面有关于"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên, để được hướng dẫn đường đi từ nơi ở của bạn đến Ga Sài Gòn, bạn chỉ cần nhập địa chỉ ở của bạn sau khi click vào hình dưới đây, ngay lập tức bản đồ sẽ hướng dẫn cho bạn đường đi tới Ga Sài Gòn một cách cụ thể và chi tiết nhất nhé:": {
+      "en": "However, to be guided from your whereabouts to Saigon, you just enter your address after clicking on the image below, right away the map will guide you to Saigon in a specific and detailed way:",
+      "zh": "然而,为了从你的下落到西贡,你只需在点击下面的图像后输入你的地址,马上地图会以具体和详细的方式引导你到西贡:"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm hiểu về Ga Sài Gòn | Địa chỉ ở đâu? Số điện thoại?": {
+      "en": "Learning About Saigon Where's the address? Phone number?",
+      "zh": "学习西贡 地址在哪儿? 地址在哪? 地址在哪? 地址在哪? Where's the address? 电话号码?"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tổng đài giao vé tận nơi:": {
+      "en": "Tickets station complete:",
+      "zh": "车票站完成:"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Ga Sài Gòn": {
+      "en": "Ga Saigon Transportation",
+      "zh": "加西贡运输公司"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa Ga Sài Gòn đi Hà Nội và các tỉnh phía Bắc như thế nào?": {
+      "en": "How was the transport of Ga Saigon to Hanoi and the northern provinces?",
+      "zh": "如何运送加西贡到河内和北方各省?"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vậy địa chỉ Ga Sài Gòn ở đâu?": {
+      "en": "So where's the Ga Saigon address?",
+      "zh": "那加西贡的地址呢?"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "Website:": {
+      "en": "Website:",
+      "zh": "网站:"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "bao gồm địa chỉ, số điện thoại, bản đồ,": {
+      "en": "including address, phone number, map,",
+      "zh": "包括地址、电话号码、地图、"
+    },
+    "dịch vụ gửi hàng tại Ga Sài Gòn": {
+      "en": "Package service in Saigon",
+      "zh": "西贡软件包服务"
+    },
+    "nhé!": {
+      "en": "Okay, okay.",
+      "zh": "好,好,好,好,我们走,我们走"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa ga sài gòn": {
+      "en": "Transported gasoline",
+      "zh": "运输汽油"
+    },
+    "Đia chỉ ga Sóng Thần": {
+      "en": "Showing off the tsunami",
+      "zh": "炫耀出海啸"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây cũng là câu hỏi được rất nhiều người quan tâm khi muốn gửi xe qua đêm ở Ga Sài Gòn? Câu trả lời: Để phục vụ nhu cầu đi lại của người dân, Ga Sài Gòn nhận giữ xe qua đêm 24/24h nhé.": {
+      "en": "This is also a question of a lot of interest when you want to send a car overnight in Saigon?",
+      "zh": "你想在西贡过夜送一辆车 这也是个很值得注意的问题吗?"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Địa chỉ Ga Sài Gòn tại:": {
+      "en": "Saigon Address at:",
+      "zh": "西贡地址:"
+    },
+    "Địa chỉ Ga Sài Gòn ở đâu?": {
+      "en": "Where's Saigon?",
+      "zh": "西贡呢?"
+    },
+    "Địa chỉ Ga Sài Gòn ở đâu? Địa chỉ Ga Hòa Hưng ở đâu? Đây là câu hỏi được rất nhiều người quan tâm. Nhắc tới từ “Hòa Hưng” nhiều người không nghĩ là ga này lại nằm ở Sài Gòn nhưng thực ra thì Ga Hòa Hưng chính là tên gọi khác của Ga Sài Gòn nhé.": {
+      "en": "Where's Saigon? Where's the Republic address? This is a question of great interest. Referring to the term “A lot of people don’t think that this station is in Saigon but actually the Republic is the other name of Saigon.",
+      "zh": "西贡呢? 共和国地址在哪里? 这是一个极受关注的问题。 许多人并不认为此站位于西贡,"
+    },
+    "Địa chỉ Ga Sóng Thần": {
+      "en": "The Gods Wave Address",
+      "zh": "神浪地址"
+    },
+    "Địa chỉ ga Sài Gòn": {
+      "en": "Saigon Gas Address",
+      "zh": "西贡天然气地址"
+    },
+    "Địa chỉ: Mỹ Hòa, Trung Chánh, Hóc Môn, TpHCM": {
+      "en": "Address: American Republic, Central Chief, Litc Men, TpHCM",
+      "zh": "地址:美利坚共和国,中央酋长,立特克男子,TpHCM"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đi Hà Nội và các tỉnh phía Bắc mà Vận Tải Lưu Lê chia sẻ để bạn tham khảo. Nếu có bất cứ thắc mắc nào hãy liên hệ ngay với chúng tôi để nhận được sự hỗ trợ!": {
+      "en": "Go to Hanoian and the northern provinces that the Media Share for you to refer to. If you have any questions, contact us immediately for support!",
+      "zh": "去河内安和北方省份 媒体共享 为你参考。 如果你有任何问题,请立即联系我们寻求支持!"
+    },
+    "đi Hà Nội và các tỉnh phía Bắc như thế nào? Đây là những câu hỏi được nhiều người đặt ra khi hỏi về Ga Sài Gòn, đặc biệt là những người ở xa trung tâm TpHCM, những người ở tỉnh lên hoặc những người mới đi tàu lửa lần đầu tiên.": {
+      "en": "How are we going to Hanoi and the northern provinces? These are questions that many ask about Saigon, especially those who are far from the heart of TpHCM, who are in the province or who are new to the train for the first time.",
+      "zh": "我们怎么去河内和北方各省? 这些都是许多人所问到的关于西贡的问题,尤其是那些远离TpHCM中心的人,他们是在省内,或者是第一次新上火车的人."
+    },
+    "để giúp bạn hiểu rõ hơn về đơn vị đầu ngành đường sắt nhé!": {
+      "en": "To help you understand the railroad's top unit.",
+      "zh": "为了帮助你了解铁路的顶级单位."
+    },
+    "⇒ Tìm hiểu": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "► Bản đồ Ga Sài Gòn": {
+      "en": "Ga Saigon Map",
+      "zh": "加西贡地图"
+    },
+    "► Ga Sài Gòn có giữ xe qua đêm không?": {
+      "en": "Does the Gan Saigon hold the car overnight?",
+      "zh": "甘西贡的车会停一晚上吗?"
+    },
+    "► Giờ làm việc của Ga Sài Gòn đến mấy giờ?": {
+      "en": "What time is the time for Saigon's work?",
+      "zh": "西贡工作时间是什么时候?."
+    },
+    "► Số điện thoại Hotline Ga tàu Sài Gòn là bao nhiêu?": {
+      "en": "What's the number of the Hotline Station of Saigon?",
+      "zh": "西贡热线站点编号为?."
+    },
+    "► Tìm hiểu về Ga Sài Gòn": {
+      "en": "INTERVIEGATIONS About Saigon",
+      "zh": "关于西贡的联络"
+    },
+    "► Tìm hiểu về Ga Sài Gòn?": {
+      "en": "Research on Saigon?",
+      "zh": "西贡的研究?"
+    },
+    "► Địa chỉ Ga Sài Gòn ở đâu?": {
+      "en": "Where is the Ga Saigon address?",
+      "zh": "加·西贡的地址在哪里?"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

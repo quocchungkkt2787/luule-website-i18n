@@ -1,0 +1,822 @@
+{
+  "route": "/blogs/goc-tu-van/doi-bang-lai-xe-o-dau",
+  "texts": {
+    "12 Tháng 8 2021": {
+      "en": "12 August 2021",
+      "zh": "2021年8月12日 (中文(简体) )."
+    },
+    ": Truy cập vào trang web Cổng dịch vụ Quốc Gia. Tại mục Công Dân, bạn tiến hành chọn loại phương tiện và người lái. Tiếp theo chọn mục Giấy phép lái xe, tiếp tục chọn Đổi giấy phép lái xe do ngành Giao thông vận tải cấp phép.": {
+      "en": ": Access to the National Service portal website. At the Citizens' Section, you proceed to select the type of vehicle and driver. Next select the driver's license entry, continuing to select the change of driver's license due to the licensed transportation industry.",
+      "zh": ":进入国民服务门户网站. 在公民科,你开始选择 车辆和司机的类型。 接下来选择驾驶执照条目,继续选择由于被许可的运输行业而导致的驾驶执照变更."
+    },
+    ">>> Có thể bạn quan tâm dịch vụ:": {
+      "en": "> DSTOR You may be interested in services:",
+      "zh": "> 数据存储器 您可能感兴趣的服务:"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 01:": {
+      "en": "Step 370",
+      "zh": "步骤370"
+    },
+    "Bước 02:": {
+      "en": "Steps",
+      "zh": "步骤"
+    },
+    "Bước 03:": {
+      "en": "Step 303:",
+      "zh": "步骤303:"
+    },
+    "Bước 04:": {
+      "en": "Step 4:",
+      "zh": "步骤4:"
+    },
+    "Bước 1": {
+      "en": "Step 1.",
+      "zh": "步骤1。"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 2:": {
+      "en": "Step 2:",
+      "zh": "步骤2:"
+    },
+    "Bước 3:": {
+      "en": "Step 3:",
+      "zh": "步骤3:"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn sẽ chọn đơn vị thực hiện chuyển đổi, đó là cơ quan trực thuộc tỉnh/thành phố hay là Bộ Ngành. Sau khi đã chọn, bạn bấm Đồng ý để thực hiện bước tiếp theo. Chọn Nộp trực tuyến để xác nhận nộp hồ sơ yêu cầu.": {
+      "en": "You're going to choose the conversion implementation unit, which is the province/city visual agency or the Ministry. After being selected, you press consent to take the next step. Select an online pass to confirm the requested profile.",
+      "zh": "你要选择转换执行单位,即省/市视觉机构或部. 被选中后,您会按要求同意采取下一步行动. 选择在线通行证以确认请求的配置 。"
+    },
+    "Bạn sẽ đổi bằng lái xe ở đâu? Với nhu cầu chuyển đổi loại bằng bìa giấy qua thẻ nhựa, bạn sẽ cần đến Tổng cục Đường bộ Việt Nam hoặc Sở giao thông vận tải nơi bạn sinh sống để thực hiện yêu cầu đổi thẻ.": {
+      "en": "Where would you change your license? With the need to convert the paper cover through the plastic card, you will need to reach the Vietnam Department of Transportation or the Transportation Service where you live to implement the request for a new card.",
+      "zh": "你在哪里换驾照? 由于需要通过塑料卡来转换纸质封面,您需要前往居住地的越南交通部或交通局执行新卡的要求."
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chuyển đổi giấy phép lái xe sang thẻ nhựa": {
+      "en": "Convert driver's license to plastic tag",
+      "zh": "将驾照转换为塑料标签"
+    },
+    "Chuẩn bị hồ sơ, gồm: đơn đề nghị đổi giấy phép lái xe, giấy khám sức khỏe với các trường hợp muốn tách các loại giấy phép lái xe với nhau, bản sao giấy phép lái xe, CMND hay thẻ CCCD còn hiệu lực.": {
+      "en": "The profile, including: The request for a driver's license, a medical warrant for separation of the types of licenses to drive together, a copy of a driver's license, DSW or a CCCD card is in effect.",
+      "zh": "简介,包括: 申请驾驶证、将驾驶证类型分开的医疗证、驾驶证副本、DSW或CCCD卡已经生效。"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chắc hẳn ai trong số chúng ta cũng từng thắc mắc đổi bằng lái xe ở đâu? Thủ tục như thế nào, khi nào thì cần đổi và có mất tiền không? Để giúp bạn giải đáp những thắc mắc này, Vận tải Lưu Lê sẽ gửi đến bạn những thông tin bổ ích xung quanh vấn đề đổi bằng lái xe bạn nhé.": {
+      "en": "Who among us must have wondered where we would be able to change our license? What kind of procedure, when is it necessary to change, and do we lose money? To help you answer these questions, Liu Li Transport will send you useful information around the issue of your driver's license.",
+      "zh": "我们当中谁肯定不知道我们在哪里可以换牌照? 什么程序,何时需要改变,我们是否损失了钱? 为帮助您回答这些问题,刘力交通会就驾照问题向您发送有用的信息."
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các bước thực hiện": {
+      "en": "Actions",
+      "zh": "行动"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giải đáp thắc mắc đổi bằng lái xe ở đâu sẽ giúp bạn thôi vướng bận về thông tin thủ tục pháp lý phức tạp. Ngoài thông tin hữu ích này, vận tải Lưu Lê chia sẻ rất nhiều kiến thức thú vị liên quan tại website https://vantailuule.vn/. Ghé tham khảo và tìm kiếm những thông tin cần thiết cho mình ngay bạn nhé.": {
+      "en": "The question of where your driver's license is will help you to stop being preoccupied with complex legal information. In addition to this useful information, Liu Li's transport shares a great deal of interesting knowledge at the https://www.ivaltailule.vn/. Consulting and looking for the information you need right now.",
+      "zh": "你的驾照在哪里的问题 将帮助你不再专注于复杂的法律信息。 除了这些有用的信息,刘力的交通在https://www.ivaltailule.vn/上分享了众多有趣的知识. 咨询并寻找你现在需要的信息。"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện nay trên thị trường có hai loại giấy phép lái xe là loại thẻ nhựa PET và loại giấy tờ thông thường. Loại thẻ nhựa PET là loại mới lưu hành và trước đây đã có đề nghị tất cả phải đổi qua loại thẻ nhựa PET này.": {
+      "en": "Currently on the market are two types of driving licenses, the type of PET plastic card and the type of paper common. The type of plastic cards PET is new to circulation and has previously been suggested that all must be changed through this type of PET plastic card.",
+      "zh": "目前市场上有两类驾驶执照,一类是PET塑料卡和常见的纸张. 塑料卡的型号PET是新来流通的,以前曾有人建议,必须通过这种型号的PET塑料卡来改变所有."
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoàn thành điền đầy đủ các thông tin về việc đổi Giấy phép lái xe, tuần tự từng bước và khai báo thông tin chính xác. Cung cấp thêm hình ảnh, nộp lệ phí phát hành thẻ nhựa PET theo yêu cầu trên hệ thống.": {
+      "en": "Complete completion fills out the information on the exchange of driver's licenses, step-by-steps, and declare accurate information. Provide more images, apply the release fee for PET plastic cards as requested on the system.",
+      "zh": "完成填写关于交换驾驶执照、分步骤和申报准确信息的信息。 提供更多图像,按照系统上的要求,应用PET塑料卡的放行费."
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hướng dẫn đổi bằng lái xe": {
+      "en": "Driver's License Switch Guide",
+      "zh": "驾驶执照开关指南"
+    },
+    "Hướng dẫn đổi giấy phép lái xe qua mạng": {
+      "en": "Network driver's license change guide",
+      "zh": "网络驾照变更指南"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi nào thì cần đổi bằng lái xe?": {
+      "en": "When do you need a driver's license?",
+      "zh": "你什么时候需要驾照?"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài ra hình thức đến yêu cầu trực tiếp thì người dân còn có thể thực hiện yêu cầu đổi giấy phép online qua Cổng Dịch vụ Quốc Gia. Đây là một bước ngoặt trong hoạt động chuyển đổi số của hệ thống hành chính công. Không còn phải thắc mắc đổi bằng lái xe ở đâu mà giờ đây bạn đã có thể thực hiện online tại nhà và chờ giấy phép được gửi về. Các bước thực hiện yêu cầu đổi giấy phép lái xe:": {
+      "en": "In addition to the form of a direct request, the people can also perform the request for an online transfer of their license through the National Service portal. No longer having to wonder where the driver's license was that you were now able to perform online at home and wait for your license to be sent back. Executing driver's license requirements:",
+      "zh": "除了直接申请的形式外,人民还可以通过国民服务门户进行网上转让许可证的申请。 不必再怀疑驾照在哪里了 你现在可以在家里在线表演 等待驾照被送回去 执行驾驶执照要求:"
+    },
+    "Nhận giấy hẹn lấy giấy phép và chờ đến ngày lấy.": {
+      "en": "Get an appointment for a license and wait for the date.",
+      "zh": "预约驾照 等待日期"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Nộp hồ sơ Tổng cục Đường bộ Việt Nam hoặc tại Sở Giao thông Vận tải tỉnh thành bạn sinh sống.": {
+      "en": "Records of the Vietnam General Line or at the County Transport Service into living friends.",
+      "zh": "越南总线或县交通局记录为生活朋友."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo quy định trước đây thì yêu cầu bắt buộc người có giấy phép lái xe cũ phải đổi qua thẻ nhựa, nhưng xét theo phản hồi của người dân thì quy định bắt buộc trở thành khuyến khích. Tức là người dân có giấy phép cũ được khuyến khích chuyển qua thẻ nhựa PET, nếu không đổi thì nó vẫn còn hiệu lực sử dụng. Tuy nhiên trong tương lai, kế hoạch chuyển đổi dữ liệu số quốc gia sẽ yêu cầu bạn phải chuyển đổi bằng giấy qua thẻ nhựa.": {
+      "en": "The previous rule was that the requirement required the former driver's license to change to plastic card, but according to the response of the people was mandatory to become encouraging. That means the people with the old license were encouraged to transfer through the PET plastic card, which, if not switched, is still in use. In the future, however, plans to convert national digital data will require you to convert paper via plastic card.",
+      "zh": "之前的规则是,要求前驾驶证必须更改为塑料卡,但根据人们的反应,必须成为令人鼓舞的条件. 这意味着旧牌照的持有者被鼓励通过PET塑料卡转会,如果不切换,该卡仍在使用. 然而,今后,国家数字数据转换计划需要您通过塑料卡转换纸张."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển ô tô Bắc Nam": {
+      "en": "Northern South Car Transport",
+      "zh": "北部南车运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vậy đổi bằng lái xe ở đâu và nó có lợi ích gì? Thực tế cho thấy thẻ nhựa PET có rất nhiều lợi ích đối với chúng ta. Được sản xuất bằng vật liệu nhựa PET nên bằng của bạn sẽ có độ bền rất cao, đặc biệt là khả năng chống chịu cơ học, chống lại tác động của môi trường và thời tiết rất tốt. Thay vì dùng giấy phép lái xe bằng bìa giấy dễ bị hư hỏng khi gặp mưa, dễ bị rách thì dùng PET bạn không phải lo lắng gì.": {
+      "en": "So where is the driver's license and what good is it? The fact is that PET plastic cards have a lot of benefits for us. Produced by the PET plastic material so your degree will be highly sustainable, especially against mechanical resistance, against the impact of the environment and the weather very well. Instead of using paper licenses that are easily damaged when you encounter rain, you use PET without anxiety.",
+      "zh": "驾照在哪里,有什么用? 事实是PET塑料卡对我们有很多好处. 由PET塑料材料制成,所以你的学位将具有高度的可持续性,特别是抗机械阻力,抗环境及天气的影响非常好. 而不是使用在遇到雨水时容易损坏的纸质许可证,而是使用无忧无虑的PET."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "[Kinh nghiệm] Hướng dẫn đổi bằng lái xe ở đâu nhanh chóng?": {
+      "en": "[ Experience] Where's the driver's license switch quickly?",
+      "zh": "[经验] 驾照开关在哪里?"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đến chụp hình và nộp lệ phí, khoảng 135.000đ/lần.": {
+      "en": "Coming to take pictures and pay fees, about 135,000 mph/times.",
+      "zh": "来拍照和付费, 大约135 000 mph/times。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đổi bằng lái xe qua thẻ nhựa PET": {
+      "en": "Change driver's license via PET plastic card",
+      "zh": "通过PET塑料卡更换驾驶执照"
+    },
+    "Đổi bằng lái xe ở đâu": {
+      "en": "Where did you change your license?",
+      "zh": "你在哪里换的执照?"
+    },
+    "Đổi bằng lái xe ở đâu?": {
+      "en": "Where's the driver's license?",
+      "zh": "驾照在哪里?"
+    },
+    "Đổi bằng trực tiếp tại đơn vị hành chính công": {
+      "en": "Change direct at the righteous administrative unit",
+      "zh": "直接改变在正直的行政单位"
+    },
+    "Độ bảo mật thông tin của thẻ nhựa PET cao, không dễ làm giả hay tẩy xoá như thông thường. Thẻ còn tích hợp được nhiều loại bằng trên cùng một thẻ. Ví dụ bạn thi bằng lái xe máy, sau này thi bằng lái ô tô thì nó vẫn được tích hợp trên một thẻ mà không cần phải mang nhiều thẻ đi. Thông tin của bạn sẽ được tổng hợp lại và có trên cơ sở dữ liệu quốc gia. Chẳng may bạn bị mất thẻ thì quá trình cấp lại thẻ sẽ nhanh gọn, dễ dàng yêu cầu cấp hơn và không phải thi sát hạch lại.": {
+      "en": "The information security of high PET plastic cards is not as easy to fake or erase as usual. The card is also incorporated in many of the same types of cards. For example, if you take a motorized driver's license, then you get a driver's license, it's still integrated on a card without having to carry a lot of cards. Your information will be synthesized and available on the national database. Unfortunately, if you lose your card, the leveling process will be quick, easier to ask for the level and not the re-investigation.",
+      "zh": "高PET塑料卡的信息安全并不像往常那样容易被伪造或抹去. 该卡也融入了许多同类型的卡. 例如,若取出机动车驾驶证,再取出驾驶证,仍被整合入卡上而无需携带多张卡. 您的信息将被综合到国家数据库中。 不幸的是,如果你丢失了卡片,平分过程会很快,更容易要求关卡而不是重新调查."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

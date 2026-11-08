@@ -1,0 +1,934 @@
+{
+  "route": "/blogs/goc-tu-van/cach-ghi-ma-van-don-giao-hang-tiet-kiem-cho-nguoi-moi-gui-hang",
+  "texts": {
+    "\" rồi bấm vào nút \"": {
+      "en": "\"and press the button\"",
+      "zh": "\"按下按钮\""
+    },
+    "\" và bấm vào nút \"": {
+      "en": "\"and press the button\"",
+      "zh": "\"按下按钮\""
+    },
+    "\" để hoàn tất \"": {
+      "en": "\"to finish\"",
+      "zh": "\"结束\""
+    },
+    "\" để in phiếu gửi hàng. Nếu không có máy in thì bạn có thể viết tay hoặc mang đến bưu cục để nhờ nhân viên trợ giúp in phiếu gửi hàng.": {
+      "en": "\"to print the mail. If you do not have a printer, you can write down or bring it to the post office to ask the staff to print the mail.",
+      "zh": "\"乃出印来. 没有打印机的,可以写出或者带到邮局请工作人员打印邮件."
+    },
+    "\" ở cuối màn hình điện thoại. Trong phần Đơn hàng, nhấp vào \"": {
+      "en": "\"at the end of the phone screen. In the single section, click on\"",
+      "zh": "\"在电话屏幕的尽头. 在单节,点击\""
+    },
+    "\" ở góc trên bên phải màn hình (dấu \"": {
+      "en": "\"in the upper right corner of the screen (mark)",
+      "zh": "\"在屏幕右上角(标记)"
+    },
+    "\"). Tiếp theo, điền các thông tin cần thiết vào phần \"": {
+      "en": "\"\". Next, fill out the information needed in the section\"",
+      "zh": "\"\"(\"\".\". 接下来,填写本节需要的信息\"."
+    },
+    "\". Sau đó bạn có thể xem các đơn hàng bạn đã tạo trước đó. Sau đó, chọn các lệnh để in, rồi nhấn nút \"": {
+      "en": "\". You can then view the orders you created earlier. Then select the command to print, then press the button.\"",
+      "zh": "\",然后您可以查看您先前创建的命令. 然后选择要打印的命令,然后按下按钮\"."
+    },
+    "\". Sau đó bấm vào \"": {
+      "en": "\". Then click on\"",
+      "zh": "\"。然后点击\""
+    },
+    "\". Sau đó chọn \"": {
+      "en": "\". Then choose.\"",
+      "zh": "\"然后选择\""
+    },
+    ", máy móc, thiết bị,...": {
+      "en": "Machines, equipment,...",
+      "zh": "机器,设备,..."
+    },
+    "19 Tháng 10 2021": {
+      "en": "19 October 2021",
+      "zh": "2021年10月19日 (中文(简体) )."
+    },
+    ">>> Liên hệ ngay để được tư vấn báo giá hoặc xem chi tiết bảng giá": {
+      "en": "> DSW Contacts Now for Price Announcement or View of Table Details",
+      "zh": "> DSW 联系人即刻宣布价格或查看表格细节"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1:": {
+      "en": "Step 1:",
+      "zh": "步骤1:"
+    },
+    "Bước 2:": {
+      "en": "Step 2:",
+      "zh": "步骤2:"
+    },
+    "Bước 3:": {
+      "en": "Step 3:",
+      "zh": "步骤3:"
+    },
+    "Bước 4:": {
+      "en": "Step 4:",
+      "zh": "步骤4:"
+    },
+    "Bước 5:": {
+      "en": "Step 5:",
+      "zh": "步骤5:"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Chụp ảnh lại đơn hàng.": {
+      "en": "Take a photo of the order.",
+      "zh": "取一相相为令相."
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các đơn hàng ở cùng một shop thì có thể giống như về mã shop, mã tỉnh, mã kho nhưng phần số thứ tự các đơn hàng thì chắc chắn sẽ khác nhau.": {
+      "en": "The orders in the same store may be similar to the shop code, the province code, the storage code but the order of the order the order will definitely differ.",
+      "zh": "同一店内的订单可能与商店代码,省代码,存储代码相类似,但订单的顺序绝对不同."
+    },
+    "Cách ghi mã vận đơn giao hàng tiết kiệm": {
+      "en": "How to Write Single Transit Transfers",
+      "zh": "如何写入单次转运"
+    },
+    "Cách ghi mã vận đơn giao hàng tiết kiệm cho người mới gửi hàng": {
+      "en": "The way to write the single delivery code to the newcomer",
+      "zh": "给新来者写单个递递码的方法"
+    },
+    "Cách đăng ký giao hàng tiết kiệm - 7 bước đơn giản trong 1 phút": {
+      "en": "The way the delivery is registered - 7 simple steps in 1 minute",
+      "zh": "发送方式登记 - 1分钟内7个简单步骤"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do đó, mỗi đơn hàng gửi đi đều phải có mã vận đơn để có thể theo dõi và giao đơn hàng đến địa chỉ chính xác nhất. Việc thiếu mã vận đơn thì đơn vị giao hàng tiết kiệm sẽ không thể tiến hành gửi hàng đi dù trong tình huống nào.": {
+      "en": "Therefore, each sending order must have a single passcode in order to be able to track and deliver the package to the exactest address. The lack of single-coded delivery unit will not be able to proceed with any situation.",
+      "zh": "因此,每个发送命令必须有一个单一的传出码,才能跟踪并发送到最精确的地址. 缺乏单一编码的交付装置将无法处理任何情况。"
+    },
+    "Dán phiếu gửi hàng chính xác. Việc dán phiếu gửi hàng chính xác sẽ giúp hạn chế tình trạng hàng hóa bị thất lạc, giao sai địa chỉ,.... GHTK có những yêu cầu khá khắt khe về việc dán phiếu gửi hàng. Cụ thể như sau:": {
+      "en": "Paste the correct delivery. The pasting of the correct delivery will help restrict the lost goods, deliver the wrong address, and... GHTK has rather strict requests for the deposit. Specifically as follows:",
+      "zh": "粘贴正确的交付。 正确交货的粘贴将有助于限制丢失的货物,发送错误的地址,并且. GHTK对押金的要求相当严格. 具体如下:"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện nay, giao hàng tiết kiệm đang là một đơn vị vận chuyển được nhiều người ưu tiên sử dụng trong vận chuyển, đặc biệt là các shop chuyên bán hàng online. Vậy cách ghi mã vận đơn giao hàng tiết kiệm như thế nào nhanh nhất? Hãy cùng tham khảo bài viết sau để có câu trả lời nhé.": {
+      "en": "Currently, life-saving is a high-priced transportation unit used in transportation, especially online sales stores. So how fast is the single delivery code saved? Let's refer to the following article for an answer.",
+      "zh": "目前,救生是一个高价的运输单位,用于运输,特别是在线销售商店. 单个送货码保存多快? 举下一文为答."
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "In đơn hàng": {
+      "en": "Print Rows",
+      "zh": "打印行"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kí hiệu của Shop.": {
+      "en": "Shop Signs.",
+      "zh": "商店标志。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mã kho và tuyến giao.": {
+      "en": "Archive code and consignment.",
+      "zh": "存档代码和寄递."
+    },
+    "Mã tỉnh, thành phố.": {
+      "en": "Malls, cities.",
+      "zh": "商城,城市。"
+    },
+    "Mã vận đơn giao hàng tiết kiệm là một dãy ký hiệu bao gồm cả chữ và số. Dãy ký hiệu này là cách mà các đơn vị vận chuyển dùng để phân biệt các đơn hàng khác nhau. Trong mỗi mã vận đơn sẽ có:": {
+      "en": "The single delivery code is a sign sequence including both letters and numbers. This sequence of notation is the way the shipping units used to distinguish different orders. In each single-code will be:",
+      "zh": "单发码是包含字母和数字的符号序列. 这种加注顺序是航运单位用来区分不同订单的方式. 在每个单一编码中将:"
+    },
+    "Mã vận đơn là gì?": {
+      "en": "What's a single?",
+      "zh": "单人是什么?"
+    },
+    "Mã vận đơn rất cần thiết để kiểm soát và thống kê mọi loại hàng hóa. Việc ghi mã vận đơn nó không chỉ có ý nghĩa với đơn vị vận chuyển mà còn có ý nghĩa quan trọng với khách hàng và chủ hàng. Cụ thể như sau:": {
+      "en": "Single codes are essential to control and statistics of all kinds of goods. Its single-code recording means not only the transport unit but also significant to customers and owners. In particular, as follows:",
+      "zh": "单一编码对管制和统计各种货物至关重要。 其单码记录不仅指运输单位,也指对客户和所有人具有重要意义. 具体如下:"
+    },
+    "Mã vận đơn được sử dụng trong các trường hợp không mong muốn, ví dụ: Ví dụ như: giao hàng trễ, giao nhầm hàng, nhầm hàng, đổi hàng sau khi giao,… thì mã vận đơn sẽ giúp tăng tốc độ tìm kiếm hàng hóa của mình. Nếu bạn nhập mã vận đơn, người gửi có thể hỗ trợ ngay lập tức với độ chính xác cao. Ngoài ra, mã vận đơn còn giúp khách hàng hoàn tất việc thanh toán và chủ động tìm kiếm vận đơn lẻ để theo dõi tình trạng đơn hàng.": {
+      "en": "Single trade codes are used in unwanted cases, for example: late delivery, delivery, mistake, exchange after delivery,... then single-volt codes will speed up his search for goods. If you enter single-code, the sender can assist immediately with high accuracy. Also, the single-coded code helps the customer to complete the payment and take the initiative to search for singles to monitor the singles.",
+      "zh": "在不想要的情况下使用单一贸易代码,例如:延迟交货,交货,错误,交货后交换,......然后单伏代码会加快他的商品搜索. 如果输入单码,发件人可以立即以高精度协助. 另外,单码代码帮助客户完成支付,并主动寻找单曲来监控单曲."
+    },
+    "Mã đơn hàng sẽ giúp người gửi dễ dàng thống kê đơn hàng và quản lý rõ ràng hơn. Điều này cho phép người gửi đánh giá chính xác hiệu quả kinh doanh. Đồng thời, việc sử dụng mã vận chuyển còn giúp người gửi kiểm soát được các vấn đề có thể xảy ra với đơn hàng và có hướng giải quyết nhanh chóng, triệt để.": {
+      "en": "The single code will make it easier for the sender to stat the order and manage more clearly. This allows the sender to accurately evaluate business efficiency. At the same time, the use of the transport code also helps the sender to control the problems that may arise with the order and to have a quick, radical solution.",
+      "zh": "单码可以让发送者更容易地按下命令并更明确地管理. 这使得发送者能够准确评价业务效率. 同时,运输码的使用也帮助发送者控制订单可能产生的问题,并有一个快速,激进的解决方案."
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mở ứng dụng GHTK sau đó bấm vào biểu tượng \"": {
+      "en": "Open GTK applications then click on icons\"",
+      "zh": "打开 GTK 应用程序然后点击图标\""
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu bạn muốn vận chuyển đơn hàng bằng đơn vị chuyển phát tiết kiệm, bạn phải đóng gói đơn hàng theo quy định của đơn vị đó. Sau khi đóng gói hàng hóa, bạn phải in phiếu xuất kho và ghi mã vận đơn bên ngoài gói hàng để gửi hàng hóa đến GHTK. Để lấy và nhập mã vận đơn, hãy làm theo hướng dẫn bên dưới:": {
+      "en": "If you want to transport the singles using the life-saving unit, you have to pack the units according to the regulations of that unit. After packing the package, you have to print the drop-off and write the mail code outside the package to send the cargo to GHTK. To get and enter the singles code, follow the instructions below:",
+      "zh": "要使用救生单位运输单人,必须按照该单位的规定包运单人. 包装后,必须打印送货,并在包裹外写邮件代码,将货物发送到GHTK. 要获得并输入单曲代码,请遵循以下指令: 1."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phiếu gửi hàng phải được dán ngay ngắn, bằng phẳng, không bị gấp nếp,....": {
+      "en": "The delivery card must be pasted briefly, flatly, unfolded,...",
+      "zh": "送货卡必须贴上简短的,平坦的,展开的,......"
+    },
+    "Phiếu gửi hàng phải được dán song song với mã vận đơn.": {
+      "en": "The delivery card must be pasted parallel to the single code.",
+      "zh": "送货卡必须与单码平行粘贴."
+    },
+    "Phương thức thanh toán và giá trị hàng hóa": {
+      "en": "The way to pay and value goods",
+      "zh": "支付和估价货物的方式"
+    },
+    "Sau khi đã ghi và dán mã vận đơn nên đơn hàng, người gửi cần chụp lại ảnh sản phẩm và tải lên hệ thống của Giao hàng tiết kiệm. Ảnh chụp yêu cầu sắc nét, rõ ràng, nhìn rõ những số trên phiếu giao hàng. Mỗi lần chụp, người gửi có thể chụp từ 2 đến 3 đơn hàng.": {
+      "en": "After having recorded and pasted the singles code, the sender needs to take a photo of the product and upload the system of the Saving Exchange. Photograph requires sharp, clear, see the numbers on the delivery slip. Each shot, the sender can take two to three orders.",
+      "zh": "在录制和粘贴了单曲代码后,发件人需要拍摄产品的照片,并上传保存交换的系统. 照片需要尖锐,清晰,看送货单上的数字. 每次射击,发件人可以接受2到3次命令."
+    },
+    "Số thứ tự của đơn (số thứ tự sẽ bao gồm 9 chữ số).": {
+      "en": "The order of the single (the order will include 9 digits).",
+      "zh": "单曲的顺序(顺序包括9位数字)."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thao tác": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Thao tác ghi mã vận đơn lên đơn hàng của giao hàng tiết kiệm": {
+      "en": "Operation writing the order code to the order of the savings delivery",
+      "zh": "将命令代码写入储蓄交付的顺序"
+    },
+    "Thông tin lấy và giao hàng": {
+      "en": "The information takes and delivers",
+      "zh": "信息获取和传递"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là": {
+      "en": "Up here is",
+      "zh": "在这里"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyệt đối không để phiếu gửi hàng đè lên mã vận đơn.": {
+      "en": "Absolutely not let the stocking bond override the singles code.",
+      "zh": "绝对不能让丝袜债券凌驾于单曲代码之上."
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại sao cần ghi mã vận đơn giao hàng tiết kiệm": {
+      "en": "Why Singles of Savings Transmission Must Be Recorded",
+      "zh": "为什么要录制储蓄传输单曲"
+    },
+    "Tại sao cần ghi mã vận đơn giao hàng tiết kiệm?": {
+      "en": "Why is the single delivery code needed?",
+      "zh": "为什么需要单一的交货代码?"
+    },
+    "Tạo Đơn hàng": {
+      "en": "Create Singles",
+      "zh": "创建单曲"
+    },
+    "Tạo đơn hàng": {
+      "en": "Create Rows",
+      "zh": "创建行"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Vào phần \"": {
+      "en": "Enter the section \"",
+      "zh": "输入区域 \""
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Bắc Nam giá rẻ": {
+      "en": "North South-south transport is cheap",
+      "zh": "南北运输便宜"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của chúng tôi để lên kế hoạch tối ưu chi phí vận chuyển nhất nhé!": {
+      "en": "Ours to plan the best transportation costs!",
+      "zh": "我们计划最好的运输费用!"
+    },
+    "hướng dẫn cách ghi mã vận đơn giao hàng tiết kiệm": {
+      "en": "Guide in how to write the single delivery code.",
+      "zh": "指导如何写出单一的送货代码."
+    },
+    "mà bạn nên biết. Bạn nên nắm bắt những thông tin này để không xảy ra thiếu sót khi gửi hàng. Ngoài ra, nếu bạn đang muốn vận chuyển những loại hàng hóa có kích thước và khối lượng lớn thì hãy tham khảo website:": {
+      "en": "You should know. You should capture this information so as not to fall short of delivery. In addition, if you're trying to transport high-sized goods and mass, refer to the website:",
+      "zh": "你应该知道。 您应当获取这些信息, 以免无法提供。 此外,如果试图运输高尺寸货物和量产,请参考网站:"
+    },
+    "nhé. Chúng tôi là đơn vị vận chuyển hàng hóa trong nước với các loại hàng khối lượng lớn, các loại hàng siêu trường, siêu trọng,": {
+      "en": "Okay. We're the domestic freight unit with large mass shipments, super-high,",
+      "zh": "好吧,我说... 我们是国内货运单位 大批货物,超级高,"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa cồng kềnh": {
+      "en": "Transported Manufacturing",
+      "zh": "运输制造业"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đăng ký đơn hàng": {
+      "en": "Subscription",
+      "zh": "订阅"
+    },
+    "Đơn hàng": {
+      "en": "Singles",
+      "zh": "单身"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để tạo mã vận đơn, bạn phải đăng ký dịch vụ tại đơn vị giao hàng tiết kiệm. Hiện nay có hai hình thức đăng ký dịch vụ là đăng ký tại website hoặc đăng ký trên app của Giao hàng tiết kiệm. Bạn cần cung cấp những thông tin cá nhân và tạo mật khẩu cho tài khoản.": {
+      "en": "In order to create singles, you have to register services at the cost delivery unit. Currently there are two forms of service registrations that are registered at the website or that are registered on the apps of the Saving Transport. You need to provide personal information and create a password for your account.",
+      "zh": "为了创建单曲,您必须按成本交付单位注册服务. 目前,有两种形式的服务注册在网站上注册,或者在\"储蓄运输\"的应用软件上注册. 您需要提供个人信息并为您的账户创建密码 。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Đối với chủ hàng": {
+      "en": "EDI for the owner",
+      "zh": "拥有者的EDI"
+    },
+    "► Đối với khách hàng": {
+      "en": "EDI For Clients",
+      "zh": "客户端电子数据交换"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

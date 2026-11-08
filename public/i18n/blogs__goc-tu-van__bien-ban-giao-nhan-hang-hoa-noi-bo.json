@@ -1,0 +1,810 @@
+{
+  "route": "/blogs/goc-tu-van/bien-ban-giao-nhan-hang-hoa-noi-bo",
+  "texts": {
+    ", cùng theo dõi những chia sẻ dưới đây từ Vận Tải Lưu Lê bạn nhé.": {
+      "en": "Let's follow these shares from Liu Liu.",
+      "zh": "让我们跟随这些股份 从刘刘。"
+    },
+    "26 Tháng 7 2021": {
+      "en": "26 July 2021",
+      "zh": "2021年7月26日 (中文(简体) )."
+    },
+    ">>> Xem ngay:": {
+      "en": "> DHS View Now:",
+      "zh": "现在 > DHS 视图 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Biên bản giao nhận hàng hoá là gì?": {
+      "en": "What's the manifest?",
+      "zh": "名单是什么?"
+    },
+    "Biên bản giao nhận hàng hóa nội bộ": {
+      "en": "Internal goods delivery report",
+      "zh": "内部货物交付报告"
+    },
+    "Biên bản giao nhận hàng hóa nội bộ được đánh giá quan trọng, là loại giấy tờ xác thực, chứng minh hoạt động giao nhận. Là cấp quản lý, lãnh đạo của công ty thì bạn rất nên soạn thảo và chuẩn bị cho hoạt động giao nhận của công ty một bộ biên bản giao nhận.": {
+      "en": "Internal goods receipts are critically rated, which is the form of authentic papers, which demonstrate delivery activity. As the management level, the company's leader, you should very well draft and prepare for the company's transferal action a receiver.",
+      "zh": "内部货物收据被严格评分,这是证明交货活动的真实单据形式。 作为管理层,公司的领导者,你应该很好地起草和准备公司转移行动一个接收者."
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Báo giá vận tải Bắc Nam": {
+      "en": "Report North South Transport Price",
+      "zh": "南北运输价格报告"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các yêu cầu trong biên bản giao nhận hàng hoá": {
+      "en": "The requirements in the delivery report",
+      "zh": "交付报告的要求"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có thể thấy": {
+      "en": "You can see it.",
+      "zh": "你可以看到它。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển xe hơi Bắc Nam": {
+      "en": "Northern South Car Transport Service",
+      "zh": "北部南车运输服务"
+    },
+    "Dịch vụ vận chuyển xe máy đường sắt": {
+      "en": "Railway Transport Service",
+      "zh": "铁路运输处"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao và nhận hàng là một quá trình phố biến đối với mỗi chúng ta, đặc biệt trong các công ty chuyên về sản phẩm hay logistic thì quá trình này càng quan trọng và cần có những quy định rõ ràng đi kèm. Để hiểu về các": {
+      "en": "Delivering and receiving goods is a process of transformation for each of us, especially in companies that specialize in products or logistics, the more important the process is and the more obvious the rules are required. To understand the",
+      "zh": "交付和接收货物对我们每个人来说都是一个转变过程,特别是在专门从事产品或物流的公司,这一过程越重要,就越需要规则。 来理解"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mẫu biên bản bàn giao hàng hóa": {
+      "en": "Exchange console template",
+      "zh": "交换控制台模板"
+    },
+    "Mẫu biên bản giao nhận hàng hóa nội bộ và quy định về biên bản giao nhận hàng hóa": {
+      "en": "The template of the delivery takes internal goods and regulations on the delivery receipt",
+      "zh": "交货模板收录内部货物和收货条例"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một biên bản giao nhận cần có đầy đủ thông tin": {
+      "en": "A transfer statement requires full information",
+      "zh": "传输语句需要完整信息"
+    },
+    "Một số giấy tờ có thể sử dụng các loại chữ ký khác nhau, nhưng với": {
+      "en": "Some papers may use different types of signatures, but with",
+      "zh": "有些论文可能使用不同种类的签名,但带有"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu hàng hoá giao nhận đơn giản là sản phẩm thì cần có thêm các ký hiệu, mã số theo quy định của công ty, thông số của sản phẩm. Giao nhận tài sản thì cần có giá trị cụ thể của tài sản đó.": {
+      "en": "If the delivery goods are simply the product, then more notations, numbers according to the company's regulations, parameters of the product. The specific value of that property is required by the trust of the property.",
+      "zh": "如果交货商品只是产品,那么更多的注解,按照公司规定的数字,产品参数. 财产信托需要该财产的具体价值。"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy chuẩn hệ thống với biên bản giao nhận chuẩn": {
+      "en": "System norms with standard transfer form",
+      "zh": "带有标准传输表的系统规范"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thường trong bước giao và nhận hàng hoá chỉ có một số người chịu trách nhiệm liên quan thực hiện trực tiếp, nhưng trong công ty lại còn nhiều bên khác cần biết đến kết quả của công việc này. Vì thế mà cần đến biên bản chứng minh hoạt động giao nhận giữa các bên. Đây có thể xem là một căn cứ quan trọng, chứng minh rằng các bên đã giao và nhận đủ hàng hoá, tài sản đúng theo yêu cầu thỏa thuận và tại thời gian xác định.": {
+      "en": "Often in delivery and receiving goods only a few are responsible for direct implementation, but in the company there are others who need to know the results of this work. That's why it's necessary to go to the report to prove the transferal activity between the parties. This may view as an important base, proving that the parties have delivered and received sufficient goods, the property as required and at a certain time.",
+      "zh": "通常在交货和接收货物时,只有少数人负责直接执行,但公司中还有其他人需要了解这项工作的结果。 故须上报,以证明双方的转移活动. 这可能被视为一个重要的依据,证明双方当事人已经按规定在一定时间交付和收到足够的货物、财产。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong": {
+      "en": "Inside",
+      "zh": "内部"
+    },
+    "Trong cuộc sống hằng ngày, việc giao nhận hàng hoá diễn ra rất thường xuyên. Còn trong hoạt động kinh doanh, doanh nghiệp, đặc biệt là các doanh nghiệp thiên về kinh doanh sản phẩm thì việc này còn diễn ra thường xuyên và với tần suất lớn hơn. Có thể là nhận một số hàng hoá làm nguồn đầu vào như thiết bị vật tư, công cụ, nguyên liệu sản xuất… Để đảm bảo rằng quá trình này diễn ra suôn sẻ, thuận lợi và các bên liên quan đều biết được cụ thể số lượng hàng hoá nhận đã đủ, thời gian giao nhận, chất lượng hàng hóa… Nhằm đáp ứng điều đó các công ty đều có một quy chuẩn biên bản giao nhận hàng hóa nội bộ.": {
+      "en": "In daily life, delivery takes place very often. In business activities, businesses, especially business ventures, this goes on more often and at larger frequencies. Maybe take some goods as inputs such as supplies, tools, production materials... In order to ensure that the process goes smoothly, favorablely, and the related parties know the specific amount of goods received enough, the delivery time, the quality of goods... In response to that the companies all have a standard of the delivery of internal goods.",
+      "zh": "在日常生活中,分娩经常进行. 在商业活动中,企业,特别是商业企业中,这种情况经常发生,而且频率较大。 可能把一些商品当作投入,如用品,工具,生产材料...... 为了保证过程顺利,有利地进行,相关当事人知道收到的货物的具体数量,交货时间,货物质量. 对此,各公司都有内部货物的交付标准。"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tầm quan trọng của việc lập biên bản giao nhận hàng hoá": {
+      "en": "The Importance of the Dealing",
+      "zh": "交易的重要性"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "biên bản giao nhận hàng hoá nội bộ": {
+      "en": "Internal goods delivery report",
+      "zh": "内部货物交付报告"
+    },
+    "biên bản giao nhận hàng hóa nội bộ": {
+      "en": "Internal goods delivery report",
+      "zh": "内部货物交付报告"
+    },
+    "cũng chính là cơ sở quan trọng để phân định trách nhiệm của các bên nếu trong trường hợp xảy ra các tranh chấp. Trong nội bộ cơ quan, việc này giúp quá trình hoạt động trở nên suôn sẻ, mượt mà và hạn chế các mâu thuẫn có thể xảy ra ảnh hưởng đến quy trình hoạt động của công ty.": {
+      "en": "also the critical basis for determining the responsibilities of the parties if in the event of disputes. In the internal organ, this helps to make the operating process smooth and restrict the contradictions that may occur affecting the operating process.",
+      "zh": "此外,如果发生争端,确定当事方责任的重要依据。 在内部机关中,这有助于使操作过程平滑,限制可能影响操作过程的矛盾."
+    },
+    "cần cung cấp và kê khai rất trung thực, đầy đủ thông tin. Việc đầu tiên là kê khai các thông tin cá nhân, thông tin liên hệ, chức vụ của các bên liên quan một cách chính xác để biết các cá nhân sẽ chịu trách nhiệm về hoạt động này. Tiếp đến là biểu mẫu cần có thông tin về việc giao nhận hàng hoá: thời gian giao nhận, loại hàng hoá cụ thể là gì, số lượng, chất lượng và chủng loại, có thể kèm theo giá trị của hàng hoá đã được thỏa thuận ra sao.": {
+      "en": "need to provide and give an honest, complete statement. The first is to list personal information, related information, the position of related parties accurately to know that individuals will be responsible for this activity. The template then needs information on how to deliver goods: how the delivery time, what specific goods are, how much, quality and race, may accompany the value of the goods has been agreed.",
+      "zh": "需要提供和给出一个诚实,完整的陈述. 首先是列出个人信息,相关信息,关联方的立场,以便准确地知道个人将对这一活动负责. 然后,模板需要关于如何交付货物的信息:如何交付时间、具体货物是什么、数量、质量和种族可能与货物价值同时存在。"
+    },
+    "mới nhất!": {
+      "en": "The latest!",
+      "zh": "最新新闻!"
+    },
+    "thì nhất định cần tới chữ ký tươi – chữ ký trực tiếp lên giấy tờ biên bản của các bên giao và nhận. Chỉ khi có đủ chữ ký của bên giao nhận đã được đề thông tin trong biên bản, kèm theo đó là dấu đỏ thì biên bản này mới hợp pháp và có tính pháp lý.": {
+      "en": "I'm sure you'll need fresh signatures – signatures directly on the handbills of the intersections and receivers. It is only by having enough of the receiver's signatures that are featured in the report, accompanied by the red mark that the record is legal and legal.",
+      "zh": "我相信你们需要新鲜的签名 — 直接在交叉点和接收器的手单上签名. 只有有足够的接收者的签名,加上红色标记,记录才是合法的。"
+    },
+    "thường sẽ đi kèm với các giấy tờ liên quan khác. Ví dụ như hợp đồng mua bán thương mại, giấy chứng nhận chất lượng, hợp đồng vận chuyển… Điều này sẽ giúp cho các bên liên quan xác định chính xác được chất lượng hàng hóa, quy chuẩn hàng hoá, hàng hoá đã đủ điều kiện để giao nhận chưa.": {
+      "en": "often accompanied by other relevant papers. For example, trading contracts, quality certificates, shipping contracts... This will enable related parties to determine the exact quality of the goods, standards of the goods, and goods to be eligible for delivery.",
+      "zh": "经常伴有其他相关论文. 例如,交易合同,质量证书,航运合同. 这将使有关当事人能够确定货物的确切质量、货物标准和有资格交付的货物。"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đóng vai trò quan trọng trong hoạt động của doanh nghiệp. Bạn nên quy chuẩn mọi thủ tục giấy tờ để hoạt động kinh doanh diễn ra thuận lợi hơn. Nếu còn chưa biết nên cập nhật hệ thống giao nhận, cần hỗ trợ thông tin gì thêm có thể truy cập vào website của Vận Tải Lưu Lê để bổ sung các kiến thức vận chuyển, giao nhận hàng hoá cần thiết nhé!": {
+      "en": "Play a key role in business operations. You should standardise all paperwork to make business activities more favorable. If you don't know yet, update the delivery system, you need any more information that can be accessed to the Archives website to supplement the transportation knowledge, pick up the supplies!",
+      "zh": "在经营活动中起关键作用. 你应该把所有的文件标准化 使商业活动更有利 如果你还不知道,更新传送系统,你需要更多的信息,可以访问档案网站,补充运输知识,取出物资!"
+    },
+    "► Cần chữ ký tươi": {
+      "en": "Can not open message",
+      "zh": "创建新邮件"
+    },
+    "► Thực hiện đồng thời với các giấy tờ liên quan": {
+      "en": "ISR performs simultaneously with related papers",
+      "zh": "ISR与相关文件同时执行"
+    },
+    "► Đảm bảo thông tin chính xác": {
+      "en": "I guarantee accurate information",
+      "zh": "我保证有准确的信息"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

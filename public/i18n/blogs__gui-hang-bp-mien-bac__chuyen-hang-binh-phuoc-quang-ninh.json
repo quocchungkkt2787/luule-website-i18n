@@ -1,0 +1,906 @@
+{
+  "route": "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-quang-ninh",
+  "texts": {
+    "1,000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "1,500,000đ đến 2,300,000đ/chuyến": {
+      "en": "That's 1.50,000 per cent.",
+      "zh": "这是15.0%。"
+    },
+    "150,000đ/m3": {
+      "en": "150,000 dm/m3",
+      "zh": "15万德米/立方米"
+    },
+    "1m3 < 300kg": {
+      "en": "1 m3 (300 kg)",
+      "zh": "1立方米(300公斤)"
+    },
+    "1m3 > 300kg": {
+      "en": "1m3 > 300 kg",
+      "zh": "1立方米 > 300公斤"
+    },
+    "2,500,000đ/chuyến": {
+      "en": "2.50,000 per flight",
+      "zh": "2.50 000人/次飞行"
+    },
+    "250,000đ/m3": {
+      "en": "250,000 dm/m3",
+      "zh": "250 000 dm/立方米"
+    },
+    "26 Tháng 1 2022": {
+      "en": "26 January 2022",
+      "zh": "2022年1月26日 (中文(简体) )."
+    },
+    "380,000đ/m3": {
+      "en": "3DMD/m3",
+      "zh": "3DMD/立方米"
+    },
+    "600đ/kg": {
+      "en": "600 mph/kg",
+      "zh": "600 mh/kg (单位:公斤)"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "? Bạn chưa biết nên chọn hình thức vận chuyển nào giá rẻ và chuyển hàng ở đâu thì đảm bảo hàng hóa an toàn? Hãy cùng Lưu Lê tìm kiếm các câu trả lời chính xác qua bài dưới đây nhé!": {
+      "en": "What? Do you not yet know which type of transportation is cheap and where to deliver goods is safe? Let Liu look for accurate answers through the following article",
+      "zh": "你说什么? 难道你还不知道哪一种运输便宜,哪里交货安全吗? 让刘少奇通过下面的文章寻找准确的答案"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình Phước - Quảng Ninh": {
+      "en": "\"Presents of Peace - Guangzhou\"",
+      "zh": "\"太平御览-广州\""
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn có thể hoàn toàn yên tâm và sử dụng dịch vụ chuyển hàng Bình Phước đi Quảng Ninh tại Lưu Lê vì chúng tôi có những cam kết dành riêng có Qúy khách hàng như sau:": {
+      "en": "You can be completely secure and use the Lucky shipping service to Guangzhou at Liu Li because we have our own commitments to have our customers.",
+      "zh": "你可以完全安全,使用刘力去广州的\"幸运\"航运服务,因为我们有我们自己拥有客户的承诺."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn đang có nhu cầu": {
+      "en": "You are in need",
+      "zh": "你有需要吗?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bằng những nỗ lực không ngừng nghỉ trong việc tối ưu giá, Lưu Lê tự hào mang đến cho bạn các gói dịch vụ chuyển hàng từ Bình Phước đi Quảng Ninh chuyên nghiệp với cước phí cạnh tranh nhất thị trường. Bảng giá của chúng tôi luôn công khai và minh bạch cho khách hàng tham khảo như sau:": {
+      "en": "With endless attempts at optimum, Liu Lai proudly brings you the package of shipping from Peace to Professional Forum with the most competitive rate of the market. Our prices are always public and transparent for customer reference as follows:",
+      "zh": "以无休止的优化尝试,刘来自豪地将从和平到专业论坛的一揽子航程带给你,其市场竞争率最高. 我们的价格总是公开和透明,供客户参考如下:"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Bình Phước Quảng Ninh": {
+      "en": "\"President of the Peace of Guangzhou\"",
+      "zh": "\"广州太平天国会长\""
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chú ý ra ra gửi xe đúng giờ hành chính từ sau 08h sáng đến trước 17h chiều;": {
+      "en": "Pay attention to sending the car on time of office from after 08h in the morning to before 17 pm;",
+      "zh": "注意从上午08时后到下午17时前按时间发车;"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có các chính sách ưu đãi cho khách hàng hợp tác lâu dài, miễn phí bốc dỡ ở 2 đầu vận chuyển.": {
+      "en": "There are advocacy policies for long-term, free-loading clients at two end of the transport.",
+      "zh": "在运输两端有长期免费载货客户的宣传政策。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty TNHH Vận tải Lưu Lê là một trong những đơn vị đi đầu trong lĩnh vực vận chuyển hàng hóa đường sắt Bắc Nam. Với kinh nghiệm 10 năm trong ngành, Lưu Lê cam kết sẽ mang đến cho bạn những trải nghiệm tuyệt vời về 1 dịch vụ vận chuyển hàng an toàn, chuyên nghiệp, giá rẻ.": {
+      "en": "Liu Transportation Company is one of the leading units in the field of shipping of North South Railways. With 10 years' experience in the industry, Liu Bei pledges to bring you great experiences in a safe, professional, cheap delivery service.",
+      "zh": "刘通运输公司是南通铁路局航运领域的领导单位之一. 凭借10年的行业经验,刘备保证为您带来安全,专业,廉价的快递服务方面的伟大经验."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước Miền Bắc": {
+      "en": "Send the Northern Peace",
+      "zh": "让北方和平"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Bình Phước đi Hải Phòng": {
+      "en": "Send the goods from Lucky to Hai Hall",
+      "zh": "把货物从幸运去海堂"
+    },
+    "Gửi hàng từ Bình Phước đi Quảng Ninh giá rẻ, an toàn": {
+      "en": "Send the goods from Lucky to the cheap, safe Ning",
+      "zh": "把货从幸运送到便宜又安全的宁国"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hy vọng những thông tin chi tiết về dịch vụ": {
+      "en": "Hope for details about service",
+      "zh": "希望详细了解服务情况"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ < 10m3": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nhẹ > 10m3": {
+      "en": "Light Row > 10m3",
+      "zh": "轻行 > 10m3"
+    },
+    "Hàng nặng < 2 tấn": {
+      "en": "Heavy Rows",
+      "zh": "重行"
+    },
+    "Hàng nặng > 2 tấn": {
+      "en": "Heavy Rows > 2 tons",
+      "zh": "重行 > 2吨"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khoảng cách chuyển hàng từ Bình Phước đi Quảng Ninh": {
+      "en": "The shipping distance from Lucky to Guangzhing",
+      "zh": "从幸运去广正的航道"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê nhận vận chuyển đa dạng các loại mặt hàng bao gồm hàng nhỏ lẻ, hàng cồng kềnh và hàng siêu trường siêu trọng.": {
+      "en": "Liu Lev received a variety of goods including small rows, rows of 126/6 and superweights.",
+      "zh": "刘列夫获得了包括小排,小排126/6和超重等多种商品."
+    },
+    "Lưu ý": {
+      "en": "Attention",
+      "zh": "请注意"
+    },
+    "Lựa chọn đa dạng các gói dịch vụ vận chuyển: từ kho đến kho, từ ga đến ga, từ kho đến ga và từ ga đến kho. Riêng với gói vận chuyển từ kho đến kho, sẽ có nhân viên đến lấy hàng tận nơi và giao tận tay cho quý khách hàng.": {
+      "en": "Various delivery packages: from stock to depot, from station to station, from depot to station and from station to depot. In private with the package from the depot to the warehouse, there will be staff to pick up the goods and hand delivery to the guests.",
+      "zh": "各种快递包:从库存到仓库,从车站到车站,从车站到车站和车站. 私自携带从仓库到仓库的包裹,会有工作人员去取货,并手递给客人."
+    },
+    "Mang theo đầy đủ giấy tờ xe khi đi gửi (trong trường hợp vận chuyển xe máy, xe ô tô);": {
+      "en": "Bring complete car papers when sending (in case of motorcycle transport, automobile);",
+      "zh": "发车时携带完整的汽车证件(摩托车、汽车);"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài có kinh nghiệm lâu năm và bảng giá cước cạnh tranh nhất thị trường, khi chọn Lưu Lê là đơn vị vận tải hàng hóa từ Bình Phước đi Quảng Ninh bạn còn nhận được các tiện ích khác như sau:": {
+      "en": "In addition to your long-time experience and the market's most competitive ratings, when choosing Liu as the freight unit from Peace to Guangzhou you also get the following utility:",
+      "zh": "除了你长期的经验和市场最有竞争力的评分之外,在选择刘为从和平到广州的货运单位时,你还得到了以下的效用: 刘为从和平到广州."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu": {
+      "en": "If",
+      "zh": "若为"
+    },
+    "Nếu có thắc mắc bạn vui lòng liên hệ tới số Hotline:": {
+      "en": "If you have a question, please relate to Hotline number:",
+      "zh": "如果您有问题,请联系热线号码:"
+    },
+    "Nếu trong trường hợp hàng hóa bị thất thoát hay hư hỏng, Lưu Lê sẵn sàng đền bù 100%.": {
+      "en": "If the goods are lost or damaged, Liu Li is willing to compensate 100%",
+      "zh": "如果货物丢失或损坏,刘力愿意100%赔偿."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình vận chuyển hàng hóa của Lưu Lê rất chuyên nghiệp và đồng bộ trong từng khâu với 8 bước, đảm bảo bưu kiện của bạn được chuyển đi trong thời gian nhanh nhất.": {
+      "en": "Liu's delivery process is professional and synchronised in each suture with eight steps, making sure your parcel is delivered in the fastest time.",
+      "zh": "刘'的送货过程是专业的,在每个缝合处与八步同步,确保您的包裹在最快的时间内交付."
+    },
+    "Quãng đường gửi hàng từ Bình Phước đi Quảng Ninh bao nhiêu km? Thời gian vận chuyển bao lâu?": {
+      "en": "How many kilometers are there for the shipment from the Lucky? How long was the transport?",
+      "zh": "幸运号的货还有几公里? 多久的运输?"
+    },
+    "Sẵn sàng hỗ trợ bạn 24/7 chỉ cần liên hệ tới số hotline 0909 81 6625.": {
+      "en": "Ready to support you 24/7 just related to number of hotline 0909 81 6625.",
+      "zh": "准备全天候支援你 与0909816625热线电话有关"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, từ Bình Phước đi Quảng Ninh là 1 quãng đường khá xa. Xuất phát từ Bình Phước bạn cần vượt qua quãng đường khoảng 16000-1800km tùy từng cung đường. Mất hơn 30 tiếng đồng hồ nếu bạn chọn di chuyển bằng đường sắt và đường bộ. Mất vài tiếng nếu bạn chọn di chuyển bằng đường hàng không.": {
+      "en": "According to Google Maps's instructions, it's a long distance from the Peace to Guangzhou. As of the Peace, you need to cross the distance of about 161,000,800 miles (16,800 km) according to the arc. It takes over 30 hours if you choose to travel by rail and road. It takes a few hours if you choose to travel by air.",
+      "zh": "根据Google Maps的指示,从和平号到广州号的距离很长. 至太平天国时,需要按照弧度跨越约161,000,800英里(16,800公里)的距离. 选择铁路和公路行驶需要30多个小时. 选择乘飞机旅行需要几个小时."
+    },
+    "Thời gian chuyển hàng từ Bình Phước đi Quảng Ninh sẽ lâu hơn do các đơn vị vận tải cần có thời gian tiếp nhận, đóng gói, vận chuyển theo yêu cầu. Hình thức vận chuyển cũng có 3 loại như trên. Nếu bạn mong muốn tìm kiếm hình thức gửi hàng giá rẻ nhưng vẫn đảm bảo chuyên nghiệp, an toàn thì vận tải đường sắt chính là sự lựa chọn tối ưu nhất.": {
+      "en": "The time of shipping from the Lucky to Guangzhing will take longer due to transportation units that need to be received, packed, transported as requested. There are also three types of transportation. If you're looking for cheap delivery form but still professional, safe, rail transport is the best choice.",
+      "zh": "由于需要接收,包装,按要求运输的运输单位,从幸运号到广兴的运输时间会更长. 还有三种运输方式。 如果你在找便宜的送货单 但还是专业的 安全的 铁路运输是最好的选择"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trước khi gửi xe quý khách cần thông báo trước 1 ngày để Lưu Lê sắp xếp toa tàu chuyên dụng cho loại xe của quý khách;": {
+      "en": "Before sending you a car, you need to announce a day's notice for Liu Liu to arrange a special train for your type;",
+      "zh": "在派车前,要公告一天通知,让刘 Liu安排专线列车供你型号使用;"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy từng loại hàng, từng nhu cầu gửi hàng đường tàu hỏa của mỗi khách hàng là khác nhau nên giá cước cũng sẽ khác nhau. Chính vì lý do đó, quý khách vui lòng cung cấp đầy đủ thông tin về hàng hóa để được Lưu Lê báo giá chính xác cụ thể và chi tiết nhất.": {
+      "en": "Depending on the type of cargo, the demand for each customer's train shipment is different, so the rate will be different. For that reason, the guests would be pleased to provide sufficient information about the goods to be told by Liu La the most specific and detailed price.",
+      "zh": "根据货物种类不同,每趟客户的列车货运需求不同,因此费率会有所不同. 为此,嘉宾们将乐于就刘拉要告知的最具体,最详细价格的商品提供足够的信息."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Và nhiều vấn đề liên quan khác.": {
+      "en": "And many other related issues.",
+      "zh": "还有许多其他相关问题。"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chúng tôi sẽ tính vào hàng nhẹ. Nếu": {
+      "en": "All right, we'll make it light. If",
+      "zh": "好吧,我们会让它轻。 若为"
+    },
+    "chúng tôi sẽ tính vào hàng nặng.": {
+      "en": "We're gonna charge you hard.",
+      "zh": "我们要对你严刑拷打"
+    },
+    "cước tàu +": {
+      "en": "Train ID +",
+      "zh": "火车 ID +"
+    },
+    "gửi hàng từ Bình Phước đi Quảng Ninh": {
+      "en": "Send the package from Lucky to Guangzhing",
+      "zh": "把包裹从幸运送到广正"
+    },
+    "trên đây sẽ hữu ích với bạn! Chúc bạn có những trải nghiệm tuyệt vời tại Lưu Lê nhé!": {
+      "en": "Over here will be useful to you! Have a wonderful experience at Liu!",
+      "zh": "这里对你有用! 和刘有一段美好的经历!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao Quảng Ninh": {
+      "en": "Ning Transportation Car",
+      "zh": "宁运车"
+    },
+    "xe lấy Bình Phước +": {
+      "en": "car take Lucky +",
+      "zh": "开车走幸运+"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đâu là đơn vị gửi hàng từ Bình Phước đi Quảng Ninh chuyên nghiệp, giá rẻ?": {
+      "en": "What's the delivery unit from the Lucky to the Professional Forum, cheap?",
+      "zh": "从幸运号到职业论坛的送货单位是什么,便宜?."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đối với hàng hóa là xe máy hoặc chuyển nhà trọn gói hãy liên hệ để được chúng tôi tư vấn báo giá cụ thể.": {
+      "en": "For goods are motorcycles or package move to contact to be advised the price specific.",
+      "zh": "货物是摩托车或包裹移动以接触,以了解具体价格。"
+    },
+    "Đối với hàng nhẹ (tính theo m3):": {
+      "en": "For light row (calculated by m3):",
+      "zh": "对于轻行(以m3计算):"
+    },
+    "Đối với hàng nặng (tính theo kg):": {
+      "en": "For heavy items (calculated by kg):",
+      "zh": "重型物品(按公斤计算):"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đổ ít xăng khi đi gửi và nhớ mang theo xăng khi đi nhận xe (trong trường hợp vận chuyển xe máy, xe ô tô);": {
+      "en": "Pour some gas on the mail and bring some gasoline on the trip (in case of motorcycle transport, automobile);",
+      "zh": "在邮件上倒入一些汽油,并在旅行中带入一些汽油(摩托车、汽车);"
+    },
+    "Đội ngũ nhân viên chuyên nghiệp, cam kết sẽ chuyển hàng của bạn an toàn và nguyên vẹn đến tận tay người nhận.": {
+      "en": "Professional staff, pledge to deliver your cargo safely and intact to the receiver.",
+      "zh": "专业人员,保证将你们的货物安全完整地送到接收者手中。"
+    },
+    "để được Lưu Lê giải đáp 24/7!": {
+      "en": "To be answered by Liu 24/7!",
+      "zh": "由刘24/7回答!"
+    },
+    "→ Một số lưu ý khi sử dụng dịch vụ tại Lưu Lê bạn cần nắm được để đảm bảo hàng hóa được chuyển đi nhanh chóng và an toàn nhất đó là:": {
+      "en": "(10) Some of the most noticeable use of service at Liu You need to grasp to ensure that the goods are delivered quickly and safely that is:",
+      "zh": "(10)刘某某最显著的服务用途 您需要把握住,确保迅速安全地交付货物,即:"
+    },
+    "► Bảng giá dịch vụ gửi hàng từ Bình Phước đi Quảng Ninh chi tiết": {
+      "en": "\"President Service Prices Sent From Lucky to Guangzhou Details\"",
+      "zh": "\"总统服务价格从幸运到广州细节\"."
+    },
+    "► Giới thiệu Vận tải Lưu Lê": {
+      "en": "► About Liu Transport",
+      "zh": "关于刘运"
+    },
+    "► Những lợi ích và một số lưu ý khi sử dụng dịch vụ gửi hàng từ Bình Phước đi Quảng Ninh tại Lưu Lê": {
+      "en": "← Benefits and Some Notes when Using shipping services from Peace to Guangzhou",
+      "zh": "在使用从和平到广州的航运服务时,"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

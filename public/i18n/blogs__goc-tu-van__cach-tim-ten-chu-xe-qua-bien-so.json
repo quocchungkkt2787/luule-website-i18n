@@ -1,0 +1,806 @@
+{
+  "route": "/blogs/goc-tu-van/cach-tim-ten-chu-xe-qua-bien-so",
+  "texts": {
+    "- Bạn đang thực hiện một giao dịch mua lại xe cũ và cần tìm hiểu bên lề, xác thực lại những thông tin mà người bán cung cấp có minh bạch, có thực sự chính xác hay không. Xem liệu chiếc xe mình có ý định mua thuộc chính chủ người bán hay xe thuộc diện mất cắp...": {
+      "en": "- You're making an old car purchase deal and need to learn about the margin, verify the information that the vendor is transparent, whether it's really accurate. See if the car is intended to be purchased by the owner or car belonging to the stolen car...",
+      "zh": "- 你在做一个旧的汽车购买交易, 需要了解利润率, 核实信息 供应商是透明的, 是否真的准确。 看看车主或属于被窃车的车主是否打算购买. ."
+    },
+    "- Trong một số trường hợp, có xảy ra tai nạn hay va chạm giao thông nhưng người gây ra lại bỏ chạy. Thông qua biển số xe mà bạn nhớ, bạn sẽ tìm được thông tin của người đó.": {
+      "en": "- In some cases, there were accidents or traffic collisions but the person who caused it fled. Through the license plate you remember, you will find the person's information.",
+      "zh": "- 在某些情况下,发生事故或交通事故,但造成事故的人逃跑。 通过你记得的车牌, 你会找到这个人的信息。"
+    },
+    "- Việc tìm kiếm thông tin về xe cũng giúp cho bạn hạn chế những vấn đề rắc rối không mong muốn có thể xảy ra trong quá trình mua bán. Bạn có thể bị tịch thu tài sản, không được đăng ký sang tên chính chủ… và nhiều vấn đề khác": {
+      "en": "- The search for car information also helps you to restrict unwanted problems that may occur during the sale. You could be confiscated of property, not registered to the owner's name... and many other issues.",
+      "zh": "- 搜索汽车信息也有助于限制销售过程中可能出现的意外问题。 你可能会被没收财产, 不登记在业主名下... 还有许多其他问题。"
+    },
+    "08 Tháng 8 2021": {
+      "en": "08 August 2021",
+      "zh": "2021年8月08日 (中文(简体) )."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    ">>> Xem thêm: Kinh nghiệm": {
+      "en": "> DHS See More: Experience",
+      "zh": "> DHS 更多信息:经验"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Biển số xe là một dãy chữ và số gắn liền với phương tiện giao thông, cụ thể là xe máy, ô tô, xe máy điện… Mỗi phương tiện chỉ có duy nhất một biển số xe được đăng ký, gắn liền với tên của chủ sở hữu. Trong một số trường hợp bạn sẽ cần tìm thông tin của phương tiện thông qua biển số để phục vụ những mục đích khác nhau. Các lý do mà bạn cần tìm tên chủ xe qua biển số có thể là một trong số những trường hợp sau đây:": {
+      "en": "The license plate is a sequence of letters and numbers attached to traffic, namely motorcycles, cars, tram cars... Each vehicle has only one registered license plate, attached to the owner's name. In some cases you will need to find information about the vehicle via license plates to serve different purposes. The reasons why you need to find the car owner through the license plate may be one of the following:",
+      "zh": "车牌为接通交通的字母和编号序列,即摩托车,汽车,有轨电车等. . 每辆车只有一个注册牌照,挂在车主名下。 在某些情况下,您需要通过车牌找到有关车辆的信息,以达到不同的目的。 您需要通过车牌找到车主的原因可能如下:"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn đang cần kiểm tra thông tin của một chiếc xe,": {
+      "en": "You're looking at a car.",
+      "zh": "你看着一辆车。"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cách tìm thông tin chủ xe thông qua biển số": {
+      "en": "Way to find the owner information via the license plate",
+      "zh": "通过车牌找到车主信息的方法"
+    },
+    "Cách tìm tên chủ xe qua biển số": {
+      "en": "Way to find the owner of the car through the license plate",
+      "zh": "通过车牌找到车主的方法"
+    },
+    "Cách tìm tên chủ xe qua biển số và những điều bạn cần biết!": {
+      "en": "How to find the owner of the car through the plates and what you need to know!",
+      "zh": "如何找到车主 通过车牌和你知道的!"
+    },
+    "Cách đầu tiên và truyền thống chính là liên hệ Cục Đăng kiểm Việt Nam. Theo cách này thì bạn sẽ tra cứu được thông tin chính xác tuyệt đối, nhưng mặt khác nó lại có phần phức tạp và tốn nhiều thời gian của bạn. Bạn sẽ liên hệ phía Cục Đăng kiểm Việt Nam, đến đấy để xin giấy chứng nhận đăng kiểm biển số xe. Tiến hành các thủ tục theo yêu cầu, chờ phía cơ quan xác nhận thông tin qua một vài ngày làm việc. Vì là cơ quan nhà nước nên thường mong muốn tìm tên chủ xe qua biển số của bạn phải thực sự chính đáng và cần thiết.": {
+      "en": "The first and most traditional way is to link the Vietnam Regiment Bureau. In this way, you'll be able to look up absolute accuracy, but on the other hand it's a bit complicated and it's a lot of your time. You're going to contact the Vietnamese Board of Checkers, you're going to go there and get a license to check your license. Proceed with the proceedings, waiting for the agency's side to confirm information through a few days' work. Since you are a state agency, it is often your desire to find the owner of the car through your license plate to be really legitimate and necessary.",
+      "zh": "第一种也是最传统的方法是将越南兵团局联系起来. 这样,你就能抬头看绝对准确度,但另一方面它有点复杂,而且你的时间也很多. 你们要联系越南检查局,到那里领取检查执照. 继续诉讼,等待机构一方通过几天的工作确认信息. 既然你是一个国家机构, 你常常希望通过你的车牌找到车主 真正合法和必要。"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hướng dẫn trên đây về": {
+      "en": "Top Guide on",
+      "zh": "顶端指南打开"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kinh nghiệm gửi xe máy bằng đường sắt": {
+      "en": "The Experience of Sending Railways",
+      "zh": "发送铁路的经验"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Cục Đăng kiểm Việt Nam": {
+      "en": "Contact the Vietnam Publication Agency",
+      "zh": "联系越南出版局"
+    },
+    "Liên hệ Cục Đăng kiểm Việt Nam để có thông tin chính xác": {
+      "en": "Contact the Vietnam Regiment for accurate information",
+      "zh": "联系越南军团获取准确信息"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê chia sẻ rất nhiều kiến thức hữu ích trong đời sống, đặc biệt là dịch vụ vận chuyển, truy cập để biết thêm nhiều thứ bạn nhé.": {
+      "en": "Liu La shares a lot of useful knowledge in life, especially transportation services, access to know more about you.",
+      "zh": "刘拉分享了许多生活中有用的知识,尤其是交通服务,可以了解更多关于你的知识."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài những cách trên, còn một phương án tiếp dành cho bạn là sử dụng dịch vụ tìm thông tin biển số xe. Một số đơn vị cung cấp dịch vụ này tới cho khách hàng nhằm mang đến thông tin mang tính chính xác cao, tiết kiệm thời gian và công sức. Hơn nữa khi tra cứu một vài biển số, nếu không quen với các thủ tục bạn sẽ cảm thấy phức tạp và mệt mỏi. Mức phí dành cho dịch vụ này trên thị trường không quá cao mà bạn hoàn toàn có thể chi trả.": {
+      "en": "In addition to the above, one option for you is to use the car's license plate information service. Some units offer this service to their customers to bring high accuracy information, save time and effort. Furthermore, if you look up some plates, if you are not familiar with procedures, you will feel complex and tired. The fee for this service on the market is not too high that you can afford.",
+      "zh": "除此之外,您还可选择使用车牌信息服务. 一些单位向客户提供这种服务,以提供高度准确的信息,节省时间和精力。 此外,如果你查一些盘子,如果你不熟悉程序,你会感到复杂和疲惫。 这种服务在市场上的收费不高,你买得起."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu tại Hà Nội, bạn ghé qua cơ quan Cục Đăng kiểm Việt Nam tại địa chỉ số 18 đường Phạm Hùng, phường Mỹ Đình 2, quận Nam Từ Liêm, thành phố Hà Nội.": {
+      "en": "If you're in Hanoi, you're visiting the Vietnam Regiment Agency at the address of 18 Fanlong Road, the American Part Two, South District from Hanoi, Hanoi City.",
+      "zh": "若在河内,则访越南兵团机关,地址为:范龙路18号,美国第二部,河内市河内市南区."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Sử dụng dịch vụ tìm thông tin biển số xe": {
+      "en": "Use car plates information service",
+      "zh": "使用车牌信息服务"
+    },
+    "Sự phát triển của công nghệ đã được ứng dụng rất nhiều trong đời sống, và phục vụ cho việc tìm thông tin chủ xe qua biển số cũng được thực hiện nhờ công nghệ. Đó là việc bản tra cứu thông tin trên app riêng. Tải app của Cục Đăng kiểm Việt Nam về điện thoại, nhập biển số và chờ thông tin trả về. Nhược điểm của việc tra trên ứng dụng là độ thông tin chính xác chưa cao, việc bảo mật thông tin chưa đảm bảo. Và thông tin sâu hơn về tên chủ xe chưa được tích hợp nhiều vào hệ thống này.": {
+      "en": "The development of technology has been widely applied in life, and service for finding car owners information via plates has also been made by technology. It's a personal app research. Download the Vietnam Board app on the phone, enter the license plate and wait for return information. The downside of the application's investigation is that the exact information is not high, the information security is uncertain. And the deeper information about the car owner has not yet been integrated into this system.",
+      "zh": "技术的发展在生活中得到了广泛的应用,通过车牌寻找车主信息的服务也由技术做出. 个人应用研究. 在手机上下载越战局的app,输入车牌,等待返回信息. 申请调查的缺点是准确信息不高,信息安全性不确定. 而关于车主的更深层信息尚未融入这个系统."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu thông tin thông qua app, online": {
+      "en": "Search information via app, online",
+      "zh": "通过应用程序在线搜索信息"
+    },
+    "Tra cứu thông tin xe dễ dàng": {
+      "en": "Look up easy car information",
+      "zh": "查找轻松的汽车信息"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tìm thông tin chủ xe qua biển số": {
+      "en": "Find car owner information via license plate",
+      "zh": "通过车牌找到车主信息"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Vì sao lại cần tìm thông tin chủ xe từ biển số": {
+      "en": "Why do we need to look for car owners information from the plates?",
+      "zh": "为什么我们要从车牌上寻找车主信息?"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với biển số xe ô tô, bạn có thể tra cứu tìm tên chủ xe qua biển số qua hình thức online. Tìm kiếm các trang thông tin chính thống để đảm bảo độ chính xác của thông tin bạn có được. Có thể truy cập website của Cục Đăng kiểm tại http://www.vr.org.vn/, vào mục Thủ tục hành chính, nhập thông tin biển số cần tìm và thực hiện các bước theo hướng dẫn trên màn hình để tìm. Cách này mang tính tiện lợi cao và ngày càng được đông đảo người dân sử dụng.": {
+      "en": "With the license plate, you can look up the car owner via the license plate via online form. Search for mainstream information pages to ensure the accuracy of the information you get. Accessed the Department of Checkers website at http://www.vr.org.vn/, accessing the Executive Processing Section, entering digital plate information to find and take steps in the direction on the screen to find it. It is highly convenient and is increasingly used by the masses.",
+      "zh": "车牌可以在网上通过车牌查询车主. 搜索主流信息页面,确保获取的信息的准确性. 进入检查部网站http://www.vr.org.vn/,进入执行处理科,输入数字盘信息,在屏幕上找到并采取步骤。 它非常方便,并且被群众越来越多地使用."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "cách có giúp ích được cho bạn? Hy vọng sẽ bổ ích và bạn sẽ tìm được thông tin mình muốn. Tại website": {
+      "en": "How Can You Help? Hope will be helpful and you will find the information you want. At the website",
+      "zh": "你能帮忙吗? 希望会有所帮助 你会找到你想要的信息 在网站上"
+    },
+    "công ty vận chuyển đường sắt": {
+      "en": "Railroad Transporting Company",
+      "zh": "铁路运输公司"
+    },
+    "gửi hàng Bắc Nam": {
+      "en": "Send North South",
+      "zh": "派遣南北"
+    },
+    "là ai và tình trạng xe ra sao. Bạn băn khoăn không biết liệu mình có thể tự tra cứu không cần nhờ đến cơ quan chức năng? Bài viết được Vận tải Lưu Lê chia sẻ sau đây sẽ giúp bạn có được thông tin hữu ích để tìm ra thông tin của chủ xe qua biển số và những điều thú vị khác nữa nhé.": {
+      "en": "What's the status of the car? You wonder if you can do your own research without the agency involved? The following song published by Liu Media will give you useful information to find the driver's information through the license plate and other interesting things.",
+      "zh": "车的状况如何? 你想知道你能不能自己去调查吗? 刘传媒出版的以下歌曲将为您提供有用的信息,通过车牌和其他有趣的东西找到驾驶员的信息."
+    },
+    "tìm tên chủ xe qua biển số": {
+      "en": "Find the car owner via the license plate",
+      "zh": "通过车牌找到车主"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để giải quyết nhu cầu tìm tên chủ xe qua biển số, Vận tải Lưu Lê gửi đến bạn một số cách có thể giúp bạn tìm được thông tin nhanh chóng và chính xác vô cùng.": {
+      "en": "To settle the need to find the owner of the vehicle through the license plate, Liu Transport sends you some ways that you can find information quickly and extremely accurate.",
+      "zh": "为了解决通过车牌找到车主的需要,刘运向您发送了一些方法,可以快速地,极其准确地找到信息."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

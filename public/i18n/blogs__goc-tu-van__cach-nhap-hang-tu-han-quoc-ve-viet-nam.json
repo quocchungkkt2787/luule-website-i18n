@@ -1,0 +1,858 @@
+{
+  "route": "/blogs/goc-tu-van/cach-nhap-hang-tu-han-quoc-ve-viet-nam",
+  "texts": {
+    "25 Tháng 5 2021": {
+      "en": "25 May 2021",
+      "zh": "2021年5月25日 (中文(简体) )."
+    },
+    ">>> Có thể bạn quan tâm:": {
+      "en": "> DSTOR Can You Care:",
+      "zh": "> DSTOR 您可以关心:"
+    },
+    ">>> Xem ngay Bảng giá vận chuyển hàng Bắc Nam của chúng tôi [": {
+      "en": ">DF View Right Our North South Transport Board [",
+      "zh": ">DF 查看右方 我们的南北运输局[1]"
+    },
+    ">>> Xem ngay: Lợi ích khi sử dụng dịch vụ vận chuyển của": {
+      "en": ">DF View Now: Benefits From Using Transport Service of",
+      "zh": ">DF 查看: 使用运输服务的好处"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các cách nhập hàng từ Hàn Quốc về Việt Nam": {
+      "en": "The Ways to Join South Korea",
+      "zh": "加入韩国的途径"
+    },
+    "Các mặt hàng mỹ phẩm bạn muốn nhập sẽ cần có Thư uỷ quyền của phía đơn vị sản xuất, đơn vị cung cấp đồng ý cho phép bạn nhập khẩu, phân phối sản phẩm này tại Việt Nam. Tương tự với các mặt hàng khác bạn cũng cần có thư uỷ quyền.": {
+      "en": "The cosmetic goods you want to enter will require the Authority of the production unit side, the supply unit that allows you to import, distribute this product in Vietnam. Similar to other goods you also need proxy letters.",
+      "zh": "您想要进入的化妆品需要生产单位的主管部门, 允许您在越南进口, 分销这种产品的供应单位。 与其他商品类似,您还需要代理信件。"
+    },
+    "Các nền tảng thương mại điện tử hiện nay rất phổ biến và có tính toàn cầu giúp cho mọi người có thể tiếp cận nguồn hàng từ trên toàn thế giới. Tìm kiếm các trang thương mại điện tử lớn ở Hàn Quốc, bạn dễ dàng tìm ra nơi cung cấp nguồn hàng mình cần bằng cách tìm kiếm theo từ khoá, theo danh mục.": {
+      "en": "The current electronic trade platforms are widespread and global that enable people to access the world's sources. Search for large electronic commercial pages in Korea, and you can easily find where to supply the goods you need by searching according to the keyword, according to the catalog.",
+      "zh": "目前的电子贸易平台是广泛而全球性的,使人们能够利用世界来源。 在韩国搜索大型电子商业网页,通过按关键词搜索,按目录搜索,可以很容易地找到所需商品的供应地."
+    },
+    "Các thủ tục hải quan theo": {
+      "en": "Custom procedures follow",
+      "zh": "遵循自定义程序"
+    },
+    "Các thủ tục nhập hàng từ Hàn Quốc bạn cần biết": {
+      "en": "The import procedures from Korea you need to know",
+      "zh": "从韩国进口的程序 您需要知道"
+    },
+    "Cách nhập hàng từ Hàn Quốc về Việt Nam": {
+      "en": "The way to import goods from Korea to Vietnam",
+      "zh": "从韩国向越南进口货物的方式"
+    },
+    "Cách thức này phù hợp cho các bạn đã chuẩn bị sẵn một nguồn vốn cho hoạt động kinh doanh của mình. Số lượng hàng nhập sẽ cần đủ lớn, và mức độ thường xuyên để hưởng được mức giá buôn tốt, hợp lý.": {
+      "en": "The method is appropriate for you to have a capital prepared for your business activities. The number of imports will need to be large enough, and the level of regularity to get a good, reasonable price.",
+      "zh": "该办法适用于您为您的商业活动准备资本。 进口数量要足够多,规范化程度要合理,价格合理."
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có rất nhiều cách để bạn có thể nhập các mặt hàng mình cần từ Hàn quốc về Việt Nam, tuỳ thuộc vào số lượng, loại mặt hàng mà bạn có thể chọn cách thức phù hợp.": {
+      "en": "There are a lot of ways in which you can enter the goods you need from South Korea to Vietnam, depending on how many, the type of goods you can choose the right way.",
+      "zh": "从韩国到越南,可以有很多方式可以进入所需的货物,这取决于数量,可以选择正确方式的货物类型."
+    },
+    "Có thể là nhờ người thân, bạn bè sinh sống và làm việc tại Hàn Quốc. Hay người quen làm việc trên các chuyến bay có quá cảnh, có đáp xuống tại Hàn Quốc. Họ sẽ mua hộ và mang về cho bạn với mức phí phù hợp.": {
+      "en": "Perhaps because of relatives, friends live and work in Korea. Or the acquaintance who works on flights has too scene, has landed in Korea. They will buy it for you and bring it back to you at a suitable fee.",
+      "zh": "也许是因为亲戚,朋友在韩国生活和工作. 或者在飞机上工作的熟人 已经降落在韩国了 他们会为你买下它 并把它带回给你 以适当的费用。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty vận tải đường sắt": {
+      "en": "Rail Transporting Company",
+      "zh": "铁路运输公司"
+    },
+    "Cũng tương đồng với việc nhờ người thân xách tay, nhưng với cách này người bạn nhờ lại không quen biết và cần bỏ chi phí. Bởi dịch vụ này sẽ bao gồm đi chọn địa điểm bán hàng chất lượng, lựa mua và đóng gói cẩn thận rồi làm các thủ tục gửi về cho bạn.": {
+      "en": "It is similar with asking a close relative to carry a hand, but in this way the friend is not used to it and needs to be wasted. Because this service will include selecting the site of the sale of quality goods, choice of purchases, and carefully packed packages and then making the procedures send back to you.",
+      "zh": "这与要求近亲携带一只手类似,但这样朋友并不习惯,需要被浪费. 因为这项服务将包括选择优质商品的销售地点,选择购买,以及仔细包装的包装,然后使程序发回给你."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DNTN vận tải hàng hóa": {
+      "en": "DNTN Transportation",
+      "zh": "DNTN 运输"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hà Nội!": {
+      "en": "Hanoi!",
+      "zh": "河内!"
+    },
+    "Hàn Quốc hay bất kỳ quốc gia nào trên thế giới bạn cũng có thể tìm kiếm và nhập hàng từ đây để phục vụ hoạt động kinh doanh, sử dụng của mình tại Việt Nam. Trên đây là một số": {
+      "en": "South Korea or any country in the world you can also search and import from here to serve his business operations, using his in Vietnam. Here are some.",
+      "zh": "韩国或世界上任何国家 都可以从这里搜索和进口 服务于他的商业业务, 在越南。 这里有一些。"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hình thức xách tay": {
+      "en": "Manual Format",
+      "zh": "手动格式"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Làm đại lý phân phối": {
+      "en": "As a distribution agent",
+      "zh": "作为分销代理"
+    },
+    "Lưu Lê!": {
+      "en": "Liu!",
+      "zh": "刘"
+    },
+    "Muốn nhập một mặt hàng từ quốc gia này sang một quốc gia khác không đơn giản là bỏ tiền và nhận hàng mà nó bao gồm nhiều thủ tục khác. Nhập hàng xuyên quốc gia hay còn được xem là nhập khẩu hàng hoá. Đối với mỗi loại hàng hoá sẽ có": {
+      "en": "Wanting to enter one item from one country to another is not simply putting money and receiving which it includes many other procedures. Entering cross-National or even considered importing goods. For each category of goods there will be",
+      "zh": "想要从一个国家进入另一个国家的物品,不仅仅是放钱和接受它包括许多其他程序。 进入跨国或甚至考虑进口货物。 每类货物都有"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài ra, nếu bạn cần vận chuyển khối lượng hàng hóa lớn với giá siêu rẻ, đừng ngần ngại liên hệ với công ty vận tải Lưu Lê, chúng tôi là đơn vị vận chuyển hàng hóa bắc trung nam uy tín, chuyên nghiệp, cam kết bồi hoàn 100% giá trị sản phẩm nếu xảy ra lỗi trong quá trình vận chuyển.": {
+      "en": "In addition, if you need to transport a large mass of goods at super cheap prices, don't hesitate to contact Liu Transporter, we are the prestigious north-central, professional shipping unit, committed 100% of the product's value if an error occurs in the transport process.",
+      "zh": "此外,如果你需要以超廉价的价格运输大量货物,不要犹豫与刘运商联系,我们是著名的中北专业航运单位,如果运输过程中发生错误,我们承诺100%的产品价值."
+    },
+    "Nhập hàng nhờ người thân xách tay": {
+      "en": "Join the line by hand related",
+      "zh": "手动加入线条"
+    },
+    "Nhập hàng từ Hàn Quốc về Việt Nam dễ dàng": {
+      "en": "Imported from Korea to Vietnam Easy",
+      "zh": "从韩国进口到越南"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhập trực tiếp từ các website thương mại điện tử": {
+      "en": "Enter directly from electronic commercial websites",
+      "zh": "从电子商业网站直接输入"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Sẽ tuỳ thuộc vào các mặt hàng bạn muốn nhập về là gì mà các thủ tục giấy tờ hải quan sẽ được công bố khác nhau. Đó chính là các hồ sơ thủ tục xem mặt hàng có thuộc danh sách cấm không, có được bán không. Chẳng hạn, bạn cần nhập hàng áo thun thì loại hàng đấy sẽ có thủ tục công bố áo thun.": {
+      "en": "It's up to the goods you want to enter about what the customs papers will be published differently. It's a set of profiles to see if the merchandise is on the list, whether it's sold. For example, if you need a T-shirt line, the product will have a T-shirt release.",
+      "zh": "由你要输入的货物决定 海关文件会以不同方式公布 这是一套简介,看看商品是否在列表中,是否出售. 例如,如果需要T恤线,产品会发布T恤线."
+    },
+    "Sử dụng dịch vụ mua hàng hộ": {
+      "en": "Use the purchase service",
+      "zh": "使用购买服务"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo thống kê thì mỹ phẩm là loại hàng hoá được người Việt nhập khẩu từ Hàn Quốc về bậc nhất. Dựa trên": {
+      "en": "Statistics say that cosmetics are the type of goods imported by the Vietnamese from South Korea to the top. Based on",
+      "zh": "统计称化妆品是越南人从韩国进口到顶级的商品. 依据"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong thế giới phẳng hiện nay thì việc nhập hàng từ các quốc gia khác nhau trên thế giới không còn xa lạ gì nữa. Đặc biệt các mặt hàng dành cho phái đẹp xuất phát từ Hàn Quốc rất được ưu chuộng trên thị trường Việt Nam. Ngày hôm nay, Vận tải Lưu Lê sẽ mách bạn": {
+      "en": "In the present flat world, admissions from different countries of the world are no longer foreign. In particular, the goods for the goods that come from Korea are highly favored on the Vietnam market. Today, Liu Li Transport will tell you",
+      "zh": "在目前的平坦世界中,世界不同国家的招生不再是外国的. 特别是,来自韩国的货物在越南市场上得到高度青睐。 今天刘力运输会告诉你"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tìm kiếm dịch vụ nhập hàng uy tín": {
+      "en": "Search for trusted input services",
+      "zh": "搜索信任的输入服务"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "TẠI ĐÂY": {
+      "en": "Here.",
+      "zh": "这里。"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "] để tiết kiệm chi phí vận chuyển nhất nhé!": {
+      "en": "♪ to save the transportation costs!",
+      "zh": "为了节省运输费用!"
+    },
+    "cách nhập hàng từ Hàn Quốc về Việt Nam": {
+      "en": "how to import goods from Korea to Vietnam",
+      "zh": "如何从韩国进口货物到越南"
+    },
+    "cũng không kém phần quan trọng. Với những người mới và không chuyên thì nó khá phức tạp và có thể bị làm khó. Vì thế thường sẽ có đơn vị dịch vụ để hỗ trợ người cần nhập hàng. Vận tải Lưu Lê cũng là một đơn vị hỗ trợ vận chuyển hàng, làm thủ tục hải quan cho hàng hoá của bạn. Nhanh chóng, hiệu quả và bạn chỉ cần chờ và nhận hàng thôi.": {
+      "en": "No less important. For new and non-professional people, it's quite complicated and can be difficult. So often there will be service units to assist the people who need to import. Liu Li transport is also a shipping support unit, making customs procedures for your goods. Quick, efficient and you just wait and pick up.",
+      "zh": "同样重要的是。 对于新人和非专业的人来说,这相当复杂,可能很困难. 因此经常会有服务单位来帮助需要进口的人. 刘力运输也是航运支援单位,为贵公司货物办理海关手续. 快速,高效 而你只是等待和接。"
+    },
+    "dành cho các bạn muốn kinh doanh mặt hàng từ đất nước này nhé.": {
+      "en": "For you to want to do business from this country.",
+      "zh": "让你从这个国家做生意"
+    },
+    "khác nhau mà bạn cần tìm hiểu.": {
+      "en": "different things you need to learn.",
+      "zh": "不同的东西 你需要学习。"
+    },
+    "là xu hướng phổ biến hiện nay.": {
+      "en": "is the current trend.",
+      "zh": "是当前的趋势。"
+    },
+    "mà Vận tải Lưu Lê gửi đến bạn. Chúng tôi vẫn luôn sẵn dịch vụ, hệ thống toàn cầu để hỗ trợ bạn tiếp cận được nguồn hàng tốt và dễ dàng, truy cập website:": {
+      "en": "that Liu Li transport sent to you. We are always available for services, global systems to support you access to goods and easy, accessing the website:",
+      "zh": "刘力送来的 我们总是可以提供各种服务,建立全球系统,支持你们获取商品,方便地访问网站:"
+    },
+    "phổ biển hiện nay. Đây là cách nhập phù hợp với các mặt hàng có số lượng ít, và thường sẽ là nhận order từ khách hàng rồi mới tiến hành đặt hàng và nhờ người xách tay hộ. Hoạt động này không cần nhiều vốn và giấy tờ không quá phức tạp.": {
+      "en": "the current sea. This is how to fit in with the few-numbered items, and it's usually going to be taking orders from the customer and then making the orders and having the hand bearer help. This activity does not require much capital and paper that is not too complicated.",
+      "zh": "现海. 这就是如何与数位物品搭配,通常会接受客户的订单,然后发出订单,得到手持者帮助. 这项活动不需要太多的资本和纸张,但并不过于复杂。"
+    },
+    "rất phố biển hiện nay.": {
+      "en": "It's a real beach.",
+      "zh": "这是一个真正的海滩。"
+    },
+    "thì muốn nhập hàng mỹ phẩm sẽ cần đến các thủ tục công bố mỹ phẩm.": {
+      "en": "If you want to join cosmetics, you'll need cosmetics.",
+      "zh": "要加入化妆品,需要化妆品."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "về lâu dài sẽ rất phù hợp, chắc chắn và đảm bảo cho các bạn có định hướng kinh doanh lâu dài.": {
+      "en": "In the long term, it will be very suitable, solid and guarantee you a long-term business orientation.",
+      "zh": "从长远来看,它将是非常合适的,坚实的,并保证你有一个长期的经营取向."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây là một trong số các": {
+      "en": "This is one of the",
+      "zh": "这是其中之一"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để lại thông tin chúng tôi sẽ giúp đỡ bạn nhé.": {
+      "en": "Leave the information and we'll help you.",
+      "zh": "留下信息 我们会帮你的"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

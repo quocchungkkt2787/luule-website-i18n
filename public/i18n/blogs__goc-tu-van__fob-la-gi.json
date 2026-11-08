@@ -1,0 +1,934 @@
+{
+  "route": "/blogs/goc-tu-van/fob-la-gi",
+  "texts": {
+    "18 Tháng 9 2022": {
+      "en": "18 September 2022",
+      "zh": "2022年9月18日 (中文(简体) )."
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bằng chứng giao hàng": {
+      "en": "Transportation Evidence",
+      "zh": "运输证据"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "CIF được khai báo cùng cảng đích, trong khi đó FOB lại được khai báo cùng tên cảng xếp hàng.": {
+      "en": "CIF is reported to be the same target port, while the FOB is again credited with the same port name lined up.",
+      "zh": "据报道,CIF是同一个目标端口,而离岸价格再次被记为同个端口名的行号."
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển giao rủi ro": {
+      "en": "Risk Transmission",
+      "zh": "风险传播"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chuẩn bị giấy phép xuất khẩu và hoàn thành thủ tục hải quan theo quy định.": {
+      "en": "Prepare export licenses and complete customs procedures according to regulations.",
+      "zh": "根据条例制定出口许可证并完成海关手续。"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chịu chi phí và rủi ro đơn hàng khi vận chuyển từ kho nội địa đến cảng tàu. Sau đó chi phí và rủi ro này sẽ được chuyển giao sang người mua khi hàng đưa lên tàu.": {
+      "en": "Cost and risk of singles when transporting from the interior warehouse to the harbour. This cost and risk will then be transferred to the buyer when the cargo is loaded aboard.",
+      "zh": "单人从内地仓库到港口运输的成本和风险. 货物装上后,这一费用和风险将转给买方。"
+    },
+    "Chịu mọi chi phí phát sinh nếu lô hàng được hải quan của nước thực hiện xuất khẩu kiểm tra.": {
+      "en": "Cost all costs if the shipment is made by the customs of the country making the export test.",
+      "zh": "如果由进行出口检验的国家的海关进行装运,则成本为所有费用。"
+    },
+    "Chịu mọi cước phí cho đến khi hàng lên tàu, gồm cả thuế, chi phí khai hải quan,...": {
+      "en": "Take all the fees until the cargo board, including taxes, customs fees,...",
+      "zh": "收取所有费用直到货会,包括税收,海关费,......"
+    },
+    "Chịu trách nhiệm chi phí và rủi ro từ cảng cho đến điểm xuất cuối. Người mua có thể sử dụng hoặc không sử dụng hợp đồng bảo hiểm hàng hóa.": {
+      "en": "Take responsibility for the cost and risk from the harbour to the final destination. Buyers can use or do not use goods insurance contracts.",
+      "zh": "承担从港口到最终目的地的费用和风险。 买方可以使用或不使用货物保险合同."
+    },
+    "Chịu trách nhiệm trả cước phí tính từ lúc hàng lên tàu.": {
+      "en": "He's responsible for paying the fees since the freight.",
+      "zh": "他负责支付运费后的费用."
+    },
+    "Chịu trách nhiệm trả toàn bộ chi phí kiểm tra, quản lý chất lượng lô hàng. Nếu hàng được đóng gói đặc biệt phải thông báo cho người mua.": {
+      "en": "Responsibilities pay all of the inspection costs, quality management of the shipment. If the package is especially packed, inform the buyer.",
+      "zh": "责任支付所有检验费用、运输质量管理。 如果包裹是特别包装的,通知买方。"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp cho bên mua chứng từ vận tải giao hàng từ kho ra cảng.": {
+      "en": "Give the evidence to the purchase party from shipping from the depot to the harbour.",
+      "zh": "从仓库到港口的运输向购买方提供证据。"
+    },
+    "Cung cấp các bằng chứng vận chuyển hàng hóa, phổ biến nhất chính là vận đơn.": {
+      "en": "The most common, most common evidence of freight was the singles.",
+      "zh": "最常见的、最常见的货运证据是单人货。"
+    },
+    "Các điều khoản trong điều kiện giao hàng FOB": {
+      "en": "The terms of FOB delivery conditions",
+      "zh": "离岸外包条件的条件"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có trách nhiệm mang hàng lên tàu tại cảng, cung cấp đủ hóa đơn thương mại hoặc chứng từ điện tử liên quan. Cung cấp thêm vận đơn đường biển làm bằng chứng giao hàng.": {
+      "en": "The responsibility is to bring the cargo aboard the port, providing enough commercial bills or related electronic evidence. Provide additional sea routes as evidence of delivery.",
+      "zh": "负责将货物运入港口,提供足够的商业账单或有关电子证据。 提供额外的出海通道作为交货的证据。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước phí": {
+      "en": "Cost",
+      "zh": "费用"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Dưới đây là bảng các điều khoản trong điều kiện giao hàng FOB.": {
+      "en": "Below are the terms in the FOB delivery conditions.",
+      "zh": "以下是离岸外包条件中的规定。"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "FOB có điểm chuyển giao chi phí là cảng xếp, với CIF là cảng dỡ.": {
+      "en": "FOB has the cost transfer point as the port, with CIF as the dock.",
+      "zh": "FOB以成本转移点为港口,以CIF为码头."
+    },
+    "FOB giao hàng lên tàu, nhưng CIF quy định về tiền hành, cươc phí cùng với bảo hiểm.": {
+      "en": "FOB delivers on board, but CIF regulations on travel fees, charge along with insurance.",
+      "zh": "离岸价格交付,但关于旅行费的CIF条例,连同保险一起收取。"
+    },
+    "FOB là gì": {
+      "en": "What's FOB?",
+      "zh": "什么是FOB吗?"
+    },
+    "FOB là gì?": {
+      "en": "What is FOB?",
+      "zh": "离岸线是什么?"
+    },
+    "FOB là gì? - Điều kiện giao hàng FOB gồm những gì và được hiểu như thế nào?": {
+      "en": "What is FOB? - FOB delivery conditions include what and how are they understood?",
+      "zh": "离岸线是什么? - 离岸外包条件包括如何理解?"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao hàng": {
+      "en": "Sales",
+      "zh": "销售"
+    },
+    "Giá FOB = Giá hàng hóa thành phẩm + phí nâng hạ container + phí kéo container nội địa + phí mở tờ khai hải quan + gồm với phí xin giấy chứng nhận xuất xứ ( nếu yêu cầu) + phí kẹp trì + phí hun trùng kiểm dịch.": {
+      "en": "FOB Price= The cost of the product + loss of container plus the cost of pulling the domestic container + the opening fee of the Customs Paper + includes the fee of the birth certificate (if requested) + the cost of clamping + the cost of insulation.",
+      "zh": "离岸价格= 产品成本+集装箱损耗费+国内集装箱牵引费+海关单证开通费+包括出生证费(如申请)+夹克费+绝缘费."
+    },
+    "Giá FOB có nghĩa là giá tại cửa khẩu bên nước người bán. Giá này đã bao gồm cả chi phí vận chuyển hàng hóa ra cảng, thuế xuất khẩu, cùng với thuế làm thủ tục xuất khẩu. Nhưng bạn cũng nên nhớ, giá FOB này sẽ không gồm phí vận chuyển bằng đường biển, cùng với phí bảo hiểm đường biển.": {
+      "en": "The FOB price means the price at the side of the sale. The price has included the cost of shipping goods to ports, export taxes, along with taxation as export procedures. But remember, this FOB price will not include shipping fees by sea, along with sea insurance fees.",
+      "zh": "离岸价格指销售侧面的价格. 价格包括将货物运往港口的费用、出口税以及作为出口程序的税收。 但记住,这种离岸价格将不包括海运费和海运保险费。"
+    },
+    "Giá FOB được tính như thế nào?": {
+      "en": "How was FOB calculated?",
+      "zh": "离岸外包如何计算?"
+    },
+    "Giấy phép và các thủ tục": {
+      "en": "Licenses and Processes",
+      "zh": "许可证和程序"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hỗ trợ những thông tin và chứng từ cần thiết giúp đảm bảo việc vận chuyển, giao hàng tới điểm đích.": {
+      "en": "Supporting information and evidence needed to help ensure transport, delivery to destination.",
+      "zh": "需要支持信息和证据,以帮助确保运输、运送到目的地。"
+    },
+    "Hợp đồng vận chuyển, bảo hiểm": {
+      "en": "Transportation, Insurance.",
+      "zh": "运输,保险。"
+    },
+    "INCOTERMS là viết tắt của từ tiếng anh International Commerce Terms. Đây là tập hợp những quy tắc thương mại quốc tế. Nó quy định những trách nhiệm của các bên trong hợp đồng ngoại thương. INCOTERMS được ra đời từ năm 1936. Sau đó nó đã trải qua 7 lần sửa đổi vào 1953, 1967, 1976, 1980, 1990, 2000 và năm 2010.": {
+      "en": "INCOTERMS is short for the English word International Commerce Terms. This is a set of international trade regulations. It stipulated the responsibilities of the parties in the foreign trade contract. It then underwent seven modifications in 1953, 1967, 1976, 1980, 1990, 2000 and 2010.",
+      "zh": "INCOTERMS是英文单词\"International Commerce Terms\"的简称. 这是一套国际贸易条例。 它规定了外贸合同中双方的责任。 随后在1953年、1967年、1976年、1980年、1990年、2000年和2010年进行了7次修改。"
+    },
+    "INCOTERMS thực hiện rất nhiều vai trò quan trọng. Nó là một bộ quy tắc nhằm hệ thống hóa tất cả tập quán thương mại quốc tế. Đây cũng là tiếng nói chung trong giao nhận, cũng như vận tải hàng hóa. INCOTERMS là phương tiện giúp xây dựng hợp đồng ngoại thương. Nó cũng là phương thức nhằm xác định giá cả mua bán hàng hóa. Và hơn nữa, INCOTERMS căn cứ pháp lý trong trường hợp xử lý khiếu nại hoặc là tranh chấp giữa các bên.": {
+      "en": "INCOTERMS performs numerous important roles. It is a set of rules intended to systematicize all international trade practices. It is also a general language in the delivery, as well as freight. INCOTERMS is a means of helping build foreign contracts. It is also a means of determining the price of sales. And furthermore, INCOTERMS is legal based in case of handling complaints or is a dispute between parties.",
+      "zh": "因特网通信系统发挥着许多重要作用。 这是一套旨在系统化所有国际贸易做法的规则。 它也是交货和货运中的一种通用语。 国际贸易合同是帮助建立外国合同的一种手段。 它也是一种确定销售价格的手段。 此外,在处理申诉或当事方之间的争端时,国际调解机制具有法律依据。"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi hàng đã lên boong tàu, chi phí và rủi ro chuyển sang bên người mua.": {
+      "en": "Once the cargo is on deck, the cost and risk are transferred to the buyer's side.",
+      "zh": "货物一到甲板上,成本和风险就转移到买方一方。"
+    },
+    "Khi mà lô hàng đã được bốc lên tàu, người mua nhận hàng thuộc quyền sở hữu của mình.": {
+      "en": "When the shipment was loaded onto the ship, the buyer received the merchandise of his possession.",
+      "zh": "当货物被装上船时,买方收到了他拥有的商品。"
+    },
+    "Kiểm tra - Đóng gói - Ký hiệu hàng hoá": {
+      "en": "Check - Packing - goods sign",
+      "zh": "检查 - 包装 - 货物标志"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu ý rằng điều kiện giao hàng FOB chỉ được áp dụng với đường biển quốc tế, đường sông. Các hình thức vận chuyển khác không áp dụng điều kiện giao hàng FOB.": {
+      "en": "Note that FOB delivery conditions are applied only to international seaways, rivers. Other form of transportation does not apply FOB delivery conditions.",
+      "zh": "注意离岸外包条件仅适用于国际航道、河流。 其他形式的运输不适用离岸外包条件。"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nghĩa vụ": {
+      "en": "Role",
+      "zh": "作用"
+    },
+    "Nghĩa vụ thanh toán": {
+      "en": "Payment Services",
+      "zh": "支付服务"
+    },
+    "Người bán": {
+      "en": "Salesman",
+      "zh": "推销员"
+    },
+    "Người bán có trách nhiệm vận chuyển hàng từ kho nội địa đến tàu.": {
+      "en": "The seller is responsible for shipping from the interior depot to the ship.",
+      "zh": "销售者负责从内部仓库到船舶的运输。"
+    },
+    "Người bán làm thủ tục hải quan, người mua thực hiện trách nhiệm làm thủ tục nhập khẩu.": {
+      "en": "The seller makes customs procedures, the buyer carries out the responsibility for importing procedures.",
+      "zh": "卖方办理海关手续,买方履行进口手续的责任。"
+    },
+    "Người mua": {
+      "en": "Buyer",
+      "zh": "买家"
+    },
+    "Người mua nhận rủi ro, chi phí từ bên người bán khi hàng được cho lên tàu.": {
+      "en": "The buyer takes risks, the cost from the seller's side as the cargo is put aboard.",
+      "zh": "买方承担风险,即货物上船时卖方方支付的费用。"
+    },
+    "Nhiều người thắc mắc, phân biệt FOB và CIF như nào, dưới đây là điểm giống và khác nhau.": {
+      "en": "Many people wonder, how FOB and CIF distinguish, below the same and different.",
+      "zh": "许多人想知道,离岸外包和CIF是如何区分的,低于相同和不同的."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nó đều là điều khoản ở trong Incoterms.": {
+      "en": "It's all a provision in Incoterms.",
+      "zh": "这都是Incoterms中的一项规定."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Nội Dung": {
+      "en": "Indulge",
+      "zh": "隐居"
+    },
+    "Nội dung chính của điều kiện giao hàng FOB": {
+      "en": "The main content of the FOB delivery conditions",
+      "zh": "FOB交付条件的主要内容"
+    },
+    "Phân biệt FOB và CIF": {
+      "en": "Distinguish FOB and CIF",
+      "zh": "杰出的离岸外包和CIF"
+    },
+    "Phải chủ động làm thủ tục xuất khẩu, cung cấp giấy phép chứng minh lô hàng đủ điều kiện xuất đi.": {
+      "en": "You have to take the initiative to do export procedures, provide a license to prove the shipment is eligible to export.",
+      "zh": "您必须主动办理出口手续,提供证明装运符合出口条件的许可证."
+    },
+    "Phải có trách nhiệm thực hiện thông báo hàng đã được chuyển giao thành công qua lan can tàu hoàn toàn.": {
+      "en": "Must be responsible for carrying out the notice that the cargo was successfully delivered through the ship's rails entirely.",
+      "zh": "必须负责履行货物全部通过船舶铁路顺利交付的通知."
+    },
+    "Phải trả tất cả chi phí phát sinh để nhận những chứng từ liên quan.": {
+      "en": "You have to pay all of your life expenses to receive relevant certificates.",
+      "zh": "您必须支付所有的生活费用才能获得相关证明。"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thanh toán toàn bộ chi phí tiền hàng như hợp đồng đã ký với bên bán.": {
+      "en": "Paying the entire fee as a signed contract with the seller.",
+      "zh": "作为与卖方签订的合同支付全部费用。"
+    },
+    "Thuật ngữ tiếng anh của FOB là Free on board. Theo điều này thì người bán hàng sẽ phải hoàn thành trách nhiệm khi hàng đã xếp lên boong tàu ở tại cảng xếp. Nó được sử dụng rộng rãi trong các hoạt động mua bán hàng quốc tế.": {
+      "en": "FOB's English term is Free onboard. According to this, the salesman will have to fulfill the responsibility when the shipment is lined up on the deck at the dock. It is widely used in international sales activities.",
+      "zh": "FOB的英文术语是Free on board(自由). 根据这一点,当货物排在码头的甲板上时,销售员必须履行责任. 它被广泛用于国际销售活动."
+    },
+    "Thông báo hàng đã được chất lên tàu, sau đó cần cung cấp thông tin về tên tàu, cảng chỉ định.": {
+      "en": "The cargo announcement was loaded onto the ship, then required information on the name of the ship, the designated port.",
+      "zh": "货物通知被装上船,然后要求获得有关船舶名称,指定港口的信息."
+    },
+    "Thông quan bài viết trên, bạn đã biết giá FOB và điều kiện giao hàng FOB chưa nhỉ. Hy vọng những điều mà": {
+      "en": "In light of this article, you know the price of FOB and the conditions for FOB delivery. Hope things",
+      "zh": "根据这篇文章,你知道离岸价格和离岸交货的条件。 希望的东西"
+    },
+    "Thông tin người mua": {
+      "en": "Buyer Info",
+      "zh": "购买者信息"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với FOB, người mua thực hiện book tàu, nhưng vối CIF thì người bán sẽ tìm đơn vị vận chuyển.": {
+      "en": "With FOB, the buyer made the ship's book, but with CIF the dealer would look for the transport unit.",
+      "zh": "买方用离岸价格制作船舶的图书,但经销商用CIF寻找运输单位。"
+    },
+    "Với những ai quan tâm đến hoạt động xuất nhập khẩu hàng hóa, chắc chắn biết đến FOB. Vậy hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để biết": {
+      "en": "For those who are interested in exporting operations of goods, certainly know FOB. So let's move Liu Li to refer to the following article, to know",
+      "zh": "对于有意出口货物业务的人来说,当然知道离岸价格。 因此,我们把刘力移到下面的文章中去,知道"
+    },
+    "Với những người làm xuất nhập khẩu, hải quan,... Thì cũng không thể không biết đến FOB. FOB chính là điều khoản giao hàng trong Incoterms.": {
+      "en": "With importers, customs,... Well, it's also impossible not to know that FOB. FOB is the delivery terms in Incoterms.",
+      "zh": "进口商,海关,... 也不可能不知道离岸线 FOB是Incoterms中的交付术语."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chia sẻ, sẽ giúp quá trình mua bán xuất nhập khẩu của bạn diễn ra thuận lợi.": {
+      "en": "sharing, will help your import-export process take place.",
+      "zh": "共享,将帮助您的进出口进程进行。"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và điều kiện giao hàng FOB nhé.": {
+      "en": "And the FOB delivery conditions.",
+      "zh": "还有离岸外包的条件"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Điều kiện giao hàng FOB là người bán sẽ giao hàng lên tàu cho người mua. Sau đó chỉ định và sắp xếp để hàng yên vị trên tàu tại cảng. Người bán sẽ chịu toàn bộ chi phí từ lúc hàng xuất kho cho đến lúc hàng yên vị. Bao gồm có trucking, đóng thuế xuất khẩu (nếu có), chi phí bốc hàng tàu và thông quan hàng hóa. Còn người mua thuê phương tiện vận tải quốc tế, sang bên phía người bán lấy hàng. Họ là thủ tục thông quan nhập hàng , đóng thuế và trucking về kho của mình.": {
+      "en": "FOB delivery conditions are the sellers who will deliver to the buyers. He then designated and arranged to line up on board at the harbour. The seller will take all the expenses from the time the inventory leaves until the cargo is in order. Included in trussing, paying export taxes (if available), the expense of ship goods and shipping. The buyer, on the other hand, hired international transport, to the dealer's side. They are the prose of importing, paying taxes and beatings about his warehouse.",
+      "zh": "离岸价格交付条件是卖方将向买方交货。 随后他指定并安排了在港口的船上排队。 卖方将承担库存货物离开至货物完好为止的所有费用。 包括逃税、缴纳出口税(如果有的话)、船舶货物和航运费用。 另一方面,买方聘请国际运输商到庄家一方。 他们是进口、纳税和殴打他仓库的传教士。"
+    },
+    "Điểm chuyển giao rủi ro giữa bên mua và bán là cảng xếp hàng.": {
+      "en": "The risk transfer point between the buyers and the sales is the cargo port.",
+      "zh": "买方与销售之间的风险转移点是货港。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Giống nhau": {
+      "en": "The same",
+      "zh": "一样"
+    },
+    "► Khác nhau": {
+      "en": "AGES",
+      "zh": "任务"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

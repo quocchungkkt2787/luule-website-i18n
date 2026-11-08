@@ -1,0 +1,818 @@
+{
+  "route": "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-my-phuoc",
+  "texts": {
+    ". Rất mong những kiến thức nhỏ này sẽ giúp ích cho công việc của bạn. Nếu còn bất kỳ thắc mắc nào hoặc muốn trải nghiệm dịch vụ chuyển hàng uy tín, hãy liên hệ với Lưu Lê ngay nhé!": {
+      "en": "Yeah. I hope these little insights will help your work. If you have any questions or want to experience the prestigious delivery service, contact Liu Li immediately!",
+      "zh": "对 我希望这些小见解能帮助你的工作. 如有问题或想体验有声望的送货服务,请立即联系刘力!"
+    },
+    "24 Tháng 7 2022": {
+      "en": "24 July 2022",
+      "zh": "2022年7月24日 (中文(简体) )."
+    },
+    ">>> Tham khảo thêm:": {
+      "en": "> Additional Reference:",
+      "zh": "> 补充参考 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Bao gồm đầy đủ các tiện nghi như là Ngân hàng, Bệnh Viện, Siêu thị, Công viên, khu du lịch nghỉ dưỡng,... Cùng với đó là các cơ sở hạ tầng phục vụ cho sản xuất, vận hành của các doanh nghiệp. Điện lưới quốc gia, nước sạch được xử lý theo tiêu chuẩn WHO công suất 12.000m3/ngày, nhà máy xử lý nước thải công suất lớn,...": {
+      "en": "Included in full conveniences such as Bank, Hospitals, Supermarkets, Parks, Retirement Tours,... Along with that are infrastructures serving production, operating of businesses. National grid, clean water is processed by the standard WHO capacity of 12,000 m3 per day, large power waste water treatment plant,...",
+      "zh": "包括银行,医院,超市,公园,退休旅游等全方位便利项目,...... 此外,还有为生产、经营企业服务的基础设施。 国家电网,净水按世卫组织的标准容量每天1.2万立方米处理,大型电力废水处理厂,."
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Tiếp nhận các yêu cầu của khách muốn chuyển hàng từ Hà Nội vào KCN Mỹ Phước 2, 3.": {
+      "en": "Step 1: Accept the request of guests to transfer the cargo from Hanoi into the American KNC Blessed 2, 3.",
+      "zh": "步骤一:接受来宾提出的将货物从河内运入美国KNC Blessed 2, 3."
+    },
+    "Bước 2: Khảo sát thực tế hàng hóa ở kho Hà Nội, xem địa chỉ, số lượng, chủng loại và chất lượng hàng. Sau đó sẽ báo giá chuyển hàng đến KCN Mỹ Phước 2, 3 sát với thực tế nhất.": {
+      "en": "Step 2: Survey of real goods in the Hanoi Archive, see address, quantity, genre and quality. Then will announce the price of shipping to the U.S. U.S.K. Lucky 2, 3 is closest to reality.",
+      "zh": "第2步:在河内档案馆进行真实货物的调查,见地址、数量、流派和质量。 后会宣布前往美国运输的价格. 幸运2,3是最接近现实的."
+    },
+    "Bước 3: Hai bên thống nhất các điều khoản và ký hợp đồng gửi hàng Hà Nội - KCN Mỹ Phước 2, 3.": {
+      "en": "Step 3: The two sides unite the terms and sign the transfer of Hanoi-KN Americas 2.3",
+      "zh": "第3步:双方统一条件并签下河内-KN美洲的转让 2.3"
+    },
+    "Bước 4: Kiểm kê lại hàng hóa trước khi gửi, sau đó dọn hàng và chuyển vào KCN theo quy trình trên hợp đồng.": {
+      "en": "Step 4: Check the cargo before sending, then move into KNN according to procedure on the contract.",
+      "zh": "第4步:在发货前检查货物,然后按照合同程序进入KNN。"
+    },
+    "Bước 5: Hàng đến KCN Mỹ Phước 2, 3, thực hiện kiểm kê lại với người nhận. Nếu không có sai sót nào sẽ bàn giao và thanh toán.": {
+      "en": "Step 5: Row to KCN America Lucky 2, 3, Performing a census with the receiver. If nothing goes wrong, we'll hand it over and pay it off.",
+      "zh": "第5步:排行到KCN美洲幸运2,3,与接收者进行人口普查. 如无出事相相相相相相相相相相相交还."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí tháo dỡ, lắp ráp và đóng gói (nếu có) + cùng với chi phí bốc xếp (nếu có) sẽ phụ thuộc vào khối lượng hàng hóa, số nhân công và thiết bị sử dụng.": {
+      "en": "The cost of dissolution, installation and packing (if available) + along with the cost of loading (if any) will depend on the mass of goods, the number of workers and equipment used.",
+      "zh": "溶解、安装和包装费用(如果有的话)+以及装载费用(如果有的话)将取决于货物质量、工人数量和使用的设备。"
+    },
+    "Chi phí vận chuyển sẽ gồm chi phí đường sắt + xe hai vận chuyển giữa hai đầu nhà gia và kho Hà Nội, kho KCN Mỹ Phước 2, 3.": {
+      "en": "Transport costs will include the cost of railway plus two-car transports between the house's heads and the Hanoi Archive, the US KCNU Treasures of 2, 3.",
+      "zh": "运输费用将包括铁路费外加住宅头与河内档案馆,即美国KCNU宝藏2,3之间的两车运输费用."
+    },
+    "Chuyển hàng Hà Nội KCN Mỹ Phước": {
+      "en": "Transfer of America's Hanoi",
+      "zh": "美国河内转让"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Còn Khu công nghiệp Mỹ Phước 3 thì có địa chỉ ở Thới Hòa, Bến Cát, Bình Dương. Chủ đầu tư của KCN chính là Tập đoàn Becamex IDC. Hiện nay, KCN Mỹ Phước 3 đã quy hoạch theo tiêu chuẩn quốc tế với các cơ sở hạ tầng hoàn thiện, đồng bộ.": {
+      "en": "U.S. Industrial Zone 3 has an address in the Republic, Sand Lake, Pacific. The chief investment of KNC is the Becamex IDC Group. Currently, the U.S. U.S. Lucky 3 has planned internationally with complete infrastructure, synchronization.",
+      "zh": "美国工业区3在共和国,太平洋沙湖有地址. KNC的主要投资是Becamex IDC集团. 目前,美国\"幸运3\"已经在国际上规划了完整的基础设施,同步."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cả hai khu công nghiệp Mỹ Phước 2 và 3 đều nằm ở vị trí vô cùng thuận lợi, thuộc khu vực tứ giác kinh tế trọng điểm phía Nam. Dễ dàng đi đến các thành phố lớn, như trung tâm TP HCM chỉ vài chục km. Bên cạnh đó, cũng thuận tiện khi di chuyển đến sân bay Tân Sơn Nhất, Ga Sài Gòn, các cảng và các tuyến đường trọng điểm.": {
+      "en": "Both U.S. and 3th American industrial districts are in a very favorable position, in the southern sector of major economic sectors. It is easy to travel to major cities, such as the TP HCM Center for only a few dozen kilometers. In addition, it is also convenient to move to the Tan Son Nhut Airport, Saigon, ports, and critical routes.",
+      "zh": "美国和第三美国工业区都处于非常有利的地位,主要经济部门的南部部门。 前往主要城市,例如TP HCM中心,只有几十公里路程是很容易的. 此外,还方便地迁入了谭善恩呼特机场,西贡,港口,和重要航线."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do đó, trong khu công nghiệp quy tụ rất nhiều ngành nghề, phổ biến như là Công nghiệp sợi, dệt, may mặc; Công nghiệp điện tử, công nghệ tin học, phương tiện thông tin; Công nghiệp sản xuất thép xây dựng, thép ống;...": {
+      "en": "Therefore, in the industrial complex aggregating a lot of industry, popularly such as the textile, textile industry, dressing; the electronic industry, information technology, media; the construction steel industry, tube steel;...",
+      "zh": "因此,在集聚了大量工业的工业综合体中,以纺织,纺织工业,敷料等为通俗;以电子工业,信息技术,媒体为通俗;以建筑钢工业为通俗;以管钢为通俗;."
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá chuyển hàng từ Hà Nội vào KCN Mỹ Phước 2, 3 của Lưu Lê = Chi phí tháo dỡ, lắp ráp và đóng gói (nếu có) + cùng với chi phí bốc xếp (nếu có) + chi phí vận chuyển.": {
+      "en": "The shipping price from Hanoi to the American KCN Happy 2, 3 of Liu Li = The cost of dissolution, installation and packing (if any) + along with the cost of loading (if any) + transportation costs.",
+      "zh": "从河内到美国KCN Happy 2, 3的刘力 = 溶解,安装和包装费用(如有)+加载费用(如有)+运输费用."
+    },
+    "Giá cả chuyển hàng từ Hà Nội vào KCN Mỹ Phước 2, 3 là phải chăng và hợp lý nhất thị trường.": {
+      "en": "The price of shipping from Hanoi into the U.S. U.S. Power 2, 3 is fair and fairest market.",
+      "zh": "从河内运入美国强国2,3的通货价格是公平最公平的市场."
+    },
+    "Giá vận chuyển hàng hóa Bắc Nam bằng đường sắt tại Lưu Lê": {
+      "en": "The price of north-south goods by railway at Liu Li",
+      "zh": "刘黎铁路南北货价."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội KCN Bình Dương": {
+      "en": "Send the Hanoi Mui KNC Pacific",
+      "zh": "送出河内穆伊KNC太平洋"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khu công nghiệp Mỹ Phước 2 có địa chỉ ở 230 Đại lộ Bình Dương, thị xã Thủ Dầu Một, tỉnh Bình Dương. Vốn đầu tư ban đầu của KCN là 440,6 tỷ đồng, với tỷ lệ lấp kín là 99,49%. Cùng với các cơ sở hạ tầng được hoàn thiện đầy đủ. Ví dụ như nhà máy xử lý nước thải tập trung với công suất 8.000 m3/ngày, giao thộng ngoại và nội bộ, hệ thống cấp thoát nước, điện cung cấp đầy đủ,...": {
+      "en": "U.S. Industrial Zone 2 has an address on 230 Pacific Avenue, Oil Leader Town, Pacific Province. The initial investment of KNC was 440,6 billion, with a close-up rate of 99,49%. Along with fully completed infrastructure. The wastewater treatment plant, for example, is concentrated with a capacity of 8,000 m3 per day, foreign and internal delivery, drainage system, electricity supply,...",
+      "zh": "美国工业区2号的地址位于太平洋省石油领袖镇太平洋大道230号. KNC的初始投资为44060亿美元,特写率为99.49%. 连同完全完成的基础设施。 例如废水处理厂的集中容量为每天8000立方米,外接和内接,排水系统,供电,."
+    },
+    "Khu công nghiệp Mỹ Phước bắt đầu khởi công xây dựng từ năm 2002, với quy mô ban đầu là 400ha. Đến hiện tại, KCN đã được mở rộng với Khu công nghiệp Mỹ Phước 2 diện tích là 800ha, Khu công nghiệp Mỹ Phước 3 với diện tích là 2,280ha và giai đoạn 4 là Khu công nghiệp Thới Hòa 1,000ha.": {
+      "en": "The United States Industrial Zone began construction from 2002, with an initial scale of 400ha. As of now, the KNC has been expanded to the United States Industrial Zone 2 area is 800ha, the United States Industrial Area 3 with an area of 2,280ha and Phase 4 as the Republic of 1,000ha.",
+      "zh": "美国工业区从2002年开始建设,最初规模为400ha. 截至目前,克民盟已扩大到美国工业区2区为800ha,美国工业区3区为2,280ha,第四期为1000ha共和国."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê tư vấn nhiệt tình, chuyên nghiệp với khách hàng.": {
+      "en": "Liu Liu is an enthusiastic, professional consultant with customers.",
+      "zh": "刘 Liu是一位热情,专业的顾问,与顾客打交道."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Mỹ Phước 2, 3": {
+      "en": "The need to send Hanoi - USKN Happy 2, 3",
+      "zh": "需要送河内 - USKN快乐2,3"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ vậy mà Khu công nghiệp Mỹ Phước 2 thu hút được số lượng doanh nghiệp lớn. Với đa dạng các lĩnh vực, ngành nghề như là Công nghiệp sản xuất đồ gỗ mỹ nghệ; Công nghiệp chế biến nông lâm sản; Công nghiệp dệt nhuộm; Công nghiệp sản xuất nhựa; Công nghiệp sản xuất dụng cụ quang học, dụng cụ y tế;...": {
+      "en": "As a result, the U.S. Industrial Zone of the United States was attracted to a large number of businesses. With a variety of fields, the industry is such as the art wood production industry; the agricultural industry; the textile industry; the plastic manufacturing industry; the industry of optical instruments, medical instruments;...",
+      "zh": "因此,美国工业区被大量企业吸引. 拥有多种领域,产业有艺术木制品生产产业;农业产业;纺织产业;塑料制造业;光学仪器,医疗仪器产业;."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình gửi hàng Hà Nội - KCN Mỹ Phước 2, 3 uy tín tại Lưu Lê": {
+      "en": "The course of sending Hanoi-KN America Blessed 2, 3 Fame at Liu Li",
+      "zh": "送河内-KN美国 祝福二三名人刘力"
+    },
+    "Quá trình": {
+      "en": "Process",
+      "zh": "进程"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian chuyển hàng đến KCN Mỹ Phước 2, 3 là nhanh và chính xác như hợp đồng đã ký.": {
+      "en": "Time of shipping to the U.S.K. Lucky 2, 3 is fast and exact as signed contract.",
+      "zh": "运往英国的时间. 幸运的2号,3号是快速和准确的 签的合同。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong đó:": {
+      "en": "In it:",
+      "zh": "其中:"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những chia sẻ của chúng tôi về kinh nghiệm": {
+      "en": "Above are our share of experience",
+      "zh": "以上是我们的经验"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Và một trong những cái tên được nhiều cá nhân, doanh nghiệp lựa chọn để gửi hàng Hà Nội - KCN Mỹ Phước 2, 3 nhiều nhất đó chính là vận tải Lưu Lê. Công ty đã hoạt động nhiều năm trong những vực vận tải, nhất là trên tuyến đường sắt Bắc Nam. Cho nên, Lưu Lê luôn biết cách để mang đến cho khách hàng những trải nghiệm dịch vụ tuyệt vời và uy tín nhất.": {
+      "en": "And one of the most widely selected names, the business to send the Hanoi - KCN U.S. Treasured 2, 3 most that is Liu Transport. The company has been active for many years in the shipping areas, especially on the Northern South Railway. So Liu La always knew how to give the customers the best and most prestigious service experience.",
+      "zh": "也是最广泛选用的名字之一, 送河内号的业务 - KCN U. 该公司多年来一直活跃于航运领域,特别是在北南铁路. 所以刘拉总是知道如何给顾客最好的,最有声望的服务经验."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê cam kết thực hiện đúng và đủ mọi điều khoản trong hợp đồng gửi hàng Hà Nội - KCN Mỹ Phước 2, 3.": {
+      "en": "Liu Li transport pledges to do the right thing and all the terms in the Hanoi shipping contract - USKC U.S. Treasured 2, 3.",
+      "zh": "刘力运输承诺做好河内航运合同中的所有规定——USKC U.S.Treasured 2,3."
+    },
+    "Vận tải Lưu Lê sẽ chịu 100% trách nhiệm, nếu quá trình gửi vào KCN Mỹ Phước 2, 3 xảy ra sai sót do lỗi của công ty.": {
+      "en": "Liu transport will be 100% responsible, if the process is to be sent to the U.S. U.S. U.S. U.S. 2, 3 error occurred due to the company's fault.",
+      "zh": "刘运将承担100%的责任,如果该流程要发送给美国联赛,由于公司的过错,发生了2,3错误."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với ưu thế như vậy, nên việc chuyển và nhận hàng giữa KCN Mỹ Phước 2, 3 với các khu vực khác diễn ra vô cùng dễ dàng. Một trong những nơi thường xuyên thực hiện giao thương với KCN Mỹ Phước 2, 3 là thủ đô Hà Nội. Từ Hà Nội vào KCN Mỹ Phước 2, 3 bạn có thể di chuyển bằng đường hàng không, đường bộ. Nhưng để thuận lợi cho việc chuyển hàng khối lượng lớn đến KCN thì lựa chọn đường sắt là phương án phù hợp nhất.": {
+      "en": "With such advantages, moving and receiving goods between the U.S.K.C. 2, 3 and other areas were extremely easy. One of the places that regularly performs trade with the U.S. KC. Happy 2, 3 is the Hanoi capital. From Hanoi to the U.S. U.S., 3 you can travel by air, road. But for the benefit of mass shipments to KCN, the option of railways is the most suitable option.",
+      "zh": "有了这些好处,在联合王国中央银行2、3和其他地区之间运输和接收货物极为容易。 经常与美国KC Happy 2,3进行贸易的地方之一是河内府. 从河内到美国,你可以乘飞机,乘车 但为了给KCN批量运输的利益,铁路的选择是最合适的选择."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "gửi hàng Hà Nội - KCN Mỹ Phước 2, 3": {
+      "en": "Dear Hanoi - American KNC Happy 2, 3",
+      "zh": "亲爱的河内 - 美国KNC快乐2,3"
+    },
+    "sẽ diễn ra được suôn sẻ hơn nếu bạn có những kinh nghiệm cần thiết liên quan. Vậy nên trong bài viết dưới đây, chúng tôi sẽ giúp bạn biết đôi nét về KCN, cũng như các chọn được đơn vị vận tải hỗ trợ chuyển hàng tốt nhất.": {
+      "en": "It's going to go a lot better if you have the experience you need. So in the following article, we're going to give you a little bit of a hint about KNC, as well as selecting the best shipping units.",
+      "zh": "如果你有你需要的经验 会更好 因此,在接下来的文章中,我们将给你一些关于KNC的提示,以及选择最好的运输单位."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về KCN Mỹ Phước 2, 3": {
+      "en": "Bits of American KNC Blessed 2, 3",
+      "zh": "美国KNC Bits 祝福 2, 3"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị uy tín gửi hàng từ Hà Nội vào KCN Mỹ Phước 2, 3": {
+      "en": "The prestigious unit deposits from Hanoi into the U.S.K.C. Lucky 2, 3",
+      "zh": "著名单位从河内汇入英国 幸运2号、3号"
+    },
+    "Đơn vị vận tải uy tín đóng một vài trò vô cùng quan trọng trong quá trình gửi hàng Hà Nội - KCN Mỹ Phước 2, 3. Bạn cần phải dựa trên các tiêu chí chất lượng dịch vụ, hợp đồng cam kết rõ ràng, kinh nghiệm và chi phí để lựa chọn được đơn vị chuyên nghiệp nhất.": {
+      "en": "The prestigious transport unit closed a few of the most important games in the course of shipping Hanoi - KCN America's 2, 3. You need to rely on service quality criteria, clear commitment agreements, experience and costs to choose the most professional unit.",
+      "zh": "声名狼藉的运输单位关闭了河内航运过程中几个最重要的游戏 - KCN美国2,3. 您需要依赖服务质量标准,明确的承诺协议,经验和成本来选择最专业的单位."
+    },
+    "Đảm bảo vận chuyển luôn an toàn.": {
+      "en": "Make sure the transport is safe.",
+      "zh": "确保运输安全."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Giá chuyển hàng từ Hà Nội vào KCN Mỹ Phước 2, 3 của Lưu Lê": {
+      "en": "The price of shipping from Hanoi into KCN America's 2, 3 of Liu Li's",
+      "zh": "从河内运入KCN 美国的 二 三 刘力的船价"
+    },
+    "► Những cam kết của Lưu Lê với khách khi chuyển hàng từ Hà Nội - KCN Mỹ Phước 2, 3": {
+      "en": "Liu's commitments to the guests when transporting from Hanoi - USKN",
+      "zh": "从河内运出时,刘对来宾的承诺-USKN"
+    },
+    "► Quy trình gửi hàng Hà Nội - KCN Mỹ Phước 2, 3 của vận tải Lưu Lê": {
+      "en": "The course of sending Hanoi - USKN U.S. Packages 2, 3 of Liu Transport",
+      "zh": "发运河内-USKN U.S.Packers 2, 3 of Liu Transport的路线."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

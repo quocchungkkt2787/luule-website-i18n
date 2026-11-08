@@ -1,0 +1,914 @@
+{
+  "route": "/blogs/goc-tu-van/bang-gia-cuoc-van-chuyen-container-duong-bien",
+  "texts": {
+    "17 Tháng 3 2021": {
+      "en": "17 March 2021",
+      "zh": "2021年3月17日 (中文(简体) )."
+    },
+    "20’DC (VND)": {
+      "en": "20’DC (VND)",
+      "zh": "20 ' DC(志愿人员)"
+    },
+    "40’DC (VND)": {
+      "en": "40’DC (VND)",
+      "zh": "40个发展中心(VND)"
+    },
+    ": Mỹ Hòa, Trung Chánh, Hóc Môn, TpHCM": {
+      "en": ": American Republic, Central Chief, Litc Men, TpHCM",
+      "zh": ": 美利坚共和国,中央酋长,Litc Men,TpHCM"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bên cạnh cách tính giá cước đường biển được quy định như trên, thì cũng có một số yếu tố ảnh hưởng trực tiếp tới bảng giá cước vận chuyển container đường biển mà các bạn nên biết:": {
+      "en": "In addition to the way the sea-best prices are calculated, there are also some factors that directly affect the sea-line shipping panel that you should know:",
+      "zh": "除了计算出海最佳价格的方式外,还有一些因素直接影响了海线航运面板,你应该知道:"
+    },
+    "Bên cạnh đó, bạn sẽ còn phải tốn thêm một số khoảng thanh toán phụ phí:": {
+      "en": "Besides, you're going to have to take some extra payments:",
+      "zh": "此外,你还要接受一些额外的付款:"
+    },
+    "Bên cạnh đó, nếu người mua hàng theo điều kiện như CFR (tiền hàng hóa cộng với tiền cước), CIP (vận chuyển đến nơi quy định), CPT ( là loại cước trả tới điểm đến), DAT, DAP (là cước tại điểm giao tại nơi đến), DDP (điểm giao hàng đã nộp thuế), CIF (là khoảng bao gồm tiền hàng, cước phí, và bảo hiểm) và nó bao gồm luôn các điều kiện khác được tồn tại trong term 2000 như DES, DDU, DEQ, DAF thì những người mua hàng sẽ không phải quan tâm đến cước vận chuyển đường biển và người bán họ phải chịu trách nhiệm hết mọi thứ.": {
+      "en": "In addition, if the buyer is conditional as CFR (privates plus money), CIP (citation to the required place), CPT (which is the type of card to the destination), DAT, DAP (subscripted at the destination), DDP (the delivery point paid taxes), CIF (is around the amount of money, the fee, and the insurance) and it includes other conditions that exist in trem 2000 such as DUDS, DECF, then the buyers won't have to take care of shipping and the people are responsible for everything.",
+      "zh": "此外,如果买方有条件的有CFR(私人加钱),CIP(引用所需地点),CPT(这是前往目的地的卡片类型),DAT,DAP(在目的地下标),DDP(交货点缴纳的税费),CIF(大约是金额,收费,以及保险)等,包括了2000年震中存在的其他条件,如DUDS,DECF,那么买家就不必去照顾航运,人民对一切负责."
+    },
+    "Bên cạnh đó, để được gửi hàng hóa container bằng đường biển, doanh nghiệp của bạn có thể liên hệ với Vận Tải Lưu Lê để được hỗ trợ chi tiết nhất!": {
+      "en": "Besides, in order to be sent by sea goods, your business may be in contact with the Lago Transport for the most detailed support!",
+      "zh": "此外,为了被海运货物送去,你的业务可能与\"拉高\"运输公司取得联系,以获得最详尽的支持!"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá cước vận chuyển container đường biển": {
+      "en": "Seaway container shipping panel",
+      "zh": "海运集装箱板"
+    },
+    "Bảng giá cước vận tải container đường biển cập nhật mới nhất": {
+      "en": "The latest update sea-line shipping panel",
+      "zh": "最新的海运面板"
+    },
+    "Bảng giá tính cước phí vận tải đường biển": {
+      "en": "Sea-saltance shipping fees",
+      "zh": "海运费"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các loại hàng đóng vào container riêng biệt được ghi chú lại, hoặc open top,....": {
+      "en": "The type of goods closed into separate containers are noted, or open top,...",
+      "zh": "封闭在单独容器中的货物类型被注明,或打开顶部,."
+    },
+    "Các yếu tố ảnh hưởng tới bảng giá cước vận chuyển container đường biển": {
+      "en": "Elements that affect the sea-way container ratings",
+      "zh": "影响海运集装箱评级的因素"
+    },
+    "Cách tính giá cước phí đường biển": {
+      "en": "The Way to Count Sea Costs",
+      "zh": "计算海费的方法"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có một vài quy định để chúng ta cần tìm hiểu rõ về loại phí này": {
+      "en": "There are a few rules that we need to learn about this kind of cost.",
+      "zh": "我们需要了解一些关于这种成本的规则。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước phí vận tải đường biển": {
+      "en": "The Sea Transport Cost",
+      "zh": "海运成本"
+    },
+    "Cước đường biển được hiểu là chi phí để có thể vận chuyển được hàng hóa từ phía người gửi tới người nhận trên một container. Đó chính là một khoảng phí để chi trả cho các phát sinh về nhiên liệu, nhân công, bảo hiểm cho gói hàng hóa được vận chuyển đến tay người nhận một cách an toàn.": {
+      "en": "The seaway is understood to be the cost of being able to transport goods from the person sending to the receiver on a container. It was a cost to pay for fuel, workers, insurance for the package that was transported to the recipient safely.",
+      "zh": "海运方式被理解为能够在集装箱上从发送人向接收人运送货物的费用。 支付燃料、工人、安全运送到接收者的包裹的保险费用。"
+    },
+    "Cảng biển vận tải Container luôn nhộn nhịp": {
+      "en": "Container shipping ports are always busy",
+      "zh": "集装箱运输港口总是繁忙"
+    },
+    "Cập nhật bảng giá cước vận tải container đường biển mới nhất 2021 hiện tại trên thị trường. Bên cạnh đó, mức cước đường biển tuyến nội địa biến động khá thường xuyên và theo mùa. Đặc điểm là các tàu không báo trước, hoặc nếu có thì cũng khoảng tầm một tuần đến vài ngày. Điều đó khiến cho bạn nằm được lịch di chuyển của tàu.": {
+      "en": "Update the latest 2021 sea-way container shipping ratings on the market. In addition, Internal Line ratings are quite frequent and seasonal. It is characterized by the unintended ships, or if so, it is about a week to a few days. That makes you lie on the ship's cruise schedule.",
+      "zh": "更新上市最新2021海道集装箱航运收视率. 此外,\"内线\"的收视率相当频繁并有季节性. 其特点是出乎意料的船舶,如果是,大约一周到几天. 这让你躺在船上的航行日程上"
+    },
+    "CỬA LÒ": {
+      "en": "WIT",
+      "zh": "怀特语"
+    },
+    "DAD": {
+      "en": "DAD",
+      "zh": "爸爸"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Email:": {
+      "en": "Email:",
+      "zh": "电子邮件 :"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HCM": {
+      "en": "HCM",
+      "zh": "母国措施"
+    },
+    "HCM(Ga Sóng Thần) - HN(Ga Giáp Bát)": {
+      "en": "HCM(Gawaves) - HN(Gaf vợ)",
+      "zh": "HCM(Gawaves) - HN(Gaf v 53.)"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "HP": {
+      "en": "HP",
+      "zh": "汉字"
+    },
+    "HPH": {
+      "en": "HPH",
+      "zh": "公共卫生"
+    },
+    "Hi vọng với những thông tin trên của Vận Tải Lưu Lê có thể giúp cho bạn biết được hết các thông tin mới nhất về bảng giá cước vận chuyển container đường biển, khi doanh nghiệp của bạn đang muốn tìm hiểu kĩ về giá cả, thì hãy nghiên cứu tham khảo trước để hạn chế tình trạng bị chặt chém, đội giá quá cao so với mặt bằng giá cước vận tải Container đường biển hiện nay nhé.": {
+      "en": "Hopefully, with the above information from the Media that will allow you to learn all about the latest information on the sea-way container shipping panel, when your business is looking to get a good look at the price, let's look at the previous reference to restricting the cuts, the team's price is too high for the current Sea Line Transport.",
+      "zh": "希望通过媒体的上述信息, 能让大家了解有关海运集装箱板的最新资讯, 当你的生意正想看好价格时, 让我们来看看之前提到限制削减,"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng theo mùa: Hàng vào mùa thấp điểm, mùa cao điểm, hàng mùa tết, hàng mùa gạo;": {
+      "en": "Seasonal rows: Rows in the low season, the peak seasons, the seasons, the seasons of rice;",
+      "zh": "季行:低季行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行"
+    },
+    "Hàng theo trọng lượng hàng hóa (nặng hay nhẹ sẽ khiến giá thành chênh lệch rõ rệt);": {
+      "en": "The goods according to the weight of the goods (salt or lightweight) would make the price apparent;",
+      "zh": "根据货物重量(盐或轻重量)计算的货物将使价格明显;"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "LSS": {
+      "en": "LSS",
+      "zh": "服务"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Mang đến thông tin chuẩn xác nhất về cách tính giá cước vận chuyển đường biển để bạn có thể ước chừng được bảng giá cước vận chuyển container đường biển mà công ty vận tải đưa ra có hợp lý hay không, mời các bạn cùng theo dõi nhé!": {
+      "en": "Bringing the most accurate information on how to calculate the price of shipping the seaway so that you can estimate the shipping panel for the shipping container that the shipping company gives you, please watch!",
+      "zh": "提供最准确的信息 如何计算海运价格 这样你就可以估计 航运公司给你的 集装箱的运输面板,请注意!"
+    },
+    "Mobile:": {
+      "en": "Mobile:",
+      "zh": "移动 :"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngày nay, bên cạnh các phương tiện vận chuyển đường bộ, đường hàng không thì vận tải đường biển đóng vai trò là một phương tiện vận chuyển hàng hóa quan trọng của hầu hết các quốc gia trên thế giới. Vậy giá cước vận chuyển đường biển này như thế nào? Và vào đâu để biết được bảng giá cước vận chuyển container đường biển chính xác nhất. Mời quý khách hàng cùng theo dõi qua bài viết lần này của Vận Tải Lưu Lê để tìm hiểu nhé!": {
+      "en": "Today, in addition to road transports, the airways serve as an important transport of most countries around the world. So what's the rate of this sea route? And where do we find the most accurate sea-way container shipping ratings? Please follow up on the article by Liu Liu to find out.",
+      "zh": "今天,除了公路运输外,空中交通是全世界大多数国家的重要运输工具。 这条航线的速率是多少? 我们从哪里找到最准确的海运集装箱评级? 请继刘 Liu文章以查之."
+    },
+    "Người mua hàng phải trả đầy đủ cước phí đường biển nếu như mua theo điều kiện EXW (giao hàng hóa tại xưởng), FCA (Giao hàng hóa cho người vận tải), FOB (Giao hàng hóa lên tàu), FAS (Giao dọc mạn tàu) thì mua phải trả khoản phí này.": {
+      "en": "The buyer had to pay the full sea line fee if he had bought under the EXW conditions (the delivery at the workshop), FCA (the cargo to the carrier), FOB (the cargo to board), FAS (PDF) had to pay the fee.",
+      "zh": "如果买方在EXW条件下购买(在车间交货)、FCA(货物给承运人)、离岸价格(货物上船)、FAS(PDF)必须支付费用,买方必须支付全部海线费。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Office:": {
+      "en": "Office:",
+      "zh": "办公室:"
+    },
+    "POD": {
+      "en": "POD",
+      "zh": "POD 密码"
+    },
+    "POL": {
+      "en": "POL",
+      "zh": "民警"
+    },
+    "Phí chứng từ;": {
+      "en": "The loss of the certificate;",
+      "zh": "证书的遗失;"
+    },
+    "Phí sửa chữa container: tùy theo mức độ hư hỏng cụ thể, có thể từ vài trăm nghìn (cong cửa, gãy tay quay,...) đến vài triệu đồng (hỏng xà đáy, gẫy ván sàn...).": {
+      "en": "The container repair fee: depending on the particular level of damage, possibly from a few hundred thousand (the door, the swing of the hand,...) to a few million (the bottom bar, the floor broke...).",
+      "zh": "集装箱修理费:视具体损坏程度而定,可能从几十万(门,手的摇摆,......)到几百万(底条,地板断裂. )."
+    },
+    "Phí vệ sinh container;": {
+      "en": "container sanitation fee;",
+      "zh": "集装箱卫生费;"
+    },
+    "Q. NHƠN": {
+      "en": "Q.HEN",
+      "zh": "Q.HEN(美国)"
+    },
+    "Số lượng hàng hóa đi thường xuyên hay không, đi theo số lượng hay đi theo lô hàng,...;": {
+      "en": "The amount of goods that travel regularly or not, follow the amount or follow the shipment,... ;",
+      "zh": "定期或不定期旅行、随货或随货的货物数量,.;"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG TIN LIÊN HỆ": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo tính chất hàng hóa: loại hàng hóa thông thường, hàng nặng, hàng hóa chất, hàng giá trị cao, hàng dễ vỡ, hàng có mùi hôi,....;": {
+      "en": "In terms of goods: common goods, heavy goods, goods, high value, fragile goods, smelly goods,... ;",
+      "zh": "货物方面:普通货物、重货物、货物、高价值货物、脆弱货物、臭货物.;"
+    },
+    "Theo điều kiện giao nhận hàng hỏa: Door to door, CY-CY, hay CY door;": {
+      "en": "On the terms of the delivery of fires: Door to door, CY-CY, or CY door;",
+      "zh": "关于交付火力的条件:门到门、CY-CY或CY门;"
+    },
+    "Thể tích thực của lô hàng được tính theo công thức như sau: Chiều dài x rộng x cao = số mét khối (m3).": {
+      "en": "The actual volume of the shipment is calculated according to the formula as follows: the length of x x is x wide is equal to the number of cubic meters (m3).",
+      "zh": "实际装运量按以下公式计算: xx的长度为 x 宽等于立方米(立方米)."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Transit Time": {
+      "en": "Transit Time",
+      "zh": "过境时间"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trước khi tìm hiểu về bảng giá cước vận chuyển container đường biển sẽ được tính như thế nào? Cũng như cách thức để hoạt động về phương tiện vận chuyển này, chúng ta sẽ cùng tìm hiểu rõ hơn về cước đường biển là gì?": {
+      "en": "Before we learn about the sea-way container shipping ratings, how would that be counted? As well as the way we operate on this transport, what are we going to do about the seamark?",
+      "zh": "在我们得知海运集装箱的评级之前,这怎么算呢? 以及这次运输的操作方式,海印怎么办?"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tổng quan về giá cước đường biển": {
+      "en": "The Governor of Seamarks",
+      "zh": "海印总督"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển container Bắc Nam": {
+      "en": "Northern South container shipping",
+      "zh": "南北集装箱运输"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải đường biển luôn là lựa chọn hàng đầu khi giao thương quốc tế": {
+      "en": "Marine transport is always the top choice in international trade.",
+      "zh": "海洋运输始终是国际贸易的最高选择。"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "Website:": {
+      "en": "Website:",
+      "zh": "网站:"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "bảng giá cước vận chuyển container đường biển": {
+      "en": "Seaway container shipping panel",
+      "zh": "海运集装箱板"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đầu tiên, trọng lượng thực của lô hàng sẽ được cân – đơn vị tính KGS.": {
+      "en": "First, the actual weight of the shipment will be weighed – KGS units.",
+      "zh": "第一,货物的实际重量将被加权-KGS单位."
+    },
+    "Địa chỉ": {
+      "en": "Chile",
+      "zh": "邮件地址"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "→ Còn nếu kiện hàng 1 tấn >=3 CBM: Hàng nhẹ sẽ được áp dụng theo bảng giá CBM": {
+      "en": "(10 if package 1 ton >=3 CBM: Light row will be applied to CBM Prices",
+      "zh": "(10个,如果包件1吨++3 CBM:轻行将适用于 CBM 价格)"
+    },
+    "→ Từ đó quy ra được với kiện hàng 1 tấn < 3 CBM: Hàng nặng sẽ được áp dựng theo bảng giá KGS": {
+      "en": "(10) From there it is attributed to a 1 ton package [3 CBM: The load will be imposed according to the KGS Price Table",
+      "zh": "(10) 从这里算起是1吨包 [3 CBM: 将根据 KGS 价格表强制装载"
+    },
+    "⇒ Nhưng bên cạnh đó, những mặt hàng không được vận chuyển như hàng hóa dễ vỡ, hàng cấm theo định của nhà nước, chất gây nổ.... hoặc các mặt hàng có giấy tờ vi phạm quy định nhà nước và thuốc tây, mỹ phẩm thì cần phải có thêm những điều kiện thỏa thuận rõ ràng trước khi vận chuyển.": {
+      "en": "But besides, the airlines are transported as fragile goods, which are prohibited according to state regulations, explosives... or the items with papers that violate state and medicine regulations, cosmetics need to have more clear agreement conditions before transportation.",
+      "zh": "但除此以外,航空公司是作为脆弱的货物运输的,根据国家条例,爆炸物被禁止.或者有违反国家和药品条例的证件的物品,化妆品在运输前需要有更明确的协议条件."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

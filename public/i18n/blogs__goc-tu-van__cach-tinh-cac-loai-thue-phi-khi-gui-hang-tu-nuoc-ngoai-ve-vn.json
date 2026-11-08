@@ -1,0 +1,842 @@
+{
+  "route": "/blogs/goc-tu-van/cach-tinh-cac-loai-thue-phi-khi-gui-hang-tu-nuoc-ngoai-ve-vn",
+  "texts": {
+    "19 Tháng 4 2021": {
+      "en": "19 April 2021",
+      "zh": "2021年4月19日 (中文(简体) )."
+    },
+    ">>> Có thể bạn quan tâm:": {
+      "en": "> DSTOR Can You Care:",
+      "zh": "> DSTOR 您可以关心:"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn có thể nhờ nhân viên tư vấn về cách tính thuế phí khi gửi hàng": {
+      "en": "You can ask the counselor for how to charge a fee when sending a package",
+      "zh": "您可以询问咨询员发送包裹时如何收费"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cách tính các loại thuế phí khi gửi hàng từ nước ngoài về VN": {
+      "en": "How to Comput tax types when sending items overseas about VN",
+      "zh": "向海外发送有关 VN 的项目时如何计算税种"
+    },
+    "Cách tính thuế khi gửi hàng từ nước ngoài": {
+      "en": "Tax Computation on shipping from overseas",
+      "zh": "海外航运税计算"
+    },
+    "Cách tính thuế khi gửi hàng từ nước ngoài về": {
+      "en": "Tax Computing on shipping from overseas",
+      "zh": "海外航运的计算税"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty Bưu chính Việt Nam thay mặt chủ hàng trực tiếp làm thủ tục cho hàng hóa nhập khẩu với các thủ tục sau: Khai hải quan, xuất trình hàng hóa, nộp thuế lệ phí cùng những khoản khác theo quy định hiện hành, nhập hàng để chuyển trả cho khách.": {
+      "en": "The Vietnam Post Company on behalf of its direct owner makes procedures for import goods with the following procedures: Customs, exports, taxation, and other fees according to current regulations, import to transfer to guests.",
+      "zh": "越南邮政公司代表其直接所有者制定进口货物的程序,其程序如下:海关、出口、税收和现行条例规定的其他费用,进口以转让给来宾。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Doanh nghiệp kinh doanh dịch vụ chuyển phát nhanh sẽ thay mặt chủ hàng làm các thủ tục hải quan cho hàng hóa và chịu trách nhiệm toàn bộ về chính sách thuế lệ phí, quyền nghĩa vụ của chủ hàng theo quy định pháp luật.": {
+      "en": "The fast delivery services business will on behalf of the owner make customs procedures for the goods and take full responsibility for the tax policies, the rights of the owner under law.",
+      "zh": "快递服务业务将代表货主办理货物通关手续,并全面承担税收政策,货主依法享有的权利等责任."
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển xe máy Bắc Nam": {
+      "en": "Northern South Car Transport Service",
+      "zh": "北部南车运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước vận chuyển hàng hóa Bắc Nam": {
+      "en": "North South Vietnamese freight prices",
+      "zh": "南越北部货运价格"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiểu đơn giản, bạn cần nộp thuế giá trị gia tăng cho cả phần thuế nhập khẩu. Vì vậy, nếu những mặt hàng phải chịu thuế nhập khẩu cao thì khi tính thêm thuế giá trị gia tăng sẽ cao hơn rất nhiều. Về giá trị hải quan của mặt hàng bạn có thể hiểu là giá trị của hàng hóa khi đến cửa khẩu Việt Nam, cụ thể bao gồm giá mua trên hóa đơn và chi phí vận chuyển quốc tế. Trong trường hợp đơn hàng của bạn được miễn phí giao hàng thì giá trị hải quan lúc này sẽ bằng với giá trị của hóa đơn mua hàng.": {
+      "en": "Simply put, you need to pay increased value taxes for both import taxes. So, if the goods had to be heavily imported taxed, by adding the increased value tax would be much higher. In terms of the customs value of the goods you can understand the value of goods when you go to the Vietnamese portal, namely including the price of purchase on the bill and the cost of international transportation. In case your application is free of delivery, the customs value will now equal the value of the purchase bill.",
+      "zh": "简言之,你需要支付 增加的增值税 两种进口税。 因此,如果货物必须征收大量进口税,增加增值税将高出很多。 就货物海关价值而言,你去越南门户时可以了解货物价值,即包括账单上的购买价格和国际运输费用。 若您的申请是免费的,则海关价值将等于购买单的价值。"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Loại thuế này áp dụng với một số mặt hàng nhà nước quy định hạn chế tiêu thụ như bia rượu, thuốc lá. Đa phần những mặt hàng thiết yếu mà bạn có nhu cầu mua sẽ không cần chịu loại thuế đặc biệt này.": {
+      "en": "This type of tax applies to some state goods that limit consumption such as alcohol, tobacco. Most of the essentials you need to buy are not going to need to take on this particular kind of tax.",
+      "zh": "这种税种适用于某些限制消费的国产商品,如酒精,烟草. 大部分你需要购买的必需品 不需要承担这种特殊税。"
+    },
+    "Loại thuế này được đánh giá tương đối phức tạp khi bạn muốn nhập hàng hay mua hàng từ nước ngoài về Việt Nam. Có thể nói mỗi mặt hàng sẽ có mức thuế phí khác nhau nên thuế này có một bảng thuế nhập khẩu khá dài. Thuế nhập khẩu sẽ phân biệt chủ yếu qua nguồn gốc hàng. Nếu bạn nhập từ Mỹ thì thuế sẽ khác hơn rất nhiều so với nhập từ Nhật Bản hay Canada, Đức. Hàng Mỹ được tính theo thuế nhập khẩu WTO và hàng Trung Quốc, Nhật Bản tính thuế theo hiệp định ASEAN và ASEA nên có mức ưu đãi hơn so với Mỹ. Để biết thêm chi tiết, bạn cần tra bảng thuế nhập khẩu khi cần nhập hàng đê biết chính xác hơn.": {
+      "en": "This type of tax is relatively complicated when you want to import or buy from abroad about Vietnam. It could be said that each of the items would have different tax rates so that the tax had a fairly long import tax board. Importation tax will distinguish mainly through the source of the product. If you enter from the US, the tax will be a lot different than in Japan or Canada, Germany. The U.S. goods are counted according to WTO imports and Chinese goods, Japan counts taxes under the ASEAN and ASEA agreement should have a more favourable rating than the US. For more information, you need to check the import tax board as you need to import the items to be more accurate.",
+      "zh": "当您想从国外进口或购买越南时,这种税则相对复杂。 可以说,每个项目都有不同的税率,这样税收就有一个相当长的进口税局。 进口税主要通过产品来源加以区分。 如果你从美国入境,税收将大大不同于日本或加拿大,德国. 美国商品根据世贸组织的进口和中国商品计算,日本根据东盟和ASEA协定计税,其评级应该比美国更优惠. 要了解更多信息,请查看进口税板,因为需要输入的商品要更加准确."
+    },
+    "Mua hàng nước ngoài cần chịu những loại phí theo quy định pháp luật": {
+      "en": "Foreign purchases require legal fees",
+      "zh": "外国采购需要法律费用"
+    },
+    "Mua hàng nước ngoài phải chịu những loại thuế gì?": {
+      "en": "What kind of tax is it to buy foreign goods?",
+      "zh": "买洋货是何税."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài các loại thuế phí kể trên, không thể thiếu các chi phí vận chuyển hàng hóa, nếu bạn lựa chọn được đơn vị vận chuyển chi phí hợp lý thì mức giá này sẽ thấp hơn. Xem ngay:": {
+      "en": "In addition to the taxes mentioned above, the cost of transportation could not be lacking, if you chose to get a reasonable cost transport unit, the price would be lower. Watch this:",
+      "zh": "除上述税收外,交通费也不得不足,如果选择获得合理的成本运输单位,价格会更低. 看看这个:"
+    },
+    "Nguyên tắc để tính các loại thuế phí là bạn cần tính thuế tiêu thụ đặc biệt trước sau đó mới đến thuế nhập khẩu và thuế giá trị gia tăng. Cách tính nhìn chung như sau:": {
+      "en": "The principle for counting taxes is that you need to count special consumption tax before then to import tax and increased value tax. The general way of thinking is as follows:",
+      "zh": "计税的原则是:在进口税和增值税增加之前,必须先计算特殊消费税. 一般思想方式如下:"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nước ta cấm nhập khẩu đối với các mặt hàng đã qua sử dụng như hàng dệt may, hàng điện tử, điện lạnh, thiết bị y tế, hàng gia dụng và hàng hóa là sản phẩm công nghệ thông tin đã qua sử dụng.": {
+      "en": "The country we banned imports to used items such as textiles, electronic goods, cold electricity, medical equipment, goods and goods is the existing information technology product.",
+      "zh": "我国禁止进口纺织品,电子商品,冷电,医疗设备,商品等废旧物品,是现有的信息技术产品."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo quy định pháp luật, lô hàng nhập khẩu qua chuyển phát nhanh nếu có giá trị dưới 1 triệu sẽ được miễn thuế và cả lệ phí kê khai hải quan. Những lô hàng này được làm thủ tục hải quan rất nhanh chóng do miễn được khoảng thời gian tính toán thuế phí. Còn lại, những đơn hàng nhập khẩu trên 1 triệu vẫn phải tính thuế bình thường theo quy định pháp luật.": {
+      "en": "In accordance with the law, import shipments through rapid transfers if valued under 1 million would be tax-free and customs ratings. These shipments were made of customs procedures very quickly due to the free time of tax calculations. On the other hand, the imports per million still have to be counted as normal taxes according to the law.",
+      "zh": "根据法律,通过快速转移的进口货物,如果价值低于100万,将实行免税和海关评级。 由于可以自由计算税款,这些货物很快通过海关程序运出。 另一方面,每百万人的进口仍然必须依法算作正常税。"
+    },
+    "Thuế giá trị gia tăng bằng giá trị hải quan của mặt hàng cộng với thuế tiêu thụ đặc biệt cộng thuế nhập khẩu và được bao nhiêu đem nhân với thuế suất giá trị gia tăng.": {
+      "en": "The tax of value increased by the customs value of the goods plus the special consumption tax plus the import tax and how much is multiplied by the rising price tax.",
+      "zh": "增值税按货物关税价值加特别消费税加进口税增加,乘以物价税上涨多少."
+    },
+    "Thuế nhập khẩu sẽ bằng giá trị hải quan của mặt hàng nhân với thuế tiêu thụ đặc biệt và nhân với thuế suất thu nhập.": {
+      "en": "The import tax will be equal to the customs value of the product times the special consumption tax and times the income tax.",
+      "zh": "进口税将等于产品关税价值乘以特别消费税和所得税。"
+    },
+    "Thuế tiêu thụ đặc biệt sẽ bằng giá trị hải quan của mặt hàng nhân với thuế suất.": {
+      "en": "Special consumption tax will be equal to the customs value of the goods side times the rate tax.",
+      "zh": "特别消费税将等于货物边税的关税价值乘以税率税。"
+    },
+    "Thủ tục nhận hàng nước ngoài": {
+      "en": "Foreign delivery procedure",
+      "zh": "外国交货程序"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là các cách tính các loại thuế phí khi gửi hàng từ nước ngoài về Việt Nam. Hy vọng đây sẽ là những thông tin tham khảo hữu ích gửi đến bạn. Cảm ơn bạn đã theo dõi bài viết của chúng tôi và hẹn gặp lại bạn tại những chủ đề tiếp theo của Vận Tải Lưu Lê.": {
+      "en": "These are the ways in which taxes are calculated when sending goods from abroad to Vietnam. Hopefully these will be helpful references to you. Thank you for following our article and seeing you again at the next themes of the Archives.",
+      "zh": "这就是从国外向越南运送货物时计算税收的方法. 希望这些能成为对你有益的参考 感谢大家关注我们的文章,再次在档案馆的下一个主题上见到你."
+    },
+    "Trường hợp hàng nước ngoài gửi qua chuyển phát nhanh": {
+      "en": "In case of foreign goods sent via fast delivery",
+      "zh": "在外国货物通过快递发送的情况下"
+    },
+    "Trường hợp hàng nước ngoài gửi về qua bưu chính": {
+      "en": "Foreign goods case sent by post",
+      "zh": "邮寄的外国货物案"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Việc mua sắm hàng nước ngoài ngày nay trở nên đơn giản và thuận tiện hơn rất nhiều. Bất kỳ ai cũng có thể tự mình đặt hàng trên trang thương mại điện tử quốc tế và sau đó hàng hóa sẽ được chuyển về địa chỉ nhà của người nhận. Tuy nhiên, ngoài thuế phí khi gửi hàng, chúng ta cần biết các thủ tục nhận hàng để tránh bỡ ngỡ khi nhận một món quà từ người thân bạn bè ở nước ngoài.": {
+      "en": "Foreign shopping is becoming much simpler and more convenient today. Anyone can order their own items on the international electronic commercial site and then the goods will be transferred to the receiver's home address. In addition to taxation when sending a package, however, we need to know that the procedures we receive to avoid the shock of receiving a gift from our friends overseas.",
+      "zh": "今天,外国购物变得更加简单和方便。 任何人都可以在国际电子商业网址上订购自己的物品,然后将货物转移到接收者的住址。 然而,除了在寄送包裹时征税外,我们还需要知道,我们为避免从海外朋友那里收到礼物而受到的冲击而接受的程序。"
+    },
+    "Việt Nam": {
+      "en": "Vietnam",
+      "zh": "越南"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải hàng hóa đường biển": {
+      "en": "Sea goods freight",
+      "zh": "海运货物运费"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "an toàn - giá rẻ!": {
+      "en": "Safe - cheap!",
+      "zh": "安全 - 廉价!"
+    },
+    "cách tính thuế khi gửi hàng từ nước ngoài về": {
+      "en": "tax calculations when sending items from abroad",
+      "zh": "从国外发送项目时的税收计算"
+    },
+    "cách tính thuế khi gửi hàng từ nước ngoài về Việt Nam": {
+      "en": "tax calculations when sending items from abroad to Vietnam",
+      "zh": "从国外向越南发送物品时的税收计算"
+    },
+    "là vấn đề không phải ai cũng biết. Nếu bạn đang muốn mua sắm hàng hóa gửi về nhà hay sắp nhận được một món quà từ nước ngoài thì cần tham khảo những thông tin dưới đây!": {
+      "en": "It's not a matter of public knowledge. If you are trying to obtain goods sent home or are about to receive a gift from a foreign country, refer to the following information!",
+      "zh": "非大众所知. 如果您想从国外获得寄往国内的货物或即将收到外国的礼物,请参见以下信息!"
+    },
+    "thuế hàng gửi từ nước ngoài về Việt Nam": {
+      "en": "Foreign Tax on Vietnam",
+      "zh": "越南的外国税"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "về": {
+      "en": "About",
+      "zh": "关于"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây là loại thuế sử dụng với tất cả các mặt hàng với tỷ suất thuế khác nhau. Đa phần những mặt hàng xuất khẩu đều chịu thuế 10% giống như những mặt hàng mà bạn tiêu thụ ở Việt Nam. Trong nước hiện nay ít sản phẩm hay dịch vụ được ưu đãi thuế VAT. Các mặt hàng thiết yếu như lương thực hay điện nước thuế thường là 5% và còn lại thuế đa phần là 10%, ví dụ như mặt hàng quần áo, giày dép, mỹ phẩm, nước hoa hay phụ kiện công nghệ.": {
+      "en": "This is the kind of tax used with all the goods with different tax rates. Most exports are taxed 10% like the ones you consume in Vietnam. In the country currently few products or services are favored by the VAT tax. The essential items, such as food or electricity, are usually 5% and the remainder tax is 10%, such as clothing, shoes, cosmetics, perfumes, or technical accessory.",
+      "zh": "对所有税率不同的货物都使用这种税。 大部分出口品都被征税10% 就像你在越南消费的一样 在国内,增值税目前很少有利于产品或服务。 食品或电力等必需品通常为5%,其余的税收为10%,如服装、鞋子、化妆品、香水或技术附属品等。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đối với chính sách mặt hàng": {
+      "en": "For Rowing Policy",
+      "zh": "对于行政策"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "→ Thuế giá trị gia tăng:": {
+      "en": "‹ Taxes of increased value:",
+      "zh": "增值税:"
+    },
+    "→ Thuế nhập khẩu:": {
+      "en": "OCTR:",
+      "zh": "OCTR: 请检查url=值 (帮助)."
+    },
+    "→ Thuế tiêu thụ đặc biệt:": {
+      "en": "- Special consumption tax:",
+      "zh": "- 特别消费税:"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

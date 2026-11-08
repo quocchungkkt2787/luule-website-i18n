@@ -1,0 +1,818 @@
+{
+  "route": "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-khanh",
+  "texts": {
+    "24 Tháng 7 2022": {
+      "en": "24 July 2022",
+      "zh": "2022年7月24日 (中文(简体) )."
+    },
+    ">>> Tham khảo thêm:": {
+      "en": "> Additional Reference:",
+      "zh": "> 补充参考 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bên cạnh đó cũng có xử lý nước thải tập trung có công suất 6400m3/ngày đêm, hệ thống thông tin liên lạc trong KCN. Cùng đường trục chính bố trí đường 4 làn xe, chiều rộng lòng đường 40m. Các tuyến đường nội bộ chiều rộng từ 20-41,5m đạt tiêu chuẩn tải trọng xe 30 tấn.": {
+      "en": "In addition, there are concentrated wastewater processing at 6400 m3 per night, communications systems in KNC. The same main axis layout of 4 lanes of lanes, the width of the 40-meter road. Internal routes range from 20-41,5 m to a 30-ton load standard.",
+      "zh": "此外,还有集中的废水处理,每晚6400立方米,KNC的通信系统. 4道同为主轴布局,宽度为40米. 内部路线从20-41,5米到30吨载重标准."
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Vận tải Lưu Lê tiếp nhận các thông tin của khách cần gửi hàng Hà Nội - KCN Long Khánh.": {
+      "en": "Step 1: Liu Li Transport receives information from guests who need to send Hanoi - KNN Longfh.",
+      "zh": "第1步:刘力运接收需要送出河内来客的信息-克南龙夫."
+    },
+    "Bước 2: Khảo sát thực tế hàng hóa ở kho Hà Nội xem chủng loại, số lượng và địa chỉ ở đâu. Sau đó thực hiện báo giá phù hợp, tránh để phát sinh nhiều chi phí sau này.": {
+      "en": "Step 2: Survey of real goods in the Hanoi Archive see where the species, quantity and address are. Then perform the appropriate price notice, avoiding to generate many later costs.",
+      "zh": "第2步:在河内档案馆进行活品调查,查看物种,数量和地址. 然后执行适当的价格通知,避免产生许多以后的费用。"
+    },
+    "Bước 3: Lưu Lê và khách hàng thống nhất các điều khoản và yêu cầu, sau đó ký hợp đồng vận chuyển.": {
+      "en": "Step 3: Liu and the customer merge the terms and requirements, then sign the transport contract.",
+      "zh": "第3步:刘同客户合并条款和要求,再签订运输合同."
+    },
+    "Bước 4: Kiểm kê kỹ lại hàng hóa trước khi chuyển và tiến hành các bước gửi hàng như hợp đồng đã ký.": {
+      "en": "Step 4: Check the cargo prior to the transfer and proceed the delivery steps as signed contracts.",
+      "zh": "第4步:在转移之前检查货物,并按所签合同办理交货手续。"
+    },
+    "Bước 5: Cùng với người nhận đồng kiểm hàng, xem số lượng và chất lượng đã đúng chưa. Nếu không có gì sai sót, sẽ bàn giao cho khách ở KCN Long Khánh và thanh toán.": {
+      "en": "Step 5: Along with the recipient of the same inventory, see if the quantity and quality are correct. If nothing goes wrong, we'll hand it over to the guests at KNN Longfang and pay the bill.",
+      "zh": "第5步:与同一库存的接收者一起,看数量和质量是否正确。 如果没出事,我们把钱交给KNN龙芳的客人,付帐."
+    },
+    "Bạn có biết cách gửi hàng": {
+      "en": "Do you know how to send the package",
+      "zh": "你知道怎么送包裹吗"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí tháo dỡ, lắp ráp và đóng gói (nếu có phát sinh) + các chi phí bốc xếp liên quan (nếu có) phụ thuộc vào khối lượng hàng hóa, nhân công thực hiện và máy móc thiết bị sử dụng.": {
+      "en": "The cost of dissolution, installation, and packing (if any) plus the cost of related installation (if any) depends on the mass of goods, workers perform and equipment used.",
+      "zh": "溶解、安装和包装的费用(如果有的话)加上相关安装的费用(如果有的话)取决于货物、工人的性能和使用的设备的质量。"
+    },
+    "Chi phí vận chuyển bao gồm chi phí chuyển hàng bằng đường sắt + phí phương tiện giao và nhận ở hai đầu Hà Nội, KCN Long Khánh.": {
+      "en": "Transportation costs include railway transport costs + transportation costs and receiving at the two ends of Hanoi, KNN Longfh.",
+      "zh": "运输成本包括铁路运输成本+运输成本和河内,克南龙夫两端的接收."
+    },
+    "Chuyên nghiệp: Đội ngũ nhân viên của Lưu Lê vô cùng chuyên nghiệp, các quy trình được lên kế hoạch chi tiết và thực hiện nhuần nhuyễn.": {
+      "en": "Professional: Liu's staff are highly professional, the procedures are planned in detail and carried out.",
+      "zh": "专业:刘作人员工高度专业化,程序详细规划并落实."
+    },
+    "Chuyển hàng Hà Nội KCN Long Khánh": {
+      "en": "Transfer of Hanoi KNNN Longh",
+      "zh": "河内KNN Longh的转让"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các thông tin cơ bản về KCN Long Khánh": {
+      "en": "Basic Information on KNN Longhun",
+      "zh": "关于KNN Longhun的基本信息"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cơ sở hạ tầng trong KCN Long Khánh cũng được đầu tư rất hoàn chỉnh. Với hệ thống cấp điện được lấy từ trạm biến áp Long Khánh 110/22KV – 120MVA. Nước sạch được cung cấp đủ cho toàn bộ nhà máy trong khu công nghiệp với công suất 8000m3/ngày đêm.": {
+      "en": "The infrastructure in KNN Longhh was also well invested. With the power level system taken from the LongJet 110/22KV transformer station – 120MVA. Clean water is provided enough for the entire plant in the industrial ward with a capacity of 8,000 m3/day-night.",
+      "zh": "KNN Longhh的基础设施也得到了良好的投资。 随着电平系统取自LongJet110/22KV变压器站-120MVA. 为工业区的整个工厂提供了足够的清洁用水,每天晚上可容纳8,000立方米。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ 24/7: Bất kể là giờ nghỉ hay ngày nghỉ, Lưu Lê vẫn luôn luôn sẵn sàng phục vụ khách hàng có nhu cầu.": {
+      "en": "Service 24/7: Whether it is break time or holiday, Liu Liu is always ready to serve his needs.",
+      "zh": "24/7服务:无论是休息时间还是节假日,刘刘始终准备好满足需要."
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá gửi hàng Hà Nội - KCN Long Khánh của Lưu Lê = Chi phí tháo dỡ, lắp ráp và đóng gói (nếu có phát sinh) + các chi phí bốc xếp liên quan (nếu có) + chi phí vận chuyển đến KCN Long Khánh.": {
+      "en": "Hanoi Row - KNN Longh by Liu Li = The cost of dissolution, installation, and packing (if any arise) + related stacking costs (if any) + transportation costs to KNN Longfh.",
+      "zh": "河内Row - KNN Longh由刘力 = 溶解、安装和包装费用(如果有的话) + 相关堆放费用(如果有的话) + 运往KNN Longfh的运输费用。"
+    },
+    "Giá vận chuyển hàng hóa Bắc Nam bằng đường sắt tại Lưu Lê": {
+      "en": "The price of north-south goods by railway at Liu Li",
+      "zh": "刘黎铁路南北货价."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội KCN Đồng Nai": {
+      "en": "Send the Hanoi KNC Plains",
+      "zh": "发送河内 KNC平原"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hà Nội - KCN Long Khánh": {
+      "en": "Hanoi - KNN Longh",
+      "zh": "河内 - KNN Longh"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KCN Long Khánh có vị trí rất thuận lợi, từ đường bộ, đường thủy, đường sắt và hàng không. Nó chỉ cách trung tâm thành phố Biên Hoà khoảng 40km, cách sân bay Tân Sơn Nhất 80km và đến sân bay quốc tế Long Thành là 40km. Bên cạnh đó, cũng rất gần các ga Long Khánh và ga Dầu Giây. KCN Long Khánh cũng chỉ cách quốc lộ 1A 20km.": {
+      "en": "KNN Longfing has a very favorable position, from the landway, the waterway, the railroad and the airline. It is only 30 miles (40 km) from the centre of the City of Tennis, 80 km (80 km) from the Tan Sons of Tianshan Airport and to Long City International Airport. Also, very close to Longhing Stations and Oil Stations.",
+      "zh": "韩能 从陆道,水道,铁路和航空公司来看,长平的地位非常有利. 距地铁城中心站仅30英里(40公里),距天山机场谭子站80公里(80公里),至龙城国际机场. 另外,还非常接近长兴站和油站."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khu công nghiệp Long Khánh có địa chỉ ở Xã Suối Tre và Bình Lộc, thị xã Long Khánh, tỉnh Đồng Nai. Diện tích của KCN là 264ha với tỷ lệ lấp đầy 60%. Thời gian vận hành của KCN Long Khánh từ năm 2008 đến nay.": {
+      "en": "Longfing Industries has an address in the Tre Rivers and the Ping of Tang, the town of Longfing, the District of Nai. The area of KNC is 264ha with a 60% fill rate. KNN Longhing's operating time has been since 2008.",
+      "zh": "长平工业区有地处\"翠河\"和\"唐平\",\"长平\",\"直隶\"等地. KNC面积为264ha,填充率为60%. 韩能 龙兴的运营时间自2008年起."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Linh hoạt: Vận tải Lưu Lê sở hữu đa dạng các thiết bị, phương tiện vận tải nên đáp ứng mọi nhu cầu của khách hàng.": {
+      "en": "Animated: Liu Li transport owned a variety of equipment, transportation should meet all customer needs.",
+      "zh": "动画:刘力运输拥有各种设备,运输应满足所有客户需求."
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê - đơn vị chuyển hàng từ Hà Nội đến KCN Long Khánh uy tín nhất": {
+      "en": "Liu Leh - The transport unit from Hanoi to KNN Longhing is most prestigious",
+      "zh": "刘雷 从河内到KNN Longhing的运输单位最有声望"
+    },
+    "Lưu Lê là một đơn vị đã hoạt động lâu năm trong lĩnh vực vận tải, nhất là chuyển hàng bằng đường sắt. Với những kinh nghiệm tích lũy được, cùng chất lượng dịch vụ tuyệt vời. Nên vận tải Lưu Lê được rất nhiều người dân ở Hà Nội và KCN Long Khánh lựa chọn gửi gắm hàng hóa của mình.": {
+      "en": "Liu Levi is a long-lived unit in the transportation sector, especially by rail. With acquired experience, the same quality of excellent service. So Liu Li transport was widely owned by people in Hanoi and KNN Longhen choose to send his cargo.",
+      "zh": "刘列维是交通部门,尤其是铁路部门的一个长寿单位. 有了经验,同样优质的服务。 于是刘力运输被河内人广泛拥有,KNN隆亨选择送货."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhanh và chính xác: Vận tải Lưu Lê biết bằng thời gian là vàng là bạc, nên để không chậm trễ công việc của khách hàng. Công ty sẽ chuyển hàng hóa đến KCN Long Khánh là nhanh và chính xác địa điểm nhất.": {
+      "en": "Quick and Accurate: Liu La's travel knew in time that gold was silver, so not to delay the customer's work. The company that will deliver the cargo to KNN Longhing is the fastest and the most precise location.",
+      "zh": "快速准确:刘拉之行及时知道黄金是银子,所以不要拖延顾客的工作. 将货物交付给KNN Longhing的公司是最快和最精确的地点."
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Long Khánh": {
+      "en": "The need to send Hanoi - KNN Longh",
+      "zh": "送河内-KNN Longh的必要性"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ những điều kiện thuận lợi về vị trí địa lý như vậy, nên đã giúp cho việc giao thương giữa KCN Long Khánh với các khu vực khác diễn ra suôn sẻ. Ngoài nhu cầu gửi hàng, phân phối sản phẩm từ KCN Long Khánh đến các nơi khác. Hoạt động nhận hàng, mua bán tại đây cũng nhộn nhịp không kém. Một trong những nơi thường xuyên gửi hàng đến KCN Long Khánh chính là thủ đô Hà Nội. Nhu cầu chuyển các sản phẩm, hàng hóa, nhà xưởng,... từ Hà Nội đến KCN này ngày càng tăng cao.": {
+      "en": "Due to the favorable conditions for such geographical positions, the trade between KNN Longhh and other areas went smoothly. In addition to the need for delivery, the product distribution was from KNN Longfing to other locations. The activity of receiving goods and selling here is equally exciting. One of the places that regularly sends the shipment to KCN Longfing is the capital of Hanoi. The demand for transportation of products, goods, workshops,... from Hanoi to KNC is increasing.",
+      "zh": "由于这种地理位置的有利条件,KNN Longhh和其他地区之间的贸易进展顺利。 除了需要交货外,产品从KNN Longfing发售到其他地点。 在这里接受货物和销售的活动同样令人兴奋。 定期向KCN Longfing发送货物的地点之一是河内省会. 从河内到国民政府的产品、货物、车间运输需求不断增加。"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Qua các thông tin chúng tôi cung cấp phía trên, bạn đã nắm được các kinh nghiệm": {
+      "en": "Through the information we provide above, you have learned the experience",
+      "zh": "通过我们在上面提供的信息,你学到了经验"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tiết kiệm: Chi phí gửi hàng Hà Nội - KCN Long Khánh của Lưu Lê đảm bảo tiết kiệm và cạnh tranh nhất thị trường.": {
+      "en": "Save: The cost of sending Hanoi-KCN Longh Liu's shipment guarantees savings and the most competitive market.",
+      "zh": "储蓄:送河内-KCN龙h刘运货成本保证储蓄和最具竞争力市场."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong đó:": {
+      "en": "In it:",
+      "zh": "其中:"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại KCN Long Khánh có rất nhiều doanh nghiệp lớn nhỏ trong và ngoài nước. Các doanh nghiệp nước ngoài nổi bật như là ông ty TNHH Dong Myung Vina, Công ty TNHH Pro Ken, Công ty TNHH Exact Wood,... Cùng đa dạng lĩnh vực ngành nghề như sản xuất giày, sản xuất thủy tinh, chế biến nông sản, lương thực, thực phẩm, sản xuất đồ chơi, lắp ráp dụng cụ thể dục thể thao,...": {
+      "en": "At KNN Longfing there are numerous small large businesses within and abroad. Foreign businesses stand out as Mr. Dongh Dong Myung Vina Company, TEH Pro Ken Company, TH Exact Wood Company,... The same variety of occupations as production of shoes, glass production, farming processing, food, food production, toy production, the assembly of athletic instruments,...",
+      "zh": "在KNN Longfing,国内外有许多小型大型企业。 外国企业突出表现为东明维纳先生公司,TEH Pro Ken公司,TH Exact Wood Company,...... 与制鞋,玻璃生产,养殖加工,食品,食品生产,玩具生产,运动器械组装等相同的职业种类,......"
+    },
+    "Uy tín: Đảm bảo mọi quy trình đều được thực hiện đúng trong hợp đồng, uy tín và không xảy ra rủi ro.": {
+      "en": "Trust: To ensure that all procedures are properly carried out in contract, prestige, and risk-free.",
+      "zh": "信任 : 确保所有程序以合同、威望和无风险的方式妥善进行。"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê có quy trình gửi hàng vô cùng nhanh gọn, an toàn và chuyên nghiệp": {
+      "en": "Liu Li transport has an extremely fast, safe and professional delivery process",
+      "zh": "刘力运输有极快,安全,专业的运送过程"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem ngay 3 điều cần biết khi gửi hàng Hà Nội - KCN Long Khánh": {
+      "en": "See immediately 3 things to know when sending Hanoi - KNN Longh",
+      "zh": "立刻看三件事 送河内 - KNN Longh"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "an toàn nhất không? Hay cũng đơn vận tải nào uy tín hoạt động ở trên cung đường này? Để trả lời được các thắc mắc đó, hãy cùng Lưu Lê tham khảo thông tin ở trong bài viết dưới đây.": {
+      "en": "Safest? Or is it also the prestigious singles of transport operating above this palace? To answer those questions, consult with Liu and the information found in the following article.",
+      "zh": "最安全吗? 还是这宫殿上方有名的运输单车? 为了回答这些问题,请与刘和下文中的资料协商。"
+    },
+    "chưa nhỉ? Nếu còn bất kỳ thắc mắc liên quan nào, hoặc muốn sử dụng dịch vụ vận tải uy tín của Lưu Lê hãy liên hệ hotline": {
+      "en": "You're not going anywhere, are you? If there's any further relevant questions, or want to use Liu's prestigious transport service please contact hotline",
+      "zh": "你不会去任何地方,是吗? 如有进一步相关问题,或想使用刘贵宾的交通服务,请联系热线"
+    },
+    "gửi hàng Hà Nội - KCN Long Khánh": {
+      "en": "Send Hanoi - KNN Longh",
+      "zh": "送河内 - KNN Longh"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được tư vấn cụ thể nhất nhé!": {
+      "en": "To get the most specific advice!",
+      "zh": "为了得到最具体的建议!"
+    },
+    "► Giá gửi hàng Hà Nội - KCN Long Khánh của Lưu Lê": {
+      "en": "Liu Liu Liu's CHOI-KN Longh",
+      "zh": "刘刘作\"崔可通\"."
+    },
+    "► Những cao kết của vận tải Lưu Lê đến cho khách khi chuyển hàng vào KCN Long Khánh": {
+      "en": "INTERVIECTIONS of Liu Transport to Guests When Transported to KNN Longh",
+      "zh": "刘运到KNN Longh时对客人的干扰"
+    },
+    "► Quy trình gửi hàng Hà Nội - KCN Long Khánh của vận tải Lưu Lê": {
+      "en": "Hanoi's delivery sequence - KCN Longhing of Liu Transport",
+      "zh": "河内送货序列-KCN长兴刘运."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

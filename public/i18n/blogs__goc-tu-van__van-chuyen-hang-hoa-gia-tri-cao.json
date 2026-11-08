@@ -1,0 +1,898 @@
+{
+  "route": "/blogs/goc-tu-van/van-chuyen-hang-hoa-gia-tri-cao",
+  "texts": {
+    "25 Tháng 1 2021": {
+      "en": "25 January 2021",
+      "zh": "2021年1月25日 (中文(简体) )."
+    },
+    ">>> Có thể bạn quan tâm dịch vụ:": {
+      "en": "> DSTOR You may be interested in services:",
+      "zh": "> 数据存储器 您可能感兴趣的服务:"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của Công ty Vận Tải Lưu Lê": {
+      "en": "The Celebrity Company's Agreement",
+      "zh": "名人公司协定"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các biệt dược dùng để điều trị các bệnh nan y;": {
+      "en": "Medicines are used for treating terminal diseases;",
+      "zh": "用于治疗末期疾病的药品;"
+    },
+    "Các loại hàng hóa được xem là giá trị cao không hẳn là vì giá trị của nó cao hơn các mặt hàng hóa khác, mà đó là mặt hàng này thường có giá trị, hay bị đánh cắp, dễ dàng tiêu thụ, hoặc là những mặt hàng hiếm.": {
+      "en": "The kinds of goods that are considered high value are not necessarily because of its value higher than other goods, which is that this goods are often valued, or stolen, easily consumed, or rare items.",
+      "zh": "被认为价值高的各类货物不一定是因为其价值高于其他货物,即这些货物往往被估价或被窃取、容易被消费或稀有物品。"
+    },
+    "Các sản phẩm dược phẩm, hóa chất, vaccin,...phải kèm theo nhãn mác của nơi sản xuất, giấy tờ ghi rõ thành phần.": {
+      "en": "Drug products, chemicals, vaccin,... must accompany the label of the production place, papers that specify the composition.",
+      "zh": "药品 化学品 疫苗 必须在生产地的标签上 注明成分的文件上"
+    },
+    "Các sản phẩm quý hiếm, đồ cổ… cần có tem niêm phong để xác minh hàng nguyên vẹn, chưa bị bóc, gỡ đánh tráo trước và sau khi giao nhận.": {
+      "en": "The rare, antique products... need a seal to verify the product intact, uncut, dislodged before and after delivery.",
+      "zh": "稀有的古董产品... 需要封条来验证产品是否完好无损,未切开,交付前后被拆卸."
+    },
+    "Các tiện ích và dịch vụ nếu phát sinh trong quá trình vận chuyển sẽ hoàn toàn miễn phí.": {
+      "en": "The utility and services if developed during the transport process will be free of charge.",
+      "zh": "如果在运输过程中开发公用事业和服务,将免费提供。"
+    },
+    "Cách đóng gói hàng hóa giá trị cao": {
+      "en": "High value goods packing",
+      "zh": "高价值货物包装"
+    },
+    "Cách đóng gói hàng hóa giá trị cao của Vận Tải Lưu Lê": {
+      "en": "How to Pack High Values of Media",
+      "zh": "如何包装媒体的高价值"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do nhu cầu vận chuyển hàng hóa và đặc biệt là": {
+      "en": "Due to the demand for freight and especially",
+      "zh": "由于对货运的需求,特别是"
+    },
+    "Do đó mà có thể xuất hiện trường hợp bị đánh cắp, tráo đổi trong quá trình vận chuyển. Hàng hóa có giá trị cao được định giá bằng giá trị của sản phẩm khi thanh toán.": {
+      "en": "Thus may appear in case of theft, swapping during transport. Highly valued goods are valued by the value of products when paid.",
+      "zh": "因此,在盗窃、运输过程中互换的情况下可能出现。 高价值货物按已付款的产品价值估价。"
+    },
+    "Dù vận chuyển hàng hóa gì cũng đều phải đảm bảo có giấy tờ chứng minh nguồn gốc xuất xứ.": {
+      "en": "Whatever goods you transport, make sure you have papers that prove where you came from.",
+      "zh": "无论你运输什么货物, 确保你有证明你来自哪里的文件。"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng hóa giá trị cao": {
+      "en": "High value freight service",
+      "zh": "高价值货运服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước vận chuyển hàng hóa Bắc Nam": {
+      "en": "North South Vietnamese freight prices",
+      "zh": "南越北部货运价格"
+    },
+    "Giá cả cạnh tranh nhất trên thị trường: Chúng tôi cung cấp các dịch vụ với mức chi phí hợp lý, hỗ trợ các doanh nghiệp và tổ chức, hướng đến mục tiêu hợp tác và phát triển lâu dài.": {
+      "en": "The most competitive price on the market: We provide services at a reasonable cost, supporting businesses and organizations, towards partnership and long-term development goals.",
+      "zh": "市场上最具竞争力的价格: 我们以合理的成本提供服务,支持企业和组织实现伙伴关系和长期发展目标。"
+    },
+    "Giải đáp": {
+      "en": "Answers",
+      "zh": "答复"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiện nay, Công Ty Vận Tải Lưu Lê nhận đơn hàng 24/24h, từ Thứ 2 - Thứ 7 để nhằm đáp ứng và phục vụ tối đa mọi nhu cầu của khách hàng.": {
+      "en": "Currently, Media Company received a 24-hour order, from Monday - Saturday to meet and serve most of the customers' needs.",
+      "zh": "目前,Media Company从星期一至星期六收到24小时订单,以满足和服务大多数客户的需求。"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa giá trị cao bị lỗi trong quá trình vận chuyển do phía công ty thì tôi có được đền bù không?": {
+      "en": "Did the high value goods fail in the company's transportation process to compensate me?",
+      "zh": "高价值商品在公司运输过程中 是否未能补偿我?"
+    },
+    "Hàng hóa là phương tiện giao thông như ô tô, xe máy. Vận chuyển xe máy bằng đường sắt là hình thức vận chuyển ít gây xây xát nhất cho xe. Sau khi nhận xe, đơn vị vận chuyển sẽ bọc lại vỏ xe bằng bìa carton hoặc thùng gỗ để đảm bảo chiếc xe được bảo vệ an toàn trong suốt hành trình.": {
+      "en": "The goods are vehicles such as cars, motorcycles. Railway transport is the least built transport form for vehicles. After receiving the car, the transport unit will cover the tires with carton cover or wooden barrel to secure the vehicle during the journey.",
+      "zh": "货物是汽车,摩托车等车辆. 铁路运输是车辆最不建成的运输形式. 接收出行后,运输单位会用卡通盖或木管盖住轮胎,以保障行驶期间车辆的安全."
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng hóa vận chuyển là hóa chất, chất lỏng, chế phẩm sinh học cần chứa trong thùng chuyên dụng nhằm tránh tình trạng sản phẩm bị biến chất, ảnh hưởng đến chất lượng hàng hóa và đảm bảo an toàn trong khi vận chuyển.": {
+      "en": "Transportation goods are chemicals, liquids, biological products that need to be contained in a specialized container to avoid deformities, to affect the quality of goods, and to ensure safety while transporting.",
+      "zh": "运输货物是需要装入专用容器的化学品,液体,生物制品,可以避免畸形,影响货物质量,保证运输安全."
+    },
+    "Hóa chất, vaccin, các chất dùng để sản xuất các chế phẩm y tế và sinh hóa;": {
+      "en": "Chemicals, vaccin, the chemicals used to produce medical and biochemical products;",
+      "zh": "用于生产医疗和生化产品的化学品、疫苗;"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi quý khách sử dụng dịch vụ của Công ty Vận tải Lưu Lê, chúng tôi cam kết mang đến những sự tiện nghi và quy trình làm việc chuyên nghiệp nhất.": {
+      "en": "When you use the service of the Liu Transport Company, we are committed to bringing in the most professional conveniences and processes.",
+      "zh": "利用刘公运公司的服务,我们致力于引进最专业的便利和流程."
+    },
+    "Khi sử dụng dịch vụ vận chuyển hàng hóa giá trị cao, để đảm bảo hàng hóa không bị hư hại, thất thoát trong quá trình vận chuyển, mỗi loại hàng hóa cần có cách đóng gói riêng biệt:": {
+      "en": "When using high-value freight service, to ensure that the goods were not damaged, the loss in the transport process, each of the goods needed to have separate packaged:",
+      "zh": "使用高价值货运服务时,为保证货物不被损坏,运输过程中的损失,每件货物需要分别包装: 1."
+    },
+    "Khả năng linh hoạt cao: Với mạng lưới vận tải đường sắt đi các tỉnh thành từ Bắc chí Nam, chúng tôi đem đến sự thuận tiện trong dịch vụ vận chuyển hàng hóa đến quý khách hàng ở khắp các tỉnh thành.": {
+      "en": "Highly flexible: With the railway transport network traveling the provinces from North to South, we bring the convenience of freight services to the guests throughout the provinces.",
+      "zh": "高度灵活:随着铁路运输网络从北向南行走,我们为各省的来宾带来了货运服务的便利."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu ý khi sử dung dịch vụ vận chuyển hàng hóa giá trị cao": {
+      "en": "Note when using high-value freight services",
+      "zh": "使用高价值货运服务时的说明"
+    },
+    "Máy móc, linh kiện điện tử;": {
+      "en": "Machines, electronic components;",
+      "zh": "机器、电子部件;"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mọi hàng hóa khi bị hư hỏng hoặc mất mát, trầy xước, không nguyên đai, nguyên kiện do lỗi chủ quan của công ty thì đều được Vận Tải Lưu Lê đền bù 100% giá trị thiệt hại.": {
+      "en": "All goods when damaged or lost, scratched, unbarred, and filed by the company's subjective error are paid 100% of the damage.",
+      "zh": "受损或丢失,刮伤,无障碍,因公司主观错误而备案的商品,一律按100%赔偿损失."
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một số mặt hàng được xếp vào loại hàng hóa giá trị cao như:": {
+      "en": "Some of the goods are ranked into high-value goods such as:",
+      "zh": "部分商品排名为高价值商品,如: 1."
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những mặt hàng nào được gọi là hàng hóa giá trị cao?": {
+      "en": "What items are called high value goods?",
+      "zh": "什么是高价值商品?"
+    },
+    "Nếu có nhu cầu sử dụng phương thức vận tải đường sắt, quý khách hàng có thể liên hệ trực tiếp với Công Ty TNHH Vận Tải Lưu Lê tại văn phòng công ty hoặc qua Online nhiều kênh khác nhau. Chi tiết các kênh vui lòng xem tại website:": {
+      "en": "If there is a need to use the method of railway transport, the customers may be directly involved with the CNHL Media at the company's office or via Online various channels. Details Channels Please View at website:",
+      "zh": "如果需要使用铁路运输方法,顾客可能直接与公司办公室的CNHL Media或通过Online各种频道参与. 详细频道请在网站上查看 :"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phương tiện giao thông như ô tô, xe máy, v.v...": {
+      "en": "Transportation such as cars, motorcycles, etc.",
+      "zh": "交通工具如汽车,摩托车等."
+    },
+    "Quy cách đóng gói hàng hóa giá trị cao": {
+      "en": "The size of the package is high.",
+      "zh": "包的尺寸很高."
+    },
+    "Quy trình giao nhận hàng hóa giá trị cao": {
+      "en": "High value delivery process",
+      "zh": "高价值交付过程"
+    },
+    "Quy trình làm việc chuyên nghiệp: Nhân sự trẻ, năng động, chuyên môn cao, Lưu Lê sẽ mang đến quý khách sự phục vụ tốt nhất, hỗ trợ khách hàng 24/24h.": {
+      "en": "Professional employment procedure: Young Personnel, dynamic, highly professional, Liu Liu will bring you the best service you can get, supporting customers 24 hours.",
+      "zh": "专业就业程序:青年人事,动态,高度专业化,刘刘会给你带来你能得到的最佳服务,24小时支持客户."
+    },
+    "Quý khách cũng lưu ý không đổ nhiều xăng trước ngày gửi. Gửi xe đúng giờ để đảm bảo sắp xếp xe kịp giờ tàu chạy trong ngày. Riêng với xe ô tô, quý khách thông báo trước 1 ngày để chúng tôi sắp xếp toa tàu chuyên dụng.": {
+      "en": "You also note not to pour much gas before the delivery. Send the car on time to make sure the car is in time for the day's ride. With the car alone, the guests announced a day's notice for us to arrange our special train car.",
+      "zh": "你们也注意不要在送货前倒很多油. 及时派车,确保车能及时赶到白天的乘车时间. 光是车子,客人就宣布了一天的通知,让我们安排我们的特别火车车."
+    },
+    "Sử dụng dịch vụ vận chuyển hàng hóa giá trị cao cần lưu ý điều gì?": {
+      "en": "Using high value freight service, what should be noted?",
+      "zh": "利用高价值货运服务,应注意什么?"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian nhận đơn hàng vận chuyển hàng hóa giá trị cao tại Lưu Lê là như nào?": {
+      "en": "What's the time for the delivery order of high value at Liu?",
+      "zh": "刘'贵重送货令何时到."
+    },
+    "Thời trang hàng hiệu;": {
+      "en": "The franchise fashion;",
+      "zh": "特许经营;"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Tranh nghệ thuật, tranh cổ;": {
+      "en": "Art, Ancient painting;",
+      "zh": "艺术、古画;"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những thông tin về dịch vụ vận chuyển hàng hóa giá trị cao của Công ty Vận Tải Lưu Lê. Quý khách hàng có bất kỳ thắc mắc nào, vui lòng liên hệ trực tiếp với chúng tôi để được tư vấn!": {
+      "en": "These are information on the high-value freight service of the Media Company. Customers have any questions, please contact us directly to be advised!",
+      "zh": "这些是媒体公司高价值货运服务的信息。 顾客有任何问题,请联系我们,请通知!"
+    },
+    "Trước khi lựa chọn dịch vụ của bất kỳ công ty vận chuyển nào, để đảm bảo quá trình diễn ra suôn sẻ, các bạn cần lưu ý:": {
+      "en": "Before choosing the services of any shipping company, to ensure the process goes smoothly, you need to note:",
+      "zh": "在选择任何航运公司的服务之前,为了确保过程顺利进行,需要注意:"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tôi có thể liên hệ với Vận Tải Lưu Lê bằng hình thức nào để yêu cầu sử dụng phương thức vận chuyển hàng?": {
+      "en": "In what form can I contact the Media to require transportation?",
+      "zh": "我能以何种方式与媒体联系,"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa giá trị cao": {
+      "en": "High value freight",
+      "zh": "高价值运费"
+    },
+    "Vận chuyển hàng hóa nặng": {
+      "en": "Heavy Transportation",
+      "zh": "重型运输"
+    },
+    "Vận chuyển uy tín và nhanh chóng: Hiểu được tầm quan trọng của sự uy tín trong kinh doanh, chúng tôi luôn cam kết đảm bảo an toàn cho hàng hóa, giao hàng nhanh chóng tới tận tay khách hàng.": {
+      "en": "Distinguished and quick: Understanding the importance of business prestige, we are always committed to the safety of the goods, the delivery quickly reaches the customers.",
+      "zh": "杰出而迅速:了解商业威望的重要性,我们始终致力于商品的安全,交货迅速到达客户手中."
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "ngày càng lớn. Tuy nhiên, nhiều khách hàng vẫn còn khá dè dặt khi tìm đến các đơn vị vận chuyển. Vậy nên lựa chọn công ty vận chuyển nào uy tín, chất lượng với chi phí phải chăng? Hãy cùng Vận Tải Lưu Lê đi tìm hiểu nhé!": {
+      "en": "It's getting bigger. However, many customers are still quite reserved when they reach transport units. So what luxury transportation company should be selected, quality at cost? Let's go find out with Liu Liu.",
+      "zh": "渐渐大. 然而,许多客户在到达运输单位时仍然相当保留. 那么,应该选择什么豪华运输公司, 质量成本? 寻与刘 Liu."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa giá trị cao": {
+      "en": "High value freight",
+      "zh": "高价值运费"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đối với hàng hóa là linh kiện điện tử, vi mạch điện tử cần đóng gói trong thùng xốp hoặc thùng carton có bọc giấy nilon, giấy chống sốc để tránh va đập gây hỏng hóc, Đi kèm mỗi thùng hàng cần thêm túi hút ẩm tránh tình trạng ẩm ướt làm hư hỏng hàng hóa.": {
+      "en": "For goods to be electronic components, the electron circuit needs to be packed in a Styrofoam or carton can with plastic paper wrapped in a plastic paper, shock paper to avoid a malfunctioning dam, accompanied by each barrel needing more moist bags to absorb from the wet condition that corrupts the goods.",
+      "zh": "货物要成为电子元件,电子回路需要装入一个Styrofoam或卡通罐,用塑料纸包裹塑料纸,冲击纸来避免出故障的坝体,同时每桶需要用更潮湿的袋来吸收腐烂货物的湿质."
+    },
+    "Đối với phương tiện giao thông là ô tô, xe máy, quý khách nhớ mang đầy đủ giấy tờ xe và cung cấp đầy đủ thông tin như loại xe, biển số xe, xe mới hay xe đã qua sử dụng, xe có bị trầy xước trước đó hay không, những phụ kiện đi kèm theo xe, xe được giao ở đâu, số điện thoại, số chứng minh/căn cước của người nhận xe (nếu không phải là chủ xe). Mang theo một bản photo giấy đăng ký xe hoặc chụp scan gửi cho đơn vị vận chuyển để làm thủ tục giao nhận xe.": {
+      "en": "For transportation is cars, motormotives, you remember to bring all your car papers and provide sufficient information like the type of car, license plates, new cars or cars used, whether the car has been scratched earlier, the accessories that come with the car, the car is delivered where, the phone number, the license number/card number (if not the car owner). Bring a copy of the car registration or scan sent to the transport unit for the delivery procedure.",
+      "zh": "因为运输是汽车,机动车,你记得带上所有车辆证件,并提供足够的信息,如车型,车牌,新车或所使用的车等,无论车是否被划了更早,随车而来的配件,车的交付地点,电话号码,车牌号码/卡号(如果不是车主的话). 将汽车登记或扫描的复印件送至运输单位办理交接手续."
+    },
+    "Đối với ô tô, tàu hỏa có toa chuyên dụng để chuyên chở xe ô tô, có thể vận chuyển được số lượng lớn mà vẫn đảm bảo các xe không bị trầy xước do va chạm với nhau hoặc với các vật dụng bên ngoài.": {
+      "en": "For automobiles, trains have specialized cars to transport cars, which can carry large quantities and still ensure the vehicles are not scratched due to collisions or with external items.",
+      "zh": "对于汽车来说,列车有专门的汽车来运输汽车,这些汽车可以运载大量车辆,并且仍然确保车辆不会因为相撞或与外出物品相撞而被刮伤."
+    },
+    "Đồ cổ, gốm sứ đắt tiền;": {
+      "en": "The antiques, the expensive pottery;",
+      "zh": "古董和昂贵的陶器;"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đồ mỹ ký, trang sức, đá quý;": {
+      "en": "Penalties, jewelry, precious stones;",
+      "zh": "惩罚、珠宝、宝石;"
+    },
+    "► NHỮNG CÂU HỎI THƯỜNG GẶP VỀ DỊCH VỤ VẬN CHUYỂN HÀNG HÓA GIÁ TRỊ CAO TẠI LƯU LÊ?": {
+      "en": "WHAT IS THE REVIECTION?",
+      "zh": "什么样的改造?"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

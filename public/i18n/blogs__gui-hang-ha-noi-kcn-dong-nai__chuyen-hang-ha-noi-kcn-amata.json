@@ -1,0 +1,838 @@
+{
+  "route": "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-amata",
+  "texts": {
+    "20 Tháng 7 2022": {
+      "en": "20 July 2022",
+      "zh": "2022年7月20日 (中文(简体) )."
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Tiếp nhận các thông tin của khách muốn gửi hàng Hà Nội - KCN Amata.": {
+      "en": "Step 1: Accept information from guests who wish to send Hanoi shipment - KCN Amata.",
+      "zh": "步骤1:接受希望发运河内货物的来宾提供的信息-KCN Amata。"
+    },
+    "Bước 2: Khảo sát thực tế hàng hóa ở kho, xem số lượng, chất lượng, địa chỉ để tiến hành báo giá phù hợp.": {
+      "en": "Step 2: Survey of real goods in storage, see quantity, quality, address to conduct the appropriate price notice.",
+      "zh": "第2步:对储存中的实际货物进行调查,查看数量、质量和地址,以发出适当的价格通知。"
+    },
+    "Bước 3: Lưu Lê cùng với khách hàng thống nhất các điều khoản và ký hợp đồng gửi hàng từ Hà Nội vào KCN Amata.": {
+      "en": "Step 3: Liu La and the customer merged the terms and signed the package from Hanoi into KCN Amata.",
+      "zh": "第3步:刘拉和客户将条款合并,从河内签署包裹入KCN Amata."
+    },
+    "Bước 4: Kiểm kê lại hàng hóa trước khi chuyển, dọn, xếp hàng và vận chuyển theo hợp đồng đã thỏa thuận.": {
+      "en": "Step 4: Check the cargo before the transfer, move, line up, and transport as agreed.",
+      "zh": "第4步:在转移、移动、排队和运输之前检查货物。"
+    },
+    "Bước 5: Hàng đến KCN Amata, cùng với khách hàng đồng kiểm lại, nếu không xảy ra sai sót nào sẽ bàn giao và thanh toán.": {
+      "en": "Step 5: Row to KCN Amata, along with fellow customer review, if no errors occur, will hand over and pay.",
+      "zh": "第5步:排到KCN Amata,连同客户同行审查,如果没有出错,将交出并支付."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí chuyển hàng từ Hà Nội vào KCN Amata của vận tải Lưu Lê = chi phí hàng hóa tháo dỡ, lắp ráp, đóng gói (nếu có) + chi phí bốc xếp (nếu có phát sinh) + chi phí vận chuyển.": {
+      "en": "The cost of shipping from Hanoi into KCN Amata of Liu Transport is the cost of unloading, assembled, packaged (if any) plus the cost of loading (if any) plus transportation costs.",
+      "zh": "从河内运入刘运的KCN Amata的费用是卸货、组装、包装(如果有的话)外加装载(如果有的话)外加运输费用的费用。"
+    },
+    "Chi phí hàng hóa tháo dỡ, lắp ráp, đóng gói (nếu có) + chi phí bốc xếp (nếu có phát sinh) sẽ phụ thuộc vào khối lượng hàng, nhân công thực hiện và thiết bị hỗ trợ.": {
+      "en": "The cost of unloading, assemblying, packing (if any) plus the cost of loading (if any) would depend on mass, workers implementing and supporting equipment.",
+      "zh": "卸货、装配、包装(如果有的话)的费用加装(如果有的话)的费用将取决于质量、工人执行和辅助设备。"
+    },
+    "Chi phí vận chuyển bao gồm phí đường sắt, chi phí xe tải từ nhà ga đến hai đầu kho Hà Nội và KCN Amata.": {
+      "en": "Transport costs include railway fees, truck costs from the station to the two ends of Hanoi and KCN Amata.",
+      "zh": "运输费用包括从车站到河内和克能阿马塔两端的铁路费,卡车费."
+    },
+    "Chi phí: Bằng những kinh nghiệm vốn có của công ty vận tải uy tín, họ sẽ giúp bạn đưa ra phương pháp chuyển hàng tiết kiệm nhất.": {
+      "en": "Cost: With the inherent experiences of the prestigious shipping company, they will help you to come up with the most savings delivery method.",
+      "zh": "成本:凭借有声望的航运公司的内在经验,他们将帮助您提出最节省的交付方法."
+    },
+    "Chuyển hàng Hà Nội KCN Amata": {
+      "en": "Transfer of Hanoi Interior KNC Amata",
+      "zh": "河内内政移交"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính nhờ ưu thế về vị trí như này, nên từ KCN Amata có thể dễ dàng giao thương với các khu vực kinh tế khác. Thuận lợi từ đường hàng không, đường bộ, đường thủy cho đến đường sắt. Do đó, nhu cầu gửi hàng Hà Nội - KCN Amata ngày càng nhiều hơn.": {
+      "en": "It was by this positioning advantage that the word KNC Amata could easily trade with other economic areas. Benefits from the airline, the road, the waterway to the railroad. As a result, the need for shipping of Hanoi - KNC Amata grew.",
+      "zh": "正是由于这种定位优势,KNC Amata一词可以很容易地与其他经济领域进行贸易。 享受航空,公路,通向铁路的水道等优惠. 因此,对河内-KNC Amata的航运需求增加。"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cơ sở hạ tầng của KCN Amata được đầu tư và xây dựng vô cùng hoàn chỉnh": {
+      "en": "KNC Amata's infrastructure was invested and built extremely fully",
+      "zh": "KNC Amata的基础设施得到投资,建造极为全面"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ: Hầu hết các công ty vận tải uy tín sẽ mang đến sự nhiệt tình, chuyên nghiệp trong quá trình làm việc.": {
+      "en": "Services: Most prestigious shipping companies will bring enthusiasm, professionality in the process.",
+      "zh": "服务:大多数有声望的航运公司将在此过程中带来热情,专业."
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cả chuyển hàng từ Hà Nội đến gửi hàng Hà Nội - KCN Amata hợp lý, cạnh tranh nhất thị trường.": {
+      "en": "Price of shipping from Hanoi to send Hanoi goods - KCN Amata fairest competition market.",
+      "zh": "从河内发运河内货物的运价-KCN Amata最公平竞争市场."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội KCN Đồng Nai": {
+      "en": "Send the Hanoi KNC Plains",
+      "zh": "发送河内 KNC平原"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng hóa: Các đơn vị vận tải uy tín luôn đảm bảo hàng hóa gửi an toàn nhất. Từ khâu lấy hàng cũng đều thực hiện cẩn thận, đến tay người nhận đồng kiểm mới thanh toán.": {
+      "en": "Rows: Famed shipping units always ensure the safest delivery. From the stitching of the goods was also done carefully, to the newly paid recipient.",
+      "zh": "行:有名的航运单位总是确保最安全的交货. 从货物缝合到新付款的收款人,也经过认真处理。"
+    },
+    "Hơn nữa, cơ sở hạ tầng của KCN Amata được đầu tư và xây dựng vô cùng hoàn chỉnh. Với hệ thống điện 110/22kv, hệ thống nước có công suất 30.000 m3/ngày. Cùng với đó là hệ thống xử lý nước thải 2.000 m3/ngày, hệ thống xử lý rác thải và hệ thống cứu hỏa, thông tin liên lạc đầy đủ.": {
+      "en": "Furthermore, KCN Amata's infrastructure was invested and built extremely well. With the 110/22kv power system, the water system has a capacity of 30,000 m3 per day. Along with it is a 2,000 m/day wastewater treatment system, waste disposal system and fire system, full communication information.",
+      "zh": "此外,KCN Amata的基础设施投资并建设得非常好。 以110/22kv电力系统为主,供水系统日能容量为30,000立方米. 与之相配套的是2 000米/日废水处理系统、废物处理系统和消防系统,以及完整的通信信息。"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khu công nghiệp Amata có địa chỉ cụ thể ở Phường Long Bình, thành phố Biên Hòa, tỉnh Đồng Nai. Diện tích của khu công nghiệp này là 494ha với tỷ lệ lấp đầy 100%. Hiện nay, trong KCN Amata ưu tiên khai thác các ngành nghề như là chế biến thực phẩm, vi tính và phụ kiện, sản phẩm da, dệt, may mặc, len, chế tạo ô tô; dược phẩm, nông dược,...": {
+      "en": "Amata Industries has a specific address in Midlands Long Ping, the City of Borders, the District of Nai. The area of this industry is 494ha with a 100% fill rate. Currently, in KNC Amata priorities exploiting industries such as food processing, computers and accessories, leather products, textiles, clothing, wool, car making; medicines, poultices,...",
+      "zh": "阿玛塔工业公司在中地长平,边城,直隶地区有特定的地址. 这一行业的面积为494ha,填充率为100%. 目前,在KNC Amata优先开发食品加工,计算机和配件,皮革制品,纺织,服装,羊毛,汽车制造等行业;药品,口服等行业,......"
+    },
+    "Khu công nghiệp Amata nằm trên đầu mối giao thông quan trọng tại khu vực kinh tế trọng điểm phía Nam. Tại đây đến trung tâm TP Hồ Chí Minh chỉ 32km, nó thuộc thành phố Biên Hòa. KCN Amata đến sân bay Tân Sơn Nhất là 32km, cách ga Sài Gòn là 32 km. Hơn nữa từ đây đến các cảng biển, cảng sông, khu đô thị lớn cũng vô cùng thuận lợi.": {
+      "en": "The Amata Industrial Zone is located on the important traffic tip at the South Point Economic Area. Here to the TP Lake Chi Minh center just 32 km, it is in the city of the Borders. KNC Amata to the Tanshan Airport at 32 km (32 km) from Saigon station. Furthermore, from here to the seaports, river ports, large urban districts are also extremely favorable.",
+      "zh": "阿玛塔工业区位于南点经济区重要的交通尖口上. 这里通向TP Chi Minh湖中心仅32公里,位于边境城市. KNC 阿马塔至丹山机场,距离西贡站32公里(32公里). 此外,从这里到海港、河流港口,大城市区也极为有利。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê - đơn vị gửi hàng Hà Nội - KCN Amata chuyên nghiệp nhất": {
+      "en": "Liu Leh - CBS-KN Amata Most Professional",
+      "zh": "刘雷 - CBS-KN Amata 最专业"
+    },
+    "Lưu Lê là đơn vị vận tải uy tín": {
+      "en": "Liu Liu is a prestigious transport unit",
+      "zh": "刘刘是著名的运输单位"
+    },
+    "Lưu Lê tư vấn nhiệt tình, làm việc 24/24 giờ kể cả ngày nghỉ để phục vụ khách hàng.": {
+      "en": "Liu Liu is an enthusiastic consultant, working 24 hours including a day off to serve his customers.",
+      "zh": "刘刘是一位热情的顾问,工作24小时,包括一天的休息时间为顾客服务."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một đơn vị vận tải uy tín sẽ giúp cho quá trình gửi hàng Hà Nội - KCN Amata diễn ra thuận lợi nhất.": {
+      "en": "A prestigious transport unit will help with the most favorable delivery process of Hanoi - KNC Amata.",
+      "zh": "一个有声望的运输单位将帮助河内最有利的交付过程——KNC Amata。"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Amata": {
+      "en": "The Need to Send Hanoi - KNC Amata",
+      "zh": "送河内的必要性-KNC Amata"
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Amata ngày càng cao": {
+      "en": "The need to send Hanoi - KNC Amata is increasing",
+      "zh": "送河内-KNC Amata的需要日益增加"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những lợi ích bạn nhận được khi sử dụng dịch vụ của Lưu Lê để gửi hàng từ Hà Nội vào KCN Amata": {
+      "en": "The benefits you get when using Liu's service to send goods from Hanoi into KCN Amata",
+      "zh": "利用刘某的服务从河内送货到KCN Amata时得到的好处"
+    },
+    "Những thông tin về KCN Amata": {
+      "en": "KNC Amata Information",
+      "zh": "KNC 阿马塔信息"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Qua bài viết trên, bạn có có thể kinh nghiệm": {
+      "en": "From the above article, you can experience",
+      "zh": "从上面的文章,你可以体验"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian chuyển hàng chính xác, đúng với thỏa thuận trên hợp đồng đã ký.": {
+      "en": "The exact delivery time, yes to the agreement on the signed contract.",
+      "zh": "确切的交货时间,是签定合同的协议。"
+    },
+    "Thời gian: Đơn vị vận tải uy tín có quy trình giao nhận rõ ràng, nên luôn đảm bảo thời gian chuẩn chỉnh. Không làm ảnh hưởng đến các công việc khác của bạn, ngoài ra cũng kịp thời thay đổi nếu có phát sinh.": {
+      "en": "Time: The prestigious transport unit has a clear delivery process, so always ensures standard time. Don't affect your other job, and also change in time if there's any.",
+      "zh": "时间 : 声望很高的运输单位有明确的交付过程,因此始终确保标准时间。 别影响你的其他工作 如果有的话 时间也会改变"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong đó:": {
+      "en": "In it:",
+      "zh": "其中:"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại sao cần chọn một đơn vị uy tín để gửi hàng từ Hà Nội vào KCN Amata": {
+      "en": "Why select a prestigious unit to send goods from Hanoi into KCN Amata",
+      "zh": "为何选一个有声望的单位从河内送货到KCN Amata"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Và một trong số ít những cái tên đáp ứng được tiêu chí đơn vị vận tải uy tín đó chính là Lưu Lê. Công ty có đã có nhiều năm trong lĩnh vực vận tải, nhất là chuyển hàng bằng đường sắt. Nên đã nhận được sự tin tưởng và ủng hộ của rất nhiều các cá nhân, doanh nghiệp trên khắp cả nước.": {
+      "en": "And one of the few names that meet the criteria for that prestigious transport unit is Liu. The company has had years in the transportation sector, especially by rail delivery. So received the trust and support of a lot of individuals, businesses across the country.",
+      "zh": "少数符合那个有声望的运输单位标准的名字之一是刘. 该公司在运输部门工作多年,特别是铁路运输。 因此得到了全国众多个人,企业的信任和支持."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê cam kết thực hiện đúng và đủ mọi điều khoản trong hợp đồng gửi hàng Hà Nội - KCN Amata.": {
+      "en": "Liu Li's transport is committed to doing the right thing and all the terms in the Hanoi shipping contract - KNC Amata.",
+      "zh": "刘力运输致力于做好河内航运合同中的正确事宜和所有条款——KNC Amata."
+    },
+    "Vận tải Lưu Lê sẽ chịu 100% trách nhiệm, nếu quá trình gửi hàng xảy ra sai sót do lỗi của công ty.": {
+      "en": "Liu transport will be 100% responsible, if the delivery process occurs due to the company's error.",
+      "zh": "刘运将承担100%的责任,如果由于公司错误而发生交付过程."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chưa nhỉ. Hãy liên hệ ngay với hotline": {
+      "en": "No, not yet. Contact hotline immediately.",
+      "zh": "不,还没有。 即时联络热线."
+    },
+    "gửi hàng Hà Nội - KCN Amata": {
+      "en": "Order of Hanoi - KNC Amata",
+      "zh": "河内勋章-KNC Amata"
+    },
+    "hoặc website": {
+      "en": "or website",
+      "zh": "或网站"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị gửi hàng Hà Nội - KCN Amata uy tín nhất hiện nay": {
+      "en": "The most prestigious Hanoi shipping unit - KNC Amata",
+      "zh": "最有声望的河内航运单位——KNC Amata"
+    },
+    "Đảm bảo hàng chuyển đến gửi hàng Hà Nội - KCN Amata là đúng chất lượng và đủ số lượng.": {
+      "en": "Make sure the delivery to the Hanoi-KN Amata is the right quality and sufficient amount.",
+      "zh": "确保向河内-KN阿马塔交付的货物质量适当,数量充足。"
+    },
+    "Để": {
+      "en": "Leave",
+      "zh": "离开"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "được thuận lợi nhất, thì điều quan trọng cần làm đó là lựa chọn được một đơn vị vận tải uy tín. Nhưng làm sao để biết địa chỉ đó có uy tín không, cũng như những kinh nghiệm cần thiết khi gửi hàng là gì. Tất cả những điều này sẽ được vận tải Lưu Lê giải thích cặn kẽ ở trong bài viết dưới đây.": {
+      "en": "The most favorable, the important thing to do is to select a prestigious transportation unit. But how do you know if the address is prestigious, as well as the experience you need when sending it? All of this will be fully explained in the following article.",
+      "zh": "最受欢迎的,最重要的事情是选择一个有声望的运输单位. 但是,你怎么知道地址是否具有声望,以及发送地址时需要的经验? 下一条将充分解释所有这些情况。"
+    },
+    "để gửi hàng Hà Nội - KCN Amata": {
+      "en": "- KNC Amata",
+      "zh": "- 刚果国家警察阿马塔"
+    },
+    "để được tư vấn sử dụng dịch vụ vận tải uy tín nhé.": {
+      "en": "To get advice using prestigious transportation service.",
+      "zh": "利用著名的交通服务获得咨询。"
+    },
+    "► Chi phí chuyển hàng từ Hà Nội vào KCN Amata của vận tải Lưu Lê": {
+      "en": "The cost of shipping from Hanoi into KCN Amata of Liu Transport",
+      "zh": "从河内运入刘运的KCN阿马塔的费用"
+    },
+    "► Quy trình gửi hàng Hà Nội - KCN Amata của Lưu Lê": {
+      "en": "► The Hanoi-KN Amata delivery process",
+      "zh": "河内-KN阿马塔交付过程"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

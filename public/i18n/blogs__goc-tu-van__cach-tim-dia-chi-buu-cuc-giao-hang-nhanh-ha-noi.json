@@ -1,0 +1,830 @@
+{
+  "route": "/blogs/goc-tu-van/cach-tim-dia-chi-buu-cuc-giao-hang-nhanh-ha-noi",
+  "texts": {
+    "27 Tháng 9 2021": {
+      "en": "27 September 2021",
+      "zh": "2021年9月27日 (中文(简体) )."
+    },
+    ">>> Xem thêm các công ty:": {
+      "en": "> DSV See more companies:",
+      "zh": "> DSV 数据 见更多公司:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 01:": {
+      "en": "Step 370",
+      "zh": "步骤370"
+    },
+    "Bước 02:": {
+      "en": "Steps",
+      "zh": "步骤"
+    },
+    "Bước 03:": {
+      "en": "Step 303:",
+      "zh": "步骤303:"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển phát nhanh Sài Gòn Hà Nội": {
+      "en": "Quick relay of Saigon Hanoi",
+      "zh": "西贡河内快速接力"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các dịch vụ mà Giao Hàng Nhanh cung cấp cho khách hàng rất đa dạng. Trải qua thời gian dài, hoạt động, khảo sát thị trường và không ngừng cải tiến thì Giao Hàng Nhanh đã cung cấp thêm nhiều sản phẩm dịch vụ nhằm đáp ứng tối đa nhu cầu của khách. Hiện tại, những dịch vụ chính mà Giao Hàng Nhanh cung cấp có thể kể đến sau đây:": {
+      "en": "The services that quick delivery offers the customers are diverse. Over the course of time, activity, market surveys, and constant improvement, the fast delivery provided additional services to maximize the needs of guests. Currently, the main services provided by the Quick Exchange may refer to the following:",
+      "zh": "快速交付为客户提供的服务多种多样. 在时间、活动、市场调查和不断改进的过程中,快速交付提供了更多的服务,以最大限度地满足来宾的需求。 目前,快递交易所提供的主要服务可能指以下几点:"
+    },
+    "Các dịch vụ vận chuyển hàng hóa sẵn có tại Giao Hàng Nhanh": {
+      "en": "The freight services are available at the quick delivery",
+      "zh": "快速交付时可以提供货运服务"
+    },
+    "Cách tìm địa chỉ Bưu cục giao hàng nhanh Hà Nội": {
+      "en": "How to Find the Post Office of Quick Transportation in Hanoi",
+      "zh": "如何找到河内快递邮政局"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Danh sách bưu cục của đơn vị Giao Hàng Nhanh ở Hà Nội rất dài, hơn 100 bưu cục nên bạn không thể nhớ hết. Khi bạn có nhu cầu gửi hàng, chỉ cần tìm kiếm địa chỉ theo đúng khu vực mình cần giao và liên hệ giao nhận hàng thôi. Để tìm kiếm địa chỉ bưu cục nhanh nhất, bạn tiến hành theo các bước sau:": {
+      "en": "The Postet List of the Quick Transport Unit in Hanoi is very long, over 100 parcels so you can't remember them all. When you're in need of a delivery, just find the address in the right area and contact the delivery. To find the fastest postal address, you take the following steps:",
+      "zh": "河内快递队的邮递名单很长,超过100个包裹,所以你无法全部记住. 当你需要送货时,只要找到合适的地址,联系送货人. 为了找到最快的邮政地址,请采取以下步骤:"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ đa dạng của Giao Hàng Nhanh": {
+      "en": "Multiformation Service of Quick Transportation",
+      "zh": "快速运输的多形服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoạt động của các bưu cục Giao Hàng Nhanh Hà Nội": {
+      "en": "Operations of the Fast Transporting Posters of Hanoi",
+      "zh": "河内快速运输海报业务"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Là dịch vụ giao hàng hoá nội thành dành riêng cho khu vực Hồ Chí Minh và Hà Nội. Hàng hóa sẽ được giao nhận nhanh chóng trong khoảng 30 phút đến 4 giờ, đáp ứng nhu cầu giao hàng cấp tốc của người dân sinh sống trong khu vực hai thành phố lớn này. Không cần tới bưu cục Giao Hàng Nhanh Hà Nội mà khách hàng có thể đăng ký và đặt dịch vụ ngay trên app Ahamove của đơn vị này.": {
+      "en": "It is the internal delivery service dedicated to the Lake Chi Minh and Hanoi area. The goods would be delivered quickly between 30 minutes and 4 hours, meeting the demand for rapid delivery of residents living in this two major municipality area. There's no need for the Hovering Post Office where the customers can register and place services right on the app Ahamove of this unit.",
+      "zh": "它是专门用于志明湖和河内地区的内部送货服务. 货物将在30分钟至4小时之间迅速交付,以满足居住在这两个主要市镇地区的居民快速交付的需求。 不需要\"爱护邮局\" 客户可以在此单位的Ahamove的应用上注册和放置服务."
+    },
+    "Là khách hàng, khi nắm rõ được các vị trí, danh sách và cách hoạt động các": {
+      "en": "As a customer, when you get a good grasp of the positions, lists, and ways of doing things",
+      "zh": "作为客户,当你很好地掌握了位置,清单, 和做事的方法"
+    },
+    "Lựa chọn Giao Hàng Nhanh làm đơn vị vận chuyển chiến lược": {
+      "en": "Selecting Quick Transporting Units",
+      "zh": "选择快速运输单位"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một dịch vụ của Giao Hàng Nhanh ít người biết đến chính là dịch vụ kho bãi và xử lý hàng hoá. Nhằm tận dụng tối đa nguồn lực về kho bãi, Giao Hàng Nhanh đã mở ra dịch vụ này nhằm cung cấp cho các đơn vị kinh doanh hàng hoá, nhu cầu xuất nhập khẩu có lựa chọn nhằm hoàn thiện chuỗi cung ứng hàng hoá của mình.": {
+      "en": "A little known fast delivery service is the warehouse and handling of goods. In order to make the maximum use of its resources on the depot, the quick delivery opened the service in order to provide for the sales units, the choice of import demand to complete its supply chain.",
+      "zh": "鲜为人知的快递服务是仓库和货物装卸. 为了最大限度地利用其在仓库上的资源,快递开通了服务,以便提供销售单位,选择进口需求来完成它的供应链."
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tiếp theo, di chuột vào mục Thêm Thông Tin ở thanh công cụ, cửa sổ xổ ra bạn bấm chọn Bưu cục.": {
+      "en": "Next, move the mouse into the add information item in the toolbar, the pop-out window you press the Bureau Selection.",
+      "zh": "接下来,将鼠标移动到工具栏中添加信息项中,您按“局选择”的弹出窗口。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trang tra cứu địa chỉ bưu cục mở ra, bạn nhấp chọn tỉnh/thành phố muốn tìm kiếm địa chỉ bưu cục, nhấp chọn quận/huyện muốn tìm kiếm địa chỉ bưu cục Giao Hàng Nhanh. Chờ hệ thống tải dữ liệu, bạn sẽ có được danh sách bao gồm địa chỉ bưu cục, thời gian hoạt động của bưu cục đó.": {
+      "en": "The postal address page opened, you click on the province/ municipality to search for postal address, clicking on the district/PDL to search for the quick delivery address. Wait for the data download system, you'll get a list including the postal address, the active time of the post office.",
+      "zh": "邮政地址页面打开后,点击省/市搜索邮政地址,点击区/PDL搜索快递地址. 等待数据下载系统,你会得到一个列表,包括邮政地址,邮局的活跃时间."
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Truy cập vào website chính thức của đơn vị Giao Hàng Nhanh.": {
+      "en": "Accessing the official website of the quick delivery unit.",
+      "zh": "查阅快递单位官方网站."
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tìm kiếm thông tin bưu cục nhanh chóng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Tính đến thời điểm hiện nay, Giao Hàng Nhanh đã có mặt hầu khắp trên cả nước với hệ thống bưu cục, nhân viên xử lý vận đơn, nhân viên giao hàng, nhân viên chăm sóc khách hàng chuyên nghiệp, số lượng lớn.": {
+      "en": "As of the present time, the fast delivery has been most present throughout the country with postal systems, single-processors, delivery personnel, professional customer care workers, large numbers.",
+      "zh": "截至目前,快递在全国最为普遍,有邮政系统,单处理器,快递人员,专业客户护理人员,数量众多."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại khu vực Hà Nội, Giao Hàng Nhanh có hơn 100 bưu cục trải khắp các quận nội thành và huyện ngoại thành. Nắm bắt được nhu cầu gửi hàng hoá ngày càng đa dạng vì thế mà Giao Hàng Nhanh cố gắng mở thêm nhiều địa điểm tiếp nhận hàng hoá cho khách hàng.": {
+      "en": "In the Hanoi area, fast delivery has over 100 postages across the inner city districts and outside the city. Taking in the demand for more and more goods was thus the fast delivery attempted to open more receivers to the customer.",
+      "zh": "在河内地区,快递在内城区和城外有超过100个邮递. 因此,快速交货试图向客户开放更多的接收器,从而增加了对货物的需求。"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với chia sẻ về": {
+      "en": "With share of",
+      "zh": "份额"
+    },
+    "Với dịch vụ giao nhận hàng hoá trong nội thành Hà Nội Ahamove thì không cần đến bưu cục Giao Hàng Nhanh Hà Nội, khách hàng tải app, đăng ký và chờ shipper liên hệ nhận hàng, tiến hành giao hàng. Dịch vụ này thoả mãn nhu cầu giao hàng nội thành nhanh chóng, vì thế mức giá chung sẽ cao hơn so với hình thức chuyển phát thường.": {
+      "en": "With the delivery service in the interior of Hanahamove, there is no need for the Hanoi Quick Exchange Post, customer download app, register and wait for shipper contact to pick up, conduct delivery. The service satisfied the need for internal delivery quickly, so the general price would be higher than the standard delivery form.",
+      "zh": "随着哈纳哈莫夫内地的快递服务,河内快递交换站,客户下载应用,注册和等待托运人联系接驳,办理快递,不需要. 服务迅速满足了内部交货的需要,因此一般价格会高于标准交货表."
+    },
+    "Với đơn vị vận chuyển hàng hoá Giao Hàng Nhanh, hầu hết các bưu cục đều thống nhất thời gian làm việc: từ 08h sáng cho tới 18h00 từ thứ hai đến chủ nhật. Nếu bạn không tiện đến trực tiếp làm việc, có thể tìm số hotline của từng bưu cục để hỏi thêm thông tin hoặc yêu cầu nhân viên đến tận nhà để nhận hàng.": {
+      "en": "With the quick delivery unit, most of the post office agreed on working time: from 08h in the morning to 1800 from Monday to Sunday. If you are not available to work directly, you may find the number of hotlines of each post to ask for more information or to request more personnel to come to your home for a delivery.",
+      "zh": "与快递单位,大多数邮局商定工作时间:从上午08时到星期一至星期日1800时. 若您无法直接工作,可拨打每个站点的热线电话,以获取更多信息,或要求更多人员来家里送货。"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "[Cách tìm địa chỉ] Bưu cục giao hàng nhanh Hà Nội": {
+      "en": "[The Way to Find Address] The Quick Transportation Bureau of Hanoi",
+      "zh": "[寻找地址的方法] 河内快速运输局"
+    },
+    "bưu cục Giao Hàng Nhanh Hà Nội": {
+      "en": "Hoverland Quick Exchange Post",
+      "zh": "内陆快速交换站"
+    },
+    "bưu cục giao hàng nhanh Hà Nội": {
+      "en": "Fast delivery bureau Hanoi",
+      "zh": "河内快递局"
+    },
+    "bạn sẽ dễ dàng hoàn thành kế hoạch làm việc, gửi hàng hoá của mình hơn. Theo dõi chia sẻ dưới đây từ Vận tải Lưu Lê để có được thông tin đầy đủ cho bộ phận giao nhận hàng hoá của doanh nghiệp mình nhé.": {
+      "en": "You'll be easier to finish your work plan, send your cargo. Follow the following share from Liu Transport to get full information for your business delivery department.",
+      "zh": "你会更容易完成你的工作计划, 发送你的货物。 遵循刘运的以下份额,为您的业务交付部门获取完整信息."
+    },
+    "của Vận tải Lưu Lê để cập nhật bạn nhé.": {
+      "en": "Liu Li transport to update you.",
+      "zh": "刘立运更新."
+    },
+    "rất chi tiết trên đây, bạn sẽ có đầy đủ thông tin để làm việc với đơn vị giao hàng này rồi đấy. Cần thêm kiến thức về lĩnh vực vận tải hay tìm kiếm dịch vụ vận tải uy tín, chuyên nghiệp thì đừng quên ghé website": {
+      "en": "You'll have enough information to work with this delivery unit. Need more knowledge about transportation or search for prestigious, professional transportation services. Don't forget to visit the website.",
+      "zh": "你会有足够的信息 与这个送货单位合作。 需要更多关于运输的知识或寻找有声望的专业运输服务。 别忘了访问网站."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây là mảng dịch vụ giao hàng riêng biệt của Giao Hàng Nhanh. Dịch vụ này nhận chuyển phát hàng hoá toàn quốc, đặc biệt được liên kết với các sàn thương mại điện tử, cung cấp cho khách hàng là người bán dịch vụ giao hàng toàn diện, giá cả phải chăng, tốc độ nhanh chóng. Giao Hàng Nhanh hầu hết miễn phí dịch vụ thu hộ, miễn phí trả hàng và rất nhiều ưu đãi nữa được đưa ra.": {
+      "en": "This is a separate delivery section of the quick delivery. The service received the national delivery of goods, especially associated with electronic trade floors, which provided the customer as a comprehensive delivery salesman, affordable prices, rapid speed. The quick delivery is mostly free of charge, free of charge and a lot more favours are given.",
+      "zh": "这是快递单列的送货部分. 服务得到了国家交付的货物,特别是与电子贸易底价相关的货物,该底价为客户提供了全面交付销售人员,价格可承受,速度可快. 快速交付大多是免费的,免费的,并且给予更多的优惠."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "→ Bưu cục Giao Hàng Nhanh có ở những quận huyện nào?": {
+      "en": "What districts are available?",
+      "zh": "现有哪些区?"
+    },
+    "→ Cách tìm địa chỉ bưu cục Giao Hàng Nhanh": {
+      "en": "(10) How to Find the Post Office",
+      "zh": "(10) 如何找到邮政局"
+    },
+    "→ Giờ làm việc của bưu cục Giao Hàng Nhanh Hà Nội": {
+      "en": "(10 Hours of the Hovering Post Office)",
+      "zh": "(10个小时的邮局)"
+    },
+    "► Ahamove:": {
+      "en": "MINA Ahamove:",
+      "zh": "米兰哈莫夫:"
+    },
+    "► GHN Express:": {
+      "en": "JSTOR Express:",
+      "zh": "JSTOR快报:"
+    },
+    "► GHN Fulfillment:": {
+      "en": "FIGN Fulfillment:",
+      "zh": "FIGN 实现 :"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

@@ -1,0 +1,858 @@
+{
+  "route": "/blogs/goc-tu-van/so-dien-thoai-ga-hai-phong",
+  "texts": {
+    "25 Tháng 11 2021": {
+      "en": "25 November 2021",
+      "zh": "2021年11月25日 (中文(简体) )."
+    },
+    ">>> Tìm hiểu thêm về:": {
+      "en": "> DSTOR Learn More About:",
+      "zh": "> DSTOR 更多关于 :"
+    },
+    ">>> Xem thêm chi tiết dịch vụ:": {
+      "en": "> DSV See extra service details:",
+      "zh": "> DSV 数据 请参看额外的服务细节 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Chủ hàng đưa hàng ra sảnh hàng Ga Hải Phòng;": {
+      "en": "Step 1: The owner brings the cargo to the Sea Hall Hall Hall;",
+      "zh": "第1步:货主将货物带到海洋厅大厅;"
+    },
+    "Bước 2: Bộ phận hàng hóa kiểm tra vận chuyển nhân sự tình trạng bao, gói, xăng xe trên xe;": {
+      "en": "Step 2: The freight department checks personnel transport status, package, car fuel on the car;",
+      "zh": "第2步:货运部门检查车辆上的人员运输状况、包裹和汽车燃料;"
+    },
+    "Bước 3: Kiểm tra trọng lượng để tính mức giá vận chuyển;": {
+      "en": "Step 3: Check the weight to calculate the shipping price;",
+      "zh": "第3步:检查重量以计算运输价格;"
+    },
+    "Bước 4: Khách hàng thanh toán tiền công, phí bốc xếp và vận chuyển hàng hóa;": {
+      "en": "Step 4: Customers pay wages, waste and freight fee;",
+      "zh": "第4步:客户支付工资、废物和运费;"
+    },
+    "Bước 5: Nếu hàng hóa được vận chuyển cùng hành khách trên chuyến tàu xuất phát từ ga Hải Phòng, chủ hàng nhận phiếu gửi hành lý ký gửi. Nếu hàng hóa được vận chuyển riêng lẻ, chủ hàng sẽ nhận được biên lai.": {
+      "en": "Step 5: If the cargo is transported with the passengers on the train that originated from the Customs Station, the owner receives the deposit card. If the goods are delivered separately, the owner will receive receipts.",
+      "zh": "第5步:如果货物与发自海关站的列车上的乘客一起运输,则货主会收到押金卡. 货物单独交付的,由货主领取收据."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn không cần biết địa chỉ của ga ở đâu, không cần đến tận nơi để lấy vé, không cần mất thời gian xếp hàng mà chỉ cần một chiếc điện thoại có kết nối mạng là có để đặt vé trên website, hoặc liên hệ trực tiếp đến số điện thoại đặt vé tàu ga Hải Phòng. Sau đó, mã vé sẽ được gửi về điện thoại, khi di chuyển, bạn chỉ cần cung cấp mã vé thì đơn vị nhà ga sẽ check vé cho bạn.": {
+      "en": "You don't need to know where the station's address is, you don't need to be anywhere to get tickets, you don't take time to line up, you just need a phone connected to a ticket on the website, or you have to be directly connected to the number of telephones that set up the Naval Station train ticket. The ticket code will then be sent back to the phone, when moving, as long as you provide the ticket code, the station unit will check your ticket.",
+      "zh": "不需要知道车站的地址,不需要在任何地方得到车票,不需要花时间排队,只需在网站上用电话连接一张车票,或者直接连接设立\"海军站火车票\"的电话数量. 然后将票码发回手机,移动时,只要提供出票码,站台单位会检查出票."
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty vận tải đường sắt Hà Nội": {
+      "en": "Hanoi Railroad Transporting Company",
+      "zh": "河内铁路运输公司"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Ga Hải Phòng": {
+      "en": "Sea Hall Station",
+      "zh": "海洋厅站"
+    },
+    "Ga Hải Phòng là một trong những ga tàu lớn nhất tại miền Bắc. Đây là ga cuối cùng trên tuyến đường sắt Bắc Nam. Nếu bạn muốn trải nghiệm đi tàu hoặc muốn gửi hàng hóa từ ga Hải Phòng thì hãy tham khảo bài viết sau đây!": {
+      "en": "Sea Hall Station is one of the largest railway stations in the North. This is the last station on the Northern South Railway. If you would like to experience sailing or would like to send supplies from the Customs Station, refer to the following article!",
+      "zh": "海堂站是北方最大的火车站之一. 这是北南铁路上最后一个车站. 如果您想体验出海或想从海关站送货,请参见下一条!"
+    },
+    "Ga Hải Phòng được xây dựng từ những năm 1900 bởi các kiến trúc sư người Pháp. Đây là một trong những ga chính tại tuyến đường sắt Hải Phòng - Hà Nội. Ga Hải Phòng nằm cuối đường ga trên tuyến Hà Nội - Hải Phòng. Ngoài ra, Ga Hải Phòng còn ga nào khác vận chuyển hàng hóa từ cảng vào nội địa bằng tàu hỏa.": {
+      "en": "The Sea Hall Station was built from the 1900s by French architects. This is one of the main stations at the Sea Hall Line Railroad, which is located at the end of the station on the Hanoi Line. Additionally, the Sea Hall Station has other stations carrying cargo from the harbour into the interior by train.",
+      "zh": "海堂站由法国建筑师从1900年代起兴建. 这是海堂线铁路的主要车站之一,该站位于河内线车站的尽头. 此外,海堂站还设有其他站点,通过列车从港口将货物运入内地."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hướng dẫn gửi hàng hóa tại ga Hải Phòng": {
+      "en": "The shipping instructions at the Customs Station",
+      "zh": "海关站的货运指示"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kiến trúc thiết kế của Hải Phòng được định hướng theo phong cách tân cổ điển nên có sự đối xứng chặt chẽ giữa các chi tiết. Công trình nổi bật ở trung tâm bởi hai phần nhô ra hai bên. Các chi tiết trang trí cột sắt có hoa văn kiểu mái hiên mang hơi hướng cổ điển từ những ngày đầu xây dựng vẫn còn nguyên vẹn, ngay cả mặt đường lát đá xanh có từ năm 1902.": {
+      "en": "The design of the Customs Hall is directed in the classical new style, so there should be a tight advocacy between the details. The work stands out in the centre by two segments of the dipping. The ornamental details of the iron column have a somewhat archaic-style garland style that dates back to the early days of construction are still intact, even the blue paved road that dates back to 1902.",
+      "zh": "海关厅的设计取向于古典新风格,所以细节之间应该有严格的宣传. 水滴的两个部分在中央突出。 铁柱的装饰细节具有某种古老风格的外观外观风格,可以追溯到早期的建筑,甚至可以追溯到1902年的蓝色铺面道路也仍然完好无损."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lịch sử hình thành ga Hải Phòng": {
+      "en": "History of Sea Hall Station formation",
+      "zh": "海堂站编组史."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Mỗi ngày có 4 chuyến tàu đón trả khách theo khoảng thời gian cố định. Thời gian tàu vào ga và rời khỏi ga là khoảng từ 10 - 15 phút. Khi tham gia đi tàu, hành khách cần chuẩn bị đầy đủ giấy tờ cá nhân, hành lý, vé xe để sẵn sàng lên tàu khi có loa thông báo.": {
+      "en": "Each day there are four pick-up trains on a fixed period. The time of the train entering the station and leaving the station was between 10 and 15 minutes. As the passengers take part in the train, they need to be fully prepared for personal papers, luggage, tickets to be ready to board the ship as the speaker announces.",
+      "zh": "每天有四班固定时间段的接驳列车. 列车进站及出站时间为10至15分钟. 随着乘客列车的到来,他们需要做好个人证件,行李,车票的准备,准备在演讲者宣布时登船."
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Số hotline Ga Hải Phòng:": {
+      "en": "Number of Hotline Gang:",
+      "zh": "热线帮数 :"
+    },
+    "Số điện thoại Ga Hải Phòng": {
+      "en": "Sea Hall Phone Number",
+      "zh": "海洋厅电话号码"
+    },
+    "Số điện thoại di động đặt vé tàu Ga Hải Phòng :": {
+      "en": "Mobile number set for the Seas train ticket:",
+      "zh": "海洋火车票的移动号码:"
+    },
+    "Số điện thoại giải đáp thắc mắc:": {
+      "en": "Number of phone answers:",
+      "zh": "电话答案数 :"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thông tin đặt vé tàu và số điện thoại Ga Hải Phòng": {
+      "en": "The train tickets and the number of the Sea Hall phone",
+      "zh": "火车票和海堂电话号码"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những thông tin về địa chỉ, số điện thoại ga Hải Phòng bạn có thể chưa biết. Ngoài ra, nếu bạn muốn vận chuyển hàng hóa bằng tàu hỏa Bắc - Nam thì có thể liên hệ với với vận tải Lưu Lê": {
+      "en": "These are the addresses and phone numbers for the Customs Station you may not know yet. Also, if you want to transport goods on a North-Nay train, you can contact Liu Li Transport",
+      "zh": "这些是海关的地址和电话号码 你可能还不知道 另外,如果想在北内火车上运输货物,可以联系刘力运."
+    },
+    "Trước đây, muốn đặt vé tàu ga Hải Phòng, hành khách cần phải ra tận ga tàu để mua vé. Tuy nhiên, do công nghệ hiện đại nên việc đặt vé tàu đã đơn giản hơn rất nhiều. Vé tàu ngành đường sắt hiện nay đã được phát hành theo dạng vé điện tử, mua qua website, tin nhắn điện thoại,...nên đa số mọi người đều đặt vé theo hình thức online để tiết kiệm thời gian, chi phí.": {
+      "en": "Previously, in order to book a ticket to the Customs Station, passengers needed to go all the way to the station to get tickets. However, due to modern technology, booking a train ticket was much simpler. Railway tickets are now issued in the form of electronic tickets, purchased through websites, phone messages,... So most people put tickets online to save time and cost.",
+      "zh": "此前,为了订票到海关站,乘客需要全程前往车站取票. 然而,由于现代技术,订火车票要简单得多. 铁路票现以电子票形式发行,通过网站,电话信息购买,...... 所以大多数人在网上放票是为了节省时间和成本."
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tàu hỏa là kênh vận chuyển hàng hóa an toàn, nhanh chóng và tiết kiệm chi phí. Quy trình vận chuyển hàng hóa từ Ga Hải Phòng gồm các bước sau:": {
+      "en": "Trains are safe freight channels, rapids and cost savings. The delivery process from the Sea Hall Station is composed of the following steps:",
+      "zh": "列车是安全的货运通道,快速和节省费用. 海堂站的投递过程包括以下步骤:"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tổng đài bán các loại vé tàu của các ga trên cả nước:": {
+      "en": "Operators sell train tickets of stations across the country:",
+      "zh": "运营商销售全国车站火车票:"
+    },
+    "Từ ga tàu Hải Phòng bạn cần biết mình đi ga nào để xem giá vé và thời gian đặt được vé tàu Hải Phòng tốt nhất, các loại vé tàu được bán tại Ga Hải Phòng bao gồm:": {
+      "en": "From the Naval Station you need to know where you're going to go to to see the ticket and the time you've booked the best Sea Hall train ticket, the type of train tickets sold at the Sea Hall Station include:",
+      "zh": "从海军车站出发,你需要知道去哪里看车票,以及订好最好的海堂火车票的时间,海堂车站售出的火车票类型包括:"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Cẩm Giàng": {
+      "en": "Customer Train Ticket - Davy",
+      "zh": "客户列车车票 - Davy"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Gia Lâm": {
+      "en": "Tickets for Customs - Royal Forest",
+      "zh": "海关机票 -- -- 皇家森林"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Hà Nội": {
+      "en": "Sea Hall Train Ticket",
+      "zh": "海堂火车票"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Hải Dương": {
+      "en": "Coast Guard Train Ticket - Ocean",
+      "zh": "海岸警卫队火车票-海洋"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Long Biên": {
+      "en": "Customer Train Ticket - Dragon Border",
+      "zh": "客户列车车票 - 龙边境"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Phú Thái": {
+      "en": "Customer Train Tickets - Thailand",
+      "zh": "客户列车车票-泰国"
+    },
+    "Vé tàu ga chuyến Hải Phòng - Thượng Lý": {
+      "en": "Customs Train Ticket - Supreme Court",
+      "zh": "海关火车票-最高法院"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "số 75": {
+      "en": "Number 75",
+      "zh": "75号"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển tàu hỏa Bắc Nam": {
+      "en": "North Vietnamese train transport",
+      "zh": "北越火车运输"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây cũng được coi là một trong những nhà ga đẹp nhất tại khu vực phía Bắc. Hiện nay ga Hải Phòng đã được tu sửa nhiều lần nhưng vẫn giữ được những nét đẹp cổ điển riêng. Ga Hải Phòng gần như đã trở thành biểu tượng của nơi đây. Mặc dù hiện nay, việc di chuyển bằng tàu hỏa không còn thông dụng nhưng đây vẫn là điểm check in hấp dẫn.": {
+      "en": "This was also considered one of the most beautiful stations in the northern area. The Sea Hall Station is now renovated several times but retains its own classics. Sea Hall Station almost became the symbol of the place. Although traveling by train is no longer common, this is still an attractive print check point.",
+      "zh": "这也被认为是北部地区最美丽的车站之一. 海堂站目前经过多次翻新,但保留了自己的经典. 海堂站几乎成为了该地的标志. 虽然乘火车旅行已不常见,但这仍然是一个有吸引力的打印检查点."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đặt vé tàu ga Hải Phòng ở đâu?": {
+      "en": "Where's the Customs Station ticket?",
+      "zh": "海关站票呢?"
+    },
+    "Địa chỉ ga tàu Hải Phòng ở đâu khiến nhiều hành khách thắc mắc chưa từng đi Hải Phòng. Ga Hải Phòng thuộc tuyến đường sắt Hà Nội - Hải Phòng tọa lạc tại": {
+      "en": "Where is the Customer Station address that has caused many passengers to wonder never to go to the Customs. The Sea Hall Station is located in the Hanoi Railway",
+      "zh": "顾客站的地址在哪里 使得许多乘客不知从何去何去何从 海会站位于河内铁路内."
+    },
+    "Địa chỉ ga và số điện thoại ga Hải Phòng": {
+      "en": "Station address and phone number of the Customs Station",
+      "zh": "海关车站地址和电话号码"
+    },
+    "Địa chỉ và số điện thoại Ga Hải Phòng": {
+      "en": "The address and phone number of the Sea Hall",
+      "zh": "海会馆的地址和电话号码"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đường Lương Khánh Thiện, Ngô Quyền, Hải Phòng": {
+      "en": "Liangheng Street, Wu Quan, Hai Hall",
+      "zh": "梁源街道,吴庄,海堂"
+    },
+    "để được hỗ trợ!": {
+      "en": "To get back up!",
+      "zh": "回来!"
+    },
+    "► Số điện thoại Ga Hải Phòng": {
+      "en": "Sea Hall Number",
+      "zh": "海洋厅编号"
+    },
+    "► Địa chỉ Ga Hải Phòng": {
+      "en": "EDI Sea Chamber Address",
+      "zh": "EDI 海洋舱地址"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

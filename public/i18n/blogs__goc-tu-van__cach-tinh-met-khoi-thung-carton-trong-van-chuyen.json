@@ -1,0 +1,834 @@
+{
+  "route": "/blogs/goc-tu-van/cach-tinh-met-khoi-thung-carton-trong-van-chuyen",
+  "texts": {
+    "26 Tháng 10 2021": {
+      "en": "26 October 2021",
+      "zh": "2021年10月26日 (中文(简体) )."
+    },
+    ">>> Xem ngay:": {
+      "en": "> DHS View Now:",
+      "zh": "现在 > DHS 视图 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "C: Chiều cao": {
+      "en": "C : Height",
+      "zh": "中:高"
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cách tính mét khối thùng carton là thực sự cần thiết khi chế tạo và sử dụng bao bì carton. Hy vọng với cách tính số mét khối thùng bên trên bạn có thể tính toán chính xác nhất kích thước thùng trong vận chuyển. Từ đó có thể đưa lựa chọn phù hợp với loại bìa cứng vận chuyển hàng hóa.": {
+      "en": "The quantitative mass of carton barrels is really necessary when making and using carton envelopes. Hopefully with the number of cubic cartons above you can calculate the most accurate barrel size in transport. The word can bring choice to the hard cover of freight.",
+      "zh": "在制作和使用卡通信封时,卡通桶的定量质量确实是必要的. 希望用上方的立方箱数量 可以计算出运输中最精确的管子大小 这个词可以给货运的硬封面带来选择."
+    },
+    "Cách tính mét khối thùng carton như thế nào?": {
+      "en": "How do you calculate carton barrels?",
+      "zh": "如何计算卡通桶?"
+    },
+    "Cách tính mét khối thùng carton trong vận chuyển": {
+      "en": "Calculation of carton barrels in transport",
+      "zh": "运输中的卡通桶的计算"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công dụng của thùng carton trong vận chuyển": {
+      "en": "Carton barrel uses in shipping",
+      "zh": "货运中的卡通桶用途"
+    },
+    "Công ty vận chuyển hàng hóa tại TPHCM uy tín": {
+      "en": "The CBS freight company at the prestigious TPHCM",
+      "zh": "CBS货运公司在著名的TPHCM"
+    },
+    "D: Chiều dài": {
+      "en": "D: Length",
+      "zh": "D: 长度"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng hóa trong nước tại Lưu Lê": {
+      "en": "The domestic freight service at Liu Li",
+      "zh": "刘力家用货运服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hơn nữa, dựa vào cách tính mét khối thùng carton bạn có thể đưa ra mức giá chính xác nhất cho khách hàng. Mỗi mét khối hộp carton được tính giá riêng và nhân với số mét khối hộp carton tính được, thể tích hộp càng lớn thì giá càng cao.": {
+      "en": "Furthermore, based on the way the carton can be calculated, you can offer the best price to the customer. Each cubic meter of carton can is counted separately and times the number of cubic meters of carton cans calculated, the larger the volume of the box, the higher the price.",
+      "zh": "此外,根据计算卡通的方式,你可以向客户提供最好的价格. 每立方公尺的纸箱可以单独计算出并计算出纸箱的立方米数量相乘,箱体体积越大,出价越高."
+    },
+    "Hơn nữa, rất thân thiện với môi trường vì sản phẩm này có thể được tái sử dụng nhiều lần. Thùng carton được dùng từ giấy bìa cứng cũng có tác dụng rất dễ phân hủy, vì vậy bạn không phải lo lắng về ô nhiễm môi trường.": {
+      "en": "Furthermore, it is very environmentally friendly because the product can be reused several times. The carton can is used from cardboard that also has a very easily dissolved effect, so you don't have to worry about the environmental pollution.",
+      "zh": "此外,它非常环保,因为产品可以重复使用几次。 纸板可以使用纸箱,它同样具有非常容易被溶解的效果,所以不需要担心环境污染."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi vận chuyển hàng hóa bằng đường thủy, đường hàng không và đường sắt, việc tính toán thể tích của các thùng hàng là đặc biệt quan trọng. Việc tính đúng theo mét khối tiêu chuẩn của các thùng hàng sẽ giúp bạn không bị tính thêm phí khi đóng thùng quá khối lượng cho phép.": {
+      "en": "When shipping goods by waterways, airways, and railways, the volume of the containers is especially important. Computing the standard mass of the crates will prevent you from further charge when the barrel is oversized.",
+      "zh": "在通过水道,航空道,铁路运输货物时,集装箱的体积尤为重要. 计算出箱子的标准质量 将会阻止你进一步充电 当枪管过大。"
+    },
+    "Kích thước của thùng carton rất quan trọng trong vận chuyển hàng hóa. Mỗi loại hàng hóa khác nhau sẽ phù hợp với những kích thước của thùng khác nhau nên cần đa dạng các kích thước để có thể sử dụng được nhiều hơn trong đóng gói hàng hóa.": {
+      "en": "The size of the carton barrel is important in freight. Each of the different types of goods would be consistent with the sizes of different barrels, which would require a variety of sizes in order to be more used in the package.",
+      "zh": "纸箱枪管的大小在货运中很重要. 每种不同类型的货物都将与不同桶的尺寸相一致,这需要各种尺寸才能更多地用于包装。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Mỗi loại hàng hóa đều có những kích thước khác nhau, vì vậy chúng ta cần biết cách tính đúng mét khối các tông để chọn được loại phù hợp nhất.": {
+      "en": "Each type of goods has different sizes, so we need to know how to calculate the right mass of the blocks in order to pick the most consistent type.",
+      "zh": "每种类型的货物都有不同的尺寸,所以我们需要知道如何计算区块的正确质量,以便选择最一致的类型."
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "R: Chiều rộng": {
+      "en": "R: Range",
+      "zh": "R: 范围"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thông thường, thùng carton được sử dụng chủ yếu để phục vụ cho việc đóng gói và vận chuyển hàng hóa. Thùng carton giúp vận chuyển diễn ra thuận lợi hơn, đảm bảo độ an toàn cho sản phẩm trong quá trình vận chuyển.": {
+      "en": "Typically, carton barrels are used primarily to serve packing and freight. Carton barrel helps transport take place more favorablely, ensuring the safety of the product during transport.",
+      "zh": "通常,纸桶主要用于包装和货运。 卡通枪管有助于更有利的运输,确保运输期间产品的安全。"
+    },
+    "Thùng carton với nhiều kích thước khác nhau có thể chứa những sản phẩm kích thước da dạng, giúp cho sản phẩm không bị va đập, trầy xước khi di chuyển. Thay vì phải vận chuyển từng sản phẩm đơn lẻ thì việc đóng vào thùng carton giúp việc bê vác và sắp xếp chỗ để sản phẩm đơn giản hơn nhiều.": {
+      "en": "The carton barrel with various sizes can contain leather-sized products, which keep the product from being hit, scratching while moving. Instead of having to transport each single product, closing into carton barrels helps with the carrying and making room for much simpler products.",
+      "zh": "各种尺寸的卡通枪管可以包含皮革大小的产品,可以防止产品被击中,在移动时刮伤. 封闭成卡通桶有助于携带和为更简单的产品腾出空间,而不是运输每一种产品。"
+    },
+    "Thùng carton ​ngày càng trở nên phổ biến và là lựa chọn quen thuộc của các công ty đóng gói sản phẩm. Học cách tính khối lượng thùng carton giúp các công ty tìm ra những phương án phù hợp nhất, tiết kiệm chi phí và tối ưu hóa không gian vận chuyển cho chủ hàng. Bài viết dưới đây sẽ giúp bạn hiểu thêm về cách tính mét khối của thùng carton.": {
+      "en": "The carton barrel became increasingly popular and was the familiar choice of the product pack companies. Learning to calculate carton mass helps companies to find the most suitable options, save costs and optimize transportation space for the owners. The following article will help you to understand more about the volume of carton barrels.",
+      "zh": "纸箱桶越来越受欢迎,是产品包公司的熟悉选择. 学会计算卡通质量有助于公司找到最合适的选择,节省成本,优化车主的交通空间. 下面的文章会帮助你更多地了解卡通桶的体积."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tính mét khối của hộp giúp nhà vận chuyển lựa chọn được loại hộp phù hợp với sản phẩm. Từ đó tránh tình trạng thùng carton quá to hoặc quá nhỏ so với sản phẩm của khách hàng.": {
+      "en": "The volume of the box allows the carrier to select the type of box that matches the product. It thus avoided the carton barrel condition too large or too small for the customer's product.",
+      "zh": "盒的体积允许载体选择与产品匹配的盒型. 因此,它避免了对客户的产品来说卡顿桶条件太大或太小。"
+    },
+    "Tính mét khối thùng carton để làm gì?": {
+      "en": "What's the cost of a carton block?",
+      "zh": "一个卡通块要多少钱?"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "V = (((D + R) * 2 + 100) * (R + C + 30)) / 1000000 khi (D + R) >= 1000": {
+      "en": "V= (((D + R)) * 2 + 100) * (R + C + 30) / 100000 when (D + R) >= 1000",
+      "zh": "V=((((D+R)) * 2 + 100) * (R+C+30) / 100 000 当(D+R) + 1000"
+    },
+    "V = (((D + R) * 2 + 50) * (R + C + 30)) / 1000000 khi (D + R) < 1000": {
+      "en": "V= ((D + R) * 2 + 50) * (R + C + 30) / 100000 when (D + R)",
+      "zh": "V=((D+R) * 2+50) *(R+C+30)/100 000 当(D+R)"
+    },
+    "V = (((D + R) *2 + 100) * ((R*2) + C + 30)) / 1000000 khi D + R >= 1000": {
+      "en": "V= (((D + R) *2 + 100) *(R*2) + C + 30)) / 100000 when D + R >= 1000",
+      "zh": "V=((((D+R) *2+100) *(R*2)+C+30)) / 100 000 当 D+R+ + 1000"
+    },
+    "V = (((D + R) *2 + 50) * ((R*2) + C + 30)) / 1000000 khi D + R < 1000": {
+      "en": "V= (((D + R) *2 + 50) *(R*2) + C + 30)) / 100000 when D + R / 1000",
+      "zh": "V=((((D+R) *2+50) *(R*2)+C+30))/当D+R/1000时为100000."
+    },
+    "V = ((D + (C*2) + 30) * ((R + (C*2) + 30)) / 1000000": {
+      "en": "V= ((D + (C*2) + 30) * ((R +(C*2) + 30)) / 100000",
+      "zh": "V=(((D+(C*2)+30)*(R+(C*2)+30))/100 000"
+    },
+    "V = ((D + 15) + (C + 15) *2 + 30) * ((R + 15) + (C + 15) *2 + 30)) / 1000000": {
+      "en": "V= ((D + 15) + (C + 15) *2 + 30) * (R + 15) + (C + 15) *2+30) / 100000",
+      "zh": "V=((D+15) + (C+15) *2+30) *(R+15) + (C+15) *2+30) / 100000"
+    },
+    "V: Thể tích": {
+      "en": "Volume",
+      "zh": "音量"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê - đơn vị vận chuyển uy tín, chuyên nghiệp": {
+      "en": "Liu transport Lebane Division of Fame, Professional Transportation",
+      "zh": "刘运利班 职业运输名人司"
+    },
+    "Vận tải hàng hóa đường biển tại Lưu Lê": {
+      "en": "Sea goods freight at Liu Li",
+      "zh": "刘力的海运货物"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "[Công thức] Cách tính mét khối thùng carton trong vận chuyển": {
+      "en": "[The formula] Computation of carton barrels in shipping",
+      "zh": "[方 运输中箱桶的计算"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đến với vận tải Lưu Lê, mọi vấn đề của khách hàng sẽ được giải quyết một cách nhanh chóng, rõ ràng. Bạn sẽ không cần phải đau đầu để tìm kiếm một chiếc thùng carton và đóng gói sản phẩm vào. Tại đây có ​mức phí vận chuyển rất hợp lý phù hợp với mọi đối tượng khách hàng. Vận tải Lưu Lê nhận vận chuyển tất cả các mặt hàng từ nhỏ đến lớn nên bạn hoàn toàn có thể tin tưởng vào sự chuyên nghiệp và phục vụ tại đây. Lưu Lê có kinh nghiệm nhiều năm trong nghề nên tôi tự tin có thể tư vấn cho bạn hình thức vận chuyển phù hợp nhất": {
+      "en": "Come to Liu Li Transport, all customer problems will be resolved quickly, clearly. You won't need to have a headache to find a carton barrel and pack the product in. There is a very reasonable transportation fee for all customer objects. Liu Li transport receives all the goods from small to large so you can fully trust professionalism and serve here. Liu lao has had years of experience in the profession so I can confidently advise you on the best form of transportation",
+      "zh": "来刘力运输公司,所有顾客问题都会被迅速,明确地解决. 你不需要头痛 找到一卡通桶和包装产品。 所有顾客物品都有很合理的运输费。 刘力运输接收了从小到大的所有货物,这样你就可以完全相信专业精神,在这里服务. 刘拉奥有多年的职业经验 所以我可以自信地建议你 最好的交通方式"
+    },
+    "Để tính được chính xác mét khối thùng carton, bạn cần phải biết kích thước chiều dài, chiều rộng và chiều cao của thùng đó. Ngoài ra, còn tùy thuộc vào loại thùng carton mà bạn chọn sẽ cho những cách tính khác nhau. Công thức tính mét khối thùng carton như sau:": {
+      "en": "In order to calculate the exact mass of carton barrels, you need to know the length, width, and height of the barrel. Also, depending on the type of carton you choose to have different calculations. The formula for the volume of carton barrels as follows:",
+      "zh": "为了计算出卡通桶的确切质量,需要知道枪管的长度,宽度和高度. 而且,取决于你选择的卡通类型 不同的计算。 纸桶体积公式如下:"
+    },
+    "Để yên tâm hơn khi vận chuyển, bạn hãy lựa chọn một đơn vị vận chuyển uy tín. Đơn vị này sẽ có trách nhiệm đóng gói và vận chuyển hàng hóa cho bạn. Một trong những đơn vị đang được nhiều người sử dụng dịch vụ nhất hiện nay là vận tải Lưu Lê.": {
+      "en": "To be more secure when transporting, select a prestigious transport unit. This unit will be responsible for packing and shipping for you. One of the most widely used units of the current service is Liu Li Transportation.",
+      "zh": "为了在运输时更加安全,选择一个有声望的运输单位. 这个单位负责你的包装和运输. 目前服务中使用最广的单位是刘力交通."
+    },
+    "Đối với thùng carton nắp chồm": {
+      "en": "For carton carton lids",
+      "zh": "对于卡通卡通盖"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "⇒ Trong đó:": {
+      "en": "IN THERE:",
+      "zh": "在那边:"
+    },
+    "► Đối với thùng carton thường": {
+      "en": "RIA for standard carton barrels",
+      "zh": "标准卡通桶的RIA"
+    },
+    "► Đối với thùng carton âm dương có nắp": {
+      "en": "EDI For the Yang carton with caps",
+      "zh": "电子数据交换 给有帽子的杨卡通"
+    },
+    "► Đối với thùng carton âm dương đáy": {
+      "en": "MIRA for the bottom-low carton",
+      "zh": "MIRA 用于下等箱"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

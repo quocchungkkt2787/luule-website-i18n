@@ -1,0 +1,882 @@
+{
+  "route": "/blogs/goc-tu-van/van-chuyen-hang-di-thai-lan-bang-duong-bo",
+  "texts": {
+    ". Nếu bạn đang quan tâm thêm các dịch vụ gửi hàng khác, hãy xem ngay:": {
+      "en": "Yeah. If you are interested in additional delivery services, see immediately:",
+      "zh": "对 若您想获得更多服务,请立即查询:"
+    },
+    "100kg – 500kg": {
+      "en": "100 kg – 500 kg",
+      "zh": "100公斤 -- -- 500公斤"
+    },
+    "10kg": {
+      "en": "10 kg",
+      "zh": "10公斤(10公斤)"
+    },
+    "20kg": {
+      "en": "20 kg",
+      "zh": "20公斤(每公斤)"
+    },
+    "23 Tháng 4 2021": {
+      "en": "23 April 2021",
+      "zh": "2021年4月23日 (中文(简体) )."
+    },
+    "30kg": {
+      "en": "30 kg",
+      "zh": "30公斤(公斤)"
+    },
+    "40kg": {
+      "en": "40 kg",
+      "zh": "40公斤(10公斤)"
+    },
+    "50.000 đồng/kg": {
+      "en": "50,000/kg",
+      "zh": "50,000克/千克(每公斤)"
+    },
+    "50kg – 80kg": {
+      "en": "50 kg – 80 kg",
+      "zh": "50公斤 -- -- 80公斤"
+    },
+    "55.000 đồng/kg": {
+      "en": "$55,000/kg",
+      "zh": "55,000美元/公斤"
+    },
+    "60.000 đồng/kg": {
+      "en": "60,000 copper/kg",
+      "zh": "6万铜/千克"
+    },
+    "65.000 đồng/kg": {
+      "en": "65,000/kg",
+      "zh": "65,000/克/千克(65,000/千克)"
+    },
+    "70.000 đồng/kg": {
+      "en": "2017 copper/kg",
+      "zh": "2017年 铜/千克"
+    },
+    "75.000 đồng/kg": {
+      "en": "75,000 copper/kg",
+      "zh": "75,000 铜/千克"
+    },
+    "80kg – 100kg": {
+      "en": "80 kg – 100 kg",
+      "zh": "80公斤 -- -- 100公斤"
+    },
+    "85.000 đồng/kg": {
+      "en": "85,000 copper/kg",
+      "zh": "85,000铜/千克"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn có nhu cầu vận chuyển hàng trong nước sang Thái Lan? Vậy": {
+      "en": "Do you need to transport goods in the country to Thailand? Then",
+      "zh": "需要在国内运送货物到泰国吗? 礛"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá trên chỉ mang tính chất tham khảo. Tùy theo từng thời điểm, mặt hàng vận chuyển và đơn vị vận chuyển khác nhau mà mức giá sẽ có sự chênh lệch ít nhiều. Đối với hàng hóa cồng kềnh, đa phần các đơn hàng sẽ tính theo kiện nên mức chi phí vận chuyển có thể cao hơn.": {
+      "en": "The price sheet above is merely reference. Depending on the timing, transportation and transportation units vary that the price will have a slight difference. For the goods of Melanthius, the majority of the order will be in lawsuits so the cost of transportation may be higher.",
+      "zh": "上述价格单只是参考。 运输和运输单位因时间不同而不同,价格略有相差. 对于梅兰修斯的货品,订单的大部分会被提起诉讼,因此运输成本可能更高."
+    },
+    "Bảo hiểm hàng hóa khi vận chuyển hàng Thái Lan – Việt Nam như thế nào?": {
+      "en": "Stock Insurance on Thai freight – What was Vietnam like?",
+      "zh": "泰国货运的股票保险 — — 越南是什么样子的?"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chú ý chọn đơn vị vận chuyển uy tín": {
+      "en": "Note Selecting trusted transport unit",
+      "zh": "选择可信任的运输单位"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các loại thực phẩm không rõ nguồn gốc…": {
+      "en": "The type of food unknown source...",
+      "zh": "食物种类不明的来源..."
+    },
+    "Các loại đồ chơi nhạy cảm ảnh hưởng đến sự phát triển của trẻ nhỏ": {
+      "en": "Sensitive toys affect the development of small children",
+      "zh": "影响幼儿发展的敏感玩具"
+    },
+    "Các mặt hàng cấm vận chuyển Thái Lan – Việt Nam là gì?": {
+      "en": "What's Thai Transport – Vietnam?",
+      "zh": "泰国交通是什么 – 越南?"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Cân nặng hàng hóa": {
+      "en": "Weighed the goods",
+      "zh": "送货"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Dù vận chuyển bằng bất kỳ hình thức nào thì hàng hóa luôn tồn tại một số rủi ro như bễ vỡ hay mất hàng do một số lý do ngoài ý muốn. Tuy rằng phần trăm rủi ro cực kỳ thấp nhưng cũng là vấn đề khiến khách hàng quan tâm.": {
+      "en": "Whatever the form of transportation the goods always have some risks such as breaking or losing the merchandise for some unintended reasons. Although the risk percentage is extremely low, it's also a matter of concern to customers.",
+      "zh": "无论运输的形式如何,货物总是有一些风险,例如由于一些出乎意料的原因,货物被拆散或丢失。 虽然风险百分率极低,但也引起客户的关注."
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá vận chuyển": {
+      "en": "Transport price",
+      "zh": "运输价格"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhạy cảm như đồ chơi tình dục, bạo lực, thuốc trị bệnh, thuốc giảm cân…": {
+      "en": "Sensitive goods like sex toys, violence, medication, weight loss...",
+      "zh": "敏感物品,如性玩具,暴力,药物,减肥..."
+    },
+    "Hàng súng đạn, vũ khí, thuốc phiện…": {
+      "en": "Bullets, weapons, drugs...",
+      "zh": "子弹、武器、毒品..."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Mỗi doanh nghiệp cung cấp dịch vụ vận chuyển hàng hóa trong và ngoài nước sẽ có chế độ bảo hiểm hàng hóa khác nhau. Vì vậy, trước khi tiến hành ký hợp đồng bạn nên tìm hiểu kỹ vấn đề bảo hiểm hàng hóa của doanh nghiệp. Đa phần các công ty này sẽ đền bù phí vận chuyển và chia sẻ một phần thiệt hại về hàng hóa cho quý khách hàng trong trường hợp khách không mua bảo hiểm hàng hóa.": {
+      "en": "Each business that provides transportation services within and abroad will have different cargo insurance modes. So, before you go ahead and sign a contract, you should get to the bottom of business insurance. Most of these companies will compensate for transportation fees and share some of the damage to the customers in case the customers don't buy the cargo insurance.",
+      "zh": "每个在国内外提供运输服务的企业将采用不同的货物保险模式。 因此,在您签署合同之前,您应当找到商业保险的底部. 这些公司大多会赔偿运输费,并向客户分担部分损失,以防客户买不到货物保险."
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một mẹo nhỏ dành cho bạn là nên đến trực tiếp tận trụ sở của công ty để quan sát và lắng nghe nhân viên tư vấn. Hãy tham khảo dịch vụ chăm sóc khách hàng, chế độ hậu mãi, bảo hành hàng hóa của họ trước khi quyết định. Chú ý đọc những đánh giá trước đó của các khách hàng từng sử dụng dịch vụ để có cái nhìn khách quan nhất về đơn vị cung cấp dịch vụ này.": {
+      "en": "A small tip for you is to go directly to the company's headquarters to observe and listen to the counselor. Consult the customer care service, the posthumous regime, maintaining their goods before deciding. Note read the previous ratings by customers who used services to get the most objective view of this service unit.",
+      "zh": "对你来说一个小小提示 就是直接去公司总部 观察和听取顾问的意见 咨询客户护理服务,即事后制度,在作出决定之前维护其货物。 注读取先前使用服务以获得该服务单位最客观观点的客户的评级."
+    },
+    "Một số mặt hàng cần cân nhắc khi vận chuyển hàng hóa như:": {
+      "en": "Some of the goods need to be considered when transporting goods such as:",
+      "zh": "一些货物在运输货物时需要加以考虑,例如:"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phí vận chuyển hàng đi Thái Lan bằng được bộ luôn cập nhật và có nhiều sự thay đổi theo từng ngày. Nhìn chung, nếu mặt hàng bạn muốn vận chuyển thuộc sản phẩm thông thường như giày dép, mũ nón hay phụ kiện trang trí có thể tham khảo bảng giá dưới đây:": {
+      "en": "The cost of shipping the cargo to Thailand is always updated and many change in days. In general, if the goods you want to transport are common products such as shoes, caps, or decorations may refer to the following prices:",
+      "zh": "将货物运往泰国的费用总是更新的,而且几天内有许多变化。 一般来说,如果你想运输的商品是普通产品,如鞋,帽,或装饰品,可以指以下价格:"
+    },
+    "Quy trình vận chuyển hàng hóa Thái Lan – Việt Nam": {
+      "en": "Thai Transportation Course – Vietnam",
+      "zh": "泰国运输课程-越南"
+    },
+    "Quý khách hàng sẽ được hỗ trợ làm việc với hải quan, cửa khẩu và đóng thuế khi làm việc với công ty vận chuyển chuyên nghiệp. Vì vậy, đa phần bạn không cần quá bận tâm về vấn đề này vì mức giá vận chuyển trong bảng giá được cung cấp là giá trọn gói. Tức là bạn chỉ cần trả số tiền ứng theo số cân của hàng hóa là xong.": {
+      "en": "The customers will be assisted to work with customs, ports, and taxes when working with the professional transportation company. So most of the time you don't have to be too preoccupied with this because the price of the shipping price in the table is a package-wide price. So all you have to do is pay the money by weight of the goods.",
+      "zh": "在与专业运输公司合作时,将协助客户与海关、港口和税务部门合作。 所以大多数时候你不必太忙于这件事 因为表格中的运价价格是包价。 所以,你只需要支付 钱的重量商品。"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thủ tục khi vận chuyển hàng hóa bằng đường bộ": {
+      "en": "The procedure when transporting goods by land",
+      "zh": "陆运货物的程序"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong trường hợp bạn mua bảo hiểm hàng hóa, thường bằng mức phí khoảng 5% giá trị đơn hàng thì các doanh nghiệp sẽ đảm bảo bồi hoàn 100% giá trị đơn hàng cho quý khách nếu chẳng may xảy ra tình trạng mất hàng trong quá trình vận chuyển.": {
+      "en": "In the event that you're buying goods insurance, usually at a cost of about 5% of the singles, businesses will make sure 100% of the application value is paid to the guests if there's an unfortunate loss in the delivery process.",
+      "zh": "在购买商品保险时,通常花费约5%的单曲,如果送货过程中出现不幸损失,企业会确保100%的应用价值支付给客人."
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những thông tin về dịch vụ": {
+      "en": "Above are service information",
+      "zh": "以上是服务信息"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy theo bạn chọn đơn vị vận chuyển hàng hóa và loại dịch vụ mà thời gian vận chuyển sẽ khác nhau. Thông thường, để vận chuyển hàng hóa từ Việt Nam đến Thái Lan nhanh sẽ mất khoảng 4 đến 5 ngày và chậm có thể từ 7 ngày đến 2 tuần tùy thời điểm. Sự khác biệt về thời gian nhận hàng nhanh hay chậm giữa hai dịch vụ vận chuyển không chỉ ở thời gian mà có thể ảnh hưởng đến cả chất lượng hàng hóa. Vì vậy, bạn cần cân nhắc kỹ trước khi lựa chọn.": {
+      "en": "It's up to you to choose the freight unit and the kind of services that time transportation will vary. Usually, to transport goods from Vietnam to Thailand quickly would take about 4 to 5 days and slow can take from 7 days to 2 weeks at a time. The difference in how fast or slow the delivery time is between the two transport services can affect both the quality of the goods. Therefore, you need to consider carefully before choosing.",
+      "zh": "由你来选择货运单位和时间运输会不同的服务类型. 通常,从越南向泰国快速运送货物需要约4至5天的时间,而慢的速度每次需要7天到2周的时间. 两种运输服务在交付时间方面有多快或慢的不同,会影响到货物的质量。 因此,在选择之前,你需要仔细考虑。"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa Thái Lan – Việt Nam bằng đường bộ mất bao lâu?": {
+      "en": "Thai freight – Vietnam by foot?",
+      "zh": "泰国货运 – 越南步行?"
+    },
+    "Vận chuyển hàng hóa bằng đường bộ": {
+      "en": "Transportation by route",
+      "zh": "路线运输"
+    },
+    "Vận chuyển hàng hóa trong nước ra nước ngoài chi phí phụ thuộc vào nhiều yếu tố. Cách tốt nhất giúp bạn tiết kiệm thời gian và chi phí vận chuyển cũng như đảm bảo an toàn cho hàng hóa là chọn đơn vị vận chuyển chuyên nghiệp. Ngoài ra, bạn nên tìm hiểu nhiều công ty cung cấp dịch vụ này để so sánh chọn ra một đơn vị có giá thành cạnh tranh nhưng vẫn đảm bảo chất lượng.": {
+      "en": "Transporting domestic goods overseas costs depend on many factors. The best way for you to save time and transportation costs as well as safety for goods is to select professional transport units. In addition, you should learn about many companies that provide this service to compare to selecting a unit that has a price to compete with but still guarantee quality.",
+      "zh": "国内货物的海外运输费用取决于许多因素。 节省时间和运输费用以及货物安全的最好办法是选择专业运输单位。 此外,您应该了解许多提供这种服务的公司,以便比较选择一个有价格与之竞争但仍能保证质量的单位。"
+    },
+    "Vận chuyển hàng đi Thái Lan bằng đường bộ": {
+      "en": "Transportation to Thailand by land",
+      "zh": "陆运到泰国"
+    },
+    "Vận chuyển hàng đi Thái Lan bằng đường bộ giá rẻ": {
+      "en": "Transport to Thailand via cheap road",
+      "zh": "通过廉价公路前往泰国"
+    },
+    "Vận chuyển hàng đi Thái Lan bằng đường bộ như thế nào?": {
+      "en": "How did the shipment travel to Thailand?",
+      "zh": "这批货物是如何运往泰国的?"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xe tải chở hàng": {
+      "en": "Transportation Truck",
+      "zh": "运输卡车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "như thế nào? Hãy cùng Vận Tải Lưu Lê tìm hiểu trong bài viết này bạn nhé.": {
+      "en": "How? Let's find out about this article.",
+      "zh": "怎么会? 查查这篇文章."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng đi Thái Lan bằng đường bộ": {
+      "en": "freight to Thailand by land",
+      "zh": "陆运至泰国"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để biết rõ hơn chi phí gửi hàng với cân nặng hàng hóa trên 500kg và những mặt hàng khó vận chuyển như phụ kiện oto, thực phẩm, mỹ phẩm… vui lòng liên hệ trực tiếp đến đơn vị cung cấp dịch vụ vận chuyển để được tư vấn chính xác về giá và chính sách vận chuyển.": {
+      "en": "To better know the cost of sending goods with weight on 500 kilograms and hard-to-transmission goods such as 0-6 accessories, foods, cosmetics... please contact the delivery unit directly to be properly advised about prices and transportation policies.",
+      "zh": "要更好地了解500公斤重和0—6配件,食品,化妆品等难运商品的发送成本. 请直接联系送货单位,了解价格和运输政策."
+    },
+    "Để biết rõ hơn về các mặt hàng cấm trong vận chuyển hàng hóa Thái Lan – Việt Nam bạn có thể liên hệ các đơn vị vận chuyển.": {
+      "en": "To learn more about the prohibited goods in Thai goods – Vietnam you can contact transport units.",
+      "zh": "欲了解更多泰国商品中的违禁品,"
+    },
+    "Đối với những khách hàng chưa có kinh nghiệm về vận chuyển hàng hóa sang Thái Lan sẽ có rất nhiều câu hỏi về vấn đề thời gian, chi phí vận chuyển, thủ tục, thuế hay những quy định về hàng hóa. Trong giới hạn bài viết này, chúng tôi xin giới thiệu về những câu hỏi thường gặp trong quá trình vận chuyển như sau:": {
+      "en": "For uninhabited customers to transport goods to Thailand there will be many questions about time, transportation costs, procedures, taxes, or regulations of goods. In the limit of this article, we'd like to introduce questions that are common during the transport process as follows:",
+      "zh": "对于无人居住的客户将货物运往泰国,将会出现许多关于时间、运输费用、程序、税收或货物条例的问题。 在本条的限制下,我们提出运输过程中常见的问题如下:"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

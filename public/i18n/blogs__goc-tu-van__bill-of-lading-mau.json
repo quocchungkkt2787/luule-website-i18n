@@ -1,0 +1,842 @@
+{
+  "route": "/blogs/goc-tu-van/bill-of-lading-mau",
+  "texts": {
+    "25 Tháng 8 2021": {
+      "en": "25 August 2021",
+      "zh": "2021年8月25日 (中文(简体) )."
+    },
+    ">>> Xem ngay:": {
+      "en": "> DHS View Now:",
+      "zh": "现在 > DHS 视图 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Bill Type: Loại bill chủ hàng muốn lấy": {
+      "en": "Bill Type: The kind the owner wants to get",
+      "zh": "Bill 类型: 业主想要得到的那种"
+    },
+    "Bill of lading mẫu": {
+      "en": "Bill of the template",
+      "zh": "模板单"
+    },
+    "Bill of lading mẫu là gì và chức năng trong vận tải hàng hoá": {
+      "en": "Bill of the template and function in freight",
+      "zh": "模板单和货运功能"
+    },
+    "Booking no: Số booking trên giấy tờ lệnh giao một container rỗng chở hàng": {
+      "en": "Booking no: Number of booksing on paper delivered an empty shipping container",
+      "zh": "订书号: 纸上订书数量:交付了空集装箱"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Consignee: Thông tin người nhận hàng, tuỳ thuộc vào mục đích của bill mà có những thông tin cần kê khai khác nhau. Cơ bản là thông tin cá nhân và liên lạc của họ.": {
+      "en": "Codleee: The receiver information, depending on the purpose of the bill which has different information to list. Basically their personal information and contact.",
+      "zh": "Codlee:接收者信息,取决于需要列出不同信息的法案的目的。 基本上他们的个人信息和联系方式。"
+    },
+    "Container No/ Seal No: Số container/ số seal, ghi tổng số container số seal chở hàng": {
+      "en": "Container No/ Seal No: Number of container/ number seal, record total container number seal carriers",
+      "zh": "集装箱编号/封号:集装箱编号/封号,记录集装箱号封号承运人总数"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có thể được sử dụng làm giấy tờ mua bán, chuyển nhượng": {
+      "en": "Can be used as purchase papers, transfers",
+      "zh": "可用作购买文件、转让"
+    },
+    "Có tính pháp lý khi điều chỉnh vai trò người chở hàng, xếp hàng và nhận hàng": {
+      "en": "Legally adjust the role of the carrier, line up and pick up the line",
+      "zh": "依法调整航母作用,排好队接线."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Căn cứ kê khai hàng hóa với hải quan": {
+      "en": "The base of the cargo manifest with customs",
+      "zh": "海关货物清单的基础"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Description of Goods: Mô tả sơ bộ về loại hàng hóa, chất lượng, số lượng...": {
+      "en": "Description of Goods: Preliminary description of goods, quality, quantity...",
+      "zh": "货物说明:货物的初步说明,质量,数量."
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận tải hàng hóa đường biển": {
+      "en": "Marine Transport Service",
+      "zh": "海运处"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "Freight Collect/Freight Prepaid: hình thức trả phí vận chuyển, đầu gửi hàng hay nhận hàng trả": {
+      "en": "Freight Collect/Freight Prepatid: The form of shipping fees, surrendering or receiving payments",
+      "zh": "运费收取/运费预分配:运费、上缴或收款的形式"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước vận chuyển hàng hóa": {
+      "en": "Transportation rate",
+      "zh": "运输费率"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hiểu về vận đơn đường biển - bill of lading": {
+      "en": "Understanding Sea Line Singles - bill of lading",
+      "zh": "了解海线单 -- -- 提单"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một bill of lading mẫu cần những thông tin gì?": {
+      "en": "What kind of information is needed by a sample?",
+      "zh": "样本需要何种信息?"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những thông tin cần thiết được thể hiện trong một bill of lading mẫu sẽ hỗ trợ cho quá trình vận chuyển, thông quan hàng hoá rất nhiều. Ngoài ra nó còn có giá trị trao đổi mua bán, nếu bill là bill gốc.": {
+      "en": "The information needed is expressed in a bill of lading sample that will support the transport process, very much mediating. Also, it's worth trading, if bill is the original bill.",
+      "zh": "所需要的信息用提单样本来表示,该样品将支持运输过程,而且非常具有调解性。 而且,它值得交易,如果账单是原始账单."
+    },
+    "Notify Party: Bên được thông báo, là bên sẽ được hãng tàu gửi thông báo khi hàng cập cảng nhận.": {
+      "en": "Notify Party: The party is announced, that the party will be informed by the ship's company when the cargo arrives.",
+      "zh": "通知方:通知方,货物运抵时由船方公司通知方."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Port of Delivery: Cảng đến, cảng đích sẽ gửi hàng hoá tới": {
+      "en": "Port of Tollier: Port to, destination port will send cargo",
+      "zh": "托利埃港:前往港口,目的地港口将发送货物"
+    },
+    "Port of Discharge: Tên cảng dỡ hàng": {
+      "en": "Port of Discharge: Port name unloading",
+      "zh": "卸货港:卸货港名"
+    },
+    "Port of Loading: Tên cảng bốc hàng": {
+      "en": "Port of Loading: Port name of the dock",
+      "zh": "加载港:码头的港口名称"
+    },
+    "Remark: Những thông tin cần thêm không thuộc các mục trên": {
+      "en": "Remark: The information to add does not belong to the above items",
+      "zh": "说明:要添加的信息不属于上述项目"
+    },
+    "Shipper : Thông tin người gửi hàng, đơn vị nhận thực hiện vận chuyển hàng hoá cho chủ hàng. Thông tin càng chi tiết càng có căn cứ làm việc.": {
+      "en": "Shipper: The sender information, the receiver unit performs freight to the owner. The more detailed the information, the more working bases.",
+      "zh": "托运人:发件人信息,接收单位向货主进行货运. 资料越详细,工作基础就越多."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong các giao dịch ngoại thương, bill of lading mẫu có nhiều thông tin cần thiết để khi cho ra vận đơn thực tế có đầy đủ thông tin, sẽ được sử dụng với các chức năng:": {
+      "en": "In foreign trades, bill of sample lading has a lot of information that will be needed to when given the actual menu having sufficient information, will be used with functions:",
+      "zh": "在对外贸易中,样品提单有许多信息,如果实际菜单有足够的信息,则需要这些信息。"
+    },
+    "Trong vận tải hàng hoá nói chung và vận tải đường biển xuyên quốc gia cần rất nhiều giấy tờ, chứng từ phức tạp, vì thế mà các đơn vị vận tải như Lưu Lê với kinh nghiệm và chuyên môn vận tải ra đời để hỗ trợ các đơn vị. Truy cập vào website": {
+      "en": "In general freight and transnational seaway transport requires a lot of papers, certificates from complexities, so transport units such as Liu with experience and specialization are born to support units. Accessed website",
+      "zh": "一般来说,货运和跨国海路运输需要大量纸张,来自复杂程度的证书,因此,有经验和专业化的刘等运输单位诞生于辅助单位. 访问网站"
+    },
+    "Trong vận tải đường biển thường nghe tới rất nhiều loại chứng từ cần thiết, trong số đó vận đơn đường biển là một loại chứng từ vô cùng quan trọng. Vận đơn đường biển do người chuyển chở hàng hoá hay đại lý hãng tàu ký xác nhận giao dịch vận chuyển hàng hóa, giấy tờ này chủ hàng giữ một bản sau khi tàu rời bến. Dưới đây là một số thông tin cần thiết, một bill of lading mẫu để bạn tham khảo, đồng thời bạn sẽ hiểu hơn về tầm quan trọng của loại giấy tờ này.": {
+      "en": "In the shipping line often hears of numerous types of evidence from the need, of which the sea line is a type of evidence from extremely important. The shipping application was signed by the carrier or ship agent who confirmed the freight transaction, which the owner held a copy after the ship left the dock. Here are some of the necessary information, a bill of samples for you to reference, and at the same time you will understand the importance of this type of paper.",
+      "zh": "在航运线中,经常听到来自需要的多种类型的证据,其中海线是极其重要的证据类型. 运输申请由确认货运交易的承运人或者船舶代理人签字,货主在船舶离开码头后持有副本. 下面是一些必要的信息,一份供你们参考的样本单,同时你们会明白这种纸的重要性."
+    },
+    "Trong vận đơn có cam kết, thỏa thuận về địa điểm giao nhận, thời gian vận chuyển, phương tiện vận chuyển, chất lượng số lượng hàng hóa đảm bảo cùng các thỏa thuận khác. Trên các bill of lading mẫu khác nhau sẽ có thêm các phần thông tin bổ sung cần thiết khác tuỳ thỏa thuận hai bên. Đây là bằng chứng quan trọng về giao dịch hàng hoá, được xem như một hợp đồng thoả thuận chuyên chở hàng hoá giữa các bên.": {
+      "en": "In the singles there is a commitment, the agreement for the destination of the delivery, the time of transportation, transportation, the quality of the amount of goods guaranteed along with the other deals. On different bills of lading samples will have additional additional information sections needed according to a bilateral agreement. This is important evidence of the freight transaction, which is considered a freight deal between parties.",
+      "zh": "单项合同有承诺、交货目的地协议、运输时间、运输、与其他交易一起保证的货物质量。 关于不同的提单样品,将根据双边协定,增加其他资料。 这是货物交易的重要证据,这被认为是当事方之间的货运交易。"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tác dụng của vận đơn": {
+      "en": "The Effect of Singles",
+      "zh": "单身的影响"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Vessel/ Flight No : số hiệu chuyến tàu hay tên tàu": {
+      "en": "Vessel/ Flight No: Train number or name",
+      "zh": "船/航班编号:列车编号或名称"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận đơn cũng được xem giá trị như một hợp đồng vận chuyển. Nếu trường hợp cần thuê tàu thì người vận chuyển hàng hoá và chủ hàng sẽ ký kết hợp đồng, trường hợp thuê tàu chợ không có hợp đồng thì cần giấy xác nhận lưu cước có chữ ký của hai bên. Khi hàng hoá đã được đưa lên tàu để vận chuyển thì cấp vận đơn và hai bên bắt đầu chịu trách nhiệm riêng của mình.": {
+      "en": "The single was also valued as a transport contract. If a ship was to be leased, the freightman and the owner would sign a contract, if the market boat was to be rented without a contract, they would require a certificate of identification with the signature of both sides. When the cargo was loaded for transport, the singles and sides began to take responsibility for themselves.",
+      "zh": "该单曲也被视作运输合同。 如果租船,货运员和船主将签署合同,如果租市船没有合同,则需要双方签字的身份证件。 货物装载运输时,单人和双方开始为自己负责."
+    },
+    "Vận đơn là giấy tờ có giá trị thanh toán, giá trị định đoạt tại ngân hàng, chứng minh quyền sở hữu một lô hàng hoá đã được vận chuyển.": {
+      "en": "The form is paper of payment, the set value at the bank, proving ownership of a shipment of goods that has been transported.",
+      "zh": "表格是付款凭证、银行的固定价值,证明已运输货物的所有权。"
+    },
+    "Vận đơn đường biển hay Bill of lading là một loại chứng từ xác nhận chuyên chở hàng hóa bằng đường biển. Giấy tờ này do người nhận vận chuyển hàng hoá lập ra, có chữ ký giữa các bên và cấp lại cho người chủ hàng hoá gửi hàng để xác nhận bên vận chuyển đã nhận một số hàng nhất định với nhiệm vụ vận chuyển nó từ địa điểm này qua địa điểm khác cụ thể, bằng đường biển.": {
+      "en": "The seaway or Bill of lading is a type of evidence from sea freight transmission. The papers were issued by the receiver of the cargo, which had a signature between the parties and remanded the owner of the cargo to confirm that the shipping party had received certain shipments with the task of transporting it from one location to another, by sea.",
+      "zh": "海运或提单是海运的证据。 这些文件由货物接收人签发,由双方签署,并发还货物所有人,确认运输方已收到某些货物,任务是从一个地点通过海上运输到另一个地点。"
+    },
+    "Vận đơn đường biển nhìn chung sẽ đảm nhiệm 3 chức năng chính:": {
+      "en": "The overall seaway single will take on three main functions:",
+      "zh": "整个海路单曲将承担三个主要功能:"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "Xác nhận giao dịch thoả thuận vận chuyển, xác nhận người chở hàng đã nhận vận chuyển một số lượng hàng hoá theo thông tin đầy đủ được trình bày trên bill. Trên một bill of lading mẫu thường có thông tin về thời gian địa điểm ký nhận, số lượng, khối lượng, chủng loại hàng hoá, thời gian và địa điểm giao nhận, thông tin bên chủ hàng và bên nhận chuyên chở, số container…": {
+      "en": "Confirming the delivery deal, confirming that the carrier received a load of goods according to full information presented on bill. On a bell of sample, there is usually information about where the signing time, numbers, mass, categories of goods, times and destinations of receiving, information on the owner's and carrying side, number of container...",
+      "zh": "确认交货交易,确认承运人根据账单上提供的全部信息收到货物。 在一组样本中,通常有关于签名时间,数量,质量,货物类别,接收时间和目的地的信息,关于所有人和携带方,集装箱数量的信息."
+    },
+    "Xác nhận số lượng, khối lượng, chủng loại hàng hoá và đó là căn cứ để đóng thuế xuất nhập khẩu": {
+      "en": "Confirmed the amount, mass, category of goods and that's the base to pay import import export taxes",
+      "zh": "确认数量,质量,商品类别,这是支付进口进口出口税的依据."
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Lưu Lê để cập nhật thông tin, tham khảo dịch vụ của chúng tôi bạn nhé.": {
+      "en": "Liu's for updates, refer to our services.",
+      "zh": "刘氏为更新,参见我们的服务."
+    },
+    "uy tín - giá rẻ - nhanh chóng!": {
+      "en": "Equality - Quick!",
+      "zh": "平等 - 快点!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để một bill of lading có giá trị và phát huy hết công dụng của nó thì cần kê khai nhiều thông tin, cụ thể sẽ gồm có:": {
+      "en": "For a bill of merit and the development of its uses, it needs to be well-informed, namely included:",
+      "zh": "一项功绩单及其用途的发展需要充分了解情况,即:"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Chức năng của các vận đơn đường biển": {
+      "en": "The function of sea-way motors",
+      "zh": "海道发动机的功能"
+    },
+    "► Vận đơn đường biển là gì?": {
+      "en": "What's a seaway single?",
+      "zh": "什么是海道单曲?"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

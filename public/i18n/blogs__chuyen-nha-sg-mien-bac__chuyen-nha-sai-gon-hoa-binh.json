@@ -1,0 +1,802 @@
+{
+  "route": "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-hoa-binh",
+  "texts": {
+    "- Bạn có thể liên hệ với đơn vị chuyển nhà uy tín, chuyên nghiệp, cung cấp dịch vụ chuyển nhà Sài Gòn – Hòa Bình cho các gia đình, doanh nghiệp hiện nay có đơn vị chuyển nhà của Vận Tải Lưu Lê, chúng tôi sẽ phục vụ quý khách hàng chu đáo và tận tâm nhất. Với thái độ chăm chỉ làm việc, cùng đội ngũ nhân sự dày dặn kinh nghiệm Vận Tải Lưu Lê luôn bảo đảm chất lượng dịch vụ chuyển nhà được thực hiện và hoàn thành một cách tốt nhất, không phụ lòng tin của khách hàng.": {
+      "en": "- You can contact the prestigious, professional move unit, provide Saigon's move service – Peace for families, business now has the moving unit of Liu Transport, we will serve you with the most thoughtful and conscientious customers. With a hard-working attitude, the team of experienced personnel told Liu Liu Liu to always ensure the quality of the move service to be done and accomplished best, without losing the trust of the customer.",
+      "zh": "你可以联系著名的职业移动单位,提供西贡的移动服务 —— 家庭和平,企业现在拥有刘运的移动单位,我们将为您服务,提供最周到和最认真的顾客. 经验丰富的人员团队以勤奋的态度,告诉刘刘始终确保所要完成的搬迁服务的质量并取得最佳成绩,而不会失去客户的信任."
+    },
+    "- Bạn nên chắc chắn rằng nhà mới chuyển đến tại Hòa Bình đã hoàn thành mọi thủ tục pháp lý, bởi nếu nhà mới việc thuê hay mua nhà gặp trục trặc, hàng hóa khi chuyển sẽ phải lưu kho tại đơn vị vận chuyển.": {
+      "en": "- You should make sure that the new residence in Peace has completed all legal procedures, because if the new house rents or buys the house goes wrong, the goods will be stored at the transport unit.",
+      "zh": "- 你应该确保和平新住宅已完成所有法律程序,因为如果新住宅出租或购买房屋出错,货物将存放在运输单位。"
+    },
+    "- Bạn nên tự lên danh sách vật dụng, hàng hóa, đồ đạc cần chuyển đi gồm những gì. Hãy lên chi tiết danh sách, số lượng, trong lượng bởi nó sẽ ảnh hưởng rất nhiều đến chi phí của việc vận chuyển nhà đường dài.": {
+      "en": "- You should make your own list of items, goods, things to move out of. Let's go up to detail the list, the number, in the amount because it will have a huge impact on the cost of long-distance transport.",
+      "zh": "-你应该自己列出要搬走的物品、物品和物品清单 我们再详细列出清单,数字, 因为它会对长途运输成本产生巨大影响。"
+    },
+    "- Hãy thanh lý, bỏ lại những vật dụng không cần thiết để tiết kiệm chi phí và công sức vận chuyển.": {
+      "en": "- Be reasonable, leave unnecessary items to save costs and transportation.",
+      "zh": "- 合理,留下不必要的物品来节省费用和运输。"
+    },
+    ". Nhưng để di chuyển đồ đạc di chuyển quãng đường với dài như thế tốn khá nhiều thời gian và công sức. Vậy lựa chọn một đơn vị vận chuyển uy tín sẽ là một giải pháp tối ưu cho bạn.": {
+      "en": "Yeah. But to move things moved the distance with such lengths took considerable time and effort. So choosing a prestigious transportation unit would be an optimum solution for you.",
+      "zh": "对 但是,要移动东西 移动距离如此长 需要相当的时间和精力。 所以选择一个有声望的运输单位 对你来说是最好的解决方案"
+    },
+    ". Quy trình dịch vụ chuyên nghiệp, cùng nhân sự kinh nghiệm sẽ hỗ trợ khách hàng chuyển nhà một cách an toàn, nhanh chóng. Hãy liên hệ ngay với chúng tôi tại": {
+      "en": "Yeah. The professional service process, along with experienced personnel, will provide safe, quick move to customers. Contact us immediately at the",
+      "zh": "对 专业服务程序将同有经验的人员一道为客户提供安全、快速的移动。 立即联系我们"
+    },
+    "23 Tháng 5 2022": {
+      "en": "23 May 2022",
+      "zh": "2022年5月23日 (中文(简体) )."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Tiếp nhận các thông tin yêu cầu của khách hàng.": {
+      "en": "Step 1: Accept the customer's request information.",
+      "zh": "步骤1:接受客户的要求信息."
+    },
+    "Bước 2: Thực hiện khảo sát thực tế, báo giá chuyển nhà cho khách hàng.": {
+      "en": "Step 2: Performing Reality Survey, Announces Transportation Price to Clients.",
+      "zh": "步骤2:进行现实调查,向客户宣布运输价格。"
+    },
+    "Bước 3: Thực hiện ký kết hợp đồng chuyển nhà với khách hàng.": {
+      "en": "Step 3: Perform a move contract with the client.",
+      "zh": "第3步:与客户执行移动合同."
+    },
+    "Bước 4: Tiến hành kiểm kê tài sản trước vận chuyển, sau đó chuyển đồ đạc hàng hóa.": {
+      "en": "Step 4: Proceed with pre-transporting property inventory, then moving items.",
+      "zh": "步骤4:开始运输前财产盘存,然后搬运物品。"
+    },
+    "Bước 5: Sau khi chuyển nhà xong, tiến hành kiểm kê tài sản và bàn giao, thanh lý hợp đồng với khách hàng.": {
+      "en": "Step 5: After the move is completed, the asset and handover inventory is conducted, the contracting process with the customer.",
+      "zh": "第5步:在搬迁完成后,进行资产和移交库存,与客户签订合同。"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Cam kết thủ tục hợp đồng rõ ràng: Với chính sách hợp đồng rõ ràng, chúng tôi cam kết đảm bảo quyền lợi cho khách hàng, nhất là đền bù thỏa đáng nếu xảy ra hỏng hóc, mất mát đồ đạc.": {
+      "en": "Commitment clear contract procedure: With clear contract policy, we are committed to secureing the rights of the customer, especially to compensate for the satisfaction if it breaks, the loss of the furniture.",
+      "zh": "承诺明确的合同程序:在明确的合同政策下,我们致力于保障客户的权利,特别是如果客户的满足破裂,家具的损失,则予以补偿。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí rõ ràng, cạnh tranh nhất thị trường: Chúng tôi luôn đặt yếu tố chi phí một cách công khai, vì thế mức chi phí cho từng hạng mục vận chuyển đều được niêm yết giá rõ ràng. Nhân viên chúng tôi sẽ báo giá một cách chi tiết, minh bạch đảm bảo không phụ phí. Bởi luôn có một nguồn khách ổn định, mức giá dịch vụ chuyển nhà tại đây luôn cạnh tranh nhất thị trường. Cùng với đó chúng tôi có các thiết bị công nghệ hiện đại để chuyển nhà, giúp giảm bớt nhân công, từ đó tối ưu chi phí chuyển nhà.": {
+      "en": "The obvious cost, the most competitive market: We always put the cost factor in public, so the cost of each of the shipping categories is clearly sealed. Our staff will tell you the price in detail, clear guarantees no charge. Because there is always a stable source, the price of moving services here is always the most competitive market. Along with that we have modern technology equipment to move home, which helps reduce workers, from which to optimize housing costs.",
+      "zh": "显而易见的成本,最有竞争力的市场: 我们总是将成本因素公之于众,因此每个航运类别的成本都明确密封. 我们的工作人员会详细告诉你价格, 明确的保证不收费。 由于总有一个稳定的来源,将服务搬到这里的价格总是最具竞争力的市场. 与此同时,我们有现代技术设备可以搬家,这有助于减少工人,从而优化住房成本。"
+    },
+    "Chia sẻ kinh nghiêm chuyển nhà Sài Gòn – Hòa Bình": {
+      "en": "Share the severe passage of Saigon – Peace",
+      "zh": "分享西贡的严酷通道-和平"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn - Bắc Kạn uy tín số #1": {
+      "en": "Move Saigon - No. No. 1",
+      "zh": "移动西贡 - 第1号"
+    },
+    "Chuyển nhà Sài Gòn Hòa Bình": {
+      "en": "Move to Saigon Peace",
+      "zh": "移至西贡和平"
+    },
+    "Chuyển nhà Sài Gòn Miền Bắc": {
+      "en": "Move North Saigon",
+      "zh": "移动北西贡"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chúng tôi sẵn sàng phục vụ 24/24 kể cả ngày lễ, tiếp nhận mọi đơn hàng bất kể thời tiết, bất kế khối lượng đồ đạc nhiều hay ít.": {
+      "en": "We were willing to serve 24 hours, including holidays, taking all the orders regardless of the weather, regardless of how much or how little the mass was.",
+      "zh": "我们愿意服务24小时,包括节日, 接受所有命令,不管天气如何, 不管质量有多高或有多低。"
+    },
+    "Chúng tôi với hơn 10 năm hoạt động trong lĩnh vực vận tải, sẽ đảm bảo mang đến những dịch vụ tốt nhất tới với khách hàng, bởi:": {
+      "en": "We with more than 10 years in transportation, will ensure bringing the best services to customers, by:",
+      "zh": "我们的运输时间已超过10年,将通过以下方式确保向客户提供最好的服务:"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hòa Bình là tỉnh miền núi phía Bắc, tiếp giáp với Thủ đô Hà Nội. Đây là khu vực cửa ngõ giao lưu giữa Tây Bắc với vùng đồng bằng châu thổ Sông Hồng. Tỉnh Hòa Bình có mạng lưới giao thông đường bộ khá tốt, rất thuận tiện cho việc phát triển kinh tế - xã hội.": {
+      "en": "Peace is the northern mountain province, which is bordered by the capital of Hanoi, which is the middle-west traffic gate with the Red River Delta. The province of Peace has a fairly good transit network, which is very convenient for economic - social development.",
+      "zh": "平定为北山行省,与河内府接壤,是中西部与红河三角洲接壤的交通要道. 和平省有一个相当好的过境网络,对经济和社会发展非常方便。"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Luôn phục vụ tận tâm, chu đáo: Chúng tôi luôn lấy sự hài lòng của khách hàng làm mục tiêu phấn đấu. Chúng tôi luôn nỗ lực làm việc nhiệt tình bằng tất cả thái độ thân thiện, bằng tâm để hỗ trợ khách hàng.": {
+      "en": "Always devoted, thoughtful service: We always make client satisfaction our goal. We always worked hard with all the friendly attitudes, with our hearts in support of our customers.",
+      "zh": "我们总是让客户满足我们的目标。 我们始终以所有友好的态度努力工作,以我们的心支持我们的顾客."
+    },
+    "Lựa chọn dịch vụ chuyển nhà Sài Gòn - Hòa Bình chất lượng": {
+      "en": "Select the Saigon move service - Quality Peace",
+      "zh": "选择西贡移动服务 - 质量和平"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngày nay nhu cầu chuyển nhà từ Sài Gòn đến Hòa Bình ngày một nhiều. Thế nhưng quãng đường di chuyển giữa hai nơi dài hơn 1.000km là thách thức lớn đối với các gia đình hay doanh nghiệp đang muốn chuyển nhà. Vì thế các đơn vị vận tải hỗ trợ dịch vụ chuyển nhà trọn gói ra đời đáp ứng nhu cầu của người dân.": {
+      "en": "Today the need for moving from Saigon to Peace is great. Yet the distance between the two is over 1,000 kilometres (1,000 km) long, which is a major challenge for families or businesses who want to move. So shipping units supported the delivery of the package house came out to meet the needs of the people.",
+      "zh": "今天,需要从西贡转向和平。 然而,两者之间的距离超过1 000公里(1 000公里),这对希望迁移的家庭或企业是一个重大挑战。 于是航运单位支持包裹屋的交付,以满足人民的需要."
+    },
+    "Nhu cầu chuyển nhà từ khu vực phía Nam về các tỉnh phía Bắc ngày một nhiều, có thể kế đến nhu cầu": {
+      "en": "The need for moving from the southern area to the northern provinces is a lot, maybe next to the demand.",
+      "zh": "从南部地区向北部省份迁移的必要性很大,也许与需求相邻."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình chuyển nhà tại Lưu Lê": {
+      "en": "The move process at Liu Liu",
+      "zh": "刘刘的搬迁过程"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thiếu kinh nghiệm để chuyển nhà một quãng đường xa như vậy, chắc chắn hàng hóa, tài sản của bạn sẽ có thể gặp nhiều vấn đề như hư hỏng, xây xác, mất mát. Vậy một vài gợi ý dưới đây chia sẻ kinh nghiệm nhằm giúp bạn chuẩn bị vững vàng khi có ý định chuyển nhà Sài Gòn – Hòa Bình": {
+      "en": "Lack of experience to move such a long distance, certainly goods, your property will be subject to problems such as damage, body construction, loss. So some of the following suggestions for sharing your experience are to help you prepare for moving Saigon – Peace",
+      "zh": "缺乏迁移这么长的距离的经验,当然是货物,你的财产会遇到损坏,身体构造,损失等问题. 因此,如下一些分享经验的建议是帮助你做好移动西贡的准备——和平"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại sao nên lựa chọn dịch vụ chuyển nhà của Vận tải Lưu Lê": {
+      "en": "Why choose Liu Li's move service",
+      "zh": "为什么选刘力的搬家服务"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê luôn đảm bảo vận chuyển nhà cho khách hàng nhanh chóng - an toàn - tiện lợi với quy trình 5 bước như sau:": {
+      "en": "Liu Transport always ensures quick transport for customers - safe - convenient with the 5-step process as follows:",
+      "zh": "刘运总能确保客户的快速运输——安全——方便的五步流程如下:"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê luôn sẵn sàng phục vụ quý khách hàng cho dịch vụ": {
+      "en": "Liu Li Transport is always available to serve you customers for services",
+      "zh": "刘力运输总能为客户服务"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chuyển nhà Sài Gòn - Hòa Bình": {
+      "en": "move Saigon - Peace",
+      "zh": "移动西贡 - 和平"
+    },
+    "chuyển nhà Sài Gòn – Hòa Bình": {
+      "en": "move Saigon – Peace",
+      "zh": "移动西贡-和平"
+    },
+    "hoặc hotline": {
+      "en": "or hotline",
+      "zh": "或热线"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về tỉnh Hòa Bình": {
+      "en": "Little bit of the province of Peace",
+      "zh": "一点点和平省"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đội ngũ nhân viên kinh nghiệm dày dặn: Toàn bộ đội ngũ nhân viên của Vận tải Lưu Lê đều đã có thâm niên lâu năm trong lĩnh vực chuyển nhà tại Sài Gòn đến các tỉnh thành. Từ các tư vấn viên, nhân viên đều đã được trải qua đào tạo nghiệp vụ bài bản để có thể tiến hành khảo sát, bốc xếp, đóng gói hàng hóa, lái xe tải chuyển nghiệp. Bảo đảm tìm ra phương án chuyển chuyển nhà tối ưu tốt nhất.": {
+      "en": "The team of experienced staff told: the entire staff of Liu Li Transport were long-timed in the field of moving home in Saigon to the provinces. From the consultants, the staff have all been through the master's training to be able to conduct surveys, sorting, packing, driving the career truck. Make sure you find the best move plan.",
+      "zh": "经验丰富的工作人员小组告诉:刘力交通的全体工作人员长期在西贡迁回各省的行地. 从顾问中,工作人员都经过了主人的培训,以便能够进行调查、分类、包装、驾驶职业卡车。 确保你找到最好的移动计划。"
+    },
+    "Đội xe tải hùng hậu: Chúng tôi có đội ngũ xe tải hùng hậu, đáp ứng nhu cầu chuyên chở hàng hóa, khối lượng hàng lớn cho quá trình chuyển nhà.": {
+      "en": "The big truck team: We have a large truck team, which meets the demand for freight, large volume for the move process.",
+      "zh": "大卡车团队: 我们有一个庞大的卡车团队,满足货运需求,大容量用于搬运过程."
+    },
+    "để được tư vấn và sử dụng dịch vụ chuyển nhà an toàn, tiết kiệm nhất.": {
+      "en": "To be advised and to use safe house transfer service, save the most.",
+      "zh": "被劝告并使用安全房屋转移服务,节约最多."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

@@ -1,0 +1,798 @@
+{
+  "route": "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-binh",
+  "texts": {
+    ". Hy vọng những điều này sẽ giúp quá trình chuyển hàng hóa của cá nhân hoặc doanh nghiệp bạn suôn sẻ nhất. Nếu còn bất cứ thắc mắc nào liên quan đến chuyển hàng tại KCN Tân Bình, hãy liên hệ vận tải Lưu Lê ngay để được tư vấn nha!": {
+      "en": "Yeah. Hopefully these will help the delivery of your own goods or your own business go the most smoothly. If you have any questions about shipping at the New CBS, contact Liu Li's transport immediately for consultation!",
+      "zh": "对 希望这些可以帮助你们自己运货或自己的生意顺利进行。 如果对新CBS的通航有任何疑问,请立即联系刘力的通航咨询!"
+    },
+    "11 Tháng 7 2022": {
+      "en": "11 July 2022",
+      "zh": "2022年7月11日 (英语)."
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Tiếp nhận nhu cầu của khách muốn gửi hàng Hà Nội - KCN Tân Bình.": {
+      "en": "Step 1: Accept the needs of guests who wish to send Hanoi-KN New Zealand cargo.",
+      "zh": "第1步:接受希望送出河内-KN新西兰货物的来宾的需求."
+    },
+    "Bước 2: Khảo sát thực tế hàng hóa ở kho tại địa điểm Hà Nội, sau đó báo giá dịch vụ phù hợp.": {
+      "en": "Step 2: Survey of real goods at the depot at the Hanoi site, then report the appropriate service price.",
+      "zh": "第2步:在河内站点的仓库对实际货物进行调查,然后报告适当的服务价格。"
+    },
+    "Bước 3: Tiến hành ký hợp đồng chuyển hàng từ Hà Nội vào KCN Tân Bình.": {
+      "en": "Step 3: Proceed with a transfer contract from Hanoi into the new NWC.",
+      "zh": "步骤3:着手签订从河内转到新的全国妇委会的合同。"
+    },
+    "Bước 4: Kiểm kê hàng hóa thật cẩn thận trước khi chuyển hàng, dọn đồ, khuân vác, sắp xếp và chuyển đầy đủ theo hợp đồng.": {
+      "en": "Step 4: Make sure that the inventory is very careful before the delivery, packing, carrying, arranging, and moving as a contract.",
+      "zh": "第4步:确保库存在交付、包装、携带、安排和作为合同移动之前非常谨慎。"
+    },
+    "Bước 5: Kiểm kê lại với người nhận ở KCN Tân Bình, nếu không có bất kỳ thắc mắc nào sẽ bàn giao và thanh toán đúng hợp đồng.": {
+      "en": "Step 5: Check with the receiver in KNC New Ping, without any question will hand over and pay on the contract.",
+      "zh": "第5步:与KNC新平的接收者核对,不问任何问题都会交出并支付合同."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí vận chuyển là tất cả chi phí của phương tiện chuyển hàng từ Hà Nội đến KCN Tân Bình.": {
+      "en": "Transportation costs are all the cost of transportation from Hanoi to the New CN.",
+      "zh": "运输费用是从河内到新CN的运输费用。"
+    },
+    "Chuyển hàng Hà Nội KCN Tân Bình": {
+      "en": "Transfer of Hanoi KNC New Ping",
+      "zh": "河内新平的转让"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các chi phí tháo dỡ, đóng gói, lắp ráp (nếu có) + các chi phí khuân vác, bốc xếp liên quan (nếu có) sẽ phụ thuộc vào khối lượng hàng hóa, số nhân công và máy móc sử dụng.": {
+      "en": "The cost of dismantled, packaged, mounted (if available) + the cost of carrying, related stacks (if any) will depend on mass of goods, number of workers and machines used.",
+      "zh": "拆卸、包装、安装(如果有的话)的费用+搬运费、相关堆栈(如果有的话)将取决于货物的质量、工人数量和所使用的机器。"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá chuyển hàng từ Hà Nội vào đến KCN Tân Bình = Các chi phí tháo dỡ, lắp ráp, đóng gói (nếu có) + các chi phí bốc xếp liên quan (nếu có) + chi phí vận chuyển.": {
+      "en": "The shipping price from Hanoi enters KNN New Ping = The cost of dismantled, assembled, packed (if available) + related stacking costs (if any) + transportation costs.",
+      "zh": "从河内运入KNN 新平 = 拆卸,组装,包装(如有) + 相关堆放费用(如有) + 运输费用."
+    },
+    "Giá cả vận chuyển ở Lưu Lê phải chăng và được đánh nhận xét là hợp lý nhất thị trường.": {
+      "en": "The cost of transportation in Liu was reasonable and was contested as the fairest market.",
+      "zh": "刘通的交通成本合理,被质疑为最公平市场."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội - KCN Tân Bình": {
+      "en": "Send Hanoi - New Zealand",
+      "zh": "送河内 - 新西兰"
+    },
+    "Gửi hàng Hà Nội KCN TpHCM": {
+      "en": "Send Hanoi Wavel KNC TpHCM",
+      "zh": "发送河内波尔 KNC TpHCM"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KCN Tân Bình được đầu tư xây dựng cơ sở hạ tầng hiện đại. Với hệ thống chiếu sáng công cộng, cống thoát nước mưa, thoát nước thải, hệ thống xử lý nước thải đều đã được hiện thiện. Tạo điều kiện thuận lợi cho các doanh nghiệp đầu tư và phát triển mạnh mẽ. Tên một số công ty nổi bật ở KCN Tân Bình như công ty TNHH Kim Cương Sài Gòn, công ty Cổ phần Việt Phong, công ty cổ phần bao bì Sài Gòn,...": {
+      "en": "KNN New Ping is invested in the construction of modern infrastructure. With the public lighting system, rain drainage drainage, waste drainage, wastewater processing systems have all been improved. Create conditions that are favorable to investment and thriving businesses. The names of several prominent companies in the New NNC as TNH Kim Gang Saigon, the Vietnamese share company, Saigon's circumcision company,...",
+      "zh": "KNN新平投资建设现代基础设施. 有了公共照明系统,雨水排出,废物排出,废水处理系统都得到了改进. 创造有利于投资和繁荣企业的条件。 新NNC的多家知名公司被命名为TNH Kim Gang Sigon,越南股份公司,西贡的割礼公司等. ."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khu công nghiệp Tân Bình có địa chỉ ở 108 Tây Thạnh, phường 15, quận Tân Bình, TP Hồ Chí Minh. Với tổng quy mô ban đầu là 178,63 ha và dự án khu dân cư phụ trợ của KCN Tân Bình chiếm 71,14 ha. Hiện nay, khu công nghiệp đã thu hút gần 100 nhà đầu tư trong và ngoài nước, với số vốn lên đến 64 triệu USD và trên 1.640 tỷ đồng. Mang lại việc làm ổn định cho hơn 25.000 lao động, góp phần rất lớn vào sự phát triển kinh tế của TP Hồ Chí Minh và nước ta.": {
+      "en": "The New Ping Industrial Zone has an address in 108 West Tsuns, the 15th Division, New Pacific District, TP Lake Chi Minh. With the original overall scale of 178,63 ha and KNNA's auxiliary residential project taking 71,14 ha. Currently, the industrial district has attracted nearly 100 in and abroad investments, with capitals up to 64 million dollars and over $1,640 billion. Bringing stability to more than 25,000 workers, greatly contributes to the economic development of TP Lake Chi Minh and our country.",
+      "zh": "新平工业区有地址:西通108个,15师,新太平区,TP湖志明. 最初的总规模为178,63公顷,KNNA的辅助住宅项目占地71,14公顷. 目前,该工业区已吸引了近100个国内外投资,首都高达6400万美元,16.400多亿美元. 使二万五千多工人获得稳定,极大地促进了TP湖志明和我国的经济发展."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê - đơn vị gửi hàng Hà Nội - KCN Tân Bình uy tín nhất": {
+      "en": "Liu Leh - The most prestigious sending unit of Hanoi",
+      "zh": "刘雷 河内最有声望的派遣部队"
+    },
+    "Lưu Lê sẽ chịu 100% trách nhiệm nếu chẳng may quá trình chuyển hàng hóa rủi ro hay thiệt hại do lỗi của công ty.": {
+      "en": "Liu La will be 100% responsible if, unfortunately, the delivery of risk or damage caused by the company's fault.",
+      "zh": "刘拉将承担100%的责任,如果不幸的是,由于公司的过错造成风险或损害的交付."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Một trong những đề xuất được nhiều cá nhân, doanh nghiệp lựa chọn khi gửi hàng Hà Nội - KCN Tân Bình đó chính là Lưu Lê. Chất lượng dịch vụ uy tín - Đảm bảo vận chuyển an toàn - Chi phí phải chăng là những điều mà vận tải Lưu Lê luôn mang đến cho khách hàng.": {
+      "en": "One of the proposals was made by many individuals, the business of choosing when sending Hanoi's goods - the new KNNA was Liu. The quality of the prestigious service - guaranteeing safety transport - does the cost have to be the things Liu Li transport always brings to the customers.",
+      "zh": "其中一项建议是许多个人提出的,送河内货时的选择业务——新的KNNA是刘. 声望很高的服务质量——保障安全运输——成本是否必须是刘力运输总是给顾客带来的东西."
+    },
+    "Một điều vô cùng quan trọng để quá trình gửi hàng Hà Nội - KCN Tân Bình diễn ra thuận lợi nhất đó là tìm được đơn vị vận tải uy tín. Họ sẽ giúp đỡ bạn trong mọi quy trình, không mất nhiều thời gian và sức lực. Hơn nữa, với kinh nghiệm của một đơn vị vận tải uy tín, chắc chắn họ cũng sẽ đưa ra phương án vận chuyển tiết kiệm chi phí nhất cho bạn.": {
+      "en": "One of the most important things for the Hanoi-KN Tsai to take place is to find the prestigious shipping unit. They will help you in all processes, not taking much time and energy. Furthermore, with the experience of a prestigious transport unit, they will certainly come up with the most cost-saving plan for you.",
+      "zh": "河内-KN Tsai号最重要的一件事就是找到著名的航运单位。 他们会帮助你 在所有的过程, 不花太多的时间和精力。 而且,根据一个有声望的运输单位的经验,他们一定会为你们制定最节省开支的计划。"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu gửi hàng Hà Nội - KCN Tân Bình": {
+      "en": "The need to send Hanoi - New Zealand",
+      "zh": "送河内的必要性 -- -- 新西兰"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ tọa lạc ở vị trí thuận lợi, nằm trong nội thành gần các cửa ngõ quan trọng của Sài Gòn. Nên KCN Tân Bình được đánh giá có tiềm năng phát triển ngày càng tốt. Nơi đây rất gần sân bay quốc tế Tân Sơn Nhất, chỉ khoảng 3km. Đến trung tâm cảng Sài Gòn, ga đường sắt Hòa Hưng cũng chỉ mất khoảng 10km - 20km. Bên cạnh đó còn có các tuyến đường giao thông thuận tiện như Quốc lộ 22, Quốc lộ 1A,...": {
+      "en": "As a result of its favorable position, within the inner city near the important gates of Saigon, KNC New Zealand was rated with greater potential for growth. The place is very close to Tan Shanthu International Airport, only about 3 km. To the heart of Saigon's port, the Republic Railroad station also took only 10 km - 20 km (10 km). Besides, there are convenient traffic routes such as Highway 22, Route 1A,...",
+      "zh": "由于地位有利,在靠近西贡重要城门的内城内,KNC新西兰被评为增长潜力较大. 该地非常靠近谭山t国际机场,仅约3公里. 至西贡港口中心,共和国铁路车站也仅走10公里至20公里(10公里). 此外,还有22号高速公路,1A路等便利交通线路,......"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian vận chuyển đến KCN Tân Bình nhanh và chính xác như hợp đồng.": {
+      "en": "The time of transport to the New CBS is fast and accurate as contract.",
+      "zh": "前往新CBS的运输时间作为合同迅速而准确."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong đó:": {
+      "en": "In it:",
+      "zh": "其中:"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những chia sẻ của chúng tôi về": {
+      "en": "Above are our share of",
+      "zh": "以上是我们的份额"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê cam kết thực hiện đúng và đủ mọi điều khoản hợp đồng chuyển hàng từ Hà Nội đến KCN Tân Bình.": {
+      "en": "Liu Li transport is committed to doing the right thing and all the terms of a transfer from Hanoi to KNN New Zealand.",
+      "zh": "刘力运输致力于做好河内至KNN新疆的转移任务和所有条件."
+    },
+    "Vận tải Lưu Lê làm việc 24/7 bao gồm tất cả các ngày nghỉ, cũng luôn sẵn sàng phục vụ khách hàng.": {
+      "en": "Liu transport works 24/7 including all holidays, also available for customer service.",
+      "zh": "刘公运全天候施工,包括所有节假日,也可提供客户服务."
+    },
+    "Vận tải Lưu Lê mang đến quy trình gửi hàng từ Hà Nội đến KCN Tân Bình là nhanh và chuyên nghiệp nhất.": {
+      "en": "Liu Li's transport brought the delivery process from Hanoi to KNC New Ping as the fastest and most professional.",
+      "zh": "刘力的运输将河内至KNC新平的送货流程作为最快,最专业."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với tất cả những yếu tố trên, nên việc thu hút đầu tư cũng như giao thương hàng hóa của KCN Tân Bình diễn ra rất sôi động. Và trong đó không thể thiếu thủ đô Hà Nội, nơi thường xuyên gửi - nhận hàng với KCN Tân Bình. Hai địa điểm này cách nhau khoảng 1.720 km, nếu di chuyển bằng đường bộ trên quốc lộ 1A mất hơn 32 giờ. Bên cạnh đó bạn cũng có thể lựa chọn đường hàng không, nhưng để chuyển hàng hóa thì hình thức đường sắt là phù hợp nhất.": {
+      "en": "With all these factors, the appeal of investments as well as the trading of KNNTC has taken place was exciting. And in it can't be without the capital, Hanoi, which regularly sends—takes with the new KNC. The two sites are approximately 1,720 km apart, if traveling by land on Route 1A takes over 32 hours. Besides, you can also choose the airline, but to deliver the goods, the form of the railway is most appropriate.",
+      "zh": "由于所有这些因素,KNNTC的投资和交易的吸引力令人振奋。 首都河内也不可能没有, 这两个地点相距约1 720公里,如果在1A号公路上通过陆地旅行需要32个小时。 此外,也可以选择航空公司,但为了交付货物,铁路的形式是最合适的."
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "gửi hàng Hà Nội - KCN Tân Bình": {
+      "en": "Send Hanoi - New Zealand",
+      "zh": "送河内 - 新西兰"
+    },
+    "là vấn đề mà rất nhiều cá nhân, doanh nghiệp quan tâm hiện nay. Nhưng nên chọn đơn vị chuyển nào nào thì uy tín? Hay những kinh nghiệm cần biết là gì? Tất cả những thắc mắc này sẽ được chúng tôi giải đáp cặn kẽ trong bài viết dưới đây.": {
+      "en": "It's a problem that a lot of individuals, businesses care about now. But which transfer unit should be trusted? Or what are the experiences to know? All these questions will be well answered in the following article.",
+      "zh": "这是一个很多个人,企业现在关心的问题. 但哪支转移部队应该信任? 或者有什么经验可以知道? 所有这些问题将在下一条得到很好的回答。"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về KCN Tân Bình": {
+      "en": "Bits of the new NNC",
+      "zh": "新 NNC 的位数"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị gửi hàng Hà Nội - KCN Tân Bình uy tín nhất": {
+      "en": "Hanoi's most prestigious delivery unit",
+      "zh": "河内最出名的送货单位"
+    },
+    "Đảm bảo luôn vận chuyển an toàn, hàng đến KCN Tân Bình sẽ đủ số lượng và đúng chất lượng.": {
+      "en": "Make sure that the shipment is always safe, the goods to the new KNC will be sufficient and proper.",
+      "zh": "确保货运始终安全,向新的国民政府运送的货物将足够和适当。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Giá gửi hàng Hà Nội - KCN Tân Bình tại Lưu Lê": {
+      "en": "The price of shipping from Hanoi - the new NWC at Liu Li",
+      "zh": "河内发货价格-刘力新国安会."
+    },
+    "► Những cam kết của Lưu Lê khi gửi hàng Hà Nội - KCN Tân Bình": {
+      "en": "Liu Li's commitments when sending Hanoi-KN New Ping",
+      "zh": "刘力派遣河内-克恩新平时的承诺"
+    },
+    "► Quy trình gửi hàng Hà Nội - KCN Tân Bình của vận tải Lưu Lê": {
+      "en": "The Hanoi-KN New Year's delivery process",
+      "zh": "河内-KN新年交付进程"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

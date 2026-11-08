@@ -1,0 +1,782 @@
+{
+  "route": "/blogs/goc-tu-van/thanh-tra-giao-thong-co-duoc-dung-xe-khong",
+  "texts": {
+    "06 Tháng 9 2021": {
+      "en": "06 September 2021",
+      "zh": "2021年9月06日 (中文(简体) )."
+    },
+    ">>> Có thể bạn quan tâm:": {
+      "en": "> DSTOR Can You Care:",
+      "zh": "> DSTOR 您可以关心:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chia sẻ thông tin tham gia giao thông cần mang giấy tờ gì?": {
+      "en": "What papers do you need to bring with you?",
+      "zh": "你要带什么文件来?"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chuẩn bị giấy tờ đầy đủ khi ra đường": {
+      "en": "Get your papers ready on the road.",
+      "zh": "把证件准备好"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Căn cứ theo Điểm a, khoản 2 tại điều 86 của Luật giao thông đường bộ 2008, cùng với nội dung tại Điều 15 Thông tư 02/2014/TT-BGTVT ngày 25.2.2014 về chi tiết quy trình mà các thanh tra chuyên ngành, xử phạt vi phạm hành chính; công tác lập kế hoạch, chế độ báo cáo hoạt động quản lý nội bộ quy định TTGT được phép dừng xe và yêu cầu người điều khiển phương tiện nhằm thực hiện các biện pháp để phục vụ công tác bảo vệ công trình trong các trường hợp cụ thể như:": {
+      "en": "Based on Point A, Article 2 at Article 86 of the 2008 Transportation Act, along with the content at Article 15 Lt. 210/2014/TT-BGTVT on the 25.2014 on the procedure details that the special inspectors, fined the administrative violation; the planning work, the ISPGT activity report mode is allowed to stop the vehicle and request the vehicle controller to perform measures to serve the job protection in specific cases such as:",
+      "zh": "根据2008年《运输法》第86条A点第2条,以及2014年25日第15条第210节第210节第TT-BGTVT条关于特别检查员对行政违规行为处以罚款的程序细节;规划工作允许ISPGT活动报告模式停车,并要求车辆控制员在特定情况下采取措施为工作保护服务,例如:"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giấy chứng nhận bảo hiểm: là giấy chứng nhận, bằng chứng giao kết về hợp đồng bảo hiểm trách nhiệm dân sự bắt buộc giữa chủ xe cơ giới với doanh nghiệp bảo hiểm. Thường gọi là bảo hiểm xe máy, xe ô tô.": {
+      "en": "Insurance Certificate: Is Certificate, Evidence of Civil Responsibilities Reservation Responsibilities between motorcar owners and insurance business. It's commonly referred to as motorcycle insurance, cars.",
+      "zh": "保险证书:是证书,证明机动车所有人和保险业之间的民事责任保留责任。 一般称为摩托车保险,汽车."
+    },
+    "Giấy phép lái xe (Bằng lái xe): Là loại chứng chỉ được cấp cho một cá nhân cụ thể về việc cơ quan có thẩm quyền cấp phát, cho phép người đó được phép vận hành và lưu thông các loại phương tiện khi tham gia giao thông bằng các loại xe cơ giới. Giấy phép lái xe hạng A1, A2, A3, A4 dành cho xe máy, giấy phép lái xe hạng B1, B2, C, D,E và hạng F cho người lái xe chuyên dụng.": {
+      "en": "The driver's license (driving license): It's the type of certificate granted to a specific individual about the organ's license to issue, allowing him to operate and flow the types of vehicles when engaging in traffic by mechanical vehicles. A1st Class License, A2, A3, A4 for Motorcycles, B1, B2, C, D, E and Class F for Professional Drivers.",
+      "zh": "驾驶证(驾驶证): 这是向特定个人颁发的关于机关牌照的证书类型,允许他在从事机械车辆交通时操作和流转车辆种类. A1级驾驶证,A2,A3,A4级摩托车驾驶证,B1,B2,C,D,E级和F级专业驾驶员驾驶证."
+    },
+    "Giấy đăng ký xe: Giấy đăng ký xe là loại giấy tờ có tác dụng chứng minh rằng phương tiện bạn đang di chuyển là thuộc quyền sở hữu chính chủ của bạn. Tránh các trường hợp xe buôn lậu, xe thuộc hàng bị mất trộm… Trong giấy đăng ký xe có đầy đủ thông tin về dòng xe, chủng loại, màu sắc, biển số, thông tin chủ xe, nơi đăng ký…": {
+      "en": "Car registration: Car registration is the kind of paper in effect that proves that the vehicle you are traveling is in your own ownership. Avoid cases of smuggling cars, stolen cars... In car registrations there is sufficient information about car lines, races, colors, plates, car owners information, where the registration...",
+      "zh": "车辆登记:车辆登记是证明您所乘坐的车辆属于自己所有的有效证件。 避免走私汽车,偷汽车... 在汽车登记中,有足够的关于汽车线路,种族,颜色,车牌,汽车所有人的信息,登记地点. ."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Sài Gòn ra Hà Nội nhanh": {
+      "en": "Send the package from Saigon to Hanoi fast",
+      "zh": "快把包裹从西贡送到河内"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những chia sẻ trên đây giải đáp thắc mắc thanh tra giao thông có được dừng xe không về và thông tin cần thiết để bạn tham gia giao thông tự tin hơn. Các thông tin về giao thông, vận tải và nhiều tin tức hữu ích khác được chia sẻ tại website": {
+      "en": "These shares answer the question of whether traffic inspectors are stopped in the car and the information you need to engage in more confident traffic. The information about traffic, transportation, and other useful news was shared at the website",
+      "zh": "这些股份解答了交通检查员是否在汽车中被拦截的问题,以及您需要的从事更自信的交通的信息. 该网站分享了关于交通、交通和其他有用新闻的信息"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những thắc mắc thanh tra giao thông có được dừng xe không rất dễ hiểu. Người tham gia giao thông khá ngại khi mình không vi phạm luật giao thông nhưng vẫn bị yêu cầu dừng phương tiện, thông tin chia sẻ trên đây bạn đã rõ có những trường hợp thanh tra giao thông có quyền yêu cầu dừng khi xe của bạn đang tham gia giao thông. Vậy bạn sẽ cần mang theo giấy tờ gì khi tham gia phương tiện giao thông?": {
+      "en": "Traffic inspector questions are not easily understood. Traffic participants are quite embarrassed when they do not violate traffic laws but are still asked to stop the vehicle, the shared information above you are clear there are cases of traffic inspectors who have the right to call for a stop when your car is engaged in traffic. So what papers do you need to bring with you when you're involved in traffic?",
+      "zh": "交通检查员的问题不容易理解。 当交通参与者没有违反交通法,但仍被要求停车时,他们相当尴尬。 以上共享的信息表明,有些交通检查员有权要求停车,而当车辆从事交通时。 你参与交通时需要带什么文件?"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phương tiện di chuyển làm đổ đất, vật liệu xây dựng, các phế liệu khác không đúng quy định lên đường bộ hay vào cà hành lang an toàn đường bộ;": {
+      "en": "The transport spills the soil, building materials, and other unscheduled scraps on the road or into the safety corridors of the road;",
+      "zh": "运输在公路上或进入公路安全走廊时溢出土壤、建筑材料和其他不定期废料;"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TTGT đang thực hiện các kế hoạch tuần tra, mệnh lệnh, hoạt động kiểm soát của Cục trưởng Cục Cảnh sát giao thông hoặc thực hiện lệnh của Giám đốc Công an cấp tỉnh trở lên;": {
+      "en": "TTGT is carrying out patrol plans, orders, control operations of the Department of Transportation Police or carrying out orders from the Chief of Police of the province again;",
+      "zh": "TTGT正在执行交通警察部的巡逻计划、命令、控制行动或执行该省警察局长的命令;"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thanh tra giao thông có được dừng xe không": {
+      "en": "Is the traffic inspector allowed to stop?",
+      "zh": "交通巡视员可以停下来吗?"
+    },
+    "Thanh tra giao thông có được dừng xe không và dừng trong trường hợp nào?": {
+      "en": "Is the traffic inspector allowed to stop and in what case?",
+      "zh": "交通巡视员被允许停车,在什么情况下?"
+    },
+    "Thanh tra giao thông có được dừng xe không?": {
+      "en": "Is traffic inspector allowed to stop?",
+      "zh": "交通督察被允许停车吗?"
+    },
+    "Thanh tra giao thông có được dừng xe không? TTGT được phép dừng phương tiện đang lưu thông khi có văn bản đề nghị của Thủ trưởng, Phó thủ trưởng các cơ quan điều tra; có văn bản đề nghị của các cơ quan chức năng liên quan về hoạt động dừng phương tiện nhằm thực hiện công tác kiểm soát để đảm bảo an ninh, trật tự hay phục vụ công tác đấu tranh, phòng chống tội phạm theo quy định. Trong văn bản đề nghị dừng này cần ghi rõ thông tin về thời gian, tuyến đường, các loại phương tiện cần dừng để kiểm tra mới đầy đủ hiệu lực.": {
+      "en": "Is traffic inspectors allowed to stop the vehicle? TTGT is allowed to stop the vehicle in traffic when there is a text of recommendations by the Chief of Staff, Deputy Chief of Investigations; there is a text of recommendations by related agencies on vehicle stop operations in order to perform control work to ensure security, order or service to the task of struggle, criminal prevention as required. In this stop-off text, you need to specify information about time, routes, vehicles that need to be stopped for a complete new test.",
+      "zh": "是否允许交通检查员停车? 允许TTGT在有参谋长,副调查长建议文本时截停车辆;有相关机构关于车辆截停业务的建议文本,以开展控制工作,确保安全,秩序或服务于斗争,犯罪预防等必要任务. 在此停运文本中,您需要指定需要停运的时间,路线,车辆的信息,以便进行全新的测试."
+    },
+    "Thanh tra giao thông có được dừng xe không? Được phép ra lệnh dừng các phương tiện mà được tin báo, tố giác là vi phạm pháp luật;": {
+      "en": "Is traffic inspector allowed to stop? To be allowed to stop the vehicles which are reported, to expose is a violation of the law;",
+      "zh": "交通督察被允许停车吗? 允许拦截举报的车辆,揭露是违法行为;"
+    },
+    "Thanh tra giao thông được phép dừng các phương tiện vi phạm": {
+      "en": "Transport inspectors are allowed to halt vehicle violations",
+      "zh": "允许运输检查员制止车辆违规"
+    },
+    "Theo quy định tại Luật Giao thông đường bộ năm 2008, quy định về các loại giấy tờ mà bất cứ ai điều khiển phương tiện khi tham gia giao thông cũng cần phải mang theo phòng trường hợp dừng xe, bên cạnh thắc mắc thanh tra giao thông có được dừng xe không. Các loại giấy cần thiết:": {
+      "en": "In accordance with regulations at the 2008 road traffic law, the regulations regarding the type of papers that anyone who conducts vehicles when involved in traffic also needed to bring along a traffic stop room, besides wondering if traffic inspectors were to be stopped. Required Papers:",
+      "zh": "根据2008年《道路交通法》的规定,任何人在参与交通时驾驶车辆的证件的种类,除了想知道是否要拦截交通检查员外,还需要携带一个交通停机室。 所需文件:"
+    },
+    "Thực hiện các kế hoạch tổ chức tuần tra, hoạt động kiểm soát và xử lý vi phạm nhằm bảo đảm trật tự, an toàn giao thông lệnh đưa ra từ Trưởng phòng Tuần tra, thực hiện hoạt động kiểm soát giao thông đường bộ cao tốc trực thuộc Cục Cảnh sát giao thông hoặc lệnh từ Trưởng phòng Cảnh sát giao thông, Trưởng Công An thuộc cấp huyện trở lên.": {
+      "en": "Performing patrol plans, traffic control and processing operations to ensure order, traffic safety given from Chief of Patrol, implementing direct traffic control operations of the Traffic Police Bureau or orders from the Chief of Transportation, Chief of Security on the district level.",
+      "zh": "执行巡逻计划、交通管制和处理行动,以确保由巡逻队长给予的秩序、交通安全,执行交通警察局的直接交通管制行动,或执行县一级交通主任、安全主任的命令。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong quá trình tham gia giao thông, người đi đường thường có tâm lý sợ gặp Cảnh sát giao thông (CSGT), sợ bị yêu cầu dừng xe và kiểm tra giấy tờ, xử phạt ngay khi bạn không vi phạm luật an toàn giao thông. Để hỗ trợ bạn có thêm đầy đủ thông tin, tự tin tham gia giao thông an toàn, bài viết sau Vận tải Lưu Lê chia sẻ thông tin liệu thanh tra giao thông có được dừng xe không, thanh tra giao thông được dừng xe trong trường hợp nào?": {
+      "en": "In the process of traffic participation, the pedestrian is generally psychologically afraid to meet traffic police (CSGT), afraid of being asked to stop and check papers, to punish as soon as you do not violate traffic safety laws. To support you with more information, confidence in safe traffic, the article following Liu Transport shares information whether traffic inspectors are stopped, traffic inspectors are stopped in what case?",
+      "zh": "在交通参与过程中,行人一般在心理上害怕遇到交通警察(CSGT),害怕被要求停车和检查证件,只要不违反交通安全法,就会受到处罚. 为了支持你提供更多的信息,对安全交通的信心,刘运之后的文章分享了交通检查员是否被拦截,交通检查员在什么情况下被拦截的信息?"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe bánh xích nhưng lưu thông trực tiếp trên đường mà không tuân thủ thực hiện biện pháp bảo vệ đường theo đúng quy định;": {
+      "en": "The chainwheel but travels directly on the road without complying with the proper road protection measure;",
+      "zh": "连锁轮船在公路上直接行驶,但没有遵守适当的公路保护措施;"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chóng": {
+      "en": "fast",
+      "zh": "快速"
+    },
+    "của vận tải Lưu Lê.": {
+      "en": "Of Liu Li transport.",
+      "zh": "刘立运."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vượt quá tải trọng, vượt quá khổ giới hạn cho phép của hệ thống cầu, đường bộ;": {
+      "en": "Overloading, beyond the limit allowed by the bridge system, the road;",
+      "zh": "超载,超出桥梁系统允许的限度,道路; 2."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

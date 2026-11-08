@@ -1,0 +1,838 @@
+{
+  "route": "/blogs/goc-tu-van/mua-xe-can-giay-to-gi",
+  "texts": {
+    "22 Tháng 7 2021": {
+      "en": "22 July 2021",
+      "zh": "2021年7月22日 (中文(简体) )."
+    },
+    ">>> Có thể bạn quan tâm:": {
+      "en": "> DSTOR Can You Care:",
+      "zh": "> DSTOR 您可以关心:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "BLOG",
+      "zh": "布尔格"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bên cạnh câu hỏi mua xe cần giấy tờ gì thì thắc mắc đi mua xe, đăng ký xe có cần bằng lái không hẳn sẽ được quý khách hàng quan tâm. Vận tải Lưu Lê sẽ giải đáp cho bạn luôn, khi đi mua xe và đăng ký xe máy thì bạn không cần mang theo bằng lái, các cơ quan quản lý, cơ quan thuế hay Phòng Cảnh sát giao thông nơi bạn đăng ký không yêu cầu giấy tờ này.": {
+      "en": "In addition to the question of what kind of papers to buy a car, the question of whether a driver needs a license is not likely to interest his customers. Liu transport will also answer to you, when you go to buy a car and register a motorcycle, you don't have to bring your license, your management agencies, your tax agency or the Traffic Police Hall where you don't file this papers.",
+      "zh": "除了购买汽车需要何种证件的问题外,司机是否需要驾照的问题也不太可能引起其顾客的兴趣. 刘运也会回答你的问题,你去买车登记摩托车时,不必携带驾照,管理所,税务所或交警厅,不办理此证件."
+    },
+    "Bình luận": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Bình luận của bạn sẽ được duyệt trước khi đăng lên tường. Xin cám ơn!": {
+      "en": "Your comments will be approved before posting on the wall. Thank you!",
+      "zh": "在墙上张贴之前,你的意见将获得批准。 谢谢!"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn hoàn toàn yên tâm nếu mình chưa kịp thi bằng lái, chưa kịp lấy bằng lái vẫn có thể sở hữu chiếc xe cho riêng mình. Tuy nhiên bạn cần lưu ý, với xe máy mới thì muốn đứng tên sở hữu chiếc xe bạn phải trên 18 tuổi. Với hình thức nhượng xe, tặng xe thì khách hàng nằm trong độ tuổi 6 – 18 tuổi đã có thể đứng tên với điều kiện người đại diện đồng ý về việc này.": {
+      "en": "You're perfectly relieved if you haven't got your license, you can still own the car. However, you need to note that with a new motorcycle, you want to be in the name of the car that you have to be above 18. With the form of a traffic jam, the customer within the age of 6 – 18 was able to stand on the condition that the representative agrees on this.",
+      "zh": "如果你没有驾照,你完全放心了,你仍然可以拥有这辆车. 然而,你需要注意的是,有了一辆新的摩托车,你想要以你必须超过18岁的汽车为名. 以交通堵塞的形式,6至18岁的顾客能够站立,条件是代表同意这一点。"
+    },
+    "Bạn sẽ cần phải nộp lại hoá đơn thuế giá trị gia tăng, cùng với phiếu kiểm tra chất lượng (có thể dùng bản photo), tờ khai thuế để nộp hồ sơ": {
+      "en": "You're going to need to repay increased tax bills, along with quality checks (which may use copy), tax records to pay the profile",
+      "zh": "您需要偿还增加的税收账单, 以及质量检查(可能使用副本), 税务记录支付概况"
+    },
+    "BẢNG GIÁ": {
+      "en": "LEAD",
+      "zh": "领导"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "INTERVIEWING",
+      "zh": "介入"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chuẩn bị hồ sơ đầy đủ": {
+      "en": "Prep full profile",
+      "zh": "准备完整简介"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các giấy tờ hướng dẫn sử dụng chiếc xe máy mới;": {
+      "en": "Guide papers use the new motorcycle;",
+      "zh": "指南文件使用新的摩托车;"
+    },
+    "Các lưu ý khi làm thủ tục đăng ký xe": {
+      "en": "Notes when doing car registration procedures",
+      "zh": "办理汽车登记手续时的说明"
+    },
+    "Các sản phẩm, vật dụng khuyến mãi đi kèm theo từng chương trình của cửa hàng;": {
+      "en": "The products, the recommended items followed each of the store's shows;",
+      "zh": "产品、推荐物品都跟随商店的每个节目;"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Your emails",
+      "zh": "您的电子邮件"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email của bạn": {
+      "en": "Your email",
+      "zh": "您的电子邮件"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá trị tài sản, tức chiếc xe của bạn là phần trước thuế giá trị gia tăng": {
+      "en": "The property value, your car is the pre-private part of increased value",
+      "zh": "物业价值,你的车是增加值的私人前部分"
+    },
+    "Giấy giao nhận xe giữa phía cửa hàng và bên mua.": {
+      "en": "Car transfers between the store and the purchase party.",
+      "zh": "汽车在商店和购买方之间的转移."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Góc tư vấn": {
+      "en": "Consulting Corner",
+      "zh": "咨询角"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi bình luận": {
+      "en": "Send Comment",
+      "zh": "发送注释"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "HOTLINE",
+      "zh": "荷尔蒙"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoàn thiện hồ sơ mua và đăng ký xe": {
+      "en": "Complete purchase and registration profile",
+      "zh": "完整的采购和登记简介"
+    },
+    "Hoá đơn mua bán, hoá đơn thuế và giấy chứng nhận kiểm tra chất lượng trước khi xe xuất xưởng;": {
+      "en": "Trade bills, tax bills, and quality certification certificates before the shop car;",
+      "zh": "店车前的贸易账单、税务账单和质量认证证书;"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi mua xe cần giấy tờ gì, đăng ký xe cần giấy tờ gì?": {
+      "en": "What papers do you need when you buy a car?",
+      "zh": "你买车时需要什么证件?"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Mua xe cần giấy tờ gì": {
+      "en": "What papers to buy a car?",
+      "zh": "什么证件买车?"
+    },
+    "Mua xe cần giấy tờ gì? Những điều cần biết khi mua xe máy mới": {
+      "en": "What papers do you need for a car? What you need to know when you buy a new motorcycle",
+      "zh": "汽车需要什么文件? 你买一辆新摩托车时需要知道的"
+    },
+    "Mua xe, đăng ký xe có cần bằng lái không?": {
+      "en": "Buy a car, sign up for a license?",
+      "zh": "买车,注册执照?"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Row",
+      "zh": "每行"
+    },
+    "Một Niềm Tin": {
+      "en": "A Faith",
+      "zh": "一个信仰"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nguồn gốc tài sản cần được ghi công ty xuất hoá đơn là đơn vị bạn mua xe": {
+      "en": "The origin of the property needs to be recorded as the unit you bought the car.",
+      "zh": "物业来源需要记为购车单位."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu không hiểu được các điểm trong thủ tục đăng ký bạn sẽ vướng mắc và có thể làm sai. Một số điểm lưu ý mà Vận tải Lưu Lê muốn gửi đến bạn:": {
+      "en": "If you don't understand the points in the enrollment procedure, you'll be in trouble and you'll be in trouble. Some of the notable points Liu Transport wants to send to you:",
+      "zh": "如果你不懂入学程序中的分数,你就会有麻烦和麻烦. 一些值得注意的要点 刘运想寄给你:"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Sau khi đã biết mua xe cần giấy tờ gì thì bước tiếp theo để bạn chính thức sở hữu chiếc xe mới của mình là hoàn thiện thủ tục đăng ký xe với cơ quan chức năng.": {
+      "en": "Having learned what the car needs, the next step for you to officially own your new car is to complete the registration procedure with the agency.",
+      "zh": "了解了汽车需求后,你正式拥有新车的下一步是完成与该机构的注册手续."
+    },
+    "Sau khi đã thanh toán tiền và tiến hành làm hồ sơ, bạn sẽ có các loại giấy tờ:": {
+      "en": "After you've paid the bill and proceeded as a profile, you'll have papers:",
+      "zh": "在你付了帐单,继续做档案后,你会有文件:"
+    },
+    "Sổ bảo hiểm của chiếc xe máy mới;": {
+      "en": "The insurance book of the new motorcycle;",
+      "zh": "新摩托车的保险簿;"
+    },
+    "Sở hữu chiếc xe của riêng mình": {
+      "en": "Own your own car.",
+      "zh": "拥有自己的车。"
+    },
+    "Sở hữu chiếc xe mới cho bản thân mình tại cửa hàng, xe mới hoàn toàn thì thủ tục mua bán, giấy tờ sẽ rất nhanh chóng và đơn giản. Các giấy tờ bắt buộc khi mua xe máy mới sẽ bao gồm chứng minh nhân dân hay căn cước công dân còn hiệu lực, sổ hộ khẩu có đứng tên người mua xe. Các giấy tờ này bắt buộc để đơn vị bán xe có thể hoàn thiện hoá đơn và giấy tờ chính xác liên quan đến tài sản là chiếc xe của bạn.": {
+      "en": "Owning the new car for yourself at the store, the new car entirely, the sale procedure, the papers will be very quick and simple. The required papers on the purchase of the new motorcycle will include proof that the people or identity of the citizens are in force, the password with the name of the car buyer. These papers are mandatory so that the car sales unit can complete the bill and the exact papers associated with property is your car.",
+      "zh": "在店里自己拥有新车,新车完全,销售程序,文件会非常迅速和简单. 购买新摩托车所需的证件包括公民或身份有效证明、汽车购买者姓名的密码。 这些证件是强制性的,以便汽车销售单位能够完成账单,与财产相关的确切证件是你们的车."
+    },
+    "Sở hữu cho mình một phương tiện đi lại chính chủ là xe máy, xe hơi thì bạn cũng rất vui mừng. Cùng với việc chuẩn bị đủ tài chính, lựa chọn mẫu mã phù hợp, chọn đơn vị cung cấp uy tín thì các giấy tờ thủ tục để hoàn thiện hồ sơ đăng ký xe cũng rất cần thiết. Bài viết này, Vận Tải Lưu Lê sẽ giải đáp những thắc mắc": {
+      "en": "Owning your own means of transportation is a motorcycle, a car, and you are also very happy. Along with adequate financial preparation, the proper pattern selection, the prestigious supply unit selection, the procedures to complete the car registration are also necessary. This article, Media, will answer questions",
+      "zh": "拥有自己的交通工具是摩托车,汽车,你也很开心. 除了适当的财务准备、适当的模式选择、著名的供应单位选择之外,完成汽车登记的程序也是必要的。 这篇文章,媒体,将回答问题"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "TRANG CHỦ": {
+      "en": "PAGE 16",
+      "zh": "第16页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thủ tục đăng ký xe": {
+      "en": "Car registration procedure",
+      "zh": "汽车登记程序"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là các thông tin giải đáp thắc mắc": {
+      "en": "These are the answers.",
+      "zh": "这些是答案。"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "APPRECTION",
+      "zh": "说明"
+    },
+    "Tên của bạn": {
+      "en": "Your Name",
+      "zh": "名称"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm hiểu mua xe cần giấy tờ gì rồi thì bạn sẽ cần thông tin đăng ký xe. Bạn sẽ đến Phòng Cảnh Sát Giao Thông Đường Bộ - Đường Sắt của Công An quận, huyện, thị xã nơi bạn đăng ký thường trú để đăng ký thông tin xe. Thời gian làm việc của các đơn vị này thường từ từ 7h đến 11h sáng, chiều từ 13h đến 17h từ thứ 2 đến thứ 6, thứ 7 thì các đơn vị thường chỉ làm buổi sáng, một số nơi nghỉ nguyên ngày thứ 7 và chủ nhật.": {
+      "en": "Find out what you need for a car, and you'll need car registration information. You're going to the Street Transport Police Hall - the Iron Road of the District, district, town where you are registered to register car information. The work time of these units is usually between 7 and 11 a.m., afternoons from 13 hours to 17 hours from Monday to Friday, Saturdays when units usually work only mornings, some of the entire Saturday and Sundays.",
+      "zh": "找出你需要的汽车, 你需要汽车注册信息。 前往街道交通警察厅——区,区,镇的铁道站登记车辆信息. 这些单位的工作时间一般在上午7点至11点之间,周一至周五的下午13点至17点,周六,单位通常只在上午工作,有些是整个周六和周日."
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tất cả giấy tờ hồ sơ sẽ có hai bản, đơn vị thuế sẽ giữ bản photo cùng tờ khai bạn đã điền đầy đủ thông tin, bạn sẽ giữ lại bản gốc. Lưu ý không nộp hết bản gốc cho đơn vị thuế.": {
+      "en": "All the records will have two copies, the tax units will keep the copy and the declaration you filled out, you will keep the original. Note not to pay the original to the tax unit.",
+      "zh": "所有记录有两本,税务单位保存副本和填写的申报表,保存原件. 注意不向税务单位支付原账."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VIẾT BÌNH LUẬN": {
+      "en": "ELLEN",
+      "zh": "埃伦"
+    },
+    "Việc đầu tiên là hoàn thiện thủ tục nộp thuế trước bạ, làm việc này xong bạn mới có thể đưa xe để đi đăng ký. Địa điểm để đăng ký là Phòng Cảnh Sát Giao Thông Đường Bộ - Đường Sắt của Công An quận, huyện, thị xã nơi bạn đăng ký thường trú. Bạn sẽ cần tìm đến phòng đăng ký thuế trước bạ, điền đầy đủ thông tin và tờ khai thuế và nộp lại. Bạn có thể tự làm hoặc uỷ quyền để đơn vị dịch vụ hoàn tất với mức phí tương ứng.": {
+      "en": "The first thing is to complete the pre-Presidental taxation procedure, and then you'll be able to take the car to the register. The location for enrollment is the Department of Transportation - Iron Road of the District, district, town where you sign up. You will need to look up the tax register room before the book, fill in all the information and tax records and return them. You can do it by yourself or by your authority to complete the service unit at a corresponding fee.",
+      "zh": "第一件事是完成总统前的税收程序,然后你就可以把汽车带到登记簿上. 入学地点是交通局 - 区,区,镇的铁道,你在那里报名. 在书前,您需要查询税务登记室,填写所有信息和税务记录,并退回。 服务单位完成时,您可以自行办理,也可以凭权限办理相应手续."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "THE FIGURAL",
+      "zh": "数字"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển xe máy Bắc Nam": {
+      "en": "North South Northern Machine Transport",
+      "zh": "南北南北机器运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "SASETE",
+      "zh": "萨斯泰"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "I'm here.",
+      "zh": "我在这里。"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Lưu Lê để tìm kiếm thêm nhiều thông tin hữu ích.": {
+      "en": "of Liu to find more useful information.",
+      "zh": "找到更有用的信息。"
+    },
+    "mua xe cần giấy tờ gì": {
+      "en": "What papers to buy a car?",
+      "zh": "什么证件买车?"
+    },
+    "mua xe cần giấy tờ gì?": {
+      "en": "What papers do you need?",
+      "zh": "你需要什么证件?"
+    },
+    "nhanh chóng - an toàn - giá rẻ!": {
+      "en": "Quick - safe - cheap!",
+      "zh": "快,安全,廉价!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và các thủ tục cần thiết khi mua xe. Bạn đã sẵn sàng sở hữu chiếc xe cho riêng mình chưa? Truy cập website": {
+      "en": "And procedures for buying cars. Are you ready to own your own car? Access website",
+      "zh": "还有买车的程序 你准备好拥有自己的车了吗? 访问网站"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để bạn có thể tự tin mang chiếc xe của riêng mình về nhà.": {
+      "en": "So you can take your own car home.",
+      "zh": "所以你可以自己开车回家"
+    },
+    "► Giấy tờ, thủ tục khi mua xe": {
+      "en": "Papers, procedures when buying cars",
+      "zh": "购买汽车时的文件和程序"
+    },
+    "► Thời gian làm thủ tục đăng ký xe máy": {
+      "en": "Time as a bike registration procedure",
+      "zh": "作为自行车登记程序的时间"
+    },
+    "► Đăng ký xe": {
+      "en": "EDI car registration",
+      "zh": "EDI 汽车登记"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}
