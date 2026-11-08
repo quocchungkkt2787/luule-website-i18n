@@ -1,0 +1,18 @@
+HUONG DAN CHEN VAO theme.liquid - CHI KHI DA CO KHO DICH
+
+Trong file theme.liquid hien co, tim:
+  {% include 'll-ai-chat' %}
+
+Ngay sau do, va TRUOC </body>, chen DUNG 2 dong:
+
+<script>window.LL_I18N_BASE='https://TEN-DU-AN.pages.dev';</script>
+<script src="{{ 'll-language-switcher.js' | asset_url }}" defer></script>
+
+THAY TEN-DU-AN.pages.dev bang dia chi Cloudflare Pages cua ban.
+Chi chen dong goi ll-language-switcher.js MOT LAN.
+
+Luu y:
+- Neu chua co Cloudflare Pages hoac kho dich, KHONG CHEN 2 dong nay.
+- Khong can doi bat ky code footer, ll-ai-chat, tracking, tinh cuoc, dang nhap.
+- Chi kiem tra tren BAN SAO giao dien Haravan, khong sua website chinh.
+- V3 khong co man hinh mo/cho dich. Neu thieu pack, giu tieng Viet.

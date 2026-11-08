@@ -1,0 +1,4 @@
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+argostranslate>=1.9,<2
+playwright>=1.55,<2
