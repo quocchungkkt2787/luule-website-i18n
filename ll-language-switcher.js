@@ -24,6 +24,9 @@
   function norm(s) { return String(s == null ? '' : s).normalize('NFC').replace(/\s+/g,' ').trim(); }
   function translatable(s) {
     var t = norm(s);
+    // Same identifier filter as tools/build_translations.py. Do not require
+    // translated strings for internal URL paths like /blogs/goc-tu-van/...
+    if (/^\/[^\s<>]+$/.test(t)) return false;
     return t.length > 1 && /[a-zA-Z\u00C0-\u024F\u1E00-\u1EFF\u3400-\u9FFF]/u.test(t) &&
       !/^(https?:\/\/|www\.|mailto:|tel:)/i.test(t) &&
       !/^[\w.+-]+@[\w.-]+\.[a-z]{2,}$/i.test(t) &&
