@@ -1,0 +1,918 @@
+{
+  "route": "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-thanh-hoa",
+  "texts": {
+    "- Vận chuyển hàng từ Đồng Nai đi Thanh Hoá bằng đường bộ (ô tô)": {
+      "en": "- Transported from the Plains of Nai to Qing on the road.",
+      "zh": "-从直隶平原运入道上清."
+    },
+    "- Vận chuyển hàng từ Đồng Nai đi Thanh Hoá bằng đường sắt (tàu hỏa)": {
+      "en": "- Transported from Plain Nai to Qing by railway.",
+      "zh": "-由平原直通铁路运至清."
+    },
+    "1,000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "1m3 < 300kg": {
+      "en": "1 m3 (300 kg)",
+      "zh": "1立方米(300公斤)"
+    },
+    "1m3 > 300kg": {
+      "en": "1m3 > 300 kg",
+      "zh": "1立方米 > 300公斤"
+    },
+    "300đ/kg": {
+      "en": "300 mph/kg",
+      "zh": "300 mph/kg (单位:公斤)"
+    },
+    "31 Tháng 3 2022": {
+      "en": "31 March 2022",
+      "zh": "2022年3月31日 (中文(简体) )."
+    },
+    "380,000đ/m3": {
+      "en": "3DMD/m3",
+      "zh": "3DMD/立方米"
+    },
+    "400đ/kg đến 700đ/kg": {
+      "en": "400 mph/kg to 700 mph/kg",
+      "zh": "400 mph/kg至700 mph/kg"
+    },
+    "70,000đ/m3": {
+      "en": "DM/m3",
+      "zh": "管理部/立方米"
+    },
+    "700,000đ/chuyến": {
+      "en": "700,000/DL",
+      "zh": "70万/每日生活津贴"
+    },
+    "80,000đ/m3 đến 150,000đ/m3": {
+      "en": "x/m3 to 150,000 d/m3",
+      "zh": "x/立方米至150 000克/立方米"
+    },
+    "800,000đ/chuyến đến 1,500,000đ/chuyến": {
+      "en": "800,000 per cent to 1.50,000 per ride",
+      "zh": "每程800 000至150 000人"
+    },
+    ">>> Xem dịch vụ:": {
+      "en": "> DSV See Service:",
+      "zh": "> DSV 见服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách từ Đồng Nai đi Thanh Hóa": {
+      "en": "The distance map from Kogi to Qingization",
+      "zh": "从高木到清化的相距图"
+    },
+    "Bảng giá cước dịch vụ gửi hàng từ Đồng Nai đi Thanh Hoá": {
+      "en": "The service bill for the delivery from Koo Nai to Qingu",
+      "zh": "从高奈到青岛的服务费"
+    },
+    "Bảng giá cước gửi hàng từ Đồng Nai đi Thanh Hoá": {
+      "en": "The ratings are deposited from Koo Nai.",
+      "zh": "收视率由高乃存."
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bằng sự nỗ lực không ngừng nghỉ Vận tải Lưu Lê tự hào đem đến cho bạn dịch vụ chuyển hàng giá rẻ nhất thị trường. Tuy nhiên, cước dịch vụ gửi hàng từ Đồng Nai đi Thanh Hóa được tính dựa trên loại hàng hóa vận chuyển là nặng hay nhẹ, địa điểm giao hàng ở đâu? Để từ đó đưa ra một mức giá chung. Cụ thể như sau:": {
+      "en": "By the relentless effort Liu Li is proud to bring you the market's cheapest freight service. However, the delivery service from the Plains of Nai goes to Qingization based on the type of freight that is either heavy or light, where is the delivery site? So that gives a common price. Specifically as follows:",
+      "zh": "通过不懈的努力,刘力为带来市场最便宜的货运服务而自豪. 然而,从奈平原到清化的快递服务,根据重或轻的货运种类,快递站点在哪里? 因此,这是一个共同的代价。 具体如下:"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Cam kết về chất lượng dịch vụ được quy định rõ ràng.": {
+      "en": "The service quality commitment is specified.",
+      "zh": "规定了服务质量承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí giao hàng thấp so với mặt bằng chung của thị trường.": {
+      "en": "The cost of low delivery is compared to the general level of the market.",
+      "zh": "低交货的成本与市场的一般水平相比较。"
+    },
+    "Chuyển hàng Đồng Nai Thanh Hoá": {
+      "en": "Literary Transported Nai Qingu",
+      "zh": "文学运输直隶青州人."
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các dịch vụ": {
+      "en": "Services",
+      "zh": "服务"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ gửi/vận chuyển hàng hoá từ Đồng Nai đi Thanh Hoá bằng đường bộ có tính linh hoạt cao hơn, có thể di chuyển hàng tới bất kỳ khu vực nào. Vận chuyển bằng ô tô thường nhanh và phù hợp với một số mặt hàng nhất định. Chi phí khi gửi hàng bằng ô tô tương đối cao mà nhiều khách hàng có phần e ngại.": {
+      "en": "The delivery/commodation service from the Plains of Nai to the Purchasing by road is more flexible, able to move the cargo to any area. Car transport is usually fast and consistent with certain items. The cost of sending goods in cars is relatively high that many customers are somewhat afraid of.",
+      "zh": "从奈平原到采购站的出货/通货服务较为灵活,能够将货物运往任何地区. 汽车运输通常速度快并符合某些物品. 以汽车运送商品的成本相对较高,许多顾客对此有些担心."
+    },
+    "Dịch vụ gửi/vận chuyển hàng hoá từ Đồng Nai đi Thanh Hoá mà đơn vị Vận tải Lưu Lê cung cấp mang tới rất nhiều lợi ích cho bạn:": {
+      "en": "The delivery/Movie service from the Kogi to the Qing which Liu Li Transport Unit provides brings many benefits to you:",
+      "zh": "从高木到清的送货/电影服务,由刘力运输股提供,为您带来许多好处:"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao hàng nhanh chóng, hàng hoá được đảm bảo nhờ quy trình thực hiện đầy đủ nghiệp vụ.": {
+      "en": "Fast delivery, goods secured due to the complete process of the job.",
+      "zh": "快递,货物因工作完成而得到保障."
+    },
+    "Giới thiệu sơ lược về Thanh Hoá": {
+      "en": "Introducing a Brief About Qing",
+      "zh": "介绍关于清的简介"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng miền Nam đi Trung": {
+      "en": "Send the South to China",
+      "zh": "送南方去中国"
+    },
+    "Gửi hàng từ Đồng Nai đi Nghệ An": {
+      "en": "Send the package from Kogi to Art An",
+      "zh": "将软件包从高木送到艺术安"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hoá vận chuyển từ Đồng Nai đi Thanh Hoá bằng đường sắt có sự thuận tiện lớn bởi cả hai tỉnh thành này đều có ga tàu hoả. Gửi hàng hoá bằng đường sắt khách hàng sẽ yên tâm vì hàng hoá được bảo đảm an toàn, chi phí giao vận lại tương đối rẻ. Các khách hàng thường gửi các loại hàng hoá kích thước và trọng tải lớn như đồ mỹ nghệ, nội thất, xe cộ… Nếu gửi hàng bằng đường sắt bạn sẽ cần tính toán thêm phương án vận chuyển hàng đến ga tàu.": {
+      "en": "Transported goods from the Plains of Nai travel by railways had great convenience because both provinces had railway stations. The delivery by the customer railway will be secure because the goods are safe, the transportation costs are relatively cheap. Customers often send heavy-sized and loaded goods such as art, furniture, vehicles... if sent by rail you would need to calculate further transport options to the station.",
+      "zh": "来自奈平原的运输货物由铁路出行,由于两省都有火车站,因此十分方便. 客运铁路的交付将会安全,因为货物安全,运输费用相对便宜. 顾客常常会寄出重磅重的货品,如艺术品,家具,车辆等... 如果通过铁路发送,你需要计算出更多的运输选择."
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ < 10m3": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nhẹ > 10m3": {
+      "en": "Light Row > 10m3",
+      "zh": "轻行 > 10m3"
+    },
+    "Hàng nặng < 2 tấn": {
+      "en": "Heavy Rows",
+      "zh": "重行"
+    },
+    "Hàng nặng > 2 tấn": {
+      "en": "Heavy Rows > 2 tons",
+      "zh": "重行 > 2吨"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lý do bạn nên lựa chọn dịch vụ gửi hàng từ Đồng Nai đi Thanh Hoá": {
+      "en": "The reason why you should choose the delivery service from Kosi to Qing",
+      "zh": "你为何要选择从高西到清的送货服务"
+    },
+    "Lưu ý": {
+      "en": "Attention",
+      "zh": "请注意"
+    },
+    "Lựa chọn": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn gửi hàng từ Đồng Nai đi Thanh Hoá bằng tàu hoả hay ô tô": {
+      "en": "So the option is to send the shipment from the Plains of Nai.",
+      "zh": "因此,选择是从奈平原发货."
+    },
+    "Nếu": {
+      "en": "If",
+      "zh": "若为"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phía Bắc tiếp giáp với Sơn La, Hoà Bình, Ninh Bình.": {
+      "en": "North bordered Shan La, Peace, Ninh Ping.",
+      "zh": "北接山拉,平和,宁平."
+    },
+    "Phía Nam tiếp giáp với Nghệ An.": {
+      "en": "The South approaches Art An.",
+      "zh": "南方接近艺术安."
+    },
+    "Phía Tây tiếp giáp với Lào.": {
+      "en": "The West Enclosed with Laos.",
+      "zh": "西启与老挝."
+    },
+    "Phía Đông là Vịnh Bắc Bộ.": {
+      "en": "East is the Gulf of the North.",
+      "zh": "东部是北部湾."
+    },
+    "Quãng đường từ Đồng Nai đi Thanh Hoá theo tuyến đường quốc lộ 1A sẽ dài khoảng 1.423km mất hơn 29 giờ chạy xe liên tục. Khi lên kế hoạch vận chuyển hàng hoá, bạn cần chú ý về địa chỉ chính xác lấy/giao hàng vì chênh lệch khoảng cách giữa các địa điểm trong Đồng Nai và Thanh Hoá tương đối lớn. Tính toán thêm thời gian đóng gói hàng hoá, kiểm soát hàng hoá, thủ tục giữa các trạm kiểm tra...": {
+      "en": "The route from the Plains of Nai to Qing on Route 1A will be approximately 1.23 km (4.23 km) long with more than 29 hours of continuous motorage. When planning to transport goods, you need to be interested in the exact address taken/official because of the distance between the locations in the Plain of Nai and the relatively large Qing. Computing more time packing goods, controlling goods, procedures between inspection stations...",
+      "zh": "1A国道从奈平平至清的路线将长约1.23公里(4.23公里),持续行驶超过29小时. 在计划运输货物时,需要注意取入/取出的确切地址,因为直隶平原各地相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相去相相去相去相去相去相去相去相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相 计算更多的时间包装货物,控制货物,检查站之间的程序......"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thanh Hoá là một tỉnh thành thuộc khu vực Bắc Trung Bộ, là cửa ngõ kết nối khu vực Trung Bộ và Bắc Bộ. Về vị trí địa lý của Thanh Hoá cụ thể:": {
+      "en": "The Qingtry is a municipality of the Northern Central Area, which is the gateway to the Central and Northern Infantry area.",
+      "zh": "清廷是中北部一地的地级市,是中北部步兵区的门户."
+    },
+    "Thanh Hoá sở hữu diện tích hơn 11.116km2 với hệ sinh thái khá đa dạng, được chia làm 3 dạng địa hình là vùng núi trung du, vùng đồng bằng và vùng ven biển. Địa hình của Thanh Hoá có sự phân hoá, thấp dần từ Tây sang Đông. Khí hậu được chia làm 4 mùa rõ rệt, cũng là nơi thường phải chịu những tác động lớn của thiên tai như bão lốc, lũ lụt.": {
+      "en": "The bars own an area of more than 11.116 km2 with a fairly diverse ecosystem, which is divided into three types of terrain is the middle mountain region, the plains and coastal areas. The terrain of Qingquen has the dissolution, which is lower from west to east. The climate is divided into four distinct seasons, which are also often subject to the major effects of natural disasters such as hurricanes, floods.",
+      "zh": "栏杆拥有面积超过11.116平方千米,生态系统相当多样,分为中山地,平原地和沿海地区三种地形. 清乾隆地势有解散地,由西向东降. 气候分为四个不同的季节,它们也经常受到飓风,洪水等自然灾害的严重影响."
+    },
+    "Thông tin dịch vụ được thông báo tới khách hàng rất chi tiết, hợp đồng sử dụng minh bạch.": {
+      "en": "The service information was announced to very detailed customers, contracts using transparency.",
+      "zh": "服务信息被公布给非常详细的客户,合同使用透明度."
+    },
+    "Thời gian gửi hàng từ Đồng Nai đi Thanh Hoá là bao lâu?": {
+      "en": "What's the time for the delivery from Kogi to Qing?",
+      "zh": "何等为自克吉至克清来接送."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy từng loại hàng, từng nhu cầu gửi hàng đường tàu hỏa của mỗi khách hàng là khác nhau nên giá cước cũng sẽ khác nhau. Chính vì lý do đó, quý khách vui lòng cung cấp đầy đủ thông tin về hàng hóa để được Lưu Lê báo giá chính xác cụ thể và chi tiết nhất.": {
+      "en": "Depending on the type of cargo, the demand for each customer's train shipment is different, so the rate will be different. For that reason, the guests would be pleased to provide sufficient information about the goods to be told by Liu La the most specific and detailed price.",
+      "zh": "根据货物种类不同,每趟客户的列车货运需求不同,因此费率会有所不同. 为此,嘉宾们将乐于就刘拉要告知的最具体,最详细价格的商品提供足够的信息."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về hệ thống giao thông, Thanh Hoá có đường quốc lộ 1A đi qua, đường mòn Hồ Chí Minh, đường sắt Bắc Nam và cản biển nước sâu Nghi Sơn. Chính điều kiện này giúp cho việc lưu thông hàng hoá trở nên dễ dàng hơn, việc giao lưu buôn bán giữa Đồng Nai và Thanh Hoá cũng trở nên sôi động hơn.": {
+      "en": "As for the transportation system, Qing City has a 1A highway passing through, Lake Chi Minh Trail, North Southern Railway and blocks the deep Sea of Ngai Shan, which makes it easier for the circulation of the goods, the trade between Koyi and Qing Yum also to become more intense.",
+      "zh": "至于交通系统,清城有1A高速公路经过,志明湖有道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chúng tôi sẽ tính vào hàng nhẹ. Nếu": {
+      "en": "All right, we'll make it light. If",
+      "zh": "好吧,我们会让它轻。 若为"
+    },
+    "chúng tôi sẽ tính vào hàng nặng.": {
+      "en": "We're gonna charge you hard.",
+      "zh": "我们要对你严刑拷打"
+    },
+    "cước tàu +": {
+      "en": "Train ID +",
+      "zh": "火车 ID +"
+    },
+    "dịch vụ gửi hàng từ Đồng Nai đi Thanh Hoá": {
+      "en": "The delivery service from Kogi to Qing",
+      "zh": "从高木到清的送货服务"
+    },
+    "gửi hàng từ Đồng Nai đi Thanh Hoá": {
+      "en": "Send the package from Kogi to Qing",
+      "zh": "把包裹从高木送到青城去"
+    },
+    "hiện nay được triển khai rất đa dạng. Để tìm kiếm đơn vị đồng hành trong các chuyến hàng gửi từ Đồng Nai đi Thanh Hoá bạn sẽ cần bỏ túi những thông tin chi tiết hữu ích sau.": {
+      "en": "is currently very diverse. In order to search for a companion unit in the shipments sent from Kosi to Qing Deng, you will need to pocket the following useful details.",
+      "zh": "目前情况非常多样。 为了在从克西到清邓的发货中找一个伴队,你们要将下列有用的细节包起来."
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "mà vận tải Lưu Lê cung cấp là quyết định đúng đắn của bạn. Khách hàng cá nhân hay doanh nghiệp đều tin tưởng lựa chọn Lưu Lê làm đơn vị đồng hành. Liên hệ ngay Hotline:": {
+      "en": "That Liu Li transport provides is the right decision for you. Personal or business customers are confident of selecting Liu as a companion unit. Contact Hotline:",
+      "zh": "刘力运输给你的决定是正确的 个人或企业客户有信心选择刘作伴单位. 联系人热线 :"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao Thanh Hóa": {
+      "en": "Qing hóa car",
+      "zh": "清和汽车"
+    },
+    "xe lấy Đồng Nai +": {
+      "en": "The car takes the Nai + bronze.",
+      "zh": "车取取乃伊+青铜."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đường sắt và đường bộ là hai hình thức vận chuyển hàng hoá phổ biến được sử dụng nhiều nhất hiện nay. Mỗi một hình thức lại có những ưu nhược điểm riêng, tuỳ thuộc vào nhu cầu và đặc điểm hàng hoá mà bạn lựa chọn hình thức phù hợp cho riêng mình.": {
+      "en": "Railways and roadways are the two most popular freight modes used today. Each form has its own strengths, depending on the needs and characteristics of goods that you choose your own.",
+      "zh": "铁路和公路是当今最受欢迎的两种货运方式. 每种形式都有自己的长处,取决于自己选择的商品的需求和特点."
+    },
+    "Đối với hàng hóa là xe máy hoặc chuyển nhà trọn gói hãy liên hệ để được chúng tôi tư vấn báo giá cụ thể.": {
+      "en": "For goods are motorcycles or package move to contact to be advised the price specific.",
+      "zh": "货物是摩托车或包裹移动以接触,以了解具体价格。"
+    },
+    "Đối với hàng nhẹ (tính theo m3):": {
+      "en": "For light row (calculated by m3):",
+      "zh": "对于轻行(以m3计算):"
+    },
+    "Đối với hàng nặng (tính theo kg):": {
+      "en": "For heavy items (calculated by kg):",
+      "zh": "重型物品(按公斤计算):"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đồng Nai - Thanh Hóa": {
+      "en": "Co-Nai - Qingization",
+      "zh": "相奈-清化"
+    },
+    "Đội ngũ nhân viên tư vấn chuẩn xác, nhiệt tình và tận tâm.": {
+      "en": "The team of staff of proper advisory, enthusiasm and devotion.",
+      "zh": "具有适当咨询、热情和献身精神的工作人员团队。"
+    },
+    "để được tư vấn, báo giá các dịch vụ gửi hàng hoá trong khu vực toàn quốc nhanh chóng, chính xác bạn nhé!": {
+      "en": "To be advised, tell the price of delivery services in the national area quickly, exactly you!",
+      "zh": "请注意,快说出全国范围内的交付服务价格, 正是你!"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

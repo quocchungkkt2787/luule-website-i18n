@@ -1,0 +1,938 @@
+{
+  "route": "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-long-an",
+  "texts": {
+    "1,000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "1,500,000đ/chuyến": {
+      "en": "1,50,000 p.m.",
+      "zh": "下午1时50 000分"
+    },
+    "150,000đ/m3": {
+      "en": "150,000 dm/m3",
+      "zh": "15万德米/立方米"
+    },
+    "18 Tháng 3 2022": {
+      "en": "18 March 2022",
+      "zh": "2022年3月18日 (中文(简体) )."
+    },
+    "1m3 < 300kg": {
+      "en": "1 m3 (300 kg)",
+      "zh": "1立方米(300公斤)"
+    },
+    "1m3 > 300kg": {
+      "en": "1m3 > 300 kg",
+      "zh": "1立方米 > 300公斤"
+    },
+    "300đ/kg": {
+      "en": "300 mph/kg",
+      "zh": "300 mph/kg (单位:公斤)"
+    },
+    "380,000đ/m3": {
+      "en": "3DMD/m3",
+      "zh": "3DMD/立方米"
+    },
+    "500đ/kg": {
+      "en": "500 mph/kg",
+      "zh": "500 毫克/千克"
+    },
+    "700,000đ/chuyến đến 900,000đ/chuyến": {
+      "en": "700,000 per tour.",
+      "zh": "每巡演70万."
+    },
+    "80,000đ/m3": {
+      "en": "DD/m3",
+      "zh": "设计/立方米"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách từ Nam Định đi Long An": {
+      "en": "The distance map from Nam to Long An",
+      "zh": "南至长安的相距图"
+    },
+    "Bảng giá cước dịch vụ gửi hàng từ Nam Định đi Long An": {
+      "en": "The shipping ratings from Nam Are going to Long An",
+      "zh": "南航的收视率要到长安了"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Nam Định Long An": {
+      "en": "Southern Rows",
+      "zh": "南行"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp đầy đủ hợp đồng dịch vụ, hóa đơn, biên lai đến khách hàng.": {
+      "en": "Provides full service contracts, bills, receipts to customers.",
+      "zh": "向客户提供完整的服务合同,账单,收据."
+    },
+    "Các tuyến đường hiện đại tại Long An dần được hình thành, thay đổi diện mạo mới của tỉnh. Tuyến đường ĐT 830, ĐT 825, DDT 823… giữ vai trò quan trọng kết nối các địa phương trong tỉnh, các khu, cụm công nghiệp.": {
+      "en": "Modern routes at Long An were gradually formed, changing the new appearance of the province. The Pantoufle Route 830, Pancho 825, DDT 823... plays a key role in connecting locals in the province, wards, industrial clusters.",
+      "zh": "龙的现代路线 An逐渐形成,改变了该省的新外观. Pantoufle路830号,Pancho 825号,DDT 823号... 在连接全省当地人,病房,工业集群方面发挥着关键作用."
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cùng với sự phát triển kinh tế của khắp các tỉnh thành trong cả nước, nhu cầu sử dụng dịch vụ": {
+      "en": "Along with the economic development of the provinces throughout the country, the need for services",
+      "zh": "伴随着全国各省的经济发展,服务需求"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ gửi hàng từ Nam Định đi Long An uy tín, giá rẻ": {
+      "en": "The delivery service from Nam intended to go Long An prestigious, cheap",
+      "zh": "阿南的送货服务 本来是去长安的 有声望的便宜货"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước rẻ, công khai, minh bạch.": {
+      "en": "Cheap, public, transparent prices.",
+      "zh": "便宜,公开,透明的价格."
+    },
+    "Giá cước vận chuyển hàng tuyến đường Nam Định đi Long An được tính bằng công thức chung, cụ thể là:": {
+      "en": "The rate of shipping the South Road Plan to Long An is calculated by general formula, namely:",
+      "zh": "南道计划通航至长安的航速按一般公式计算,即:"
+    },
+    "Giới thiệu đôi nét về tuyến gửi hàng từ Nam Định đi Long An": {
+      "en": "A few outlines of the shipping line from Nam to Long An",
+      "zh": "南通至长安的几条航线简介"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định Miền Nam": {
+      "en": "Send South of the South",
+      "zh": "南边的南边"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Nam Định đi Đồng Nai": {
+      "en": "Send the package from the South.",
+      "zh": "从南方寄来包裹."
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa an toàn giao đến khách hàng. Nếu có rủi ro chúng tôi chịu trách nhiệm đền bù thiệt hại.": {
+      "en": "Safety goods delivered to customers. If there's a risk we're responsible for the damage.",
+      "zh": "向客户交付安全物品。 如果有危险,我们应对损害负责。"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ < 10m3": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nhẹ > 10m3": {
+      "en": "Light Row > 10m3",
+      "zh": "轻行 > 10m3"
+    },
+    "Hàng nặng < 2 tấn": {
+      "en": "Heavy Rows",
+      "zh": "重行"
+    },
+    "Hàng nặng > 2 tấn": {
+      "en": "Heavy Rows > 2 tons",
+      "zh": "重行 > 2吨"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Không phải ngẫu nhiên, trong hơn 10 năm qua Vận tải Lưu Lê vẫn nhận được sự ưu ái của mọi khách hàng. Bởi chúng tôi có nhiều thế mạnh mang đến lợi ích cho khách hàng.": {
+      "en": "Not by accident, for over ten years Liu Li Transport has still received the favor of all customers. Because we have a lot of power that benefits our customers.",
+      "zh": "并非偶然,十年多来,刘力运输仍然得到所有顾客的青睐. 因为我们拥有很多力量 有利于我们的客户。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Long An là tỉnh nằm trong vùng trọng điểm kinh tế phía Nam, là cửa ngõ kết nối giữa Sài Gòn và Campuchia. Long An có tốc độ tăng trưởng kinh tế cao, nguồn lực dồi dào, môi trường đầu tư thoải mái, thân thiện, khí hậu ôn hòa…tạo điều kiện thuận lợi cho Long An phát triển và thu hút lượng lớn nhà đầu tư nước ngoài.": {
+      "en": "Long An is the province located in the southern economic point zone, which is the gateway between Saigon and Cambodia. Long An has high economic growth rate, abundant resources, comfortable, friendly, moderate climate investment environments... the conditions for Long An to develop and attract large amounts of foreign investors.",
+      "zh": "长 安省(An)是位于南部经济点区的省份,是西贡和柬埔寨之间的出入口. 长 一个具有高经济增长率,丰富资源,舒适,友好,温和的气候投资环境. 长安发展和吸引大量外商投资的条件."
+    },
+    "Lý do bạn nên lựa chọn dịch vụ gửi hàng từ Nam Định đi Long An": {
+      "en": "The reason why you should choose the delivery service from South Korea to Long An",
+      "zh": "你为何选择从韩国到长安的送货服务"
+    },
+    "Lưu ý": {
+      "en": "Attention",
+      "zh": "请注意"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng lưới giao thông vận tải đồng bộ về đường sắt, đường bộ, đường thủy.": {
+      "en": "The transport network is synchronized on railways, roads, and waterways.",
+      "zh": "运输网络在铁路,公路,和水道上同步."
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nam Định - Long An": {
+      "en": "Nanjing - Long An",
+      "zh": "南京-长安"
+    },
+    "Nam định nằm ở khu vực trung tâm phía Nam đồng bằng sông Hồng, có diện tích tự nhiên khoảng 1.668km2. Địa hình khá bằng phẳng, chủ yếu là vùng đồng bằng ven biển và vùng đồng bằng thấp trũng.": {
+      "en": "Nam is located in the central region of the South River Plain, which has a natural area of about 1.68 km2. The terrain is quite flat, mainly coastal plains and low plains.",
+      "zh": "南地地处南河平原中部,地势自然,面积约1.68平方千米. 地势相当平坦,以沿海平原和低平地为主."
+    },
+    "Nhân công trẻ, khỏe, nhiệt huyết, có trình độ và kinh nghiệm hành nghề.": {
+      "en": "Young workers, well-being, enthusiasm, qualified and professional experience.",
+      "zh": "青年工人,幸福,热情,合格和专业经验."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn gửi hàng từ Nam Định đi Long An bằng tàu hoả hay ô tô": {
+      "en": "So the option of sending the package from Nam is to go to Long An by train or car",
+      "zh": "所以从南来送包裹的选择是坐火车或车去长安"
+    },
+    "Nếu": {
+      "en": "If",
+      "zh": "若为"
+    },
+    "Nếu có thắc mắc bạn vui lòng liên hệ tới số Hotline:": {
+      "en": "If you have a question, please relate to Hotline number:",
+      "zh": "如果您有问题,请联系热线号码:"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình làm việc chuyên nghiệp, có kế hoạch rõ ràng.": {
+      "en": "Professional work process, clear plan.",
+      "zh": "专业工作流程,明确计划."
+    },
+    "Sở hữu những lợi thế về vị trí địa lý và giao thông thuận lợi nhu cầu sử dụng dịch vụ gửi/vận chuyển hàng hóa từ Nam Định đi Long An ngày càng tăng cao.": {
+      "en": "Owning advantage in geographical and traffic positions in favour of the need to use the sending/subscription service from South Korea to Long An is increasing.",
+      "zh": "在地理和交通位置上,由于需要使用从南朝鲜到长安的发送/订阅服务,因此优势越来越大。"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, nếu chạy theo tuyến đường 13, quãng đường di chuyển từ Nam Định đi Long An dài khoảng 1.470km, tương đương khoảng 27 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Nam Định đi Long An mất khoảng 4 - 5 ngày.": {
+      "en": "According to Google Maps's instructions, if run along Route 13, the distance from South Korea to Long An is approximately 1,370 miles (11,370 km) long, equivalent to about 27 hours. So the time for freight from the South was going to Long An to take about 4 to 5 days.",
+      "zh": "根据Google Maps的指示,如果沿着13号公路运行,从韩国到长安的距离约为1,370英里(11,370公里)长,相当于约27小时. 因此从南方运去长安的时间大约需要4到5天."
+    },
+    "Thời gian gửi hàng từ Nam Định đi Long An là bao lâu?": {
+      "en": "How long is the delivery time from Nam to Long An?",
+      "zh": "从南到长安的送货时间有多长?."
+    },
+    "Thời gian vận chuyển đúng như thỏa thuận ban đầu.": {
+      "en": "The transport time was exactly as agreed.",
+      "zh": "运输时间完全如所商定。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là thông tin về dịch vụ": {
+      "en": "Above is service information",
+      "zh": "以上是服务信息"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy thuộc vào nhu cầu, đặc điểm hàng hóa, quãng đường di chuyển, khách hàng có thể lựa chọn cho mình phương thức vận chuyển phù hợp nhất, cụ thể là:": {
+      "en": "Depending on demand, goods specifications, distance travel, customers can choose for themselves the most consistent method of transportation, namely:",
+      "zh": "根据需求、货物规格、距离旅行,客户可以自行选择最一致的运输方式,即:"
+    },
+    "Tùy từng loại hàng, từng nhu cầu gửi hàng đường tàu hỏa của mỗi khách hàng là khác nhau nên giá cước cũng sẽ khác nhau. Chính vì lý do đó, quý khách vui lòng cung cấp đầy đủ thông tin về hàng hóa để được Lưu Lê báo giá chính xác cụ thể và chi tiết nhất.": {
+      "en": "Depending on the type of cargo, the demand for each customer's train shipment is different, so the rate will be different. For that reason, the guests would be pleased to provide sufficient information about the goods to be told by Liu La the most specific and detailed price.",
+      "zh": "根据货物种类不同,每趟客户的列车货运需求不同,因此费率会有所不同. 为此,嘉宾们将乐于就刘拉要告知的最具体,最详细价格的商品提供足够的信息."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Vùng ven biển có đường bờ biển dài, nhiều nơi có bãi cát mịn đẹp, thích hợp để phát triển du lịch như Quất Lâm (Giao Thủy), Thịnh Long (Hải Hậu), Rạng Đông (Nghĩa Hưng)….Nam Định có các con sông lớn như sông Đáy, sông Hồng, sông Ninh Cơ, bồi đắp phù sa, giúp tưới tiêu cho sản xuất nông nghiệp.": {
+      "en": "The coastal area has long coasts, many of which have fine sandy beaches, suitable to develop tours such as Meadow (Transian), Shing Long (Seam), Midlands (January)........The decision is to have large rivers such as the Hague River, the Red River, the Niiji River, salutation, which helps to water agricultural production.",
+      "zh": "沿海地区有很长的海岸,许多有细细的沙滩,适合发展出诸如梅道(Transian),胜长(Seam),中地(一月)等旅游. . 决定有\"海牙河\",\"红河\",\"来济河\"等大型河流来取水,有利于农业生产."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển bằng đường sắt ra đời từ lâu và được nhiều khách hàng lựa chọn bởi giá thành rẻ, hàng hóa vận chuyển an toàn. Cho dù quãng đường di chuyển xa, hàng hóa có tải trọng lớn, cồng kềnh thì tàu hỏa vẫn chở được dễ dàng.": {
+      "en": "Rail transport was long born and was chosen by many customers by the price of cheap, safe freight. Even if the distance is long, the cargo is heavily loaded, the train can carry it easily.",
+      "zh": "铁路运输诞生了很长一段时间,由许多客户以廉价安全货运的价格选择. 即使距离很长,货物也满载,列车也可以轻松地搭载."
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa bằng đường bộ cũng là ý tưởng hay đối với khách hàng thích sự linh hoạt, cơ động. Thủ tục khá đơn giản, không tốn nhiều thời gian, bạn có thể chủ động về mặt thời gian.": {
+      "en": "Transportation by landway is also a good idea for customers who prefer flexibility, motorism. The procedure is quite simple, it doesn't take long, you can take the initiative in time.",
+      "zh": "陆路运输对于更喜欢灵活性,机动主义的客户来说也是一个好主意. 程序相当简单,时间不长,可以及时主动."
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đường bộ: các tuyến đường huyết mạch đi qua như quốc lộ 10, 21, 21B kéo dài, 37B kéo dài, 38B; đường cao tốc Hà Nội – Ninh Bình…": {
+      "en": "About the route: the bloodways pass as Highway 10, 21, 21B lasts, 37B lasts, 38B; the Hanoi Highway – Ninh Ping...",
+      "zh": "关于路线:出血道通过为10,21,21B接续道,37B接续道,38B接续道;河内高速公路-宁平道. ."
+    },
+    "Về đường sắt: Có đường sắt xuyên Việt chạy qua dài khoảng 42km với 6 nhà ga.": {
+      "en": "About the Railroad: There's Transit Railways running around about 42 km long with six stations.",
+      "zh": "关于铁路:有通铁路通车 全长约42公里,设站6座."
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chúng tôi sẽ tính vào hàng nhẹ. Nếu": {
+      "en": "All right, we'll make it light. If",
+      "zh": "好吧,我们会让它轻。 若为"
+    },
+    "chúng tôi sẽ tính vào hàng nặng.": {
+      "en": "We're gonna charge you hard.",
+      "zh": "我们要对你严刑拷打"
+    },
+    "cước tàu +": {
+      "en": "Train ID +",
+      "zh": "火车 ID +"
+    },
+    "gửi hàng từ Nam Định đi Long An": {
+      "en": "Send the package from Nam to Long An",
+      "zh": "把包裹从南去长安"
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "ngày càng cao. Tìm kiếm đơn vị cung cấp dịch vụ uy tín, chất lượng là điều rất cần thiết. Bài viết sau đây sẽ mách nhỏ đến bạn dịch vụ của Vận tải Lưu Lê, vừa an toàn, tiết kiệm.": {
+      "en": "It's getting higher. Search for the unit that provides prestigious, quality is essential. The following article will tell you the services of Liu Transport, both safe and saved.",
+      "zh": "越来越高. 寻找提供有声望和质量的单位至关重要。 以下文章将讲述刘运的既安全又被拯救的服务."
+    },
+    "nếu có nhu cầu sử dụng dịch vụ nhé bạn!": {
+      "en": "If you need a service, man!",
+      "zh": "如果你需要服务,伙计!"
+    },
+    "trên đây của Vận tải Lưu Lê, hy vọng sẽ giúp bạn có sự lựa chọn chính xác nhất. Liên hệ qua số hotline": {
+      "en": "On this side of Liu Li Transport, hope will enable you to make the most accurate choice. Contact over number hotline",
+      "zh": "刘立运的这一面,希望能使您作出最准确的选择. 通过号码热线联系"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao Long An": {
+      "en": "Long An delivery car",
+      "zh": "长 送货车"
+    },
+    "xe lấy Nam Định +": {
+      "en": "Car grabs South Count +",
+      "zh": "汽车抓取 南方计数 +"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đường biển: đường bờ biển dài hơn 72km, nhiều hệ thống sông lớn và cảng sông phân bố đồng đều khắp tỉnh…": {
+      "en": "The coast: The coast is more than 72 km long, many large river systems and river ports distributed copper across the province...",
+      "zh": "沿海:沿海全长72多千米,多处大型河道系统和河口港口在全省分布出铜. ."
+    },
+    "Đối với hàng hóa là xe máy hoặc chuyển nhà trọn gói hãy liên hệ để được chúng tôi tư vấn báo giá cụ thể.": {
+      "en": "For goods are motorcycles or package move to contact to be advised the price specific.",
+      "zh": "货物是摩托车或包裹移动以接触,以了解具体价格。"
+    },
+    "Đối với hàng nhẹ (tính theo m3):": {
+      "en": "For light row (calculated by m3):",
+      "zh": "对于轻行(以m3计算):"
+    },
+    "Đối với hàng nặng (tính theo kg):": {
+      "en": "For heavy items (calculated by kg):",
+      "zh": "重型物品(按公斤计算):"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được Lưu Lê giải đáp 24/7!": {
+      "en": "To be answered by Liu 24/7!",
+      "zh": "由刘24/7回答!"
+    },
+    "→ Lưu ý: Khoảng thời gian trên không tính vào thời gian giao/nhận hàng, các yếu tố thiên tai, dịch họa, thời tiết, khí hậu…": {
+      "en": "( > Note: Airtime counts at delivery time/takeover time, natural elements, plague, weather, climate...",
+      "zh": "( > 注:空出时间计于交货时间/接货时间,自然元素,瘟疫,天气,气候."
+    },
+    "► Vận chuyển hàng từ Nam Định đi Long An bằng đường bộ (ô tô)": {
+      "en": "Transportation from South to Long An by land",
+      "zh": "从南到长的运输 陆路"
+    },
+    "► Vận chuyển hàng từ Nam Định đi Long An bằng đường sắt (tàu hỏa)": {
+      "en": "Transportation from South to Long An by railway",
+      "zh": "从南到长的运输 铁路"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

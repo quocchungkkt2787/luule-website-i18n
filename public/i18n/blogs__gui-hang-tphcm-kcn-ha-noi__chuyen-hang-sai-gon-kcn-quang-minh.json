@@ -1,0 +1,806 @@
+{
+  "route": "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-quang-minh",
+  "texts": {
+    ". Nếu muốn quy trình chuyển hàng đến KCN Quang Minh nhanh gọn, an toàn thì hãy liên hệ hotline": {
+      "en": "Yeah. If you want the delivery process to the KNN Ming quickly, safely, contact the hotline.",
+      "zh": "对 如果您想快速,安全地向KNN明发送流程,请联系热线."
+    },
+    "15 Tháng 8 2022": {
+      "en": "15 August 2022",
+      "zh": "2022年8月15日 (中文(简体) )."
+    },
+    ">>> Hãy tham khảo bảng giá vận chuyển của Lưu Lê tại đây:": {
+      "en": "> DSV refer to Liu's shipping panel here:",
+      "zh": "> DSV在这里提到刘的航运面板:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 1: Thông qua hotline hoặc trang web, Lưu Lê tiếp nhận thông tin của khách muốn gửi hàng Sài Gòn - KCN Quang Minh. Sau đó nhân viên tư vấn sẽ giới thiệu qua về dịch vụ cũng như tiếp nhận những mong muốn của khách hàng.": {
+      "en": "Step 1: via hotline or website, Liu Liu receives information from his client who wants to send Saigon - KNNN Ming. Then the counselor will introduce you to the service as well as to the wishes of the customer.",
+      "zh": "第1步:通过热线或网站,刘刘从想送西贡的客户那里得到信息-克能明. 然后,顾问会给你介绍 服务以及客户的愿望。"
+    },
+    "Bước 2: Vận tải Lưu Lê cử nhân viên xuống kho để khảo sát thực tế. Xem số lượng, loại hàng cần gửi và địa chỉ tại đây. Sau đó báo giá hợp đồng gửi hàng Sài Gòn - KCN Quang Minh sát với thực tế.": {
+      "en": "Step 2: Liu Transport sent staff down to the warehouse to survey reality. See the number, the type of goods to send and the address here. The price of the contract was then announced to send Saigon - KNN Ming close to reality.",
+      "zh": "第2步:刘运派工作人员下仓调查实际情况. 参见编号,发送货物类型和地址. 随后宣布合同价格将送出西贡-克能明贴近现实."
+    },
+    "Bước 3: Hai bên thống nhất các yêu cầu, nhiệm vụ và điều khoản để ký hợp đồng vận chuyển.": {
+      "en": "Step 3: The two sides unite the requirements, duties and terms to sign the transport contract.",
+      "zh": "第3步:双方将签署运输合同的要求,义务和条件统一起来."
+    },
+    "Bước 4: Kiểm kê hàng hóa trước khi chuyển, bốc xếp và chuyển hàng đến KCN Quang Minh như hợp đồng đã ký.": {
+      "en": "Step 4: Check the cargo before the transfer, line up and move the cargo to KNNN Ming as signed contracts.",
+      "zh": "第4步:在转移前检查货物,排好队并按签定的合同将货物运往克南明."
+    },
+    "Bước 5: Kiểm kê hàng hóa sau khi đến KCN, bàn giao và tiến hành thanh toán.": {
+      "en": "Step 5: Check the inventory after arriving in KNC, handouts, and payments.",
+      "zh": "第5步:在抵达科索沃国民委员会后检查库存、发放和付款。"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá vận chuyển hàng hóa Bắc Nam": {
+      "en": "North Vietnamese freight panel",
+      "zh": "北越货运面板"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí chuyển hàng bao gồm phí vận tải bằng đường sắt + chi phí chuyển từ nhà ga đến hai kho Sài Gòn và KCN Quang Minh.": {
+      "en": "The shipping costs include railway transport costs + the cost of moving from the station to two Saigon and KNNN Ming depots.",
+      "zh": "发运费用包括铁路运输费用+从站台到两个西贡站和KNNN明站站台的费用."
+    },
+    "Chi phí chuyển hàng từ Sài Gòn ra KCN Quang Minh hợp lý, phải chăng nhất thị trường.": {
+      "en": "The cost of shipping from Saigon to KNN Ming makes sense, is not the market most likely.",
+      "zh": "从西贡到KNN明的运输成本是有道理的,并不是最有可能的市场."
+    },
+    "Chi phí tháo dỡ, bốc xếp hàng, đóng gói (nếu có) + chi phí bốc xếp (nếu có) sẽ phụ thuộc vào khối lượng hàng, nhân công và thiết bị sử dụng.": {
+      "en": "The cost of dismantling, line-up, packing (if any) + the cost of loading (if any) will depend on mass, workers and equipment used.",
+      "zh": "拆卸、排出、包装(如果有)+装载(如果有)成本将取决于使用的质量、工人和设备。"
+    },
+    "Chuyển hàng Sài Gòn KCN Quang Minh": {
+      "en": "Transfer of Saigon.",
+      "zh": "调出西贡."
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá gửi hàng Sài Gòn - KCN Quang Minh = Chi phí tháo dỡ, bốc xếp hàng, đóng gói (nếu có) + chi phí bốc xếp (nếu có) + chi phí vận chuyển đến KCN Quang Minh.": {
+      "en": "The Price of Saigon - KNN Ming = The cost of dissolution, lineup, packing (if any) + the cost of loading (if any) + transportation costs to KNNN Ming.",
+      "zh": "西贡价格-克NN明 = 溶解成本,分出,包装(如有)+加载成本(如有)+克NNN明的运输成本."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng TP.HCM KCN Hà Nội": {
+      "en": "Send TP.HCM KNC Hanoi",
+      "zh": "发送 TP.HCM KNC 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng hóa vận chuyển an toàn, chắc chắn đúng chất lượng và đủ số lượng.": {
+      "en": "Safe transport goods, sure enough quality and quantity enough.",
+      "zh": "安全运输货物,保证质量和数量足够."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KCN Quang Minh được đánh giá là có vị trí địa lý và giao thông rất thuận tiện. Từ đây đến trung tâm thủ đô Hà Nội chỉ khoảng 10km, nằm ngay cạnh các đường quốc lộ lớn, trong đó có Nội Bài - Lào Cai. Đặc biệt, từ KCN Quang Minh đến sân bay Nội Bài chỉ khoảng 7km, đến ga Hà Nội chỉ 25km. Nơi đây cũng rất gần các khu dân cư, dịch vụ công công.": {
+      "en": "KNN Ming is rated for geographical and traffic positions that are very convenient. From here to the center of Hanoi's capital is about 10 km (10 km), located just next to the major highways, including the Cabinet - Laos Cai. It is also very close to residential areas, public services.",
+      "zh": "KNN明被评为地理和交通位置非常方便. 从这里到河内省会中心约10公里(10公里),地处包括内阁-老挝蔡等主要高速公路相邻. 它也非常接近住宅区,公共服务."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khu công nghiệp Quang Minh có địa chỉ ở thuộc cả Thị trấn Quang Minh và Thị trấn Chi Đông, huyện Mê Linh, Hà Nội. Diện tích KCN Quang Minh là 344ha, với tỷ lệ lấp đầy 100%. KCN này thu hút rất nhiều nhà đầu tư lớn trong nước và nước ngoài. Với các ngành chính như là Sản xuất, chế tạo thiết bị cơ khí chính xác, phụ tùng ô tô, xe máy,... Tính đến hiện nay, khu công nghiệp Quang Minh có hơn 133 doanh nghiệp hoạt động và tạo việc làm cho hơn 38.000 công nhân.": {
+      "en": "The Light Ming Industrial Zone has an address in both the Town of Light and Chi East Towns, the district of Mellum, Hanoi. The area of KNNN Ming is 334ha, with this 100% fill-up rate of KNC attracts a lot of major investors in the country and abroad. With major industries such as manufacturing, precise mechanical equipment, car parts, motorcycles,... As of now, the Ming industry has more than 133 businesses that operate and create jobs for more than 38,000 workers.",
+      "zh": "光明工业区有位于河内市梅勒姆区光明镇和济东镇的地址. KNNN明的面积为334ha,KNC的这一100%的填充率吸引了国内外许多主要投资者. 以制造业,精确机械设备,汽车零部件,摩托车等主要产业为主. 截至目前,明一行有企业133多家,为3.8万多工人经营并创造就业机会."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê - Đơn vị gửi hàng từ Sài Gòn đến KCN Quang Minh uy tín": {
+      "en": "Liu Levi - Division sends from Saigon to KNN Ming Fame",
+      "zh": "刘利未 - 师从西贡向克南明出名"
+    },
+    "Lưu Lê cam kết thực hiện mọi điều khoản trong hợp đồng gửi hàng Sài Gòn - KCN Quang Minh.": {
+      "en": "Liu La is committed to implementing all terms in the Saigon-KNN Ming delivery agreement.",
+      "zh": "刘拉承诺执行\"西贡-克南明交付协议\"中的所有条款."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Một đơn vị vận tải uy tín, luôn có quy trình chuyển hàng chuyên nghiệp. Các bước sẽ được đưa ra rõ ràng và thực hiện theo một cách chuẩn xác.": {
+      "en": "A prestigious transport unit, always a professional delivery procedure. The steps will be given clear and carried out in a precise manner.",
+      "zh": "一个著名的运输单位, 总是专业的交货程序。 将明确采取这些步骤,并准确地加以实施。"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu gửi hàng Sài Gòn - KCN Quang Minh": {
+      "en": "The need to send Saigon",
+      "zh": "需要派西贡"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ sở hữu ưu điểm về vị trí và giao thông, nên KCN Quang Minh hoạt động giao thương vô cùng sôi nổi. Các cá nhân, doanh nghiệp trong KCN Quang Minh thực hiện giao nhận hàng hóa hằng ngày. Không chỉ gửi hàng, sản phẩm đến các khu vực trong nước và quốc tế. Mà tại KCN Quang Minh, cũng rất thường xuyên nhận hàng từ những nơi khác. Điển hình trong đó là Sài Gòn, với đa dạng các mặt hàng nhận như là thiết bị điện tử, thực phẩm, tài liệu, xe cộ,...": {
+      "en": "As a result of the ownership of the position and traffic benefits, KNNN Ming became extremely active in trade. Individuals, businesses in the KNC Ming perform daily delivery. More than just sending goods, products to domestic and international areas. It's at KNN Ming that also very often receives supplies from other places. Examples of it are Saigon, with a variety of receivers such as electronic equipment, food, documents, vehicles,...",
+      "zh": "由于地位所有权和交通利益,克能明在贸易上变得极为活跃. 个人,KNC明的商行每天进行送货. 不仅仅是把商品,产品送到国内和国际领域. 在克南明也经常收到来自其他地方的补给. 它的例子有西贡,拥有电子设备,食品,文件,车辆等多种接收器."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình": {
+      "en": "Processes",
+      "zh": "进程"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong khu công nghiệp Quang Minh có cơ sở hạ tầng được xây dựng đầy đủ và hiện đại. Với giao thông nội bộ gồm 4 làn đường chính, dài 36m và hai làn đường phụ, dài 24m. Nguồn điện được cung cấp đầy đủ, với công suất 60MVA. Hơn nữa, hệ thống nước sạch hoạt động 14.000m3/day, đáp ứng cho các doanh nghiệp hoạt động hiệu quả. Trong KCN cũng có hệ thống xử lý nước thải, Internet và viễn thông, phòng cháy chữa cháy,... Tất cả đều được quy hoạch rõ ràng, giúp mọi hoạt động trong KCN Quang Minh diễn ra suôn sẻ.": {
+      "en": "In the Light Ming Industrial Area there is a comprehensive and modern infrastructure. With internal traffic consisting of 4 main lanes, 36 m long and two side lanes, 24 m long. The power source is fully supplied, with 60MVA capacity. Furthermore, the clean water system operates 1370m3/day, responding to effective businesses. In KNC there are also wastewater processing systems, Internet and communications, fire departments,... All are well-planned, making every operation in KNA Ming go smoothly.",
+      "zh": "光明工业区有全面现代化的基础设施. 内部交通由4个正道组成,长36米,并设有2个侧道,长24米. 电源完全供给,拥有60个MVA容量. 此外,清洁水系统每天运作1370立方米,以适应有效的商业。 KNC也有废水处理系统,互联网和通信,消防部门,...... 这一切都是精心策划的,使KNA明的每一个行动都顺利进行."
+    },
+    "Trong đó:": {
+      "en": "In it:",
+      "zh": "其中:"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những chia sẻ của chúng tôi về thông tin cần biết khi": {
+      "en": "These are our shares of information to know when",
+      "zh": "这些是我们要知道的信息"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê hoạt động 24/7, sẵn sàng phục vụ nhu cầu chuyển hàng khi có yêu cầu.": {
+      "en": "Liu transport operates 24/7, ready to serve shipping requirements when requested.",
+      "zh": "刘通运输全天候运营,随时可以按要求满足航运需要."
+    },
+    "Vận tải Lưu Lê luôn là cái tên được mọi người nhắc đến đầu tiên khi muốn gửi hàng đến các khu công nghiệp. Nhất là quãng đường từ Sài Gòn - KCN Quang Minh. Với kinh nghiệm nhiều năm trong việc vận chuyển, vận tải Lưu Lê luôn đưa ra những phương án có lợi và ưu đãi nhất dành cho khách hàng.": {
+      "en": "Liu Li Transport is always the first to be mentioned by people when they want to send supplies to industrial areas. Especially the distance from Saigon-KN Ming. With years of experience in transportation, Liu Liu Li always offers the most favorable and preferential options for customers.",
+      "zh": "刘力运输在想将物资送到工业区时,总是被人们首先提到. 特别是西贡-克能明的相去. 凭借多年的运输经验,刘刘力始终为顾客提供最有利和最优惠的选择."
+    },
+    "Vận tải Lưu Lê sẽ đền bù 100% giá trị nếu có thiệt hại do phía công ty gây ra.": {
+      "en": "Liu transport will compensate 100% of the value if there is damage done by the company.",
+      "zh": "如果公司受损,刘运会赔偿100%的价值."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Lưu Lê ngay nhé.": {
+      "en": "Liu's right away.",
+      "zh": "刘'即位."
+    },
+    "gửi hàng Sài Gòn - KCN Quang Minh": {
+      "en": "Send Saigon",
+      "zh": "发送西贡"
+    },
+    "là vấn đề mà rất nhiều người đang quan tâm. Vậy hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để biết thêm thông tin về KCN này. Cũng như cách gửi hàng đến đây thật suôn sẻ và thuận lợi nhất nhé.": {
+      "en": "A lot of people are concerned about. So let's refer to the article below, for more information about the KNC. Just like the best way to send the goods here.",
+      "zh": "很多人都很担心 请参看以下文章,关于KNC的更多信息. 就像送货的最好方法一样"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về KCN Quang Minh": {
+      "en": "Bits of the Battle of Light",
+      "zh": "光之战的比特"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị gửi hàng Sài Gòn - KCN Quang Minh uy tín nhất": {
+      "en": "The Division sends Saigon - the most prestigious KNWN",
+      "zh": "组织派西贡 - 最有名的KNWN"
+    },
+    "Đảm bảo thời gian gửi hàng đến KCN Quang Minh là nhanh chóng và chính xác như thỏa thuận.": {
+      "en": "Make sure the time to send the shipment to KNN Ming is swift and exact as agreed.",
+      "zh": "确保把货物送到克南明的时间迅速而精确地符合约定."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "► Giá chuyển hàng từ Sài Gòn ra KCN Quang Minh của Lưu Lê": {
+      "en": "The price of shipping from Saigon to the KNN Ming of Liu",
+      "zh": "从西贡到刘克明的船价"
+    },
+    "► Những ưu đãi mà vận tải Lưu Lê mang đến cho khách hàng sử dụng dịch vụ": {
+      "en": "The privileges that Liu Li transport offers to customers using services",
+      "zh": "刘力运输给客户使用服务的特权"
+    },
+    "► Quy trình gửi hàng Sài Gòn - KCN Quang Minh": {
+      "en": "\"KNNNNN Orders Protocol\".",
+      "zh": "\"KNNNN命令协议\"."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

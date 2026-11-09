@@ -1,0 +1,842 @@
+{
+  "route": "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-bac-lieu",
+  "texts": {
+    ". Nếu bạn đang có nhu cầu vận chuyển hàng hóa trên cung đường này thì hãy liên hệ vận chuyển Lưu Lê ngay để được tư vấn trực tiếp.": {
+      "en": "Yeah. If you are in need of freight on this road then contact Liu Li's transport immediately for direct advice.",
+      "zh": "对 如需在这条公路上办理货运,请立即联系刘力的接送,直接咨询."
+    },
+    "07 Tháng 4 2022": {
+      "en": "07 April 2022",
+      "zh": "2022年4月07日 (中文(简体) )."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Báo giá dịch vụ chuyển hàng từ Sài Gòn (TpHCM) đi Bạc Liêu bằng xe tải": {
+      "en": "Report the shipping price from Saigon (TpHCM) to Silver Mint by truck",
+      "zh": "用卡车报告从西贡(TpHCM)到银矿的运输价格"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách từ Sài Gòn đi Bạc Liêu": {
+      "en": "The distance map from Saigon to Silver Mint",
+      "zh": "西贡到银矿的距离图"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bộ phận tư vấn sẽ ngay lập tức nhận thông tin và đưa ra báo giá dịch vụ chuyển hàng từ Sài Gòn đi Bạc Liêu chính xác nhất. Tùy thuộc vào yêu cầu của khách hàng và loại hàng hóa mà cước phí vận chuyển có thể thay đổi.": {
+      "en": "The Advisory Department will immediately receive information and issue a notice of the shipping price from Saigon to Silver Mint as accurate as possible. Depending on the customer's requirements and the kind of goods the transportation costs may change.",
+      "zh": "咨询部会立即收到资料并发出尽可能准确从西贡到银矿的发货价格通知. 根据客户的要求和货物种类,运输费用可能会有变化。"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Sài Gòn Bạc Liêu": {
+      "en": "Silver Saigon Transportation",
+      "zh": "银色西贡运输"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các mặt hàng vận chuyển từ Sài Gòn (TpHCM) đi Bạc Liêu": {
+      "en": "Transported goods from Saigon (TpHCM) to Silver Mint",
+      "zh": "从西贡(TpHCM)到银矿的运输货物"
+    },
+    "Cách nhanh nhất để gửi yêu cầu chính là gọi điện đến hotline": {
+      "en": "The fastest way to send the main request is to call hotline",
+      "zh": "发送主请求的最快方式是拨打热线"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước vận chuyển hàng đi Bạc Liêu đảm bảo ở mức giá cạnh tranh bởi vì bạn không phải chuyển hàng qua trung gian mà trực tiếp xe tải của Lưu Lê sẽ vận chuyển trực tiếp.": {
+      "en": "Mittens transport to Silver Mint guarantees at competitive prices because you don't have to move the cargo through the intermediate but Liu's truck will directly transport it.",
+      "zh": "米顿斯以有竞争力的价格将货物运送到银矿,因为不需要通过中间体运送货物,而由刘克用卡车直接运输."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng từ Sài Gòn (TpHCM) đi Bạc Liêu": {
+      "en": "Transport Service from Saigon (TpHCM) to Silver Mint",
+      "zh": "从西贡(TpHCM)到银矿的运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng sg Tây Nam Bộ": {
+      "en": "Send Southwestern Department",
+      "zh": "派遣西南局"
+    },
+    "Gửi hàng từ Sài Gòn đi Bến Tre": {
+      "en": "Sent from Saigon to Ben Tre.",
+      "zh": "从西贡送到了本特瑞"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa chất, phân bón, xăng dầu, phân bón…": {
+      "en": "Commodities, fertilizer, petroleum, fertilizer...",
+      "zh": "商品,化肥,石油,化肥..."
+    },
+    "Hàng hóa công nghiệp, máy móc thiết bị công nông nghiệp, linh kiện lắp ráp.": {
+      "en": "Industrial goods, industrial equipment, assembled parts.",
+      "zh": "工业品,工业用设备,组装零件."
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng may mặc gia công xuất khẩu nhập khẩu.": {
+      "en": "Customs wear imported exports.",
+      "zh": "海关佩带进口出口品."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hệ thống kho bãi rộng rãi, sạch sẽ, được giám sát chặt chẽ và đặc biệt nằm cạnh quốc lộ thuận tiện cho việc lưu thông.": {
+      "en": "The warehouse system is wide, clean, closely monitored and especially adjacent to the road that is convenient for circulation.",
+      "zh": "仓库系统宽广,清洁,严密监控,并特别靠近方便流通的道路."
+    },
+    "Hệ thống xe tải với các trọng tải đa dạng từ nhỏ đến lớn 1 tấn, 5-8-10-12-15-20-30 tấn chuyên khai thác tuyến TPHCM – Bạc Liêu.": {
+      "en": "The truck system with multi-subditation weights ranging from small to large 1 ton, 5-8-10-12-15-230 tons of TPHCM Line mining – Silver.",
+      "zh": "多子化重量从小到大一吨,5-8-10-12-15-230吨TPHCM的卡车系统 线路开采 – Silver."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kích thước hàng: chiều dài, chiều rộng, chiều cao.": {
+      "en": "Row size: length, width, height.",
+      "zh": "行大小:长,宽,高."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Loại hàng hóa cần vận chuyển từ Sài Gòn đi Bạc Liêu.": {
+      "en": "The kind of goods that need transport from Saigon to Silver Mint.",
+      "zh": "那种需要从西贡运送到银矿的商品."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu quý khách vận chuyển phương thức COD thì kế toán sẽ nghiệm thu và chuyển khoản đúng số tiền mà 2 bên đã thỏa thuận trong biên bản.": {
+      "en": "If you're delivering COD methods, the accountant will experiment to collect and transfer the exact amount of money that the two parties agreed on in the form.",
+      "zh": "如果你在提供COD方法,会计师会进行实验,以收集和转移双方在表格中约定的确切金额."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình vận chuyển hàng từ Sài Gòn (TpHCM) đi Bạc Liêu": {
+      "en": "The shipping process from Saigon (TpHCM) to Silver Mint",
+      "zh": "从西贡(TpHCM)到银矿的运输过程"
+    },
+    "Sau đó, hàng hóa sẽ được tập hợp về kho và vận chuyển đi Bạc Liêu vào chuyến xe sớm nhất.": {
+      "en": "The cargo will then be gathered to the depot and transported to Silver Mint into the earliest train.",
+      "zh": "货物随后会被收集到仓库并被运送到银明特,进入最早的列车."
+    },
+    "So với các đơn vị vận chuyển trên thị trường, vận tải Lưu Lê luôn đưa ra mức giá cạnh tranh hơn 10 - 15%. Để nhận được báo giá chi tiết và chương trình ưu đãi trong thời điểm hiện tại, khách hàng chỉ cần liên hệ với chúng tôi qua hotline:": {
+      "en": "Compared to transportation units on the market, Liu Liu Transport always offers more competitive prices than 10 to 15%. To receive detailed prices and special programs in the present time, customers just contact us through hotline:",
+      "zh": "相较于上市的运输单位,刘刘交通总能提供比10%到15%更具竞争力的价格. 顾客只需通过热线联系:"
+    },
+    "Số lượng hàng bao nhiêu.": {
+      "en": "What's the load?",
+      "zh": "负载是什么?"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thay vì khách hàng phải mang hàng hóa ra đơn vị vận chuyển thì vận tải Lưu Lê cung cấp dịch vụ nhận hàng tận nơi, nhân viên giao hàng sẽ đến tận nơi để lấy hàng theo thông tin khách cung cấp. Hai bên sẽ làm việc để lập biên bản, hợp đồng giao nhận.": {
+      "en": "Instead of the customers having to bring the cargo to the transport unit, Liu Li provided the delivery services to the destination, the delivery staff would arrive to get the supplies as the customer provided. The two parties will work to form the transcription, the transfer agreement.",
+      "zh": "客户非但没有将货物运至运输单位,而是由刘力提供运往目的地的快递服务,快递工作人员会按客户提供的方式赶来取来物资. 双方将努力形成笔录,转移协议."
+    },
+    "Thời gian giao hàng nhanh chóng, đúng cam kết. Nếu có trễ hẹn, vận tải Lưu Lê sẽ thực hiện đúng cam kết trong biên bản giao nhận.": {
+      "en": "Time of delivery, yes of commitment. If there is a delay, Liu Li's transport will carry out its commitment in the transfer form.",
+      "zh": "交货时间 承诺时间 有延误的,由刘力接运以转会形式履行承诺."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những thông tin về dịch vụ": {
+      "en": "Above are service information",
+      "zh": "以上是服务信息"
+    },
+    "Trọng lượng hàng tính theo kg.": {
+      "en": "The load is in weight according to the kilogram.",
+      "zh": "荷载按公斤计为重量."
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Trừ các mặt hàng có trong danh sách cấm vận chuyển của Pháp Luật Việt Nam, vận tải Lưu Lê nhận vận chuyển tất cả các loại hàng hóa:": {
+      "en": "Apart from the goods available on the list of transportation bans by the Vietnamese Law, Liu Li transport received all the goods:",
+      "zh": "除了《越南法律》禁止运输清单所列货物外,刘力运输还收到所有货物:"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại sao bạn nên chọn vận tải Lưu Lê để gửi hàng từ Sài Gòn (TpHCM) đi Bạc Liêu?": {
+      "en": "Why should you choose the Liu Transport to send from Saigon (TpHCM) to Silver Mint?",
+      "zh": "何以选择从西贡(TpHCM)发往银矿的\"刘运\"?."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Vấn đề an toàn được đặt lên hàng đầu. Chính sách bồi thường 100% giá trị hàng hóa nếu có xảy ra mất mát, hư hỏng do lỗi của Lưu Lê.": {
+      "en": "Safety issues are placed first. The policy compensates 100% of the value of goods if there is a loss, damage due to Liu's fault.",
+      "zh": "安全问题放在首位。 保单赔偿货物价值100%有亏损,由刘有错造成的损失."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa từ Sài Gòn đi Bạc Liêu": {
+      "en": "Transportation from Saigon to Silver Mint",
+      "zh": "从西贡到银矿的运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với khoảng cách hơn 200 km, thời gian vận chuyển sẽ rơi vào vài giờ cho đến 1 - 2 ngày, trước khi giao hàng nhân viên sẽ chủ động gọi điện liên lạc người nhận để thông báo nhận hàng.": {
+      "en": "With a distance of over 200 kilometers, the transport time would fall for a few hours until 1 - 2 days, before delivery of employees would take the initiative to call the receiver to announce the delivery.",
+      "zh": "距离超过200公里,运输时间会缩短几小时,直到1至2天,然后由雇员主动召集接收人宣布交货。"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "bằng xe tải là phương tiện phổ biến nhất bởi 2 tỉnh, thành phố này kết nối với nhau bằng con đường quốc lộ 1A huyết mạch rất thuận tiện. Trong vô vàn các đơn vị vận chuyển, vận tải Lưu Lê là đơn vị cung cấp dịch vụ vận chuyển hàng từ Sài Gòn đi Bạc Liêu giá cước hợp lý và uy tín nhất.": {
+      "en": "by truck is the most popular vehicle by two provinces, which is connected by the 1A Line of the 1A Line of the blood vessels very convenient. In countless transport units, Liu Lai transport was the division that provided freight services from Saigon to Silver Silver Mint the most reasonable and prestigious single-field rating.",
+      "zh": "卡车是两省最受欢迎的车辆,通过血管1A线的1A线连接非常方便. 在无数的运输单位中,刘来运输是提供从西贡到银银矿的货运服务的部门,是最合理和最有声望的单场评分."
+    },
+    "gửi hàng từ Sài Gòn đi Bạc Liêu": {
+      "en": "Sent from Saigon to Silver Mint",
+      "zh": "从西贡送到银矿"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và cung cấp cho chúng tôi các thông tin sau:": {
+      "en": "And give us the following information:",
+      "zh": "并给我们以下信息:"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn hàng được giao đến đúng địa điểm như khách hàng cung cấp trên biên bản, sau khi việc giao hàng hoàn tất chúng tôi sẽ thu phí như hợp đồng 2 bên đã thỏa thuận.": {
+      "en": "The order was delivered to the exact location as the customer provided on the form, after the delivery was completed we would charge as a two-side contract agreed.",
+      "zh": "订单按照客户在表格上提供的准确地点交付,交货完成后,我们将按双方商定的合同收取费用。"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để đảm bảo hàng hóa của khách an toàn cập bến Bạc Liêu, vận tải Lưu Lê xây dựng quy trình chuyển hàng nghiêm ngặt như sau:": {
+      "en": "In order to ensure the safety of the guests' goods to land on the Silver Coast, Liu Liu Transport built the strict delivery process as follows:",
+      "zh": "为了保证来宾货物在银岸登陆的安全,刘刘交通将严格交付流程建设如下:"
+    },
+    "Địa điểm nhận hàng? Địa điểm trả hàng?": {
+      "en": "Location? The return site?",
+      "zh": "地点? 返回地点?"
+    },
+    "Đồ dùng gia dụng, thiết bị gia đình, nhà bếp, văn phòng phẩm.": {
+      "en": "Family supplies, family equipment, kitchens, offices.",
+      "zh": "家庭用品 家庭设备 厨房 办公室"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đồ nội thất, bàn ghế, giường, tủ…": {
+      "en": "The furniture, furniture, beds, closets...",
+      "zh": "家具,家具,床,衣橱..."
+    },
+    "Đội ngũ nhân lực tận tâm, chuyên nghiệp và có nhiều kinh nghiệm hoạt động trong lĩnh vực vận chuyển hàng hóa.": {
+      "en": "The dedicated, professional and experienced personnel team operate in the field of freight.",
+      "zh": "专门、专业和经验丰富的人员小组在货运领域开展工作。"
+    },
+    "để được báo giá và xác nhận đơn chính xác nhất.": {
+      "en": "to be told the price and confirm the correctst form.",
+      "zh": "并证实最正确的表格。"
+    },
+    "► Bước 1: Gửi yêu cầu vận chuyển": {
+      "en": "Send for transport request",
+      "zh": "发送运输请求"
+    },
+    "► Bước 2: Nhân viên đến lấy hàng": {
+      "en": "(STAMMERS)",
+      "zh": "(尖叫声)"
+    },
+    "► Bước 3: Giao hàng tận nơi và thu phí dịch vụ": {
+      "en": "TRI Step 3: Transporte and collect services fees",
+      "zh": "TRI 第3步:运输和收取服务费"
+    },
+    "► Bước 4: Chuyển khoản, thu tiền COD (nếu có)": {
+      "en": "MIRA Step 4: Transfer, collect COD (if available)",
+      "zh": "MIRA 第4步:转移,收集COD(如果有的话)"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

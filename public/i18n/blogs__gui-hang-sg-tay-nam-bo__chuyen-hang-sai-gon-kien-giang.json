@@ -1,0 +1,822 @@
+{
+  "route": "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-kien-giang",
+  "texts": {
+    "07 Tháng 4 2022": {
+      "en": "07 April 2022",
+      "zh": "2022年4月07日 (中文(简体) )."
+    },
+    "1.500.000 – 2.500.000 VNĐ.": {
+      "en": "1860 – 2 MINUTE.",
+      "zh": "1860 — 2分钟."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kiên Giang": {
+      "en": "The shipping panel from Saigon (TpHCM) to Jiang",
+      "zh": "从西贡(TpHCM)到江的航运面板"
+    },
+    "Bảo đảm an toàn về mặt pháp lý cho khách hàng bằng hợp đồng dịch vụ.": {
+      "en": "Legal safety guarantees the customer on a service contract.",
+      "zh": "法律安全通过服务合同保证客户的安全。"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Sài Gòn Kiên Giang": {
+      "en": "Move Saigon.",
+      "zh": "移动西贡。"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chú ý:": {
+      "en": "Attention:",
+      "zh": "请注意:"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng từ Sài Gòn (TpHCM) đi Kiên Giang": {
+      "en": "Transportation Services from Saigon (TpHCM) to Jiang",
+      "zh": "从西贡(TpHCM)到江的运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao hàng an toàn đến khách hàng, đảm bảo còn nguyên vẹn, không bị hư hỏng, bóp méo.": {
+      "en": "Safety delivery to the customer, make sure it's intact, not damaged, distorted.",
+      "zh": "安全交付给客户,保证其完好无损,不受损,被扭曲."
+    },
+    "Giá cước rẻ, thường xuyên có chương trình khuyến mãi, giảm giá vào các dịp lễ, tết, cuối tuần.": {
+      "en": "Prices were cheap, often had a promotional, discounted on holidays, holidays, weekends.",
+      "zh": "价格低廉,经常有促销,在节日,节假日,周末打折."
+    },
+    "Giá cước vận chuyển hàng tuyến đường Sài Gòn đi Kiên Giang phụ thuộc vào một số yếu tố như nhu cầu vận chuyển, đặc điểm từng loại hàng hóa của từng khách hàng, cho nên mức cước dao động từ": {
+      "en": "The rate of shipping the Saigon line to Jiang is dependent on a number of factors such as the need for transportation, the specifications of each customer's goods, so the rate of the score is fluctuating from",
+      "zh": "西贡线通向江口的通航速度取决于运输需要,每个客户商品的规格等若干因素,因此分数率从."
+    },
+    "Giới thiệu sơ lược về mảnh đất Kiên Giang": {
+      "en": "Presenting a brief review of the Jiang's estate",
+      "zh": "介绍蒋氏庄园简介."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng sg Tây Nam Bộ": {
+      "en": "Send Southwestern Department",
+      "zh": "派遣西南局"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kiên Giang có mạng lưới giao thông thuận tiện về đường bộ, đường không, đường thủy. Các tuyến đường huyết mạch chạy qua tỉnh là quốc lộ 61, quốc lộ 63, quốc lộ 80 và tỉnh lộ 11…; sân bay quốc tế Phú Quốc và sân bay Rạch Giá phục vụ nhu cầu du lịch, đi lại giữa Kiên Giang và cả nước; đường thủy cũng khá thuận lợi tạo điều kiện trao đổi hàng hóa trong tỉnh.": {
+      "en": "Jiang has a convenient traffic network on the road, road, waterway. The bloodways that run through the province are Route 61, Highway 63, Highway 80 and Route 11...; the Fusion International Airport and the Price Airport serves the need for tourism, traveling between Jiang and the whole country; the waterway is also quite favorable to exchange in the province.",
+      "zh": "江有道,道,水道等便利交通网. 通向该省的血道有:61号公路,63号公路,80号公路和11号公路. ;同心国际机场和普莱斯机场服务于旅游需要,往来于江口与全国;水道也相当有利于省内交流."
+    },
+    "Kiên Giang có vị trí địa lý thuận lợi với hơn 200 km đường bờ biển nên rất phát triển kinh tế, đặc biệt là du lịch biển đảo, nuôi trồng, khai thác thủy hải sản. Biển Kiên Giang có khoảng 143 hoàn đỏ, hơn 105 hòn đảo nổi lớn và có 43 hòn đảo có người dân sinh sống. Theo kết quả điều tra của các chuyên gian, nơi đây có khoảng hơn 500.000 tấn trữ lượng tôm, cá, hàng năm khai thác được khoảng hơn 200.000 tấn; ngoài ra còn các các loại hải sản khác như mực, bào ngư, hải sâm, sò huyết, trai ngọc…": {
+      "en": "Jiang has a geographical location that is favorable for more than 200 km of coastal roads, which should be very economic development, especially island tourism, farming, maritime mining. The Yangtze Sea has about 143 of red, more than 105 floating islands and has 43 inhabited islands. According to professional investigations, it has an estimated 500,000 tons of shrimp, fish, which mine about 200,000 tons annually; other species of seafood such as ink, piranks, seafish, blood shells, pearls...",
+      "zh": "江有地理位置,对200多公里长的沿海公路有利可图,应当十分经济发展,特别是岛屿旅游,养殖,海洋采矿. 长江海域有红地约143个,漂浮岛屿105个以上,有居住岛屿43个. 据专业调查,它估计有50万吨的虾,鱼,每年开采约20万吨;其他种类的海鲜有墨,恶作剧,海鱼,血壳,珍珠等. ."
+    },
+    "Kiên Giang là tỉnh thuộc khu vực đồng bằng sông Cửu Long của nước ta, có các vùng tiếp giáp cụ thể như sau:": {
+      "en": "Jiang is the province of the Nine Long River Plains of our country, which has specific following areas:",
+      "zh": "江是我国九长江平原省下辖以下地区:"
+    },
+    "Kiên Giang là vùng đất có trữ lượng khoáng sản lớn nhất khu vực đồng bằng sông Cửu Long. Các loại khoáng sản như than bùn, kim loại (đá vôi, đất sét, đá xây dựng..), đá bán quý (opal, huyền thạch anh,…) nhưng chủ yếu vẫn là vật liệu xây dựng, xi măng. Theo điều tra của Liên đoàn Địa chất nơi đây có khoảng hơn 440 triệu tấn đá vôi, đảm bảo nguyên liệu cho sản xuất xi măng khoảng 3 triệu tấn/năm.": {
+      "en": "Jiang is the largest mineral land in the territory of the Nine Long River Delta. Minenics such as mud coal, metal (stones, clay, building stones.. ), semi-precise rock (opal, physic, lyrical, lyrical, lyrical,...) but mainly building materials, cement. According to the Geological League investigations there are approximately 440 million tons of limestone, ensuring material for making cement around 3 million tons per year.",
+      "zh": "江是九长江三角洲境内最大的矿产地. 矿山有泥煤等,有金属(地石,粘土,建筑石. ),半熟地岩(地石,地石,地石,地石等)等,但以建筑材料,水泥为主. 根据地质联盟的调查,约有4.4亿吨石灰岩,确保每年制造水泥的材料约为300万吨。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lý do bạn nên lựa chọn dịch vụ vận chuyển hàng Sài Gòn (TpHCM) Kiên Giang": {
+      "en": "The reason why you should choose Saigon freight service (TpHCM) Jiang",
+      "zh": "为何要选择西贡货运服务(TpHCM)江通"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu sử dụng dịch vụ": {
+      "en": "Needs to Use Service",
+      "zh": "需要使用服务"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kiên Giang bằng phương thức nào?": {
+      "en": "So by what means should the option of shipping goods from Saigon (TpHCM) to Jiang?",
+      "zh": "那么,从西贡(TpHCM)到江来运送货物的选择应该采取什么手段?"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phía Bắc tiếp giáp với Campuchia.": {
+      "en": "North flanks Cambodia.",
+      "zh": "北侧为柬埔寨."
+    },
+    "Phía Nam tiếp giáp với Cà Mau, Bạc Liêu.": {
+      "en": "South bordered with the Mau, Silver Silver.",
+      "zh": "南接茅地,银银地."
+    },
+    "Phía Đông tiếp giáp với An Giang.": {
+      "en": "East side approach An Jiang.",
+      "zh": "东面走近安江."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, nếu chạy theo tuyến đường ĐCT02, quãng đường di chuyển từ Sài Gòn đi Kiên Giang dài khoảng 250km, tương đương khoảng gần 5 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Sài Gòn đi Kiên Giang chỉ mất khoảng 1 - 2 ngày.": {
+      "en": "According to Google Maps' instructions, if run along the NCT02 line, the distance from Saigon to Jiang was approximately 250 km (50 km) long, which is approximately 5 hours long. So the time of shipping from Saigon to Jiangjang took only a day or two.",
+      "zh": "根据Google Maps的指示,如果沿着NCT02线运行,从西贡到江的距离大约为250公里(50公里)长,大约为5小时长. 因此从西贡到江口的航运时间只用了一两天."
+    },
+    "Thời gian di chuyển đúng như cam kết.": {
+      "en": "Time to move as a pledge.",
+      "zh": "该行动了"
+    },
+    "Thời gian trên có thể thay đổi do bị ảnh hưởng bởi các yếu tố khách quan như: thiên tai, dịch họa, tai nạn giao thông….": {
+      "en": "The above time can be changed by being influenced by objective elements such as: natural disasters, pandemics, traffic accidents....",
+      "zh": "以上时间可被以下客观因素所影响而改变:自然灾害,大流行病,交通事故等."
+    },
+    "Thời gian vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kiên Giang là bao lâu?": {
+      "en": "How long was the time of shipping from Saigon (TpHCM) to Jiang?",
+      "zh": "从西贡(TpHCM)到江口的通航时间有多长?."
+    },
+    "Tiếp giáp với Vịnh Thái Lan ở phía Tây.": {
+      "en": "Approaching Thailand Bay in the West.",
+      "zh": "向西走来泰国湾."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là toàn bộ thông tin về": {
+      "en": "On this is all the information about",
+      "zh": "这上面有关于"
+    },
+    "Trường hợp có sự cố về chất lượng hàng hóa do vận chuyển, chúng tôi chịu hoàn toàn trách nhiệm đền bù.": {
+      "en": "In the case of a cargo-quality incident due to transportation, we take full responsibility for compensation.",
+      "zh": "对于因运输造成的货物质量事故,我们承担全部赔偿责任。"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên để biết chính xác về mức cước cho loại hàng của bạn có thể liên hệ trực tiếp với Lưu Lê thông qua số điện thoại: 0909 81 6625": {
+      "en": "However to know accurately about the level of the card for your type of goods can be directly connected to Liu Liu via the phone number: 0909 81 6625",
+      "zh": "不过,要准确了解贵类商品的卡级,可以通过电话号码直接与刘刘连通:0909 81 6625"
+    },
+    "Tuyến Sài Gòn – Kiên Giang không có tàu hỏa nên lựa chọn vận chuyển bằng đường bộ là phương án tốt nhất cho khách hàng. Quãng đường khá ngắn, lại thuận lợi nên thời gian di chuyển sẽ nhanh; đặc biệt lại được linh động về thời gian và địa điểm giao/nhận hàng. Tuy nhiên phí cước sẽ cao hơn so với phương tiện khác do phát sinh chi phí cầu đường, giá xăng dầu tăng… Tuy nhiên hàng hóa được an toàn, lại vận chuyển nhanh thì phí cước cũng không phải là vấn đề quá lớn.": {
+      "en": "The Saigon Line – Jiang has no trains, so the option to transport by land is the best option for customers. The road was quite short, and it was favorable so the travel time would be fast; especially flexible about the time and place of delivery/takeover. However, the costs of the bill will be higher than the other means due to the rise of the road costs, the price of petroleums rising... However, the goods are safe, and the quick transport is not a problem.",
+      "zh": "西贡线 – 江无地铁,因此陆路运输的选择是顾客的最佳选择. 道路很短,很有利,因此旅行时间会很快;对交货/接收的时间和地点特别灵活。 然而,由于路费上涨,石油价格上涨等原因,账单成本会高于其他手段. . 然而,货物是安全的,快速运输不是一个问题。"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng từ Sài Gòn đi Cà Mau": {
+      "en": "Transportation from Saigon to France",
+      "zh": "从西贡到法国的运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê nhận được nhiều tình cảm quý mến của mọi khách hàng do chúng tôi mang lại những giá trị tối ưu cho họ, cụ thể là:": {
+      "en": "Liu La transport received a lot of appreciation from all customers as we brought their best values, namely:",
+      "zh": "刘拉运输在我们带来最佳价值时,得到了所有顾客的极大赞赏,即:"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với những lợi thế về vị trí địa lý và hệ thống giao thông, nhu cầu sử dụng dịch vụ gửi/vận chuyển hàng hóa từ Sài Gòn đi Kiên Giang ngày càng tăng cao.": {
+      "en": "With the advantage of geographical positions and transportation systems, the need to use the sending/joint delivery service from Saigon is increasing.",
+      "zh": "由于地理位置和运输系统的优势,越来越需要使用从西贡发送/联合发送服务。"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Vận tải Lưu Lê. Nếu có nhu cầu sử dụng dịch vụ hoặc bất cứ thắc mắc nào cần trao đổi hãy gọi ngay đến số hotline": {
+      "en": "of Liu Li Transport. If there's a need for services or any questions to exchange, call hotline immediately.",
+      "zh": "刘丽交通. 如果需要服务或任何问题交换,请立即拨打热线."
+    },
+    "dịch vụ gửi hàng từ TpHCM đi Kiên Giang": {
+      "en": "The delivery service from TpHCM to Jiang",
+      "zh": "从TpHCM到江的快递服务"
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "trong thời gian gần đây tăng đột biến. Bạn đã tìm được đơn vị nào cung cấp dịch vụ đáng tin tưởng nhất chưa? Tìm hiểu bài viết sau đây, chúng tôi sẽ giới thiệu đến bạn đơn vị cung cấp dịch vụ vận tải uy tín nhất cho tuyến đường này.": {
+      "en": "In recent times, mutation increases. Have you found out which unit provides the most reliable service? Find out the following article, and we will introduce you to the unit that provides the most prestigious transportation service for this route.",
+      "zh": "近代,突变增加. 你找到哪个单位提供最可靠的服务了吗? 找出以下文章,我们将介绍你们到为这条路线提供最有声望的运输服务的单位。"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa từ Sài Gòn đi Kiên Giang": {
+      "en": "Deliver the cargo from Saigon to Jiang.",
+      "zh": "把货物从西贡送到江来"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đặc biệt Kiên Giang có tiềm năng du lịch lớn với khu du lịch nổi tiếng hàng đầu thu hút khách cả nước và quốc tế đó là Phú Quốc. Ngoài ra còn có các danh thăng khác như Hòn Trẹm, Hòn Chông, Hòn Phụ Tử, Thạch Động, bãi biển Mũi Nai, Lăng Mạc Cửu, rừng U Minh, Đông Hồ…": {
+      "en": "In particular, Jiang has the potential to travel large with the leading tourist district attracting national and international visitors that are Fun Fu. There are also other promotions such as the Rock, the Rock, the Father, the Rock, the Rock, the Cape Nai Beach, the Haki, the U Min Forest, the East Lake...",
+      "zh": "特别是,江有大行走的潜力,主要旅游区吸引了作为\"活佛\"的国内外游客. 也有一些其他的推广活动,如\"克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được đội ngũ nhân viên tư vấn sớm nhất nhé.": {
+      "en": "Let's get to the team as soon as possible.",
+      "zh": "我们尽快赶到球队"
+    },
+    "► Vận chuyển hàng từ Sài Gòn đi Kiên Giang bằng đường bộ (ô tô)": {
+      "en": "Transportation from Saigon to Jiang by land.",
+      "zh": "从西贡经陆路运入江."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

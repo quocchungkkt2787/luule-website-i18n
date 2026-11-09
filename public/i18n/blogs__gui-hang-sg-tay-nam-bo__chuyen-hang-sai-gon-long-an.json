@@ -1,0 +1,822 @@
+{
+  "route": "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-long-an",
+  "texts": {
+    "07 Tháng 4 2022": {
+      "en": "07 April 2022",
+      "zh": "2022年4月07日 (中文(简体) )."
+    },
+    "800.000 – 2.000.000 VNĐ": {
+      "en": "Vickers – 2,000,000 VISI",
+      "zh": "Vickers - 2 000 000 ViSI"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá vận chuyển hàng hóa tuyến Sài Gòn (TpHCM) đi Long An": {
+      "en": "Saigon Line Transport Board (TpHCM) to Long An",
+      "zh": "西贡线运输局(TpHCM)至长安"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Sài Gòn Long An": {
+      "en": "Saigon Line",
+      "zh": "西贡线"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù rõ ràng khi có mọi thiệt hại về hư hỏng, mất mát hàng hóa xảy ra.": {
+      "en": "The policy of compensation is apparent when all damages to damage, loss of goods occur.",
+      "zh": "当损害和货物损失发生时,赔偿政策是显而易见的。"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chú ý:": {
+      "en": "Attention:",
+      "zh": "请注意:"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do quãng đường giữa Sài Gòn và Long An rất gần nên đường bộ là phương án vận chuyển phù hợp nhất đối với tuyến Sài Gòn – Long An. Thực tế cho thấy quãng đường di chuyển khá ngắn, đường bộ thuận lợi nên di chuyển xe ô tô vừa linh hoạt lại nhanh chóng, tiết kiệm chi phí và thời gian.": {
+      "en": "Due to the distance between Saigon and Long An so close, the route is the most consistent transport plan for Saigon – Long An. The fact is that the distance is quite short, the road is favorable, so it should move cars and be flexible quickly, saving costs and time.",
+      "zh": "由于西贡与长安相距如此相近,该路线是西贡最一致的交通计划-长安. 事实是距离很短,道路是有利的,因此它应该能快速地移动汽车并灵活,节省成本和时间."
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ gửi hàng từ Sài Gòn (TpHCM) đi Long An giá rẻ": {
+      "en": "Package service from Saigon (TpHCM) to Long An cheap",
+      "zh": "从西贡(TpHCM)到长安便宜的包服务"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước vận chuyển hàng tuyến đường Sài Gòn đi Long An phụ thuộc vào một số yếu tố như nhu cầu vận chuyển, đặc điểm từng loại hàng hóa của từng khách hàng, cho nên mức cước dao động từ": {
+      "en": "The rate of shipping the Saigon line to Long An depends on a number of factors such as the transportation demand, the specification of each of the customers' goods, so the rate of the score is fluctuating from",
+      "zh": "西贡线通向长安的通航速度取决于运输需求,每个客户商品的规格等若干因素,因此分数率从."
+    },
+    "Giới thiệu sơ lược về mảnh đất Long An": {
+      "en": "Introduction to Long An Lands",
+      "zh": "长安地情简介."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng sg Tây Nam Bộ": {
+      "en": "Send Southwestern Department",
+      "zh": "派遣西南局"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hy vọng những thông tin về": {
+      "en": "Hope Information About",
+      "zh": "关于希望的信息"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Long An là tỉnh thuộc khu vực miền Nam của nước ta, là cửa ngõ nối vùng Đồng bằng sông cửu Long và Đông Nam Bộ, các vùng tiếp giáp cụ thể như sau:": {
+      "en": "Long An is the province of the southern part of our country, which is the gateway to the bay of the Long River and the South East Ministry, the following is specific:",
+      "zh": "长 安是我国南部的省份,是通向长河湾和东南部的门户,具体如下:"
+    },
+    "Long An trong những thời gian gần đây là điểm sáng thu hút các nhà đầu tư. Toàn tỉnh có khoảng hơn 13.500 doanh nghiệp với tổng số vốn là 348.700 tỷ đồng, trong đó hơn 1.124 dự án có nguồn vốn từ nước ngoài.": {
+      "en": "Long An in recent times is the light point that attracts investors. The entire province has about 13,500 businesses with a total of $348,700 billion, in which more than 1.124 projects have foreign capital.",
+      "zh": "长 最近一个吸引投资者的光点。 全省约有企业13500家,总投资34.87亿元,其中有1.124多项目有外资."
+    },
+    "Lý do bạn nên lựa chọn dịch vụ vận chuyển hàng Sài Gòn (TpHCM) đi Long An": {
+      "en": "The reason why you should choose the Saigon freight service (TpHCM) to Long An",
+      "zh": "选择西贡到长安的货运服务的原因"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mức độ an toàn hàng hóa cao do quy trình làm việc nghiêm ngặt, khoa học.": {
+      "en": "High level of cargo safety due to strict work, science.",
+      "zh": "由于工作严格,科学,货物安全水平较高."
+    },
+    "Ngày nay mạng lưới giao thông tại tỉnh ngày càng phát triển mạnh mẽ, đồng bộ. Các tuyến đường quốc lộ 1A, 50, 62, N2 đang được nâng cấp. Tuyến đường cao tốc Hồ Chí Minh – Trung Lương, Bến Lức – Long Thành tạo điều kiện kết nối cho Long An với các cảng lớn như Cát Lái, Hiệp Phước, Cái Mép – Thị Vải; tuyến đường sắt Sài Gòn – Long An được đầu tư với chi phí hơn 5 tỷ USD…": {
+      "en": "Today traffic networks in the province are growing stronger, synchronous. Routes 1A, 50, 62, N2 are being upgraded. Ho Chi Minh Highways – Central Liang, Railroad – Long City makes it possible for Long An to connect to major ports such as Sand, Knights, The Shaft – The Saigon Railway – Long An to be invested with over $5 billion...",
+      "zh": "今天该省的交通网络日益强大,同步. 1A道,50道,62道,N2道正在升级. 胡志明高速公路-中梁,铁路-长城通车使长安能与沙地,骑士,沙发等主要港口相接通-西贡铁路-长安可投资50多亿美元. ."
+    },
+    "Nhân viên vừa giàu kinh nghiệm vừa phục vụ chu đáo, tận tâm.": {
+      "en": "Experienced staff serve well, devoted.",
+      "zh": "有经验的工作人员服务良好,忠于职守。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Long An bằng phương thức nào?": {
+      "en": "So by what means should the option of shipping goods from Saigon (TpHCM) to Long An?",
+      "zh": "那么,从西贡(TpHCM)到长安的货物运输的选择应该采取什么手段?"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phí cước cạnh tranh, không phát sinh thêm những phí phụ khác ảnh hưởng đến khách hàng.": {
+      "en": "The competition rate, without adding extra fees, affects customers.",
+      "zh": "竞争率在不增加额外费用的情况下会影响客户."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, nếu chạy theo tuyến đường quốc lộ N2, quãng đường di chuyển từ Sài Gòn đi Long An dài khoảng 55,2km, tương đương khoảng hơn 01 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Sài Gòn đi Long An chỉ mất khoảng 2 - 3 tiếng.": {
+      "en": "According to Google Maps's instructions, if run along the N2 Highwayway, the distance from Saigon to Long An is approximately 55.2 km long, equivalent to over 01 hours. So the time for freight from Saigon to Long An is about two to three hours.",
+      "zh": "根据Google Maps的指示,如果沿着N2高速公路运行,从西贡到长安的距离约为55.2公里,相当于超过1小时. 因此从西贡到长安的货运时间约为2到3小时."
+    },
+    "Thời gian trên có thể thay đổi do bị ảnh hưởng bởi các yếu tố khách quan như: thiên tai, dịch họa, tai nạn giao thông….": {
+      "en": "The above time can be changed by being influenced by objective elements such as: natural disasters, pandemics, traffic accidents....",
+      "zh": "以上时间可被以下客观因素所影响而改变:自然灾害,大流行病,交通事故等."
+    },
+    "Thời gian vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Long An là bao lâu?": {
+      "en": "How long is the time for freight from Saigon (TpHCM) to Long An?",
+      "zh": "从西贡(TpHCM)到长安的货运时间有多长?."
+    },
+    "Tiếp giáp với Campuchia ở phía Bắc.": {
+      "en": "Contact Cambodia in the north.",
+      "zh": "联系北部的柬埔寨。"
+    },
+    "Tiếp giáp với Sài Gòn và Tây Ninh ở phía Đông.": {
+      "en": "Entrant with Saigon and Western Ning in the East.",
+      "zh": "与西贡和西宁同入东方."
+    },
+    "Tiếp giáp với Tiền Giang ở phía Nam.": {
+      "en": "Entrepreneur with Yan Jiang in the south.",
+      "zh": "企业家与南出燕江."
+    },
+    "Tiếp giáp với Đồng Tháp ở phía Tây.": {
+      "en": "Entrant with the Tower to the west.",
+      "zh": "与塔相接而入于西."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tổng diện tích tự nhiên của Long An khoảng 4.491,87km2, toàn tỉnh có 13 huyện và 1 thị xã. Dù ở khu vực đồng bằng nhưng địa hình của Long An có xu hướng thấp dần từ Đông Bắc xuống Tây Nam. Có một số gò đồi thấp ở khu vực phía Bắc và Đông Bắc, vùng trũng ở phía Tây Nam và ở giữa là đồng bằng.": {
+      "en": "The total natural area of Long An is approximately 4,491,87 km2, the entire province has 13 districts and 1 town. Although in the plain area, Long An's terrain tends to decline from the Northeast to the southwest. There are some low hills in the north and northeast areas, the valley areas in the southwest and in the middle of the plain.",
+      "zh": "长安自然总面积约4,491,87平方千米,全省有13个县和1个镇. 虽然地处平原地区,但长安地势往往从东北向西南下降. 北部和东北部有部分低地丘陵,西南部和平原中部有谷地丘陵."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng từ Sài Gòn đi Đồng Tháp": {
+      "en": "Transported from Saigon to Copper",
+      "zh": "从西贡运往铜"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê nắm rõ nhu cầu sử dụng dịch vụ": {
+      "en": "Liu transport is well aware of the need for services",
+      "zh": "刘运深知需要服务"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với hơn 10 năm kinh nghiệm cung cấp dịch vụ vận tải, Lưu Lê luôn cố gắng hoàn thiện tốt hơn nữa chất lượng dịch vụ để đáp ứng nhu cầu khắt khe của khách hàng.": {
+      "en": "With over 10 years of experience providing transportation services, Liu Lave always tried to improve the quality of services to meet the strict needs of the customers.",
+      "zh": "刘来夫凭借10多年提供交通服务的经验,始终努力提高服务质量,以适应顾客的严格需要."
+    },
+    "Với những lợi thế về vị trí địa lý và hệ thống giao thông, nhu cầu sử dụng dịch vụ gửi/vận chuyển hàng hóa từ Sài Gòn đi Long An ngày càng tăng cao.": {
+      "en": "With the advantage of geographical positions and transportation systems, the need for use of the sending/subscription service from Saigon to Long An is increasing.",
+      "zh": "由于地理位置和运输系统的优势,越来越需要使用从西贡到长安的发送/订阅服务。"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Vận tải Lưu Lê sẽ hữu ích dành cho bạn. Nếu có nhu cầu sử dụng dịch vụ hoặc bất cứ thắc mắc nào cần trao đổi hãy gọi ngay đến số hotline": {
+      "en": "Liu Li transport will be useful to you. If there's a need for services or any questions to exchange, call hotline immediately.",
+      "zh": "刘立运会用事. 如果需要服务或任何问题交换,请立即拨打热线."
+    },
+    "dịch vụ gửi hàng từ TpHCM đi Long An": {
+      "en": "The delivery service from TpHCM to Long An",
+      "zh": "从TpHCM到长安的送货服务"
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa từ Sài Gòn đi Long An": {
+      "en": "Transported goods from Saigon to Long An",
+      "zh": "从西贡到长安的货物"
+    },
+    "Đa dạng dịch vụ, phương tiện vận tải khác nhau tùy khách hàng lựa chọn.": {
+      "en": "Various service formats, different transportation options.",
+      "zh": "各种服务形式,不同的交通选择."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đặc biệt tỉnh có khoảng 36 khu công nghiệp, cụm công nghiệp đang hoạt động, trở thành trung tâm công nghiệp – dịch vụ khu vực Đồng bằng sông Cửu Long. Nền công nghiệp xuất nhập khẩu cũng phát triển vì có hơn 133km đường biên giới với Campuchia.": {
+      "en": "In particular, the province has about 36 industrial districts, the operating industrial cluster, becoming an industrial hub – the Plains Area of the Nine Long River, the export industry also developed due to over 133 km of border lines with Cambodia.",
+      "zh": "特别是该省有大约36个工业区,运营工业集群,成为工业中枢-九长河平原地区,出口工业也由于与柬埔寨的接壤线超过133公里而得到发展."
+    },
+    "Để biết chính xác về mức cước cho loại hàng của bạn có thể liên hệ trực tiếp với Lưu Lê qua số hotline:": {
+      "en": "In order to know the exact score for your type of goods you can directly contact Liu Liu via the number hotline:",
+      "zh": "为了了解你商品种类的确切得分,您可通过\"号码热线\"直接与刘刘联系:"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đang ở mức độ nào? Vì vậy chúng tôi đã đầu tư một cách chỉnh chu, hoàn hảo nhất để phục vụ cho những khách hàng có nhu cầu. Theo dõi bài viết sau đây bạn sẽ biết chi tiết, cụ thể hơn.": {
+      "en": "What level is it? So we've invested in a whole, perfect way to serve our customers in need. Track the following article you will know more about, more specifically.",
+      "zh": "这是几等? 因此,我们投资了一个整体的,完美的方法来服务我们的需要的客户. 跟踪您所了解的以下文章 。"
+    },
+    "để được đội ngũ nhân viên tư vấn sớm nhất nhé.": {
+      "en": "Let's get to the team as soon as possible.",
+      "zh": "我们尽快赶到球队"
+    },
+    "► Vận chuyển hàng từ Sài Gòn đi Long An bằng đường bộ (ô tô)": {
+      "en": "Transportation from Saigon to Long An by land.",
+      "zh": "从西贡到长安的陆路运输."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

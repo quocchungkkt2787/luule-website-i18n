@@ -1,0 +1,818 @@
+{
+  "route": "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-kon-tum",
+  "texts": {
+    "07 Tháng 4 2022": {
+      "en": "07 April 2022",
+      "zh": "2022年4月07日 (中文(简体) )."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kon Tum": {
+      "en": "The shipping panel from Saigon (TpHCM) to Kon Tum",
+      "zh": "从西贡(TpHCM)到Kon Tum的运输面板"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Sài Gòn Kon Tum": {
+      "en": "Saigon Kun Tum",
+      "zh": "西贡昆仑"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chú ý:": {
+      "en": "Attention:",
+      "zh": "请注意:"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vận nhận hàng/vận chuyển tận nơi khách hàng yêu cầu.": {
+      "en": "Transportation picks up the cargo/subscription to where the client requires it.",
+      "zh": "运输将货物运至客户需要的地方。"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước vận chuyển hàng tuyến đường Sài Gòn đi Kon Tum phụ thuộc vào một số yếu tố như nhu cầu vận chuyển, đặc điểm từng loại hàng hóa của từng khách hàng, cho nên mức cước dao động khoảng từ": {
+      "en": "The price of the Saigon line freight to Kon Tum depends on a number of factors such as the need for transportation, the specification of each of the customers' goods, so the rate of the pent-up-to-temporcial level",
+      "zh": "西贡线至克通的货运价格取决于一些因素,如运输需要,客户的每件商品的规格,所以倒数至时位的速率."
+    },
+    "Giới thiệu sơ lược về mảnh đất Kon Tum": {
+      "en": "Summary of Kon Tum Lands",
+      "zh": "Kon Tum土地概况"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng sg Tây Nguyên": {
+      "en": "Send Western Yuan",
+      "zh": "派西元来"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hệ sinh thái của tỉnh cũng đa dạng có khoảng hơn 300 loài thực vật, nổi bật là vùng núi Ngọc Linh có những cây dược liệu quý như sâm Hồng đẳng, sâm Ngọc Linh, Hà thủ ô. Tuy nhiên trong thời gian đầy đây, độ che phủ rừng và tài nguyên rừng đã bị giảm sút do quá trình khai thác của người dân.": {
+      "en": "The province's ecosystem also has a variety of over 300 species of plants, which are prominently known as the Mount of Jade with precious herbs such as pink champagne, Golden Balls, Hummer. However, during this full period, forest cover and forest resources have been reduced due to the process of mining of the people.",
+      "zh": "该省的生态系统还拥有各种300多种植物,以粉红色香槟,金球花,悍马花等珍贵的草本植物而取名\"玉山\". 然而,在这整个期间,由于人民的采矿进程,森林覆盖和森林资源已经减少。"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kon Tum là 1 trong 5 tỉnh Tây Nguyên, nằm ở ngã ba Đông Dương, có các vùng tiếp giáp cụ thể như sau:": {
+      "en": "Kon Tum is one of the five western provinces, located at the fork of Indochina, which has specific embody areas as follows:",
+      "zh": "孔通是西部五省之一,地处印度支那分叉地,其具体体现区域如下:"
+    },
+    "Kon Tum thu hút khách du lịch bởi đặc thù cảnh quan thiên nhiên hoang sơ cùng nét truyền thống văn hóa của nhiều dân tộc thiểu số. Những di tích lịch sử, đại danh nỏi tiếng là Ngục Đăk Glei, Ngục Kon Tum, chùa Bác Ái, nhà thờ gỗ, tượng đài Đăk Tô – Tân Cảnh…": {
+      "en": "Kon Tum attracts tourists by the special natural landscape with the cultural feature of many minorities. Historic monuments, the great name of Hell Glei, the Hell of Kon Tum, the Temple of Ai, the church of wood, the statue of Gök Bowl – New Scene...",
+      "zh": "Kon Tum通过具有许多少数民族文化特征的特殊自然地貌吸引了游客. 历史遗迹 地獄克萊的大名 克恩通地獄相克活佛 相克活佛会 相克活佛会 活佛会会所 克克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会所 克活佛会 克活佛会所 克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活克活"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lý do bạn nên lựa chọn dịch vụ vận chuyển hàng từ Sài Gòn (TpHCM) đi Kon Tum": {
+      "en": "The reason you should choose the freight service from Saigon (TpHCM) to Kon Tum",
+      "zh": "您应该选择西贡( TpHCM) 至 Kon Tum 的货运服务的原因"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng lưới giao thông phát triển và phân bố đồng đều trên toàn tỉnh Kon Tum. Toàn tỉnh có hơn 2.919,15 km đường bộ, trong đó có hơn 388km đường quốc lộ 14, 14Cm 24, 40 và đường Hồ Chí Minh đi qua. Ngoài ra các tuyến đường tỉnh lộ và đường nông thôn cũng được xây dựng nhựa hóa, thuận lợi.": {
+      "en": "The traffic network grew and distributed copper across the entire province of Kon Tum, the whole province had more than 2,919,15 km of roads, including more than 388 km of Route 14, 14Cm 24, 40 and Lake Chi Minh Road. Additionally, highways and rural roads were constructed of plasticized, favorable.",
+      "zh": "交通网壮大并分布了青铜在整个孔通省,全省有公路2,919,15多公里,包括14号道,14Cm 24,40号道和志明湖道388多公里. 此外,修建了可塑化、有利的公路和农村公路。"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mức độ an toàn của hàng hóa gần như tuyệt đối.": {
+      "en": "The safety level of goods is almost absolute.",
+      "zh": "货物安全水平几乎是绝对的。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kon Tum bằng phương thức nào?": {
+      "en": "What is the method of choosing to transport goods from Saigon (TpHCM) to Kon Tum?",
+      "zh": "选择将货物从西贡(TpHCM)运输到孔通的方法是什么?."
+    },
+    "Nếu có sự cố xảy ra chịu hoàn toàn trách nhiệm đền bù.": {
+      "en": "If an incident occurs, take full responsibility to compensate.",
+      "zh": "发生事故的,承担全部赔偿责任."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phía Bắc tiếp giáp với Quảng Nam.": {
+      "en": "North flanked Guangnan.",
+      "zh": "北侧为广南."
+    },
+    "Phía Nam tiếp giáp với Gia Lai.": {
+      "en": "The South joins the Lai.",
+      "zh": "南入于来."
+    },
+    "Phía Đông tiếp giáp với Quảng Ngãi.": {
+      "en": "East side approach Guangxi.",
+      "zh": "东侧靠近广西."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, nếu chạy theo tuyến đường quốc lộ 14, quãng đường di chuyển từ Sài Gòn đi Kon Tum dài khoảng 554km, tương đương khoảng hơn 11 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Sài Gòn đi Kon Tum chỉ mất khoảng 2 - 3 ngày.": {
+      "en": "According to Google Maps's instructions, if run along Highway 14, the distance from Saigon moved to Kon Tum was about 554 km long, which was equivalent to over 11 hours. So the delivery time from Saigon to Kon Tum takes only about two to three days.",
+      "zh": "根据Google Maps的指示,如果沿着14号高速公路运行,从西贡迁到孔通的距离大约为554公里长,相当于超过11小时. 因此从西贡到Kon Tum的送货时间只需要2到3天左右."
+    },
+    "Theo thống kê của các chuyên gia Kon Tum là tỉnh có tài nguyên rừng phong phú, đa dạng với nhiều loại cây gỗ quý hiếm. Những kiểu rừng chính là rừng kín nhiệt đới hỗn hợp, rừng lá ẩm nhiệt đới, rừng kín á nhiệt đới và rừng khộp.": {
+      "en": "According to statistics of Kon Tum specialists, the province has rich, diverse forest resources with many rare trees. The main types of forests are mixed tropical forest, tropical forest, rain forest and forest.",
+      "zh": "据孔通专家统计,该省森林资源丰富多彩,多有稀树. 主要类型为热带混交林,热带森林,雨林和森林."
+    },
+    "Thời gian linh động, nhanh chóng để tiện cho khách hàng nhất.": {
+      "en": "The most flexible, quick time for best customers.",
+      "zh": "最灵活,最快的时间 对于最好的顾客。"
+    },
+    "Thời gian trên có thể thay đổi do bị ảnh hưởng bởi các yếu tố khách quan như: thiên tai, dịch họa, tai nạn giao thông….": {
+      "en": "The above time can be changed by being influenced by objective elements such as: natural disasters, pandemics, traffic accidents....",
+      "zh": "以上时间可被以下客观因素所影响而改变:自然灾害,大流行病,交通事故等."
+    },
+    "Thời gian vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kon Tum là bao lâu?": {
+      "en": "How long was the time of freight from Saigon (TpHCM) to Kon Tum?",
+      "zh": "从西贡(TpHCM)到孔通的货运时间有多长?."
+    },
+    "Tiếp giáp với Lào và Campuchia ở phía Tây.": {
+      "en": "Approaching Laos and Cambodia in the West.",
+      "zh": "接近西部的老挝和柬埔寨."
+    },
+    "Toàn bộ nhân viên khỏe mạnh, chuyên nghiệp, thái độ làm việc nghiêm túc nhưng rất vui vẻ, nhiệt tình. Ngoài ra chúng tôi sẽ hỗ trợ những dịch vụ khác khi khách yêu cầu. Nếu có nhu cầu sử dụng dịch vụ": {
+      "en": "The entire staff is healthy, professional, serious work attitude but fun, enthusiastic. Also, we'll support other services when guests ask for them. If You Need to Use Service",
+      "zh": "全体工作人员都是健康,专业,认真的工作态度,但有乐趣,热情. 另外,当客人要时,我们会支持其他服务. 如果您需要使用服务"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên để biết chính xác về mức cước cho loại hàng của bạn có thể liên hệ trực tiếp với Lưu Lê qua số Hotline:": {
+      "en": "However to know accurately about the level of ad for your type of goods can be directly connected to Liu via Hotline number:",
+      "zh": "不过,要准确了解您类型的商品的广告级别,可以通过热线号码直接连接到刘:"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Tuyến Sài Gòn – Kon Tum hiện chưa có tàu hỏa nên lựa chọn vận chuyển bằng đường bộ là phương án tối ưu cho khách hàng. Nếu lựa chọn phương thức này bạn sẽ có được sự chủ động về mặt thời giờ di chuyển hàng và địa chỉ giao/nhận hàng. Đây là lợi ích rất lớn đối với cá nhân, doanh nghiệp bận rộn. Ngoài ra thủ tục đơn giản, dễ dàng, tiết kiệm thời gian. Bạn được quyền chọn loại xe di chuyển phù hợp với hàng hóa của mình.": {
+      "en": "The Saigon Line – Kon Tum is not currently without trains, so the option to transport by land is the best option for customers. If you choose this method you will gain the initiative in terms of the time of the move and the address of the delivery/takeover. This is a huge benefit to the individual, the busy business. Also simple, easy, time-saving procedure. You are allowed to choose the kind of moving car that suits your goods.",
+      "zh": "西贡线 – Kon Tum目前并非没有列车,因此陆路运输的选择是客户的最佳选择. 如果您选择了这种方法, 将会从移动时间和发送/接收地址的角度获得主动性 。 这给个人带来巨大的好处 给繁忙的生意带来巨大的好处 还有简单,简单,节省时间的程序. 允许您选择适合您的商品的移动车型."
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa từ Sài Gòn (TpHCM) đi Kon Tum uy tín": {
+      "en": "Transportation from Saigon (TpHCM) to Kon Tum Fame",
+      "zh": "从西贡(TpHCM)到Kon Tum名人的交通"
+    },
+    "Vận chuyển hàng từ Sài Gòn đi Lâm Đồng": {
+      "en": "Transportation from Saigon to Linning",
+      "zh": "从西贡到林宁的交通"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê được khách hàng đánh giá là đơn vị vận tải uy tín, chất lượng hàng đầu thị trường bởi những giá trị mà chúng tôi mang lại cho khách hàng:": {
+      "en": "Liu transport is rated by customers as the prestigious shipping unit, the leading quality market by the values that we bring to customers:",
+      "zh": "刘运被顾客评为有声望的航运单位,按照我们给顾客带来的价值,是领先的质量市场:"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với những lợi thế về vị trí địa lý và hệ thống giao thông, nhu cầu sử dụng dịch vụ gửi/vận chuyển hàng hóa từ Sài Gòn đi Kon Tum ngày càng tăng cao.": {
+      "en": "With the advantage of geographical positions and transportation systems, the need for use of the sending/deposit services from Saigon to Kon Tum is increasing.",
+      "zh": "由于地理位置和运输系统的优势,越来越需要使用从西贡到孔通的发送/保存服务。"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Vận tải Lưu Lê gọi ngay đến số hotline": {
+      "en": "Liu transport calls hotline number",
+      "zh": "刘运通热线电话"
+    },
+    "dịch vụ gửi hàng từ Sài Gòn đi Kon Tum": {
+      "en": "Package service from Saigon to Kon Tum",
+      "zh": "从西贡到 Kon Tum 的软件包服务"
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "là một trong những tuyến vận tải giàu tiềm năng. Bởi đây là tỉnh thành đang ngày càng phát triển về kinh tế, đặc biệt lĩnh vực vận tải. Đừng bỏ lỡ bài viết sau đây, chúng tôi sẽ chia sẻ đến bạn thông tin chi tiết về đơn vị cung cấp dịch vụ uy tín, giá rẻ cho tuyến vận tải này.": {
+      "en": "is one of the most potential shipping routes. Because this is the municipality that is growing economically, especially the transportation field. Don't miss the following article, we're going to share with you the detailed information about the unit that provides the prestigious, affordable services for this transport route.",
+      "zh": "是最具潜力的航运路线之一。 因为这里是经济成长的市镇,特别是交通领域. 请勿错过以下文章,我们将与您分享详细信息,说明为这条运输路线提供有声望,可负担服务的单位."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa từ Sài Gòn đi Kon Tum": {
+      "en": "freight from Saigon to Kon Tum",
+      "zh": "从西贡到孔通的货运"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Địa hình Kon Tum chiếm đến 2/5 diện tích là đồi núi, thấp dần từ Bắc xuống Nam và Đông sang Tây. Nơi đây có 5 nhóm đất chính là đất phù sa, đất xám, đất vàng, đất mùn vàng trên núi và đất thung lũng. Do đó nơi đây thuận lợi để phát triển trồng các cây ăn quả và cây công nghiệp như cà phê, tiêu, điều, cao su…": {
+      "en": "The Kon Tum terrain took up to 2/5th of the hilly area, lowing from North to South and East to West, where five main groups of soils were the wetlands, grey soils, gold soils, mountain and valley land. So here's a good place to develop fruit trees and industrial trees such as coffee, pepper, thing, rubber...",
+      "zh": "孔屯地势取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取地取 因此这里是发展果树和工业树如咖啡,胡椒,东西,橡胶等的好地. ."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được đội ngũ nhân viên tư vấn sớm nhất nhé.": {
+      "en": "Let's get to the team as soon as possible.",
+      "zh": "我们尽快赶到球队"
+    },
+    "► Vận chuyển hàng từ Sài Gòn đi Kon Tum bằng đường bộ (ô tô)": {
+      "en": "Transportation from Saigon to Kon Tum by land (movie)",
+      "zh": "从西贡到Kon Tum的陆运(电影)"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

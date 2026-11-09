@@ -1,0 +1,898 @@
+{
+  "route": "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-sai-gon",
+  "texts": {
+    "(TpHCM) an toàn, chất lượng nhất? Hãy cùng Lưu Lê khám phá qua bài viết sau đây, đảm bảo sẽ cung cấp thông tin hữu ích dành cho bạn!": {
+      "en": "(TpHCM) Safety, Best Quality? Together with Liu, see what the following article has done, ensuring that you will be helped!",
+      "zh": "(TpHCM)安全,最佳品质? 与刘同来,看下一篇文章有何所为,确保你得到帮助!"
+    },
+    "(TpHCM) trên đây của Lưu Lê hy vọng sẽ giúp bạn có sự lựa chọn thích hợp nhất. Nếu còn thắc mắc nào hãy liên hệ ngay với chúng tôi qua hotline": {
+      "en": "(TpHCM) On Liu's site hope will enable you to make the most suitable choice. If you have any questions, contact us immediately via hotline.",
+      "zh": "(TpHCM) 在刘家站点上的希望可以让你做出最合适的选择. 如果您有任何问题,请立即通过热线联系我们。"
+    },
+    "1,000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "1,600,000đ/chuyến": {
+      "en": "1.60,000/DL",
+      "zh": "1.60 000/第纳尔"
+    },
+    "150,000đ/m3": {
+      "en": "150,000 dm/m3",
+      "zh": "15万德米/立方米"
+    },
+    "18 Tháng 2 2022": {
+      "en": "18 February 2022",
+      "zh": "2022年2月18日 (中文(简体) )."
+    },
+    "1m3 < 300kg": {
+      "en": "1 m3 (300 kg)",
+      "zh": "1立方米(300公斤)"
+    },
+    "1m3 > 300kg": {
+      "en": "1m3 > 300 kg",
+      "zh": "1立方米 > 300公斤"
+    },
+    "200đ/kg đến 250đ/kg": {
+      "en": "200 mph/kg to 250 mph/kg",
+      "zh": "200 mph/kg至250 mph/kg"
+    },
+    "380,000đ/m3": {
+      "en": "3DMD/m3",
+      "zh": "3DMD/立方米"
+    },
+    "50,000đ/m3 đến 60,000đ/m3": {
+      "en": "50,000 d/m3 to 60,000 d/m3",
+      "zh": "50 000克/立方米至60 000克/立方米"
+    },
+    "500,000đ/chuyến đến 600,000đ/chuyến": {
+      "en": "500,000 per cent.",
+      "zh": "500,000% (英语)."
+    },
+    "700đ/kg": {
+      "en": "700 mph/kg",
+      "zh": "700 mh/kg (单位:公斤)"
+    },
+    ": thời gian trên không tính thời gian giao/nhận hàng hóa, các yếu tố khách quan, dịch họa, thiên tai…": {
+      "en": ": Airtime Computing delivery time/takeovers, objective elements, plague, natural disasters...",
+      "zh": ": airtime 计算交付时间/接收时间,客观要素,瘟疫,自然灾害."
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách Hải Phòng Sài Gòn": {
+      "en": "A map of Saigon Customs Range",
+      "zh": "西贡海关区域地图"
+    },
+    "Bảng giá cước gửi hàng từ Hải Phòng đi Sài Gòn (TpHCM)": {
+      "en": "The bill of deposit from Customs to Saigon (TpHCM)",
+      "zh": "从海关到西贡的存款单(TpHCM)"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Hải Phòng Sài Gòn": {
+      "en": "Republic of Saigon Customs",
+      "zh": "西贡共和国海关"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chất lượng vận chuyển: Hàng hóa được đảm bảo an toàn suốt quá trình vận chuyển.": {
+      "en": "Transport Quality: The goods are secured throughout the transport.",
+      "zh": "运输质量:货物在整个运输过程中都是安全的。"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty Vận tải Lưu Lê là đơn vị hàng đầu trên thị trường chuyên cung cấp dịch vụ vận chuyển hàng hóa từ Hải Phòng đi Sài Gòn. Chúng tôi sở hữu những lợi thế khác biệt như:": {
+      "en": "Liu Transport Company is the leading unit on the market that provides freight services from the Customs to Saigon. We own different advantages like:",
+      "zh": "刘运公司是市场上提供从海关到西贡的货运服务的领导单位. 我们拥有不同的优势 比如:"
+    },
+    "Cước phí vận chuyển hàng tuyến đường Hải Phòng đi Sài Gòn được tính cụ thể như sau:": {
+      "en": "The cost of shipping the Customs Line to Saigon was specific as follows:",
+      "zh": "海关到西贡的运输费用具体如下:"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ chăm sóc khách hàng: Tư vấn, giải đáp miễn phí những thắc mắc của khách hàng. Có nhân viên trực chăm sóc khách hàng 24/7.": {
+      "en": "Customer Services: Consulting, free answers to customer questions. Customer staff 24/7.",
+      "zh": "客户服务:咨询,免费回答客户问题. 客户员工24/7。"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước gửi hàng từ Hải Phòng đi Sài Gòn (TpHCM)": {
+      "en": "Bills deposited from Customs to Saigon (TpHCM)",
+      "zh": "从海关存入西贡的票据"
+    },
+    "Giá cước ưu đãi hàng đầu thị trường, thường xuyên tổ chức những đợt khuyến mãi, tri ân khách hàng, giảm giá cước.": {
+      "en": "The market's top-of-the-market ratings, regularly hosting promotional campaigns, the client's grace, a discount.",
+      "zh": "市场最高收视率,定期承办促销活动,客户优待,打折."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng Miền Nam": {
+      "en": "Send South Coast Guard",
+      "zh": "派南海岸警卫队去"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Hải Phòng đi Tây Ninh": {
+      "en": "Send the package from Hai Chamber to Western Europe",
+      "zh": "把包裹从海会送到西欧"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ < 10m3": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nhẹ > 10m3": {
+      "en": "Light Row > 10m3",
+      "zh": "轻行 > 10m3"
+    },
+    "Hàng nặng < 2 tấn": {
+      "en": "Heavy Rows",
+      "zh": "重行"
+    },
+    "Hàng nặng > 2 tấn": {
+      "en": "Heavy Rows > 2 tons",
+      "zh": "重行 > 2吨"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hải Phòng - Sài Gòn": {
+      "en": "Sea Hall - Saigon",
+      "zh": "海洋厅-西贡"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu ý": {
+      "en": "Attention",
+      "zh": "请注意"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn gửi hàng từ Hải Phòng đi Sài Gòn (TpHCM) bằng phương tiện nào?": {
+      "en": "By what means should the package be sent from the Customs to Saigon (TpHCM)?",
+      "zh": "该包裹应以何种方式从海关送往西贡(TpHCM)?"
+    },
+    "Nếu": {
+      "en": "If",
+      "zh": "若为"
+    },
+    "Nếu có thắc mắc bạn vui lòng liên hệ tới số Hotline:": {
+      "en": "If you have a question, please relate to Hotline number:",
+      "zh": "如果您有问题,请联系热线号码:"
+    },
+    "Nếu quý khách có nhu cầu vận chuyển hàng từ Hải Phòng đi Sài Gòn có thể cân nhắc lựa chọn một trong hai hình thức sau đây:": {
+      "en": "If you have a need for shipping from the Saigon Customs Hall, you can consider selecting one of the following two forms:",
+      "zh": "如果需要从西贡海关大厅运输,可以考虑选择下列两种形式之一:"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, quãng đường di chuyển từ Hải Phòng đi Sài Gòn dài khoảng 1.559km nếu chạy qua tuyến đường 13, tương đương khoảng 29 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Hải Phòng đi Sài Gòn mất khoảng 4 - 5 ngày.": {
+      "en": "According to Google Maps' instructions, the distance from the Marine Chamber to Saigon was approximately 1.559 km (5.59 km) long if running through Route 13, which was approximately 29 hours. So the delivery time from the Customs Hall to Saigon took about 4 to 5 days.",
+      "zh": "根据Google Maps的指示,从海洋会馆到西贡的距离如果通过13号公路运行大约为29小时,则会长约1.559公里(5.59公里). 因此从海关大厅到西贡的运送时间大约需要4到5天."
+    },
+    "Thời gian gửi hàng từ Hải Phòng đi Sài Gòn (TpHCM) là bao lâu?": {
+      "en": "How long was the delivery time from the Sea Hall to Saigon (TpHCM)?",
+      "zh": "从海会馆到西贡(TpHCM)的送货时间有多长?."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên chi phí vận chuyển cao hơn như chi phí bảo dưỡng bảo trì, lệ phí đường sá, chi phí trông coi hàng hóa… đặc biệt là tuyến vận chuyển đường dài.": {
+      "en": "However, higher transportation costs such as maintenance costs, road costs, freight costs... especially long-distance transport routes.",
+      "zh": "然而,较高的运输成本,如维护成本,道路成本,运费等. ."
+    },
+    "Tuy nhiên nhược điểm của phương thức vận tải này là không linh hoạt do chạy trên đường ray cố định, trả hàng ở các ga tàu, thủ tục cũng khá phức tạp hơn.": {
+      "en": "However, the weakness of this method of transportation is that it is not flexible due to running on fixed tracks, paying in train stations, the procedure is also quite more complex.",
+      "zh": "然而,这种运输方式的弱点在于由于在固定轨道上跑行,在火车站里付费,所以不灵活,程序也相当复杂."
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy từng loại hàng, từng nhu cầu gửi hàng đường tàu hỏa của mỗi khách hàng là khác nhau nên giá cước cũng sẽ khác nhau. Chính vì lý do đó, quý khách vui lòng cung cấp đầy đủ thông tin về hàng hóa để được Lưu Lê báo giá chính xác cụ thể và chi tiết nhất.": {
+      "en": "Depending on the type of cargo, the demand for each customer's train shipment is different, so the rate will be different. For that reason, the guests would be pleased to provide sufficient information about the goods to be told by Liu La the most specific and detailed price.",
+      "zh": "根据货物种类不同,每趟客户的列车货运需求不同,因此费率会有所不同. 为此,嘉宾们将乐于就刘拉要告知的最具体,最详细价格的商品提供足够的信息."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Vì sao nên lựa chọn Vận Tải Lưu Lê để gửi hàng từ Hải Phòng đi Sài Gòn (TpHCM)?": {
+      "en": "Why select Archives to be sent from Customs to Saigon (TpHCM)?",
+      "zh": "为什么选择从海关发送到西贡的档案(TpHCM)?"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa bằng đường sắt được nhiều người sử dụng bởi tín an toàn, tiết kiệm, hiện đại. Giá cả thấp, ổn định hơn nhiều so với các phương tiện vận tải khác, đường xa không còn là vấn đề đối với phương thức vận tải này, ít gặp yếu tố khách quan như hư hỏng đường xá, tắc đường, mưa ngập…Hàng hóa đảm bảo an toàn hơn do được sắp xếp cẩn thận trong những toa tàu chuyên biệt.": {
+      "en": "Transported goods by railways are widely used by safety, savings, moderns. Prices are much lower, much more stable than other transports, the long distance is no longer a problem for this method of transportation, with fewer objective factors such as road damage, traffic traffic jams, floods of rain... the greater security guarantees by being carefully arranged in special trains.",
+      "zh": "由铁路运输的货物被安全,节约,现代广泛使用. 价格要低得多,比起其他交通工具要稳定得多,长途运输对于这种运输方式来说已经不是问题了,道路被破坏,交通堵塞,雨水被淹等客观因素越来越少了. 被精心安排在特快列车中的安全保障越多."
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với những thông tin chi tiết về dịch vụ": {
+      "en": "With service details",
+      "zh": "有服务细节"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chúng tôi sẽ tính vào hàng nhẹ. Nếu": {
+      "en": "All right, we'll make it light. If",
+      "zh": "好吧,我们会让它轻。 若为"
+    },
+    "chúng tôi sẽ tính vào hàng nặng.": {
+      "en": "We're gonna charge you hard.",
+      "zh": "我们要对你严刑拷打"
+    },
+    "cước tàu +": {
+      "en": "Train ID +",
+      "zh": "火车 ID +"
+    },
+    "gửi hàng từ Hải Phòng đi Sài Gòn": {
+      "en": "Send the package from Hai Chamber to Saigon",
+      "zh": "把包裹从海口送到西贡"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao Sài Gòn": {
+      "en": "Saigon car",
+      "zh": "西贡车"
+    },
+    "xe lấy Hải Phòng +": {
+      "en": "The car takes the Customs +",
+      "zh": "车去海关+"
+    },
+    "Đa dạng hình thức, phương tiện vận chuyển nên khách hàng thoải mái lựa chọn.": {
+      "en": "Various forms, transportation, so the customer is free to choose.",
+      "zh": "各种形式,运输,所以顾客可以自由选择."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đây là phương thức vận tải hàng hóa được nhiều người lựa chọn bởi tính linh hoạt trong quá trình vận chuyển, không bị gò bó về thời gian. Thời gian di chuyển do hai bên thỏa thuận, có thể thay đổi trong quá trình di chuyển. Việc lựa chọn loại xe lớn hay nhỏ để chở hàng trở nên dễ dàng hơn.": {
+      "en": "This is a method of shipping that is chosen by many by flexibility in the process of transportation, which is not limited in time. The time of movement by both sides of the agreement, may change during the movement. Choosing the type of car that is large or small for freight became easier.",
+      "zh": "这是许多人在运输过程中灵活选择的一种运输方法,在时间上并不受到限制。 协议双方的出行时间,在出行期间可能会有变化. 为货运选择大小车型变得更加容易."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị nào cung cấp dịch vụ": {
+      "en": "Which unit provides services",
+      "zh": "哪个单位提供服务"
+    },
+    "Đối với hàng hóa là xe máy hoặc chuyển nhà trọn gói hãy liên hệ để được chúng tôi tư vấn báo giá cụ thể.": {
+      "en": "For goods are motorcycles or package move to contact to be advised the price specific.",
+      "zh": "货物是摩托车或包裹移动以接触,以了解具体价格。"
+    },
+    "Đối với hàng nhẹ (tính theo m3):": {
+      "en": "For light row (calculated by m3):",
+      "zh": "对于轻行(以m3计算):"
+    },
+    "Đối với hàng nặng (tính theo kg):": {
+      "en": "For heavy items (calculated by kg):",
+      "zh": "重型物品(按公斤计算):"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đội ngũ nhân lực khỏe mạnh, trình độ chuyên môn cao, giàu kinh nghiệm trong quá trình bốc xếp, vận chuyển hàng hóa. Thái độ làm việc nghiêm túc, nhiệt tình, cẩn trọng, chu đáo.": {
+      "en": "Healthy personnel teams, high level of expertise, experience-rich in the process of encapsulation, freight. A serious, enthusiastic, careful, thoughtful working attitude.",
+      "zh": "健全人员队伍,高水平的专业知识,在封装,货运过程中经验丰富. 认真,热情,谨慎,周到的工作态度."
+    },
+    "để được Lưu Lê giải đáp 24/7!": {
+      "en": "To be answered by Liu 24/7!",
+      "zh": "由刘24/7回答!"
+    },
+    "để được hỗ trợ 24/7 nhé!": {
+      "en": "We're gonna get you back up 24/7.",
+      "zh": "我们要让你全天候回来"
+    },
+    "► Gửi hàng hóa từ Hải Phòng đi Sài Gòn bằng đường bộ (ô tô)": {
+      "en": "EDI send goods from the Sea Hall to Saigon by landway",
+      "zh": "电子数据交换系统通过陆路将货物从海会堂运往西贡"
+    },
+    "► Gửi hàng hóa từ Hải Phòng đi Sài Gòn bằng đường sắt (tàu hỏa)": {
+      "en": "EDI send goods from the Hai Chamber to Saigon by railway.",
+      "zh": "EDI通过铁路从海会所将货物发往西贡."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

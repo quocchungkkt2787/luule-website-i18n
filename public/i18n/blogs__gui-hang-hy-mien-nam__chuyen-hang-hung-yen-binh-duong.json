@@ -1,0 +1,930 @@
+{
+  "route": "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-duong",
+  "texts": {
+    "1,000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "18 Tháng 3 2022": {
+      "en": "18 March 2022",
+      "zh": "2022年3月18日 (中文(简体) )."
+    },
+    "1m3 < 300kg": {
+      "en": "1 m3 (300 kg)",
+      "zh": "1立方米(300公斤)"
+    },
+    "1m3 > 300kg": {
+      "en": "1m3 > 300 kg",
+      "zh": "1立方米 > 300公斤"
+    },
+    "200đ/kg đến 300đ/kg": {
+      "en": "200 mph/pound to 300 mph/kg",
+      "zh": "200 mph/磅至300 mph/千克"
+    },
+    "300đ/kg": {
+      "en": "300 mph/kg",
+      "zh": "300 mph/kg (单位:公斤)"
+    },
+    "380,000đ/m3": {
+      "en": "3DMD/m3",
+      "zh": "3DMD/立方米"
+    },
+    "50,000đ/m3 đến 80,000đ/chuyến": {
+      "en": "50,000 x/m3 to RL/D",
+      "zh": "50,000 x/ m3 到 RL/D"
+    },
+    "500,000đ đến 800,000đ/chuyến": {
+      "en": "Five hundred and fifty thousand apiece.",
+      "zh": "每人五百五万块."
+    },
+    "80,000đ/m3": {
+      "en": "DD/m3",
+      "zh": "设计/立方米"
+    },
+    "800,000đ/chuyến": {
+      "en": "800,000 p.m.",
+      "zh": "下午80时"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bình Dương ngày nay là kết quả phấn đấu, nỗ lực, sáng tạo không ngừng của bao thế hệ. Trước đây Bình Dương chỉ là một tỉnh kinh tế chủ yếu làm nông nghiệp, nhưng hiện nay Bình Dương là tỉnh có ngành công nghiệp của tỉnh đứng nhất nhì cả nước. Toàn tỉnh có khoảng hơn 29 khu công nghiệp lớn, 12 cụm công nghiệp, trong đó cơ sở hạ tầng đều hoàn chỉnh, hiện đại, đồng bộ. Với những chính sách phù hợp Bình Dương đã thu hút hàng nghìn dự án từ trong và ngoài nước.": {
+      "en": "The Pacific today is the result of the struggle, the effort, the relentless creation of generations. The Pacific had previously been just an economic province that was mainly agricultural, but now the Pacific is the province that has the most industrial of the country. The entire province has about 29 major industrial districts, 12 industrial clusters, in which infrastructure is complete, modern, synchronized. With the right policies of the Pacific which attracted thousands of projects from inside and abroad.",
+      "zh": "今天的太平洋是历代人奋斗,努力,无情创造的结果. 太平洋以前只是一个经济省份,主要是农业,但现在太平洋是该国工业最发达的省份。 全省有29个主要工业区,12个工业集群,其中基础设施完整,现代化,同步. 太平洋的正确政策吸引了数千个国内外项目。"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn đang quan tâm đơn vị nào cung cấp dịch vụ": {
+      "en": "You are interested in which unit provides services",
+      "zh": "您对哪个单位提供的服务感兴趣"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá gửi hàng từ Hưng Yên đi Bình Dương": {
+      "en": "The shipping price from the Village of Yanyang to Pacific",
+      "zh": "Yan阳村到太平洋的运价"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Hưng Yên Bình Dương": {
+      "en": "Pacific Line Transportation",
+      "zh": "太平洋线路运输"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chịu trách nhiệm bồi thường thiệt hại nếu có sự cố hư hỏng, mất mát hàng hóa.": {
+      "en": "The responsibility to compensate for damages if an incident occurs, the loss of goods.",
+      "zh": "发生事故,货物损失的,承担赔偿损失的责任."
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp dịch vụ khác như cho thuê kho bãi; đóng gói; cho thuê xe nâng, xe cẩu; dịch vụ ship COD…": {
+      "en": "Provides other services such as renting out a yard shed; packing; renting lifts, cranes; CADship Service...",
+      "zh": "提供其他服务,如租出院子棚;打包;租出升降机,起重机;CADship Service."
+    },
+    "Cung cấp đa dạng dịch vụ vận chuyển từ ga đến ga, từ kho đến ga, từ ga đến kho, từ kho đến kho.": {
+      "en": "Provides diverse transport services from the station to the station, from the depot to the station, from the station to the depot, from the depot to the depot.",
+      "zh": "提供从站厅到站所,从站所到站所,从站所到站所的多种交通服务."
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Còn chần chờ gì mà không gọi ngay cho Vận tải Lưu Lê số hotline": {
+      "en": "What are you waiting for?",
+      "zh": "你还在等什么?"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá cước vận chuyển hàng tuyến đường Hưng Yên đi Bình Dương được tính cụ thể như sau:": {
+      "en": "The rate of shipping the Line Line to the Pacific is as specific as the following:",
+      "zh": "该线通向太平洋的运输速度如下:"
+    },
+    "Giới thiệu sơ lược về tuyến gửi hàng từ Hưng Yên đi Bình Dương": {
+      "en": "A brief introduction to the shipping line from Xingyan to Pacific",
+      "zh": "兴安至太平洋航线简介."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên Miền Nam": {
+      "en": "Send South Air Line",
+      "zh": "发送南方航空公司"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Hưng Yên đi Bình Dương uy tín, giá tốt": {
+      "en": "Send the goods from the village to the prestigious Pacific.",
+      "zh": "从村里把货物送到著名的太平洋"
+    },
+    "Gửi hàng từ Hưng Yên đi Sài Gòn": {
+      "en": "Send the goods from Yeng to Saigon",
+      "zh": "把货从英去西贡"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ < 10m3": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nhẹ > 10m3": {
+      "en": "Light Row > 10m3",
+      "zh": "轻行 > 10m3"
+    },
+    "Hàng nặng < 2 tấn": {
+      "en": "Heavy Rows",
+      "zh": "重行"
+    },
+    "Hàng nặng > 2 tấn": {
+      "en": "Heavy Rows > 2 tons",
+      "zh": "重行 > 2吨"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hưng Yên - Bình Dương": {
+      "en": "\"President of the Pacific\".",
+      "zh": "\"太平洋总统\"."
+    },
+    "Hưng Yên có đến 13km đường quốc lộ 5A và hơn 20km đường sắt Hà Nội – Hải Phòng đi quan. Ngoài ra các tuyến quốc lộ khac snhuw quốc lộ 38, 39A qua thị xã nối quốc lộ 1A đến quốc lộ 10. Ngoài ra Hưng Yên còn có gần các cảng biển Cái Lân, Hải Phòng, sân bay quốc tế Nội Bài…thuận lợi cho giao thương, trao đổi hàng hóa.": {
+      "en": "The village of Yen has up to 13 km (13 km) of Route 5A and more than 20 km of Hanoi Railroads – Customs Department. In addition to the route of the Routes of the Route 38, 39A via the town connecting the 1A Highway to Highway 10. In addition, the Yeng Yeng has close to the ports of the Sea of Yansen, the Sea of Defence, the Imperial International Airport... in favour of trade, trading goods.",
+      "zh": "延村有5A国道13公里(13公里)和河内铁路20多公里-海关. 除\"三一八\"路线外,\"三一一\"路线还通由\"一一\"公路与\"十\"公路相接的镇. 此外,延安号还紧靠了燕生海口,国防海口,帝国国际机场等地. ."
+    },
+    "Hưng Yên là tỉnh thuộc khu vực đồng bằng sông Hồng của nước ta, có diện tích khoảng 923,09km2. Hưng Yên mang đặc điểm nổi bật của đồng bằng, địa hình tương đối bằng phẳng, không có đồi núi. Do đó nền kinh tế chủ yếu là làm nông nghiệp, trồng cây ăn quả, cây công nghiệp.": {
+      "en": "The village of Yen is the province of the Red River Delta region of our country, which has an area of about 92,709 km2. The Pacific bears a striking feature of the plain, relatively flat terrain, without hills. So the economy is mainly farming, growing fruit, industrial plants.",
+      "zh": "延村是我国红河三角洲地区的省会,面积约为92,709平方千米. 太平洋具有平原地貌的显著特征,地势相对平坦,没有丘陵. 因此经济主要为农作,种植水果,工业用地."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khoảng cách vận chuyển Hưng Yên - Bình Dương": {
+      "en": "The Range of Transportation of Xingyan - Pacific",
+      "zh": "锡扬-太平洋运输范围"
+    },
+    "Khoảng thời gian trên không tính vào thời gian giao/nhận hàng, các yếu tố thiên tai, dịch họa, thời tiết, khí hậu…": {
+      "en": "The amount of time above the air is calculated at the time of delivery and delivery, natural disasters, plague, weather, climate...",
+      "zh": "空气上方的时间量以送出和送出时,自然灾害,瘟疫,天气,气候等时间来计算."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lý do bạn nên lựa chọn dịch vụ gửi hàng từ Hưng Yên đi Bình Dương tại Lưu Lê": {
+      "en": "The reason why you should choose the delivery service from the Valley of Peace to the Pacific at Liu Liu",
+      "zh": "你为何要选择从和平谷到太平洋的送货服务"
+    },
+    "Lưu ý": {
+      "en": "Attention",
+      "zh": "请注意"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên lựa chọn gửi hàng từ Hưng Yên đi Bình Dương bằng hình thức nào?": {
+      "en": "In what form should the package be sent to the Pacific?",
+      "zh": "包裹应以何种形式送到太平洋?"
+    },
+    "Nếu": {
+      "en": "If",
+      "zh": "若为"
+    },
+    "Nếu bạn muốn chọn một giải pháp an toàn, tiết kiệm, nhanh chóng thì đường sắt là lựa chọn hợp lý. Tuy nhiên hàng hóa giao/nhận tại các ga tàu nên tính linh hoạt không cao, thủ tục hơi phức tạp, tốn thời gian hơn.": {
+      "en": "If you want to choose a safe, efficient, quick solution, the railway is the logical choice. However the delivery/take at the train stations should be highly flexible, the procedure is slightly more complicated, taking time.",
+      "zh": "如果你想选择安全,高效,快速的解决方案,铁路就是逻辑选择. 然而,火车站的交付/取用应高度灵活,程序略为复杂,需要时间。"
+    },
+    "Nếu bạn thích sự linh hoạt trong vấn đề thời gian, địa điểm giao/nhận hàng, thì chắc chắn sẽ không thể bỏ qua hình thức vận chuyển bằng đường bộ với xe tải, ô tô.": {
+      "en": "If you like flexibility in the matter of time, the location of delivery/takeovers, then surely you will not be able to ignore the form of road transport with trucks, cars.",
+      "zh": "如果你喜欢在时间问题上的灵活性,即交货/接收的地点,那么你肯定不会忽视用卡车,汽车进行道路运输的形式."
+    },
+    "Nếu có thắc mắc bạn vui lòng liên hệ tới số Hotline:": {
+      "en": "If you have a question, please relate to Hotline number:",
+      "zh": "如果您有问题,请联系热线号码:"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Sở hữu những lợi thế về vị trí địa lý và hệ thống giao thông, nhu cầu gửi/vận chuyển hàng hóa từ Hưng Yên đi Bình Dương ngày càng tăng cao do sức tiêu thụ lớn.": {
+      "en": "Ownerships of geographical positions and traffic systems, the need to send/combat goods from the Pacific Village to the Pacific is increasing due to large consumption.",
+      "zh": "由于大量消费,地理位置和交通系统的所有权、从太平洋村向太平洋运送/作战物资的需要不断增加。"
+    },
+    "Sự lớn mạnh của Bình Dương hôm nay một phần nhờ vào sự đầu tư mạng lưới giao thông trên toàn tỉnh. Các dự án mang tính kết nối vùng được chú trọng đầu tư như đường Bắc Tân Uyên – Phú Giáo – Đồng Phú, thiết kế 6 làn xe, mức đầu tư trên 965 tỷ đồng, chiều dài hơn 12,12km. Dự án cầu Bạch Đằng 2, đường Thủ Biên – Đất Cuốc nhằm kết nối với các tỉnh lân cận.": {
+      "en": "The growth of the Pacific today is partly due to the investment of traffic networks across the province. Area-connected projects are heavily invested as New New New New Nectar Street – Fusion – Plain Fuji, designed 6 lanes of lanes, investments over 965 billion dollars (9.12 km) in length. \"Nin Bao Bridge Project 2\", Borders – The land of Carvet was intended to connect with neighboring provinces.",
+      "zh": "今天太平洋的增长部分是由于全省交通网络的投资. 与地区相接相接的项目被大量投资为\"新新新内克塔尔街-融合-平原富士\",设计了6道道,投资超过9,650亿美元(9.12公里)的长度. \"新宝桥工程2\",\"边境-\". 卡尔维特之地意在与相邻省份相接."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, nếu chạy theo tuyến đường 13, quãng đường di chuyển từ Hưng Yên đi Bình Dương dài khoảng 1.397km, tương đương khoảng 26 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Hưng Yên đi Bình Dương mất khoảng 4 - 5 ngày.": {
+      "en": "According to Google Maps' instructions, if run along Route 13, the distance from the Valley of Peace travels to the Pacific is approximately 1,397 miles (3,97 km) long, equivalent to about 26 hours. So the time of shipping from the Pacific Village took about 4 to 5 days.",
+      "zh": "根据Google Maps的指示,如果沿着13号公路运行,从和平谷到太平洋的距离大约为1,397英里(3,97公里)长,相当于约26小时. 因此从太平洋村起航的时间大约需要4到5天."
+    },
+    "Thời gian gửi hàng từ Hưng Yên đi Bình Dương là bao lâu?": {
+      "en": "How long is the time for the delivery from the Village of Peace?",
+      "zh": "从和平村送货的时间有多长?"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Tuân thủ đúng những gì đã cam kết với khách hàng.": {
+      "en": "Obey exactly what you committed to the client.",
+      "zh": "遵守你对客户的承诺"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tính bảo mật thông tin, an toàn hàng hóa ở mức độ cao.": {
+      "en": "Information security, high level of safety.",
+      "zh": "信息安全,安全水平高."
+    },
+    "Tùy thuộc vào nhu cầu, đặc điểm hàng hóa, quãng đường di chuyển, khách hàng có thể lựa chọn cho mình phương thức vận chuyển phù hợp nhất, cụ thể là:": {
+      "en": "Depending on demand, goods specifications, distance travel, customers can choose for themselves the most consistent method of transportation, namely:",
+      "zh": "根据需求、货物规格、距离旅行,客户可以自行选择最一致的运输方式,即:"
+    },
+    "Tùy từng loại hàng, từng nhu cầu gửi hàng đường tàu hỏa của mỗi khách hàng là khác nhau nên giá cước cũng sẽ khác nhau. Chính vì lý do đó, quý khách vui lòng cung cấp đầy đủ thông tin về hàng hóa để được Lưu Lê báo giá chính xác cụ thể và chi tiết nhất.": {
+      "en": "Depending on the type of cargo, the demand for each customer's train shipment is different, so the rate will be different. For that reason, the guests would be pleased to provide sufficient information about the goods to be told by Liu La the most specific and detailed price.",
+      "zh": "根据货物种类不同,每趟客户的列车货运需求不同,因此费率会有所不同. 为此,嘉宾们将乐于就刘拉要告知的最具体,最详细价格的商品提供足够的信息."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tạo mọi điều kiện, hỗ trợ tối đa nhu cầu của khách hàng.": {
+      "en": "Create all conditions, support the customer's maximum needs.",
+      "zh": "创造出所有条件,支持客户的最大需求."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Việc tìm kiếm đơn vị cung cấp dịch vụ vận chuyển hàng hóa từ Hưng Yên đi Bình Dương giá rẻ, an toàn luôn là tiêu chí của các cá nhân doanh nghiệp. Đến với Vận tải Lưu Lê, khách hàng sẽ nhận được nhiều giá trị hơn thế.": {
+      "en": "The search for units to provide freight services from the Pacific Village to the cheap, safe Pacific is always the criteria of business individuals. When you reach Liu Li, the customer will receive more than that.",
+      "zh": "寻找单位提供从太平洋村到廉价而安全的太平洋的货运服务,始终是企业个人的标准. 到了刘立后,顾客会得到更多."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "an toàn, tiết kiệm nhất thị trường? Bạn chưa biết giá cả, phương tiện nào phù hợp với hàng hóa của mình? Hãy đọc bài viết dưới đâu và tìm kiếm cho mình câu trả lời thỏa đáng nhất nhé!": {
+      "en": "Safest, most profitable market? You don't know the price, which vehicle fits your goods? Read the article below and find yourself the most satisfying answer!",
+      "zh": "最安全最赚钱的市场? 你不知道价格 哪辆车适合你的货? 阅读以下文章,找到最满意的答案!"
+    },
+    "chúng tôi sẽ tính vào hàng nhẹ. Nếu": {
+      "en": "All right, we'll make it light. If",
+      "zh": "好吧,我们会让它轻。 若为"
+    },
+    "chúng tôi sẽ tính vào hàng nặng.": {
+      "en": "We're gonna charge you hard.",
+      "zh": "我们要对你严刑拷打"
+    },
+    "cước tàu +": {
+      "en": "Train ID +",
+      "zh": "火车 ID +"
+    },
+    "dịch vụ gửi/vận chuyển hàng hóa từ Hưng Yên đi Bình Dương": {
+      "en": "Send/Movie shipping services from the Village of Peace to the Pacific",
+      "zh": "将和平村的航运服务送到太平洋"
+    },
+    "gửi hàng từ Hưng Yên đi Bình Dương": {
+      "en": "Send the goods from thengang to Pacific",
+      "zh": "把货物从江干送到太平洋"
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "nhé!": {
+      "en": "Okay, okay.",
+      "zh": "好,好,好,好,我们走,我们走"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao Bình Dương": {
+      "en": "Pacific transport",
+      "zh": "太平洋运输"
+    },
+    "xe lấy Hưng Yên +": {
+      "en": "The car takes Yen.",
+      "zh": "车取延."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đối với hàng hóa là xe máy hoặc chuyển nhà trọn gói hãy liên hệ để được chúng tôi tư vấn báo giá cụ thể.": {
+      "en": "For goods are motorcycles or package move to contact to be advised the price specific.",
+      "zh": "货物是摩托车或包裹移动以接触,以了解具体价格。"
+    },
+    "Đối với hàng nhẹ (tính theo m3):": {
+      "en": "For light row (calculated by m3):",
+      "zh": "对于轻行(以m3计算):"
+    },
+    "Đối với hàng nặng (tính theo kg):": {
+      "en": "For heavy items (calculated by kg):",
+      "zh": "重型物品(按公斤计算):"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được Lưu Lê giải đáp 24/7!": {
+      "en": "To be answered by Liu 24/7!",
+      "zh": "由刘24/7回答!"
+    },
+    "để được tư vấn, báo giá sớm nhất về": {
+      "en": "In order to be advised, report the latest bid.",
+      "zh": "为了了解情况,请报告最新出价。"
+    },
+    "→ Lưu ý:": {
+      "en": "(10) Note:",
+      "zh": "(10) 说明:"
+    },
+    "► Vận chuyển hàng từ Hưng Yên đi Bình Dương bằng đường bộ": {
+      "en": "Transportation from the Valley of Peace to the Pacific by land.",
+      "zh": "从和平谷到太平洋的陆路运输。"
+    },
+    "► Vận chuyển hàng từ Hưng Yên đi Bình Dương bằng đường sắt": {
+      "en": "Transportation from the Valley of Peace to the Pacific via railway",
+      "zh": "通过铁路从和平谷到太平洋的运输"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

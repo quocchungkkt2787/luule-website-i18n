@@ -1,0 +1,63 @@
+{
+  "discovered_public_urls": 982,
+  "page_budget": 854,
+  "required_pages_found": [
+    "/pages/tra-cuu-gia-cuoc-van-chuyen"
+  ],
+  "required_pages_missing": [],
+  "sitemap_urls": 822,
+  "skipped_or_failed": [
+    {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen"
+    },
+    {
+      "error": "redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
+    }
+  ],
+  "successful_public_pages": 852,
+  "unvisited_count": 128,
+  "unvisited_examples": [
+    "/pages/bang-gia-van-chuyen-hang",
+    "/pages/chinh-sach-bao-mat",
+    "/pages/chinh-sach-den-bu",
+    "/pages/chinh-sach-thanh-toan",
+    "/pages/dich-vu-van-chuyen-hang-bang-duong-sat",
+    "/pages/dich-vu-van-chuyen-hang-hoa-bac-nam",
+    "/pages/dich-vu-van-chuyen-hang-ra-ha-noi",
+    "/pages/dich-vu-van-chuyen-hang-tu-sai-gon-ra-vinh",
+    "/pages/dich-vu-van-chuyen-hang-vao-sai-gon",
+    "/pages/dich-vu-van-chuyen-o-to-bang-tau-hoa",
+    "/pages/lich-trinh-tau-chay",
+    "/blogs/bao-chi/bo-mat-cua-van-tai-duong-sat",
+    "/blogs/bao-chi/giai-phap-van-chuyen-thong-minh",
+    "/blogs/chinh-sach-cong-ty/cau-hoi-thuong-gap",
+    "/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay",
+    "/blogs/chinh-sach-cong-ty/quy-trinh-giao-nhan-hang-hoa",
+    "/blogs/chuyen-cua-hang",
+    "/blogs/chuyen-nha-dong-nai/chuyen-nha-tai-trang-bom",
+    "/blogs/chuyen-nha-hn-mien-nam",
+    "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-sai-gon",
+    "/blogs/chuyen-nha-sg-dong-nam-bo",
+    "/blogs/chuyen-nha-tay-ninh/chuyen-nha-tai-ben-cau",
+    "/blogs/giai-phap-kinh-doanh/cam-ket-dung-tien-do",
+    "/blogs/giai-phap-kinh-doanh/cam-ket-van-chuyen-an-toan",
+    "/blogs/giai-phap-kinh-doanh/cung-cap-9-toa-tau-va-40-xe-tai-moi-ngay",
+    "/blogs/giai-phap-kinh-doanh/giam-sat-chat-che",
+    "/blogs/giai-phap-kinh-doanh/ho-tro-24-7",
+    "/blogs/giai-phap-kinh-doanh/mien-phi-boc-xep",
+    "/blogs/giai-phap-kinh-doanh/tiet-kiem-toi-da-chi-phi",
+    "/blogs/goc-tu-van/chuyen-nha-bac-nam",
+    "/blogs/goc-tu-van/chuyen-phat-nhanh-tu-sai-gon-ra-ha-noi-mat-bao-lau",
+    "/blogs/goc-tu-van/dia-chi-ga-giap-bat",
+    "/blogs/goc-tu-van/dich-vu-van-chuyen-hang-de-vo-bac-nam",
+    "/blogs/goc-tu-van/dich-vu-van-chuyen-hang-hoa-bang-xe-tai",
+    "/blogs/goc-tu-van/dich-vu-van-chuyen-hang-hoa-logistic",
+    "/blogs/goc-tu-van/dich-vu-van-tai-bac-trung-nam",
+    "/blogs/goc-tu-van/dich-vu-van-tai-noi-dia",
+    "/blogs/goc-tu-van/thue-xe-van-tai-hang-hoa",
+    "/blogs/goc-tu-van/van-chuyen-container-bac-nam",
+    "/blogs/goc-tu-van/van-chuyen-hang-le-bac-nam"
+  ]
+}

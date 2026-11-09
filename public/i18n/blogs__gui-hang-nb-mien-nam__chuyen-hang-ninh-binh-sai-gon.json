@@ -1,0 +1,934 @@
+{
+  "route": "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-sai-gon",
+  "texts": {
+    ". Cùng khám phá qua bài viết dưới đây để hiểu rõ hơn về giá cước, phương tiện vận tải và những giá trị mà Lưu Lê mang đến cho quý khách hàng.": {
+      "en": "Yeah. Let us explore through the following article for a better understanding of the rate, transportation, and the values that Liu Liu gave the customers.",
+      "zh": "对 让我们通过下面一篇文章来探索,更好地了解刘刘给顾客的费率,交通,价值."
+    },
+    "1,000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "1,800,000đ/chuyến": {
+      "en": "US$80,000/DL",
+      "zh": "80,000美元/第纳尔"
+    },
+    "180,000đ/m3": {
+      "en": "17 x/m3",
+      "zh": "17辆/立方米"
+    },
+    "1m3 < 300kg": {
+      "en": "1 m3 (300 kg)",
+      "zh": "1立方米(300公斤)"
+    },
+    "1m3 > 300kg": {
+      "en": "1m3 > 300 kg",
+      "zh": "1立方米 > 300公斤"
+    },
+    "200đ/kg": {
+      "en": "200 mph/kg",
+      "zh": "200 mh/kg (单位:公斤)"
+    },
+    "25 Tháng 2 2022": {
+      "en": "25 February 2022",
+      "zh": "2022年2月25日 (英语)."
+    },
+    "380,000đ/m3": {
+      "en": "3DMD/m3",
+      "zh": "3DMD/立方米"
+    },
+    "50,000đ/m3": {
+      "en": "50,000 d/m3",
+      "zh": "50 000克/立方米"
+    },
+    "500,000đ/chuyến": {
+      "en": "500,000/DL",
+      "zh": "500 000/第纳尔"
+    },
+    "700đ/kg": {
+      "en": "700 mph/kg",
+      "zh": "700 mh/kg (单位:公斤)"
+    },
+    ": thời gian trên không tính thời gian giao/nhận hàng hóa, các yếu tố khách quan, dịch họa, thiên tai…": {
+      "en": ": Airtime Computing delivery time/takeovers, objective elements, plague, natural disasters...",
+      "zh": ": airtime 计算交付时间/接收时间,客观要素,瘟疫,自然灾害."
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách từ Ninh Bình đi Sài Gòn": {
+      "en": "The distance map from Ninh Ping to Saigon",
+      "zh": "从宁平到西贡的距离图"
+    },
+    "Bảng giá cước gửi hàng từ Ninh Bình đi Sài Gòn (TpHCM)": {
+      "en": "The Billing from Ninh Ping to Saigon (TpHCM)",
+      "zh": "从宁平到西贡的比林 (TpHCM)"
+    },
+    "Bảng giá gửi hàng từ Ninh Bình đi Sài Gòn (TpHCM)": {
+      "en": "The shipping panel from Ninh Ping to Saigon (TpHCM)",
+      "zh": "从宁平到西贡(TpHCM)的航运面板"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Ninh Bình Sài Gòn": {
+      "en": "\"Treasure of Ning Saigon\".",
+      "zh": "\"宁西贡藏\"."
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước phí vận chuyển hàng tuyến đường Ninh Bình đi Sài Gòn được tính cụ thể như sau:": {
+      "en": "The NHY Line Transport fee to Saigon was specifically calculated as follows:",
+      "zh": "前往西贡的NHY线运输费具体计算如下:"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ chăm sóc khách hàng 24/7 phục vụ tất cả các ngày trong tuần.": {
+      "en": "Customer Services 24/7 serves all days of the week.",
+      "zh": "客户服务每周七天24小时服务。"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giới thiệu sơ lược về tuyến gửi hàng từ Ninh Bình đi Sài Gòn (TpHCM)": {
+      "en": "A brief introduction to the shipping line from Ninhping to Saigon (TpHCM)",
+      "zh": "宁平至西贡通航线简介(TpHCM)."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình Miền Nam": {
+      "en": "Send South-Western Security",
+      "zh": "发送西南保安"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Ninh Bình đi Tây Ninh": {
+      "en": "Send the package from Ninh Ping to France",
+      "zh": "把包裹从宁平送到法国"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hai phương thức chủ yếu để vận chuyển hàng hóa tuyến Ninh Bình – Sài Gòn là đường bộ và đường sắt.": {
+      "en": "The two main methods for shipping NSW Line goods – Saigon are roads and railroads.",
+      "zh": "新南道一线货运的两种主要方式-西贡是道路和铁路."
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hy vọng với những chia sẻ về": {
+      "en": "Hope With Shares",
+      "zh": "希望与股份"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng hóa đảm bảo an toàn, nếu có sự cố xảy ra chịu trách nhiệm bồi hoàn 100%.": {
+      "en": "The goods ensure safety, if an incident occurs, are 100% in charge.",
+      "zh": "货物确保安全,如果发生事故,则100%负责。"
+    },
+    "Hàng nhẹ < 10m3": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nhẹ > 10m3": {
+      "en": "Light Row > 10m3",
+      "zh": "轻行 > 10m3"
+    },
+    "Hàng nặng < 2 tấn": {
+      "en": "Heavy Rows",
+      "zh": "重行"
+    },
+    "Hàng nặng > 2 tấn": {
+      "en": "Heavy Rows > 2 tons",
+      "zh": "重行 > 2吨"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi lựa chọn Vận tải Lưu Lê bạn sẽ nhận được những giá trị thiết thực sau:": {
+      "en": "When selecting Liu Media you will receive the following practical values:",
+      "zh": "选择 Liu Media 时, 您将收到以下实用值 :"
+    },
+    "Khách hàng có nhiều sự lựa chọn, linh hoạt về phương tiện vận chuyển đáp ứng nhu cầu của khách hàng.": {
+      "en": "The customer has many options, flexible vehicles that meet the customers' needs.",
+      "zh": "顾客有许多选择,灵活的车辆可以满足顾客的需要."
+    },
+    "Khách hàng được bảo vệ về mặt pháp lý khi có hợp đồng dịch vụ, nhận hóa đơn rõ ràng, minh bạch.": {
+      "en": "Customers are legally protected when there is a service contract, receiving clear, transparent bills.",
+      "zh": "在签订服务合同时,客户受到法律保护,收到明确、透明的账单。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu Lê mang đến mức giá tiết kiệm, phải chăng nhất thị trường.": {
+      "en": "Liu Li brings the price of savings, the market most likely.",
+      "zh": "刘力带来储蓄价格,市场最有可能."
+    },
+    "Lưu ý": {
+      "en": "Attention",
+      "zh": "请注意"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng lưới giao thông tại thành phố Hồ Chí Minh phát triển lớn mạnh cả về đường bộ, đường sắt, đường hàng không. Tổng chiều dài đường bộ Sài Gòn hơn 3.670km; tuyến đường sắt Bắc – Nam; sân bay quốc tế Tân Sơn Nhất.": {
+      "en": "The traffic network at the city of Ho Chi Minh thrived on the roads, railroads, airways. The total length of Saigon's road is over 3.670 km; the Northern Railway – Nam; Tan Shantuan International Airport.",
+      "zh": "胡志明市交通网在公路,铁路,航空道上蓬勃发展. 西贡公路全长3.670多公里; 北方铁路-南通; 谭山通国际机场."
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Ninh Bình -": {
+      "en": "Ninh Ping-",
+      "zh": "宁平(?"
+    },
+    "Ninh Bình là nút giao thông quan trọng của 3 miền Bắc – Trung – Nam. Trên địa bà có các tuyến đường quốc lộ lớn đi qua như quốc lộ 1A, quốc lộ 10, quốc lộ 12A, quốc lộ 12B, quốc lộ 59A. Tuyến đường sắt Bắc - Nam có chiều dài hơn 19km với 4 ga tàu thuận tiện cho nhu cầu đi lại, vận chuyển hàng hóa, vật liệu xây dựng.": {
+      "en": "Ninh Ping is the key traffic button of 3 North – Central – South, on her site she has major highways that pass through like Highway 1A, Highway 10, Highway 12A, Highway 12B, Highway 59A. The North - South Railway has a length of more than 19 km with four convenient railway stations for transportation, freight, building materials.",
+      "zh": "宁平是北3路-中-南3路的关键交通按钮,她所在站点上有如1A高速公路,10号高速公路,12A高速公路,12B高速公路,59A高速公路等主要高速公路经过. 南北铁路全长19多公里,有4个方便的火车站,用于运输,货运,建材."
+    },
+    "Ninh Bình là tỉnh thuộc khu vực đồng bằng Bắc Bộ có địa hình chia làm 3 vùng rõ rệt là đồng bằng, đồi núi và ven biển. Chính vì vậy Ninh Bình có tiềm năng phát triển đa dạng về nông nghiệp, công nghiệp, nuôi trồng thủy hải sản. Ninh Bình cũng địa điểm thu hút khách du lịch như rừng quốc gia Cúc Phương, Tam Cốc – Bích Động, quần thể du lịch sinh thái Tràng An…": {
+      "en": "Ninh Ping is a province of the North Ministry Plains which divides into three clear areas of plain, hill and coastal. That's why Ninh Ping has the potential to develop diverse agricultural, industrial, marine growth. Ninh Ping is also a tourist attraction site such as the National Forest of Cush Fang, Tam Cup – Meiming, Ecological tour community...",
+      "zh": "宁平是北部平原的一个行省,分为平原,山地和沿海三个分出地. 因此宁平有发展多样化农业,工业,海洋增长的潜力. 宁平也是克什方国家森林,谭杯-美明,生态旅游等旅游景点. ."
+    },
+    "Nên lựa chọn gửi hàng từ Ninh Bình đi Sài Gòn bằng đường sắt (tàu hoả) hay ô tô": {
+      "en": "So the option of sending the shipment from Ninhping to Saigon is either by railway or by car.",
+      "zh": "因此,从宁平发往西贡的发货选择要么通过铁路,要么通过汽车."
+    },
+    "Nếu": {
+      "en": "If",
+      "zh": "若为"
+    },
+    "Nếu có thắc mắc bạn vui lòng liên hệ tới số Hotline:": {
+      "en": "If you have a question, please relate to Hotline number:",
+      "zh": "如果您有问题,请联系热线号码:"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình tiếp nhận thông tin, báo giá, giao/nhận hàng được thực hiện một cách chuyên nghiệp, cẩn thận.": {
+      "en": "The process of receiving information, reporting prices, delivery/takes is done professionally, carefully.",
+      "zh": "接收信息、报告价格、交货/收货的过程是专业和认真的。"
+    },
+    "Sài Gòn": {
+      "en": "Saigon",
+      "zh": "西贡"
+    },
+    "Sài Gòn là thành phố có nền kinh tế phát triển, sôi động bậc nhất cả nước, là trung tâm kinh tế, tài chính, thương mại, du lịch khu vực phía Nam. Sài Gòn là khu vực tập trung nhiều trung tâm thương mại, khu công nghiệp lớn có nguồn vốn từ các nhà đầu tư nước ngoài.": {
+      "en": "Saigon is the most developed, dynamic city in the country, which is the economic, financial, commercial, southern sector tourism. Saigon is a focus area of many commercial centers, large industrial areas that have capital from foreign investors.",
+      "zh": "西贡是国内最发达,最具活力的城市,是经济,金融,商业,南方等部门的旅游. 西贡是许多商业中心的一个重点领域,大型工业区有外国投资者的资本."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, quãng đường di chuyển từ Ninh Bình đi Sài Gòn dài khoảng 1.389km nếu chạy qua tuyến đường 13, tương đương khoảng 27 giờ đồng hồ. Như vậy thời gian vận chuyển hàng hóa từ Ninh Bình đi Sài Gòn mất khoảng 4 - 5 ngày.": {
+      "en": "According to Google Maps' instructions, the distance from Ninhping to Saigon was approximately 1,389 km (3,389 km) long if running through Route 13, equivalent to about 27 hours. So the time for freight from Ninhping to Saigon took about 4 to 5 days.",
+      "zh": "根据Google Maps的指示,从宁平到西贡的距离如果通过13号公路运行大约为1,389公里(3,389公里)长,相当于约27小时. 因此从宁平到西贡的货运时间大约需要4到5天."
+    },
+    "Thời gian gửi hàng từ Ninh Bình đi Sài Gòn (TpHCM) là bao lâu?": {
+      "en": "How long was the delivery time from Ninh Ping to Saigon?",
+      "zh": "从宁平到西贡的送货时间有多长?."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy từng loại hàng, từng nhu cầu gửi hàng đường tàu hỏa của mỗi khách hàng là khác nhau nên giá cước cũng sẽ khác nhau. Chính vì lý do đó, quý khách vui lòng cung cấp đầy đủ thông tin về hàng hóa để được Lưu Lê báo giá chính xác cụ thể và chi tiết nhất.": {
+      "en": "Depending on the type of cargo, the demand for each customer's train shipment is different, so the rate will be different. For that reason, the guests would be pleased to provide sufficient information about the goods to be told by Liu La the most specific and detailed price.",
+      "zh": "根据货物种类不同,每趟客户的列车货运需求不同,因此费率会有所不同. 为此,嘉宾们将乐于就刘拉要告知的最具体,最详细价格的商品提供足够的信息."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Vì sao nên lựa chọn Vận Tải Lưu Lê để gửi hàng từ Ninh Bình đi Sài Gòn (TpHCM)?": {
+      "en": "Why select Media to send from Ninh Ping to Saigon (TpHCM)?",
+      "zh": "为什么选择媒体从宁平发往西贡(TpHCM)?."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa bằng đường bộ được nhiều khách hàng lựa chọn bởi ưu điểm hàng đầu là tính linh hoạt. Do khách hàng có thể tự do lựa chọn thời gian/địa điểm giao/nhận hàng hóa, không phải qua khâu trung chuyển mà hàng giao tận nhà, kho, xưởng; thủ tục lại đơn giản, dễ dàng không mất nhiều thời gian.": {
+      "en": "Transportation by landway was chosen by many customers by a leading advantage of flexibility. Due to the customer's freedom of choice of time/point of delivery/takes, not through medium stitches but through home delivery, warehouses, workshops; the procedure is simple, easy not to take much time.",
+      "zh": "许多客户选择陆路运输是灵活性的主要优势。 由于客户可以自由选择时间/出货点/取货点,不是通过中缝,而是通过家用出货,仓库,车间;程序简单,容易不花太多时间."
+    },
+    "Vận chuyển hàng hóa bằng đường sắt được nhiều khách hàng lựa chọn bởi những ưu điểm như mức cước rẻ; thời gian vận chuyển nhanh chóng, chính xác; vận chuyển được đa dạng hàng hóa khác nhau, không phân biệt tải trọng, khối lượng. Đặc biệt do chỉ chạy trên tuyến đường ray cố định nên không bị ảnh hưởng bởi các yếu tố thời tiết, giao thông…": {
+      "en": "Transportation by railways is chosen by many customers by such advantages as cheap-talent rates; rapid, accurate transport time; transportation is varied in goods, non-conception of load, mass. Specially due to just running on a fixed track, it is not affected by weather elements, traffic...",
+      "zh": "铁路的运输由许多客户选择,其优点是:价格低廉;运输时间快而准确;运输在货物,负载,质量方面各不相同. 特别是由于在固定轨道上运行,它不受天气因素,交通的影响......"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với mong muốn phục vụ tất cả các tuyến vận tải trên cả nước nên Lưu Lê đã cho ra đời thêm dịch vụ": {
+      "en": "With the desire to serve all transport routes across the country, Liu Liu gave birth to more services",
+      "zh": "有志于为全国所有运输线路服务,刘刘生出更多的服务."
+    },
+    "Với những thuận lợi trên nhu cầu vận chuyển hàng hóa từ Ninh Bình đi Sài Gòn ngày càng tăng cao do sức tiêu thụ lớn.": {
+      "en": "With advantages over the demand for freight from Ninhping to Saigon increasing due to large consumption.",
+      "zh": "由于大量消费,对从宁平到西贡的货运需求的优势越来越大."
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "chúng tôi sẽ tính vào hàng nhẹ. Nếu": {
+      "en": "All right, we'll make it light. If",
+      "zh": "好吧,我们会让它轻。 若为"
+    },
+    "chúng tôi sẽ tính vào hàng nặng.": {
+      "en": "We're gonna charge you hard.",
+      "zh": "我们要对你严刑拷打"
+    },
+    "cước tàu +": {
+      "en": "Train ID +",
+      "zh": "火车 ID +"
+    },
+    "dịch vụ": {
+      "en": "service",
+      "zh": "服务"
+    },
+    "gửi hàng từ Ninh Bình đi Sài Gòn": {
+      "en": "Sent from Ninh Ping to Saigon",
+      "zh": "从宁平送到西贡"
+    },
+    "hoặc truy cập vào website": {
+      "en": "or access the website",
+      "zh": "或访问网站"
+    },
+    "sẽ giúp bạn có sự lựa chọn thích hợp nhất. Nếu còn bất kỳ thắc mắc nào hoặc có nhu cầu sử dụng dịch vụ của Lưu Lê hãy liên hệ ngay với chúng tôi qua hotline": {
+      "en": "will help you make the best choice. If there's any further questions or need to use Liu's service please contact us immediately via hotline",
+      "zh": "帮助你做出最好的选择 如有其他问题或需要,请立即通过热线联系我们"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao": {
+      "en": "delivery car",
+      "zh": "运载工具"
+    },
+    "xe lấy Ninh Bình +": {
+      "en": "The car takes Ning Ping +",
+      "zh": "车取宁平+."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đối với hàng hóa là xe máy hoặc chuyển nhà trọn gói hãy liên hệ để được chúng tôi tư vấn báo giá cụ thể.": {
+      "en": "For goods are motorcycles or package move to contact to be advised the price specific.",
+      "zh": "货物是摩托车或包裹移动以接触,以了解具体价格。"
+    },
+    "Đối với hàng nhẹ (tính theo m3):": {
+      "en": "For light row (calculated by m3):",
+      "zh": "对于轻行(以m3计算):"
+    },
+    "Đối với hàng nặng (tính theo kg):": {
+      "en": "For heavy items (calculated by kg):",
+      "zh": "重型物品(按公斤计算):"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được Lưu Lê giải đáp 24/7!": {
+      "en": "To be answered by Liu 24/7!",
+      "zh": "由刘24/7回答!"
+    },
+    "để được hỗ trợ 24/7 nhé!": {
+      "en": "We're gonna get you back up 24/7.",
+      "zh": "我们要让你全天候回来"
+    },
+    "→ Lưu ý": {
+      "en": "Note",
+      "zh": "说明"
+    },
+    "► Vận chuyển hàng hóa từ Ninh Bình đi Sài Gòn bằng đường bộ (ô tô)": {
+      "en": "Transported goods from Ninh Ping to Saigon by landway",
+      "zh": "从宁平到西贡的陆运货物"
+    },
+    "► Vận chuyển hàng hóa từ Ninh Bình đi Sài Gòn bằng đường sắt (tàu hỏa)": {
+      "en": "Transported goods from Ning Ping to Saigon by railway (fire)",
+      "zh": "通过铁路从宁平到西贡的运输货物(火)"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

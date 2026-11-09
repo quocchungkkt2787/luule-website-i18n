@@ -1,0 +1,786 @@
+{
+  "route": "/blogs/gui-hang-tphcm-kcn-hai-phong/chuyen-hang-sai-gon-kcn-do-son",
+  "texts": {
+    ". Hy vọng với những thông tin này, sẽ giúp quá trình gửi hàng đến KCN Đồ Sơn suôn sẻ nhất. Nếu còn bất kỳ thắc mắc nào, liên hệ ngay hotline": {
+      "en": "Yeah. Hopefully with this information, it will help the delivery process to KNC Paints as smooth as possible. If you have any questions, contact hotline immediately.",
+      "zh": "对 希望通过这些信息,它将有助于向KNC Paints尽可能平稳的交付过程. 如有问题,请立即联系热线。"
+    },
+    "24 Tháng 8 2022": {
+      "en": "24 August 2022",
+      "zh": "2022年8月24日 (中文(简体) )."
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Sài Gòn KCN Đồ Sơn": {
+      "en": "\"KNN Saigon Rows Mountain Trees\"",
+      "zh": "\"克南·西贡行道·山地树\""
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các kinh nghiệm gửi hàng từ Sài Gòn - KCN Đồ Sơn": {
+      "en": "Experiences from Saigon - KNC Mountain",
+      "zh": "西贡的经验-KNC山"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ gửi hàng Sài Gòn - KCN Đồ Sơn uy tín, giá rẻ số 1": {
+      "en": "Saigon Posting Service - KNN The Celebrity Mountain, No. 1",
+      "zh": "西贡邮局-克南名山,一号"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá chuyển hàng đến KCN Đồ Sơn hợp lý, phải chăng nhất thị trường.": {
+      "en": "The price of shipping to KCN Paints is reasonable, is the fairest market.",
+      "zh": "向KCN油画公司发货的价格是合理的,是最公平的市场。"
+    },
+    "Giới thiệu về KCN Đồ Sơn": {
+      "en": "About KCN Mountain Trees",
+      "zh": "关于KCN山地树"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng TP.HCM KCN Hải Phòng": {
+      "en": "Send TP.HCM KNC Defense",
+      "zh": "发送 TP.HCM KNC 防御"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hãy lưu lại một số kinh nghiệm dưới đây, để quá trình gửi hàng Sài Gòn - KCN Đồ Sơn diễn ra thật suôn sẻ.": {
+      "en": "Please save some of the following experiences, so that the sequence of Saigon - KNNA Shan goes smoothly.",
+      "zh": "请省下以下一些经历,使西贡-克能纳山的顺序顺利进行."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hải Phòng có mạng lưới hệ thống giao thông đa dạng, là địa phương duy nhất miền Bắc hội tụ đủ 5 loại hình giao thông: Đường bộ, đường sắt, đường biển, đường thủy nội địa và đường hàng không, đặc biệt là với cảng biển “Cảng Hải Phòng” đây là cảng biển lớn nhất phía bắc, là cửa chính ra biển của các tỉnh phía Bắc và cả nước, là đầu mối giao thông quan trọng của Vùng kinh tế trọng điểm Bắc Bộ, trên hai hành lang - một vành đai hợp tác kinh tế Việt Nam - Trung Quốc.": {
+      "en": "The Sea Hall has a diverse network of transportation systems, the only North Coast that gathers all five types of traffic: Routes, railroads, seaways, domestic waterways and airways, especially with the seaport “the largest North Sea Hall, which is the main entry to the sea of the North and all-water provinces, is the key link to the region of the North Institution's major economic location, on two corridors - one of the South Vietnamese economic partnerships.",
+      "zh": "海会馆拥有多样化的交通系统网络,是唯一聚集了所有五种类型的交通的北岸:航道,铁路,出海道,国内水道和航道,特别是海港,\"最大的北海会馆是北海和全水省的主要入海口,是北会馆主要经济位置所在区域的关键通道,分出两个通道——南越经济伙伴关系之一."
+    },
+    "Hội tụ tất cả các điều kiện trên cùng với những chính sách kinh tế hợp lý của Thành Phố, Hải Phòng đã trở thành trung tâm công nghiệp và thương mại lớn của cả nước, là đầu tàu của vùng kinh tế trọng điểm phía Bắc.": {
+      "en": "Gathering all the above conditions along with the rational economic policies of the city, the Chamber has become the country's major industrial and commercial hub, the head of the major economic region of the northern point.",
+      "zh": "集上述各项条件与市内合理的经济政策为一体,会同成为了全国主要的工业商业枢纽,是北点经济大区的领导."
+    },
+    "KCN Đồ Sơn nằm ở phía Đông Nam Hải Phòng, là thành phố cảng lớn nhất ở miền Bắc Việt Nam, một trung tâm giao thông quan trọng của khu kinh tế lớn phía Bắc, thu hút nhà đầu tư cả trong và ngoài nước.": {
+      "en": "KNN Mountain is located in the southeast of Hai's Hall, which is the largest port city in North Vietnam, an important transportation centre of the large northern economy, which attracts investors both within and abroad.",
+      "zh": "KNN山地处海会馆东南部,是北越最大的港口城市,是北方大经济的重要交通中心,吸引了国内外投资者."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lĩnh vực ưu tiên thu hút đầu tư của khu công nghiệp Đồ Sơn Hải Phòng là thiết bị điện tử; sản phẩm kỹ thuật sinh vật biển; du lịch; công nghệ, mỹ thuật, mỹ phẩm và dụng cụ thể thao; tân dược, đông dược và chế độ máy móc y tế; thực phẩm, thực phẩm sạch, hải sản, tinh chế sản phẩm nông nghiệp; máy móc phục vụ nông nghiệp, xây dựng, công nghiệp; in bao bì, trang trí nội, ngoại thất…khu công nghiệp Đồ sơn đặc biệt ưu tiên khuyến khích những dự án thuộc lĩnh vực công nghệ cao, công nghiệp xanh, sạch.": {
+      "en": "The site's priority attracts the investment of the Customs Park industry is the electronic equipment; the industrial product of marine biology; the technology, the arts, the aesthetics, and the athletic equipment; the new medicine, the east of the medicine and the health mechanisms; the food, the clean food, the seafood, the agricultural products; the machinery, the construction, the industry; the envelopes, the interiors, the furniture... the specially the Painting industries that encourage the high-tech, green industry projects.",
+      "zh": "站点吸引海关园区产业投资的重点有:电子设备;海洋生物的工业产品;技术,艺术,美学,运动设备;新药,药材以东和卫生机制;食品,清洁食品,海鲜,农产品;机械,建筑,工业;信封,内饰,家具等鼓励高科技,绿色产业项目的绘画产业."
+    },
+    "Lưu Lê - Đơn vị uy tín để gửi hàng Sài Gòn - KCN Đồ Sơn": {
+      "en": "Liu - Famed Division to send Saigon - KNC Mountain",
+      "zh": "刘 - 法梅德分会派西贡 - KNC山"
+    },
+    "Lưu Lê hoạt động 24/7, tư vấn nhiệt tình mỗi khi cách hàng cần hỗ trợ.": {
+      "en": "Liu Lev operates 24/7, enthusiastic counsel whenever the goods need support.",
+      "zh": "刘列夫全天候运作 随时需要支援"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Một trong những lưu ý khi gửi hàng Sài Gòn - KCN Đồ Sơn đó chính là lựa chọn đơn vị vận tải uy tín. Lưu Lê chính là cái tên được rất nhiều khách hàng trên quãng đường Sài Gòn - KCN Đồ Sơn lựa chọn. Với ưu thế là bề dày kinh nghiệm, cùng chất lượng dịch vụ tốt. Vận tải Lưu Lê luôn mang đến trải nghiệm chuyển hàng tuyệt vời nhất.": {
+      "en": "One of the notes when sending Saigon - KCN Mountain Tables was the prestigious transportation unit selection. Liu Li is the name that many customers have been given on the Saigon Road – The Mountain of Choice. With the advantage is the thickness of experience, the same quality of good service. Liu Li transport always brought the best delivery experience.",
+      "zh": "送出西贡-KCN山表时的注释之一是著名的运输单位选择。 刘力是西贡道-\"选择之山\"上许多顾客取出的名字. 其优点是经验厚厚,服务质量同好. 刘力运输总是带来最好的送货经验."
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Ngoài ra, bạn cũng cần phải xác nhận lại thông tin của bên nhận tại KCN KCN Đồ Sơn. Bao gồm có địa chỉ, số điện thoại, thời gian muốn nhận hàng hóa. Đừng ngó lơ những bước tưởng chừng như đơn giản này, vì nếu sai một thông tin sẽ ảnh hưởng rất nhiều đến cả quá trình giao hàng. Không những thế, còn mất thêm tiền bạc, thời gian để điều hướng chính xác lại đơn hàng đến KCN Đồ Sơn.": {
+      "en": "Additionally, you also need to verify the receiver's information at KNC Paints. including address, phone number, time to receive the cargo. Do not ignore these seemingly simple steps, for if you misdirect a information will greatly affect the delivery process. Not only that, it took more money, time to direct the exact direction of the order to KCN Mountain.",
+      "zh": "另外,您还需要在 KNC Paints 上验证接收器的信息 。 包括地址、电话号码、接收货物的时间。 不要忽略这些看似简单的步骤,因为如果错误地引导一个信息会极大地影响发送过程. 不仅如此,还要花更多的钱,时间把命令的确切方向指向克中山."
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ có vị trí đắc địa, nên hoạt động giao thương của KCN Đồ Sơn diễn ra rất sôi nổi. Không chỉ hoạt động gửi hàng từ KCN Đồ Sơn đến các khu vực khác, trong nước và nước ngoài. Mà hằng ngày, lượng hàng nhận ở khu công nghiệp Đồ Sơn cũng rất nhiều. Và một trong những nơi thường xuyên giao nhận hàng với KCN này chính là Sài Gòn. Với các da các loại mặt hàng được chuyển như là thiết bị điện tử, linh kiện, thực phẩm,...": {
+      "en": "Because of its position, the trading operation of KCN Mountain took place very intense. Not only is the delivery operation from the KNC Paints to other areas, in countries and overseas. And every day, there's a lot of goods in the Mountain Industrial Zone. And one of the places that regularly delivers with this KNC is Saigon. With the skins of the items being transferred as electronic equipment, supplies, food,...",
+      "zh": "由于其地位,克中会山的贸易业务非常激烈. 不仅从KNC绘画公司向其他国家,国家和海外的送货业务. 并每日有山地工业区多货. 而经常与KNC一起交付的场所之一是西贡. 随着这些物品的外皮作为电子设备,用品,食品被转移,......"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nên dùng thêm các vật liệu đóng gói như là bóng khí, bọc xốp, nẹp góc,... hàng dễ vỡ, hạn sử dụng ngắn, chất lỏng,... để đảm bảo rằng hàng hóa không bị xô lệch khi di chuyển trên quãng đường dài. Bạn cũng nên ghi chú ở ngoài kiện hàng như “hàng dễ vỡ, xin nhẹ tay”, để những người khuân vác, bốc xếp chú ý hơn.": {
+      "en": "More packed materials, such as gas, Styrofoam covers, corner,... fragile goods, short-term use, liquid,... to ensure that the goods are not deflected while traveling on long distances. You may also want to take notes outside the package as “the easily broken goods, please be gentle, so that the men can carry the load more carefully.",
+      "zh": "更多的包装材料,如煤气, 石胶盖,角,... 脆弱的货物,短期使用,液体,... 确保货物不会在长途旅行时被偏移。 您还不妨在包裹外取出“容易损坏的货物,请保持温和,以便男子能够更仔细地搬运货物。"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thời gian chuyển hàng từ Sài Gòn ra KCN Đồ Sơn nhanh chóng, chính xác.": {
+      "en": "Time of shipping from Saigon to KNC Mountain Fast, accurate.",
+      "zh": "从西贡到KNC山快运时间准确."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là những chia sẻ của chúng tôi về lưu ý": {
+      "en": "Above are our share of note",
+      "zh": "上面是我们的笔记"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Từ Sài Gòn ra KCN Đồ Sơn có thể di chuyển bằng đường bộ, đường hàng không. Nhưng với tính chất hàng gửi đến KCN Đồ Sơn hầu như là khối lượng nặng, có đặc thù riêng. Nên đường sắt vẫn là phương án hợp lý nhất để vận chuyển hàng hóa.": {
+      "en": "From Saigon to the KNC Mountain Maps can travel by land, airways. But with the quality of the goods sent to KNC Mountain Maps that are mostly heavy mass, they have their own character. So the railroad is still the most logical way to transport goods.",
+      "zh": "从西贡到KNC山地地圖可以由陆路,航空道出行. 但随着送入KNC山地地圖的商品质量大多为重质,它们具有了自己的特点. 因此铁路仍然是运输货物最合乎逻辑的方式."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hay": {
+      "en": "Good freight.",
+      "zh": "好货"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê cam kết thực hiện đúng và đủ mọi điều khoản trong hợp đồng gửi hàng Sài Gòn - KCN Đồ Sơn.": {
+      "en": "Liu Li's transport is committed to doing the right thing and all the terms in the Saigon delivery contract - KNC Mountain.",
+      "zh": "刘力的接送承诺做好西贡交货合同中的正确事和所有条款——KNC山."
+    },
+    "Vận tải Lưu Lê cam kết đền bù 100% giá trị hàng hóa, nếu quá trình chuyển xảy ra sai sót do lỗi của công ty.": {
+      "en": "Liu transport pledges 100% of the value of goods, if the transfer occurs due to the company's error.",
+      "zh": "刘运质押货物价值100%,如因公司出错发生转让."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "Xác nhận đơn hàng là việc đầu tiên vô cùng cần thiết trước khi chuyển hàng đến KCN Đồ Sơn. Bạn phải đảm bảo đơn hàng soạn cho khách hàng đúng, bao gồm chủng loại, size, màu sắc (nếu có). Công đoạn này sẽ khá vất vả với những đơn vị có có nhiều loại hàng hóa, nhưng lại đơn giản nếu doanh nghiệp bạn chỉ cung cấp một sản phẩm duy nhất.": {
+      "en": "Confirming the order is the first essential thing before moving the package to KNC Mountain. You must secure the package for the correct customer, including the type, size, color (if available). This piece of work would be quite hard with units of a variety of goods, but it's simple if the business you only offer is one product.",
+      "zh": "确认顺序是将包裹移到KNC Mountain之前的第一要务. 您必须为正确的客户端保证包的安全,包括类型,大小,颜色(如果有的话). 这件工作对于各种商品的单位来说是相当困难的,但是如果只提供一种产品,那就很简单了。"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của Lưu Lê để được tư vấn và hỗ trợ nhé.": {
+      "en": "Liu's for counseling and assistance.",
+      "zh": "刘氏为谘议相助."
+    },
+    "gửi hàng Sài Gòn - KCN Đồ Sơn": {
+      "en": "send Saigon",
+      "zh": "发送西贡"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đảm bảo vận chuyển an toàn, hàng đến KCN Đồ Sơn đúng chất lượng và đủ số lượng.": {
+      "en": "Secure safe transport, line to the KCN Mountain at the right quality and quantity.",
+      "zh": "保障安全运输,以适当质量和数量接通克中山."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đang là một trong những nhu cầu lớn. Và để tiết kiệm thời gian và công sức thì người dân thường chọn sử dụng dịch vụ vận tải trên thị trường. Nhưng để chọn được đơn vị an toàn, uy tín là điều không dễ, vậy phải làm sao?": {
+      "en": "is one of the great needs. And to save time and energy, the common people choose to use transportation services on the market. But to choose the safety unit, prestige is not easy, so what?",
+      "zh": "是我们最大的需求之一。 而为节省时间和精力,普通人选择在市场上使用交通服务. 但是选择安全单位,声望并不容易,那又怎样?"
+    },
+    "Ưu điểm đầu tiên khi chuyển hàng ra KCN Đồ Sơn bằng đường sắt chính là lịch trình rõ ràng. Hơn nữa hệ thống an ninh, cách làm việc của hệ thống đường sắt rất chuyên nghiệp. Bạn sẽ không lo bị mất, tráo đổi hay hỏng hóc hàng hóa. Đặc biệt, chi phí gửi hàng Sài Gòn - KCN Đồ Sơn bằng đường sắt hợp lý hơn các hình thức khác.": {
+      "en": "The first advantage of moving the shipment to the KNC The Mountain by rail was the clear schedule. Furthermore, the security system, the way the rail system works, is very professional. You wouldn't worry about losing, swapping, or spoiling goods. In particular, the cost of sending Saigon's line - KNC Paint Mountain is more logical than any other form.",
+      "zh": "通过铁路将货物运至KNC The Mountain的第一个好处是时间表明确。 此外,安全系统,即铁路系统的运作方式,非常专业。 你不会担心输掉 交换 或破坏商品 特别是送出西贡行-KNC画山的成本比其他任何形式都更合乎逻辑."
+    },
+    "► Cần xác nhận đơn hàng trước khi gửi từ Sài Gòn đến KCN Đồ Sơn": {
+      "en": "The order needs confirmation before sending from Saigon to KNC Mountain",
+      "zh": "在从西贡送去KNC山之前,订单需要确认"
+    },
+    "► Lựa chọn hình thức hợp lý để gửi hàng từ Sài Gòn ra KCN Đồ Sơn": {
+      "en": "The choice of rational form to send the shipment from Saigon to KNC Mountain",
+      "zh": "从西贡运送到KNC山的 合理形式的选择"
+    },
+    "► Đóng gói hàng quá cẩn thận trước khi gửi đến KCN Đồ Sơn": {
+      "en": "The package was too carefully packed before sending it to the Paintings.",
+      "zh": "包裹的包装太仔细了,才被送到了\"画报\"."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}
