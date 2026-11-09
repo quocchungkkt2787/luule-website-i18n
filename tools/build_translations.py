@@ -28,6 +28,10 @@ STORE = ROOT / 'translation-cache.json'
 PUBLIC = ROOT / 'public' / 'i18n'
 USER_AGENT = 'LuuLePublicI18NBuilder/3.0 (+https://vantailuule.vn)'
 SCOPE = ('/blogs/', '/pages/', '/products/', '/collections/')
+# Important public tools can be absent from the sitemap or from normal HTML links.
+# This is a discovery list only: no private/account/quote/tracking pages are fetched.
+REQUIRED_PUBLIC_ROUTES = ('/pages/tra-cuu-gia-cuoc-van-chuyen',)
+
 REJECT = ('/pages/customer', '/pages/customer/', '/account', '/admin', '/cart', '/checkout', '/apps/', '/search', '/api/', '/cdn/', '/pages/ll-customer')
 SKIP_TAGS = {'style', 'script', 'noscript', 'template', 'svg', 'canvas', 'iframe', 'pre', 'code', 'textarea', 'option'}
 SKIP_SELECTOR = '[data-ll-private], [data-ll-no-translate], #ll-ai-chat, #ll-language-v3, #ll-language-v3-notice, .subiz-widget, #fb-root, #at4-share, #at4-soc, #at4-share2, #at4-soc2, [id^="subiz"], [translate="no"]'
@@ -78,6 +82,22 @@ def canonical(url):
 def route_id(path):
     path=unquote(path).strip('/') or 'home'
     return re.sub(r'[^a-zA-Z0-9_-]','_',path.replace('/','__'))
+
+
+def priority(url):
+    """Put real site tools, pricing, and service pages before long blog lists."""
+    path = urlsplit(url).path
+    if path == '/':
+        return (0, path)
+    if path in REQUIRED_PUBLIC_ROUTES:
+        return (1, path)
+    if path.startswith('/pages/'):
+        return (2, path)
+    if path.startswith('/collections/'):
+        return (3, path)
+    if path.startswith('/products/'):
+        return (4, path)
+    return (5, path)
 
 
 def page_key(url):
@@ -141,16 +161,35 @@ def collect_text_from_html(content):
             if translatable(el.get('value','')):strings.add(norm(el['value']))
     links=set()
     for el in root.find_all('a',href=True):
-        link=canonical(el['href'])
+        href=str(el['href']).strip()
+        if href.startswith(('#','javascript:','mailto:','tel:')):continue
+        link=canonical(href)
         if valid_url(link):links.add(link)
     return strings,links
 
 
 def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
     seeds=get_sitemap_urls(session)
-    print('Sitemap pages:',len(seeds))
-    queue=deque([BASE+'/']+sorted(seeds))
-    visited=set();result={}
+    print('Public URLs in sitemap:',len(seeds), flush=True)
+    required_urls={canonical(BASE+path) for path in REQUIRED_PUBLIC_ROUTES}
+    for url in required_urls:
+        if not valid_url(url):
+            raise ValueError('Unsafe required URL: '+url)
+
+    # Keep the existing workflow's page budget, but always reserve sufficient
+    # capacity for every sitemap URL plus the homepage and the required tool(s).
+    # An extra 30 slots make room for public links absent from the sitemap.
+    budget=max(max_pages,len(seeds)+len(required_urls)+31)
+    # A hard safety bound avoids unintentional extremely long GitHub runs.
+    if budget>1500:
+        print('WARNING: page discovery exceeds safety budget 1500; '
+              'the audit will report unvisited URLs.',flush=True)
+        budget=1500
+
+    initial={BASE+'/'} | seeds | required_urls
+    queue=deque(sorted(initial,key=priority))
+    queued=set(queue)
+    visited=set(); result={}; errors=[]
     browser=None;playwright=None;context=None
     if use_browser:
         from playwright.sync_api import sync_playwright
@@ -158,35 +197,64 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
         browser=playwright.chromium.launch(headless=True,args=['--no-sandbox'])
         context=browser.new_context(locale='vi-VN',viewport={'width':1380,'height':900})
     try:
-        while queue and len(visited)<max_pages:
+        while queue and len(visited)<budget:
             url=canonical(queue.popleft())
-            if url in visited or not valid_url(url):continue
+            if url in visited or not valid_url(url):
+                continue
             visited.add(url)
             try:
                 html,final=fetch(session,url)
-                if not valid_url(final):continue
+                # Do not publish home-page text under an unrelated page URL
+                # after a redirect (e.g. a page deleted from Haravan).
+                if not valid_url(final) or page_key(final)!=page_key(url):
+                    raise ValueError('redirected to '+final)
                 texts,links=collect_text_from_html(html)
                 if use_browser and context:
-                    # Use browser-rendered DOM to cover JS widgets and dynamic homepage content.
                     page=context.new_page()
                     try:
                         page.goto(url,wait_until='domcontentloaded',timeout=35000)
                         page.wait_for_timeout(1700)
-                        browser_html=page.content()
-                        br_texts,br_links=collect_text_from_html(browser_html)
-                        texts |= br_texts;links |= br_links
-                    except Exception as ex: print('Browser render skipped:',str(ex)[:80])
-                    finally: page.close()
+                        br_texts,br_links=collect_text_from_html(page.content())
+                        texts |= br_texts
+                        links |= br_links
+                    except Exception as ex:
+                        print('Browser render skipped:',url,str(ex)[:110],flush=True)
+                    finally:
+                        page.close()
+                if not texts:
+                    raise ValueError('public page had no readable text')
                 result[page_key(url)]=texts
-                print(f'{len(result):>3} {page_key(url)}: {len(texts)} public segments')
-                for link in sorted(links):
-                    if link not in visited and link not in queue: queue.append(link)
+                print(f'{len(result):>3} {page_key(url)}: {len(texts)} public segments',flush=True)
+                for link in sorted(links,key=priority):
+                    if link not in visited and link not in queued and valid_url(link):
+                        queue.append(link)
+                        queued.add(link)
             except Exception as ex:
-                print('Page skipped:',url,str(ex)[:100])
+                print('Page skipped:',url,str(ex)[:140],flush=True)
+                errors.append({'url':url,'error':str(ex)[:200]})
             time.sleep(rate)
     finally:
         if browser:browser.close()
         if playwright:playwright.stop()
+
+    missing_required=sorted(path for path in REQUIRED_PUBLIC_ROUTES if path not in result)
+    unvisited=sorted(queued-visited,key=priority)
+    crawl_pages.last_stats={
+        'sitemap_urls':len(seeds),
+        'discovered_public_urls':len(queued),
+        'successful_public_pages':len(result),
+        'skipped_or_failed':errors,
+        'unvisited_count':len(unvisited),
+        'unvisited_examples':[urlsplit(u).path for u in unvisited[:40]],
+        'required_pages_missing':missing_required,
+        'required_pages_found':[r for r in REQUIRED_PUBLIC_ROUTES if r in result],
+        'page_budget':budget,
+    }
+    print('CRAWL COVERAGE:',json.dumps({k:v for k,v in crawl_pages.last_stats.items()
+                                       if k!='skipped_or_failed'},ensure_ascii=False),flush=True)
+    if missing_required:
+        # Missing core pages must NEVER be reported as "448/448 success".
+        raise RuntimeError('Required public page(s) not crawled: '+', '.join(missing_required))
     return result
 
 
@@ -299,12 +367,29 @@ def main():
         assert not translatable('Airport Blvd, Singapore')
         assert not translatable('Parkway Parade: 80 Marine Parade,')
         assert translatable('Vận chuyển hàng hóa Bắc Nam')
-        print('SELF-TEST PASS: public text and input labels detected, scripts excluded. No output published.')
+        key=route_id('/pages/tra-cuu-gia-cuoc-van-chuyen')
+        assert key=='pages__tra-cuu-gia-cuoc-van-chuyen', key
+        assert priority(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen') < priority(BASE+'/blogs/x/y')
+        assert valid_url(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen')
+        assert not valid_url(BASE+'/pages/customer')
+        print('SELF-TEST PASS: public parsing, required route, output filename and crawl priority. No output published.')
         return
     session=requests.Session();session.headers.update({'User-Agent':USER_AGENT})
     pages=crawl_pages(session,args.max_pages,use_browser=args.browser)
     if not pages:raise RuntimeError('No public pages found. Check sitemap and network first; not publishing empty data.')
     released,pending=build(pages,args.max_new)
+    stats=getattr(crawl_pages,'last_stats',{})
+    # Separate coverage of the real website from the subset that was crawled.
+    # Do not count pages omitted from the crawl as published/completed.
+    save_json(PUBLIC/'coverage.json',stats)
+    manifest=cached_json(PUBLIC/'manifest.json',{})
+    manifest['discovered_public_urls']=stats.get('discovered_public_urls',len(pages))
+    manifest['uncrawled_public_urls']=stats.get('unvisited_count',0)
+    manifest['crawl_failures']=len(stats.get('skipped_or_failed',[]))
+    manifest['required_pages_found']=stats.get('required_pages_found',[])
+    manifest['site_coverage_complete']=(not stats.get('unvisited_count')
+         and not stats.get('skipped_or_failed') and pending==0)
+    save_json(PUBLIC/'manifest.json',manifest)
     print(f'Done. Full-language pages: {released}; incomplete pages held: {pending}.')
 
 if __name__=='__main__':main()
