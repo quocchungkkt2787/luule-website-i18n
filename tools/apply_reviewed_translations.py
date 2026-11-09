@@ -1,0 +1,96 @@
+#!/usr/bin/env python3
+"""Merge editorially reviewed public-site translations into stable GitHub/Pages packs.
+
+Run AFTER build_translations.py in GitHub Actions and BEFORE git add/commit.
+Only handles public display text. No access to customer/quote/tracking data.
+Do not create a fake complete homepage pack if builder did not publish one.
+"""
+from __future__ import annotations
+
+import json
+import os
+import tempfile
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+PUBLIC = ROOT / 'public' / 'i18n'
+HOME = PUBLIC / 'home.json'
+STORE = ROOT / 'translation-cache.json'
+REVIEWED = ROOT / 'tools' / 'll-i18n-reviewed-translations.json'
+
+
+def read(path: Path):
+    return json.loads(path.read_text(encoding='utf-8'))
+
+
+def atomic_write(path: Path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    # Replace atomically so a failed write cannot leave partial JSON.
+    fd, temp = tempfile.mkstemp(dir=str(path.parent), prefix='.ll-i18n-', suffix='.tmp')
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)
+            f.write('\n')
+        os.replace(temp, path)
+    finally:
+        if os.path.exists(temp):
+            os.unlink(temp)
+
+
+def main():
+    edits = read(REVIEWED)
+    if not isinstance(edits, dict) or len(edits) < 353:
+        raise ValueError('Reviewed translations file is missing or incomplete.')
+    for source, value in edits.items():
+        if not isinstance(source, str) or not source.strip() or not isinstance(value, dict):
+            raise ValueError('Invalid translation mapping key or value.')
+        if not all(isinstance(value.get(lang), str) and value[lang].strip() for lang in ('en','zh')):
+            raise ValueError(f'Empty/invalid translation: {source[:80]}')
+    if not HOME.is_file():
+        raise FileNotFoundError('public/i18n/home.json is not published. Fix the main build before applying overrides.')
+    pack = read(HOME)
+    if pack.get('version') != 3 or pack.get('route') != '/' or not isinstance(pack.get('texts'), dict):
+        raise ValueError('Unexpected homepage translation pack format; refusing unsafe patch.')
+    existing = len(pack['texts'])
+
+    # Store approved translations in the cache so the next Argos build also
+    # prefers these over its old or unreliable machine-generated entries.
+    cache = read(STORE) if STORE.is_file() else {}
+    if not isinstance(cache, dict):
+        raise ValueError('translation-cache.json must be a JSON object')
+    cache.update(edits)
+    atomic_write(STORE, cache)
+
+    # Explicitly include the complete list collected from the browser DOM,
+    # even when the crawler did not see it because it was lazy-loaded.
+    pack['texts'].update(edits)
+    atomic_write(HOME, pack)
+    home_added = len(pack['texts']) - existing
+
+    # Where the same public wording appears in other already-published pages,
+    # correct it there too; do NOT inject homepage-only copy into other routes.
+    patched_files = 0
+    corrected_others = 0
+    for path in PUBLIC.glob('*.json'):
+        if path.name in ('home.json', 'audit.json', 'manifest.json'):
+            continue
+        other = read(path)
+        if not isinstance(other, dict) or other.get('version') != 3 or not isinstance(other.get('texts'), dict):
+            continue
+        corrections = [key for key in other['texts'] if key in edits]
+        if corrections:
+            for key in corrections:
+                other['texts'][key] = edits[key]
+            atomic_write(path, other)
+            patched_files += 1
+            corrected_others += len(corrections)
+
+    # Preserve original pages_seen/pages_published/unique_public_texts:
+    # those describe what the crawler saw, not what this review added.
+    print(f'REVIEWED PATCH OK: {len(edits)} reviewed strings; '
+          f'home pack now {len(pack["texts"])} keys (+{home_added}); '
+          f'corrected {corrected_others} keys in {patched_files} other published packs.')
+
+
+if __name__ == '__main__':
+    main()
