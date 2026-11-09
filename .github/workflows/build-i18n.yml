@@ -83,6 +83,10 @@ jobs:
           LL_MAX_NEW: '8000'
         run: python tools/build_translations.py --browser
 
+      - name: Apply reviewed homepage and terminology translations
+        if: steps.gate.outputs.build == 'true'
+        run: python tools/apply_reviewed_translations.py
+
       - name: Update progress and stop repeated no-progress batches
         if: steps.gate.outputs.build == 'true'
         env:
