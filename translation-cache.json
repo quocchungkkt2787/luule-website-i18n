@@ -211,6 +211,10 @@
     "en": "* 4 – 5 days",
     "zh": "* 4 -- -- 5天"
   },
+  "* Bắt buộc": {
+    "en": "* Required",
+    "zh": "* 必填"
+  },
   "*** Xe lấy tại TP.HCM": {
     "en": "THE car got it at TP.HCM",
     "zh": "车在TP.HCM买的"
@@ -3927,6 +3931,10 @@
     "en": "10% to 20%.",
     "zh": "10%对20%。"
   },
+  "10+ NĂM KINH NGHIỆM THỰC TẾ": {
+    "en": "10+ YEARS OF PRACTICAL EXPERIENCE",
+    "zh": "10年以上实际运输经验"
+  },
   "10,1 tấn - 15 tấn": {
     "en": "10,1 tons - 15 tons",
     "zh": "10,1吨 - 15吨"
@@ -3946,6 +3954,10 @@
   "100 Đài tệ = 83.000 tiền Việt": {
     "en": "100 Radio Bad = 83,000 in Vietnam",
     "zh": "100个坏电台=83 000个在越南"
+  },
+  "100+ NHÂN SỰ VẬN HÀNH": {
+    "en": "100+ OPERATIONS PERSONNEL",
+    "zh": "100多名运营人员"
   },
   "100,000đ/m3": {
     "en": "100,000 d/m3",
@@ -5219,6 +5231,10 @@
     "en": "50 – 70% is for factory land, treasure.",
     "zh": "50–70%是工厂用地,财宝."
   },
+  "50+ XE TẢI GIAO NHẬN & TRUNG CHUYỂN": {
+    "en": "50+ PICKUP, DELIVERY & TRANSFER TRUCKS",
+    "zh": "50多辆取送货及中转卡车"
+  },
   "50,000đ/m3": {
     "en": "50,000 d/m3",
     "zh": "50 000克/立方米"
@@ -5303,6 +5319,10 @@
     "en": "184 km",
     "zh": "184公里"
   },
+  "6 BƯỚC GIAO NHẬN RÕ RÀNG": {
+    "en": "6 Clear Pickup & Delivery Steps",
+    "zh": "清晰的六步收发货流程"
+  },
   "6 YẾU TỐ TẠO NÊN MỘT PHƯƠNG ÁN PHÙ HỢP": {
     "en": "A PORTUGE",
     "zh": "一个葡萄牙人"
@@ -5376,8 +5396,8 @@
     "zh": "越南65岁是什么?"
   },
   "65 là tỉnh nào? Biển số xe 65 là ở đâu?": {
-    "en": "What is 65? Where's the plate 65?",
-    "zh": "何等为六十五. 盘子在哪里 65?"
+    "en": "Which province uses licence plate code 65?",
+    "zh": "65号车牌属于哪个省？"
   },
   "65,000đ/m3": {
     "en": "65,000 x/m3",
@@ -5476,8 +5496,8 @@
     "zh": "69个省"
   },
   "69 là tỉnh nào? - Biển số xe Cà Mau và thông tin chi tiết": {
-    "en": "What is 69? - The number of the Mau Car and the details.",
-    "zh": "69号是什么?"
+    "en": "Which province uses code 69? Cà Mau licence plates explained",
+    "zh": "69号车牌属于哪个省？金瓯省车牌详解"
   },
   "7 và 9 nén hương là tượng trưng cho “vía” của mỗi con người, nên khi thắp hương 7 hay 9 nén với ý nghĩa cần xin bình an cho bản thân.": {
     "en": "7 and 9 embellishment is a symbol of “a man’s flesh, so when he burns incense 7 or 9 in the sense of seeking peace for himself.",
@@ -6543,6 +6563,10 @@
     "en": "What? What unit provides prestigious transport services? Join us in the following article, you will find satisfying answers.",
     "zh": "你说什么? 哪个单位提供著名的运输服务? 加入我们接下来的文章,你会找到令人满意的答案。"
   },
+  "AN TOÀN & BẢO HIỂM HÀNG HÓA": {
+    "en": "CARGO SAFETY & INSURANCE",
+    "zh": "货物安全与保险"
+  },
   "AN TOÀN & HỖ TRỢ": {
     "en": "ANIMAL & HEALTH",
     "zh": "动物与健康"
@@ -6559,9 +6583,21 @@
     "en": "Anyone who ordered online desires his order to get back as soon as possible. If you see the order at the shipping depot of Hanoi 0-2 then how long can it be received? This is also the question of a lot of people, especially who send the type of goods that take time or the material needs the receiver’s hand.",
     "zh": "任何在网上订购的人都希望他的命令能尽快回来. 如果你看到河内0 -2运输站的订单,那么它能收到多久? 这也是很多人的问题,特别是谁寄送需要时间或材料需要接收者的手的商品。"
   },
+  "Am hiểu vận chuyển Bắc – Nam và liên tỉnh": {
+    "en": "Expertise in North–South and interprovincial freight",
+    "zh": "熟悉南北干线及跨省货运"
+  },
+  "An Cường": {
+    "en": "An Cường",
+    "zh": "An Cường"
+  },
   "An Giang": {
     "en": "An Jiang",
     "zh": "安强"
+  },
+  "An Phát Bioplastics": {
+    "en": "An Phát Bioplastics",
+    "zh": "An Phát Bioplastics"
   },
   "An toàn hàng hóa – Tiến độ vận chuyển – Điều kiện thực tế của hành trình.": {
     "en": "Transportation Safety – Proceeding speed – The actual conditions of the journey.",
@@ -6587,6 +6623,26 @@
     "en": "Safety: This is a problem people are worried about when they hire an outdoor service. It's possible to transport by themselves to ensure that the safety of the furniture is not damaged, lacking. But at present, professional transport units they also offer explicit property protection commitments. Will be responsible if loss occurs, failure.",
     "zh": "安全性: 这是人们担心的一个问题 当他们雇用户外服务。 可以自行运输,以保证家具的安全不受损坏,缺乏. 但目前,专业运输单位也提供明确的财产保护承诺。 如果发生损失,失败,将承担责任。"
   },
+  "Anh Khánh Duy": {
+    "en": "Mr. Khánh Duy",
+    "zh": "Khánh Duy 先生"
+  },
+  "Anh Minh Tuấn": {
+    "en": "Mr. Minh Tuấn",
+    "zh": "Minh Tuấn 先生"
+  },
+  "Anh Phúc Long": {
+    "en": "Mr. Phúc Long",
+    "zh": "Phúc Long 先生"
+  },
+  "Anh Quốc Bảo": {
+    "en": "Mr. Quốc Bảo",
+    "zh": "Quốc Bảo 先生"
+  },
+  "Anh Văn Nam": {
+    "en": "Mr. Văn Nam",
+    "zh": "Văn Nam 先生"
+  },
   "Anh/chị cần vận chuyển loại hàng nào?": {
     "en": "What kind of cargo do you need?",
     "zh": "你需要什么样的货物?"
@@ -6596,8 +6652,8 @@
     "zh": "应用程序存储"
   },
   "BLOG": {
-    "en": "BLOG",
-    "zh": "布尔格"
+    "en": "Blog",
+    "zh": "博客"
   },
   "BR - Vũng Tàu": {
     "en": "BR - China Dance",
@@ -6606,6 +6662,10 @@
   "Ba (3) cách gửi hàng Hà Nội - Hải Phòng nhanh gọn": {
     "en": "3 (3) Way to Deliver Hanoi",
     "zh": "3(3) 交付河内的方式"
+  },
+  "Ba định hướng cốt lõi giúp Vận Tải Lưu Lê duy trì chất lượng dịch vụ, bảo vệ lợi ích khách hàng và phát triển bền vững.": {
+    "en": "Three core principles help Luu Le Transport maintain service quality, protect customers' interests and achieve sustainable growth.",
+    "zh": "三项核心发展方向帮助 Luu Le Transport 保持服务质量、维护客户利益并实现可持续发展。"
   },
   "Ban QLDA Nhà điều hành SX, VP và chung cư 31 Láng Hạ, Hà Nội": {
     "en": "QLDA Executive SX, VP and building 31 Lower, Hanoi",
@@ -6679,6 +6739,10 @@
     "en": "Knowing that the shipmentships have gone to the province, you should also note some of the following for the smoothest delivery:",
     "zh": "知道运货船已经到行省,你也应该注意以下一些最平稳的运货:"
   },
+  "Biết cách xác định hướng Đông Tây Nam Bắc là một lợi thế rất lớn trong cuộc sống hàng ngày như xem hướng nhà, rèn kỹ năng sinh tồn, đi...": {
+    "en": "Knowing how to determine the cardinal directions is useful in everyday life, from choosing a home's orientation to outdoor survival...",
+    "zh": "懂得辨认东南西北方向在日常生活中很有用，例如判断房屋朝向、野外生存等……"
+  },
   "Biết tiếng anh đi muôn nơi khi gửi hàng đặc biệt là gửi hàng quốc tế thì việc nắm rõ được tên tiếng anh của món hàng là điều cần thiết giúp bạn rút ngắn được thời gian để làm các thủ tục giấy tờ thông quan món hàng cũng như khi biết được chính xác tên tiếng anh của món hàng bạn gửi đi thì nhà vận chuyển hàng hóa có thể tư vấn về món hàng cho bạn nó có nằm trong diện khó gửi hay không hoặc là nằm trong danh mục cấm.": {
     "en": "Knowing the English goes everywhere when sending items specifically internationally, knowing the English name of the item is necessary for you to shorten your time to make the documents through the package as well as knowing the exact English name of the item you send out, then the deliveryman can advise you about the goods that are hard to send or is in the banned category.",
     "zh": "了解英文在具体在国际上发送物品时会随处可见,知道物品的英文名称对于你缩短通过包裹制作文件的时间以及知道所发送物品的英文确切名称是必要的,然后送货人可以通知你那些难以发送或属于被禁类的物品."
@@ -6704,8 +6768,8 @@
     "zh": "海17号在哪?"
   },
   "Biển 17 ở đâu? Thông tin biển số xe Thái Bình A → Z": {
-    "en": "Where's Sea 17? Pacific Air A license plate information Z",
-    "zh": "海17号呢? 太平洋航空A型机车车牌信息Z"
+    "en": "Where is licence plate code 17 from? Complete guide to Thái Bình plates",
+    "zh": "17号车牌属于哪里？太平省车牌详解"
   },
   "Biển 35 ở đâu": {
     "en": "Where is Sea 35?",
@@ -6716,16 +6780,16 @@
     "zh": "海35号呢?"
   },
   "Biển 35 ở đâu? - Tất tần tật thông tin về biển số xe Ninh Bình": {
-    "en": "Where's Sea 35?",
-    "zh": "海35号呢?"
+    "en": "Where is licence plate code 35 from? Ninh Bình plate guide",
+    "zh": "35号车牌属于哪里？宁平省车牌指南"
   },
   "Biển 50 ở đâu? Biển số xe 50 là thuộc khu vực thành phố Hồ Chí Minh. Đây là cũng là tỉnh, thành phố có nhiều ký hiệu biển số xe nhất nước ta. Tất cả các phương tiện giao thông tại thành phố Hồ Chí Minh đều được cấp biển số 50, 51, 52, 53, 54, 55, 56, 57, 58, 59. Ký hiệu biển số xe được cấp theo các quy định tại Phụ lục số 2 về ký hiệu biển xe ô tô – mô tô trong nước ban hành kèm với thông tư số 15/2014/TT-BCA.": {
     "en": "Where's Sea 50? The license plate 50 is in the Ho Chi Minh municipality area. This is also the province, the city has the most car plates in the country. All transports in the city of Lake Chi Minh were licensed to number 50, 51, 52, 53, 55, 56, 57, 58, 59. The license plate notation is licensed according to regulations at Appendix 2 on the car sign – domestic motorcycles enacted with the quarter of 15/2014/TT-BCA.",
     "zh": "海洋50号呢? 车牌50在胡志明市辖区. 这也是该省,该市拥有全国车牌最多. 济明湖市所有交通运输均获得第50,51,52,53,55,56,57,58,59号牌照. 车牌标记根据附录2关于车牌的条例颁发许可 — 国内摩托车以15/2014/TT-BCA季度颁布."
   },
   "Biển Số 97 Là Ở Đâu? Thuộc Tỉnh Nào? Danh Sách Ký Hiệu Theo Khu Vực": {
-    "en": "Where is Sea 97?",
-    "zh": "海97号在哪?"
+    "en": "Where is licence plate code 97 from? Province and regional code guide",
+    "zh": "97号车牌属于哪里？省份及地区代码指南"
   },
   "Biển Số xe 97 Ở Đâu": {
     "en": "Car Number 97 Where",
@@ -6760,8 +6824,8 @@
     "zh": "该标志在交通参与过程中发挥着非常重要的作用. 因此,你们每个人都控制着路上的车辆..."
   },
   "Biển báo đóng một vai trò rất quan trọng trong quá trình tham gia giao thông. Do đó, mỗi người khi điều khiển phương tiện trên...": {
-    "en": "The sign plays a very important role in the process of traffic participation. Therefore, every person in control of the vehicle above...",
-    "zh": "该标志在交通参与过程中发挥着非常重要的作用. 因此,所有控制以上车辆的人..."
+    "en": "Road signs play an important role in traffic safety. Drivers therefore need to understand the meaning of each sign...",
+    "zh": "道路交通标志对交通安全十分重要，因此驾驶人员需要了解各种标志的含义……"
   },
   "Biển báo đặt ở vị trí nào nó cũng mang một tầm quan trọng nhất định. Nên việc của người điều khiển phương tiện giao thông trên đường là tuân thủ đúng luật lệ. Việc quay đầu và rẽ trái không đúng quy định sẽ rất nguy hiểm. Và cũng là nguyên nhân dẫn đến các vụ va chạm, tai nạn.": {
     "en": "The sign in every position bears a certain importance. So the job of traffic controllers on the road is to follow the rules. Wrong turn and left turns would be dangerous. And also the cause of collisions, accidents.",
@@ -6828,8 +6892,8 @@
     "zh": "26号车牌在哪里?"
   },
   "Biển số 26 ở đâu? Ký hiệu biển số xe tỉnh Sơn La": {
-    "en": "Where's plate 26? The license plate number for Shan Li Province",
-    "zh": "26号车牌在哪里? 山利道的车牌号"
+    "en": "Where is licence plate code 26 from? Sơn La Province plate codes",
+    "zh": "26号车牌属于哪里？山罗省车牌代码"
   },
   "Biển số 39 ở đâu": {
     "en": "Where's Sea 39?",
@@ -6852,8 +6916,8 @@
     "zh": "哪个48省?"
   },
   "Biển số 48 là tỉnh nào? - Các ký hiệu biển số tại tỉnh Đắk Nông": {
-    "en": "Which 48 is the province? - Signs of plates in the province of Peking.",
-    "zh": "哪个48省? ——北京省地盘标志."
+    "en": "Which province uses licence plate code 48? Đắk Nông plate codes",
+    "zh": "48号车牌属于哪个省？得农省车牌代码"
   },
   "Biển số 5 số: Tương tự 4 số nhưng thêm chữ T ở cuối nếu là biển màu trắng, chữ X ở cuối nếu là biển màu xanh. Ví dụ: 26A99966T, 26A99966X.": {
     "en": "plate 5 Number: Similar 4 numbers but add T at the end if the sign is white, the letter X at the end if the sign is blue. Examples: 26A99966T, 26A99966X.",
@@ -6868,8 +6932,8 @@
     "zh": "50号呢?"
   },
   "Biển số 50 ở đâu?": {
-    "en": "Where's number 50?",
-    "zh": "50号呢?"
+    "en": "Where is licence plate code 50 from?",
+    "zh": "50号车牌属于哪里？"
   },
   "Biển số 59 ở đâu?": {
     "en": "Where's number 59?",
@@ -6888,8 +6952,8 @@
     "zh": "76省是哪个省?"
   },
   "Biển số 76 là tỉnh nào? Ký hiệu biển số xe tỉnh Quảng Ngãi": {
-    "en": "What is the province of 76? The license plate plate plate of Guang Province",
-    "zh": "76省是哪个省? 广府牌照"
+    "en": "Which province uses licence plate code 76? Quảng Ngãi plate codes",
+    "zh": "76号车牌属于哪个省？广义省车牌代码"
   },
   "Biển số 83 tỉnh nào": {
     "en": "Show me the number 83.",
@@ -6904,8 +6968,8 @@
     "zh": "哪个83号? 车牌号为83被授予行省为\"月亮\". 月球省所有车辆都获得了83号牌照,以方便管理. 该牌照由汽车标志上附录2的条例颁发——国内摩托车连同15/2014/TT-BCA的季度发行."
   },
   "Biển số 83 tỉnh nào? Ký hiệu biển số xe tỉnh Sóc Trăng": {
-    "en": "Which 83? Moon Province plate number",
-    "zh": "哪个83号? 月球省号牌"
+    "en": "Which province uses licence plate code 83? Sóc Trăng plate codes",
+    "zh": "83号车牌属于哪个省？朔庄省车牌代码"
   },
   "Biển số 97 là ở đâu?": {
     "en": "Where is plate 97?",
@@ -6944,8 +7008,8 @@
     "zh": "牌照 - 车辆号是区分不同地域交通的依据. ."
   },
   "Biển số xe - số hiệu phương tiện là cơ sở phân biệt các phương tiện giao thông tại từng khu vực khác nhau trên lãnh...": {
-    "en": "The license plate - vehicle number is the basis for the distinction of traffic in different areas of the territory on the forward...",
-    "zh": "车牌-车辆编号是区分前方境内不同地区交通的依据. ."
+    "en": "Vehicle registration plate codes help identify the locality where each vehicle is registered...",
+    "zh": "机动车车牌代码用于识别车辆的登记地区……"
   },
   "Biển số xe - số hiệu phương tiện là cơ sở để có thể phân biệt các phương tiện giao thông tại từng khu vực khác nhau trên lãnh thổ quốc gia và cả địa phận quốc tế. Biển số xe nhằm quản lý các phương tiện giao thông một cách hiệu quả, khoa học. Bài viết dưới đây sẽ giải đáp thắc mắc": {
     "en": "The license plate - vehicle number is the basis for being able to distinguish traffic vehicles in different areas on national territory and both international territories. The license plate is intended to manage traffic effectively, science. The following article will answer the question",
@@ -6956,8 +7020,8 @@
     "zh": "车牌-车辆编号是能够区分不同地区车辆的依据. ."
   },
   "Biển số xe - số hiệu phương tiện là cơ sở để có thể phân biệt các phương tiện giao thông tại từng khu vực khác...": {
-    "en": "The license plate - the vehicle number is the basis for being able to distinguish vehicles in different areas....",
-    "zh": "车牌——车号是能够区分不同区域车辆的依据. ."
+    "en": "Vehicle registration plates help distinguish vehicles registered in different localities...",
+    "zh": "机动车牌照可用于区分在不同地区登记的车辆……"
   },
   "Biển số xe 17 là ở đâu?": {
     "en": "Where's the license plate 17?",
@@ -6976,8 +7040,8 @@
     "zh": "37号车呢? 市镇特征简介 有车牌37?"
   },
   "Biển số xe 37 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
-    "en": "Where's car number 37? What is the nature of the province?",
-    "zh": "37号车呢? 省之性质是?"
+    "en": "Where is licence plate code 37 from and what is the province like?",
+    "zh": "37号车牌属于哪里？当地有何特点？"
   },
   "Biển số xe 39 ở đâu? Bảng tra cứu biển số xe các tỉnh, thành cả nước?": {
     "en": "Where's the license plate 39? The license plate for the number of provinces, the entire country?",
@@ -6992,8 +7056,8 @@
     "zh": "47号在哪儿?"
   },
   "Biển số xe 47 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
-    "en": "Where's the number 47? What is the nature of the province?",
-    "zh": "47号在哪儿? 省之性质是?"
+    "en": "Where is licence plate code 47 from and what is the province like?",
+    "zh": "47号车牌属于哪里？当地有何特点？"
   },
   "Biển số xe 59 ở đâu": {
     "en": "Where's the license plate 59?",
@@ -7007,9 +7071,13 @@
     "en": "Where's the license plate 59? This is the question that is of interest to many people because on current routes there are a lot of plates of this car operating freight. Following the following article will answer your questions and provide you with helpful information.",
     "zh": "车牌号59在哪? 这也是许多人感兴趣的问题,因为在目前的航道上,这辆车有很多的牌照在运营货运. 以下文章将回答您的问题,并为您提供有用的信息。"
   },
+  "Biển số xe 59 ở đâu? Đây là câu hỏi được nhiều người quan tâm bởi trên các tuyến đường hiện nay có rất nhiều biển...": {
+    "en": "Many people ask where licence plate code 59 is used, as it is often seen on vehicles on the road...",
+    "zh": "许多人想知道59号车牌属于哪里，因为在道路上经常能看到这一代码……"
+  },
   "Biển số xe 59 ở đâu? Đặc điểm tình thành như thế nào?": {
-    "en": "Where's the license plate 59? How are the characteristics?",
-    "zh": "车牌号59在哪? 特点如何?"
+    "en": "Where is licence plate code 59 from and what is the province like?",
+    "zh": "59号车牌属于哪里？当地有何特点？"
   },
   "Biển số xe 59 ở đâu? Đặc điểm địa hình của tình thành là gì?": {
     "en": "Where's the license plate 59? What is the location of the situation?",
@@ -7024,12 +7092,16 @@
     "zh": "车牌60在哪? 市镇特征简介 有块60号?"
   },
   "Biển số xe 60 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
-    "en": "Where's the license plate 60? What is the nature of the province?",
-    "zh": "车牌60在哪? 省之性质是?"
+    "en": "Where is licence plate code 60 from and what is the province like?",
+    "zh": "60号车牌属于哪里？当地有何特点？"
   },
   "Biển số xe 60 ở đâu? Đặc điểm về tỉnh thành có biển số xe 60 như thế nào? Cùng chúng tôi khám phá câu trả lời qua bài viết sau đây.": {
     "en": "Where's the license plate 60? How does the town's characteristics have a plate number 60? Together we explore the answers in the following article.",
     "zh": "车牌60在哪? 镇上的特点如何有牌号为60?. 我们共同探讨下一条中的答案。"
+  },
+  "Biển số xe 60 ở đâu? Đặc điểm về tỉnh thành có biển số xe 60 như thế nào? Cùng chúng tôi khám phá câu trả...": {
+    "en": "Which province uses code 60 and what are its characteristics? Explore the answer with us...",
+    "zh": "60号车牌属于哪个省？该地区有哪些特点？与我们一起了解……"
   },
   "Biển số xe 88 ở đâu": {
     "en": "Where's the license plate 88?",
@@ -7043,6 +7115,10 @@
     "en": "Where's the license plate 88? What province? To answer this question, Liu Li Transport invites you to refer to our following article.",
     "zh": "88号车牌在哪? 哪个省? 为回答这个问题,刘立运请参见下条."
   },
+  "Biển số xe 88 ở đâu? Thuộc tỉnh nào? Để trả lời cho câu hỏi này Vận tải Lưu Lê mời bạn cùng tham khảo bài...": {
+    "en": "Which province uses licence plate code 88? Luu Le Transport explains the answer...",
+    "zh": "88号车牌属于哪个省？Luu Le Transport 为您解答……"
+  },
   "Biển số xe 89 ở đâu": {
     "en": "Where's the car number 89?",
     "zh": "89号车在哪?"
@@ -7054,6 +7130,10 @@
   "Biển số xe 89 ở đâu? Thuộc tỉnh nào? Để trả lời cho câu hỏi này Vận tải Lưu Lê mời bạn cùng tham khảo bài viết sau đây của chúng tôi.": {
     "en": "Where's the license plate 89? What province? To answer this question, Liu Li Transport invites you to refer to our following article.",
     "zh": "车牌号89呢? 哪个省? 为回答这个问题,刘立运请参见下条."
+  },
+  "Biển số xe 89 ở đâu? Thuộc tỉnh nào? Để trả lời cho câu hỏi này Vận tải Lưu Lê mời bạn cùng tham khảo bài...": {
+    "en": "Which province uses licence plate code 89? Luu Le Transport explains this code in detail...",
+    "zh": "89号车牌属于哪个省？Luu Le Transport 为您详细解答……"
   },
   "Biển số xe Cà Mau được làm từ hợp kim nhôm sắt. Hình dạng của nó là chữ nhật hoặc là hơi vuông. Trên đó in những con số và chữ mô tả vùng và địa phương quản lý. Khi tra những con số này trên máy tính sẽ chi biết danh tính người chủ hay đơn vị đã mua nó, khoảng thời gian,.. Hơn nữa, biển 69 Cà Mau còn có hình quốc huy dập nổi của nước Việt Nam.": {
     "en": "The plate of the Mau cà is made from the iron aluminum alloy. Its shape is rectangular or slightly square. It prints figures and descriptions of the region and local administration. When you look up these numbers on the computer, you'll know the identity of the owner or the unit that bought it, about time. In addition, the Sea of 69 Zhuo Mau has the emblage of Vietnam.",
@@ -7299,6 +7379,10 @@
     "en": "Synchronising folder",
     "zh": "创建新文件夹"
   },
+  "BÁO GIÁ": {
+    "en": "QUOTATION",
+    "zh": "报价"
+  },
   "Bà Rịa - Vũng Tàu": {
     "en": "Mrs. Ruo-song Chinese",
     "zh": "陆相中夫人"
@@ -7395,6 +7479,10 @@
     "en": "Candy pies, perfume or tea.",
     "zh": "糖果馅饼,香水或茶."
   },
+  "Báo Giá Rõ Ràng": {
+    "en": "Transparent Quotations",
+    "zh": "透明报价"
+  },
   "Báo giá cho khách hàng theo mặt hàng và quãng đường vận chuyển.": {
     "en": "Report the price to the customer on the line and the distance of transport.",
     "zh": "上线向客户报告价格和运输距离."
@@ -7458,6 +7546,10 @@
   "Báo giá đơn hàng;": {
     "en": "Post-Advance Report;",
     "zh": "起草后报告;"
+  },
+  "Báo giá được xây dựng theo loại hàng, trọng lượng, thể tích, tuyến đường và hình thức giao nhận. Nội dung thỏa thuận, biên nhận và chứng từ liên quan được thể hiện rõ theo từng đơn hàng.": {
+    "en": "Quotations are based on cargo type, weight, volume, route and pickup/delivery arrangements. Agreements, receipts and related documents are clearly recorded for each shipment.",
+    "zh": "报价依据货物类型、重量、体积、线路及收发货方式制定。每票货物的协议内容、签收凭证及相关单据均清晰记录。"
   },
   "Báo trước thời gian sẽ giao trả hàng.": {
     "en": "The time will be delivered in advance.",
@@ -7810,6 +7902,10 @@
   "Bên mua xe và bên bán xe sẽ đến cơ quan có thẩm quyền để công chứng, chứng thực hợp đồng mua bán.": {
     "en": "The car buyers and the car sales party will go to the authorities to testify to the sale contract.",
     "zh": "汽车购买方和汽车销售方会到有关部门证明销售合同."
+  },
+  "Bên tôi gửi cả hàng nhẹ và hàng nặng. Nhân viên tiếp nhận kỹ, hướng dẫn rõ phần lấy và giao hàng nên quá trình vận chuyển khá thuận tiện.": {
+    "en": "We ship both light and heavy goods. The team carefully reviews our requirements and explains pickup and delivery arrangements, making transportation convenient.",
+    "zh": "我们同时运输轻货和重货。工作人员认真了解需求，清楚说明收发货安排，使整个运输过程更加方便。"
   },
   "Bình Chánh là một quận với mật độ cư dân tương đối lớn ở thành phố Hồ Chí Minh. Cư dân sinh sống tại Bình Chánh chủ yếu là dân nhập cư, dân từ các tỉnh thành khác đến sinh sống và làm việc. Vấn đề ổn định chỗ ở tại Bình Chánh không cao, vì thế mà việc cư dân di chuyển chỗ ở, nơi làm việc diễn ra thường xuyên.": {
     "en": "Ping Liang is a district with relatively large population density in the city of Ho Chi Minh. The inhabitants of the Tengang are mainly immigrants, people from other provinces to living and working. The problem of settling in the Vast Chief was not high, so residents moved their accommodations, where they worked took place regularly.",
@@ -9404,8 +9500,8 @@
     "zh": "你知道台湾有多少钱吗? 今天坏站房收费多少. 各国应按汇率每天更新,以获取最有用的信息。 特别是台湾的来宾,学生和工人需要对此更关心."
   },
   "Bạn có biết biển số xe 89 ở đâu? [Góc giải đáp CHÍNH XÁC NHẤT]": {
-    "en": "Do you know where the license plate is at 89? [The Best Answer]",
-    "zh": "你知道车牌是89号吗? [最佳答"
+    "en": "Where is licence plate code 89 from? [Definitive guide]",
+    "zh": "89号车牌属于哪里？【权威指南】"
   },
   "Bạn có biết cách": {
     "en": "Do you know how",
@@ -9887,9 +9983,17 @@
     "en": "You are wondering about services",
     "zh": "你想知道服务"
   },
+  "Bạn đang băn khoăn tàu nhanh nhất Sài Gòn Hà Nội bao nhiêu tiếng? Đơn vị nào cung cấp dịch vụ vận chuyển uy tín? Đồng...": {
+    "en": "Wondering how many hours the fastest train from Sài Gòn to Hanoi takes, or which transport company to choose? Read on...",
+    "zh": "想知道西贡至河内最快的火车需要多少小时，或者应该选择哪家运输公司？继续阅读……"
+  },
   "Bạn đang băn khoăn đi tàu từ Vinh Hà Nội mất bao lâu? Đơn vị nào cung cấp dịch vụ vận chuyển uy tín? Đồng hành cùng chúng tôi qua bài viêt sau bạn sẽ có câu trả lời thỏa đáng.": {
     "en": "How long are you wondering how long it takes to sail from Ha Hanoi? What unit provides prestigious transport services? Join us in the following article, you will find satisfying answers.",
     "zh": "你想知道从河内起航要多久吗? 哪个单位提供著名的运输服务? 加入我们接下来的文章,你会找到令人满意的答案。"
+  },
+  "Bạn đang băn khoăn đi tàu từ Vinh Hà Nội mất bao lâu? Đơn vị nào cung cấp dịch vụ vận chuyển uy tín? Đồng hành...": {
+    "en": "Wondering how long the train from Vinh to Hanoi takes and which transport provider to choose? Explore our guide...",
+    "zh": "想知道从荣市乘火车到河内需要多久，以及如何选择可靠的运输服务商？请阅读指南……"
   },
   "Bạn đang có mong muốn": {
     "en": "You're having a wish",
@@ -9943,9 +10047,17 @@
     "en": "You're planning on moving your cheek to Saigon station, but you don't know how to send your cheek to Saigon for the night. Please refer to this article to find the place where you fit in.",
     "zh": "你准备把脸颊移到西贡站去,但不知道怎么把脸颊送去西贡过夜. 请参考此条以找到适合的地方."
   },
+  "Bạn đang có ý định di chuуển bằng хe máу ra ga Sài Gòn nhưng lại không biết gửi хe máу qua đêm ở ga Sài...": {
+    "en": "Planning to ride your motorcycle to Sài Gòn Railway Station but unsure about overnight parking? Read on...",
+    "zh": "打算骑摩托车到西贡火车站，却不清楚过夜停车的安排？继续阅读……"
+  },
   "Bạn đang có ý định gửi xe máy tại ga Sài Gòn nhưng không biết gửi ở đâu? Bạn lo lắng việc gửi xe ở ga Sài Gòn liệu có an toàn không? Hãy tham khảo ngay bài dưới dưới đây để tìm cho mình câu trả lời nhé!": {
     "en": "Are you planning to send a motorcycle at Saigon station but not know where to send it? Are you worried that sending a car in Saigon station will be safe? Please refer to the following article for an answer.",
     "zh": "你是否打算在西贡站派摩托车来 却不知该往何处去? 你担心派车去西贡站安全吗? 答复请参见下条。"
+  },
+  "Bạn đang có ý định gửi xe máy tại ga Sài Gòn nhưng không biết gửi ở đâu? Bạn lo lắng việc gửi xe ở ga...": {
+    "en": "Planning to send a motorcycle from Sài Gòn Railway Station but unsure where to go? You may also be concerned about...",
+    "zh": "想从西贡火车站托运摩托车，却不清楚办理地点？您可能还担心……"
   },
   "Bạn đang có ý định muốn": {
     "en": "You are intent",
@@ -9992,8 +10104,8 @@
     "zh": "你要找的83个省份? 83号有特别的东西 迁刘利以指. ."
   },
   "Bạn đang muốn biết biển số 83 tỉnh nào? Ký hiệu biển 83 có những gì đặc biệt. Hãy cùng vận tải Lưu Lê tham khảo...": {
-    "en": "What 83 province are you looking for? Sign 83 has something special. Let's transport Liu Li refer to...",
-    "zh": "你要找的83个省份? 83号有特别的东西 不如把刘力引来..."
+    "en": "Wondering where licence plate code 83 is used and what its special markings mean? Find out with Luu Le Transport...",
+    "zh": "想知道83号车牌属于哪里及其标识含义吗？与 Luu Le Transport 一起了解……"
   },
   "Bạn đang muốn biết thêm kinh nghiệm": {
     "en": "You are interested in learning more about it.",
@@ -10028,8 +10140,8 @@
     "zh": "你想派方庄园来 想知道要多久才能寄出\"页\" 那不如我们把刘力..."
   },
   "Bạn đang muốn gửi hàng xe Phương Trang, băn khoăn không biết gửi hàng xe Phương Trang mất bao lâu. Vậy hãy cùng vận tải Lưu...": {
-    "en": "You're trying to send Fang Manor, wondering how long it's going to take to send the Pages. So let's move Liu...",
-    "zh": "你想派方庄园来 想知道要多久才能寄出\"页\" 所以,让我们移动刘..."
+    "en": "Planning to ship goods with Phương Trang and wondering about delivery times? Read Luu Le Transport's guide...",
+    "zh": "想通过 Phương Trang 客车寄货，却不清楚需要多久？阅读 Luu Le Transport 的指南……"
   },
   "Bạn đang muốn thực hiện": {
     "en": "You are wanted to perform",
@@ -10044,8 +10156,8 @@
     "zh": "你试图找出48个在省内。 欲了解更多有关..."
   },
   "Bạn đang muốn tìm hiểu biển số 48 là tỉnh nào. Hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để biết thêm...": {
-    "en": "You're trying to figure out which 48 is in the province. Please move Liu Li to refer to the following article, for more information...",
-    "zh": "你试图找出48个在省内。 请移出刘力,指下一篇文章,以详之. ."
+    "en": "Curious about which province uses licence plate code 48? Read this guide from Luu Le Transport...",
+    "zh": "想知道48号车牌属于哪个省？阅读 Luu Le Transport 的指南……"
   },
   "Bạn đang muốn tìm đơn vị": {
     "en": "You are searching for the unit",
@@ -10060,16 +10172,16 @@
     "zh": "您正在寻找河内 0 - 2 移动的地址 。 请移出刘力,指下一篇文章,以详之. ."
   },
   "Bạn đang muốn tìm địa chỉ kho trung chuyển Hà Nội 02. Hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để biết...": {
-    "en": "You are searching for an address for the move of Hanoi 0-2. Let's transport Liu Li to refer to the article below, to know...",
-    "zh": "您正在寻找河内 0 - 2 移动的地址 。 让我们把刘力引到下面的文章,知道. ."
+    "en": "Looking for the address of Hanoi Transfer Warehouse 02? Read the following guide for details...",
+    "zh": "正在寻找河内02号中转仓库的地址？请阅读下文了解详情……"
   },
   "Bạn đang muốn đổi bằng lái xe ô tô online nhưng không biết các thủ tục như nào. Hãy cùng vận tải Lưu Lê tham khảo bài...": {
     "en": "You're trying to change your driving license online but you don't know how the procedure works. Let's move Liu Li to refer to the...",
     "zh": "你试图改变你的驾驶执照 在线,但你不知道 如何运行的程序。 迁刘利以指. ."
   },
   "Bạn đang muốn đổi bằng lái xe ô tô online nhưng không biết các thủ tục như nào. Hãy cùng vận tải Lưu Lê tham khảo...": {
-    "en": "You're trying to change your driving license online but you don't know how the procedure works. Let's transport Liu Li refer to...",
-    "zh": "你试图改变你的驾驶执照 在线,但你不知道 如何运行的程序。 不如把刘力引来..."
+    "en": "Want to renew your car driving licence online but unsure about the process? This guide explains...",
+    "zh": "想在线换领汽车驾驶证，却不清楚办理流程？本指南将介绍……"
   },
   "Bạn đang rất lo lắng và mệt mỏi khi phải vận chuyển một khối lượng lớn đồ đạc, dụng cụ, trang thiết bị rất cồng kềnh và nặng nhọc. Việc tháo lắp và vận chuyển sẽ rất mất thời gian và công sức nếu như bạn tự làm.": {
     "en": "You're very worried and tired of having to carry a huge amount of furniture, tools, equipment, and heavy, hard work. It would take time and effort if you did it yourself.",
@@ -10096,8 +10208,8 @@
     "zh": "你想知道17号在哪吗? 17号车牌在哪? 让我们..."
   },
   "Bạn đang thắc mắc 17 là ở đâu? Biển 17 ở đâu? Hay biển số xe 17 ở đâu? là ký hiệu cho tỉnh thành nào. Hãy...": {
-    "en": "You're wondering where 17 is? Where's the license plate 17?",
-    "zh": "你想知道17号在哪吗? 17号车牌在哪?"
+    "en": "Wondering where licence plate code 17 is from and which province it represents? Read on...",
+    "zh": "想知道17号车牌属于哪个省，以及它代表哪个地区吗？继续阅读……"
   },
   "Bạn đang thắc mắc biển số 17 là ở đâu là ở đâu đúng không nào? Ký hiệu biển số xe 17 là của tỉnh Thái Bình. Nó đã được cấp theo quy định tại Phụ lục số 2 về ký hiệu biển xe ô tô - mô tô trong nước ban hành cùng thông tư số 15/ 2014/TT- BCA.": {
     "en": "You're wondering where the number 17 is, right? The license plate number 17 is from Pacific Province. It has been licensed by regulations at Appendix 2 on car sign - domestic motorcycles enacted the same quarter-15/ 2014/TT-BCA.",
@@ -10108,8 +10220,8 @@
     "zh": "你想知道50号在哪里 将刘立引出下条,为出海之答. ."
   },
   "Bạn đang thắc mắc biển số 50 ở đâu. Hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để có câu trả lời...": {
-    "en": "You're wondering where the number 50 is. Let's transport Liu Li to refer to the article below, for answers...",
-    "zh": "你想知道50号在哪里 让我们把刘力引到下面的文章中,作为答案......"
+    "en": "Wondering where licence plate code 50 is from? Read Luu Le Transport's guide for the answer...",
+    "zh": "想了解50号车牌属于哪里吗？阅读 Luu Le Transport 的指南寻找答案……"
   },
   "Bạn đang thắc mắc không biết đi tàu từ Hà Nội vào Huế mất bao lâu? Thì theo lộ trình của đường sắt. Với quãng đường khoảng 688km. Thì đi tàu từ Hà Nội vào Huế sẽ mất tầm 12 tiếng đồng hồ.": {
     "en": "You're wondering how long it takes to sail from Hanoi into Hwa? Follow the route of the railroad. With a distance of about 688 km. It'll take about 12 hours to sail from Hanoi into the Humming.",
@@ -10138,6 +10250,10 @@
   "Bạn đang tìm kiếm địa chỉ ga tàu hỏa Nam Đinh, hoặc số điện thoại tổng đài ga tàu để biết thêm thông tin chi tiết, hãy tham khảo ngay bài viết dưới đây.": {
     "en": "You are searching for the address of the South Ding railway station, or the number of telephones for additional information, refer to the following article.",
     "zh": "您正在搜索南丁火车站的地址, 或需要更多信息的电话号码, 请参看以下文章 。"
+  },
+  "Bạn đang tìm kiếm địa chỉ ga tàu hỏa Nam Đinh, hoặc số điện thoại tổng đài ga tàu để biết thêm thông tin chi tiết,...": {
+    "en": "Looking for Nam Định Railway Station's address or telephone number? Here is the information you need...",
+    "zh": "正在寻找南定火车站的地址或联系电话吗？这里整理了相关信息……"
   },
   "Bạn đang ở Sài Gòn nhưng sắp tới sẽ chuyển đến Cà Mau để sinh sống, làm việc và tiện cho việc đi lại. Tuy nhiên, với một số lượng lớn đồ đạc nếu tự vận chuyển thì bạn sẽ phải tự mình làm hết. Bạn đang cân nhắc giữa việc tự mình chuyển đồ đến Cà Mau hay thuê dịch vụ chuyển nhà Sài Gòn - Cà Mau. Bài viết dưới đây sẽ giúp bạn giải quyết được băn khoăn này.": {
     "en": "You're in Saigon but you're moving to Mau to live, work and convenience for traveling. However, with a large quantity of items, if you were to move them yourself, you would have to do them all yourself. The following article will help you resolve this question.",
@@ -10172,8 +10288,8 @@
     "zh": "不要忽视包装产品的动作,因为它会决定你来到这个行业的商品是否安全完整."
   },
   "BẢNG GIÁ": {
-    "en": "LEAD",
-    "zh": "领导"
+    "en": "Shipping Rates",
+    "zh": "运费价格表"
   },
   "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
     "en": "THE BEST OF THE BEST",
@@ -10980,8 +11096,8 @@
     "zh": "启用 mims 如何选择发送单位河内 – KCN Peace 最有声望"
   },
   "Bật mí đến bạn cách xác định hướng Đông Tây Nam Bắc ĐƠN GIẢN": {
-    "en": "Turn the eyelids on you how to navigate southeast of the Northeast",
-    "zh": "转眼看你如何在东北东南方向航行"
+    "en": "Easy ways to determine north, south, east and west",
+    "zh": "轻松辨别东南西北方向的方法"
   },
   "Bắc Giang": {
     "en": "North Jiang",
@@ -11327,6 +11443,10 @@
     "en": "Right media layout",
     "zh": "右媒体布局"
   },
+  "Bố trí đường bộ hoặc đường sắt phù hợp": {
+    "en": "Arrange suitable road or rail transport",
+    "zh": "安排合适的公路或铁路运输"
+  },
   "Bốc xuống.": {
     "en": "Hit it.",
     "zh": "击之."
@@ -11455,13 +11575,25 @@
     "en": "C : Height",
     "zh": "中:高"
   },
+  "CAM KẾT DỊCH VỤ": {
+    "en": "SERVICE COMMITMENTS",
+    "zh": "服务承诺"
+  },
+  "CAM KẾT VỀ THỜI GIAN": {
+    "en": "ON-TIME SERVICE COMMITMENT",
+    "zh": "时效服务承诺"
+  },
+  "CHI PHÍ & CHỨNG TỪ MINH BẠCH": {
+    "en": "TRANSPARENT PRICING & DOCUMENTS",
+    "zh": "费用与单据透明"
+  },
   "CHUYỂN KHO XƯỞNG": {
     "en": "GREEWING",
     "zh": "欢呼声"
   },
   "CHUYỂN NHÀ": {
-    "en": "INTERVIEWING",
-    "zh": "介入"
+    "en": "Moving Services",
+    "zh": "搬家服务"
   },
   "CHUYỂN NHÀ TRỌN GÓI": {
     "en": "FIGURAL BEST",
@@ -11474,6 +11606,10 @@
   "CHÍNH SÁCH": {
     "en": "BIT",
     "zh": "双边投资条约"
+  },
+  "CHÚNG TÔI": {
+    "en": "US",
+    "zh": "我们"
   },
   "CHƯA BIẾT NÊN CHỌN DỊCH VỤ NÀO?": {
     "en": "WHAT DO YOU KNOW?",
@@ -12340,8 +12476,8 @@
     "zh": "各省,全国城市之间的距离详情."
   },
   "Chi tiết thủ tục chuyển vùng xe máy không phải ai cũng biết": {
-    "en": "Details of the transfer of the motorcycle area not everyone knows",
-    "zh": "摩托车区转让的细节 并非所有人都知道"
+    "en": "Motorcycle registration transfer procedures explained",
+    "zh": "摩托车跨地区登记转移手续详解"
   },
   "Chia sẻ của Vận tải Lưu Lê trên đây bạn đã hiểu rõ hơn về": {
     "en": "Share of Liu transport over here you have better understood about",
@@ -14412,8 +14548,8 @@
     "zh": "传输需要几天时间。"
   },
   "Chuyển phát nhanh mất mấy ngày?": {
-    "en": "How many days will it take?",
-    "zh": "需要多少天时间?"
+    "en": "How many days does express delivery take?",
+    "zh": "快递通常需要几天？"
   },
   "Chuyển phát nhanh từ Sài Gòn ra Hà Nội mất bao lâu": {
     "en": "Move fast from Saigon to Hanoi",
@@ -14490,6 +14626,10 @@
   "Chuyển vùng xe máy là gì?": {
     "en": "What's the moving of the motorcycle?",
     "zh": "摩托车的动向是什么?"
+  },
+  "Chuyển vùng xe máy là gì?Chuyển vùng xe máy hay còn gọi là thực hiện thủ tục di chuyển xe đi tỉnh, thành phố trực thuộc...": {
+    "en": "What is motorcycle registration transfer? It means completing the procedures for moving a vehicle's registration to another province or centrally governed city...",
+    "zh": "什么是摩托车转籍？即办理将车辆登记转移至其他省份或直辖市的相关手续……"
   },
   "Chuyển văn phòng": {
     "en": "Office transfer",
@@ -14947,6 +15087,10 @@
     "en": "We often find that the easy-to-talent slogan is gently pasted on cargo boxes. Due to the great risk of shipping, it is necessary to have a special professional service delivery unit with a fragile product. Let us explore the following article, and we will provide you with sufficient information.",
     "zh": "我们经常发现,易懂的口号被轻轻地贴在了货箱上. 由于航运风险巨大,必须建立具有脆弱产品的特殊专业服务提供单位. 让我们探讨下一条,我们将向你们提供足够的信息。"
   },
+  "Chúng ta thường thấy có khẩu hiệu hàng dễ vỡ xin nhẹ tay được dán trên các thùng hàng hóa. Bởi vì chuyển hàng hóa có...": {
+    "en": "The label “Fragile – Handle with Care” is often attached to shipping cartons because transporting goods can...",
+    "zh": "“易碎品，请轻拿轻放”标签常贴在货箱上，因为货物运输可能……"
+  },
   "Chúng tôi cam kết hàng hóa không bị hư hỏng, mất mát, bóp méo trong quá trình vận chuyển. Nếu có sẽ chịu hoàn toàn trách nhiệm.": {
     "en": "We commit non-fabricated goods, losses, distortions during transport. If any will take full responsibility.",
     "zh": "我们在运输过程中犯下了非捏造的货物、损失和扭曲行为。 如果有人要承担全部责任的话。"
@@ -15164,8 +15308,8 @@
     "zh": "毫无疑问,许多人想知道,65号车牌在哪里,越南的哪个省份? 与梵尾来."
   },
   "Chắc hẳn nhiều người thắc mắc, biển số xe 65 là ở đâu, thuộc tỉnh nào tại Việt Nam? Hãy cùng Vantailuule.vn giải đáp câu hỏi...": {
-    "en": "No doubt many wondered, where is the plate 65, in which province in Vietnam? With Vantailule.",
-    "zh": "毫无疑问,许多人想知道,65号车牌在哪里,越南的哪个省份? 与梵尾来."
+    "en": "Many people wonder where licence plate code 65 is used in Vietnam. Luu Le Transport answers this question...",
+    "zh": "许多人想知道越南65号车牌属于哪里。Luu Le Transport 为您解答……"
   },
   "Chẳng hạn như các đồ vật cơ bản: tủ lạnh, máy giặt, bàn ghế, giường ngủ, bàn học,...đều rất nặng và cần đóng gói cẩn thận để tránh gây hư hỏng, trầy xước. Thay vì tốn quá nhiều công sức như vậy bạn có thể thuê đơn vị chuyển nhà chuyên nghiệp và uy tín, họ sẽ lo cho bạn từ A → Z.": {
     "en": "For example, the basic items: refrigerators, washing machines, desks, beds, desks, ...are very heavy and need to be packed carefully to avoid damaging, scratching. Instead of spending so much effort you can hire the professional and prestigious move unit, they'll take care of you from A-40 Z.",
@@ -15258,6 +15402,22 @@
   "Chỉ đền bù cho những lỗ hàng bị hưng hỏng hoặc mất mát": {
     "en": "Only compensates for broken holes or losses",
     "zh": "只补偿破洞或损失"
+  },
+  "Chị Hải Yến": {
+    "en": "Ms. Hải Yến",
+    "zh": "Hải Yến 女士"
+  },
+  "Chị Lan Hương": {
+    "en": "Ms. Lan Hương",
+    "zh": "Lan Hương 女士"
+  },
+  "Chị Mỹ Linh": {
+    "en": "Ms. Mỹ Linh",
+    "zh": "Mỹ Linh 女士"
+  },
+  "Chị Thu Trang": {
+    "en": "Ms. Thu Trang",
+    "zh": "Thu Trang 女士"
   },
   "Chịu 100% trách nhiệm nếu có sự cố xảy ra đối với hàng hóa trong quá trình vận chuyển.": {
     "en": "100% responsibility if an incident occurs with goods during transport.",
@@ -15539,6 +15699,10 @@
     "en": "Select the address for delivering goods services in prestigious car",
     "zh": "选择在有名的汽车中提供货物服务的地址"
   },
+  "Chốt chi phí rõ ràng trước khi thực hiện": {
+    "en": "Confirm all costs before proceeding",
+    "zh": "执行前明确确认费用"
+  },
   "Chốt dưới kim xăng bị gãy hoặc lỏng khiến kim báo không đúng.": {
     "en": "Under the gas needle is either broken or loose, making the needle incorrect.",
     "zh": "气针下有断出或松出,使出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出入出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出"
@@ -15614,6 +15778,14 @@
   "Chủ động về thời gian và phương tiện chuyển nhà.": {
     "en": "Take the initiative in time and move vehicles.",
     "zh": "及时主动动车."
+  },
+  "Chủ động xử lý khi có phát sinh": {
+    "en": "Proactively handle unexpected issues",
+    "zh": "主动处理突发情况"
+  },
+  "Chủ động điều phối từng chặng": {
+    "en": "Proactive coordination for each leg",
+    "zh": "主动协调各运输环节"
   },
   "Chủ động đóng gói hàng hoá trước khi giao cho đơn vị vận chuyển: chủ động lót, bọc hàng hoá theo đúng hình thức của hàng, đặc biệt những mặt hàng dễ vỡ và nhạy cảm với nhiệt độ, với sự va chạm trên xe.": {
     "en": "Take the initiative to pack the goods before delivering the transport unit: take the initiative, cover the goods in the proper form of the goods, especially those that are easily broken and sensitive to the temperature, with the collision on the car.",
@@ -15963,13 +16135,17 @@
     "en": "Concealed with gas foam or otherwise known as bubble paper, this is a paper that has extremely effective anti-clap function. This type of paper can package items of different sizes.",
     "zh": "以气体泡沫或别称\"气泡相纸\"为隐形,是一纸具有极其有效的防相片功能. 这类纸张可以包装大小不同的项目."
   },
+  "CÁC CON SỐ ẤN TƯỢNG": {
+    "en": "OUR KEY FIGURES",
+    "zh": "关键数据"
+  },
   "CÂU HỎI": {
     "en": "QUESTIONS",
     "zh": "问题"
   },
   "CÔNG CỤ TRỰC TUYẾN": {
-    "en": "CENTRAL PEACE",
-    "zh": "中东和平"
+    "en": "Online Tools",
+    "zh": "在线工具"
   },
   "CÔNG TY TNHH VẬN TẢI LƯU LÊ": {
     "en": "CENTRAL CENTER",
@@ -17304,8 +17480,8 @@
     "zh": "如何通过网络购买列车车票"
   },
   "Cách mua vé tàu qua mạng cho người mới mua lần đầu": {
-    "en": "How to buy train tickets via the network for the first buyer",
-    "zh": "如何通过网络为第一买家购买火车票"
+    "en": "How to buy train tickets online: A beginner's guide",
+    "zh": "新手网上购买火车票指南"
   },
   "Cách nhau đến gần 2000km, để tối ưu chi phí mà vẫn đảm bảo chất lượng dịch vụ bạn nên chọn hình thức chuyển nhà Sài Gòn - Điện Biên bằng tàu hỏa là tốt nhất.": {
     "en": "Approaching nearly 2,000 km apart, to optimize the cost that still ensures the quality of service you should choose the form of the Saigon move - the Train's Border is best.",
@@ -17344,8 +17520,8 @@
     "zh": "划船去本省的方式"
   },
   "Cách ship hàng đi tỉnh nhanh chóng và hiệu quả nhất": {
-    "en": "The fastest and most effective way of walking cargo",
-    "zh": "最快和最有效的载货方式"
+    "en": "How to ship goods between provinces quickly and efficiently",
+    "zh": "如何快速高效地跨省寄货"
   },
   "Cách sân bay Tân Sơn Nhất khoảng 35 km.": {
     "en": "It's about 35 km from Tanshan Airport.",
@@ -17612,8 +17788,8 @@
     "zh": "在北极查车牌的方法"
   },
   "Cách đọc vị trí container chính xác, nhanh chóng nhất": {
-    "en": "The most accurate, quickest container position reading",
-    "zh": "最准确、最快的容器位置读取"
+    "en": "How to read container positions quickly and accurately",
+    "zh": "如何快速准确地识别集装箱位置"
   },
   "Cách đọc vị trí container chính xác, tìm hàng nhanh chóng": {
     "en": "The exact container position reading, the quick search",
@@ -18683,6 +18859,38 @@
     "en": "\"NHH Company 1 Members of the CBS train\".",
     "zh": "\"NHH Company 1 CBS列车成员\"."
   },
+  "Công ty TNHH An Việt": {
+    "en": "An Việt Co., Ltd.",
+    "zh": "An Việt 有限责任公司"
+  },
+  "Công ty TNHH Duy Khánh": {
+    "en": "Duy Khánh Co., Ltd.",
+    "zh": "Duy Khánh 有限责任公司"
+  },
+  "Công ty TNHH Gia Phúc": {
+    "en": "Gia Phúc Co., Ltd.",
+    "zh": "Gia Phúc 有限责任公司"
+  },
+  "Công ty TNHH Hưng Thịnh": {
+    "en": "Hưng Thịnh Co., Ltd.",
+    "zh": "Hưng Thịnh 有限责任公司"
+  },
+  "Công ty TNHH Minh Phát": {
+    "en": "Minh Phát Co., Ltd.",
+    "zh": "Minh Phát 有限责任公司"
+  },
+  "Công ty TNHH Mỹ Linh": {
+    "en": "Mỹ Linh Co., Ltd.",
+    "zh": "Mỹ Linh 有限责任公司"
+  },
+  "Công ty TNHH Nam Việt": {
+    "en": "Nam Việt Co., Ltd.",
+    "zh": "Nam Việt 有限责任公司"
+  },
+  "Công ty TNHH Phúc An": {
+    "en": "Phúc An Co., Ltd.",
+    "zh": "Phúc An 有限责任公司"
+  },
   "Công ty TNHH Vận Tải Lưu Lê là đơn vị chuyên vận chuyển hàng hóa bằng đường sắt với nhiều hình thức vận chuyển khác nhau, phù hợp với mỗi loại hàng hoá. Vận Tải Lưu Lê tự hào là một trong những công ty có kinh nghiệm lâu năm trong lĩnh vực vận tải hàng hoá. Với đội ngũ CSKH và đội nhân viên vận chuyển tận tình, chuyên nghiệp, Vận tải Lưu Lê chắc chắn sẽ làm hài lòng quý khách hàng.": {
     "en": "The Liu Transport Company is a railway freight unit with various forms of transportation, which are consistent with each type of cargo. Liu transport is proud to be one of the long-time companies in the field of freight. With the CSKK team and a team of dedicated, professional delivery personnel, Liu Li's transport will surely please the customers.",
     "zh": "刘通运输公司是铁路货运单位,运输形式多样,与每类货物一致. 刘运荣出任货运领域长期公司之一. 随着CSKK团队和一批有献身精神,专业的送货人员,刘力的接送肯定会取悦顾客."
@@ -18918,6 +19126,10 @@
   "Công ty TNHH vận tải Lưu Lê được biết đến là đơn vị chuyên cung cấp các dịch vụ gửi hàng với nhiều hình thức vận tải uy tín số 1 Việt Nam và có phạm vi trên cả nước. Với hơn 10 năm kinh nghiệm trong lĩnh vực gửi hàng hóa nói riêng và các lĩnh vực vận tải khác nói chung, cùng trang thiết bị hiện đại vận tải Lưu Lê luôn tự hào là cái tên được đông đảo quý khách hàng lựa chọn mỗi khi có nhu cầu gửi hàng Hà Nội - KCN Cầu Cảng Phước Đông an toàn chuyên nghiệp với chi phí cực kỳ phải chăng.": {
     "en": "Liu transport company is known as the unit that provides delivery services in many prestigious forms of Vietnam No. 1 transport and has ranges across the country. With more than 10 years of experience in the field of sending the goods in private and other transportation fields in general, the same modern equipment Liu Lai has always been proud that the name is widely chosen by the customers whenever there is a need to send the Hanoi - KNC Bridge of the East Coast of Professional Safety at great cost.",
     "zh": "刘通运输公司被誉为以越南一号运输的许多有名的运输形式提供快递服务的单位,并遍及全国. 刘来在一般的私人及其他交通领域寄出商品方面经验十余年,同名现代设备刘来一直很自豪地认为,每当需要寄出职业安全东岸的河内-KNC大桥时,该名被顾客广泛取出."
+  },
+  "Công ty TNHH Đại Nam": {
+    "en": "Đại Nam Co., Ltd.",
+    "zh": "Đại Nam 有限责任公司"
   },
   "Công ty Vàng Bạc Chính Quang nhanh chóng, không phải mất thời gian xếp hàng chờ đợi. Địa chỉ này thu hút khách hàng bởi tỷ giá USD Singapore hợp lý. Đối với khách hàng đổi tiền với số tiền lớn có thể liên hệ trước để trao đổi với Vàng Bạc Chính Quang để nhận mức giá tốt nhất.": {
     "en": "The Silver Gold Company was quick, not taking time to line up. This address draws customers by a reasonable Singapore dollar billion. For customers trading money with large sums of money may be involved in exchange for the main gold of Light to receive the best price.",
@@ -19640,8 +19852,8 @@
     "zh": "\"英国经济部主席\". 特别是,通江港的港口系统有口味......"
   },
   "Cảng Vũng Áng thuộc Khu kinh tế Vũng Áng, thuộc địa bàn Thị xã Kỳ Anh. Đặc biệt, hệ thống cảng biển ở Vũng Áng có...": {
-    "en": "\"Presidents of the United Kingdom's Department of Economics\". In particular, the port system at thengang has...",
-    "zh": "\"英国经济部主席\". 特别是Terngang的港口系统..."
+    "en": "Vũng Áng Port is located in the Vũng Áng Economic Zone in Kỳ Anh Town. The port system here also...",
+    "zh": "永昂港位于奇英市镇的永昂经济区。当地港口系统还……"
   },
   "Cảng Vũng Áng thuộc tỉnh nào": {
     "en": "What province is it?",
@@ -19652,8 +19864,8 @@
     "zh": "哪个省? - 一般性介绍。"
   },
   "Cảng Vũng Áng thuộc tỉnh nào? Cách Hà Nội, Hồ Chí Minh bao xa?": {
-    "en": "Which province? How far from Hanoi, Ho Chi Minh?",
-    "zh": "哪个省? 离河内多远? 胡志明?"
+    "en": "Which province is Vũng Áng Port in? How far is it from Hanoi and Ho Chi Minh City?",
+    "zh": "永昂港位于哪个省？距河内和胡志明市有多远？"
   },
   "Cảng biển Hiệp Phước: 10 km (đường biển) tiếp nhận tàu trọng tải 50.000 – 70.000 DWT": {
     "en": "The Knights' Sea Harbor: 10 km (seaway) receiving the 50,000 – 177 DWT ship",
@@ -19811,6 +20023,10 @@
     "en": "Be careful!",
     "zh": "小心点!"
   },
+  "CẬP NHẬT TIẾN ĐỘ VẬN CHUYỂN": {
+    "en": "SHIPMENT STATUS UPDATES",
+    "zh": "运输进度更新"
+  },
   "Cận miền": {
     "en": "Near Domain",
     "zh": "邻近域"
@@ -19844,8 +20060,8 @@
     "zh": "更新名单 63个地区省份"
   },
   "Cập nhật danh sách 63 tỉnh thành trên cả nước theo khu vực": {
-    "en": "Update list 63 provinces across the country in area",
-    "zh": "全国63个省份最新名单"
+    "en": "Updated list of Vietnam's 63 provinces and cities by region",
+    "zh": "按地区更新的越南63个省市名单"
   },
   "Cập nhật theo ngày 19/03/2021 thì 1 yên Nhật = 212.45 VNĐ.": {
     "en": "Updated on 19/03/2021, 1 Japanese saddle = 212.45 VN.",
@@ -20052,8 +20268,8 @@
     "zh": "未翻译货物商业清单"
   },
   "Danh mục hàng hóa cấm lưu thông - Cần biết để tránh vi phạm": {
-    "en": "The goods list bans traffic - It takes knowledge to avoid violations",
-    "zh": "货物清单禁止贩运 -- 这需要知识来避免侵权"
+    "en": "List of goods prohibited from circulation – Know the rules to avoid violations",
+    "zh": "禁止流通货物清单——了解规定，避免违规"
   },
   "Danh mục những thứ không được gửi qua bưu điện": {
     "en": "List of things not sent through the post office",
@@ -20074,6 +20290,10 @@
   "Danh sách 63 tỉnh thành trên cả nước - Các tỉnh miền Trung": {
     "en": "List 63 Provinces across the country - Central provinces",
     "zh": "列出全国63个省份-中央省份."
+  },
+  "Danh sách 63 tỉnh thành trên cả nước sẽ được cập nhất mới nhất qua bài viết sau đây. Đồng hành cùng chúng tôi để biết...": {
+    "en": "Explore the latest list of Vietnam's 63 provinces and cities by region in the following article. Read on to learn more...",
+    "zh": "下文介绍按地区整理的越南63个省市名单。继续阅读了解更多……"
   },
   "Danh sách bưu cục của đơn vị Giao Hàng Nhanh ở Hà Nội rất dài, hơn 100 bưu cục nên bạn không thể nhớ hết. Khi bạn có nhu cầu gửi hàng, chỉ cần tìm kiếm địa chỉ theo đúng khu vực mình cần giao và liên hệ giao nhận hàng thôi. Để tìm kiếm địa chỉ bưu cục nhanh nhất, bạn tiến hành theo các bước sau:": {
     "en": "The Postet List of the Quick Transport Unit in Hanoi is very long, over 100 parcels so you can't remember them all. When you're in need of a delivery, just find the address in the right area and contact the delivery. To find the fastest postal address, you take the following steps:",
@@ -20190,6 +20410,10 @@
   "Di chuyển bằng tàu hỏa giờ đây không còn quá xa lạ nữa khi sở hữu vô vàn ưu điểm từ giá cả, an toàn cho đến trải nghiệm tuyệt vời xuyên suốt hành trình. Và nếu như bạn còn có những bỡ ngỡ với hình thức di chuyển này, hãy cùng chúng tôi “gỡ rối” qua bài viết dưới đây nhé!": {
     "en": "Travel by train is now no longer too unfamiliar to possess so many advantages from prices, safe to wonderful experiences throughout the journey. And if you have any doubts about this kind of move, why not join us “through the article below!",
     "zh": "乘火车旅行现在不再太陌生了,无法从价格中获得如此多的优势,在整个旅程中安全到精彩的经历。 如果你对这种举动有任何怀疑,为什么不“通过下面的文章”加入我们?"
+  },
+  "Di chuyển bằng tàu hỏa giờ đây không còn quá xa lạ nữa khi sở hữu vô vàn ưu điểm từ giá cả, an toàn cho...": {
+    "en": "Train travel is now familiar to many passengers thanks to benefits such as price and safety...",
+    "zh": "由于票价、安全性等方面的优势，火车出行已为许多旅客所熟悉……"
   },
   "Di chuyển dây chuyền máy móc.": {
     "en": "Move the machine chain.",
@@ -20470,6 +20694,10 @@
   "Du lịch tại Quảng Nam được nhiều người biết đến, bởi có đến 2 di sản văn hóa thế giới là phố cổ Hội An, thánh địa Mỹ Sơn cùng khu dự trữ sinh quyển thế giới Cù Lao Chàm.": {
     "en": "Tourism in Guangnan is widely known, as there are two cultural heritages in the ancient An Society, the American Septag with the World Census Lao Wam Reserve.",
     "zh": "广南的旅游业已广为人知,因为古代安会有两种文化遗产,即\"美国Septag\"和\"世界人口普查老挝瓦姆保护区\"."
+  },
+  "Duy Tân Plastics": {
+    "en": "Duy Tân Plastics",
+    "zh": "Duy Tân Plastics"
   },
   "Dài 4,3m x rộng 1,95m x cao 2,0m là kích thước của xe tải 3,5 tấn. Đối với những loại xe này thường được thiết kế với bên ngoài sang trọng, động cơ êm ái, nội thất tiện nghi, đặc biệt là mức độ an toàn cao. Việc đóng thùng kín, thùng lửng, thùng mui bạt tùy thuộc vào mục đích và nhu cầu của bạn.": {
     "en": "The length of 4.3 m x is 1.95 m x tall is the size of the 3.5 ton truck. For these types of vehicles are often designed with luxury exteriors, smooth engines, comfortable interiors, especially high levels of safety. Packing cans, floats, and cartons depend on your purpose and needs.",
@@ -21615,6 +21843,10 @@
     "en": "Archived Services;",
     "zh": "归档服务;"
   },
+  "Dịch vụ không tư vấn chung chung mà xem từng đơn hàng để đưa ra phương án phù hợp. Cách làm này thực tế, dễ phối hợp và giúp bên tôi chủ động hơn.": {
+    "en": "Instead of giving generic advice, they assess each shipment and recommend a suitable plan. This practical approach makes coordination easy and helps us plan ahead.",
+    "zh": "他们不提供笼统建议，而是针对每票货物制定合适方案。这种务实的做法方便合作，也让我们更能主动安排工作。"
+  },
   "Dịch vụ kỹ thuật nếu có.": {
     "en": "Engineering if available.",
     "zh": "(原始内容存档于2018-10-21). Engineering if available."
@@ -22159,9 +22391,17 @@
     "en": "Moving away is a very important matter for each family. So, when's the age of the Age of Smell move good? Please move Liu Li to refer to the following article, to know",
     "zh": "搬走对每个家庭来说都是一件非常重要的事。 闻道时代何时动好? 请移出刘立,引出下一文,以知之."
   },
+  "Dọn chuyển nhà là một vấn đề vô cùng quan trọng đối với mỗi gia đình. Vậy tuổi Kỷ Mùi dọn nhà ngày nào tốt? Hãy...": {
+    "en": "Moving house is an important event for every family. Which date is suitable for someone born in the Kỷ Mùi year?...",
+    "zh": "搬家对每个家庭都是重要的事。己未羊年出生者适合哪天搬家？……"
+  },
   "Dọn về nhà mới là bắt đầu một cuộc sống mới ở một địa chỉ mới. Chính vì vậy công đoạn chuẩn bị về nhà mới luôn được chú trọng đặc biệt là nghi lễ cúng về nhà mới. Nếu bạn muốn biết chi tiết, cụ thể hơn hãy đồng hành cùng chúng tôi qua bài viết sau đây.": {
     "en": "Moving home is starting a new life at a new address. This is why the preparations for the new home have always been particularly focused on the ceremony of the new home. If you would like to know the details, be more specific, accompany us through the following article.",
     "zh": "搬家是在新的地址开始新的生活. 正因为如此,新会馆的筹备始终特别以新会馆的典礼为主. 如果您想知道详情,请更具体地指出,请与我们一起通过下一条。"
+  },
+  "Dọn về nhà mới là bắt đầu một cuộc sống mới ở một địa chỉ mới. Chính vì vậy công đoạn chuẩn bị về nhà mới...": {
+    "en": "Moving to a new home marks the start of a new chapter. Preparing the new home and any traditional rituals...",
+    "zh": "乔迁新居标志着生活进入新阶段。新居准备及相关传统仪式……"
   },
   "Dụng cụ.": {
     "en": "Tools.",
@@ -22208,8 +22448,8 @@
     "zh": "基于蜜蜂的巢穴或蚂蚁栖息地来定位. 巢的厚地往往会有北向,而巢会转向东南或南向."
   },
   "EMAIL": {
-    "en": "Your emails",
-    "zh": "您的电子邮件"
+    "en": "Email",
+    "zh": "电子邮箱"
   },
   "EMS hàng hóa": {
     "en": "EMS freight",
@@ -22288,8 +22528,8 @@
     "zh": "离岸线是什么?"
   },
   "FOB là gì? - Điều kiện giao hàng FOB gồm những gì và được hiểu như thế nào?": {
-    "en": "What is FOB? - FOB delivery conditions include what and how are they understood?",
-    "zh": "离岸线是什么? - 离岸外包条件包括如何理解?"
+    "en": "What is FOB? Meaning and terms of FOB delivery",
+    "zh": "什么是FOB？FOB交货条件及其含义"
   },
   "FR là container vừa có thể mở nắp, vừa có thể mở cạnh để chở hàng siêu trường, siêu trọng, hàng hóa cồng kềnh.": {
     "en": "The FR is a container that can both open the lid, and also open the edge to carry super-fields, superstances, and goods.",
@@ -22339,9 +22579,21 @@
     "en": "GTK is the prestigious small volume delivery unit",
     "zh": "GTK是著名的小批量送货机"
   },
+  "GIAO HÀNG & XÁC NHẬN": {
+    "en": "DELIVERY & CONFIRMATION",
+    "zh": "交付与确认"
+  },
+  "GIAO NHẬN": {
+    "en": "PROCESS",
+    "zh": "流程"
+  },
   "GIÁ CƯỚC VẬN CHUYỂN": {
     "en": "THE FIGURAL",
     "zh": "数字"
+  },
+  "GIÁ TRỊ CỐT LÕI": {
+    "en": "CORE VALUES",
+    "zh": "核心价值观"
   },
   "GIẢI PHÁP": {
     "en": "HEAD",
@@ -22547,6 +22799,10 @@
     "en": "Note Location Other",
     "zh": "其他地点"
   },
+  "Ghi nhận đầy đủ thông tin để xác định đúng phương án giao nhận ngay từ đầu.": {
+    "en": "Collect all necessary details to select the right pickup and delivery plan from the start.",
+    "zh": "完整收集相关信息，从一开始就确定合适的收发货方案。"
+  },
   "Ghi nhớ thời gian làm việc của các đơn vị, một số đơn vị như Công Ty Vận Tải Lưu Lê nhận đơn hàng 24/24h, từ Thứ 2 - Thứ 7.": {
     "en": "Bearing in mind the time of the units' work, some units such as Media Co received the 24-hour order from Monday - Saturday.",
     "zh": "考虑到单位工作的时间,一些单位如Media Co从星期一至星期六收到24小时订单."
@@ -22590,6 +22846,10 @@
   "Gia chủ tuổi Giáp Thìn phải là người đầu tiên vào nhà mới.": {
     "en": "The master of the family must be the first to enter the new home.",
     "zh": "出家出家之师必先入出家."
+  },
+  "Gia cố hoặc hỗ trợ đóng gói": {
+    "en": "Reinforce or assist with packaging",
+    "zh": "加固或协助包装"
   },
   "Gia đình bạn sắp chuyển nhà Sài Gòn - Thừa Thiên Huế nhưng lại quá bận rộn với công việc? Thời gian chuyển nhà của bạn sắp đến nhưng bạn vẫn chưa có thời gian sắp xếp, đóng gói đồ đạc và liên hệ đơn vị vận chuyển? Dịch vụ chuyển nhà trọn gói Lưu Lê sẽ là phương án tối ưu dành cho bạn.": {
     "en": "Your family is about to move Saigon - the Divine Constabulary but is too busy at work? Your move time is near but you haven't had time to sort, pack things, and contact transport units? The transfer service of the full package Liu La will be your best option.",
@@ -22806,6 +23066,10 @@
   "Giao và nhận hàng đúng thời gian quy định trên gói cước.": {
     "en": "Deliver and pick up the package at the right time on the post.",
     "zh": "及时把包裹送到邮站拿回来"
+  },
+  "Giao đúng người, đúng địa chỉ": {
+    "en": "Deliver to the correct recipient and address",
+    "zh": "送达正确收货人及地址"
   },
   "Giao đơn hàng đến tay người nhận theo thời gian đã thỏa thuận trong hợp đồng. Đảm bảo an toàn cho hàng hóa khi di chuyển và báo cho khách hàng trước khoảng 1 – 2 tiếng khi hàng chuẩn bị đến.": {
     "en": "Delivering the order to the receiver in time had agreed on the contract. Secure the cargo when moving and informing the customer before about 1 – 2 hours when the package is ready to arrive.",
@@ -23775,6 +24039,10 @@
     "en": "High, unlimited goods import value;",
     "zh": "高、无限制的货物进口价值;"
   },
+  "Giá trị nội dung Kiến thức vận tải": {
+    "en": "Transport knowledge content",
+    "zh": "运输知识内容"
+  },
   "Giá trị tài sản, tức chiếc xe của bạn là phần trước thuế giá trị gia tăng": {
     "en": "The property value, your car is the pre-private part of increased value",
     "zh": "物业价值,你的车是增加值的私人前部分"
@@ -23808,8 +24076,8 @@
     "zh": "北南站列车的价格"
   },
   "Giá vé tàu hỏa Bắc Nam hiện nay có đắt không?": {
-    "en": "Is the current price for North South train tickets?",
-    "zh": "北南火车票的现价是多少?."
+    "en": "Are North–South train tickets expensive nowadays?",
+    "zh": "现在越南南北线火车票贵吗？"
   },
   "Giá vé tàu hỏa Sài Gòn - Hà Nội": {
     "en": "The Price of Saigon Trains - Hanoi",
@@ -23971,6 +24239,10 @@
     "en": "Business Solutions",
     "zh": "商业解决方案"
   },
+  "Giải pháp phù hợp cho đơn hàng chưa đủ nguyên chuyến.": {
+    "en": "Suitable solutions for shipments that do not fill an entire vehicle.",
+    "zh": "为不足整车的货物提供合适的运输方案。"
+  },
   "Giải pháp trước mắt là nên trang bị những thông tin về điều kiện thời tiết cũng như các trang thiết bị để đảm bảo an toàn về con người và tài sản. Ngoài ra, việc hư xe dọc đường cũng xảy ra khá thường xuyên nên cần trang bị thêm một số đồ nghề để phòng ngừa các sự cố xảy ra. Bên cạnh đó, sự dày dặn kinh nghiệm của tài xế cũng như thể trạng tốt cũng là yêu cầu đặt ra khi muốn có một chuyến đi an toàn.": {
     "en": "The immediate solution is to equip with information about weather conditions as well as equipment for safety of people and property. Also, road damages have taken place quite often, so some additional equipment is needed to prevent incidents. Besides, the driver's experience as well as his good condition is also the requirement to make a safe trip.",
     "zh": "立即的解决办法是提供有关天气状况的信息以及人员和财产安全的设备。 此外,道路经常被损坏,因此需要一些额外设备来防止事故。 此外,驾驶员的经验和良好的条件也是安全出行的要求."
@@ -24000,8 +24272,8 @@
     "zh": "快速解答媒体中常见的交通,送货,以及新闻价格等问题."
   },
   "Giải đáp thắc mắc biển cấm quay đầu có được rẽ trái không?": {
-    "en": "The question of whether the sea bans turning its head to turn left?",
-    "zh": "海洋是否禁止向左转?"
+    "en": "Can you turn left at a no-U-turn sign?",
+    "zh": "禁止掉头标志处可以左转吗？"
   },
   "Giải đáp thắc mắc khi chuyển nhà tại Quận 10 với dịch vụ chuyển nhà Lưu Lê.": {
     "en": "The question was answered when moving to District 10 with the move of Liu.",
@@ -24610,6 +24882,10 @@
   "Gọi Vận Tải Lưu Lê 0909 81 6625": {
     "en": "Call Media 0909 81 6625",
     "zh": "给媒体打电话 0909 81 6625"
+  },
+  "Gọi ngay Vận Tải Lưu Lê 0909 81 6625": {
+    "en": "Call Luu Le Transport now: 0909 81 6625",
+    "zh": "立即致电 Luu Le Transport：0909 81 6625"
   },
   "Gọi điện xác nhận thật kỹ càng với người nhận trước khi giao. Tránh để trường hợp đến nơi khách hàng không nhận hoặc không liên hệ được. Khi đó vừa mất công sức, thời gian và cả tiền bạc.": {
     "en": "Make sure to confirm with the receiver before delivery. Avoid making the situation available where the customer does not receive or is not involved. It was a waste of time, time, and money.",
@@ -25376,8 +25652,8 @@
     "zh": "要多久才能送出方庄园?"
   },
   "Gửi hàng xe Phương Trang mất bao lâu? - Thông tin chi tiết": {
-    "en": "How long is it going to take to send Fang Manor? - Details.",
-    "zh": "要多久才能送出方庄园? - 细节"
+    "en": "How long does it take to send goods with Phương Trang buses?",
+    "zh": "通过 Phương Trang 客车寄货需要多久？"
   },
   "Gửi hàng xe khách Sài Gòn Hà Nội": {
     "en": "Send the Saigon client",
@@ -25520,8 +25796,8 @@
     "zh": "在西贡站连夜送摩托车"
   },
   "Gửi xe máy qua đêm ở ga Sài Gòn như thế nào?": {
-    "en": "How do you send a motorcycle overnight in Saigon station?",
-    "zh": "在西贡站过夜怎么送摩托车?."
+    "en": "How to park a motorcycle overnight at Sài Gòn Railway Station",
+    "zh": "如何在西贡火车站过夜停放摩托车"
   },
   "Gửi xe máy từ Hà Nội vào Sài Gòn": {
     "en": "Send motorcycles from Hanoi to Saigon",
@@ -25540,8 +25816,8 @@
     "zh": "在西贡站发摩托车安全吗?."
   },
   "Gửi xe máy ở ga Sài Gòn có an toàn không?": {
-    "en": "Is it safe to send a motorcycle in Saigon Station?",
-    "zh": "在西贡站发摩托车安全吗?."
+    "en": "Is it safe to ship a motorcycle from Sài Gòn Railway Station?",
+    "zh": "从西贡火车站托运摩托车安全吗？"
   },
   "Gửi xe ô tô từ Hà Nội vào Sài Gòn": {
     "en": "Send cars from Hanoi to Saigon",
@@ -25550,6 +25826,10 @@
   "Gửi xe ô tô từ Sài Gòn ra Hà Nội": {
     "en": "Send cars from Saigon to Hanoi",
     "zh": "从西贡派车去河内"
+  },
+  "Gửi yêu cầu báo giá": {
+    "en": "Submit quotation request",
+    "zh": "提交报价申请"
   },
   "Gửi ô tô từ Hà Nội vào Sài Gòn": {
     "en": "Send cars from Hanoi to Saigon",
@@ -25584,8 +25864,8 @@
     "zh": "HCM(Gawaves) - HN(Gaf v 53.)"
   },
   "HOTLINE": {
-    "en": "HOTLINE",
-    "zh": "荷尔蒙"
+    "en": "Hotline",
+    "zh": "服务热线"
   },
   "HOTLINE:": {
     "en": "HOTLINE:",
@@ -26039,6 +26319,10 @@
     "en": "Currently, the railway industry has provided purchase solutions, ticket payments on the site platform and applications for smartphones and laptops. Since then, passengers can easily order train tickets and pay in various ways very convenient.",
     "zh": "目前,铁路行业已提供购买解决方案,在站台上支付票款,以及智能手机和笔记本电脑的应用. 此后,乘客可以轻松地订购火车票,并以各种方式支付非常方便."
   },
+  "Hiện nay, ngành đường sắt đã cung cấp các giải pháp mua, thanh toán vé tàu trên nền tảng website và các ứng dụng dành cho...": {
+    "en": "The railway industry now provides online ticket booking and payment through websites and mobile applications...",
+    "zh": "铁路行业现已通过网站及手机应用提供网上订票和支付服务……"
+  },
   "Hiện nay, nhu cầu gửi hàng hóa đi phương xa trở nên phổ biến và là nhu cầu cấp thiết của thị trường kinh doanh buôn bán. Do đó, có một điều mà mọi người đều lo lắng là các sản phẩm có giá trị cao như máy tính.": {
     "en": "Currently, the need for sending away goods became widespread and was a pressing demand for the business market. So the one thing that everybody's worried about is that products have as high value as computers.",
     "zh": "目前,寄出货物的需要已变得很普遍,是对商业市场的迫切需求。 所以,每个人都担心的一件事是, 产品的价值和计算机一样高。"
@@ -26286,6 +26570,14 @@
   "Hoàn toàn chịu trách nhiệm cho lô hàng vận chuyển cũng như cam kết hỗ trợ mọi yêu cầu phát sinh từ khách hàng.": {
     "en": "Complete responsibility for the freight shipment as well as commitment to support all requests arose from the customer.",
     "zh": "货运的全部责任以及支持所有请求的承诺均由客户承担。"
+  },
+  "Hoàn tất biên nhận, chứng từ liên quan": {
+    "en": "Complete delivery receipts and related documents",
+    "zh": "完成交货签收及相关单据"
+  },
+  "Hoàn tất chặng cuối đúng địa điểm và đầu mối nhận hàng đã thống nhất.": {
+    "en": "Complete final-mile delivery to the agreed location and designated recipient.",
+    "zh": "按约定将货物送达指定地点及收货联系人。"
   },
   "Hoàn tất công việc, khách hàng và người giám sát của Vận tải Lưu Lê sẽ tiến hành nghiệm thu, giải quyết khiếu nại nếu không may xảy ra sự cố đến từ nhân viên dịch vụ. Nếu không có vấn đề gì, khách hàng thanh toán chi phí dịch vụ.": {
     "en": "Completed the job, the customer and supervisor of Liu Transport will conduct the capture, resolve complaints if the incident occurs from the service staff. If there's no problem, customers pay their services fees.",
@@ -27067,6 +27359,14 @@
     "en": "Carton or pallet can arrange another car.",
     "zh": "卡通或托盘可以安排另一辆车."
   },
+  "Hàng chục": {
+    "en": "Dozens of",
+    "zh": "数十班"
+  },
+  "Hàng doanh nghiệp": {
+    "en": "Business cargo",
+    "zh": "企业货运"
+  },
   "Hàng dược phẩm, mỹ phẩm, hóa phẩm;": {
     "en": "Drug, cosmetics, cosmetics;",
     "zh": "药物、化妆品、化妆品;"
@@ -27455,6 +27755,10 @@
     "en": "The goods are widely sent and heavily loaded",
     "zh": "货物被广泛发送和大量装载"
   },
+  "Hàng hóa được kiểm soát trong quá trình tiếp nhận, lưu kho, trung chuyển và giao nhận. Với hàng có giá trị hoặc yêu cầu riêng, phương án bảo hiểm được áp dụng theo thỏa thuận và điều kiện của từng đơn hàng.": {
+    "en": "Cargo is monitored during receipt, storage, transfers and delivery. For high-value goods or special requirements, insurance arrangements are agreed according to the terms of each shipment.",
+    "zh": "从收货、仓储、中转到交付均对货物进行管理。对于高价值或有特殊要求的货物，按每票货物约定的条款安排保险。"
+  },
   "Hàng hóa được nhập khẩu qua đường tiểu ngạch chủ yếu là nông sản, và các loại hàng hóa giá trị nhỏ, hàng tiêu dùng phổ thông như quần áo, giày dép, đồ trang trí…": {
     "en": "The goods were imported through the urinary line are mainly farmers, and small-value goods, popular consumer goods such as clothing, shoes, ornaments...",
     "zh": "通过泌尿线进口的商品主要是农民,而小价值商品,服装,鞋等受欢迎的消费品,饰品. ."
@@ -27571,6 +27875,10 @@
     "en": "Row 2 usually has a variety of code, rich and large quantities. The category 2 could be the ones that look like the ones, but the quality is lower, the prices are lower. Or the templates usually catch up with the pace of fashion, and the life cycle of these waves is not usually permanent.",
     "zh": "第2行通常有多种代码,内容丰富而数量庞大. 第2类可能是外观相仿的,但质量更低,价格更低. 或者模板通常会赶上时尚的速度,这些波浪的生命周期通常不是永久的."
   },
+  "Hàng lẻ & hàng ghép": {
+    "en": "Less-than-truckload & consolidated cargo",
+    "zh": "零担与拼车货运"
+  },
   "Hàng máy móc, thiết bị, v.v...;": {
     "en": "Machines, equipment, etc. ;",
     "zh": "机器、设备等;"
@@ -27659,6 +27967,10 @@
     "en": "Bullets, weapons, drugs...",
     "zh": "子弹、武器、毒品..."
   },
+  "Hàng số lượng lớn": {
+    "en": "High-volume cargo",
+    "zh": "大批量货物"
+  },
   "Hàng theo mùa: Hàng vào mùa thấp điểm, mùa cao điểm, hàng mùa tết, hàng mùa gạo;": {
     "en": "Seasonal rows: Rows in the low season, the peak seasons, the seasons, the seasons of rice;",
     "zh": "季行:低季行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行行"
@@ -27715,6 +28027,10 @@
     "en": "The accompanying package must have an internal export or company stamping bill (for customers are companies);",
     "zh": "随附的包裹必须有内部出口或公司印花单(客户为公司);"
   },
+  "Hàng đi tuyến Bắc – Nam được tư vấn phù hợp, thời gian giao nhận rõ ràng và thông tin cập nhật xuyên suốt nên bên tôi rất dễ theo dõi.": {
+    "en": "Our North–South shipments are well advised, with clear delivery timelines and ongoing updates, making them easy to track.",
+    "zh": "我们的南北货运得到合理的运输建议，交付时间明确，途中持续更新信息，方便追踪。"
+  },
   "Hàng đã bắt đầu vận chuyển tuyến chính;": {
     "en": "Rows have begun shipping main routes;",
     "zh": "各行已开始运输主要路线;"
@@ -27734,6 +28050,10 @@
   "Hàng đã được xếp lên phương tiện hoặc toa tàu;": {
     "en": "The line was lined up on the vehicle or trailer;",
     "zh": "该线路排在车辆或拖车上;"
+  },
+  "Hàng đóng kiện & cồng kềnh": {
+    "en": "Crated & oversized cargo",
+    "zh": "木箱包装及大件货物"
   },
   "Hàng đóng kiện.": {
     "en": "Supplies.",
@@ -27762,6 +28082,10 @@
   "Hàng được lấy tại kho cũ và vận chuyển theo phương án đường bộ đến điểm giao.": {
     "en": "The cargo was taken at the old depot and transported by road plan to the intersection.",
     "zh": "货物被运入老仓库,按公路计划运至路口。"
+  },
+  "Hàng được sắp xếp theo tuyến và đặc tính để hạn chế nhầm lẫn khi trung chuyển.": {
+    "en": "Goods are grouped by route and characteristics to reduce mix-ups during transfers.",
+    "zh": "按运输路线和货物特点分类，以减少中转过程中的混淆。"
   },
   "Hàng được vận chuyển theo phương án đã chốt.": {
     "en": "The shipment is shipped by a closed plan.",
@@ -28195,6 +28519,10 @@
     "en": "Over 10 years of active service, Liu Liu has always received very positive feedback from his clients. This is the biggest incentive to keep Liu Liu alive and grow.",
     "zh": "在服现役10年多后,刘刘始终得到客户非常积极的回馈. 这是维持刘能活和成长的最大激励."
   },
+  "Hơn 10 năm kinh nghiệm cùng đội ngũ và năng lực vận hành giúp Lưu Lê vận chuyển an toàn, rõ ràng và hiệu quả.": {
+    "en": "With over 10 years of experience, a dedicated team and strong operational capabilities, Luu Le provides safe, transparent and efficient transport services.",
+    "zh": "凭借十余年经验、专业团队及运营实力，Luu Le 提供安全、透明、高效的运输服务。"
+  },
   "Hơn nữa, bạn cũng phải xác nhận lại các thông tin cơ bản của khách như số điện thoại, địa chỉ, tên để vận chuyển cho thật chính xác. Tránh trường hợp sai địa chỉ thất phải chuyển hướng hàng sẽ mất rất nhiều thời gian và công sức, tiền bạc.": {
     "en": "Furthermore, you must also verify the basic customer information such as the phone number, address, and name to deliver for accuracy. Avoiding the wrong address to divert the line takes a lot of time and effort, money.",
     "zh": "此外,您还必须核实基本的客户信息,如电话号码、地址和姓名,以便准确交付。 避免错误地址转移线路需要大量的时间和精力,金钱."
@@ -28308,8 +28636,8 @@
     "zh": "通过邮局将资金转入银行账户的指南"
   },
   "Hướng dẫn cách bảo quản vải thiều khi vận chuyển": {
-    "en": "Guide to how to preserve fabrics when transporting",
-    "zh": "运输时如何保存织物指南"
+    "en": "How to preserve lychees during transportation",
+    "zh": "荔枝运输过程中的保鲜方法"
   },
   "Hướng dẫn cách bọc xe máy để vận chuyển đảm bảo an toàn": {
     "en": "Guide how the motorcycle is wrapped for safety transport",
@@ -28356,8 +28684,8 @@
     "zh": "指导韩国钱怎么兑换成越南钱"
   },
   "Hướng dẫn di chuyển bàn thờ trong nhà ĐÚNG CÁCH, bạn nên biết": {
-    "en": "Guide to move the altar in your home",
-    "zh": "指导你家的祭坛"
+    "en": "How to move a household altar correctly: A practical guide",
+    "zh": "如何正确搬移家中神龛：实用指南"
   },
   "Hướng dẫn di chuyển bàn thờ đúng cách": {
     "en": "Guide to Move the Altar Right",
@@ -28384,8 +28712,8 @@
     "zh": "由A1(由175c以下的摩托车)重制指南"
   },
   "Hướng dẫn thủ tục đổi bằng lái xe ô tô online chi tiết": {
-    "en": "Detailed automotive driver's license manual",
-    "zh": "汽车驾驶执照手册"
+    "en": "Step-by-step guide to renewing a car driving licence online",
+    "zh": "网上换领汽车驾驶证详细指南"
   },
   "Hướng dẫn tra cứu mã vận đơn giao hàng tiết kiệm": {
     "en": "Search Guide for Single Transportation Codes Save",
@@ -28655,6 +28983,10 @@
     "en": "Liu Li's truck system is available nationwide, ready for freight, furniture serving the need for moving at the customer's Tin Chi. Large-sized furniture will be packed, trucked with large trucks so secure in quality, commitment not to malfunction during the process.",
     "zh": "刘力出行的货车系统全国可通,已备好货运,家具服务,满足顾客\"天池\"出行需要. 大型家具将被包装,卡车上装有质量如此安全的大型卡车,承诺在这一过程中不发生故障。"
   },
+  "Hệ thống xe tải phục vụ lấy hàng, trung chuyển và giao hàng tại hai đầu Bắc – Nam giúp nâng cao khả năng chủ động trong giao nhận.": {
+    "en": "Our truck fleet supports pickup, transfers and delivery across northern and southern Vietnam, giving us greater flexibility and control.",
+    "zh": "车队在越南南北两端提供取货、中转与配送服务，提升收发货的灵活性和主动性。"
+  },
   "Hệ thống xe, thiết bị hiện đại, đảm bảo an toàn tối đa cho hàng hóa.": {
     "en": "Car system, modern equipment, maximum safety guarantee for goods.",
     "zh": "汽车系统,现代设备,货物最大安全保障."
@@ -28763,6 +29095,10 @@
     "en": "Profiles, important documents.",
     "zh": "简介,重要文件."
   },
+  "Hỗ Trợ Toàn Quốc": {
+    "en": "Nationwide Support",
+    "zh": "全国支持"
+  },
   "Hỗ trợ bốc xếp.": {
     "en": "Cover up.",
     "zh": "盖取之."
@@ -28794,6 +29130,10 @@
   "Hỗ trợ khách hàng với các hình thức vận tại khác nhau.": {
     "en": "Support the customer with different forms of transportation.",
     "zh": "支持客户进行不同形式的运输."
+  },
+  "Hỗ trợ lưu kho và trung chuyển": {
+    "en": "Storage and transfer services",
+    "zh": "仓储与中转支持"
   },
   "Hỗ trợ miễn phí bốc xếp tại hai đầu ga Hà Nội và Sài Gòn;": {
     "en": "Free support set at both Hanoi and Saigon stations;",
@@ -28839,6 +29179,14 @@
     "en": "Full support for all requests of the customer.",
     "zh": "全力支持客户的所有请求。"
   },
+  "Hỗ trợ vận chuyển Bắc – Nam và giao nhận theo yêu cầu.": {
+    "en": "North–South transport with pickup and delivery on request.",
+    "zh": "提供南北运输及按需收发货服务。"
+  },
+  "Hỗ trợ xuyên suốt đơn hàng": {
+    "en": "Support throughout each shipment",
+    "zh": "全程运输支持"
+  },
   "Hỗ trợ đền bù 100% thiệt hại nếu phát sinh rủi ro.": {
     "en": "Assistance compensates 100% of the damage if there is a risk.",
     "zh": "如果有危险,援助将100%地补偿损害。"
@@ -28858,6 +29206,10 @@
   "Hộp kép hay còn gọi là đóng nhiều hộp để bảo vệ hàng hóa dễ vỡ. Hộp đựng hàng dễ vỡ được khuyến cáo nên có độ dài ít nhất 6 inch. Bạn có thể sử dụng thêm vật liệu lót dưới đáy hộp và xung quanh, đặt ở giữa hộp để hạn chế hàng hóa va đập.": {
     "en": "The double box is also known as boxing boxes to protect fragile goods. The fragile container is recommended to have at least six inches in length. You can use more underwear materials at the bottom of the box and around, put them in the middle of the box to limit the cargo of the dam.",
     "zh": "双箱又被称作\"保护易碎货物的箱\". 建议易碎的容器至少有6英寸长. 在盒子底部和周围可以多用多用内衣材料,放入盒子中间来限制大坝的货物."
+  },
+  "Hợp tác": {
+    "en": "Cooperation",
+    "zh": "合作"
   },
   "Hợp tác với đơn vị gửi hàng chuyên nghiệp, uy tín luôn là mong muốn của nhiều người khi có nhu cầu vận chuyển hàng. Đặc biệt là với những tuyến đường dài như Hà Nội - KCN Long Sơn lại càng quan trọng hơn vì chất lượng hàng hóa cũng phụ thuộc vào sự uy tín của đơn vị vận tải. Vậy làm thế nào để chọn được đơn vị phù hợp?": {
     "en": "Cooperating with the professional delivery unit, prestige has always been the desire of many when the demand for transportation is greater. Especially with long routes such as Hanoi - KNN Long Shan is more important because the quality of goods also depends on the prestige of the transport unit. So how do we pick the appropriate unit?",
@@ -29415,9 +29767,25 @@
     "en": "KD01 – KD02 – KD03",
     "zh": "KD01 — KD02 — KD03 (英语)."
   },
+  "KHAI THÁC ĐƯỜNG SẮT HÀNG TUẦN": {
+    "en": "WEEKLY RAIL FREIGHT OPERATIONS",
+    "zh": "每周铁路货运运营"
+  },
+  "KHO BÃI HAI ĐẦU BẮC – NAM": {
+    "en": "WAREHOUSES IN NORTHERN AND SOUTHERN VIETNAM",
+    "zh": "南北两地仓储网络"
+  },
   "KHÁCH HÀNG": {
     "en": "BIRTHER",
     "zh": "比尔"
+  },
+  "KIM CHỈ": {
+    "en": "GUIDING",
+    "zh": "指导"
+  },
+  "KIẾN THỨC": {
+    "en": "KNOWLEDGE",
+    "zh": "知识"
   },
   "KIỆN >= 200KG": {
     "en": "GPL >=200G",
@@ -29583,6 +29951,10 @@
     "en": "When there is a demand for freight by rail or to refer to the cost of shipping, sending vehicles by rail, you may be able to communicate directly with the cargo management to ask for information.",
     "zh": "有铁路货运需求或者提及运输成本,铁路发车时,可以直接与货物管理部门联系查询."
   },
+  "Khi có thay đổi về thời gian, địa điểm giao nhận hoặc sự cố trong quá trình vận chuyển, bộ phận phụ trách phối hợp với khách hàng để lựa chọn phương án xử lý phù hợp và hạn chế ảnh hưởng đến đơn hàng.": {
+    "en": "If pickup or delivery times, locations or transport conditions change, our team coordinates with the customer to select a suitable solution and minimise disruption.",
+    "zh": "如收发货时间、地点发生变化或运输途中出现异常，我们将与客户协商合适的解决方案，尽量降低对货运订单的影响。"
+  },
   "Khi có vấn đề ảnh hưởng đáng kể đến lịch trình, Vận Tải Lưu Lê sẽ chủ động kiểm tra và phối hợp thông tin với khách hàng để hai bên có kế hoạch xử lý phù hợp.": {
     "en": "When a problem significantly affects the schedule, the Archives will take the initiative to check and coordinate information with the customer so that the two parties will have suitable planning.",
     "zh": "当一个问题严重影响时间表时,档案馆将主动与客户核对和协调信息,使双方有适当的规划."
@@ -29648,8 +30020,8 @@
     "zh": "发送或订购时,我们在乎多久? 需要多少天时间? 我们好好相处..."
   },
   "Khi gửi hàng hoặc đặt hàng, điều chúng ta quan tâm nhất là thời gian chuyển bao lâu? Chuyển phát nhanh mất mấy ngày? Hãy cùng...": {
-    "en": "When sending or ordering, how long do we care? How many days will it take? Let's...",
-    "zh": "发送或订购时,我们在乎多久? 需要多少天时间? 让我们..."
+    "en": "When sending or ordering goods, one key question is the delivery time. How many days does express delivery take?...",
+    "zh": "寄货或网购时，人们最关心的问题之一就是配送时间。那么快递通常需要几天？……"
   },
   "Khi gửi hàng sẽ có mã vận đơn, thông tin thường được lưu theo tài khoản bạn đăng ký với đơn vị vận chuyển. Thông tin nhận hàng ghi chính xác và theo dõi tình trạng đơn hàng tại đây.": {
     "en": "When delivery will have single-coded, information is usually saved according to the account you register with the transport unit. Information picks up the score and monitors the order status here.",
@@ -30124,8 +30496,8 @@
     "zh": "在运输货物时,需要掌握未翻译货物清单。 这样过程就不会发生故障和困难..."
   },
   "Khi vận chuyển hàng hóa, bạn cần nắm được danh mục hàng hóa cấm lưu thông. Để không bị gặp trục trặc, khó khăn trong quá...": {
-    "en": "When transporting goods, you need to get a grip on the list of non-translated goods. So that there's no trouble, the difficulty in being so...",
-    "zh": "在运输货物时,需要掌握未翻译货物清单。 这样就不会有麻烦了, 很难成为这样..."
+    "en": "When transporting goods, it is important to understand which items are prohibited from circulation to avoid problems...",
+    "zh": "运输货物时，了解禁止流通的物品清单十分重要，以免在运输过程中遇到问题……"
   },
   "Khi vận chuyển hàng hóa, thời gian này sẽ lâu hơn so với vận chuyển người do các đơn vị cần có thực hiện theo một quy trình chuyển hàng chuyên nghiệp, đảm bảo hàng hóa đến tận tay người nhận nguyên vẹn.": {
     "en": "When transporting goods, this time will be longer than the human transport required by units according to a professional delivery process, ensuring the cargo to the recipient's hand intact.",
@@ -30142,6 +30514,10 @@
   "Khi xe tới kho mới, đối chiếu theo danh sách thay vì kiểm lại từ đầu.": {
     "en": "When the car reaches the new depot, the cross-reference is based on the list instead of checking from the top.",
     "zh": "当汽车到达新车站时,交叉引用依据列表而不是从上方检查."
+  },
+  "Khi xảy ra mất mát hoặc hư hỏng thuộc trách nhiệm vận chuyển, việc xác minh và đền bù được thực hiện căn cứ hợp đồng, biên nhận, chứng từ giá trị hàng hóa và mức trách nhiệm đã thống nhất.": {
+    "en": "If loss or damage falls under the carrier's responsibility, verification and compensation are based on the contract, delivery records, proof of cargo value and agreed liability limits.",
+    "zh": "如发生承运方责任范围内的货物丢失或损坏，核实及赔偿将依据合同、交接凭证、货值证明及约定的责任限额进行。"
   },
   "Khi xếp hàng lên xe vận chuyển, các thùng hàng chứa đồ dễ vỡ cần đặt cách xa nhau để đảm bảo an toàn nhất": {
     "en": "When lined up on a transport truck, the containers of easily broken items needed to be set apart to ensure the safest",
@@ -30204,8 +30580,8 @@
     "zh": "在国际上订购\"斯克皮\"时,在南宁仓库看到订单. 南宁仓库在哪里,航运..."
   },
   "Khi đặt hàng quốc tế trên Shopee, các bạn thấy đơn hàng của mình đang ở kho Nam Ninh. Vậy kho Nam Ninh ở đâu, vận...": {
-    "en": "When you order internationally on Shopee, you see your orders in the South Ning warehouse. So where is the South Ning warehouse?",
-    "zh": "在国际上订购\"斯克皮\"时,在南宁仓库看到订单. 南宁仓库在哪里?"
+    "en": "When ordering internationally on Shopee, you may see that your parcel is at Nanning Warehouse. Where is it, and how long will delivery take?...",
+    "zh": "在 Shopee 购买跨境商品时，您可能看到包裹位于南宁仓。那么南宁仓在哪里，运到越南需要多久？……"
   },
   "Khi đến ngân hàng, bạn sẽ được hướng dẫn lựa chọn các dịch vụ cần thực hiện và rút số tự động. Tương ứng với mỗi dịch vụ là một cửa có nhân viên chuyên trách sẽ xử lý dịch vụ đó cho bạn. Hiện nay, hầu hết các ngân hàng đều triển khai hệ thống lấy số tự động như vậy. Do đó, bạn cần lấy số ngay khi đến ngân hàng để tránh chờ đợi.": {
     "en": "When you arrive at the bank, you will be instructed to select services to perform and draw the automatic number. Compensating each service is a door with employees who will handle that service for you. Currently, most banks deploy the system to take such an automatic number. Therefore, you need to get the number as soon as you get to the bank to avoid waiting.",
@@ -30244,8 +30620,12 @@
     "zh": "南宁宝地在何处."
   },
   "Kho Nam Ninh ở đâu? Vận chuyển hàng về Việt Nam mất bao lâu?": {
-    "en": "Where is the South Ning Treasure? How long was the delivery back to Vietnam?",
-    "zh": "南宁宝地在何处. 送货回越南多久了?"
+    "en": "Where is Nanning Warehouse? How long does shipping to Vietnam take?",
+    "zh": "南宁仓在哪里？运送到越南需要多久？"
+  },
+  "Kho bãi hỗ trợ tập kết, phân loại, lưu hàng và trung chuyển giúp quá trình vận tải được tổ chức linh hoạt và chủ động hơn.": {
+    "en": "Our warehouses support consolidation, sorting, storage and transfers, enabling flexible and proactive transport operations.",
+    "zh": "仓库支持集货、分拣、存储与中转，使运输组织更灵活、更高效。"
   },
   "Kho bãi trữ hàng của Lưu Lê đều đáp ứng được mọi điều kiện của khách hàng. Hàng hóa được lưu trữ trong kho rộng rãi, khô thoáng và không bị ảnh hưởng bởi thời tiết.": {
     "en": "Liu La's warehouses meets all client requirements. The goods are stored in large, dry, and unintended by the weather.",
@@ -30268,8 +30648,8 @@
     "zh": "船库在哪里?"
   },
   "Kho trung chuyển Hà Nội 02 ở đâu? Thông tin chi tiết": {
-    "en": "Where's the shipping depot? Details Information",
-    "zh": "船库在哪里? 详细信息"
+    "en": "Where is Hanoi Transfer Warehouse 02? Detailed information",
+    "zh": "河内02号中转仓库在哪里？详细信息"
   },
   "Kho tại Sài Gòn → xe tải lấy → ga khu vực phía Nam → đường sắt Bắc Nam → ga khu vực Hà Nội → xe tải giao → kho mới.": {
     "en": "Archived in Saigon - A truck retrieved - 10 South Area Station - 10 North Southbound Railroad - (10th) The Hanoi area station - 10 new storage truck.",
@@ -31119,6 +31499,10 @@
     "en": "Customers may ask:",
     "zh": "顾客可以问:"
   },
+  "Khách hàng có đầu mối liên hệ để trao đổi và cập nhật tình trạng đơn hàng trong quá trình vận chuyển, giúp chủ động hơn trong kế hoạch nhận hàng và phối hợp giao nhận.": {
+    "en": "Customers have a designated contact for shipment status updates and coordination, helping them plan receipt and delivery more effectively.",
+    "zh": "客户可通过指定联系人了解运输状态并协调收发货，以便更主动地安排接货计划。"
+  },
   "Khách hàng có đầu mối liên hệ để trao đổi và cập nhật tình trạng đơn hàng trong quá trình vận chuyển. Khi có thay đổi về lịch trình hoặc giao nhận, bộ phận phụ trách sẽ phối hợp thông tin để khách hàng chủ động kế hoạch.": {
     "en": "Clients have contacts to exchange and update the single status during transport. When a change of schedule or delivery is made, the responsibilities department will coordinate information so that the customer will take the initiative to plan.",
     "zh": "客户在运输过程中有联系人来交换和更新单项状态. 变更时间表或交付时,责任部门会协调信息,使客户主动进行规划."
@@ -31334,6 +31718,10 @@
   "Không biết loại xe?": {
     "en": "Don't know the car?",
     "zh": "不认识那辆车?"
+  },
+  "Không bắt buộc": {
+    "en": "Optional",
+    "zh": "选填"
   },
   "Không bị giới hạn về khối lượng cũng như số lượng hàng hóa.": {
     "en": "There is no limit on mass as well as the amount of goods.",
@@ -31740,8 +32128,8 @@
     "zh": "如何能听到和平的祈祷?"
   },
   "Khối lượng": {
-    "en": "Volume",
-    "zh": "数量"
+    "en": "Weight",
+    "zh": "重量"
   },
   "Khối lượng hoặc thể tích ước tính.": {
     "en": "The volume or volume of estimates.",
@@ -32119,6 +32507,10 @@
     "en": "The Experience of Sending Railways",
     "zh": "发送铁路的经验"
   },
+  "Kinh nghiệm hàng nặng, cồng kềnh, máy móc": {
+    "en": "Experience with heavy, oversized cargo and machinery",
+    "zh": "擅长重货、超大件及机械设备运输"
+  },
   "Kinh nghiệm khi gửi hàng Hà Nội – KCN Nhựt Chánh": {
     "en": "Experiences when sending Hanoi – KCNCN Chief",
     "zh": "派遣河内-朝中社长的经验"
@@ -32134,6 +32526,10 @@
   "Kinh nghiệm lựa chọn đơn vị Gửi hàng Hà Nội - KCN Bắc Đồng Phú uy tín": {
     "en": "Experience of Selecting the Send Division of Hanoi - KNN North Plains of Fame",
     "zh": "选择河内派遣司的经验-KNN北部名人平原"
+  },
+  "Kinh nghiệm tích lũy qua nhiều năm giúp Lưu Lê chủ động xử lý đa dạng tuyến đường, nhóm hàng và tình huống phát sinh trong vận chuyển.": {
+    "en": "Years of experience enable Luu Le to handle different routes, cargo types and unexpected situations with confidence.",
+    "zh": "多年的经验使 Luu Le 能够主动应对不同线路、货物类型及运输中的突发情况。"
   },
   "Kinh nghiệm vận chuyển lâu năm, cùng thái độ làm việc cẩn trọng, nghiêm túc của nhân viên.": {
     "en": "Long-time transportation experience, the same careful, serious working attitude of the staff.",
@@ -32179,6 +32575,10 @@
     "en": "Jiang",
     "zh": "阿强"
   },
+  "Kiến thức thực tế giúp vận chuyển hàng hóa an toàn, tiết kiệm và hiệu quả hơn.": {
+    "en": "Practical insights for safer, more economical and efficient freight transport.",
+    "zh": "分享实用知识，让货运更安全、更经济、更高效。"
+  },
   "Kiến trúc thiết kế của Hải Phòng được định hướng theo phong cách tân cổ điển nên có sự đối xứng chặt chẽ giữa các chi tiết. Công trình nổi bật ở trung tâm bởi hai phần nhô ra hai bên. Các chi tiết trang trí cột sắt có hoa văn kiểu mái hiên mang hơi hướng cổ điển từ những ngày đầu xây dựng vẫn còn nguyên vẹn, ngay cả mặt đường lát đá xanh có từ năm 1902.": {
     "en": "The design of the Customs Hall is directed in the classical new style, so there should be a tight advocacy between the details. The work stands out in the centre by two segments of the dipping. The ornamental details of the iron column have a somewhat archaic-style garland style that dates back to the early days of construction are still intact, even the blue paved road that dates back to 1902.",
     "zh": "海关厅的设计取向于古典新风格,所以细节之间应该有严格的宣传. 水滴的两个部分在中央突出。 铁柱的装饰细节具有某种古老风格的外观外观风格,可以追溯到早期的建筑,甚至可以追溯到1902年的蓝色铺面道路也仍然完好无损."
@@ -32210,6 +32610,10 @@
   "Kiểm soát tiến độ khi chuyển kho xưởng từ Sài Gòn ra Hà Nội": {
     "en": "Control Progress when moving the warehouse from Saigon to Hanoi",
     "zh": "仓库从西贡迁到河内时的控制进度"
+  },
+  "Kiểm soát tiến độ và giao nhận": {
+    "en": "Shipment progress and delivery control",
+    "zh": "运输进度及交付管控"
   },
   "Kiểm tra - Đóng gói - Ký hiệu hàng hoá": {
     "en": "Check - Packing - goods sign",
@@ -32254,6 +32658,10 @@
   "Kiểm tra tiến độ đơn hàng;": {
     "en": "Check for single-order progress;",
     "zh": "检查单顺序进度;"
+  },
+  "Kiểm tra tình trạng bên ngoài": {
+    "en": "Check external condition",
+    "zh": "检查货物外观状况"
   },
   "Kiểm tra và chỉnh phao xăng": {
     "en": "Check and adjust gas tanks",
@@ -32314,6 +32722,10 @@
   "Kí hiệu của Shop.": {
     "en": "Shop Signs.",
     "zh": "商店标志。"
+  },
+  "Kích thước / Thể tích": {
+    "en": "Dimensions / Volume",
+    "zh": "尺寸／体积"
   },
   "Kích thước bên ngoài: dài 12m, rộng 2.43m và cao 2.89m.": {
     "en": "Outside size: 12 m long, 2.43 m wide and 2.89 m tall.",
@@ -32543,6 +32955,18 @@
     "en": "Connect areas:",
     "zh": "连接区域 :"
   },
+  "Kết nối doanh nghiệp trong sản xuất, phân phối và vận chuyển hàng hóa toàn quốc.": {
+    "en": "Connecting businesses in manufacturing, distribution and nationwide freight transport.",
+    "zh": "连接全国制造、分销及货运企业。"
+  },
+  "Kết nối khách hàng, kho bãi và ga hàng": {
+    "en": "Connecting customers, warehouses and freight stations",
+    "zh": "连接客户、仓库与货运车站"
+  },
+  "Kết nối thuận tiện với ga và xe tải": {
+    "en": "Convenient connections to rail stations and trucks",
+    "zh": "便捷连接铁路货站与卡车"
+  },
   "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
     "en": "Connect with Media via Official Channels.",
     "zh": "通过官方频道与媒体连接."
@@ -32552,8 +32976,8 @@
     "zh": "计算后的建立信任措施结果必须转换为立方公尺单位(m3)。 即1个建立信任措施=1立方米。"
   },
   "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
-    "en": "The result was expected. Liu Downloads will check and confirm the level of pickup before transport.",
-    "zh": "预期结果。 刘下载会在运输前检查并确认皮卡等级."
+    "en": "The displayed rate is an estimate. Luu Le Transport will review and confirm the final rate before shipping.",
+    "zh": "显示的运费仅为预估。Luu Le Transport 将在发运前审核并确认最终费用。"
   },
   "Kết thúc quá trình vận chuyển đến địa điểm yêu cầu, khách hàng sẽ tiến hành kiểm tra lại đồ đạc đã vận chuyển. Sau đó nghiệm thu và thanh toán. Các chi phí do chúng tôi báo giá trọn gói sẽ không phát sinh thêm bất kỳ chi phí nào khi vận chuyển.": {
     "en": "Ending the transport process to the required location, the customer will proceed with a re-check of the cargo. Then take and pay. The costs due to us inform us that the full price of the package will not raise any further costs for transportation.",
@@ -32767,6 +33191,10 @@
     "en": "Link",
     "zh": "链接"
   },
+  "Logistics": {
+    "en": "Logistics",
+    "zh": "物流"
+  },
   "Logo Vận Tải Lưu Lê": {
     "en": "Archived Transportation",
     "zh": "存档运输"
@@ -32819,6 +33247,10 @@
     "en": "The type of roof-opening container is designed to resemble the name, without the roof part and instead the cover will use the sheet to cover it. This is also a container line used to carry construction equipment, or long-body wood. Instead of taking the goods as usual, using the cont to open the roof, people would line up with cranes through the roof, due to the characteristics of these goods over 650/6, the normal size of the cont door cannot be passed.",
     "zh": "打开屋顶的容器类型设计得与名称相似,没有屋顶部分,而封面会使用床单来覆盖. 这也是一条用来运载建筑设备,或长身木的集装箱线. 由于这些货物超过650/6的特性,不能通过吊顶门的正常尺寸,人们不但没有照常取货,而是用吊顶打开屋顶,而是用吊顶排成队。"
   },
+  "Loại hàng cần vận chuyển": {
+    "en": "Type of cargo to transport",
+    "zh": "货物类型"
+  },
   "Loại hàng hóa sẽ vận chuyển.": {
     "en": "The kind of goods that would move.",
     "zh": "那种会移动的货物。"
@@ -32826,6 +33258,10 @@
   "Loại hàng thứ hai và trả lời cho câu hỏi hàng loại 1 là gì của các bạn chính là loại hàng cũng thuộc phân khúc cao cấp, là những mặt hàng khá hiếm và tỷ lệ lỗi rất hiếm, sản xuất với số lượng ít. Đây là một nguồn hàng khá giới hạn, với mẫu mã đa dạng, đáp ứng được thị yếu của rất nhiều ngừoi tiêu dùng, đặc biệt là ở Việt Nam. Về chất lượng thì các mặt hàng này rất tốt, được sản xuất theo quy trình hiện đại và nếu muốn sở hữu mặt hàng này để bán thì bạn phải canh săn. Số lượng giới hạn, có giấy tờ vận chuyển sản xuất rõ ràng để đi theo đường chính ngạch.": {
     "en": "The second category and the answer to the question of what type 1 is yours is that the goods are also of the senior category, are relatively rare items and the errors are very rare, produced in very small quantities. This is a fairly limited source of goods, with a variety model, which meets the point of a lot of consumption, especially in Vietnam. Limited quantities, which have clear production documents to follow the front line.",
     "zh": "第二类和对什么是1型的问题的答案是,货物也是高级类别,是相对罕见的物品,而且错误非常罕见,生产量很小. 这是一个相当有限的商品来源,有多种型号,符合许多消费点,特别是在越南. 数量有限,有明确的生产文件跟随前线."
+  },
+  "Loại hàng, số lượng, kích thước": {
+    "en": "Cargo type, quantity and dimensions",
+    "zh": "货物类型、数量及尺寸"
   },
   "Loại hình vận chuyển hàng hóa bằng container đang là hình thức vận chuyển hàng hóa được sử dụng khá phổ biến hiện nay, với nhiều lợi ích vượt trội hơn hẳn các loại hình vận tải khác như đảm bảo chất lượng hàng hóa tốt hơn, quãng đường vận chuyển được xa hơn, cũng như tiết kiệm chi phí và số lượng vận chuyển được nhiều hơn. Tuy nhiên, để vận tải hàng hóa bằng container phát triển được như hiện nay thì đã trải qua quá trình lịch sử lâu dài, chúng ta hãy cùng tìm hiểu xem để hiểu rõ hơn về đặc điểm của loại hình vận tải này nhé.": {
     "en": "The container freight form is currently a form of transport that is fairly popular now, with far more advantages than other form of transportation such as ensuring better quality of goods, the distance of transportation is further available, as well as the cost saving and the amount of transportation is greater. However, in order for container goods to be developed as it is now, through the long-term history, let's learn a little bit more about the characteristics of this type of transportation.",
@@ -33799,6 +34235,10 @@
     "en": "Liu Liu supports moving furniture, refrigerators, television,",
     "zh": "刘刘支持移动家具,冰箱,电视,"
   },
+  "Lưu Lê khai thác hàng chục mác tàu mỗi tuần theo hợp đồng với ngành đường sắt, tạo năng lực vận chuyển ổn định cho tuyến Bắc – Nam.": {
+    "en": "Under its agreements with the railway sector, Luu Le operates dozens of rail freight services each week, providing stable North–South transport capacity.",
+    "zh": "根据与铁路行业签订的协议，Luu Le 每周运营数十班铁路货运服务，为南北干线提供稳定运力。"
+  },
   "Lưu Lê luôn cam kết thực hiện đúng mọi điều khoản trong hợp đồng như đã thống nhất. Đồng thời, Lưu Lê cũng thay đổi linh hoạt khi bạn có nhu cầu hoặc có vấn đề phát sinh do những nguyên nhân khách quan, nhằm đảm bảo tiến độ vận chuyển, an toàn đồ đạc.": {
     "en": "Liu La has always committed to fulfill all the terms of the contract as agreed. At the same time, Liu Liu also changes flexiblely when you have a need or a problem that arises due to objective causes, which are intended to ensure transport, safety, and safety.",
     "zh": "刘拉一直致力于按照约定履行合同的所有条款. 同时,刘刘亦在因客观原因有需要或出现问题时灵活改变,意在保证运输,安全,安全."
@@ -34403,6 +34843,10 @@
     "en": "Taking the blue color as the lead color for the Vietnam Railroad logo, the Vietnam Railroad logo carved the image of the ship that ran long and always forward. And behind it is the VNR notation (the Vietnamese Railroad Company) that manifests the state's stability. At present, with the release of this mainstream Vietnamese Railroad logo will help to avoid confusion, or forge for other railroads.",
     "zh": "以蓝色作为越南铁道标志的铅色,越南铁道标志雕刻了飞船长而始终向前的形象. 其背后是VNR注音(越南铁道公司),显示国家的稳定. 目前,随着这一主流越南铁路标志的发布,将有助于避免混淆,或者伪造其他铁路."
   },
+  "Lấy và giao hàng tận nơi": {
+    "en": "Door-to-door pickup and delivery",
+    "zh": "上门取货和送货"
+  },
   "Lấy – giao tận nơi.": {
     "en": "Take – deliver to place.",
     "zh": "把东西送到地方"
@@ -34471,6 +34915,10 @@
     "en": "How much does a driver's license cost?",
     "zh": "驾照要多少钱?"
   },
+  "Lịch khai thác thường xuyên mỗi tuần": {
+    "en": "Regular weekly operating schedules",
+    "zh": "每周定期运营"
+  },
   "Lịch làm việc Ga Hà Nội như thế nào?": {
     "en": "What's the Ga Hanoi's schedule?",
     "zh": "伽河内节度使如何."
@@ -34486,6 +34934,10 @@
   "Lịch làm việc khu B, Ga Hà Nội: Từ 5h10 - 6h, 8h - 11h30, 14h - 17h30 từ Thứ 2 - Chủ nhật.": {
     "en": "Section B, Ga Hanoi: From 5h10 - 6h, 8:30, 14h - 1730 from Monday - Sunday.",
     "zh": "B节 加河内:5h10-6h,8:30,14h-1730从周一-17:30."
+  },
+  "Lịch nhận hàng, thời gian vận chuyển dự kiến và kế hoạch giao hàng được trao đổi trước khi thực hiện. Khi có yếu tố khách quan ảnh hưởng tiến độ, khách hàng được chủ động thông báo để phối hợp xử lý.": {
+    "en": "Pickup schedules, estimated transit times and delivery plans are discussed in advance. If external factors affect progress, customers are proactively informed so both parties can coordinate a response.",
+    "zh": "我们会提前沟通取货时间、预计运输时效及交付计划。如客观因素影响进度，将主动通知客户并协调应对。"
   },
   "Lịch sử hình thành bến xe khách Thái Nguyên": {
     "en": "History forms the Thai guest terminal",
@@ -34578,6 +35030,10 @@
   "Lộ trình": {
     "en": "Path",
     "zh": "路径"
+  },
+  "Lộc Trời": {
+    "en": "Lộc Trời",
+    "zh": "Lộc Trời"
   },
   "Lộc tài được tăng tiến, tâm đạo được mở mang": {
     "en": "The talent is increased, the heart is enlarged",
@@ -35123,6 +35579,10 @@
     "en": "Screen needs protection.",
     "zh": "屏幕需要保护。"
   },
+  "Mác tàu khai thác mỗi tuần": {
+    "en": "Rail freight services operated each week",
+    "zh": "每周运营的货运列车班次"
+  },
   "Mách bạn dịch vụ chuyển nhà Sài Gòn - Bình Thuận trọn gói uy tín nhất hiện nay": {
     "en": "Tip you to move Saigon - Ping Shun's most prestigious package",
     "zh": "提示你移动西贡——平顺最有声望的套装"
@@ -35142,6 +35602,10 @@
   "Máy móc": {
     "en": "Machine",
     "zh": "机器"
+  },
+  "Máy móc & thiết bị": {
+    "en": "Machinery & equipment",
+    "zh": "机械与设备"
   },
   "Máy móc + hàng hóa + đường vào + phương tiện + nâng hạ + khung giờ + thời gian ngừng sản xuất.": {
     "en": "Machine + goods + line in + vehicle + lift + time frame + time stop production.",
@@ -35539,6 +36003,10 @@
     "en": "Front of the 2000 yen is the Shurei City portal in Naha, Okinawa",
     "zh": "2000年日元的前身是冲绳纳哈的舒雷城门户"
   },
+  "Mẹo gửi hàng": {
+    "en": "Shipping tips",
+    "zh": "寄货小贴士"
+  },
   "Mẹo gửi hàng từ Hà Nội - KCN An Phú cửa khẩu Mộc Bài đảm bảo": {
     "en": "Tips sent from Hanoi - KCN An Funky portal",
     "zh": "从河内发送的提示 - KCN 一个Funky门户网站"
@@ -35627,6 +36095,10 @@
     "en": "All information, regulations about returning train tickets are always of interest to customers. So what's the percentage? To answer this question, please refer to the following article, we will answer the most detail.",
     "zh": "所有关于返还火车票的信息,法规,始终是客户感兴趣的. 那么这个比例是多少? 为了回答这个问题,请参看以下条款,我们将回答最详细的问题。"
   },
+  "Mọi thông tin, quy định về đổi trả vé tàu luôn luôn được khách hàng quan tâm. Vậy trả vé tàu mất bao nhiêu phần trăm?...": {
+    "en": "Passengers are interested in train ticket changes and refund rules. So how much is deducted when a train ticket is refunded?...",
+    "zh": "旅客十分关心火车票改签及退票规定。那么退票时会扣除多少费用呢？……"
+  },
   "Mọi thắc mắc về": {
     "en": "All Questions About",
     "zh": "所有问题"
@@ -35652,8 +36124,12 @@
     "zh": "2000年之后每250克g"
   },
   "Mỗi Chuyến Hàng": {
-    "en": "Every Row",
-    "zh": "每行"
+    "en": "Every Shipment",
+    "zh": "每一票货物"
+  },
+  "Mỗi Chuyến Hàng - Một Niềm Tin": {
+    "en": "Every Shipment, A Promise of Trust",
+    "zh": "每一票货物，都是一份信任"
   },
   "Mỗi doanh nghiệp cung cấp dịch vụ vận chuyển hàng hóa trong và ngoài nước sẽ có chế độ bảo hiểm hàng hóa khác nhau. Vì vậy, trước khi tiến hành ký hợp đồng bạn nên tìm hiểu kỹ vấn đề bảo hiểm hàng hóa của doanh nghiệp. Đa phần các công ty này sẽ đền bù phí vận chuyển và chia sẻ một phần thiệt hại về hàng hóa cho quý khách hàng trong trường hợp khách không mua bảo hiểm hàng hóa.": {
     "en": "Each business that provides transportation services within and abroad will have different cargo insurance modes. So, before you go ahead and sign a contract, you should get to the bottom of business insurance. Most of these companies will compensate for transportation fees and share some of the damage to the customers in case the customers don't buy the cargo insurance.",
@@ -35687,9 +36163,17 @@
     "en": "Every move to a new place, almost every family will have to.",
     "zh": "每次搬到一个新地方,几乎每个家庭都不得不这样做。"
   },
+  "Mỗi khi chuyển đến chỗ ở mới, hầu như gia đình nào cũng sẽ phải di chuyển bàn thờ trong nhà nhưng làm sao để di...": {
+    "en": "When moving to a new home, many families need to relocate their household altar. How should this be done?...",
+    "zh": "乔迁新居时，许多家庭需要搬移家中神龛。应该如何处理？……"
+  },
   "Mỗi khi ra các tuyến đường bạn có thể nhìn thấy xe máy, xe ô tô có biển số 37. Vậy biển số xe 37 ở đâu? Tỉnh thành đó có gì nổi bật? cùng chúng tôi tìm hiểu qua bài viết sau đây bạn sẽ có câu trả lời thỏa đáng nhất.": {
     "en": "Every time you go to the routes you can see the motorcycle, the car has a number 37 plate. So where's car number 37? What is prominent about that city? You will find out in the following article the most satisfying answer.",
     "zh": "每次前往可以看见摩托车的路线时,车牌号为37. 37号车呢? 那座城市有什么突出之处? 你将在以下文章中找到最令人满意的答案。"
+  },
+  "Mỗi khi ra các tuyến đường bạn có thể nhìn thấy xe máy, xe ô tô có biển số 37. Vậy biển số xe 37 ở...": {
+    "en": "You may often see vehicles with licence plate code 37 on the road. Which province does this code represent?...",
+    "zh": "您可能经常在路上看到37号车牌。那么它属于哪个省？……"
   },
   "Mỗi kiểu hàng hóa có phí vận chuyển khác nhau. Vì vậy, để xác định được chính xác chi phí gửi hàng cần xác định mặt hàng mà mình muốn gửi là chất lỏng, đồ dễ vỡ, thư tín hay các mặt hàng có giá trị cao.": {
     "en": "Each type of goods has different shipping fees. Therefore, to determine the exact cost of the delivery to identify the goods you want to send are liquids, fragile items, mail or high value items.",
@@ -35783,6 +36267,10 @@
     "en": "Every municipality in the country has a number, fixed code to identify the vehicles registered in that province. The plate is called the motor vehicle control sign, the municipality will have different license plates that make it easy to identify. In addition to the list of city codes across the country, you may not yet know the information about car notation, mechanical functions. Under this article, Liu Li transport will share with you this interesting information.",
     "zh": "全国每个市镇都有一个编号、固定代码,以识别在该省登记的车辆。 车牌称为机动车控制标志,市政府会有不同的牌照,便于识别. 除全国城市代码列表外,您可能还不知道有关汽车标识,机械功能的信息. 本條目下,刘力运输会与你分享这个有趣的信息."
   },
+  "Mỗi đơn hàng được tổ chức theo từng bước cụ thể, giúp kiểm soát thông tin, thời gian và trách nhiệm xuyên suốt quá trình giao nhận.": {
+    "en": "Each shipment follows a clear process, with information, timelines and responsibilities tracked from pickup to delivery.",
+    "zh": "每票货物均按照清晰的流程安排，确保从取货到交付全过程的信息、时间和责任清晰可控。"
+  },
   "Mỗi đơn vị vận chuyển hàng hóa đều có các ưu nhược điểm riêng. Tùy theo nhu cầu và lượng hàng hóa cần gửi mà bạn có thể chọn cho mình một đơn vị vận chuyển phù hợp. Nếu trường hợp bạn có nhiều hàng hóa nặng hay mặt hàng đặc thù cần vận chuyển đến nhiều địa điểm khác nhau trên cả nước thì việc cân nhắc kỹ đơn vị vận chuyển là điều cần thiết giúp tiết kiệm chi phí và đảm bảo chất lượng hàng hóa.": {
     "en": "Each delivery unit has its own strengths. Depending on the need and the amount of goods to send that you can choose for yourself a suitable transportation unit. If you have a lot of special goods or items that need to be transported to a variety of locations throughout the country, then careful consideration of the transportation unit is necessary to save costs and secure goods.",
     "zh": "每个送货单位都有自己的优势. 根据需要和发送货物的数量,您可以自行选择合适的运输单位. 如有大批特殊货物或物品需要运往全国各地各地的,要认真考虑运输单位,节约成本,保障货物安全."
@@ -35800,8 +36288,8 @@
     "zh": "台湾有多少钱?"
   },
   "Một Niềm Tin": {
-    "en": "A Faith",
-    "zh": "一个信仰"
+    "en": "A Promise of Trust",
+    "zh": "一份信任"
   },
   "Một bill of lading mẫu cần những thông tin gì?": {
     "en": "What kind of information is needed by a sample?",
@@ -36299,6 +36787,10 @@
     "en": "A single row – a suitable solution:",
     "zh": "单行——一个合适的解决方案:"
   },
+  "Một đơn hàng – một phương án phù hợp: Lưu Lê ưu tiên cân bằng giữa an toàn, khả năng giao nhận, thời gian, chi phí và đặc thù tuyến vận chuyển.": {
+    "en": "One shipment, one suitable solution: Luu Le balances safety, pickup and delivery requirements, transit time, cost and route conditions.",
+    "zh": "一票货物，一套合适方案：Luu Le 综合考虑安全、收发货条件、时效、成本及线路特点。"
+  },
   "Một đơn vị gửi hàng Hà Nội - KCN Tân Thuận uy tín, sẽ giúp đỡ bạn trong mọi quy trình. Bạn sẽ không phải đau đầu từng khâu như bốc vác hàng thế nào, lựa chọn hình thức nào chuyển,... Hơn nữa, họ cũng đảm bảo thời gian và chất lượng hàng hóa nguyên khi đến tay người nhận.": {
     "en": "A sending unit sent to Hanoi - the prestigious KNNN Tan Shun, will help you in any process. You wouldn't have to have a headache like how to load, what form to move,... Moreover, they also ensure the time and quality of the raw goods by reaching the receiver.",
     "zh": "派到河内的一个派遣单位 - 著名的KNNN Tan Shun, 会帮助你的任何过程。 你不需要头痛 像如何装载, 什么形式移动, 此外,它们也通过到达接收方来确保原材料的时间和质量。"
@@ -36563,6 +37055,10 @@
     "en": "N is the day of receiving from the sender.",
     "zh": "N是发件人的收件日."
   },
+  "NAM": {
+    "en": "PRINCIPLES",
+    "zh": "方针"
+  },
   "NC": {
     "en": "NC",
     "zh": "净"
@@ -36574,6 +37070,10 @@
   "NET (có thể là PAYLOAD hoặc MAX.C.W). Trọng lượng hàng tối đa đóng vào container": {
     "en": "NET (may be PAYLOAD or MAX.C.W). Maximum load deposits into container",
     "zh": "NET(可能是PAYLOAD或MAX.C.W). 集装箱内最大负荷矿床"
+  },
+  "NHẬN HÀNG & KIỂM ĐẾM": {
+    "en": "Pickup & Item Check",
+    "zh": "取货与清点"
   },
   "NHỮNG CÂU HỎI LIÊN QUAN THƯỜNG GẶP VỀ GA GIÁP BÁT?": {
     "en": "WHAT IS THE REVIECTIONS ABOUT GAD?",
@@ -36598,6 +37098,10 @@
   "Nam Ninh là nơi tập trung nhiều khu công nghiệp lớn. Bên cạnh đó, địa điểm này cũng không quá xa với cửa khẩu lớn ở Việt Nam, nên thuận tiện cho việc vận chuyển hàng hóa từ Trung Quốc về Việt Nam.": {
     "en": "South India is a large industrial complex. Besides, the site is not too far from the large port in Vietnam, so it's convenient for shipping goods from China back to Vietnam.",
     "zh": "南印度是一个大型工业综合体. 此外,遗址距离越南大港不远,因此方便从中国运回越南的货物."
+  },
+  "Nam Thái Sơn Group": {
+    "en": "Nam Thái Sơn Group",
+    "zh": "Nam Thái Sơn Group"
   },
   "Nam mô a di Đà Phật!": {
     "en": "Pao-Yeh-Yeh!",
@@ -37255,6 +37759,10 @@
     "en": "The appointment date;",
     "zh": "任命日期;"
   },
+  "Ngày dự kiến gửi": {
+    "en": "Planned shipping date",
+    "zh": "预计发货日期"
+  },
   "Ngày giao thực tế;": {
     "en": "Real day;",
     "zh": "实际天数;"
@@ -37599,6 +38107,10 @@
     "en": "Many do not yet know how to read the container position in order to be precise, as quickly as possible. The following article will provide the most detailed support for you to learn. Follow and join us.",
     "zh": "许多人还不知道如何读取集装箱位置,以便尽快准确。 以下文章将为您提供最详尽的学习支持. 跟着我们"
   },
+  "Nhiều người chưa biết cách đọc vị trí container sao cho chính xác, nhanh chóng nhất. Bài viết sau đây sẽ hỗ trợ chi tiết nhất...": {
+    "en": "Many people are unsure how to read container positions correctly. The following article provides detailed guidance...",
+    "zh": "许多人不知道如何正确识别集装箱位置。下文将提供详细指导……"
+  },
   "Nhiều người khá phân vân khi lựa chọn dịch vụ chuyển nhà Sài Gòn - Thừa Thiên Huế trọn gói bởi e ngại chi phí quá cao. Khách hàng có thể hoàn toàn yên tâm vì Lưu Lê luôn cố gắng đem đến cho khách hàng dịch vụ vận chuyển chất lượng với mức phí được điều chỉnh ở mức tối thiểu.": {
     "en": "Many people are quite confused when choosing Saigon's move-up service - the God-given H package because they're afraid the costs are too high. The customer can be entirely secure because Liu Liu is always trying to give the customer a quality transportation service at a minimum rate.",
     "zh": "许多人在选择西贡的升迁服务时相当困惑——神赐H包,因为他们担心成本太高. 顾客可以完全安全,因为刘刘总是试图以最低的费率为顾客提供高质量的运输服务."
@@ -37787,9 +38299,17 @@
     "en": "The demand for trade among the provinces grew. So many people want to know.",
     "zh": "各省之间的贸易需求增加。 这么多人想知道"
   },
+  "Nhu cầu giao thương giữa các tỉnh ngày càng cao. Nên rất nhiều người muốn biết cách ship hàng đi tỉnh như nào cho an toàn,...": {
+    "en": "With interprovincial trade increasing, more people want to know how to ship goods safely and efficiently...",
+    "zh": "随着跨省贸易日益活跃，越来越多人希望了解如何安全、高效地寄送货物……"
+  },
   "Nhu cầu giao thương hàng hóa, di chuyển, du lịch giữa TP Hồ Chí Minh và Bạc Liêu ngày càng nhiều. Do đó, rất nhiều người quan tâm": {
     "en": "The demand for goods trade, transportation, travel between the TP Ho Chi Minh and the Silver Minth grew more and more. So a lot of people care.",
     "zh": "TP胡志明号与银明号之间的货物贸易,运输,旅行需求不断增长. 故众生大意."
+  },
+  "Nhu cầu giao thương hàng hóa, di chuyển, du lịch giữa TP Hồ Chí Minh và Bạc Liêu ngày càng nhiều. Do đó, rất nhiều người quan...": {
+    "en": "Trade, transport and travel between Ho Chi Minh City and Bạc Liêu are in high demand. As a result, many people...",
+    "zh": "胡志明市与薄辽之间的贸易、运输及旅行需求较大，因此许多人……"
   },
   "Nhu cầu gửi hàng Hà Nội - KCN AGTEX Long Bình": {
     "en": "The need to send Hanoi - KNC AGTEX Long Ping",
@@ -38203,6 +38723,10 @@
     "en": "The demand for passengers traveling from Hanoi to Hwa is overwhelming. With such a long distance to ensure safety and convenience. Most people choose to ride trains. Then",
     "zh": "对从河内到华的旅客的需求是压倒性的. 长途跋涉以确保安全和方便。 大多数人选择坐火车. 礛"
   },
+  "Nhu cầu hành khách đi từ Hà Nội đến Huế là rất đông. Với quãng đường dài như vậy để đảm bảo an toàn và thuận...": {
+    "en": "Many passengers travel between Hanoi and Huế. Over this distance, ensuring a safe and convenient journey...",
+    "zh": "河内与顺化之间旅客众多。对于这一较长距离，保障安全便捷的旅程……"
+  },
   "Nhu cầu ship hàng đi các tỉnh khác vô cùng cao": {
     "en": "The need for cargo to the other provinces is extremely high",
     "zh": "对运往其他省份的货物的需求极高"
@@ -38264,8 +38788,8 @@
     "zh": "从TP,济明湖到其他省份的摩托车运输需求不断增加. 大多数人会选择派车..."
   },
   "Nhu cầu vận chuyển xe máy từ TP. Hồ Chí Minh đến các tỉnh thành khác ngày càng nhiều. Hầu hết mọi người sẽ chọn gửi...": {
-    "en": "The demand for the transport of motorcycles from TP, Lake Chi Minh to other provinces is increasing. Most people would choose to send...",
-    "zh": "从TP,济明湖到其他省份的摩托车运输需求不断增加. 大多数人会选择发送..."
+    "en": "Demand for motorcycle transport from Ho Chi Minh City to other provinces continues to grow. Many people choose to send...",
+    "zh": "从胡志明市向其他省份运输摩托车的需求不断增加。许多人选择……"
   },
   "Nhu cầu vận chuyển đồ đạc nhà cửa tại quận Tân Bình diễn ra khá sôi động. Đây là khu vực tập trung đông dân cư, dân lao động nhiều, tình trạng không ổn định chỗ ở cần di chuyển giữa các khu vực trong quận là điều hết sức dễ hiểu.": {
     "en": "The demand for housing items in the New Pacific district took place was quite dynamic. This is a densely populated area, a large workforce, a state of unrest that needs to be moved between areas of the district.",
@@ -38350,6 +38874,10 @@
   "Nhân sự kỹ thuật không kịp lắp đặt.": {
     "en": "Engineering didn't set up in time.",
     "zh": "工程没有及时设置."
+  },
+  "Nhân sự phối hợp vận hành và phục vụ": {
+    "en": "Operations and customer service personnel",
+    "zh": "运营及客户服务人员"
   },
   "Nhân viên Lưu Lê luôn được có kinh nghiệm được đào tạo thường xuyên, thái độ thân thiện tư vấn nhiệt tình và chu đáo cho khách hàng.": {
     "en": "Liu Pearson staff are always well-trained, a warm and thoughtful manner of counseling for customers.",
@@ -38555,6 +39083,18 @@
     "en": "The last number group for the old motorcycle is 4 digits, the new motorcycle is 5 digits. This is the number of car registrations, which are randomly selected using the system when the driver arrives and clicks the number.",
     "zh": "老摩托车的最后一组数字是4位数,新摩托车是5位数. 这是汽车注册的数量,在驾驶员到达并点击号码时使用系统随机选择."
   },
+  "Nhóm ý kiến 1": {
+    "en": "Review group 1",
+    "zh": "第1组评价"
+  },
+  "Nhóm ý kiến 2": {
+    "en": "Review group 2",
+    "zh": "第2组评价"
+  },
+  "Nhóm ý kiến 3": {
+    "en": "Review group 3",
+    "zh": "第3组评价"
+  },
   "Như bạn thấy, số tiền càng cao thì phí chuyển tiền càng lớn nhưng nhìn chung về mệnh giá tiền vẫn tương đối rẻ. Ngoài ra, bạn có thể chuyển nhiều tiền trong một lần giao dịch, đây là ưu điểm mà các cây ATM của ngân hàng không làm được.": {
     "en": "As you can see, the higher the amount of money, the greater the cost of the money, but generally the price of the money, remained relatively cheap. Also, you can move a lot of money in one transaction, and this is the advantage that bank ATM trees can't do.",
     "zh": "可见,钱币数额越高,钱币成本越高,但一般情况下,钱币价格仍然相对便宜. 另外,你可以在一次交易中移动大量资金,这也是银行自动取款机树无法做到的优势."
@@ -38616,8 +39156,8 @@
     "zh": "多么容易损坏的货物"
   },
   "Như thế nào là hàng dễ vỡ xin nhẹ tay? Lưu ý vận chuyển hàng an toàn": {
-    "en": "What's the easy one to break? Note Safety Transportation",
-    "zh": "何为易破. 安全运输"
+    "en": "What does “Fragile – Handle with Care” mean? Safe shipping tips",
+    "zh": "“易碎品，请轻拿轻放”是什么意思？安全运输提示"
   },
   "Như trên đã đề cập, trong lượng hoàng hóa được tính cước dựa trên đơn vị là tấn hoặc kg. Đặc biệt, trong lượng hàng hóa chính là trọng lượng kể cả bao bì bên ngoài gói hàng. Khi đó, tất cả những thứ báo bọc cố định vào kiện hàng sẽ buộc phải tính phí dựa vào trọng lượng.": {
     "en": "As noted above, in the amount of imperialization that is calculated in units is ton or kilogram. In particular, in the main amount of goods is the weight including the envelope outside the package. At that time, all the regular coverage of the package will be forced to charge weight-based fees.",
@@ -39003,6 +39543,10 @@
     "en": "Import Contents to Find...",
     "zh": "导入要查找的内容..."
   },
+  "Nhập số điện thoại": {
+    "en": "Enter your phone number",
+    "zh": "输入电话号码"
+  },
   "Nhập thêm thông tin yêu cầu, dựa vào biên nhận hay hợp đồng đã ký kết. Chỉ một vài thao tác nhỏ, nhấn OK hay Tra Cứu để gửi yêu cầu lên hệ thống. Tiếp theo sẽ xuất hiện cửa sổ liên kết cùng với trang tra cứu lịch của hàu hãng sẽ hiện lên. Từ kết quả hiển thị này, bạn có thể thấy được thông tin chi tiết về hàng hoá của mình.": {
     "en": "Enter additional requirements information, based on a signed receipt or contract. Only a few minor manipulations, OK or Rescue to send requests to the system. The next will appear as a link with the company's schedule search page will appear. From this display result, you can see detailed information about your goods.",
     "zh": "根据签署的收据或合同输入额外要求信息。 只有几个小的操纵,OK或救援向系统发送请求. 下一个会作为链接与公司时间表搜索页面出现. 从这个显示结果中,您可以看到您的商品的详细信息."
@@ -39034,6 +39578,10 @@
   "Nhập đầy đủ thông tin mã số container để nhận được kết quả chính xác nhất.": {
     "en": "Enter full container code information to get the most accurate results.",
     "zh": "输入完整的容器代码信息以获取最准确的结果."
+  },
+  "Nhập địa chỉ email": {
+    "en": "Enter your email address",
+    "zh": "输入电子邮箱地址"
   },
   "Nhắc đến Bình Dương chắc hẳn người ta sẽ nghĩ ngay đến một trung tâm kinh tế trọng điểm tại khu vực miền Nam. Nền kinh tế Bình Dương được đánh giá là phát triển vượt bậc với nhiều nhà máy, xí nghiệp cả trong và ngoài nước.": {
     "en": "Referring to the Pacific would probably be thought of as a major economic center in the South Region, the Pacific economy being rated as being overdeveloped with many plants, factories both domestic and overseas.",
@@ -39440,8 +39988,8 @@
     "zh": "在为十岁小孩选择移动日期时注意"
   },
   "Những lưu ý khi cúng về nhà mới bạn đã biết chưa?": {
-    "en": "Have you learned about the attention you give to your new home?",
-    "zh": "你了解你对新家的重视吗?"
+    "en": "What to know about housewarming offerings and rituals",
+    "zh": "关于新居入宅祭拜习俗的注意事项"
   },
   "Những lưu ý khi gửi hàng Hà Nội - KCN Khánh Bình": {
     "en": "Notes on shipping Hanoi - KNNEEEE",
@@ -39468,8 +40016,8 @@
     "zh": "通过邮局发送笔记本电脑时的说明"
   },
   "Những lưu ý khi gửi xe máy ở bến xe Miền Đông": {
-    "en": "Notes when sending a motorcycle at the Eastern Railroad",
-    "zh": "在东方铁路送摩托车时的注解"
+    "en": "What to know about parking a motorcycle at Miền Đông Bus Station",
+    "zh": "在东部客运站停放摩托车的注意事项"
   },
   "Những lưu ý khi tìm kiếm vị trí container": {
     "en": "Notes when searching for container positions",
@@ -39590,6 +40138,10 @@
   "Những năm gần đây ta được chứng kiến sự phát triển kinh tế đang kinh ngạc của nhiều tỉnh thành trong đó có Bắc Giang. Kinh tế phát triển kéo theo nhiều lĩnh vực khác có cơ hội vực dậy đặc biệt là dịch vụ": {
     "en": "In recent years, I have witnessed the amazing economic development of many of the provinces of North Jiang. Development economy drags with many other fields opportunities to rise especially services",
     "zh": "近年来,我目睹了北江许多省份的惊人经济发展. 发展经济拖累许多其他领域,特别是服务业。"
+  },
+  "Những phản hồi thực tế từ khách hàng giúp quý khách đánh giá nhanh chất lượng phục vụ của Vận Tải Lưu Lê.": {
+    "en": "Real customer feedback helps you assess Luu Le Transport's service quality.",
+    "zh": "真实客户反馈帮助您快速了解 Luu Le Transport 的服务质量。"
   },
   "Những phụ kiện đắt tiền nên đánh dấu và bảo quản cẩn thận.": {
     "en": "The expensive accessors should mark and preserve carefully.",
@@ -39782,6 +40334,10 @@
   "Những ưu điểm vượt trội khi bạn thực hiện theo cách đăng ký giao hàng tiết kiệm bạn sẽ được hưởng có thể kể đến:": {
     "en": "The advantage is superior when you do it the way the delivery registers save you'll be able to include:",
     "zh": "这样做的好处是,你这样做的方式 送货登记册,你能够包括:"
+  },
+  "Nhựa Long Thành": {
+    "en": "Nhựa Long Thành",
+    "zh": "Nhựa Long Thành"
   },
   "Ninh Bình": {
     "en": "Ninh Ping",
@@ -40063,6 +40619,10 @@
     "en": "As far as transportation is concerned, each unit has its own strength, whose unit specializes in the method of railway transport, has a unit that specializes in the road, has a unit specializing in the sealine or has a unit specializing in the airway (the fast-fire). In addition to selecting the appropriate unit, therefore, it is good to choose the method of transportation that suits the type of goods you need to transport.",
     "zh": "在运输方面,每个单位都有自己的力量,其单位专门掌握铁路运输方法,设有专管公路的单位,设有专管海上航线的单位或者设有专管空中航线的单位(快火). 因此,除了选择适当的单位外,最好选择适合所需运输货物的运输方法。"
   },
+  "NĂNG LỰC TẠO NÊN SỰ KHÁC BIỆT": {
+    "en": "CAPABILITIES THAT SET US APART",
+    "zh": "我们的核心竞争优势"
+  },
   "Năm 2008 đã chuyển 2 xí nghiệp đầu máy: Hà Nội, Đà Nẵng sang Liên hiệp sức kéo Đường sắt.": {
     "en": "In 2008 moved the two locomotives: Hanoi, Da Nang to the Constance of the Railroad.",
     "zh": "2008年将两台机车:河内机车,大南机车移至铁道康定."
@@ -40082,6 +40642,10 @@
   "Năm Hợi là chòm sao thứ 12 và cuối cùng trong chiêm tinh học phương Đông. Mạnh mẽ, có phần thô lỗ và đặc biệt vui vẻ là những đặc điểm chung của những người tuổi Kỷ Hợi. Giản dị, trung thực, dũng cảm, được nhiều người mến mộ.": {
     "en": "The year Helsinki was the 12th and last constellation in Eastern astrology. Strong, somewhat rude and particularly cheerful are the common characteristics of the Hofy Agers. eccentric, honest, brave, popularized.",
     "zh": "赫尔辛基是东方占星学的第12个也是最后一个星座. 强壮的,有些粗鲁的,特别令人高兴的是霍菲·阿格尔斯人的共同特征. 古怪,诚实,勇敢,大众化."
+  },
+  "Năm kinh nghiệm vận chuyển thực tế": {
+    "en": "Years of hands-on transport experience",
+    "zh": "实际运输经验年数"
   },
   "Năm sinh 1904, 1964 gọi là Giáp Thìn, thuộc mệnh Hỏa": {
     "en": "The year 1904, 1964 called the Jiaran of Fire.",
@@ -40103,9 +40667,25 @@
     "en": "The Year of 1952, 2012 called \"Ninem Tan\", is a Marine.",
     "zh": "1952年,2012年,名为\"Ninem Tan\",是一名海军陆战队员."
   },
+  "Năng Lực Thực Tế – Cam Kết Rõ Ràng – Trách Nhiệm Đến Cùng": {
+    "en": "Proven Capabilities – Clear Commitments – Responsibility Through to Delivery",
+    "zh": "扎实实力－明确承诺－责任贯彻始终"
+  },
   "Năng lực vận chuyển của công ty được các khách hàng cũ đánh giá cao.": {
     "en": "The company's transportation capacity is appreciated by former customers.",
     "zh": "该公司的运输能力受到前顾客的赞赏."
+  },
+  "Năng lực vận hành chỉ thực sự có giá trị khi đi kèm cam kết cụ thể. Vận Tải Lưu Lê chú trọng các yếu tố giúp khách hàng kiểm soát được tiến độ, chi phí, tình trạng hàng hóa và trách nhiệm trong từng đơn hàng.": {
+    "en": "Operational capabilities matter only when backed by specific commitments. Luu Le Transport focuses on helping customers control delivery schedules, costs, cargo condition and accountability for every shipment.",
+    "zh": "运营能力必须以明确的承诺为保障。Luu Le Transport 重视帮助客户掌握每票货物的时效、费用、货况与责任划分。"
+  },
+  "Nơi giao hàng": {
+    "en": "Delivery location",
+    "zh": "送货地址"
+  },
+  "Nơi lấy hàng": {
+    "en": "Pickup location",
+    "zh": "取货地址"
   },
   "Nơi đi": {
     "en": "Places",
@@ -40695,6 +41275,10 @@
     "en": "If the freight units introduced above will be very familiar to you, retail sales units will be consistent with the product of the Viettel Post, the store delivery... while the Archives Transport is again the unit that provides services, large goods for individuals, the production business.",
     "zh": "如果上面介绍的货运单位会令你非常熟悉,零售销售单位将会与\"越南邮报\"的产品,商店的交付一致. 而档案运输部门又是提供服务,个人大宗商品,生产业务的单位."
   },
+  "Nếu có": {
+    "en": "If applicable",
+    "zh": "如适用"
+  },
   "Nếu có bất kỳ sự cố nào xảy ra do lỗi của Lưu Lê, công ty cam kết sẽ nhận lỗi và bồi thường thiệt hại theo đúng thỏa thuận và quy định của pháp luật. Nếu muốn biết thêm thông tin chi tiết về dịch vụ": {
     "en": "If any incident occurs due to Liu's fault, the company pledges to admit the error and compensate the damage due to the agreement and regulations of the law. For more information about service",
     "zh": "如因刘某的过错发生事故,公司承诺承认错误,并赔偿因同意和法律规定造成的损害. 关于服务的更多信息"
@@ -41155,6 +41739,10 @@
     "en": "Indulge",
     "zh": "隐居"
   },
+  "Nội dung / Ghi chú": {
+    "en": "Details / Notes",
+    "zh": "内容／备注"
+  },
   "Nội dung chính của điều kiện giao hàng FOB": {
     "en": "The main content of the FOB delivery conditions",
     "zh": "FOB交付条件的主要内容"
@@ -41238,6 +41826,18 @@
   "Open Container: hay còn được gọi là Container mở.": {
     "en": "Open Container: also known as the Open Container.",
     "zh": "开放集装箱:又称开放集装箱."
+  },
+  "PHƯƠNG THỨC VẬN CHUYỂN": {
+    "en": "Transport Method",
+    "zh": "运输方式"
+  },
+  "PHẠM VI PHỤC VỤ": {
+    "en": "SERVICE SCOPE",
+    "zh": "服务范围"
+  },
+  "PHỐI HỢP XỬ LÝ PHÁT SINH": {
+    "en": "COORDINATED ISSUE RESOLUTION",
+    "zh": "异常情况协调处理"
   },
   "POD": {
     "en": "POD",
@@ -41324,12 +41924,16 @@
     "zh": "看你多大年纪的习俗,已经成为越南文化,看vims的习惯,看你多大年纪,年龄,颜色......"
   },
   "Phong tục xem tuổi đã trở thành văn hóa Việt Nam, thói quen xem tử vi, xem tuổi này sinh năm bao nhiêu, hợp tuổi nào,...": {
-    "en": "The custom of seeing how old you are has become a Vietnamese culture, the habit of looking at the virus, see how old you are, what age you are...",
-    "zh": "看你几岁就成了越南文化,看病毒的习惯,看你几岁,几岁......"
+    "en": "Checking zodiac signs and birth years has become part of Vietnamese culture. Many people consult horoscopes and compatibility before...",
+    "zh": "查看生肖和出生年份已成为越南文化的一部分，许多人会在……之前参考命理与属相是否相合。"
   },
   "Phà là một chiếc thuyền hay tàu có thể chở khách và chở hàng. Đây là hình thức vận chuyển hàng hóa giá rẻ thường hoạt động khu vực sông, bờ biển và diễn ra khá phổ biến.": {
     "en": "Every boat or vessel can carry guests and freight. This is a cheap form of freight that normally operates the river area, the coast, and takes place quite common.",
     "zh": "每艘船或船只可以载客和货运. 这是一种廉价的货运形式,通常运营河流地区,海岸,并相当常见."
+  },
+  "Phát triển": {
+    "en": "Growth",
+    "zh": "共同发展"
   },
   "Phát triển các ngành công nghiệp luyện kim gắn với lợi thế về tài nguyên, nguồn nguyên liệu; các ngành công nghiệp gắn với khai thác cảng biển, công nghiệp thép, trung tâm nhiệt điện và lọc hóa dầu.": {
     "en": "Developing the refinery industries attached to resource advantage, resources; industries attached to sea port mining, steel industries, electricity centers, and oil filtering.",
@@ -41358,6 +41962,10 @@
   "Phân bón hay các loại giống cây trồng nằm ở ngoài danh sách được phép sử dụng, sản xuất, hoặc kinh doanh, lưu thông của Việt Nam.": {
     "en": "The fertilizer or other types of plant species are outside the list allowed to use, produce, or business, Vietnam's flow.",
     "zh": "肥料或其他种类的植物物种不在允许使用,生产,或经商的名录之内."
+  },
+  "Phân công rõ ràng theo từng công đoạn": {
+    "en": "Clear responsibilities at every stage",
+    "zh": "各环节职责明确"
   },
   "Phân loại": {
     "en": "Category",
@@ -41394,6 +42002,10 @@
   "Phân loại ngay từ đầu giúp việc giao tại Hà Nội nhanh hơn.": {
     "en": "Classifications from the beginning helped handover at Hanoi faster.",
     "zh": "从一开始,分类就有助于加快河内移交工作。"
+  },
+  "Phân loại theo tuyến": {
+    "en": "Sort by route",
+    "zh": "按线路分类"
   },
   "Phân loại trước": {
     "en": "Previous Category",
@@ -41783,6 +42395,14 @@
     "en": "Appropriate for those with the need to move their homes in short range in the District of Peace.",
     "zh": "适用于那些需要在和平区短期内搬家的人。"
   },
+  "Phù hợp hàng nặng và hàng số lượng lớn": {
+    "en": "Suitable for heavy and high-volume cargo",
+    "zh": "适合重货及大批量货物"
+  },
+  "Phù hợp hàng nặng, thiết bị và hàng có kích thước lớn.": {
+    "en": "Suitable for heavy cargo, equipment and oversized items.",
+    "zh": "适用于重货、设备及大尺寸货物。"
+  },
   "Phù hợp khi khách hàng muốn hạn chế trung chuyển hoặc có lượng tài sản phù hợp để bố trí xe riêng.": {
     "en": "Appropriate when customers want to restrict transfer or have the appropriate amount of property for their own car layout.",
     "zh": "当客户想要限制转让或拥有适合自己汽车布局的适当数量的财产时是适当的."
@@ -41790,6 +42410,10 @@
   "Phù hợp khi:": {
     "en": "Matches when:",
     "zh": "匹配时 :"
+  },
+  "Phù hợp nhiều khối lượng, kích thước hàng": {
+    "en": "Suitable for a wide range of weights and dimensions",
+    "zh": "适用于不同重量及尺寸的货物"
   },
   "Phù hợp với nhiều lô đồ văn phòng có khối lượng hoặc thể tích tương đối lớn, thời gian không quá gấp.": {
     "en": "In accordance with a wide range of office items with a mass or relatively large volume, time is not too urgent.",
@@ -41878,6 +42502,10 @@
   "Phương thức thanh toán và giá trị hàng hóa": {
     "en": "The way to pay and value goods",
     "zh": "支付和估价货物的方式"
+  },
+  "Phương thức vận chuyển": {
+    "en": "Transport method",
+    "zh": "运输方式"
   },
   "Phương thức vận chuyển gỗ thành phẩm": {
     "en": "Structure of Wood Transportation",
@@ -41978,6 +42606,10 @@
   "Phương án riêng cho hàng nặng hoặc cồng kềnh.": {
     "en": "Private plan for the load or Meno Mead.",
     "zh": "私人的负载计划或Meno Mead。"
+  },
+  "Phương án vận chuyển rõ ràng": {
+    "en": "Clear transport plans",
+    "zh": "清晰的运输方案"
   },
   "Phương án được xây dựng dựa trên:": {
     "en": "The solution is based on:",
@@ -42083,6 +42715,10 @@
     "en": "Mixing information with customers;",
     "zh": "与客户混合信息;"
   },
+  "Phối hợp tại hai đầu Bắc – Nam": {
+    "en": "Coordination at both northern and southern hubs",
+    "zh": "南北两端协同配合"
+  },
   "Phổ biến nhất khi chuyển nhà quận 4 là chuyển nhà đường bộ bằng xe tải.": {
     "en": "The most dramatic move to District 4 was to move the roadhouse by truck.",
     "zh": "向第四区最引人注目的举动是用卡车将路屋搬走."
@@ -42115,6 +42751,10 @@
     "en": "Warm service – dedicated: Professional work, warmth, enthusiasm, and thoughtfulness will help the exchange to take place quickly, saving time. At the same time, you will also feel secure and more comfortable when you choose to work with a friendly partner.",
     "zh": "温暖服务 — — 专注:专业工作、热情、热情和深思熟虑将有助于快速进行交流,节省时间。 同时,在选择与友好伴侣合作时,也会感到安全,更舒适."
   },
+  "Phục vụ nhu cầu vận chuyển thường xuyên và theo lô.": {
+    "en": "Serving regular and batch shipping needs.",
+    "zh": "满足定期运输和批量发货需求。"
+  },
   "Phục vụ, tư vấn khách hàng 24/7;": {
     "en": "Serves, advises customers 24/7;",
     "zh": "每周七天24小时服务,向顾客提供咨询;"
@@ -42142,6 +42782,22 @@
   "QUY CÁCH ĐÓNG HÀNG": {
     "en": "REVIECTION",
     "zh": "修订"
+  },
+  "QUY TRÌNH": {
+    "en": "PICKUP & DELIVERY",
+    "zh": "收发货"
+  },
+  "QUY TRÌNH GIAO NHẬN": {
+    "en": "Pickup & Delivery Process",
+    "zh": "收发货流程"
+  },
+  "QUY TRÌNH VẬN HÀNH & KIỂM SOÁT": {
+    "en": "OPERATIONS & QUALITY CONTROL",
+    "zh": "运营流程与质量管控"
+  },
+  "QUÝ KHÁCH CẦN BIẾT?": {
+    "en": "Need to Know?",
+    "zh": "您需要了解什么？"
   },
   "QUẢN LÝ VẬN TẢI HÀNG HÓA": {
     "en": "THE FINAL BEST",
@@ -42470,6 +43126,10 @@
   "Quy trình chuyển nhà từ Sài Gòn đi Thái Nguyên tại Lưu Lê được đánh giá là chuyên nghiệp và đồng bộ trong từng khâu, đảm bảo hàng hóa của bạn sẽ được chuyển đi an toàn và nhanh chóng:": {
     "en": "The move process from Saigon to Thailand at Liu Archive is rated as professional and synchronized in the suture, ensuring that your cargo will be safely and quickly delivered:",
     "zh": "从西贡到泰国的Liu Archive的移动过程被评为专业且同步的缝隙,确保您的货物安全并快速交付:"
+  },
+  "Quy trình có thể điều chỉnh linh hoạt theo loại hàng, tuyến vận chuyển, địa điểm lấy – giao và yêu cầu thực tế của từng đơn hàng.": {
+    "en": "The process can be adjusted flexibly to suit the cargo type, route, pickup and delivery locations, and each shipment’s specific requirements.",
+    "zh": "流程可根据货物类型、运输线路、收发货地点及每票货物的实际需求灵活调整。"
   },
   "Quy trình của Lưu Lê": {
     "en": "Archive",
@@ -42840,8 +43500,8 @@
     "zh": "合同中的规则将得到遵守和执行,严格确保服务质量的最佳。"
   },
   "Quy định về thủ tục đi tàu hỏa không phải ai cũng biết": {
-    "en": "The regulations about train travel are not known.",
-    "zh": "关于列车旅行的规定不详."
+    "en": "Train travel procedures and regulations you should know",
+    "zh": "乘坐火车应了解的手续及规定"
   },
   "Quy định về tiêu chuẩn kích thước chiều cao của container": {
     "en": "The standard for the height of the container",
@@ -43411,6 +44071,10 @@
     "en": "Wine, rice, salt, water, tobacco, and clean bowls to carry.",
     "zh": "酒,米,盐,水,烟,及净碗以载之."
   },
+  "Rạng Đông": {
+    "en": "Rạng Đông",
+    "zh": "Rạng Đông"
+  },
   "Rất dễ dàng để bạn tìm kiếm được đơn vị chuyển nhà từ Sài Gòn đi Cao Bằng uy tín và chuyên nghiệp. Nhưng để được trải nghiệm dịch vụ chuyển nhà chất lượng với mức giá phải chăng thì không dễ như vậy.": {
     "en": "It's very easy for you to find the moving unit from Saigon to High with prestige and professionalism. But it's not that easy to experience quality housing services at the right price.",
     "zh": "你很容易找到从西贡到高地的移动部队 具有威望和专业精神 但以正确的价格体验优质住房服务并没那么容易."
@@ -43468,8 +44132,8 @@
     "zh": "众生疑三十五海何处. 将刘立引见下条,知三十五海所在,......"
   },
   "Rất nhiều người thắc mắc biển 35 ở đâu. Hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để biết biển 35 ở...": {
-    "en": "A lot of people wonder where the 35th Sea is. Let's move Liu Li to refer to the following article, to know the 35th Sea at...",
-    "zh": "众生疑三十五海何处. 移刘力引下篇,知三十五海在......"
+    "en": "Many people ask where licence plate code 35 comes from. Explore the answer with Luu Le Transport...",
+    "zh": "许多人想知道35号车牌来自哪里。跟随 Luu Le Transport 了解答案……"
   },
   "Rất nhiều người thắc mắc biển số xe 48 là tỉnh nào? Ký hiệu biển số xe 48 đã được cấp cho tỉnh Đắk Nông. Tất cả các phương tiện giao thông tại tỉnh Đắk Nông đều được cấp biển số 48. Điều này giúp công tác quản lý được thuận tiện và nhanh chóng hơn. Ký hiệu biển số xe được cấp theo quy định tại Phụ lục số 2 về ký hiệu biển xe ô tô – mô tô trong nước ban hành kèm với thông tư số 15/2014/TT-BCA.": {
     "en": "A lot of people wonder what is the 48? The license plate number 48 has been granted to the province of Dárk Farm. All vehicles in the province of Dárk Farm are licensed to license plate number 48. This makes management work easier and faster. The license plate notation is licensed by regulations at Appendix 2 on the car sign – domestic motorcycles enacted with a quarter of 15/2014/TT-BCA.",
@@ -43484,8 +44148,8 @@
     "zh": "很多人在疑惑,六九的行省是什么? 让我们带上刘刘,找出文章中的69盘......"
   },
   "Rất nhiều người thắc mắc rằng biển xe 69 là tỉnh nào? Hãy cùng vận tải Lưu Lê tìm hiểu về biển số 69 trong bài...": {
-    "en": "A lot of people wonder, what is the province of the 69? Let's take Liu Liu and find out about the 69th plate in the article...",
-    "zh": "很多人在疑惑,六九的行省是什么? 让我们带上刘刘,找出文章中的69盘......"
+    "en": "Many people wonder which province licence plate code 69 belongs to. Discover the answer with Luu Le Transport...",
+    "zh": "许多人想知道69号车牌属于哪个省。跟随 Luu Le Transport 了解答案……"
   },
   "Rất nhiều rủi ro về hàng hóa khi gửi hàng đi xa": {
     "en": "A lot of risk on goods when sending goods away",
@@ -43826,6 +44490,10 @@
   "Sau đó, khi Đô-la Mỹ lên giá thì mới chuyển sang tiền Việt. Như vậy, cùng một số tiền ban đầu, sau khi chuyển 2 lần thì lượng tiền Việt Nam đồng nhận lại được là nhiều hơn. Tuy nhiên đây không phải cách lựa chọn tối ưu nhất khi bạn cần tiền mặt.": {
     "en": "Later, when US Dollars went up the price, it turned to Vietnamese money. So, the same amount of money originally, after moving twice the amount of money Vietnam received was more. This is not the best choice, however, when you need cash.",
     "zh": "后来,当美元涨价时,它变成了越南货币。 所以,同样数额的钱原本,在转移后,越南收到的钱的两倍是更多的. 不过,当你需要现金时,这不是最佳的选择。"
+  },
+  "Secoin": {
+    "en": "Secoin",
+    "zh": "Secoin"
   },
   "Ship COD bưu điện": {
     "en": "Ship COD Post Office",
@@ -44915,6 +45583,10 @@
     "en": "Owns the trained staff, good job, honest, fast. Mixing with the trucks working at full capacity, will bring you the most excellent services.",
     "zh": "拥有训练有素的员工,干得漂亮,诚实,快. 与满载的卡车混合 将带来最好的服务。"
   },
+  "SỨ MỆNH CÔNG TY": {
+    "en": "OUR MISSION",
+    "zh": "公司使命"
+  },
   "Sức khỏe phù hợp với ngành nghề đang lao động;": {
     "en": "Health suits the working profession;",
     "zh": "健康适合职业;"
@@ -45291,6 +45963,10 @@
     "en": "EARLIAL REPUBLIC:",
     "zh": "伊朗伊斯兰共和国:"
   },
+  "THÔNG TIN YÊU CẦU VẬN CHUYỂN": {
+    "en": "SHIPPING REQUEST DETAILS",
+    "zh": "运输需求信息"
+  },
   "THƯỜNG GẶP": {
     "en": "REGULAR FEATURES",
     "zh": "常规性质"
@@ -45298,6 +45974,10 @@
   "THỜI GIAN & GIAO NHẬN": {
     "en": "PORTRAITS & PORTRA",
     "zh": "葡萄牙和葡萄牙"
+  },
+  "TIẾP NHẬN YÊU CẦU": {
+    "en": "Receive Request",
+    "zh": "接收需求"
   },
   "TP Hồ Chí Minh là thành phố có quy mô đô thị hóa lớn và đông dân nhất Việt Nam. Với tổng diện tích là 2.095 km². Hồ Chí Minh nằm tiếp giáp giữa hai vùng Đông Nam Bộ và Tây Nam Bộ. Tiếp giáp với các tỉnh Bình Dương, Tây Ninh, Đồng Nai, Vũng Tàu, Long An và Tiền Giang. Đây là cửa ngõ hội tụ rất nhiều người dân từ các tỉnh thành khác đến sinh sống và làm việc.": {
     "en": "TP Lake Chi Minh is the largest urbanized city in Vietnam. With a total area of 2.095 km2. Lake Chi Minh is located on the flank between two South East Ministry and the southwest Ministry. Enclosed with the provinces of the Pacific, Western Ninh, Plains of Nai, Chinese Wu, Long An and Money. This is the gateway of a large number of people from other provinces to living and working.",
@@ -45323,17 +46003,21 @@
     "en": "CENTRAL",
     "zh": "中央"
   },
+  "TRA CỨU GIÁ CƯỚC VẬN CHUYỂN": {
+    "en": "Check Shipping Rates",
+    "zh": "查询运输价格"
+  },
   "TRA CỨU NGAY": {
     "en": "NORTH",
     "zh": "北边"
   },
   "TRA CỨU VẬN ĐƠN": {
-    "en": "I'm sorry.",
-    "zh": "对不起"
+    "en": "Track Your Shipment",
+    "zh": "查询运单"
   },
   "TRANG CHỦ": {
-    "en": "PAGE 16",
-    "zh": "第16页"
+    "en": "Home",
+    "zh": "首页"
   },
   "TT": {
     "en": "TT",
@@ -45738,6 +46422,10 @@
   "Theo dõi tiến trình từ lúc nhận đến khi giao hàng;": {
     "en": "Track the process from receiving to delivery;",
     "zh": "跟踪从接收到交付的过程;"
+  },
+  "Theo dõi tiến độ đơn hàng": {
+    "en": "Track shipment progress",
+    "zh": "跟踪货物运输进度"
   },
   "Theo dõi tình trạng đơn hàng và thông báo với người nhận.": {
     "en": "Monitor the application status and inform the receiver.",
@@ -46436,8 +47124,8 @@
     "zh": "通常钢琴会通过公路运输,即使用汽车,卡车运输. 这种方法的突出优势是:"
   },
   "Thông thường đi tàu từ Hà Nội vào Huế mất bao lâu?": {
-    "en": "How long does it take to sail from Hanoi into H?",
-    "zh": "从河内驶入H需要多长时间?"
+    "en": "How long does the train from Hanoi to Huế usually take?",
+    "zh": "从河内乘火车到顺化通常需要多久？"
   },
   "Thông thường để cúng di chuyển bàn thờ, lễ vật thường có là:": {
     "en": "Common to the sacrifice of moving the altar, the offering is usually present:",
@@ -46487,6 +47175,10 @@
     "en": "Train information:",
     "zh": "火车信息:"
   },
+  "Thông tin chỉ được sử dụng để tư vấn và báo giá.": {
+    "en": "Your information will only be used to provide consultation and quotations.",
+    "zh": "所填信息仅用于咨询及报价。"
+  },
   "Thông tin các trạm chành xe Tô Châu Cần Thơ": {
     "en": "Organisation",
     "zh": "日历"
@@ -46510,6 +47202,10 @@
   "Thông tin khi phát sinh thay đổi đáng kể;": {
     "en": "Information on generating significant changes;",
     "zh": "关于产生重大变化的信息;"
+  },
+  "Thông tin khách hàng": {
+    "en": "Customer information",
+    "zh": "客户信息"
   },
   "Thông tin khái quát về KCN Hiệp Phước": {
     "en": "Summary Information About the United Nations",
@@ -46858,6 +47554,10 @@
   "Thống kê đồ cần chuyển, đồ cần thanh lý.": {
     "en": "Statistics for transfers, liquidators.",
     "zh": "转账统计,清算人."
+  },
+  "Thống nhất thời gian dự kiến": {
+    "en": "Agree on the estimated schedule",
+    "zh": "确认预计时间安排"
   },
   "Thời Gian hành trình": {
     "en": "Journey Time",
@@ -48443,6 +49143,10 @@
     "en": "In the following article we will answer the question",
     "zh": "在下篇文章中,我们将回答这个问题"
   },
+  "Trong bài viết sau đây chúng tôi sẽ trả lời cho câu hỏi biển số xe 47 ở đâu cũng như cung cấp thêm thông tin...": {
+    "en": "In this article, we explain which province uses licence plate code 47 and provide additional details...",
+    "zh": "本文将介绍47号车牌所属省份及相关信息……"
+  },
   "Trong bảng số xe thì 2 số đầu là đại diện cho địa phương mà chủ sở hữu đăng ký xe. Tiếp theo là chữ cái từ A → Z có thêm số tự nhiên từ 1 → 9 là seri đăng ký xe. Còn nhóm số cuối từ 4 → 5 số là số thứ tự đăng ký của xe. Nhóm số cuối thường bạn sẽ được đi bắn số khi đã đăng ký thông tin chiếc xe mới mua.": {
     "en": "In the license plate, the first 2 numbers were local representations of which the owner registered the car. The next letter is the letter from A- > Z has additional natural numbers from 1/10 9 as car registration series. And the last group of numbers from 4/6 numbers is the number of registrations of the car. The last group of numbers usually you'll be shot at number once you've registered the new car.",
     "zh": "在车牌上,前2个号码是当地代表,车主登记了这些代表. 下一个字母是A - > Z的字母,从1/10 9起作为汽车注册系列,有额外的自然数字. 而4/6号码的最后一组数字是汽车的注册编号. 最后一组号码通常在新车注册后被射中."
@@ -49803,6 +50507,10 @@
     "en": "What's a truck load? The penalty for car weight load is excessive.",
     "zh": "卡车载的是什么? 对车载重量的处罚过重."
   },
+  "Trở thành thương hiệu vận chuyển hàng hóa đáng tin cậy trên các tuyến Bắc – Nam và liên tỉnh. Lưu Lê từng bước mở rộng mạng lưới, nâng cao năng lực, ứng dụng công nghệ để phục vụ chuyên nghiệp, linh hoạt và hiệu quả.": {
+    "en": "To become a trusted freight transport brand on North–South and interprovincial routes. Luu Le will expand its network, strengthen capabilities and adopt technology to deliver professional, flexible and efficient services.",
+    "zh": "成为南北干线及跨省货运领域值得信赖的品牌。Luu Le 将逐步拓展网络、提升运力并运用技术，提供更专业、灵活、高效的服务。"
+  },
   "Trợ lý AI Vận Tải Lưu Lê": {
     "en": "AI Media Assistant",
     "zh": "AI 媒体助理"
@@ -50280,8 +50988,8 @@
     "zh": "It日啰."
   },
   "Tuổi Hợi chuyển nhà ngày nào tốt năm 2025?": {
-    "en": "What good day's 2025 move-off age?",
-    "zh": "什么好日子2025年搬家时代?."
+    "en": "Good moving dates in 2025 for people born in the Year of the Pig",
+    "zh": "2025年属猪的人哪天搬家好？"
   },
   "Tuổi Hợi chuyển nhà ngày nào tốt?": {
     "en": "What good day's the move?",
@@ -50304,8 +51012,8 @@
     "zh": "家庭清洁时代有什么好日子?"
   },
   "Tuổi Kỷ Mùi dọn nhà ngày nào tốt? - Hướng dẫn cách chọn ngày tốt": {
-    "en": "What's the good day for a Home Cleaning Age? - Guide on how to pick a good date.",
-    "zh": "家庭清洁时代有什么好日子?"
+    "en": "Best moving dates for people born in the Year of the Goat (Kỷ Mùi) – A guide",
+    "zh": "己未羊年出生者哪天搬家好？择吉日指南"
   },
   "Tuổi Kỷ Mùi dọn nhà ngày nào tốt? - Ngày tốt năm 2022": {
     "en": "What's the good day for a Home Cleaning Age? - Good day in 2022.",
@@ -50320,8 +51028,8 @@
     "zh": "我们走吧。"
   },
   "Tuổi Thìn dọn nhà ngày nào tốt? - Giải đáp chi tiết": {
-    "en": "What's the good day at the time? - Details.",
-    "zh": "时善财日是甚么. - 细节"
+    "en": "What are good moving dates for people born in the Year of the Dragon? – Detailed guide",
+    "zh": "属龙的人哪天搬家吉利？详细解答"
   },
   "Tuổi Thìn thẳng thắn, thật thà, không bao giờ hãm hại, lợi dụng bất kì một ai nên trước khi làm một điều gì đó thì cần suy nghĩ kĩ càng, tránh nóng vội dẫn tới sai lầm.": {
     "en": "The age of truth, honesty, never harm, take advantage of anyone who should before he does something, think carefully, avoid rushing into error.",
@@ -50344,12 +51052,16 @@
     "zh": "推特媒体"
   },
   "TÀI KHOẢN": {
-    "en": "APPRECTION",
-    "zh": "说明"
+    "en": "Account",
+    "zh": "账户"
   },
   "TÌM ĐƠN": {
     "en": "MILLION",
     "zh": "10亿"
+  },
+  "TÍNH CƯỚC NGAY": {
+    "en": "Get an Instant Rate Estimate",
+    "zh": "立即估算运费"
   },
   "Tài nguyên rừng và khoáng sản ở Đắk Lắk rất phong phú và đa dạng, đặc biệt là khoáng sản phục vụ vật liệu xây dựng ví dụ như fenspat có trữ lượng khoảng 2,74 triệu tấn; Kaolin có khoảng 36,9 triệu tấn; cát, cuội sỏi; đá granite ước tính khoảng gần 1 tỷ m2; có 20 khu vực chứa than bùn; ngoài ra còn có kẽm, chì, fluorit…": {
     "en": "Forest and mineral resources in the Dárkak Lörk are rich and diverse, especially minerals serving building materials such as fenspat have an estimated 2.74 million tons; Kaolin has about 36,9 million tons; sand, gravel; sarcoid rock estimates about 1 billion m2; there are 20 areas containing mud coal; in addition also zinc, lead, fluorit...",
@@ -50486,6 +51198,10 @@
   "Tám tiết vinh khang đều thịnh vượng,": {
     "en": "The eight great glorys are prosperous,",
     "zh": "八大荣耀是繁荣的,"
+  },
+  "Tân Á Đại Thành": {
+    "en": "Tân Á Đại Thành",
+    "zh": "Tân Á Đại Thành"
   },
   "Tây Bắc Bộ địa hình chủ yếu là đồi núi hiểm trở, có nhiều dãy núi và khối núi cao chạy theo hướng Tây Bắc – Đông Nam. Nơi đây có dãy núi Hoàng Liên Sơn dài 180km, rộng 30km, với những đỉnh núi có độ cao từ 2800 - 3000m.": {
     "en": "The Northwest Department of Continentals is mainly rugged hills, with high mountain ranges and mountain blocks running northwest – southeast. The mountain range is 180 km (80 mi) long, 30 km (30 km) wide, with peaks of altitude from 2800 - 3,000 m).",
@@ -50879,6 +51595,22 @@
     "en": "What methods can I pay for the freight services?",
     "zh": "我能付什么运费?"
   },
+  "Tôi cần vận chuyển gọn, rõ đầu việc và đúng thời gian. Đội ngũ tư vấn sát nhu cầu, phối hợp nhanh nên quá trình giao nhận diễn ra thuận lợi.": {
+    "en": "We need streamlined transportation, clear responsibilities and punctual delivery. Their team understands our needs and coordinates quickly, so the process runs smoothly.",
+    "zh": "我们需要简便的运输流程、明确的工作分工和准时交付。他们的团队了解我们的需求、协调迅速，收发货过程十分顺畅。"
+  },
+  "Tôi hài lòng vì khâu phối hợp rõ ràng và chủ động. Khi lịch giao nhận thay đổi, nhân viên hỗ trợ xử lý nhanh nên công việc vẫn diễn ra thuận lợi.": {
+    "en": "I'm satisfied with the team's clear and proactive coordination. When pickup and delivery schedules change, they respond quickly so our operations stay on track.",
+    "zh": "我很满意他们清晰、主动的协调方式。即使收发货时间发生变化，工作人员也能迅速处理，保证我们的工作顺利进行。"
+  },
+  "Tôi thường gửi hàng theo từng đợt. Nhân viên tư vấn rõ ràng, linh hoạt và luôn đề xuất phương án phù hợp nên bên tôi rất dễ phối hợp trong mỗi chuyến.": {
+    "en": "We ship goods in batches. The team gives clear, flexible advice and always recommends suitable options, making it easy for us to coordinate each shipment.",
+    "zh": "我们经常分批发货。工作人员提供清晰灵活的建议，并推荐合适的方案，让每次运输的配合都很顺畅。"
+  },
+  "Tôi đánh giá cao cách làm việc rõ ràng và chủ động. Mỗi lần gửi hàng liên tỉnh, chỉ cần trao đổi nhu cầu là được hướng dẫn nhanh và phối hợp đầy đủ.": {
+    "en": "I appreciate their clear, proactive approach. Whenever we need interprovincial shipping, we receive quick guidance and thorough support.",
+    "zh": "我很欣赏他们清晰主动的工作方式。每次需要跨省运输，只要说明需求，就能得到快速指导和周到配合。"
+  },
   "Tôi đã hiểu": {
     "en": "I understand.",
     "zh": "我理解,我懂你说什么"
@@ -51039,6 +51771,14 @@
     "en": "Increase the risk of spoiling things.",
     "zh": "增加破坏事物的风险."
   },
+  "TƯ VẤN & BÁO GIÁ": {
+    "en": "Consultation & Quotation",
+    "zh": "咨询与报价"
+  },
+  "Tư Vấn Nhanh": {
+    "en": "Fast Consultation",
+    "zh": "快速咨询"
+  },
   "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
     "en": "Advisor - IQ - Take the Single 24/7",
     "zh": "顾问 - 智商 - 24/7采取单人制"
@@ -51079,6 +51819,14 @@
     "en": "Warm counseling, professional work.",
     "zh": "温暖的咨询,专业的工作。"
   },
+  "Tư vấn phương án phù hợp với quy cách và kích thước thực tế.": {
+    "en": "Advice tailored to actual packaging specifications and dimensions.",
+    "zh": "根据实际包装规格及尺寸提供运输建议。"
+  },
+  "Tư vấn phương án theo đặc thù từng đơn hàng": {
+    "en": "Transport solutions tailored to each shipment",
+    "zh": "根据每票货物特点制定运输方案"
+  },
   "Tư vấn, báo giá chi tiết các vấn đề liên quan đến dịch vụ chuyển nhà và các vấn đề liên quan khác về dịch vụ của chúng tôi.": {
     "en": "Advisory, detailed price of matters related to moving services and other matters related to our service.",
     "zh": "咨询,明细的移动服务有关事项和与我们服务有关的其他事项价格."
@@ -51098,6 +51846,14 @@
   "Tương ứng với mỗi yêu cầu hỗ trợ, ga Hà Nội đều có số điện thoại của bộ phận tương ứng. Bởi vậy, để được hỗ trợ nhanh chóng và chính xác nhất, bạn nên gọi đến đúng số điện thoại của bộ phận tương ứng tại ga Hà Nội.": {
     "en": "Similar to each request for support, the Hanoi station has the corresponding department's phone number. So, for immediate and precise support, you should call the correct number of the corresponding department at the Hanoi station.",
     "zh": "与每个支持请求类似,河内站拥有相应的部门电话号码. 因此,为了立即得到准确的支持,应当给河内站对应部门打正确号码."
+  },
+  "TẠI SAO CHỌN": {
+    "en": "WHY CHOOSE",
+    "zh": "为什么选择"
+  },
+  "TẠI SAO CHỌN CHÚNG TÔI": {
+    "en": "Why Choose Us",
+    "zh": "为什么选择我们"
   },
   "TẠI ĐÂY": {
     "en": "Here.",
@@ -51635,6 +52391,10 @@
     "en": "All Experience Sends Hanoi Row - KCN Vsip 1, 2",
     "zh": "所有经验都送河内一行——KCN Vsip 1, 2"
   },
+  "TẦM NHÌN TƯƠNG LAI": {
+    "en": "OUR VISION",
+    "zh": "未来愿景"
+  },
   "Tầm nhìn đến 2050 sẽ tiếp tục kết nối các tuyến đường sắt mới tại Hà Nội, Sài Gòn, kết nối khu công nghiệp, cảng biển, đường sắt ven biển, các tỉnh vùng sâu vùng xa như Tây Nguyên, đường sắt quốc tế…để đáp ứng nhu cầu vận tải hàng hóa và hành khách.": {
     "en": "Visions to 1850 will continue to connect new railroads in Hanoi, Saigon, linking industrial areas, seaports, coastal railroads, deep provinces such as the Far West, International Railways to meet the demand for freight and passengers.",
     "zh": "1850年的远景规划将继续连接河内,西贡的新铁路,连接工业区,海港,沿海铁路,远西等深省,国际铁路以满足货运和客运的需求."
@@ -51659,6 +52419,10 @@
     "en": "Level/Land or vault",
     "zh": "级别/地盘或金库"
   },
+  "TẬP KẾT & PHÂN LOẠI": {
+    "en": "CONSOLIDATION & SORTING",
+    "zh": "集货与分类"
+  },
   "Tận dụng khoảng không gian trống của đồ đạc lớn để sắp xếp thêm các đồ đạc nhỏ vào.": {
     "en": "Use the empty space of big furniture to arrange more small items.",
     "zh": "利用大家具的空闲空间来安排更多的小物品."
@@ -51670,6 +52434,10 @@
   "Tận dụng tốt được lợi thế về quy mô lớn của container, pallet.": {
     "en": "Good use gained advantage of the large scale of container, pallet.",
     "zh": "良好的用途获得了大型集装箱,托盘的优势."
+  },
+  "Tập kết và phân loại hàng hóa": {
+    "en": "Cargo consolidation and sorting",
+    "zh": "货物集货与分类"
   },
   "Tắt động cơ xe vì việc mở khóa xe sẽ khiến việc chỉnh kim xăng bị sai.": {
     "en": "Turn off the engine as the car's locking will lead to the alteration of the gas needle.",
@@ -51731,9 +52499,21 @@
     "en": "The province is co-invented by the state about the road system, the railroad, the waterway, which forms traffic with favorable connections to the provinces in the area and Hanoi. Yanyang is also the province whose Rose flows through, which is the river that develops the waterway that binds the economy - the culture among the locals.",
     "zh": "该省是国家共同发明的公路系统,铁路,水道,形成与该地区各省和河内有利的交通联系.  Yan阳也是罗斯流经的省份,是开发连接经济的水道的河流——当地人的文化."
   },
+  "Tỉnh, thành phục vụ trên toàn quốc": {
+    "en": "Provinces and cities served nationwide",
+    "zh": "全国服务覆盖省市"
+  },
   "Tỉnh/Thành phố": {
     "en": "Province/ City",
     "zh": "省/市"
+  },
+  "Tỉnh/thành phố hoặc địa chỉ giao hàng": {
+    "en": "Province/city or delivery address",
+    "zh": "省市或送货地址"
+  },
+  "Tỉnh/thành phố hoặc địa chỉ lấy hàng": {
+    "en": "Province/city or pickup address",
+    "zh": "省市或取货地址"
   },
   "Tọa lạc tại Tây Ninh, KCN Hiệp Thạnh là một trong những KCN lớn tại Tây Ninh và đem lại nhiều nguồn lợi kinh tế lớn cho khu vực. Với diện tích 574 ha cùng hệ thống giao thông thuận lợi, nơi đây hứa hẹn là là KCN có nền kinh tế rất phát triển.": {
     "en": "Coordinates in Western Europe, KNNN the NWC is one of the major KNCs in Western Europe and brings large economic resources to the area. With an area of 574 ha the same favorable traffic system, it is promised that KCN has a very developed economy.",
@@ -51790,6 +52570,10 @@
   "Tổ chức": {
     "en": "Organisation",
     "zh": "日历"
+  },
+  "Tổ chức phương tiện và lịch vận chuyển theo nhu cầu.": {
+    "en": "Arrange vehicles and schedules based on demand.",
+    "zh": "根据需求安排车辆及运输时间。"
   },
   "Tổ chức vận chuyển hàng hóa bằng các đoàn tàu chuyên tuyến Bắc Nam với thời gian nhanh và ổn định tới các Ga đường sắt trên phạm vi cả nước.": {
     "en": "The organization transports goods by North South Line trains with rapid and stable time to railway stations on a national scale.",
@@ -52311,6 +53095,10 @@
     "en": "From the capital of Hanoi to the Upper Chun about 1,600 km, it would take more than 32 hours to travel by Route 1A. Also from Hanoi you can also move into the Upper Chun by plane. However, when sending the goods, the form of the railway was the most popular choice.",
     "zh": "从河内首都到上春约1600公里,乘坐1A路需要32多小时. 也可以从河内乘飞机进入上春号 然而,在发送货物时,铁路的形式是最受欢迎的选择."
   },
+  "Từ tiếp nhận yêu cầu, tư vấn, báo giá, điều xe, tập kết, vận chuyển đến giao hàng đều được phối hợp theo quy trình thống nhất.": {
+    "en": "From receiving requests and quoting to dispatch, consolidation, transport and delivery, each stage is coordinated under a consistent process.",
+    "zh": "从接收需求、咨询报价、车辆调度、集货运输到最终交付，各环节均按统一流程协同运作。"
+  },
   "Từ trước đến nay, khi có nhu cầu di chuyển từ Hà Nội vào Huế hoặc ngược lại. Phần đa mọi người sẽ chọn đi tàu hỏa vì nó có những ưu điểm sau đây:": {
     "en": "When the need has been needed to move from Hanoi into Homing or vice versa. Most people would choose train rides because it has the following advantages:",
     "zh": "当需要从河内迁入合明或反之. 大多数人会选择列车乘车,因为它具有以下优势:"
@@ -52362,6 +53150,10 @@
   "Từ đó, ta có thể đưa ra cách tính % quá tải của các loại xe như sau:": {
     "en": "From there, we can come up with a way of calculating % overload of cars as follows:",
     "zh": "从这里,我们可以想出一个方法,计算汽车超载百分比如下:"
+  },
+  "Từ đơn hàng nhỏ lẻ đến hàng số lượng lớn, từ khách hàng cá nhân đến doanh nghiệp, phương án vận chuyển được lựa chọn dựa trên đặc tính hàng hóa, tuyến đường, thời gian và nhu cầu giao nhận thực tế.": {
+    "en": "From small consignments to high-volume cargo, and from individuals to businesses, we select transport solutions based on cargo characteristics, routes, delivery times and actual pickup and delivery needs.",
+    "zh": "无论是小批货物还是大宗货物，无论是个人还是企业，我们都根据货物特点、线路、时效及实际收发货需求选择运输方案。"
   },
   "Từ “non” đứng trước từ “merchant” để phủ định ý chỉ hàng hóa. Như vậy, về mặt cấu trúc từ, từ phi mậu dịch tiếng Anh là gì có cấu trúc khá giống cụm từ phi mậu dịch trong tiếng Việt. Đó là đều gồm một tiền tố phủ định đứng trước một danh từ chỉ khái niệm. Từ đó tạo ra một cụm danh từ mới.": {
     "en": "The word “nonchair stands before the term“merchant (2006) in order to deny the intention of the goods only. So, in terms of the word structure, what is the English non-communicative word, which has quite the same structure as the non-translative phrase in Vietnamese. It is all consisting of a debunking prefix facing a noun just the concept. It creates a new term.",
@@ -52438,6 +53230,10 @@
   "Uy tín hàng đầu: Với bề dày kinh nghiệm trong ngành vận chuyển đường sắt chúng tôi cam kết hàng hóa được giao đúng người đúng hàng.": {
     "en": "Leading Trust: With the thickness of experience in the railway transport industry, we pledge goods to be delivered to the right people.",
     "zh": "引领信任:凭借铁路运输业经验浓厚,我们保证将货物交付给合适的人."
+  },
+  "Uy tín – Trách nhiệm – An toàn – Minh bạch – Tận tâm là nền tảng trong mọi hoạt động. Từ tư vấn, báo giá đến giao nhận, chúng tôi duy trì cách làm việc rõ ràng, nhất quán và đặt quyền lợi khách hàng làm trọng tâm.": {
+    "en": "Credibility, responsibility, safety, transparency and dedication underpin everything we do. From consultation and quotations to delivery, we work clearly and consistently, with customers' interests at the centre.",
+    "zh": "信誉、责任、安全、透明与用心是我们的核心原则。从咨询、报价到交付，我们始终保持清晰一致的工作方式，以客户利益为中心。"
   },
   "Uy tín:": {
     "en": "Trust:",
@@ -52798,6 +53594,10 @@
   "Vui lòng chọn một phương án": {
     "en": "Please choose a solution",
     "zh": "请选择一个解决方案"
+  },
+  "Vui lòng cung cấp đầy đủ thông tin để báo giá chính xác hơn.": {
+    "en": "Please provide complete details for a more accurate quotation.",
+    "zh": "请尽量完整填写信息，以便获得更准确的报价。"
   },
   "Vui lòng nhập tên và số lượng các đồ dùng cần vận chuyển. Ví dụ: 1 tủ lạnh, 1 tivi, 2 ghế, 5 thùng đồ… Hệ thống sẽ hỗ trợ ước tính tổng thể tích để tính cước.": {
     "en": "Please enter the name and number of items to transport. For example: 1 refrigerator, 1 TV, 2 seats, 5 barrels...the system will support an overall estimate of the volume to calculate the ID.",
@@ -53551,6 +54351,10 @@
     "en": "Examples: 0909 123 456",
     "zh": "例如:0909 123 456"
   },
+  "Ví dụ: 1.200 kg": {
+    "en": "For example: 1,200 kg",
+    "zh": "例如：1,200公斤"
+  },
   "Ví dụ: 10": {
     "en": "Examples: 10",
     "zh": "实例:10"
@@ -53563,6 +54367,10 @@
     "en": "Examples: 20",
     "zh": "实例:20"
   },
+  "Ví dụ: 20 kiện": {
+    "en": "For example: 20 packages",
+    "zh": "例如：20件"
+  },
   "Ví dụ: 2000": {
     "en": "Examples: 2000",
     "zh": "实例:2000年"
@@ -53570,6 +54378,10 @@
   "Ví dụ: 25": {
     "en": "Examples: 25",
     "zh": "实例:25"
+  },
+  "Ví dụ: 3,5 m³ hoặc 100 × 80 × 60 cm": {
+    "en": "For example: 3.5 m³ or 100 × 80 × 60 cm",
+    "zh": "例如：3.5立方米或100 × 80 × 60厘米"
   },
   "Ví dụ: 3.5": {
     "en": "Examples: 3.5",
@@ -53598,6 +54410,10 @@
   "Ví dụ: Xe": {
     "en": "Examples: Cars",
     "zh": "例如:汽车"
+  },
+  "Ví dụ: máy móc, hàng đóng thùng, nội thất...": {
+    "en": "For example: machinery, boxed goods, furniture...",
+    "zh": "例如：机械设备、箱装货物、家具等……"
   },
   "Ví dụ: tầng 3 hoặc B1": {
     "en": "Examples: Level 3 or B1",
@@ -53667,6 +54483,10 @@
     "en": "The Wing of the terrain divides into three areas that are clearly plain, middle, mountain. So there's just a lot of good conditions to develop agriculture – industry, industry and tourism. Some of the best-known tourist districts must be mentioned as the island, the Great Lake, the Western Heavenly Forest, the village of flowers, the Ping Shan, the village of the Peregrine Pottery, the Mediterranean Garden...",
     "zh": "地势之翼分为明显平原,中原,山地三个区域. 所以,发展农业,工业,工业和旅游业,只有很多良好的条件. 必须提及一些最著名的旅游区为岛,大湖,西天林,花村,平山,佩雷格里内波特里村,地中海花园......"
   },
+  "Vĩnh Tường": {
+    "en": "Vĩnh Tường",
+    "zh": "Vĩnh Tường"
+  },
   "Vũ Anh Minh": {
     "en": "Yu Ming",
     "zh": "汤明"
@@ -53696,8 +54516,8 @@
     "zh": "织物是国内外广大市场消费的水果种类. 如果你没有得到很好的保护..."
   },
   "Vải thiều là loại quả được tiêu thụ trên thị trường rộng lớn, cả ở trong nước và nước ngoài. Nếu không được bảo quản cẩn...": {
-    "en": "The fabric is the kind of fruit consumed on the wide market, both in the country and abroad. If not preserved...",
-    "zh": "织物是国内外广大市场消费的水果种类. 如果没有保存..."
+    "en": "Lychees are sold widely both domestically and internationally. Without proper preservation during transport...",
+    "zh": "荔枝在国内外市场广泛销售。如果运输途中没有妥善保鲜……"
   },
   "Vấn đề chất lượng luôn được ưu tiên hàng đầu tại công ty nên quan niệm giá cả đi kèm với chất lượng sẽ không còn phù hợp trong trường hợp này vì dịch vụ tại Lưu Lê sẽ đem lại cho quý khách một trải nghiệm tuyệt vời. Công ty luôn không ngừng nâng cấp về chất lượng nhân sự và cả chất lượng dịch vụ để hướng tới sự chuyên nghiệp tuyệt đối.": {
     "en": "The quality issue is always top priority at the company, so the price view that comes with quality will no longer be appropriate in this case because service at Liu Li will give you a wonderful experience. The company is constantly upgrading in the humanities quality and also the quality of services in order to aim toward absolute professionalization.",
@@ -53735,6 +54555,10 @@
     "en": "THE TEST",
     "zh": "测试"
   },
+  "VẬN CHUYỂN & CẬP NHẬT": {
+    "en": "TRANSPORT & UPDATES",
+    "zh": "运输与进度更新"
+  },
   "VẬN CHUYỂN HÀNG BẮC NAM": {
     "en": "THE FINAL BEST",
     "zh": "最后的最好成绩"
@@ -53748,8 +54572,8 @@
     "zh": "TPHCM 电话"
   },
   "VẬN CHUYỂN HÀNG HÓA": {
-    "en": "THE FIGURAL",
-    "zh": "数字"
+    "en": "Freight Transport",
+    "zh": "货物运输"
   },
   "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
     "en": "THE BEST OF THE BEST",
@@ -53782,6 +54606,10 @@
   "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
     "en": "THE TESTHCM INTERVIECTIONS",
     "zh": "二、专题辩论"
+  },
+  "VẬN TẢI": {
+    "en": "TRANSPORT",
+    "zh": "运输"
   },
   "VẬN TẢI ĐƯỜNG SẮT SÀI GÒN": {
     "en": "I'm going to kill you.",
@@ -53883,6 +54711,10 @@
     "en": "Liu Transport offers the most complete and comprehensive delivery solution to the customers who are always safe, quick, with the most savings.",
     "zh": "刘运向总是安全,快捷,储蓄最多的客户提供最完整,最全面的交付解决方案."
   },
+  "Vận Tải Lưu Lê cung cấp giải pháp vận chuyển an toàn, minh bạch và phù hợp với từng nhu cầu thực tế. Mỗi chuyến hàng là một cam kết bảo vệ tài sản, bảo đảm tiến độ và gìn giữ trọn vẹn niềm tin khách hàng đã trao gửi.": {
+    "en": "Luu Le Transport provides safe, transparent solutions tailored to real transport needs. Every shipment is a commitment to protecting customers' property, meeting schedules and honouring the trust placed in us.",
+    "zh": "Luu Le Transport 提供安全透明、符合实际需求的运输方案。每次运输都是保护客户财产、履行时效承诺并珍视客户信任的责任。"
+  },
   "Vận Tải Lưu Lê có lợi thế trong việc tổ chức": {
     "en": "Liu Download has an advantage in organizing",
     "zh": "刘下载有组织优势"
@@ -53950,6 +54782,10 @@
   "Vận Tải Lưu Lê không áp dụng một mức giá cố định cho mọi văn phòng. Giá được xây dựng theo khối lượng và phạm vi công việc thực tế.": {
     "en": "Liu Downloads does not apply a fixed price to all offices. Prices are built in volume and field of work.",
     "zh": "刘下载不对所有办公室实行固定价格. 价格是在工作量和工作领域中构建的。"
+  },
+  "Vận Tải Lưu Lê kết hợp kinh nghiệm, con người, đội xe, kho bãi và năng lực khai thác đường sắt để xây dựng phương án vận chuyển phù hợp, an toàn và hiệu quả cho từng đơn hàng.": {
+    "en": "Luu Le Transport combines experience, people, its truck fleet, warehouses and rail freight capacity to design safe, efficient transport solutions tailored to each shipment.",
+    "zh": "Luu Le Transport 结合行业经验、人员、车队、仓库及铁路运力，为每票货物制定安全高效、切合需求的运输方案。"
   },
   "Vận Tải Lưu Lê luôn đảm bảo vận chuyển nhà cho khách hàng nhanh chóng - an toàn - tiện lợi với quy trình 5 bước như sau:": {
     "en": "Liu Transport always ensures quick transport for customers - safe - convenient with the 5-step process as follows:",
@@ -54072,8 +54908,8 @@
     "zh": "刘载."
   },
   "Vận chuyển": {
-    "en": "Transportation",
-    "zh": "运输"
+    "en": "Freight transport",
+    "zh": "货物运输"
   },
   "Vận chuyển 24/7: Công ty vận Tải Lưu Lê luôn có nhân viên tư vấn và hỗ trợ khách hàng 24/7.": {
     "en": "Transport 24/7: Liu Transport Company has always had consultants and customer assistance 24/7.",
@@ -54686,6 +55522,10 @@
   "Vận chuyển nội địa": {
     "en": "Internal Transportation",
     "zh": "内部运输"
+  },
+  "Vận chuyển theo kế hoạch": {
+    "en": "Transport according to schedule",
+    "zh": "按计划运输"
   },
   "Vận chuyển thiết bị.": {
     "en": "Transport the equipment.",
@@ -56140,7 +56980,7 @@
     "zh": "驾照在哪里,有什么用? 事实是PET塑料卡对我们有很多好处. 由PET塑料材料制成,所以你的学位将具有高度的可持续性,特别是抗机械阻力,抗环境及天气的影响非常好. 而不是使用在遇到雨水时容易损坏的纸质许可证,而是使用无忧无虑的PET."
   },
   "VỀ CHÚNG TÔI": {
-    "en": "ABOUT US",
+    "en": "About Us",
     "zh": "关于我们"
   },
   "Về chính sách thanh toán, nên có nhiều phương thức như thu hộ, thu cod hay nhận bằng tiền mặt và cả chuyển khoản.": {
@@ -56679,6 +57519,10 @@
     "en": "With the first service called, as long as you send the shipping request from Lucky to Hannan there will be Liu's staff to the place where the package is taken and delivered to the receiver directly.",
     "zh": "随着第一个服务呼叫,只要你把运货请求从Lucky送到Hannan,就会有刘的员工到包裹被直接送到接收者那里."
   },
+  "Với hàng cồng kềnh và máy móc, phương án xử lý cần chắc chắn. Bên Lưu Lê tư vấn cụ thể, theo dõi kỹ và phối hợp ổn định suốt quá trình.": {
+    "en": "Oversized goods and machinery need a reliable transport plan. Luu Le provides detailed advice, careful monitoring and consistent coordination throughout.",
+    "zh": "大件货物和机械设备需要可靠的运输方案。Luu Le 提供具体建议、认真跟踪并全程稳定协调。"
+  },
   "Với hàng cồng kềnh, hàng dễ vỡ hay nguy hiểm không nên để không gian trống trong các thùng để đảm bảo đồ đạc không bị va đập với nhau gây hư hỏng.": {
     "en": "With a line of Mohammad, easily broken or dangerous goods should not be left empty space in the barrels to ensure that the furniture is not torn down together to cause damage.",
     "zh": "使用Mohammad的线条,桶内不应留下容易破损或危险物品的空地,以确保家具不会一起被撕毁以造成损害。"
@@ -56960,8 +57804,8 @@
     "zh": "对货运业来说,“减让是一个非常敏感的短语,并且受到广泛的兴趣。 不如我们把刘立..."
   },
   "Với ngành vận chuyển hàng hóa, “quá tải” là cụm từ rất nhạy cảm và được nhiều người quan tâm. Vậy hãy cùng vận tải Lưu...": {
-    "en": "With the freight industry, “excession is a very sensitive phrase and is widely interested. Then let's transport Liu...",
-    "zh": "对货运业来说,“减让是一个非常敏感的短语,并且受到广泛的兴趣。 那我们就把刘..."
+    "en": "In freight transport, vehicle overloading is an important issue that attracts considerable attention...",
+    "zh": "在货运行业，车辆超载是备受关注的重要问题……"
   },
   "Với người chủ của xe quá tải, sẽ phải chịu mức phạt như sau:": {
     "en": "With the owner of the car overloaded, he would be punished as follows:",
@@ -57048,8 +57892,8 @@
     "zh": "对于有意出口货物业务的人来说,当然知道离岸价格。 不如把刘力带回来..."
   },
   "Với những ai quan tâm đến hoạt động xuất nhập khẩu hàng hóa, chắc chắn biết đến FOB. Vậy hãy cùng vận tải Lưu Lê tham...": {
-    "en": "For those who are interested in exporting operations of goods, certainly know FOB. Then let's take Liu Li's fortune...",
-    "zh": "对于有意出口货物业务的人来说,当然知道离岸价格。 那不如收刘李财......"
+    "en": "Anyone involved in importing or exporting goods will likely be familiar with FOB. Learn more with Luu Le Transport...",
+    "zh": "从事进出口业务的人通常熟悉FOB。跟随 Luu Le Transport 了解更多……"
   },
   "Với những chia sẻ về": {
     "en": "With shares of",
@@ -57692,8 +58536,8 @@
     "zh": "刚用卡顿盖子和木框包起来"
   },
   "WEBSITE": {
-    "en": "SASETE",
-    "zh": "萨斯泰"
+    "en": "Website",
+    "zh": "网站"
   },
   "Website": {
     "en": "Website",
@@ -57724,8 +58568,8 @@
     "zh": "网站:vantaiviethung.vn"
   },
   "XE TẢI CHỞ HÀNG": {
-    "en": "I'm here.",
-    "zh": "我在这里。"
+    "en": "Truck Transport",
+    "zh": "卡车运输"
   },
   "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
     "en": "I'm in the middle of something.",
@@ -58035,6 +58879,10 @@
     "en": "Motorcycle",
     "zh": "摩托车"
   },
+  "Xe máy & hàng cá nhân": {
+    "en": "Motorcycles & personal goods",
+    "zh": "摩托车与个人物品"
+  },
   "Xe máy (Xe ga)": {
     "en": "Motorcycle (Monkey car)",
     "zh": "摩托车(摩托车)"
@@ -58251,6 +59099,10 @@
     "en": "The truck combines the railroad.",
     "zh": "货车结合铁路."
   },
+  "Xe tải lấy hàng, giao hàng và trung chuyển": {
+    "en": "Trucks for pickup, delivery and transfers",
+    "zh": "用于取货、配送与中转的卡车"
+  },
   "Xe tải phù hợp khi doanh nghiệp cần:": {
     "en": "Truck is suitable when business needs:",
     "zh": "卡车在商业需要时合适:"
@@ -58384,12 +59236,220 @@
     "zh": "频率视图"
   },
   "Xem chi tiết": {
-    "en": "View Details",
-    "zh": "查看细节"
+    "en": "Read more",
+    "zh": "查看详情"
+  },
+  "Xem chi tiết 65 là tỉnh nào? Biển số xe 65 là ở đâu?": {
+    "en": "Read more: Which province uses licence plate code 65?",
+    "zh": "查看详情：65号车牌属于哪个省？"
+  },
+  "Xem chi tiết 69 là tỉnh nào? - Biển số xe Cà Mau và thông tin chi tiết": {
+    "en": "Read more: Which province uses code 69? Cà Mau licence plates explained",
+    "zh": "查看详情：69号车牌属于哪个省？金瓯省车牌详解"
+  },
+  "Xem chi tiết Biển 17 ở đâu? Thông tin biển số xe Thái Bình A → Z": {
+    "en": "Read more: Where is licence plate code 17 from? Complete guide to Thái Bình plates",
+    "zh": "查看详情：17号车牌属于哪里？太平省车牌详解"
+  },
+  "Xem chi tiết Biển 35 ở đâu? - Tất tần tật thông tin về biển số xe Ninh Bình": {
+    "en": "Read more: Where is licence plate code 35 from? Ninh Bình plate guide",
+    "zh": "查看详情：35号车牌属于哪里？宁平省车牌指南"
+  },
+  "Xem chi tiết Biển Số 97 Là Ở Đâu? Thuộc Tỉnh Nào? Danh Sách Ký Hiệu Theo Khu Vực": {
+    "en": "Read more: Where is licence plate code 97 from? Province and regional code guide",
+    "zh": "查看详情：97号车牌属于哪里？省份及地区代码指南"
+  },
+  "Xem chi tiết Biển số 26 ở đâu? Ký hiệu biển số xe tỉnh Sơn La": {
+    "en": "Read more: Where is licence plate code 26 from? Sơn La Province plate codes",
+    "zh": "查看详情：26号车牌属于哪里？山罗省车牌代码"
+  },
+  "Xem chi tiết Biển số 48 là tỉnh nào? - Các ký hiệu biển số tại tỉnh Đắk Nông": {
+    "en": "Read more: Which province uses licence plate code 48? Đắk Nông plate codes",
+    "zh": "查看详情：48号车牌属于哪个省？得农省车牌代码"
+  },
+  "Xem chi tiết Biển số 50 ở đâu?": {
+    "en": "Read more: Where is licence plate code 50 from?",
+    "zh": "查看详情：50号车牌属于哪里？"
+  },
+  "Xem chi tiết Biển số 76 là tỉnh nào? Ký hiệu biển số xe tỉnh Quảng Ngãi": {
+    "en": "Read more: Which province uses licence plate code 76? Quảng Ngãi plate codes",
+    "zh": "查看详情：76号车牌属于哪个省？广义省车牌代码"
+  },
+  "Xem chi tiết Biển số 83 tỉnh nào? Ký hiệu biển số xe tỉnh Sóc Trăng": {
+    "en": "Read more: Which province uses licence plate code 83? Sóc Trăng plate codes",
+    "zh": "查看详情：83号车牌属于哪个省？朔庄省车牌代码"
+  },
+  "Xem chi tiết Biển số xe 37 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
+    "en": "Read more: Where is licence plate code 37 from and what is the province like?",
+    "zh": "查看详情：37号车牌属于哪里？当地有何特点？"
+  },
+  "Xem chi tiết Biển số xe 47 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
+    "en": "Read more: Where is licence plate code 47 from and what is the province like?",
+    "zh": "查看详情：47号车牌属于哪里？当地有何特点？"
+  },
+  "Xem chi tiết Biển số xe 59 ở đâu? Đặc điểm tình thành như thế nào?": {
+    "en": "Read more: Where is licence plate code 59 from and what is the province like?",
+    "zh": "查看详情：59号车牌属于哪里？当地有何特点？"
+  },
+  "Xem chi tiết Biển số xe 60 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
+    "en": "Read more: Where is licence plate code 60 from and what is the province like?",
+    "zh": "查看详情：60号车牌属于哪里？当地有何特点？"
+  },
+  "Xem chi tiết Bạn có biết biển số xe 89 ở đâu? [Góc giải đáp CHÍNH XÁC NHẤT]": {
+    "en": "Read more: Where is licence plate code 89 from? [Definitive guide]",
+    "zh": "查看详情：89号车牌属于哪里？【权威指南】"
+  },
+  "Xem chi tiết Bật mí đến bạn cách xác định hướng Đông Tây Nam Bắc ĐƠN GIẢN": {
+    "en": "Read more: Easy ways to determine north, south, east and west",
+    "zh": "查看详情：轻松辨别东南西北方向的方法"
+  },
+  "Xem chi tiết Chi tiết thủ tục chuyển vùng xe máy không phải ai cũng biết": {
+    "en": "Read more: Motorcycle registration transfer procedures explained",
+    "zh": "查看详情：摩托车跨地区登记转移手续详解"
+  },
+  "Xem chi tiết Chuyển phát nhanh mất mấy ngày?": {
+    "en": "Read more: How many days does express delivery take?",
+    "zh": "查看详情：快递通常需要几天？"
+  },
+  "Xem chi tiết Cách mua vé tàu qua mạng cho người mới mua lần đầu": {
+    "en": "Read more: How to buy train tickets online: A beginner's guide",
+    "zh": "查看详情：新手网上购买火车票指南"
+  },
+  "Xem chi tiết Cách ship hàng đi tỉnh nhanh chóng và hiệu quả nhất": {
+    "en": "Read more: How to ship goods between provinces quickly and efficiently",
+    "zh": "查看详情：如何快速高效地跨省寄货"
+  },
+  "Xem chi tiết Cách đọc vị trí container chính xác, nhanh chóng nhất": {
+    "en": "Read more: How to read container positions quickly and accurately",
+    "zh": "查看详情：如何快速准确地识别集装箱位置"
+  },
+  "Xem chi tiết Cảng Vũng Áng thuộc tỉnh nào? Cách Hà Nội, Hồ Chí Minh bao xa?": {
+    "en": "Read more: Which province is Vũng Áng Port in? How far is it from Hanoi and Ho Chi Minh City?",
+    "zh": "查看详情：永昂港位于哪个省？距河内和胡志明市有多远？"
+  },
+  "Xem chi tiết Cập nhật danh sách 63 tỉnh thành trên cả nước theo khu vực": {
+    "en": "Read more: Updated list of Vietnam's 63 provinces and cities by region",
+    "zh": "查看详情：按地区更新的越南63个省市名单"
+  },
+  "Xem chi tiết Danh mục hàng hóa cấm lưu thông - Cần biết để tránh vi phạm": {
+    "en": "Read more: List of goods prohibited from circulation – Know the rules to avoid violations",
+    "zh": "查看详情：禁止流通货物清单——了解规定，避免违规"
+  },
+  "Xem chi tiết FOB là gì? - Điều kiện giao hàng FOB gồm những gì và được hiểu như thế nào?": {
+    "en": "Read more: What is FOB? Meaning and terms of FOB delivery",
+    "zh": "查看详情：什么是FOB？FOB交货条件及其含义"
+  },
+  "Xem chi tiết Giá vé tàu hỏa Bắc Nam hiện nay có đắt không?": {
+    "en": "Read more: Are North–South train tickets expensive nowadays?",
+    "zh": "查看详情：现在越南南北线火车票贵吗？"
+  },
+  "Xem chi tiết Giải đáp thắc mắc biển cấm quay đầu có được rẽ trái không?": {
+    "en": "Read more: Can you turn left at a no-U-turn sign?",
+    "zh": "查看详情：禁止掉头标志处可以左转吗？"
+  },
+  "Xem chi tiết Gửi hàng xe Phương Trang mất bao lâu? - Thông tin chi tiết": {
+    "en": "Read more: How long does it take to send goods with Phương Trang buses?",
+    "zh": "查看详情：通过 Phương Trang 客车寄货需要多久？"
+  },
+  "Xem chi tiết Gửi xe máy qua đêm ở ga Sài Gòn như thế nào?": {
+    "en": "Read more: How to park a motorcycle overnight at Sài Gòn Railway Station",
+    "zh": "查看详情：如何在西贡火车站过夜停放摩托车"
+  },
+  "Xem chi tiết Gửi xe máy ở ga Sài Gòn có an toàn không?": {
+    "en": "Read more: Is it safe to ship a motorcycle from Sài Gòn Railway Station?",
+    "zh": "查看详情：从西贡火车站托运摩托车安全吗？"
+  },
+  "Xem chi tiết Hướng dẫn cách bảo quản vải thiều khi vận chuyển": {
+    "en": "Read more: How to preserve lychees during transportation",
+    "zh": "查看详情：荔枝运输过程中的保鲜方法"
+  },
+  "Xem chi tiết Hướng dẫn di chuyển bàn thờ trong nhà ĐÚNG CÁCH, bạn nên biết": {
+    "en": "Read more: How to move a household altar correctly: A practical guide",
+    "zh": "查看详情：如何正确搬移家中神龛：实用指南"
+  },
+  "Xem chi tiết Hướng dẫn thủ tục đổi bằng lái xe ô tô online chi tiết": {
+    "en": "Read more: Step-by-step guide to renewing a car driving licence online",
+    "zh": "查看详情：网上换领汽车驾驶证详细指南"
+  },
+  "Xem chi tiết Kho Nam Ninh ở đâu? Vận chuyển hàng về Việt Nam mất bao lâu?": {
+    "en": "Read more: Where is Nanning Warehouse? How long does shipping to Vietnam take?",
+    "zh": "查看详情：南宁仓在哪里？运送到越南需要多久？"
+  },
+  "Xem chi tiết Kho trung chuyển Hà Nội 02 ở đâu? Thông tin chi tiết": {
+    "en": "Read more: Where is Hanoi Transfer Warehouse 02? Detailed information",
+    "zh": "查看详情：河内02号中转仓库在哪里？详细信息"
+  },
+  "Xem chi tiết Như thế nào là hàng dễ vỡ xin nhẹ tay? Lưu ý vận chuyển hàng an toàn": {
+    "en": "Read more: What does “Fragile – Handle with Care” mean? Safe shipping tips",
+    "zh": "查看详情：“易碎品，请轻拿轻放”是什么意思？安全运输提示"
+  },
+  "Xem chi tiết Những lưu ý khi cúng về nhà mới bạn đã biết chưa?": {
+    "en": "Read more: What to know about housewarming offerings and rituals",
+    "zh": "查看详情：关于新居入宅祭拜习俗的注意事项"
+  },
+  "Xem chi tiết Những lưu ý khi gửi xe máy ở bến xe Miền Đông": {
+    "en": "Read more: What to know about parking a motorcycle at Miền Đông Bus Station",
+    "zh": "查看详情：在东部客运站停放摩托车的注意事项"
+  },
+  "Xem chi tiết Quy định về thủ tục đi tàu hỏa không phải ai cũng biết": {
+    "en": "Read more: Train travel procedures and regulations you should know",
+    "zh": "查看详情：乘坐火车应了解的手续及规定"
+  },
+  "Xem chi tiết Thông thường đi tàu từ Hà Nội vào Huế mất bao lâu?": {
+    "en": "Read more: How long does the train from Hanoi to Huế usually take?",
+    "zh": "查看详情：从河内乘火车到顺化通常需要多久？"
+  },
+  "Xem chi tiết Tuổi Hợi chuyển nhà ngày nào tốt năm 2025?": {
+    "en": "Read more: Good moving dates in 2025 for people born in the Year of the Pig",
+    "zh": "查看详情：2025年属猪的人哪天搬家好？"
+  },
+  "Xem chi tiết Tuổi Kỷ Mùi dọn nhà ngày nào tốt? - Hướng dẫn cách chọn ngày tốt": {
+    "en": "Read more: Best moving dates for people born in the Year of the Goat (Kỷ Mùi) – A guide",
+    "zh": "查看详情：己未羊年出生者哪天搬家好？择吉日指南"
+  },
+  "Xem chi tiết Tuổi Thìn dọn nhà ngày nào tốt? - Giải đáp chi tiết": {
+    "en": "Read more: What are good moving dates for people born in the Year of the Dragon? – Detailed guide",
+    "zh": "查看详情：属龙的人哪天搬家吉利？详细解答"
+  },
+  "Xem chi tiết [Cập nhật mới nhất] Chi tiết mức phạt quá tải 2023": {
+    "en": "Read more: [Latest update] Overloading penalties in 2023 – Detailed guide",
+    "zh": "查看详情：【最新更新】2023年车辆超载处罚详解"
+  },
+  "Xem chi tiết [Giải Đáp] Số điện thoại Ga Nam Định là bao nhiêu?": {
+    "en": "Read more: [FAQ] What is Nam Định Railway Station's phone number?",
+    "zh": "查看详情：【常见问题】南定火车站的电话号码是多少？"
+  },
+  "Xem chi tiết [Giải Đáp] từ TP Hồ Chí Minh đi Bạc Liêu bao nhiêu km?": {
+    "en": "Read more: [FAQ] How many kilometres from Ho Chi Minh City to Bạc Liêu?",
+    "zh": "查看详情：【常见问题】胡志明市到薄辽有多少公里？"
+  },
+  "Xem chi tiết [Giải đáp chi tiết] Trả vé tàu mất bao nhiêu phần trăm?": {
+    "en": "Read more: [Detailed guide] What percentage of a train ticket is lost when requesting a refund?",
+    "zh": "查看详情：【详细解答】火车票退票手续费是多少？"
+  },
+  "Xem chi tiết [Giải đáp] Biển số xe 88 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
+    "en": "Read more: [FAQ] Where is licence plate code 88 from and what is the province like?",
+    "zh": "查看详情：【常见问题】88号车牌属于哪里？当地有何特点？"
+  },
+  "Xem chi tiết [Giải đáp] Tàu nhanh nhất Sài Gòn Hà Nội bao nhiêu tiếng?": {
+    "en": "Read more: [FAQ] How many hours does the fastest train from Sài Gòn to Hanoi take?",
+    "zh": "查看详情：【常见问题】西贡至河内最快的火车需要多少小时？"
+  },
+  "Xem chi tiết [Giải đáp] Đi tàu từ Vinh Hà Nội mất bao lâu thời gian?": {
+    "en": "Read more: [FAQ] How long does the train from Vinh to Hanoi take?",
+    "zh": "查看详情：【常见问题】从荣市乘火车到河内需要多久？"
   },
   "Xem chi tiết cước ▾": {
     "en": "View details",
     "zh": "查看细节"
+  },
+  "Xem các bài viết tiếp theo": {
+    "en": "View next articles",
+    "zh": "查看下一篇文章"
+  },
+  "Xem các bài viết trước": {
+    "en": "View previous articles",
+    "zh": "查看上一篇文章"
   },
   "Xem ngay 3 điều cần biết khi gửi hàng Hà Nội - KCN Long Khánh": {
     "en": "See immediately 3 things to know when sending Hanoi - KNN Longh",
@@ -58404,8 +59464,8 @@
     "zh": "将迁移之日视为不可忘记的越南程序. 这被认为是每个家庭不能失去的重大事务. ."
   },
   "Xem ngày chuyển nhà là thủ tục không thể bỏ qua của người Việt. Đây được xem là chuyện hệ trọng của mỗi gia đình không...": {
-    "en": "See the day of the move as an unforgettable Vietnamese procedure. This is considered a big family affair.",
-    "zh": "将迁移之日视为不可忘记的越南程序. 这被认为是一个大家庭事务。"
+    "en": "Choosing an auspicious moving date is a familiar Vietnamese custom and an important consideration for families...",
+    "zh": "择吉日搬家是越南常见的习俗，也是许多家庭十分重视的事情……"
   },
   "Xem ngày lành tháng tốt để vào nhà mới": {
     "en": "See good day to enter new home",
@@ -58418,6 +59478,14 @@
   "Xem xét nguồn cung cấp dụng cụ đóng gói": {
     "en": "Review package tools supply",
     "zh": "审查一揽子工具的供应"
+  },
+  "Xem đối tác tiếp theo": {
+    "en": "View next partners",
+    "zh": "查看下一组合作伙伴"
+  },
+  "Xem đối tác trước": {
+    "en": "View previous partners",
+    "zh": "查看上一组合作伙伴"
   },
   "Xung quanh khu công nghiệp được bao bọc bởi hệ thống hạ tầng giao thông hoàn chỉnh, với các tuyến đường liên kết vùng như: Tuyến đường vành đai 4 với tổng chiều dài toàn tuyến 35,8 km, Hầm chui giao lộ An Sương (quận 12 – Hóc Môn đi tỉnh Long An, Tây Ninh), Tuyến metro số 2 (Bến Thành – Tham Lương) nối Bến Thành quận 1 về đường Trường Chinh và tới Bến xe An Sương, Đường Quốc lộ 1A, Tỉnh lộ 825, 830,...": {
     "en": "Around the industrial area is surrounded by the complete traffic infrastructure system, with zone-link routes such as: Belt Line 4 with a total length of 35.8 km, An Shire Highway (12 – Litcun went to Long An County, Western Europe, Metro Line No. 2 (September - Lesung) connecting the 1st District of Railway to the School Road and to the Park of An Sophia, Route 1A, Province 825, 830,...",
@@ -58474,6 +59542,10 @@
   "Xác nhận số lượng, khối lượng, chủng loại hàng hoá và đó là căn cứ để đóng thuế xuất nhập khẩu": {
     "en": "Confirmed the amount, mass, category of goods and that's the base to pay import import export taxes",
     "zh": "确认数量,质量,商品类别,这是支付进口进口出口税的依据."
+  },
+  "Xác nhận thông tin giao nhận": {
+    "en": "Confirm pickup and delivery details",
+    "zh": "确认收发货信息"
   },
   "Xác nhận địa chỉ;": {
     "en": "Confirm Address;",
@@ -58571,13 +59643,33 @@
     "en": "Archived YouTube",
     "zh": "存档 YouTube"
   },
+  "YÊU CẦU": {
+    "en": "REQUEST A",
+    "zh": "申请"
+  },
+  "YÊU CẦU BÁO GIÁ": {
+    "en": "Request a Quotation",
+    "zh": "申请报价"
+  },
   "Yên Bái": {
     "en": "Silence",
     "zh": "安静"
   },
+  "Yêu cầu báo giá vận chuyển Vận Tải Lưu Lê": {
+    "en": "Request a shipping quotation from Luu Le Transport",
+    "zh": "向 Luu Le Transport 申请货运报价"
+  },
+  "Yêu cầu bốc xếp hoặc đóng gói nếu có": {
+    "en": "Loading, unloading or packing requirements, if any",
+    "zh": "如有装卸或包装要求，请注明"
+  },
   "Yêu cầu mỗi thành viên tự sắp xếp đồ đạc cá nhân.": {
     "en": "Ask each member to arrange his own belongings.",
     "zh": "要求每个成员自行安排物品."
+  },
+  "Yêu cầu thêm": {
+    "en": "Additional requirements",
+    "zh": "其他要求"
   },
   "Yêu cầu xe nâng hoặc bốc xếp.": {
     "en": "Ask for a lift or a folded car.",
@@ -58636,32 +59728,32 @@
     "zh": "[新闻]西贡搬运工的服务价格"
   },
   "[Cập nhật mới nhất] Chi tiết mức phạt quá tải 2023": {
-    "en": "[Newst Sunday] Details of the 2023 fines",
-    "zh": "[星期日]2023年罚款详情"
+    "en": "[Latest update] Overloading penalties in 2023 – Detailed guide",
+    "zh": "【最新更新】2023年车辆超载处罚详解"
   },
   "[Giải Đáp] Số điện thoại Ga Nam Định là bao nhiêu?": {
-    "en": "[Presidents] What's the number of the Gahang?",
-    "zh": "[主席] 高昌号号是多少."
+    "en": "[FAQ] What is Nam Định Railway Station's phone number?",
+    "zh": "【常见问题】南定火车站的电话号码是多少？"
   },
   "[Giải Đáp] từ TP Hồ Chí Minh đi Bạc Liêu bao nhiêu km?": {
-    "en": "How many kilometers from TP Ho Chi Minh?",
-    "zh": "距离TP胡志明几公里?."
+    "en": "[FAQ] How many kilometres from Ho Chi Minh City to Bạc Liêu?",
+    "zh": "【常见问题】胡志明市到薄辽有多少公里？"
   },
   "[Giải đáp chi tiết] Trả vé tàu mất bao nhiêu phần trăm?": {
-    "en": "How much would it cost to pay the train ticket?",
-    "zh": "付火车票要多少钱?"
+    "en": "[Detailed guide] What percentage of a train ticket is lost when requesting a refund?",
+    "zh": "【详细解答】火车票退票手续费是多少？"
   },
   "[Giải đáp] Biển số xe 88 ở đâu? Đặc điểm tỉnh thành như thế nào?": {
-    "en": "[ Answer: Where's the license number 88? What is the nature of the province?",
-    "zh": "[答:88号牌照在哪里? 省之性质何在?"
+    "en": "[FAQ] Where is licence plate code 88 from and what is the province like?",
+    "zh": "【常见问题】88号车牌属于哪里？当地有何特点？"
   },
   "[Giải đáp] Tàu nhanh nhất Sài Gòn Hà Nội bao nhiêu tiếng?": {
-    "en": "How many hours is the fastest ship Saigon Hanoi?",
-    "zh": "最快的西贡河内号是几小时?"
+    "en": "[FAQ] How many hours does the fastest train from Sài Gòn to Hanoi take?",
+    "zh": "【常见问题】西贡至河内最快的火车需要多少小时？"
   },
   "[Giải đáp] Đi tàu từ Vinh Hà Nội mất bao lâu thời gian?": {
-    "en": "How long will it take to sail from Ha Hanoi?",
-    "zh": "从河内启航要多久?"
+    "en": "[FAQ] How long does the train from Vinh to Hanoi take?",
+    "zh": "【常见问题】从荣市乘火车到河内需要多久？"
   },
   "[Hướng dẫn chi tiết] Cách chỉnh kim xăng xe máy khi bị hỏng": {
     "en": "[Daniel leads details] How to adjust the engine fuel when it breaks down",
@@ -64575,6 +65667,10 @@
     "en": "Apply DDU conditions to benefit fully by regulations",
     "zh": "适用DDU条件,使条例充分受益"
   },
+  "Ý KIẾN": {
+    "en": "CUSTOMER REVIEWS",
+    "zh": "客户评价"
+  },
   "Ý nghĩa bài văn khấn bình an tại nhà là gì?": {
     "en": "What is the meaning of the prayer of peace at home?",
     "zh": "在家祈求平和,有何意义?"
@@ -64618,6 +65714,10 @@
   "ôi trường, do đó nó có khả năng phát triển mạnh trong giao thông vận tải tương lai. Dự đoán trong tương lai sẽ có nhiều các công ty vận tải hàng hóa triển khai dịch vụ của loại hình vận tải này.": {
     "en": "Oh school, so it has the ability to thrive in future transportation. In the future, there will be many freight companies that deploy the services of this type of transportation.",
     "zh": "哦,学校,所以它有能力 繁荣在未来的交通。 今后将有许多货运公司部署此类运输服务。"
+  },
+  "ĐIỂM LẤY VÀ ĐIỂM GIAO": {
+    "en": "Pickup and Delivery Locations",
+    "zh": "取货和送货地点"
   },
   "Đa dạng các gói dịch vụ.": {
     "en": "Various service packages.",
@@ -64735,6 +65835,10 @@
     "en": "Fill the information and select “Flash right away for details.",
     "zh": "填入信息并选择“立即闪烁以获取细节。"
   },
+  "Điền thông tin đơn hàng để Vận Tải Lưu Lê tư vấn phương án vận chuyển và báo giá phù hợp.": {
+    "en": "Enter your shipment details so Luu Le Transport can recommend a suitable transport plan and provide a quotation.",
+    "zh": "填写货运信息，以便 Luu Le Transport 推荐合适的运输方案并提供报价。"
+  },
   "Điền đầy đủ thông tin theo hướng dẫn và tải về bản scan sơ xin đổi Giấy phép lái xe bao gồm:": {
     "en": "Filling up the information as directed and downloading the preliminary scan for a change of licenses including:",
     "zh": "按照指示填充信息并下载许可证更改的初步扫描,包括:"
@@ -64766,6 +65870,14 @@
   "Điều hành mọi hoạt động của giao thông vận tải đường sắt Quốc Gia": {
     "en": "Executive all operations of National Railway Transport",
     "zh": "管理国家铁路运输的所有业务"
+  },
+  "Điều hướng bài viết Kiến thức vận tải": {
+    "en": "Navigate transport knowledge articles",
+    "zh": "浏览运输知识文章"
+  },
+  "Điều hướng Đối tác chúng tôi": {
+    "en": "Navigate our partners",
+    "zh": "浏览我们的合作伙伴"
   },
   "Điều khiển xe mà có tổng trọng lượng (khối lượng toàn bộ) của xe vượt quá tải trọng cho phép của cầu, đường. Từ": {
     "en": "Control the car which has total weight (the total weight) of the car exceeds the load allows of the bridge, the road. From",
@@ -64855,6 +65967,10 @@
     "en": "This, in turn, saves you the cost of your development not worth having afterwards.",
     "zh": "反过来,这又可以节省你的发展成本,但之后却不值得。"
   },
+  "Điều phối nhận hàng và đối chiếu tình trạng thực tế trước khi đưa vào vận chuyển.": {
+    "en": "Coordinate pickup and verify the goods' condition before transport.",
+    "zh": "协调取货并在运输前核对货物的实际状况。"
+  },
   "Điều quan trọng hơn là:": {
     "en": "More importantly:",
     "zh": "更重要的是:"
@@ -64914,6 +66030,10 @@
   "Điểm mạnh đầu tiên của loại hình vận chuyển đường thủy là vận tải được khối lượng hàng hóa lớn. Nếu bạn đang muốn vận chuyển các mặt hàng cồng kềnh hay lượng hàng lớn hoặc hàng chuyên dụng cần bảo quản lạnh có thể chọn hình thức vận chuyển bằng đường thủy.": {
     "en": "The first strength of the type of shipping waterways is the transport that gets large mass of goods. If you're trying to transport the Melanthius or the bulk of the goods or special goods you need to maintain the cold can choose the form of water transport.",
     "zh": "航运水道类型的第一力量是获得大量货物的运输. 如果试图运输梅兰修斯号或大部分货物或需要维持寒冷的特殊货物,可以选择水上运输的形式."
+  },
+  "Điểm nhận và điểm giao": {
+    "en": "Pickup and delivery points",
+    "zh": "取货及送货地点"
   },
   "Điểm nâng.": {
     "en": "The lift point.",
@@ -65006,6 +66126,10 @@
   "Đánh dấu điểm nâng.": {
     "en": "Mark the lift point.",
     "zh": "标出升起点."
+  },
+  "Đánh giá 5 trên 5 sao": {
+    "en": "Rated 5 out of 5 stars",
+    "zh": "评分：5星（满分5星）"
   },
   "Đánh giá Ưu, Nhược điểm Top 5 đơn vị vận chuyển hàng hóa tốt hiện nay": {
     "en": "Ratings, Top Five Points of Transported Goods Now",
@@ -65815,6 +66939,14 @@
     "en": "Singles",
     "zh": "单身"
   },
+  "Đơn hàng giao thành công": {
+    "en": "Shipments successfully delivered",
+    "zh": "成功交付的货运订单"
+  },
+  "Đơn hàng được theo dõi theo lịch trình và phối hợp giữa các điểm trung chuyển.": {
+    "en": "Shipments are tracked against their schedules and coordinated between transfer points.",
+    "zh": "按照计划跟踪货物，并协调各中转环节。"
+  },
   "Đơn hàng đến kho bao lâu thì nhận được hàng?": {
     "en": "How long before the order arrives at the warehouse?",
     "zh": "订货要多久才能到仓库?"
@@ -66375,6 +67507,10 @@
     "en": "The railway has its own share in the domestic water transport industry",
     "zh": "铁路在国内水上运输业中占有自己的份额."
   },
+  "Đường sắt kết hợp vận chuyển đường bộ": {
+    "en": "Combined rail and road transport",
+    "zh": "铁路与公路联运"
+  },
   "Đường sắt kết hợp xe tải:": {
     "en": "Railroads combined trucks:",
     "zh": "铁路联合卡车:"
@@ -66792,8 +67928,8 @@
     "zh": "我国越南分为三个地区: 中北部有63个省份,遍布全国. 越南的交通..."
   },
   "Đất nước Việt Nam chúng ta được chia thành 3 vùng miền: Bắc Trung Nam với 63 tỉnh thành trên cả nước. Giao thông tại Việt...": {
-    "en": "Our country of Vietnam is divided into three regions: North Central with 63 provinces across the country. Transportation in Vietnam...",
-    "zh": "我国越南分为三个地区: 中北部有63个省份,遍布全国. 越南的运输..."
+    "en": "Vietnam has traditionally been divided into northern, central and southern regions, with 63 provinces and cities. Transport in Vietnam...",
+    "zh": "越南传统上分为北部、中部和南部三个地区，共有63个省市。越南的交通……"
   },
   "Đầu tiên bạn chọn một chiếc cọc thẳng dài khoảng 0,6 - 1,5 m và đặt ở mặt đất bằng phẳng, không gồ ghề cùng 01 cái que nhỏ và nhọn, 01 đoạn dây dài, 02 hòn đá nhỏ.": {
     "en": "First you pick a straight wicket that is about 0.5-and-a-half feet (0.5 m) long and put on flat ground, not rough with 01 small sticks and sharp, 01 long strings, 02 small rocks.",
@@ -67090,6 +68226,14 @@
   "Đến địa điểm bưu cục của bưu điện gần nhất để làm thủ tục gửi hàng. Hoặc bạn có tài khoản trên nền tảng trực tuyến của VNPost có thể lên đơn trước. Bạn sẽ điền đầy đủ thông tin người gửi, người nhận, kiểm tra địa chỉ chính xác, thông tin về loại giấy tờ, hình thức chuyển thường hay nhanh, phí ship ai là người thanh toán…": {
     "en": "Go to the location of the nearest post office for the delivery procedure. Or you have an account on the online basis of VNPost that can be applied first. You will complete the sender information, receiver, check the exact address, information on the type of paper, normal form or fast transfer, the cost of theship who is the payment...",
     "zh": "前往最近的邮局所在地办理送货手续. 或者您在网上拥有一个可以先应用的 VNPost 的账户. 您将填写发件人信息,接收人,检查确切地址,纸张类型信息,正常形式或快速转接,谁支付的费用."
+  },
+  "ĐỀN BÙ KHI MẤT MÁT, HƯ HỎNG": {
+    "en": "COMPENSATION FOR LOSS OR DAMAGE",
+    "zh": "货物丢失或损坏赔偿"
+  },
+  "Đề xuất phương án phù hợp với tuyến đường, đặc tính hàng hóa và nhu cầu thực tế.": {
+    "en": "Recommend a transport plan suited to the route, cargo characteristics and actual needs.",
+    "zh": "根据运输路线、货物特点和实际需求制定合适的运输方案。"
   },
   "Đề đảm bảo chất lượng hàng hóa sau khi vận chuyển tại các tuyến đường dài như từ Hà Nội - KCN Bàu Hai Năm thì việc đóng gói cẩn thận là yêu cầu luôn được đặt ra.": {
     "en": "Insure the quality of the goods after shipping at such long routes as from Hanoi - KNC Two Years, careful packing is a requirement that is always set.",
@@ -67939,6 +69083,10 @@
     "en": "HEALTH",
     "zh": "卫生"
   },
+  "ĐỊNH HƯỚNG PHÁT TRIỂN": {
+    "en": "DEVELOPMENT DIRECTION",
+    "zh": "发展方向"
+  },
   "Địa chỉ": {
     "en": "Chile",
     "zh": "邮件地址"
@@ -68599,6 +69747,14 @@
     "en": "Read container position",
     "zh": "读取容器位置"
   },
+  "ĐỐI TÁC": {
+    "en": "PARTNERS",
+    "zh": "合作伙伴"
+  },
+  "Đối chiếu số lượng và tình trạng": {
+    "en": "Verify quantity and condition",
+    "zh": "核对数量及货物状况"
+  },
   "Đối ngược với mậu dịch là phi mậu dịch. Phi mậu dịch tức là không thuộc phạm trù buôn bán, kinh doanh. Hàng hóa phi mậu dịch là hàng hóa dùng để biếu, tặng, quảng cáo hoặc viện trợ. Thay vì giao dịch bằng hợp đồng thì hàng hóa phi mậu dịch được trao đổi bằng thỏa thuận.": {
     "en": "The opposite is non-immunity. The trade means no trade, no business. Non-injury goods are goods used for gifts, gifts, ads, or aid. Instead of a contract transaction, non-immunity goods were traded with a deal.",
     "zh": "则相正相相相相非相相. 贸易意味着没有贸易,没有商业. 非伤害性物品是指用于赠与,赠与,广告,或援助等物品. 非豁免货物不是合同交易,而是与一项交易进行交易。"
@@ -69223,6 +70379,10 @@
     "en": "The plains of the Red River are low, mainly plains should be favorable for economic growth, densely populated populations. This is a highly developed economy area, especially the Hanoi – the capital of the country.",
     "zh": "红河平原地势较低,以平原为主,应有利于经济增长,人口稠密. 这是一个高度发达的经济地区,尤其是河内-国家的首都."
   },
+  "Đồng hành": {
+    "en": "Partnership",
+    "zh": "携手同行"
+  },
   "Đồng thời khảo sát quãng đường và địa điểm di chuyển, lập phương án vận chuyển tối ưu, cung cấp cho khách hàng giá dịch vụ di chuyển trọn gói tại Quận 7.": {
     "en": "At the same time survey of the distance and destinations, set up the optimum transport plan, providing the customer with the price of the travel services in the 7th District.",
     "zh": "同时勘测行距和去向,制定优化交通规划,为客户提供\"七区\"出行服务价格."
@@ -69474,6 +70634,10 @@
   "Đội ngũ nhân sự chuyên nghiệp, giúp việc": {
     "en": "Professional personnel team, help",
     "zh": "专业人员小组,帮助"
+  },
+  "Đội ngũ nhân sự phối hợp từ tư vấn, điều phối, kho bãi, tài xế, giao nhận đến chăm sóc khách hàng trong suốt quá trình vận chuyển.": {
+    "en": "Our team works together across consultation, dispatch, warehousing, driving, pickup, delivery and customer care throughout each shipment.",
+    "zh": "我们的团队涵盖咨询、调度、仓储、司机、收发货及客户服务，全程协同保障运输。"
   },
   "Đội ngũ nhân sự tận tâm, làm việc hết mình, tư vấn giải đáp 24/7.": {
     "en": "The team of dedicated personnel, working hard, consulting questions 24/7.",
@@ -70587,6 +71751,10 @@
     "en": "The advantage of trading at gold stores is quick, without paper, without more time and ratings than some banks. However, you need to be alert to select prestigious addresses that are highly prized in order to avoid making money to cause the loss of bearing.",
     "zh": "在黄金店交易的优势是快活,没有纸,没有比一些银行更多的时间和收视率. 然而,你需要警惕地选择那些被高度珍视的有名的地址,以避免赚钱来造成承受力的丧失."
   },
+  "Ưu điểm là biết cân đối đường sắt và đường bộ theo từng đơn hàng. Nhờ vậy chi phí hợp lý hơn mà tiến độ giao nhận vẫn được đảm bảo ổn định.": {
+    "en": "One advantage is their ability to balance rail and road transport for each shipment, keeping costs reasonable without compromising delivery schedules.",
+    "zh": "他们能够根据每票货物合理搭配铁路与公路运输，从而控制成本，同时保持稳定的交付进度。"
+  },
   "Ưu điểm lớn nhất của": {
     "en": "The greatest advantage of",
     "zh": "最大的优势是"
@@ -70710,6 +71878,10 @@
   "Ở nước ta hiện nay có rất nhiều tuyến đường tàu hỏa. Với những thay đổi tích cực về chất lượng, di chuyển bằng tàu hỏa ngày càng được yêu thích. Mỗi chuyến tàu đều có đa dạng ghế cứng, ghế mềm, giường cứng mềm các loại,... mức giá sẽ khác nhau phụ thuộc vào thời gian đi và ghế bạn chọn.": {
     "en": "There are many railway routes in our country now. With positive changes in quality, the train's movement is increasingly popular. Every train has a variety of hard seats, soft chairs, soft beds, all kinds of,... prices will vary depending on the time you go and the seats you choose.",
     "zh": "我国现在有许多铁路线路. 随着质量的积极变化,列车的运动也越来越受欢迎. 每趟列车都有各种硬座椅,软座椅,软床,各种,. 价格会随去去的时间和选择的座位而变化."
+  },
+  "Ở nước ta hiện nay có rất nhiều tuyến đường tàu hỏa. Với những thay đổi tích cực về chất lượng, di chuyển bằng tàu hỏa...": {
+    "en": "Vietnam has many railway routes. Recent improvements in service quality and travel experience...",
+    "zh": "越南拥有多条铁路线路。近年来，服务质量和乘车体验不断改善……"
   },
   "Ở vị trí bàn thờ cũ gia chủ nên đặt lên bàn thờ 3 chén rượu, 3 lễ tiền vàng, 1 chén nước trắng, 1 lọ hoa gồm 5 bông cúc. Sau đó thắp hương, rắc một chút rượu lên bàn thờ và đọc văn khấn xin chuyển bàn thờ.": {
     "en": "At the former altar the master should place on the altar three bowls of wine, three golden offerings, one glass of white water, one jar of flowers consisting of five chrysus. Then light the incense, scatter a little wine on the altar, and recite the petition for the transfer of the altar.",

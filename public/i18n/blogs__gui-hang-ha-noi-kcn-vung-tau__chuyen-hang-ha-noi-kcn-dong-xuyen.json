@@ -5,13 +5,13 @@
       "en": "13 July 2022",
       "zh": "2022年7月13日 (中文(简体) )."
     },
-    "502 Bad Gateway": {
-      "en": "502 Bad Gateway",
-      "zh": "502 坏门"
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
     },
     "BLOG": {
-      "en": "BLOG",
-      "zh": "布尔格"
+      "en": "Blog",
+      "zh": "博客"
     },
     "Breadcrumb": {
       "en": "Breadcrubb",
@@ -21,13 +21,17 @@
       "en": "Synchronising folder",
       "zh": "创建新文件夹"
     },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
     "Bạn cần tìm gì?": {
       "en": "What are you looking for?",
       "zh": "你们在找什么?"
     },
     "BẢNG GIÁ": {
-      "en": "LEAD",
-      "zh": "领导"
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
     },
     "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
       "en": "THE BEST OF THE BEST",
@@ -62,8 +66,8 @@
       "zh": "欢呼声"
     },
     "CHUYỂN NHÀ": {
-      "en": "INTERVIEWING",
-      "zh": "介入"
+      "en": "Moving Services",
+      "zh": "搬家服务"
     },
     "CHUYỂN NHÀ TRỌN GÓI": {
       "en": "FIGURAL BEST",
@@ -84,6 +88,10 @@
     "Chat Zalo Vận Tải Lưu Lê": {
       "en": "Chat Zalo Download Archive",
       "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển hàng Hà Nội KCN Đông Xuyên": {
+      "en": "Transported Hanoi KNN Eastchuan",
+      "zh": "运输河内克南东川"
     },
     "Chuyển kho xưởng Hà Nội → Sài Gòn": {
       "en": "Transfer the Hanoi factory of Saigon",
@@ -165,6 +173,10 @@
       "en": "Damage Policy",
       "zh": "损害政策"
     },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
@@ -198,8 +210,8 @@
       "zh": "刘刘的运输服务"
     },
     "EMAIL": {
-      "en": "Your emails",
-      "zh": "您的电子邮件"
+      "en": "Email",
+      "zh": "电子邮箱"
     },
     "Email Vận Tải Lưu Lê": {
       "en": "Archived Transport",
@@ -256,6 +268,10 @@
     "Gửi hàng Hà Nam → Miền Nam": {
       "en": "Send Han Nam South",
       "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội KCN Vũng Tàu": {
+      "en": "Send the XIVKN China",
+      "zh": "发送十四KN中国"
     },
     "Gửi hàng Hà Nội – Sài Gòn": {
       "en": "Send the Hanoits – Saigon",
@@ -330,8 +346,8 @@
       "zh": "派一辆南车过去"
     },
     "HOTLINE": {
-      "en": "HOTLINE",
-      "zh": "荷尔蒙"
+      "en": "Hotline",
+      "zh": "服务热线"
     },
     "Hotline:": {
       "en": "Hotline:",
@@ -402,12 +418,12 @@
       "zh": "存档社会网络"
     },
     "Mỗi Chuyến Hàng": {
-      "en": "Every Row",
-      "zh": "每行"
+      "en": "Every Shipment",
+      "zh": "每一票货物"
     },
     "Một Niềm Tin": {
-      "en": "A Faith",
-      "zh": "一个信仰"
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
     },
     "Mở menu": {
       "en": "Open menu",
@@ -454,12 +470,12 @@
       "zh": "中央"
     },
     "TRA CỨU VẬN ĐƠN": {
-      "en": "I'm sorry.",
-      "zh": "对不起"
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
     },
     "TRANG CHỦ": {
-      "en": "PAGE 16",
-      "zh": "第16页"
+      "en": "Home",
+      "zh": "首页"
     },
     "TUYỂN DỤNG": {
       "en": "GREECE",
@@ -502,8 +518,8 @@
       "zh": "推特媒体"
     },
     "TÀI KHOẢN": {
-      "en": "APPRECTION",
-      "zh": "说明"
+      "en": "Account",
+      "zh": "账户"
     },
     "Tìm": {
       "en": "Find",
@@ -554,8 +570,8 @@
       "zh": "TPHCM 电话"
     },
     "VẬN CHUYỂN HÀNG HÓA": {
-      "en": "THE FIGURAL",
-      "zh": "数字"
+      "en": "Freight Transport",
+      "zh": "货物运输"
     },
     "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
       "en": "THE BEST OF THE BEST",
@@ -634,16 +650,20 @@
       "zh": "北方铁路运输"
     },
     "VỀ CHÚNG TÔI": {
-      "en": "ABOUT US",
+      "en": "About Us",
       "zh": "关于我们"
     },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
     "WEBSITE": {
-      "en": "SASETE",
-      "zh": "萨斯泰"
+      "en": "Website",
+      "zh": "网站"
     },
     "XE TẢI CHỞ HÀNG": {
-      "en": "I'm here.",
-      "zh": "我在这里。"
+      "en": "Truck Transport",
+      "zh": "卡车运输"
     },
     "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
       "en": "I'm in the middle of something.",
@@ -680,10 +700,6 @@
     "YouTube Vận Tải Lưu Lê": {
       "en": "Archived YouTube",
       "zh": "存档 YouTube"
-    },
-    "openresty": {
-      "en": "Openresty",
-      "zh": "开放"
     },
     "vantailuule.vn": {
       "en": "vantailule.vn",
