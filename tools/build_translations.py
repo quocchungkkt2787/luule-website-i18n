@@ -46,6 +46,14 @@ def translatable(s):
     # and could prevent an otherwise complete page from being published.
     if re.fullmatch(r'/[^\s<>]+', v):
         return False
+    # Proper-noun addresses and website references from the public audit report
+    # are identifiers, not prose. Preserve them as written across languages.
+    if re.fullmatch(r'Website:\s*(?:[A-Za-z0-9-]+\.)+[A-Za-z]{2,}', v, re.I):
+        return False
+    if re.fullmatch(r'Airport Blvd,\s*Singapore', v, re.I):
+        return False
+    if re.match(r'^Parkway Parade:\s*\d+\s+Marine Parade\b', v, re.I):
+        return False
     return (len(v) > 1 and bool(LETTER.search(v))
         and not re.match(r'^(https?://|www\.|mailto:|tel:)', v, re.I)
         and not re.fullmatch(r'[\w.+-]+@[\w.-]+\.[a-z]{2,}', v, re.I)
@@ -286,6 +294,10 @@ def main():
         assert 'Trang chủ' in texts and 'Nhập mã vận đơn' in texts
         assert 'doNotRead()' not in texts
         assert not translatable('/blogs/goc-tu-van/bien-so-56-o-dau')
+        assert not translatable('Website: vantaibacnamgiare.com')
+        assert not translatable('Website: vantaihuonglan.vn')
+        assert not translatable('Airport Blvd, Singapore')
+        assert not translatable('Parkway Parade: 80 Marine Parade,')
         assert translatable('Vận chuyển hàng hóa Bắc Nam')
         print('SELF-TEST PASS: public text and input labels detected, scripts excluded. No output published.')
         return
