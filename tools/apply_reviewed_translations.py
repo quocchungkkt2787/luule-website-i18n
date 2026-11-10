@@ -18,6 +18,45 @@ HOME = PUBLIC / 'home.json'
 STORE = ROOT / 'translation-cache.json'
 REVIEWED = ROOT / 'tools' / 'll-i18n-reviewed-translations.json'
 
+# Whitelist of public rate-checker terms known from the live website UI.
+PUBLIC_RATE_KEYS = {
+    'TRA CỨU',
+    'GIÁ CƯỚC VẬN CHUYỂN',
+    'TRA CỨU GIÁ CƯỚC VẬN CHUYỂN',
+    'CÔNG CỤ TRỰC TUYẾN',
+    'THÔNG TIN HÀNG HÓA',
+    'PHƯƠNG THỨC GIAO NHẬN',
+    'TUYẾN VẬN CHUYỂN',
+    'CƯỚC DỰ KIẾN CỦA BẠN',
+    'CƯỚC DỰ KIẾN',
+    'TÍNH CƯỚC NGAY',
+    'Tính cước ngay',
+    'TÍNH NGAY',
+    'Tính ngay',
+    'TÍNH CƯỚC NHANH',
+    'Chọn loại hàng',
+    'Chọn loại hàng hóa',
+    'Chọn thông tin hàng',
+    'Chọn thông tin hàng hóa',
+    'Nhập thông tin hàng hóa',
+    'Chọn phương thức giao nhận',
+    'Chọn hình thức giao nhận',
+    'Chọn tuyến vận chuyển',
+    'Chọn tuyến đường vận chuyển',
+    'Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.',
+    'Điền thông tin và chọn "Tính cước ngay" để xem chi tiết.',
+    'Điền thông tin và chọn “Tính cước ngay” để xem chi tiết',
+    'Phân loại hàng tự động',
+    'Tách rõ cước và phụ phí',
+    'VAT 8% là mặc định',
+    'VAT 8% là mặc định.',
+    'Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.',
+    'Bước 1',
+    'Bước 2',
+    'Bước 3',
+    'Bước 4',
+}
+
 
 def read(path: Path):
     return json.loads(path.read_text(encoding='utf-8'))
@@ -77,7 +116,12 @@ def main():
         other = read(path)
         if not isinstance(other, dict) or other.get('version') != 3 or not isinstance(other.get('texts'), dict):
             continue
-        corrections = [key for key in other['texts'] if key in edits]
+        corrections = {key for key in other['texts'] if key in edits}
+        # The rate-checker can be rendered as an interactive widget after
+        # crawling.  Safely include its known PUBLIC UI copy in that page pack,
+        # even if its DOM was not fully rendered during the crawl.
+        if other.get('route') == '/pages/tra-cuu-gia-cuoc-van-chuyen':
+            corrections.update(key for key in PUBLIC_RATE_KEYS if key in edits)
         if corrections:
             for key in corrections:
                 other['texts'][key] = edits[key]
