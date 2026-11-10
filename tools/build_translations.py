@@ -363,9 +363,13 @@ def build(pages,max_new=100000,demo=False):
         missing_entries=[x for x in items if x not in cache or not all(cache[x].get(y) for y in ('en','zh'))]
         if missing_entries:
             partial+=1
-            # Never serve an outdated pack if the same page was rebuilt incomplete.
+            # Keep the previously published pack while the current crawl is incomplete.
+            # A cached pack is better than deleting live translations; only a complete
+            # rebuild may replace it. The audit still counts this route as pending.
             old_file=PUBLIC/(route_id(route)+'.json')
-            if old_file.exists():old_file.unlink()
+            if old_file.exists():
+                print('PRESERVE existing pack (current crawl incomplete):',
+                      route, 'missing', len(missing_entries), flush=True)
             # Only PUBLIC website snippets appear in this report; no private data.
             pending_report.append({'route':route,'missing_count':len(missing_entries),
                                    'examples':sorted(missing_entries)[:4]})
