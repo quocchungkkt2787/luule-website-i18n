@@ -12111,6 +12111,10 @@
     "en": "Blog",
     "zh": "博客"
   },
+  "BMW Motorrad": {
+    "en": "Bentley Motorrad",
+    "zh": "宾特利摩托拉德"
+  },
   "BR - Vũng Tàu": {
     "en": "BR - China Dance",
     "zh": "BR - 中国舞蹈"
@@ -14316,8 +14320,8 @@
     "zh": "步骤4:"
   },
   "Bước 1": {
-    "en": "Step 1.",
-    "zh": "步骤1。"
+    "en": "Step 1",
+    "zh": "步骤一"
   },
   "Bước 1 – Tiếp nhận yêu cầu:": {
     "en": "Step 1 – Accept request:",
@@ -14709,7 +14713,7 @@
   },
   "Bước 2": {
     "en": "Step 2",
-    "zh": "步骤2"
+    "zh": "步骤二"
   },
   "Bước 2 – Lựa chọn phương án:": {
     "en": "Step 2 – Choice:",
@@ -15113,7 +15117,7 @@
   },
   "Bước 3": {
     "en": "Step 3",
-    "zh": "步骤3"
+    "zh": "步骤三"
   },
   "Bước 3 – Báo giá:": {
     "en": "Step 3 – The Price:",
@@ -15529,7 +15533,7 @@
   },
   "Bước 4": {
     "en": "Step 4",
-    "zh": "步骤4"
+    "zh": "步骤四"
   },
   "Bước 4 : Kiểm kê lại hàng hóa trước khi vận chuyển": {
     "en": "Step 4: Review of cargo before transport",
@@ -28943,6 +28947,26 @@
     "en": "Select Liu, Mail TPHCM – Ninh Ping is easy as a backhand.",
     "zh": "选择刘,邮件TPHCM – 宁平作为反手很容易."
   },
+  "Chọn Phường/Xã": {
+    "en": "KTTS/X Selection Yí",
+    "zh": "KTTS/ X 选择 Yí"
+  },
+  "Chọn Phường/Xã mới": {
+    "en": "New",
+    "zh": "新设"
+  },
+  "Chọn Quận/Huyện": {
+    "en": "Select Shire/Local",
+    "zh": "选择Shire/ 本地"
+  },
+  "Chọn Tỉnh/Thành phố": {
+    "en": "Select Province/ City",
+    "zh": "选择省/市"
+  },
+  "Chọn Tỉnh/Thành phố mới": {
+    "en": "Select Province/ New City",
+    "zh": "选择省/ 新城"
+  },
   "Chọn Vận tải Lưu Lê làm đơn vị đồng hành với dịch vụ gửi/vận chuyển hàng hoá từ Quảng Ninh đi Bình Phước, khách hàng sẽ nhận lại sự hài lòng. Những gì mà Vận tải Lưu Lê mang đến cho khách hàng có thể kể đến:": {
     "en": "Choosing Liu Transport as a companion unit with the send/subscription service from Guangzhou to Peace, customers will receive their satisfaction. What Liu Li Transport gives to customers may refer to:",
     "zh": "选择刘运为伴单位,提供从广州到和平的寄出/订阅服务,顾客将获得满意. 刘力运输给顾客的礼物可以指: 刘力运输."
@@ -29048,8 +29072,8 @@
     "zh": "选择适合需要的交付形式"
   },
   "Chọn hình thức giao nhận": {
-    "en": "Select the form of the receiver",
-    "zh": "选择接收器的形式"
+    "en": "Select Pickup & Delivery Method",
+    "zh": "请选择收发货方式"
   },
   "Chọn hình thức lấy hàng và giao hàng phù hợp với nhu cầu. Phí lấy/giao có thể thay đổi theo địa chỉ thực tế.": {
     "en": "Select the form of taking goods and delivery that suit the demand. The fee of taking/hand may change according to the actual address.",
@@ -29072,8 +29096,12 @@
     "zh": "选择粘贴桶边缘的确定磁带类型 。"
   },
   "Chọn loại hàng": {
-    "en": "Select a row type",
-    "zh": "选择行类型"
+    "en": "Select Cargo Type",
+    "zh": "请选择货物类型"
+  },
+  "Chọn loại hàng hóa": {
+    "en": "Select Cargo Type",
+    "zh": "请选择货物类型"
   },
   "Chọn loại xe": {
     "en": "Select a car type",
@@ -29116,16 +29144,20 @@
     "zh": "选择方法"
   },
   "Chọn phương thức giao nhận": {
-    "en": "Select the method to use",
-    "zh": "选择要使用的方法"
+    "en": "Select Pickup & Delivery Method",
+    "zh": "请选择收发货方式"
   },
   "Chọn phương tiện và người lái ở tại mục Công dân": {
     "en": "Select Media and Drivers at Citizens Entry",
     "zh": "在公民条目中选择媒体和驱动程序"
   },
   "Chọn thông tin hàng": {
-    "en": "Select Row Information",
-    "zh": "选择行信息"
+    "en": "Enter Cargo Details",
+    "zh": "填写货物信息"
+  },
+  "Chọn thông tin hàng hóa": {
+    "en": "Enter Cargo Details",
+    "zh": "填写货物信息"
   },
   "Chọn thùng carton có kích thước phù hợp với sản phẩm, đảm bảo đủ cứng cáp để bảo vệ hàng hóa.": {
     "en": "Selecting the carton barrel size suits the product, ensuring strong enough to secure the goods.",
@@ -29152,8 +29184,16 @@
     "zh": "选择分类坐标"
   },
   "Chọn tuyến vận chuyển": {
-    "en": "Select Transport Line",
-    "zh": "选择运输线"
+    "en": "Select Shipping Route",
+    "zh": "请选择运输路线"
+  },
+  "Chọn tuyến đường vận chuyển": {
+    "en": "Select Shipping Route",
+    "zh": "请选择运输路线"
+  },
+  "Chọn tình trạng": {
+    "en": "Other Organiser",
+    "zh": "其他联系人"
   },
   "Chọn tỉnh/thành phố, khu vực, phường/xã và nhập địa chỉ chi tiết theo các ô trên biểu mẫu.": {
     "en": "Select the province/city, area, ward/tag and enter detailed address according to the templates.",
@@ -29178,6 +29218,10 @@
   "Chọn vận tải Lưu Lê làm đơn vị hỗ trợ dịch vụ": {
     "en": "Select Liu Transport as Service Support Unit",
     "zh": "选择刘运为服务支助股"
+  },
+  "Chọn vị trí bốc xếp": {
+    "en": "Select the ranking position",
+    "zh": "选择排名位置"
   },
   "Chọn xe phù hợp với tài chính của bản thân": {
     "en": "Select car that matches your own finances",
@@ -30176,7 +30220,7 @@
     "zh": "我们的读者问..."
   },
   "CÔNG CỤ TRỰC TUYẾN": {
-    "en": "Online Tools",
+    "en": "ONLINE TOOLS",
     "zh": "在线工具"
   },
   "CÔNG TY TNHH VẬN TẢI LƯU LÊ": {
@@ -34279,6 +34323,10 @@
     "en": "There is specific goods classification, avoiding the general food goods with other items to ensure quality. At the same time, there should be specific preservatives for each species because their characteristics are different.",
     "zh": "有具体的商品分类,避免一般食品与其他物品一起来保证质量. 同时,由于每个物种的特点不同,因此应该有具体的防腐剂."
   },
+  "Có thang máy": {
+    "en": "There's an elevator.",
+    "zh": "有电梯"
+  },
   "Có thang máy hay không": {
     "en": "Is there an elevator or not?",
     "zh": "有没有电梯?"
@@ -36772,12 +36820,12 @@
     "zh": "数据库 : 这是选择服务的标准之一"
   },
   "CƯỚC DỰ KIẾN": {
-    "en": "CLASS KLASS",
-    "zh": "类类类"
+    "en": "ESTIMATED SHIPPING COST",
+    "zh": "预估运费"
   },
   "CƯỚC DỰ KIẾN CỦA BẠN": {
-    "en": "YOUR BEST",
-    "zh": "你最厉害的"
+    "en": "YOUR ESTIMATED SHIPPING COST",
+    "zh": "您的预估运费"
   },
   "CƯỚC PHÍ & BÁO GIÁ": {
     "en": "CONTINUTIONS",
@@ -37426,6 +37474,10 @@
   "CẦN TƯ VẤN NGAY?": {
     "en": "What's wrong?",
     "zh": "或?"
+  },
+  "Cần Lưu Lê tư vấn": {
+    "en": "← › › › › › › › › › ›  Lưu",
+    "zh": "{\\fn黑体\\fs20\\shad2\\2aH82\\3aH20\\4aH33\\fscx95\\3cH592001\\be1}♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪"
   },
   "Cần Thơ": {
     "en": "Can not open message",
@@ -38971,6 +39023,10 @@
     "en": "Travel:",
     "zh": "旅费:"
   },
+  "Ducati": {
+    "en": "Ducati",
+    "zh": "杜卡蒂语Name"
+  },
   "Duy Tân Plastics": {
     "en": "Duy Tân Plastics",
     "zh": "Duy Tân Plastics"
@@ -39074,6 +39130,26 @@
   "Dây nguồn, chuột, bàn phím nên được đóng cùng bộ.": {
     "en": "Sources, mice, keyboards should be on the same set.",
     "zh": "源,小鼠,键盘应该在同一套."
+  },
+  "Dòng xe côn tay khác": {
+    "en": "Other wheelcar lines",
+    "zh": "其他轮车线路"
+  },
+  "Dòng xe ga khác": {
+    "en": "Other Train Line",
+    "zh": "其他列车线路"
+  },
+  "Dòng xe máy điện khác": {
+    "en": "Other Electric Engine Line",
+    "zh": "其他电动发动机线"
+  },
+  "Dòng xe phân khối lớn khác": {
+    "en": "Other Large Block Car Line",
+    "zh": "其他大块车线"
+  },
+  "Dòng xe số khác": {
+    "en": "Number line",
+    "zh": "数字行"
   },
   "Dòng xe tải 10 tấn được sử dụng để chuyên chở hàng hóa có khối lượng lớn, đồng thời tuân thủ quy định về việc di chuyển dọc tuyến đường nội thành trong các tỉnh. Kích thước của loại xe tải này là dài 9,7m x rộng 2,35m x cao 2,5m.": {
     "en": "The 10-ton truck line was used to specialize in large mass freight, at the same time complying with the regulations of moving along the inner road into the provinces. The size of this type of truck is 9 feet (9.7 m) long x wide 2.35 m x 6 feet (2.5 m) high.",
@@ -43044,8 +43120,8 @@
     "zh": "[需要引用]"
   },
   "GIÁ CƯỚC VẬN CHUYỂN": {
-    "en": "THE FIGURAL",
-    "zh": "数字"
+    "en": "SHIPPING RATES",
+    "zh": "运输费率"
   },
   "GIÁ CƯỚC VẬN CHUYỂN HÀNG HÓA BẮC NAM": {
     "en": "THE BEST OF THE BEST",
@@ -50859,6 +50935,10 @@
     "en": "\"The World's largest Cave of Caves\".",
     "zh": "\"世界上最大的洞穴\"."
   },
+  "Harley-Davidson": {
+    "en": "Harley-Davidson",
+    "zh": "哈雷 - 戴维森"
+  },
   "Hay biển số xe 17 ở đâu? là ký hiệu cho tỉnh thành nào. Hãy cùng vận tải Lưu Lê tham khảo bài viết dưới đây, để biết thêm thông tin về vùng đất 17 của nước ta nhé.": {
     "en": "Where's the license plate 17? Let's move Liu Li to refer to the article below, to learn more about our 17th country.",
     "zh": "17号车牌在哪? 将刘力移到下面的文章来参考,更多地了解我国十七国."
@@ -51791,6 +51871,74 @@
     "en": "Fresh flowers: You select from 3 to 5 flowers with fresh, beautiful colors such as chrome, pink, glass, trumpet...",
     "zh": "鲜花:你从3到5个花中选取鲜花,花色优美,如铬,粉红色,玻璃,小号等. ."
   },
+  "Honda ADV": {
+    "en": "Honda ADV",
+    "zh": "本田汽车公司"
+  },
+  "Honda Africa Twin": {
+    "en": "Honda Africa Twin",
+    "zh": "本田非洲 双"
+  },
+  "Honda Air Blade": {
+    "en": "Honda Air Blade",
+    "zh": "本田空中刀锋"
+  },
+  "Honda Blade": {
+    "en": "Honda Blade",
+    "zh": "本田刀锋"
+  },
+  "Honda CB650R/CBR650R": {
+    "en": "Honda CB650R/CBR650R",
+    "zh": "本田 CB650R/CBR650R (中文(简体) )."
+  },
+  "Honda CBR150R": {
+    "en": "Honda CBR150R",
+    "zh": "本田 CBR150R (英语)."
+  },
+  "Honda Future": {
+    "en": "Honda Future",
+    "zh": "本田未来"
+  },
+  "Honda LEAD": {
+    "en": "Honda LREAD",
+    "zh": "本田已经开发"
+  },
+  "Honda PCX": {
+    "en": "Honda PCX",
+    "zh": "本田 PCX 软件"
+  },
+  "Honda SH 125i/160i/350i": {
+    "en": "Honda SH 125i/160i/Boxi",
+    "zh": "本田SH 125i/160i/Boxi"
+  },
+  "Honda SH Mode": {
+    "en": "Honda SH Mode",
+    "zh": "本田 SH 模式"
+  },
+  "Honda Super Cub": {
+    "en": "Honda Super Cub",
+    "zh": "本田超级熊"
+  },
+  "Honda Vario": {
+    "en": "Honda Vario",
+    "zh": "本田·瓦里奥"
+  },
+  "Honda Vision": {
+    "en": "Honda Vision",
+    "zh": "本田视野"
+  },
+  "Honda Wave Alpha": {
+    "en": "Honda Wave Alpha",
+    "zh": "本田波浪阿尔法"
+  },
+  "Honda Wave RSX": {
+    "en": "Honda Wave RSX",
+    "zh": "本田波风RSX"
+  },
+  "Honda Winner X": {
+    "en": "Honda Winner X",
+    "zh": "本田赢家 X"
+  },
   "Hotline": {
     "en": "Hotline",
     "zh": "热线"
@@ -52215,9 +52363,17 @@
     "en": "Kim",
     "zh": "金刚"
   },
+  "Huyện Ba Vì": {
+    "en": "Ba because",
+    "zh": "巴因为"
+  },
   "Huyện Buôn Đôn: 47-S1.": {
     "en": "London Fairly: 47-S1.",
     "zh": "伦敦公平:47-S1."
+  },
+  "Huyện Bình Chánh": {
+    "en": "Chief Fox",
+    "zh": "福克斯局长"
   },
   "Huyện Bình Sơn": {
     "en": "Pao Ping Shan",
@@ -52230,6 +52386,10 @@
   "Huyện Bắc Trà My": {
     "en": "North Tea My",
     "zh": "北边茶我"
+  },
+  "Huyện Chương Mỹ": {
+    "en": "US Chapter",
+    "zh": "美国章节"
   },
   "Huyện Chợ Mới": {
     "en": "New",
@@ -52255,6 +52415,10 @@
     "en": "M'gar: 47-H1.",
     "zh": "玛格:47-H1."
   },
+  "Huyện Cần Giờ": {
+    "en": "Organisation",
+    "zh": "日历"
+  },
   "Huyện Cẩm Mỹ: 60–B6": {
     "en": "American Cams: 60–B6",
     "zh": "美国骆驼:60-B6"
@@ -52263,6 +52427,10 @@
     "en": "Red Flag",
     "zh": "红旗"
   },
+  "Huyện Củ Chi": {
+    "en": "Chithoku",
+    "zh": "千户"
+  },
   "Huyện Duy Xuyên": {
     "en": "Yichuan",
     "zh": "义川"
@@ -52270,6 +52438,10 @@
   "Huyện EaKar: 47-F1.": {
     "en": "OEKar: 47-F1.",
     "zh": "OEKar: 47-F1 (英语)."
+  },
+  "Huyện Gia Lâm": {
+    "en": "Lamia",
+    "zh": "拉米亚"
   },
   "Huyện Gia Viễn có ký hiệu riêng biệt là: 35G1 – XXX.XX": {
     "en": "The Tennis has its own signature: 35G1 – XXX.XX",
@@ -52286,6 +52458,14 @@
   "Huyện Hoài Ân": {
     "en": "Aoi Asia",
     "zh": "亚洲葵花会"
+  },
+  "Huyện Hoài Đức": {
+    "en": "Germany",
+    "zh": "德国"
+  },
+  "Huyện Hóc Môn": {
+    "en": "The Gate",
+    "zh": "门"
   },
   "Huyện Kim Sơn có ký hiệu riêng biệt là: 35K1 – XXX.XX": {
     "en": "Kim Shan has its own signature: 35K1 – XXX.XX",
@@ -52339,9 +52519,17 @@
     "en": "Minh Long",
     "zh": "明龙"
   },
+  "Huyện Mê Linh": {
+    "en": "\"Meo-Tunes\"",
+    "zh": "\"美图恩斯\""
+  },
   "Huyện Mộ Đức": {
     "en": "German grave",
     "zh": "德国坟墓"
+  },
+  "Huyện Mỹ Đức": {
+    "en": "German American",
+    "zh": "德裔美国人"
   },
   "Huyện Na Rì": {
     "en": "natto",
@@ -52366,6 +52554,10 @@
   "Huyện Nho Quan có ký hiệu riêng biệt là: 35N1 – XXX.XX": {
     "en": "The name of the Yuan has a distinct notation: 35N1 – XXX.XX",
     "zh": "元人名有明显的注: 35N1–XXX.XX"
+  },
+  "Huyện Nhà Bè": {
+    "en": "House",
+    "zh": "房间"
   },
   "Huyện Nhơn Trạch: 60–C2": {
     "en": "The ACT: 60–C2",
@@ -52407,6 +52599,14 @@
     "en": "http://www.god: 69-K1 (5 numbers) and 69-P1 (4 numbers)",
     "zh": "http://www.god:69-K1(5个数字)和69-P1(4个数字)"
   },
+  "Huyện Phú Xuyên": {
+    "en": "xhichuan",
+    "zh": "hi川"
+  },
+  "Huyện Phúc Thọ": {
+    "en": "They're happy",
+    "zh": "他们很高兴"
+  },
   "Huyện Phước Sơn": {
     "en": "Lucky Mountain",
     "zh": "幸运山"
@@ -52426,6 +52626,14 @@
   "Huyện Quế Sơn": {
     "en": "Mohammad Paint",
     "zh": "穆罕默德画"
+  },
+  "Huyện Quốc Oai": {
+    "en": "Ooou",
+    "zh": "呜呜"
+  },
+  "Huyện Sóc Sơn": {
+    "en": "\"Movie Mountain\"",
+    "zh": "\"电影山\""
   },
   "Huyện Sông Hinh": {
     "en": "Thin River",
@@ -52451,9 +52659,25 @@
     "en": "Shao Jin",
     "zh": "绍振"
   },
+  "Huyện Thanh Oai": {
+    "en": "I'm sorry.",
+    "zh": "对不起"
+  },
+  "Huyện Thanh Trì": {
+    "en": "Qingqing",
+    "zh": "庆青"
+  },
   "Huyện Thăng Bình": {
     "en": "Leung",
     "zh": "梁国"
+  },
+  "Huyện Thường Tín": {
+    "en": "Octophone",
+    "zh": "八音响"
+  },
+  "Huyện Thạch Thất": {
+    "en": "Stone Stone.",
+    "zh": "石头石."
   },
   "Huyện Thống Nhất: 60–B7": {
     "en": "United Press: 60–B7",
@@ -52547,6 +52771,14 @@
     "en": "The Mo Yell has a distinct notation: 35M1 – XXX.XX",
     "zh": "Moyll有一个明显的标记:35M1 – XXX.XX"
   },
+  "Huyện Đan Phượng": {
+    "en": "Shan Phoenix",
+    "zh": "山凤凰"
+  },
+  "Huyện Đông Anh": {
+    "en": "East UK Antiquities",
+    "zh": "英国东部文物"
+  },
   "Huyện Đông Giang": {
     "en": "Don't worry",
     "zh": "别担心"
@@ -52586,6 +52818,10 @@
   "Huyện đảo Lý Sơn": {
     "en": "The Island of Li Shan",
     "zh": "李山岛"
+  },
+  "Huyện Ứng Hòa": {
+    "en": "Compatibility",
+    "zh": "兼容性"
   },
   "Huế": {
     "en": "Dirty",
@@ -59591,6 +59827,18 @@
     "en": "KT01 – KT02 – KT03",
     "zh": "KT01 — KT02 — KT03 (英语)."
   },
+  "KTM": {
+    "en": "KTM",
+    "zh": "KTM 机车"
+  },
+  "Kawasaki Versys": {
+    "en": "Kawasaki Versys",
+    "zh": "川崎·韦尔西"
+  },
+  "Kawasaki Z650/Z900": {
+    "en": "Kawasaki Z650/Z900",
+    "zh": "川崎Z650/Z900号"
+  },
   "Kcn Nam sách": {
     "en": "Kcn Nam Book",
     "zh": "Kcn 南书"
@@ -64431,6 +64679,10 @@
     "en": "There's no limit on how many days it's going to be, where it's going to be, where it's going to be delivered, everything's due to a deal between you and the company;",
     "zh": "所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所出所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所出所取所取所取所取所取所取所取所取所取所取所出所出所取所出所所取所取所所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所取所"
   },
+  "Không có thang máy": {
+    "en": "No elevator.",
+    "zh": "没有电梯。"
+  },
   "Không công nghiệp AGTEX Long Bình có địa chỉ ở Phường Long Bình, thành phố Biên Hòa, tỉnh Đồng Nai. Tổng diện tích của KCN là 52 ha, tỷ lệ lấp đầy là 10% với tổng cộng có 28 công ty. Trong KCN AGTEX Long Bình hoạt động các ngành nghề phổ biến như dệt; cơ khí; điện tử; sản xuất đồ gỗ; vật liệu xây dựng (bê tông đúc, gạch, tấm lợp); đóng giày; thiết bị nội thất; bao bì các loại.": {
     "en": "No industry AGTEX Long Ping has an address in Midlands Long Ping, Border City, District of Nai. The total area of KCN is 52 ha, the full rate of 10% with a total of 28 companies. In KNC AGTEX Long Ping operates popular professions such as textiles; mechanics; electronics; woodwork; building materials (mixed concrete, brick, sheeting); shoe making; interior equipment; envelopes.",
     "zh": "无业AGTEX长平在直隶地区边境市中地长平有地址. 克共市总面积为52公顷,全高10%,共有28家公司. 在KNC AGTEX Long Ping中,经营有:纺织;机械;电子;木活;建材(混凝土;砖块;平板);制鞋;室内设备;信封等流行专业."
@@ -67008,8 +67260,8 @@
     "zh": "计算后的建立信任措施结果必须转换为立方公尺单位(m3)。 即1个建立信任措施=1立方米。"
   },
   "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
-    "en": "The displayed rate is an estimate. Luu Le Transport will review and confirm the final rate before shipping.",
-    "zh": "显示的运费仅为预估。Luu Le Transport 将在发运前审核并确认最终费用。"
+    "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+    "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
   },
   "Kết quả trực tuyến là dữ liệu tham khảo. Trước khi nhận hàng, thông tin thực tế vẫn được kiểm tra lại để xác nhận mức cước cuối cùng.": {
     "en": "Online results are reference data. Before receiving the package, practical information was still re-checked to confirm the final score.",
@@ -80423,6 +80675,10 @@
     "en": "Enter the information required to search the license plate number, in which:",
     "zh": "输入搜索车牌号码所需的信息,其中:"
   },
+  "Nhập thông tin hàng hóa": {
+    "en": "Enter Cargo Details",
+    "zh": "填写货物信息"
+  },
   "Nhập thông tin và tải lên ảnh chụp các giấy tờ được yêu cầu lên.": {
     "en": "Import information and upload photos of papers requested.",
     "zh": "导入所需文件的信息和上传照片 。"
@@ -85335,6 +85591,10 @@
     "en": "PEACE",
     "zh": "和平"
   },
+  "PHƯƠNG THỨC GIAO NHẬN": {
+    "en": "PICKUP & DELIVERY METHOD",
+    "zh": "收发货方式"
+  },
   "PHƯƠNG THỨC VẬN CHUYỂN": {
     "en": "Transport Method",
     "zh": "运输方式"
@@ -85628,8 +85888,8 @@
     "zh": "货物分类:"
   },
   "Phân loại hàng tự động": {
-    "en": "Auto Category",
-    "zh": "自动分类"
+    "en": "Automatic Cargo Classification",
+    "zh": "自动识别货物类别"
   },
   "Phân loại hàng.": {
     "en": "Classified.",
@@ -87562,6 +87822,10 @@
   "Phức tạp nhất vì phải phối hợp hàng hóa với máy móc.": {
     "en": "It's the most complicated because it has to coordinate goods with machines.",
     "zh": "最复杂的是因为它必须和机器协调货物."
+  },
+  "Piaggio Liberty": {
+    "en": "Piaggio Liberty",
+    "zh": "皮亚焦自由组织"
   },
   "Pin, ắc quy hoặc thiết bị có pin.": {
     "en": "Battery, battery or battery device.",
@@ -90251,6 +90515,10 @@
     "en": "South Du Islands",
     "zh": "南都群岛"
   },
+  "Quận 1": {
+    "en": "District 1",
+    "zh": "区1"
+  },
   "Quận 1 là nơi tập trung rất nhiều dân cư và các tòa nhà cao tầng,... điều này dẫn đến tình trạng ùn tắc giao thông kéo dài tại nhiều tuyến phố gây khó khăn khi chuyển nhà.": {
     "en": "The 1st District is a large concentration of residents and high-rise buildings, which lead to long traffic jams in many streets that make moving difficult.",
     "zh": "第一区是居民和高层建筑的大集中区,这导致许多街道的交通堵塞时间长,使得交通困难."
@@ -90259,9 +90527,25 @@
     "en": "The 1st District is located in the centre of the city of Ho Chi Minh, where it gathers high-rise houses, Consulates, trade centres, and recreation. So it's not hard to understand when there's a need.",
     "zh": "第1区位于胡志明市中心,聚集高楼住宅,领事馆,贸易中心,娱乐场所. 所以当有需要时,并不难理解."
   },
+  "Quận 10": {
+    "en": "District 10",
+    "zh": "第10区"
+  },
   "Quận 10 nằm ngay trung tâm Thành phố Hồ Chí Minh với lượng dân cư đông đúc cư trú tại nơi này. Dọc các tuyến đường tại Quận 10 có rất nhiều các công trình công cộng, giao thông tại đây vô cùng phức tạp nên việc xảy ra ùn tắc nhất vào các giờ cao điểm là việc xảy ra thường xuyên. Điều này ảnh hưởng không nhỏ đến việc di chuyển của người dân nói riêng và thời gian chuyển nhà nói chung.Vì vậy việc lựa chọn tuyến đường trước khi chuyển nhà là việc vô cùng cần thiết để giúp tiết kiệm thời gian, công sức cũng như tiền của.": {
     "en": "The 10th District is located in the center of Ho Chi Minh City with a large population of residents in the area. Along the routes in the 10th District there are a lot of public work, traffic here is extremely complicated, so what happens most in rush hours is that it happens often. This has no small impact on people's move in particular and home time in general. So the choice of the route before moving is essential to saving time, effort, and money.",
     "zh": "第十区位于胡志明市中心,区内居民众多. 沿着第十区的路线有很多公共工作,这里的交通极为复杂,所以在繁忙时间里最经常发生的事情就是经常发生. 这对人们的行动和一般的家庭时间影响不大。 因此在移动前选择路线对于节省时间,精力和金钱至关重要."
+  },
+  "Quận 11": {
+    "en": "District 11",
+    "zh": "第11区"
+  },
+  "Quận 12": {
+    "en": "District 12",
+    "zh": "第12区"
+  },
+  "Quận 3": {
+    "en": "District 3",
+    "zh": "第3区"
   },
   "Quận 3 - Một trong những quận nội thành của Thành phố Hồ Chí Minh": {
     "en": "District 3 - One of the inner city districts of Ho Chi Minh City",
@@ -90271,33 +90555,125 @@
     "en": "The 3rd District is honored as one of the world's finest neighborhoods voted by Timeout magazine. Because District 3 is a hot-life neighborhood with little disturbance. The site still holds many historical markings alongside the dogged municipalities.",
     "zh": "第三区被誉为\"超时空\"杂志投票评选的世界优秀街区之一. 因为第3区是一个热闹的街区 没有什么干扰 该遗址仍保留着许多历史标志,与被围的市镇相邻."
   },
+  "Quận 4": {
+    "en": "District 4",
+    "zh": "第4区"
+  },
+  "Quận 5": {
+    "en": "District 5",
+    "zh": "第5区"
+  },
   "Quận 5 thuộc khu vực trung tâm của thành phố Hồ Chí Minh. Lịch sử hình thành và phát triển của vùng đất Quận 5 gắn liền với sự hình thành và phát triển của khu vực Chợ Lớn với lịch sử hơn 300 năm.": {
     "en": "District 5 is in the central area of the city of Ho Chi Minh. History of the formation and development of the District of 5 is associated with the formation and development of the Great Market Area with over 300 years of history.",
     "zh": "第五区位于胡志明市中心地带. 5区形成和发展的历史与300多年历史的大市场区的形成和发展有关."
+  },
+  "Quận 6": {
+    "en": "District 6",
+    "zh": "第6区"
+  },
+  "Quận 7": {
+    "en": "District 7",
+    "zh": "第7区"
+  },
+  "Quận 8": {
+    "en": "District 8",
+    "zh": "第8区"
   },
   "Quận 8 là nơi có hệ thống kênh rạch lớn nhất Thành phố Hồ Chí Minh, là khu vực nội thành của Sài Gòn nên giao thông Quận 8 khá được chú trọng đầu tư. Trên dọc các tuyến đường chính có rất nhiều hạ tầng công cộng tập trung nhiều khu dân cư thường xuyên ùn tắc kéo dài khiến việc di chuyển chuyển nhà khó khăn. Vì lẽ đó nên khi chuyển nhà tại Quận 8 cần hết sức lưu ý đến tuyến đường và lựa chọn thời gian chuyển nhà hợp lý tránh tắc nghẽn ùn tắc giao thông nhất là tại những nút giao của các tuyến phố.": {
     "en": "District 8 is the largest channel system in the city of Ho Chi Minh, which is the inner part of Saigon so the 8th District traffic is fairly invested. Along the main routes there are numerous public infrastructures concentrated many of the frequent gridlocks that make moving difficult. Since that is why moving in District 8 needs to be extremely attentive to the route and choosing the right time to avoid traffic jams at the intersections of the streets.",
     "zh": "8区是胡志明市最大的航道系统,是西贡的内地,因此8区交通得到公平投资. 在主要路线沿线,有许多公共基础设施集中了许多频繁的堵塞,使交通困难。 正因为如此,8区搬迁需要极其关注路线,选择合适的时间避免街道交汇处的交通堵塞."
   },
+  "Quận Ba Đình": {
+    "en": "District of Ting",
+    "zh": "丁区"
+  },
+  "Quận Bình Thạnh": {
+    "en": "District of Peace",
+    "zh": "和平区"
+  },
   "Quận Bình Thủy": {
     "en": "Water District",
     "zh": "水区"
+  },
+  "Quận Bình Tân": {
+    "en": "Penis District",
+    "zh": "佩尼斯区"
+  },
+  "Quận Bắc Từ Liêm": {
+    "en": "North District from the Dyer",
+    "zh": "北区从迪尔"
   },
   "Quận Cái Răng": {
     "en": "The Tooth District",
     "zh": "牙区"
   },
+  "Quận Cầu Giấy": {
+    "en": "Paper Bridge District",
+    "zh": "纸桥区"
+  },
+  "Quận Gò Vấp": {
+    "en": "\"President District\".",
+    "zh": "\"区长\"."
+  },
+  "Quận Hai Bà Trưng": {
+    "en": "Two women's district",
+    "zh": "两个女区"
+  },
+  "Quận Hoàn Kiếm": {
+    "en": "The District of Swords",
+    "zh": "剑城区"
+  },
+  "Quận Hoàng Mai": {
+    "en": "Royal Mai District",
+    "zh": "皇家迈区"
+  },
+  "Quận Hà Đông": {
+    "en": "Dutch District",
+    "zh": "荷兰区"
+  },
+  "Quận Long Biên": {
+    "en": "Long Border District",
+    "zh": "长边区"
+  },
+  "Quận Nam Từ Liêm": {
+    "en": "South District from the South",
+    "zh": "南部地区"
+  },
   "Quận Ninh Kiều": {
     "en": "Ning District",
     "zh": "宁区"
+  },
+  "Quận Phú Nhuận": {
+    "en": "Funky District",
+    "zh": "丰基区"
+  },
+  "Quận Thanh Xuân": {
+    "en": "Qing Chun District",
+    "zh": "青春区"
   },
   "Quận Thốt Nốt": {
     "en": "District",
     "zh": "地区"
   },
+  "Quận Tân Bình": {
+    "en": "New Zealand District",
+    "zh": "新西兰区"
+  },
+  "Quận Tân Phú": {
+    "en": "New Funky District",
+    "zh": "新丰基区"
+  },
+  "Quận Tây Hồ": {
+    "en": "West Lake District",
+    "zh": "西湖区"
+  },
   "Quận Ô Môn": {
     "en": "District of the Gate",
     "zh": "城门区"
+  },
+  "Quận Đống Đa": {
+    "en": "Middle District",
+    "zh": "中区"
   },
   "Quận/Huyện": {
     "en": "District/Local",
@@ -90426,6 +90802,10 @@
   "Rolling Container: Container có bánh.": {
     "en": "Rolling Continner: Container has cake.",
     "zh": "滚转孔丁纳:集装箱有蛋糕."
+  },
+  "Royal Enfield": {
+    "en": "Royal Enfield",
+    "zh": "皇家恩菲尔德"
   },
   "Rà soát tên người liên hệ, địa chỉ, số kiện, trọng lượng, thể tích, thời gian và yêu cầu dịch vụ.": {
     "en": "Check the name of the contact, address, number of lawsuits, weight, volume, time, and service requirements.",
@@ -90674,6 +91054,14 @@
   "STT": {
     "en": "STT",
     "zh": "STT 服务器"
+  },
+  "SYM Attila": {
+    "en": "SYMtica",
+    "zh": "软件"
+  },
+  "SYM Galaxy": {
+    "en": "SYM Galaxy",
+    "zh": "银河系统"
   },
   "Sai lệch lớn giữa số liệu khai báo và số liệu thực tế có thể khiến phương án ban đầu không còn phù hợp.": {
     "en": "The big deviation between the account data and the actual data can make the original option invalid.",
@@ -91527,6 +91915,22 @@
     "en": "Each one’s thinking is not the same, and there are people who seek help from their families, relatives, and friends who have also moved their belongings themselves. But in terms of many factors both objective and subjective, you should not move your home alone because:",
     "zh": "各自思想不一,亦有向家人,亲戚,朋友求援,亦自移其财物. 但是,从客观和主观两方面的许多因素来看,你不应该独自搬家,因为:"
   },
+  "Suzuki Burgman": {
+    "en": "Suzuki Burgman",
+    "zh": "铃木伯格曼"
+  },
+  "Suzuki GSX-R150": {
+    "en": "Suzuki GSX-R150",
+    "zh": "铃木 GSX-R150"
+  },
+  "Suzuki Raider": {
+    "en": "Suzuki Raider",
+    "zh": "铃木突击队"
+  },
+  "Suzuki Satria": {
+    "en": "Suzuki Satria",
+    "zh": "铃木佐特里亚"
+  },
   "Suốt quá trình chuẩn bị, giao vận hàng hóa đều được giám sát nhằm đảm bảo độ an toàn cho hàng hoá.": {
     "en": "Throughout the preparation, shipping of goods was monitored to ensure the safety of goods.",
     "zh": "在整个准备过程中,对货物的运输进行监测,以确保货物安全。"
@@ -91954,6 +92358,10 @@
   "Sản xuất vật liệu mới, vật liệu chuyên dụng và vật liệu xây dựng.": {
     "en": "New materials production, specialized materials and building materials.",
     "zh": "新材料生产,专用材料和建筑材料."
+  },
+  "Sảnh / tầng trệt": {
+    "en": "Bottom/floor",
+    "zh": "底楼/底楼"
   },
   "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
     "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
@@ -93847,6 +94255,10 @@
     "en": "PORTUGUESE",
     "zh": "葡萄牙"
   },
+  "THÔNG TIN HÀNG HÓA": {
+    "en": "CARGO INFORMATION",
+    "zh": "货物信息"
+  },
   "THÔNG TIN LIÊN HỆ": {
     "en": "INTERVIECTION",
     "zh": "暂停"
@@ -94052,16 +94464,16 @@
     "zh": "TPHCM呼叫宁平"
   },
   "TRA CỨU": {
-    "en": "Bristol",
-    "zh": "布里斯托尔"
+    "en": "CHECK",
+    "zh": "查询"
   },
   "TRA CỨU GIÁ CƯỚC": {
     "en": "CENTRAL",
     "zh": "中央"
   },
   "TRA CỨU GIÁ CƯỚC VẬN CHUYỂN": {
-    "en": "Check Shipping Rates",
-    "zh": "查询运输价格"
+    "en": "CHECK SHIPPING RATES",
+    "zh": "查询运输费率"
   },
   "TRA CỨU NGAY": {
     "en": "NORTH",
@@ -94094,6 +94506,10 @@
   "TUYẾN TRỌNG TÂM": {
     "en": "CONTINUTION",
     "zh": "继续"
+  },
+  "TUYẾN VẬN CHUYỂN": {
+    "en": "SHIPPING ROUTE",
+    "zh": "运输路线"
   },
   "TUYỂN DỤNG": {
     "en": "GREECE",
@@ -96091,9 +96507,25 @@
     "en": "The City of Curry Mau: 69-B1; 69-B2; 69-C1 and 69-K2",
     "zh": "库里毛市:69-B1;69-B2;69-C1和69-K2"
   },
+  "Thành phố Cần Thơ": {
+    "en": "City of Need of Poem",
+    "zh": "贫困之城"
+  },
+  "Thành phố Huế": {
+    "en": "Salt City",
+    "zh": "盐城"
+  },
   "Thành phố Huế nằm ở khu vực miền Trung, xung quanh tiếp giáp nhiều tỉnh, thành phố nổi bật như Quảng Trị, Quảng Nam và Đà Nẵng. Chính vì tọa lạc ở vị trí trung tâm đã tạo điều kiện cho Thừa Thiên Huế có cơ hội phát triển rất nhiều lĩnh vực đặc biệt là giao thông vận tải, trao đổi hàng hóa.": {
     "en": "The city of H is located in the Central Region, surrounded by several provinces, the city of prominence such as Guang, Guangnan, and Datuan, which is located in the centre of the region that facilitates the Divine Constabulary to develop numerous areas of special transportation, exchange of goods.",
     "zh": "呼和浩特市位于中部大区,四面环绕着几个省,广,广南,大同等突出市,大同市位于中部大区,方便神保会发展众多特殊交通,物资交换领域."
+  },
+  "Thành phố Hà Nội": {
+    "en": "Hanoi City",
+    "zh": "河内市"
+  },
+  "Thành phố Hải Phòng": {
+    "en": "The City of Customs",
+    "zh": "海关"
   },
   "Thành phố Hồ Chí Minh": {
     "en": "Ho Chi Minh City",
@@ -96155,6 +96587,10 @@
     "en": "The city of Qingization is located on the 1A Highway and the long North South Railroad, about 158 km (58 km) from Hanoi and is approximately 62 km (62 km) from the Nincheg. The province is located on the Route 15 segments of Peace - Peace - Art An and has the 217 Highway to your country Laos.",
     "zh": "清化市位于1A高速公路和长南铁路上,距河内约158公里(58公里),距宁采格约62公里(62公里). 该省位于和平-和平-艺术安15号公路段,有217条通往老挝的公路。"
   },
+  "Thành phố Thủ Đức": {
+    "en": "German City of Prime Ministers",
+    "zh": "德国总理城"
+  },
   "Thành phố Tuy Hòa": {
     "en": "The City of the Republic",
     "zh": "共和国城市"
@@ -96214,6 +96650,10 @@
   "Thành phố biển Nha Trang với các bãi tắm trong xanh, trải dài cũng khu vui chơi giải trí hấp dẫn:": {
     "en": "The Spanish City Page with blue, long showers as well as attractive entertainment:",
     "zh": "西班牙城市网页上,"
+  },
+  "Thành phố Đà Nẵng": {
+    "en": "Da Nang City",
+    "zh": "大南市"
   },
   "Thách thức trong vận chuyển hàng cồng kềnh": {
     "en": "The Challenge in Transporting Melanthius",
@@ -97706,6 +98146,10 @@
   "Thị xã Sông Cầu": {
     "en": "Bridge River Town",
     "zh": "桥河镇"
+  },
+  "Thị xã Sơn Tây": {
+    "en": "Western Village",
+    "zh": "西村镇"
   },
   "Thị xã Điện Bàn": {
     "en": "Circuit Town",
@@ -101715,6 +102159,10 @@
     "en": "Direct trade with Transportation Advisory.",
     "zh": "直接与运输咨询公司进行贸易。"
   },
+  "Triumph": {
+    "en": "Triumph",
+    "zh": "凯旋"
+  },
   "Triển khai ký kết hợp đồng": {
     "en": "Proceeding with contract signing",
     "zh": "着手签署合同"
@@ -102794,6 +103242,10 @@
   "Trên toàn tuyến đường sắt Bắc Nam, ga chính Sài Gòn là điểm cuối cùng của tuyến. Hành khách đi tàu hoả từ thành phố Hồ Chí Minh sẽ liên hệ ga Sài Gòn theo số điện thoại ga Sài Gòn hoặc đến trực tiếp, trên website đặt vé và xuất phát tại đây. Ga Sài Gòn là ga chính lớn của toàn tuyến Đường sắt Việt Nam, vì thế tại đây khách hàng có thể tìm kiếm vé để di chuyển đến nhiều điểm trên toàn quốc.": {
     "en": "Over the Northern South Railway, Saigon's main station is the last point of the line. The train-walker from the city of Ho Chi Minh will link Saigon station at the number of Saigon Stations or come directly, on the website booking tickets and start here. Saigon is the major station of the entire Vietnam Railway, so here the customer can find tickets to move to many points across the country.",
     "zh": "穿越北南铁路,西贡主站为本线终点站. 来自胡志明市的列车行人会按西贡站的编号连接西贡站或直接来,在网站上预订车票,从这里开始. 西贡站是整个越南铁路的主要车站,因此这里的顾客可以找到前往全国多个站点的车票."
+  },
+  "Trên tầng/lầu": {
+    "en": "Upstairs.",
+    "zh": "楼上"
   },
   "Trên xe còn được trang bị đầy đủ các tiện nghi phục vụ hành khách như: nước uống, máy lạnh, chăn đắp, gối ngủ. Các điểm dừng của mỗi chuyến đi luôn cung cấp đủ đồ ăn với giá cả tương đối thấp để phục vụ hành khách trong suốt chuyến đi.": {
     "en": "The vehicles were also fully equipped to serve passengers such as water, air conditioning, blankets, pillows. The stops of each trip always provide enough food at relatively low prices to serve passengers during the journey.",
@@ -105220,8 +105672,16 @@
     "zh": "10亿"
   },
   "TÍNH CƯỚC NGAY": {
-    "en": "Get an Instant Rate Estimate",
-    "zh": "立即估算运费"
+    "en": "CALCULATE SHIPPING COST",
+    "zh": "立即计算运费"
+  },
+  "TÍNH CƯỚC NHANH": {
+    "en": "QUICK RATE ESTIMATE",
+    "zh": "快速估算运费"
+  },
+  "TÍNH NGAY": {
+    "en": "CALCULATE NOW",
+    "zh": "立即计算"
   },
   "Tài liệu, hồ sơ, sách vở...": {
     "en": "Documents, records, books...",
@@ -105436,8 +105896,8 @@
     "zh": "分开"
   },
   "Tách rõ cước và phụ phí": {
-    "en": "Split IDs and extra fees",
-    "zh": "身份证和额外费用"
+    "en": "Itemized Shipping Charges and Surcharges",
+    "zh": "运费与附加费分项列明"
   },
   "Tái bố trí hệ thống phân phối.": {
     "en": "Recruiting the distribution system.",
@@ -106176,8 +106636,8 @@
     "zh": "机动性强,灵活性强,您的货物将被运往目的地,运输时间取决于您与供应单位的协议. 这样你就可以主动安排你的时间,工作,方便,节省费用."
   },
   "Tính cước ngay": {
-    "en": "Immediate",
-    "zh": "即时"
+    "en": "Calculate Shipping Cost",
+    "zh": "立即计算运费"
   },
   "Tính cước nhanh": {
     "en": "Quick count",
@@ -106234,6 +106694,10 @@
   "Tính mét khối thùng carton để làm gì?": {
     "en": "What's the cost of a carton block?",
     "zh": "一个卡通块要多少钱?"
+  },
+  "Tính ngay": {
+    "en": "Calculate Now",
+    "zh": "立即计算"
   },
   "Tính phí với hàng hoá nhiều gửi nguyên một toa, cước phí được tính dựa theo trọng tải kỹ thuật của con tàu.": {
     "en": "The fee with multiple cargo deposits of one car, the fee is calculated according to the ship's technical load.",
@@ -107995,6 +108459,10 @@
     "en": "The floor.",
     "zh": "在地板上。"
   },
+  "Tầng hầm": {
+    "en": "The basement.",
+    "zh": "地下室 地下室"
+  },
   "Tầng lấy và tầng giao.": {
     "en": "The floor and the floor.",
     "zh": "地与地."
@@ -108067,13 +108535,85 @@
     "en": "Turn off the engine as the car's locking will lead to the alteration of the gas needle.",
     "zh": "由于汽车的锁闭而关闭引擎,将导致瓦斯针的改变."
   },
+  "Tỉnh An Giang": {
+    "en": "Jiang Province",
+    "zh": "江省 江省"
+  },
+  "Tỉnh Bà Rịa - Vũng Tàu": {
+    "en": "Mrs. Ruyang-Cheng Province",
+    "zh": "鲁阳城夫人"
+  },
+  "Tỉnh Bình Dương": {
+    "en": "Pacific Province",
+    "zh": "太平洋省"
+  },
+  "Tỉnh Bình Phước": {
+    "en": "Lucky Province",
+    "zh": "幸运省"
+  },
+  "Tỉnh Bình Thuận": {
+    "en": "Ping Shun Province",
+    "zh": "平顺省"
+  },
+  "Tỉnh Bình Định": {
+    "en": "Organisation",
+    "zh": "日历"
+  },
+  "Tỉnh Bạc Liêu": {
+    "en": "Silver Province",
+    "zh": "银省"
+  },
+  "Tỉnh Bắc Giang": {
+    "en": "North Jiang Province",
+    "zh": "北江省"
+  },
+  "Tỉnh Bắc Kạn": {
+    "en": "Northern Province",
+    "zh": "北部省"
+  },
+  "Tỉnh Bắc Ninh": {
+    "en": "Northern Kong Province",
+    "zh": "北金刚省"
+  },
+  "Tỉnh Bến Tre": {
+    "en": "Province",
+    "zh": "省份"
+  },
+  "Tỉnh Cao Bằng": {
+    "en": "High Province With",
+    "zh": "高级省"
+  },
+  "Tỉnh Cà Mau": {
+    "en": "Mau Province",
+    "zh": "马乌省"
+  },
   "Tỉnh Cà Mau có tất cả 9 đơn vị hành chính cấp huyện. Theo quy định thì các xe máy lưu thông trên địa bàn tỉnh Cà Mau được áp dụng biển số xe 5 số. Nó sử dụng những ký hiệu chữ cái riêng để có thể phân biệt biển số xe theo từng huyện, thành phố.": {
     "en": "Mau Province has all nine district administrative units. The traffic motor vehicles on the territory of the Mau Province are regulated by the rule of the 5-digit plate. It uses its own letters signatures to distinguish the license plate in every district, city.",
     "zh": "茂名省下辖9个县级行政区划单位. 茂名境内交通机动车按5位牌规则办理. 它使用自己的字母签名来区分每个区,城市的牌照."
   },
+  "Tỉnh Gia Lai": {
+    "en": "Zhuang Province",
+    "zh": "ang省"
+  },
+  "Tỉnh Hoà Bình": {
+    "en": "Japan",
+    "zh": "日本"
+  },
+  "Tỉnh Hà Giang": {
+    "en": "Jiang Province",
+    "zh": "江省 江省"
+  },
+  "Tỉnh Hà Nam": {
+    "en": "Henan Province",
+    "zh": "河南省历代进士名表."
+  },
   "Tỉnh Hà Nam là nằm ở khu vực Đồng bằng sông Hồng Việt Nam, được mệnh danh là cửa ngõ phía Nam của Hà Nội. Chỉ cách Hà Nội khoảng 60km, đây là một tỉnh có vị trí địa lý cũng như tiềm năng phát triển, bởi thế nhu cầu chuyển nhà từ các khu vực khác, đặc biệt là khu vực phía Nam nhận thấy rõ rệt.": {
     "en": "The province of Hannan is located in the Hong Vietnam River Plains, known as the southern gate of Hanoi. Just about 60 kilometres (60 km) from Hanoi, this is a district of geographical location as well as potential development, so the need for moving from other areas, especially the area of the south is noticeably visible.",
     "zh": "汉南省位于洪越河平原,被称为河内南门. 离河内只有60公里(60公里),这是一个地理位置和可能开发的地区,因此,从其他地区特别是南部地区迁移的必要性是显而易见的。"
+  },
+  "Tỉnh Hà Tĩnh": {
+    "en": "Han Jing Province",
+    "zh": "汉中省"
   },
   "Tỉnh Hà Tĩnh là nằm trong dải đất miền Trung nhiều nắng và gió. Hà Tĩnh thuộc khu vực Bắc Trung Bộ, là nơi hàng năm luôn phải gánh chịu nhiều thiên tai bão lũ. Đây cũng được xem là một vùng đất nghèo nơi sinh ra nhiều nhân tài cho đất nước.": {
     "en": "The province of Han Jing is located within the vast range of the Central Water and Wind. Han Jing is part of the Northern Central Area, where each year has always suffered many hurricane disasters. It is also considered a poor land where many talents are born to the country.",
@@ -108083,9 +108623,89 @@
     "en": "The province of Han Jing is located in the Northern Central Area, which is bordered by Guang Guangang, Art An, Han Jing has borders with your country Laos, the eastern side is the long and beautiful coastline. The terrain of Han Jing has enough hilly, middle, plain, coastal hills. The plain system here has a small area by the separation of the mountains and the great rivers.",
     "zh": "汉景行省地处中北部,与广广相接壤,艺术安,汉景行与贵国老挝接壤,东部为长而美丽的海岸线. 汉景地势多为丘陵地貌,中部为平原地貌,沿海丘陵. 这里的平地系统由山地和大河相隔而来,有一小块地."
   },
+  "Tỉnh Hưng Yên": {
+    "en": "Province of Jingye",
+    "zh": "静业省"
+  },
+  "Tỉnh Hải Dương": {
+    "en": "Ocean Province",
+    "zh": "海洋省"
+  },
+  "Tỉnh Hậu Giang": {
+    "en": "Empress Jiang Province",
+    "zh": "江省皇后"
+  },
+  "Tỉnh Khánh Hòa": {
+    "en": "Hong Kong",
+    "zh": "香港"
+  },
+  "Tỉnh Kiên Giang": {
+    "en": "Jiang Province",
+    "zh": "江省 江省"
+  },
+  "Tỉnh Kon Tum": {
+    "en": "Kon Tum Province",
+    "zh": "孔屯省"
+  },
+  "Tỉnh Lai Châu": {
+    "en": "Laizhou Province",
+    "zh": "莱州省"
+  },
+  "Tỉnh Long An": {
+    "en": "Long An Province",
+    "zh": "长安省"
+  },
+  "Tỉnh Lào Cai": {
+    "en": "Lao Cai Province",
+    "zh": "老蔡省"
+  },
+  "Tỉnh Lâm Đồng": {
+    "en": "Linong Province",
+    "zh": "利农省"
+  },
+  "Tỉnh Lạng Sơn": {
+    "en": "Shan Province",
+    "zh": "掸邦"
+  },
+  "Tỉnh Nam Định": {
+    "en": "Province",
+    "zh": "省份"
+  },
+  "Tỉnh Nghệ An": {
+    "en": "Province of Art",
+    "zh": "艺术省"
+  },
+  "Tỉnh Ninh Bình": {
+    "en": "Ninh Ping Province",
+    "zh": "宁平省"
+  },
+  "Tỉnh Ninh Thuận": {
+    "en": "Ninh Shun Province",
+    "zh": "宁顺省"
+  },
+  "Tỉnh Phú Thọ": {
+    "en": "Funky Province",
+    "zh": "丰基省"
+  },
+  "Tỉnh Phú Yên": {
+    "en": "Funky Province",
+    "zh": "丰基省"
+  },
+  "Tỉnh Quảng Bình": {
+    "en": "Guang Guang Province",
+    "zh": "广东省"
+  },
+  "Tỉnh Quảng Nam": {
+    "en": "Guangnan Province",
+    "zh": "广南省"
+  },
   "Tỉnh Quảng Nam nằm ở vị trí trung độ của cả nước, là sự tổng hòa của những yếu tố địa lý của vùng lục địa hải đảo là núi - đồi - đồng bằng châu thổ - biển.": {
     "en": "The province of Guangnan is located in the middle of the country, which is the generalization of the geographical elements of the island continent is the mountain - the hill - the plains of the continent - the sea.",
     "zh": "广南省地处中原地区,是岛屿大陆地理要素的统称,为山地-山地-大陆平原-大海."
+  },
+  "Tỉnh Quảng Ngãi": {
+    "en": "Guangxi Province",
+    "zh": "广西省"
   },
   "Tỉnh Quảng Ngãi cách Hà Nội 833 km theo Quốc lộ 1. Tỉnh được bao bọc bởi một bên là dãy Trường Sơn và một bên là biển Đông. Kết quả là địa hình bao gồm núi, đồng bằng, ven biển và hải đảo. Các sông chính là sông Trà Khúc, Trà Bồng, sông Vệ.": {
     "en": "Guang Province is 833 km from Hanoi according to Highway 1. The province is covered on one side by the Mountain and on one side is the East Sea. As a result, the terrain consists of mountains, plains, coasts, and islands. The main rivers are the Tea River, the Buong, the River of Wei.",
@@ -108095,29 +108715,81 @@
     "en": "The province of Guangxi has 13 administrative units belonging to it, including 1 City (Chai), 1 Town (German) and the districts of Guangqi Province are 11 counties (3 Silk, Li Shan, Li Shan, Ming Long, Muchang, Shanxi, Shanxi, Shan Shan, Shan Shan, Qing, Chiang, Ziang).",
     "zh": "广西省下辖13个行政单位,包括1个市(市),1个镇(德),广济省下辖11个县(丝绸,李山,李山,明朗,慕昌,山西,山西,山西,山东,山西,青,蒋, Zi)."
   },
+  "Tỉnh Quảng Ninh": {
+    "en": "Ning Province",
+    "zh": "宁省"
+  },
+  "Tỉnh Quảng Trị": {
+    "en": "Guangdu Province",
+    "zh": "广都省"
+  },
+  "Tỉnh Sóc Trăng": {
+    "en": "Moon Province",
+    "zh": "月球省"
+  },
   "Tỉnh Sóc Trăng có khí hậu nằm trong vùng khí hậu nhiệt đới gió mùa và chịu ràng buộc bởi gió mùa. Tại khu vực này được chia thành 2 mùa rất rõ rệt là mùa mưa và mùa khô. Trong đó, mùa mưa tại tỉnh Sóc Trăng sẽ bắt đầu từ tháng 5 cho đến tháng 10. Còn mùa khô nơi đây thì kéo dài từ tháng 11 đến tháng 4 năm sau.": {
     "en": "The Lunar province has a climate located in the tropical monsoon and is bound by the monsoon. At this area it is divided into two very clear seasons of rainy and dry seasons. In it, the rainy season in the Lunan province will begin from May until October. The dry season here lasted from November to April.",
     "zh": "月桂省属热带季风气候,与季风相接. 在这一地区,它分为两个非常明显的雨季和旱季。 其中,路南省的雨季将从5月开始到10月. 这里的旱季从11月持续到4月."
+  },
+  "Tỉnh Sơn La": {
+    "en": "Mountain Province",
+    "zh": "山区省"
   },
   "Tỉnh Sơn La là tình miền núi phía Tây Bắc Việt Nam, phía đông giáp tỉnh tỉnh Phú Thọ và Hòa Bình và giáp nước bạn Lào. Phía tây giáp Điện Biên, phía Bắc giáp Lai Châu, Yên Bái. Nằm trên trục đường quốc lộ 6, đây là tuyến đường huyết mạch của vùng Tây Bắc nối liền các tỉnh như Hà Nội - Hòa Bình - Sơn La - Điện Biên với nhau, đây cũng là tuyến đường chiến lược phát triển kinh tế khu vực Tây Bắc.": {
     "en": "The province of Shan La is the western part of Vietnam, the east bordering the province of Fuji Tean and Peace and bordering your country Laos. The west is bordered by the Palace, the north is Laizhou, Yen Kas. On Route 6, this is the circuit route of the Northwest region that connects provinces such as Han - Peace - Mountain La - Palace Borders, which is also the strategy route for economic growth in the Northwest area.",
     "zh": "山拉省是越南的西部,东部与福建泰安省及和平省接壤,与贵国老挝接壤. 西部与宫城接壤,北部为莱州,延卡斯. 在6号公路上,这是连接汉-和平-山拉-宫境等省份的西北地区的绕行路线,也是西北地区经济增长的战略路线."
   },
+  "Tỉnh Thanh Hóa": {
+    "en": "Qing hóa Province",
+    "zh": "清河省"
+  },
+  "Tỉnh Thái Bình": {
+    "en": "Pacific Province",
+    "zh": "太平洋省"
+  },
   "Tỉnh Thái Bình gồm 8 đơn vị cấp huyện, bao gồm 1 thành phố Thái Bình và cùng 7 huyện. Để nhằm mục đích phân biệt, cũng như thuận tiện cho hoạt động quản lý giao thông của cơ quan nhà nước. Mỗi một địa phương trên phạm vi lãnh thổ của tỉnh Thái Bình sẽ được mang một số hiệu khác nhau. Chi tiết ký hiệu biển số xe máy của thành phố Thái Bình, cùng với các huyện thuộc tỉnh Thái Bình hiện nay:": {
     "en": "Pacific Province consists of eight district units, including 1 Pacific City and the same 7 districts. For the purpose of distinction, as well as convenience for the transportation management operation of the state agency. Each of the localities on the territories of the province of the Pacific will be brought with several different brands. Details of Pacific City's license plate plate number, along with districts in present-day Pacific Province:",
     "zh": "太平洋省由8个区单位组成,包括1个太平洋市和同样的7个区. 为区别目的,以及方便国家机关的交通管理业务. 太平洋省领土内的每个地方都将有几种不同的品牌。 太平洋市牌照号码的详细信息 以及现今太平洋省各区:"
+  },
+  "Tỉnh Thái Nguyên": {
+    "en": "Thai Province",
+    "zh": "泰国省"
+  },
+  "Tỉnh Tiền Giang": {
+    "en": "Jiang Province",
+    "zh": "江省 江省"
   },
   "Tỉnh Tiền Giang một khu vực nằm trong vùng kinh tế trọng điểm của đất nước, đồng thời cũng là tỉnh thuộc Đồng Bằng Sông Cửu Long. Tiền Giáp tiếp giáp với nhiều tỉnh thành quan trong phía nam như Sài Gòn, Long An, Bến Tre, Đồng Tháp và Vĩnh Long, cùng với đường bờ biển dài 32km tiếp giáp với biển Đông.": {
     "en": "Liu Jiang Province is located in the country's major economic region and is also a province of the Plains of the Nine Dragon River. The armour bordered with many of the southern provinces such as Saigon, Long An, Lake Tre, Plains and Wing Long, along with a 32-mile (32 km) coastal line bordering with the East Sea.",
     "zh": "刘江省位于全国主要经济区,也是九龙江平原省的一个省. 装甲与很多南部省份如西贡,长安,翠湖,平原和翼龙相接壤,还有一条32英里(32公里)的沿海线与东海接壤."
   },
+  "Tỉnh Trà Vinh": {
+    "en": "In the province of Tinghan",
+    "zh": "丁汉省"
+  },
+  "Tỉnh Tuyên Quang": {
+    "en": "\"Phian Province\"",
+    "zh": "\"滇汉省志\""
+  },
+  "Tỉnh Tây Ninh": {
+    "en": "Western Province",
+    "zh": "西部省"
+  },
   "Tỉnh Tây Ninh hiện có hơn 8.200km đường bộ trong có có những tuyến đường quan trọng chạy qua như đường Xuyên Á, quốc lộ 22B, quốc lộ 22B kéo dài. Toàn tỉnh có 39 tuyến đường hơn 739km. Trong khi đó hệ thống đường sắt của tỉnh còn chậm hơn. Tây Ninh có mới có một số quyết đường sắt Thành phố Hồ Chí Minh – Mộc Bài đến thành phố Tây Ninh – Xa Mát.": {
     "en": "The province of Western Ninh currently has over 8,200 km (8.200 km) of roads in which important routes such as Xchuan Road, 22B Highway 22B. The whole province has 39 routes of over 739 km. Meanwhile, the city's railway system is slower. The new Western York City Railroads – Mulan to Western City – Moscow.",
     "zh": "西宁省目前拥有8200多公里(8.200公里)的道路,其中Xchuan路,22B高速公路等重要路线为22B. 全省有39条线路,全长739多公里. 同时,该市的铁路系统也较为缓慢. 新的西约克城铁道 – 木兰至西城-莫斯科."
   },
+  "Tỉnh Vĩnh Long": {
+    "en": "Long Province",
+    "zh": "长省"
+  },
   "Tỉnh Vĩnh Long là trung tâm kinh tế chính trị và là hình ảnh thu nhỏ của đồng bằng sông Cửu Long bởi sự đa dạng và trù phú của vùng đất giữa hai dòng sông lớn Tiền Giang và Hậu Giang.": {
     "en": "Wing Long Province is the center of political economics and is the miniature image of the Delta River by the variety and abundance of the land between the two great rivers of Jiang and the Empress Jiang.",
     "zh": "翼龙省是政治经济学的中心,以江阴两江大河之间土地的品种和丰盛程度为三角洲河的微型形象."
+  },
+  "Tỉnh Vĩnh Phúc": {
+    "en": "Wing Fu Province",
+    "zh": "荣富省"
   },
   "Tỉnh Vĩnh Phúc có dân số khoảng 1.171,232 người và gồm 41 dân tộc anh em chủ yếu là dân tộc Kinh, Dao, Nùng, Mường, Cao Lan, Sán Dìu…Toàn tỉnh có 7 huyện và 02 thành phố là Phúc Yên và Vĩnh Yên cùng 136 xã.": {
     "en": "The province of Wing Fu has a population of approximately 1,171,232 people and of 41 brothers are mainly the people of the Bible, Dao, Nánh, Mong, High Lan, Sán... the province has 7 districts and 2nd the city is Hu and Yan with 136 societies.",
@@ -108126,6 +108798,10 @@
   "Tỉnh Vĩnh Phúc đang rất phát triển": {
     "en": "Wing Qiang Province is growing",
     "zh": "荣强省正在发展"
+  },
+  "Tỉnh Yên Bái": {
+    "en": "\"Silence Province\"",
+    "zh": "\"静安省志\"."
   },
   "Tỉnh Yên Bái còn là nơi cửa ngõ nối giữa Tây Bắc với Đông Bắc, nơi đây có tuyến đường sắt và đường bộ nối các tỉnh thành từ khắp nơi trong đó có thủ đô Hà Nội và các tỉnh lân cận. Chính bởi vậy, kinh tế ở đây khá phát triển, nhu cầu chuyển nhà của người dân cũng tăng cao. Người dân ở các khu vực phía Nam cũng có nhu cầu chuyển về Yên Bái, trong đó có Sài Gòn.": {
     "en": "The province of Chemonis is also the gateway between the northwest and the Northeast, where the railway and road lines connect the provinces from all over the country including the capital of Hanoi and neighboring provinces. As a result, the economy here is highly developed, the demand for moving people's homes also increases. People in southern areas also have a need for moving back to Yen Ches, including Saigon.",
@@ -108151,13 +108827,33 @@
     "en": "The municipality has the longest 1A highway is the province of Ping Shun with a length of 178,5 km (5 km), followed by other provinces such as Hong Kong (15,9 km)), Hanong (360 km), Mau (323 km)....",
     "zh": "该市镇最长的1A高速公路是平顺省,全长178.5公里(5公里),其次为香港(15,900公里),汉口(360公里),茂(323公里)等其他省份. ."
   },
+  "Tỉnh Điện Biên": {
+    "en": "Border Area",
+    "zh": "边境地区"
+  },
+  "Tỉnh Đắk Lắk": {
+    "en": "Province",
+    "zh": "省份"
+  },
   "Tỉnh Đắk Lắk nằm ở khu vực Trung tâm của Tây Nguyên, với tổng diện tích hơn 13.125 km2 với độ cao trung bình 400 - 800m so vói mực nước biển. Về vị trí địa lý của Đắk Lắk cụ thể:": {
     "en": "The province of Lörk is located in the central area of the West Plain, with a total area of more than 13.25 km2 with an average elevation of 400 - 800 m above sea level. About the geographical location of the GREW LEWK specific:",
     "zh": "洛克省位于西平原中部,总面积13.25平方公里以上,平均海拔400-800米. 关于GREW LEWK具体地理位置:"
   },
+  "Tỉnh Đắk Nông": {
+    "en": "In the province of Farm",
+    "zh": "农业省"
+  },
   "Tỉnh Đắk Nông có vị trí địa lý nằm ở phía Tây Nam vùng Tây Nguyên, phía Bắc và Đông Bắc giáp tỉnh Đắk Lắk. Và nó thuộc phía Đông và Đông Nam giáp tỉnh Lâm Đồng. Phía Nam của tỉnh Đắk Nông tiếp giáp với tỉnh Bình Phước và phía Tây của tỉnh thì là Campuchia với 130 km đường biên giới. Tổng diện tích tự nhiên của tỉnh Đắk Nông là 6.513 km². Địa hình của tỉnh Đắk Nông rất đa dạng, xen kẽ giữa các địa hình thung lũng, cao nguyên và núi cao. Và đặc biệt, nó có hướng thấp dần từ Đông sang Tây và từ Bắc sang Nam.": {
     "en": "The province of Dárk Farm is geographically located in the southwest region of the Northwest, North and North by the province of the Dárk Lörk. And it is in the East and Southeast bordering Lin County. The south side of the province of Dádik Farm bordered the province of Peace and the western side of the province was Cambodia with 130 km of border lines. The total natural area of the province of Dárk Farm is 6,513 km2. The terrain of the province of the Dárk Farm is diverse, intermitting between the landscapes of the valley, the plateau and the high mountain. And in particular, it tends to be lower from East to West and from North to South.",
     "zh": "达尔克农场省在地理上位于西北,北部和北部的西南部,毗邻达尔克勒克省. 而位于东,东南与林县接壤. 达迪克农场省南侧与和平省接壤,该省西侧是柬埔寨,边界线长达130公里. 达尔克农场省的自然总面积为6,513平方公里. 达尔克农场省地形多样,在山谷,高原和高山的地貌之间相互交织. 特别是,它往往从东到西,从北到南都较低."
+  },
+  "Tỉnh Đồng Nai": {
+    "en": "Plain Nai Province",
+    "zh": "原直隶省"
+  },
+  "Tỉnh Đồng Tháp": {
+    "en": "Council Province",
+    "zh": "议会省"
   },
   "Tỉnh được nhà nước đầu tư đồng bộ về hệ thống đường bộ, đường sắt, đường thủy, tạo nên tuyến giao thông với sự kết nối thuận lợi với các tỉnh thành trong khu vực và Hà Nội. Hưng Yên cũng là tỉnh có con sông Hồng chảy qua, đây là con sông huyết mạch phát triển tuyến đường thủy gắn kết kinh tế - văn hóa giữa các địa phương.": {
     "en": "The province is co-invented by the state about the road system, the railroad, the waterway, which forms traffic with favorable connections to the provinces in the area and Hanoi. Yanyang is also the province whose Rose flows through, which is the river that develops the waterway that binds the economy - the culture among the locals.",
@@ -109808,8 +110504,12 @@
     "zh": "增值税8"
   },
   "VAT 8% là mặc định": {
-    "en": "VAT 8 is default",
-    "zh": "VAT 8 是默认值"
+    "en": "8% VAT Applied by Default",
+    "zh": "默认适用8%增值税"
+  },
+  "VAT 8% là mặc định.": {
+    "en": "8% VAT Applied by Default",
+    "zh": "默认适用8%增值税"
   },
   "VAT nếu có.": {
     "en": "VAT if there is.",
@@ -109891,6 +110591,18 @@
     "en": "Sea Transporting Role",
     "zh": "海上运输作用"
   },
+  "Vespa GTS": {
+    "en": "Vespa GTS",
+    "zh": "维斯帕GTS"
+  },
+  "Vespa Primavera": {
+    "en": "Vespa Primavera",
+    "zh": "维斯帕·普里马维拉"
+  },
+  "Vespa Sprint": {
+    "en": "Vespa Sprint",
+    "zh": "Vespa 冲刺"
+  },
   "Vessel/ Flight No : số hiệu chuyến tàu hay tên tàu": {
     "en": "Vessel/ Flight No: Train number or name",
     "zh": "船/航班编号:列车编号或名称"
@@ -109930,6 +110642,22 @@
   "Viettel Post": {
     "en": "Vitel Post",
     "zh": "维特尔邮报"
+  },
+  "VinFast Evo": {
+    "en": "VinFast Evo",
+    "zh": "温·法斯特·埃沃"
+  },
+  "VinFast Feliz": {
+    "en": "VinFast Feliz",
+    "zh": "费利兹"
+  },
+  "VinFast Klara": {
+    "en": "VinFast Ahmad",
+    "zh": "温·法斯特·艾哈迈德"
+  },
+  "VinFast Vento": {
+    "en": "VinFast Vento",
+    "zh": "文·法斯特·文托"
   },
   "Vinafco": {
     "en": "Vinafco",
@@ -118315,6 +119043,10 @@
     "en": "Position of the Port Bridge Industries - Blessed East Long An",
     "zh": "蚌埠大桥工业位置-福建东长安."
   },
+  "Vị trí khác": {
+    "en": "Organisation",
+    "zh": "日历"
+  },
   "Vị trí nhà": {
     "en": "Organisation",
     "zh": "日历"
@@ -123354,6 +124086,54 @@
   "Xử lý đối tượng điều khiển phương tiện phóng nhanh, vượt ẩu, lạng lách, đánh võng, tháo ống xả gây nguy hiểm cho người khác.": {
     "en": "Dealing with the object that controls the fast-flying vehicle, crossovers, ovals, hammocks, draining drains that endanger others.",
     "zh": "处理控制快速飞行飞行器,交叉式,椭圆式,吊床,排水管等危及他人的物体."
+  },
+  "Yamaha Exciter": {
+    "en": "Yamaha Excitator",
+    "zh": "山叶专家"
+  },
+  "Yamaha FreeGo": {
+    "en": "Yamaha Free Go",
+    "zh": "山叶自由走"
+  },
+  "Yamaha Grande": {
+    "en": "Yamaha Grande",
+    "zh": "亚马哈·格兰德"
+  },
+  "Yamaha Janus": {
+    "en": "Yamaha Janus",
+    "zh": "亚马哈·亚努斯"
+  },
+  "Yamaha Jupiter": {
+    "en": "Yamaha Jupiter",
+    "zh": "亚马哈木星"
+  },
+  "Yamaha Latte": {
+    "en": "Yamahahou",
+    "zh": "山叶侯"
+  },
+  "Yamaha Lexi": {
+    "en": "Yamaha Lexi",
+    "zh": "亚马哈·莱克西"
+  },
+  "Yamaha MT-15": {
+    "en": "Yamaha MT-15",
+    "zh": "亚马哈 MT-15"
+  },
+  "Yamaha NVX": {
+    "en": "Yamaha NVX",
+    "zh": "亚马哈NVX"
+  },
+  "Yamaha R15": {
+    "en": "Yamaha R15",
+    "zh": "亚马哈R15"
+  },
+  "Yamaha R3/R7": {
+    "en": "Yamaha R3/R7",
+    "zh": "亚马哈 R3/R7"
+  },
+  "Yamaha Sirius": {
+    "en": "Yamaha Sirius",
+    "zh": "山叶天狼星"
   },
   "YouTube Vận Tải Lưu Lê": {
     "en": "Archived YouTube",
@@ -136883,6 +137663,10 @@
     "en": "Updated",
     "zh": "更新"
   },
+  "Đang tải dữ liệu…": {
+    "en": "Downloading data...",
+    "zh": "正在下载数据..."
+  },
   "Đang xem xét": {
     "en": "Examining",
     "zh": "检查"
@@ -136967,9 +137751,17 @@
     "en": "Fill lot information",
     "zh": "填充数量信息"
   },
+  "Điền thông tin và chọn \"Tính cước ngay\" để xem chi tiết.": {
+    "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+    "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
+  },
+  "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết": {
+    "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+    "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
+  },
   "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
-    "en": "Fill the information and select “Flash right away for details.",
-    "zh": "填入信息并选择“立即闪烁以获取细节。"
+    "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+    "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
   },
   "Điền thông tin đơn hàng": {
     "en": "Fill Menu Information",

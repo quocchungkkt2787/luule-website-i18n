@@ -1,6 +1,6 @@
 {
-  "discovered_public_urls": 942,
-  "missing_packs_in_discovered_routes": 102,
+  "discovered_public_urls": 940,
+  "missing_packs_in_discovered_routes": 100,
   "page_budget": 450,
   "published_pack_files_total": 840,
   "required_pages_found": [
@@ -10,7 +10,7 @@
   "sitemap_urls": 822,
   "skipped_or_failed": [],
   "successful_public_pages": 450,
-  "unvisited_count": 492,
+  "unvisited_count": 490,
   "unvisited_examples": [
     "/pages/bang-gia-van-chuyen-hang",
     "/pages/dich-vu-van-chuyen-hang-bang-duong-sat",
@@ -53,5 +53,5 @@
     "/blogs/gui-hang-ha-noi-kcn-binh-duong",
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc"
   ],
-  "unvisited_without_existing_pack": 100
+  "unvisited_without_existing_pack": 98
 }

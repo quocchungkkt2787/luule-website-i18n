@@ -205,9 +205,25 @@
       "en": "We ship both light and heavy goods. The team carefully reviews our requirements and explains pickup and delivery arrangements, making transportation convenient.",
       "zh": "我们同时运输轻货和重货。工作人员认真了解需求，清楚说明收发货安排，使整个运输过程更加方便。"
     },
+    "Bước 1": {
+      "en": "Step 1",
+      "zh": "步骤一"
+    },
     "Bước 1/5 · Chọn loại hàng": {
       "en": "Step 0% · Select Row",
       "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 2": {
+      "en": "Step 2",
+      "zh": "步骤二"
+    },
+    "Bước 3": {
+      "en": "Step 3",
+      "zh": "步骤三"
+    },
+    "Bước 4": {
+      "en": "Step 4",
+      "zh": "步骤四"
     },
     "Bạn có biết biển số xe 89 ở đâu? [Góc giải đáp CHÍNH XÁC NHẤT]": {
       "en": "Where is licence plate code 89 from? [Definitive guide]",
@@ -573,9 +589,17 @@
       "en": "Select a company and line of vehicles",
       "zh": "选择公司和车辆线路"
     },
+    "Chọn hình thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
     "Chọn loại hàng": {
-      "en": "Select a row type",
-      "zh": "选择行类型"
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
+    },
+    "Chọn loại hàng hóa": {
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
     },
     "Chọn loại xe": {
       "en": "Select a car type",
@@ -586,8 +610,24 @@
       "zh": "选择一个选项 :"
     },
     "Chọn phương thức giao nhận": {
-      "en": "Select the method to use",
-      "zh": "选择要使用的方法"
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
+    "Chọn thông tin hàng": {
+      "en": "Enter Cargo Details",
+      "zh": "填写货物信息"
+    },
+    "Chọn thông tin hàng hóa": {
+      "en": "Enter Cargo Details",
+      "zh": "填写货物信息"
+    },
+    "Chọn tuyến vận chuyển": {
+      "en": "Select Shipping Route",
+      "zh": "请选择运输路线"
+    },
+    "Chọn tuyến đường vận chuyển": {
+      "en": "Select Shipping Route",
+      "zh": "请选择运输路线"
     },
     "Chốt chi phí rõ ràng trước khi thực hiện": {
       "en": "Confirm all costs before proceeding",
@@ -614,7 +654,7 @@
       "zh": "问题"
     },
     "CÔNG CỤ TRỰC TUYẾN": {
-      "en": "Online Tools",
+      "en": "ONLINE TOOLS",
       "zh": "在线工具"
     },
     "Các kiện hàng cùng một loại": {
@@ -725,9 +765,13 @@
       "en": "The base takes, the intersection, the mass and time desired to select the route, the travel schedule, and the appropriate method for each single row.",
       "zh": "基座取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取"
     },
+    "CƯỚC DỰ KIẾN": {
+      "en": "ESTIMATED SHIPPING COST",
+      "zh": "预估运费"
+    },
     "CƯỚC DỰ KIẾN CỦA BẠN": {
-      "en": "YOUR BEST",
-      "zh": "你最厉害的"
+      "en": "YOUR ESTIMATED SHIPPING COST",
+      "zh": "您的预估运费"
     },
     "CƯỚC PHÍ & BÁO GIÁ": {
       "en": "CONTINUTIONS",
@@ -866,8 +910,8 @@
       "zh": "流程"
     },
     "GIÁ CƯỚC VẬN CHUYỂN": {
-      "en": "THE FIGURAL",
-      "zh": "数字"
+      "en": "SHIPPING RATES",
+      "zh": "运输费率"
     },
     "GIÁ TRỊ CỐT LÕI": {
       "en": "CORE VALUES",
@@ -1382,8 +1426,8 @@
       "zh": "通过官方频道与媒体连接."
     },
     "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
-      "en": "The displayed rate is an estimate. Luu Le Transport will review and confirm the final rate before shipping.",
-      "zh": "显示的运费仅为预估。Luu Le Transport 将在发运前审核并确认最终费用。"
+      "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+      "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
     },
     "LIÊN HỆ": {
       "en": "GREEW",
@@ -1689,6 +1733,10 @@
       "en": "Enter your phone number",
       "zh": "输入电话号码"
     },
+    "Nhập thông tin hàng hóa": {
+      "en": "Enter Cargo Details",
+      "zh": "填写货物信息"
+    },
     "Nhập tên hàng và số lượng tổng để hệ thống tự cập nhật kg và m³ theo bộ nhận diện hiện có.": {
       "en": "Enter the row name and total number for the self-update system and m3 in the current identification system.",
       "zh": "输入自更新系统的行名和总数,以及当前识别系统中的m3。"
@@ -1765,6 +1813,10 @@
       "en": "Details / Notes",
       "zh": "内容／备注"
     },
+    "PHƯƠNG THỨC GIAO NHẬN": {
+      "en": "PICKUP & DELIVERY METHOD",
+      "zh": "收发货方式"
+    },
     "PHƯƠNG THỨC VẬN CHUYỂN": {
       "en": "Transport Method",
       "zh": "运输方式"
@@ -1802,8 +1854,8 @@
       "zh": "类别"
     },
     "Phân loại hàng tự động": {
-      "en": "Auto Category",
-      "zh": "自动分类"
+      "en": "Automatic Cargo Classification",
+      "zh": "自动识别货物类别"
     },
     "Phân loại theo tuyến": {
       "en": "Sort by route",
@@ -1993,6 +2045,10 @@
       "en": "INTERVIEW",
       "zh": "专访"
     },
+    "THÔNG TIN HÀNG HÓA": {
+      "en": "CARGO INFORMATION",
+      "zh": "货物信息"
+    },
     "THÔNG TIN YÊU CẦU VẬN CHUYỂN": {
       "en": "SHIPPING REQUEST DETAILS",
       "zh": "运输需求信息"
@@ -2010,16 +2066,16 @@
       "zh": "接收需求"
     },
     "TRA CỨU": {
-      "en": "Bristol",
-      "zh": "布里斯托尔"
+      "en": "CHECK",
+      "zh": "查询"
     },
     "TRA CỨU GIÁ CƯỚC": {
       "en": "CENTRAL",
       "zh": "中央"
     },
     "TRA CỨU GIÁ CƯỚC VẬN CHUYỂN": {
-      "en": "Check Shipping Rates",
-      "zh": "查询运输价格"
+      "en": "CHECK SHIPPING RATES",
+      "zh": "查询运输费率"
     },
     "TRA CỨU NGAY": {
       "en": "NORTH",
@@ -2032,6 +2088,10 @@
     "TRANG CHỦ": {
       "en": "Home",
       "zh": "首页"
+    },
+    "TUYẾN VẬN CHUYỂN": {
+      "en": "SHIPPING ROUTE",
+      "zh": "运输路线"
     },
     "TUYỂN DỤNG": {
       "en": "GREECE",
@@ -2166,12 +2226,20 @@
       "zh": "账户"
     },
     "TÍNH CƯỚC NGAY": {
-      "en": "Get an Instant Rate Estimate",
-      "zh": "立即估算运费"
+      "en": "CALCULATE SHIPPING COST",
+      "zh": "立即计算运费"
+    },
+    "TÍNH CƯỚC NHANH": {
+      "en": "QUICK RATE ESTIMATE",
+      "zh": "快速估算运费"
+    },
+    "TÍNH NGAY": {
+      "en": "CALCULATE NOW",
+      "zh": "立即计算"
     },
     "Tách rõ cước và phụ phí": {
-      "en": "Split IDs and extra fees",
-      "zh": "身份证和额外费用"
+      "en": "Itemized Shipping Charges and Surcharges",
+      "zh": "运费与附加费分项列明"
     },
     "Tân Á Đại Thành": {
       "en": "Tân Á Đại Thành",
@@ -2198,8 +2266,12 @@
       "zh": "选择家用货有没有摩托车"
     },
     "Tính cước ngay": {
-      "en": "Immediate",
-      "zh": "即时"
+      "en": "Calculate Shipping Cost",
+      "zh": "立即计算运费"
+    },
+    "Tính ngay": {
+      "en": "Calculate Now",
+      "zh": "立即计算"
     },
     "Tôi cần vận chuyển gọn, rõ đầu việc và đúng thời gian. Đội ngũ tư vấn sát nhu cầu, phối hợp nhanh nên quá trình giao nhận diễn ra thuận lợi.": {
       "en": "We need streamlined transportation, clear responsibilities and punctual delivery. Their team understands our needs and coordinates quickly, so the process runs smoothly.",
@@ -2338,8 +2410,12 @@
       "zh": "增值税8"
     },
     "VAT 8% là mặc định": {
-      "en": "VAT 8 is default",
-      "zh": "VAT 8 是默认值"
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
+    },
+    "VAT 8% là mặc định.": {
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
     },
     "VIDEOS": {
       "en": "LIS",
@@ -3069,9 +3145,17 @@
       "en": "Pickup and Delivery Locations",
       "zh": "取货和送货地点"
     },
+    "Điền thông tin và chọn \"Tính cước ngay\" để xem chi tiết.": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
+    },
+    "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
+    },
     "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
-      "en": "Fill the information and select “Flash right away for details.",
-      "zh": "填入信息并选择“立即闪烁以获取细节。"
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
     },
     "Điền thông tin đơn hàng để Vận Tải Lưu Lê tư vấn phương án vận chuyển và báo giá phù hợp.": {
       "en": "Enter your shipment details so Luu Le Transport can recommend a suitable transport plan and provide a quotation.",

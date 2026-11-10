@@ -33,9 +33,25 @@
       "en": "Synchronising folder",
       "zh": "创建新文件夹"
     },
+    "Bước 1": {
+      "en": "Step 1",
+      "zh": "步骤一"
+    },
     "Bước 1/5 · Chọn loại hàng": {
       "en": "Step 0% · Select Row",
       "zh": "步骤 0% —— 选择行"
+    },
+    "Bước 2": {
+      "en": "Step 2",
+      "zh": "步骤二"
+    },
+    "Bước 3": {
+      "en": "Step 3",
+      "zh": "步骤三"
+    },
+    "Bước 4": {
+      "en": "Step 4",
+      "zh": "步骤四"
     },
     "Bạn cần tìm gì?": {
       "en": "What are you looking for?",
@@ -253,9 +269,17 @@
       "en": "Select a company and line of vehicles",
       "zh": "选择公司和车辆线路"
     },
+    "Chọn hình thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
     "Chọn loại hàng": {
-      "en": "Select a row type",
-      "zh": "选择行类型"
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
+    },
+    "Chọn loại hàng hóa": {
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
     },
     "Chọn loại xe": {
       "en": "Select a car type",
@@ -270,23 +294,31 @@
       "zh": "选择方法"
     },
     "Chọn phương thức giao nhận": {
-      "en": "Select the method to use",
-      "zh": "选择要使用的方法"
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
     },
     "Chọn thông tin hàng": {
-      "en": "Select Row Information",
-      "zh": "选择行信息"
+      "en": "Enter Cargo Details",
+      "zh": "填写货物信息"
+    },
+    "Chọn thông tin hàng hóa": {
+      "en": "Enter Cargo Details",
+      "zh": "填写货物信息"
     },
     "Chọn tuyến vận chuyển": {
-      "en": "Select Transport Line",
-      "zh": "选择运输线"
+      "en": "Select Shipping Route",
+      "zh": "请选择运输路线"
+    },
+    "Chọn tuyến đường vận chuyển": {
+      "en": "Select Shipping Route",
+      "zh": "请选择运输路线"
     },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
     },
     "CÔNG CỤ TRỰC TUYẾN": {
-      "en": "Online Tools",
+      "en": "ONLINE TOOLS",
       "zh": "在线工具"
     },
     "Các kiện hàng cùng một loại": {
@@ -313,9 +345,13 @@
       "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
       "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
     },
+    "CƯỚC DỰ KIẾN": {
+      "en": "ESTIMATED SHIPPING COST",
+      "zh": "预估运费"
+    },
     "CƯỚC DỰ KIẾN CỦA BẠN": {
-      "en": "YOUR BEST",
-      "zh": "你最厉害的"
+      "en": "YOUR ESTIMATED SHIPPING COST",
+      "zh": "您的预估运费"
     },
     "CƯỚC VẬN CHUYỂN DỰ KIẾN": {
       "en": "GREATIVE",
@@ -366,8 +402,8 @@
       "zh": "加纳"
     },
     "GIÁ CƯỚC VẬN CHUYỂN": {
-      "en": "THE FIGURAL",
-      "zh": "数字"
+      "en": "SHIPPING RATES",
+      "zh": "运输费率"
     },
     "GIẢI PHÁP": {
       "en": "HEAD",
@@ -586,8 +622,8 @@
       "zh": "通过官方频道与媒体连接."
     },
     "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
-      "en": "The displayed rate is an estimate. Luu Le Transport will review and confirm the final rate before shipping.",
-      "zh": "显示的运费仅为预估。Luu Le Transport 将在发运前审核并确认最终费用。"
+      "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+      "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
     },
     "LIÊN HỆ": {
       "en": "GREEW",
@@ -705,6 +741,10 @@
       "en": "Import Contents to Find...",
       "zh": "导入要查找的内容..."
     },
+    "Nhập thông tin hàng hóa": {
+      "en": "Enter Cargo Details",
+      "zh": "填写货物信息"
+    },
     "Nhập tên hàng và số lượng tổng để hệ thống tự cập nhật kg và m³ theo bộ nhận diện hiện có.": {
       "en": "Enter the row name and total number for the self-update system and m3 in the current identification system.",
       "zh": "输入自更新系统的行名和总数,以及当前识别系统中的m3。"
@@ -725,6 +765,10 @@
       "en": "INTERVIEW",
       "zh": "专访"
     },
+    "PHƯƠNG THỨC GIAO NHẬN": {
+      "en": "PICKUP & DELIVERY METHOD",
+      "zh": "收发货方式"
+    },
     "Pallet": {
       "en": "Pallet",
       "zh": "圆盘"
@@ -738,8 +782,8 @@
       "zh": "类别"
     },
     "Phân loại hàng tự động": {
-      "en": "Auto Category",
-      "zh": "自动分类"
+      "en": "Automatic Cargo Classification",
+      "zh": "自动识别货物类别"
     },
     "Phí lưu kho 200.000đ/ngày": {
       "en": "US$200/day archive",
@@ -833,13 +877,21 @@
       "en": "INTERVIEW",
       "zh": "专访"
     },
+    "THÔNG TIN HÀNG HÓA": {
+      "en": "CARGO INFORMATION",
+      "zh": "货物信息"
+    },
     "TRA CỨU": {
-      "en": "Bristol",
-      "zh": "布里斯托尔"
+      "en": "CHECK",
+      "zh": "查询"
     },
     "TRA CỨU GIÁ CƯỚC": {
       "en": "CENTRAL",
       "zh": "中央"
+    },
+    "TRA CỨU GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "CHECK SHIPPING RATES",
+      "zh": "查询运输费率"
     },
     "TRA CỨU VẬN ĐƠN": {
       "en": "Track Your Shipment",
@@ -848,6 +900,10 @@
     "TRANG CHỦ": {
       "en": "Home",
       "zh": "首页"
+    },
+    "TUYẾN VẬN CHUYỂN": {
+      "en": "SHIPPING ROUTE",
+      "zh": "运输路线"
     },
     "TUYỂN DỤNG": {
       "en": "GREECE",
@@ -909,9 +965,21 @@
       "en": "Account",
       "zh": "账户"
     },
+    "TÍNH CƯỚC NGAY": {
+      "en": "CALCULATE SHIPPING COST",
+      "zh": "立即计算运费"
+    },
+    "TÍNH CƯỚC NHANH": {
+      "en": "QUICK RATE ESTIMATE",
+      "zh": "快速估算运费"
+    },
+    "TÍNH NGAY": {
+      "en": "CALCULATE NOW",
+      "zh": "立即计算"
+    },
     "Tách rõ cước và phụ phí": {
-      "en": "Split IDs and extra fees",
-      "zh": "身份证和额外费用"
+      "en": "Itemized Shipping Charges and Surcharges",
+      "zh": "运费与附加费分项列明"
     },
     "Tên hàng": {
       "en": "Row Name",
@@ -934,8 +1002,12 @@
       "zh": "选择家用货有没有摩托车"
     },
     "Tính cước ngay": {
-      "en": "Immediate",
-      "zh": "即时"
+      "en": "Calculate Shipping Cost",
+      "zh": "立即计算运费"
+    },
+    "Tính ngay": {
+      "en": "Calculate Now",
+      "zh": "立即计算"
     },
     "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
       "en": "Advisor - IQ - Take the Single 24/7",
@@ -978,8 +1050,12 @@
       "zh": "增值税8"
     },
     "VAT 8% là mặc định": {
-      "en": "VAT 8 is default",
-      "zh": "VAT 8 是默认值"
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
+    },
+    "VAT 8% là mặc định.": {
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
     },
     "VIDEOS": {
       "en": "LIS",
@@ -1269,9 +1345,17 @@
       "en": "Apply when the car has arrived and informs the guests but the guests do not receive it, or when the delivery is not present.",
       "zh": "乘车到达后通知客人,但客人不接受,或送货不在场。"
     },
+    "Điền thông tin và chọn \"Tính cước ngay\" để xem chi tiết.": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
+    },
+    "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
+    },
     "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
-      "en": "Fill the information and select “Flash right away for details.",
-      "zh": "填入信息并选择“立即闪烁以获取细节。"
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
     },
     "Điều khoản công ty": {
       "en": "Company terms.",
