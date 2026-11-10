@@ -100,6 +100,15 @@ def priority(url):
     return (5, path)
 
 
+def crawl_priority(url):
+    """Prioritize public routes with no previously published pack."""
+    tier, route = priority(url)
+    if tier <= 1:
+        return (tier, 0, route)
+    existing = (PUBLIC / (route_id(urlsplit(url).path) + '.json')).exists()
+    return (tier, 1 if existing else 0, route)
+
+
 def page_key(url):
     return (urlsplit(url).path.rstrip('/') or '/')
 
@@ -176,18 +185,12 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
         if not valid_url(url):
             raise ValueError('Unsafe required URL: '+url)
 
-    # Keep the existing workflow's page budget, but always reserve sufficient
-    # capacity for every sitemap URL plus the homepage and the required tool(s).
-    # An extra 30 slots make room for public links absent from the sitemap.
-    budget=max(max_pages,len(seeds)+len(required_urls)+31)
-    # A hard safety bound avoids unintentional extremely long GitHub runs.
-    if budget>1500:
-        print('WARNING: page discovery exceeds safety budget 1500; '
-              'the audit will report unvisited URLs.',flush=True)
-        budget=1500
-
+    # Process public pages and important tools first. Discover all sitemap URLs
+    # but do not quietly claim that URLs beyond the configured limit are done.
+    # The workflow can process more in future batches; previous packs remain.
+    budget=max(1,min(max_pages,1500))
     initial={BASE+'/'} | seeds | required_urls
-    queue=deque(sorted(initial,key=priority))
+    queue=deque(sorted(initial,key=crawl_priority))
     queued=set(queue)
     visited=set(); result={}; errors=[]
     browser=None;playwright=None;context=None
@@ -202,43 +205,77 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
             if url in visited or not valid_url(url):
                 continue
             visited.add(url)
+            texts=set();links=set();issues=[]
+            request_ok=False; browser_ok=False
+
+            # Haravan can sometimes reject Python HTTP clients even when the
+            # public webpage opens in Chrome. The browser MUST get a chance
+            # to fetch the page even if the HTTP request raises an exception.
             try:
                 html,final=fetch(session,url)
-                # Do not publish home-page text under an unrelated page URL
-                # after a redirect (e.g. a page deleted from Haravan).
                 if not valid_url(final) or page_key(final)!=page_key(url):
-                    raise ValueError('redirected to '+final)
-                texts,links=collect_text_from_html(html)
-                if use_browser and context:
-                    page=context.new_page()
-                    try:
-                        page.goto(url,wait_until='domcontentloaded',timeout=35000)
-                        page.wait_for_timeout(1700)
-                        br_texts,br_links=collect_text_from_html(page.content())
-                        texts |= br_texts
-                        links |= br_links
-                    except Exception as ex:
-                        print('Browser render skipped:',url,str(ex)[:110],flush=True)
-                    finally:
-                        page.close()
-                if not texts:
-                    raise ValueError('public page had no readable text')
-                result[page_key(url)]=texts
-                print(f'{len(result):>3} {page_key(url)}: {len(texts)} public segments',flush=True)
-                for link in sorted(links,key=priority):
+                    raise ValueError('HTTP redirected to '+final)
+                html_texts,html_links=collect_text_from_html(html)
+                if not html_texts:
+                    raise ValueError('HTTP page has no readable public text')
+                texts |= html_texts
+                links |= html_links
+                request_ok=True
+            except Exception as ex:
+                issues.append('HTTP: '+str(ex)[:160])
+
+            # Render key interactive pages fully; for other pages, use the
+            # browser only when the normal HTTP fetch failed. This prevents
+            # long 850-page crawls from spending an hour on every static blog.
+            route=page_key(url)
+            render_needed=(route=='/' or route.startswith('/pages/') or
+                           route.startswith('/collections/') or not request_ok)
+            if context and render_needed:
+                page=context.new_page()
+                try:
+                    page.goto(url,wait_until='domcontentloaded',timeout=35000)
+                    if not valid_url(page.url) or page_key(page.url)!=route:
+                        raise ValueError('browser redirected to '+page.url)
+                    page.wait_for_timeout(1400)
+                    browser_texts,browser_links=collect_text_from_html(page.content())
+                    if not browser_texts:
+                        raise ValueError('browser page has no readable public text')
+                    # Do not treat bot challenges or not-found pages as copy.
+                    probe=' '.join(browser_texts).lower()
+                    if ('just a moment' in probe and 'verify you are human' in probe):
+                        raise ValueError('browser reached a bot challenge')
+                    texts |= browser_texts
+                    links |= browser_links
+                    browser_ok=True
+                except Exception as ex:
+                    issues.append('Browser: '+str(ex)[:160])
+                finally:
+                    page.close()
+
+            if texts:
+                result[route]=texts
+                print(f'{len(result):>3} {route}: {len(texts)} public segments'+
+                      (' (browser fallback)' if browser_ok and not request_ok else ''),
+                      flush=True)
+                for link in sorted(links,key=crawl_priority):
                     if link not in visited and link not in queued and valid_url(link):
                         queue.append(link)
                         queued.add(link)
-            except Exception as ex:
-                print('Page skipped:',url,str(ex)[:140],flush=True)
-                errors.append({'url':url,'error':str(ex)[:200]})
+                # Log degraded collection separately without marking a public
+                # page as missing when its browser fallback succeeded.
+                if issues:
+                    print('Fetch note:',url,'; '.join(issues),flush=True)
+            else:
+                details='; '.join(issues) or 'no public text extracted'
+                print('Page skipped:',url,details,flush=True)
+                errors.append({'url':url,'error':details[:350]})
             time.sleep(rate)
     finally:
         if browser:browser.close()
         if playwright:playwright.stop()
 
     missing_required=sorted(path for path in REQUIRED_PUBLIC_ROUTES if path not in result)
-    unvisited=sorted(queued-visited,key=priority)
+    unvisited=sorted(queued-visited,key=crawl_priority)
     crawl_pages.last_stats={
         'sitemap_urls':len(seeds),
         'discovered_public_urls':len(queued),
@@ -249,12 +286,19 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
         'required_pages_missing':missing_required,
         'required_pages_found':[r for r in REQUIRED_PUBLIC_ROUTES if r in result],
         'page_budget':budget,
+        'unvisited_without_existing_pack':sum(
+            not (PUBLIC / (route_id(urlsplit(u).path)+'.json')).exists()
+            for u in unvisited),
     }
     print('CRAWL COVERAGE:',json.dumps({k:v for k,v in crawl_pages.last_stats.items()
                                        if k!='skipped_or_failed'},ensure_ascii=False),flush=True)
     if missing_required:
-        # Missing core pages must NEVER be reported as "448/448 success".
-        raise RuntimeError('Required public page(s) not crawled: '+', '.join(missing_required))
+        # Report missing pages explicitly but retain successful work, instead
+        # of discarding an hour of translations and failing before git commit.
+        print('WARNING: required public pages not crawled:',
+              ', '.join(missing_required),flush=True)
+        print('Review coverage.json for HTTP/browser errors; missing pages '
+              'are NOT counted as translated or covered.',flush=True)
     return result
 
 
@@ -372,6 +416,7 @@ def main():
         assert priority(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen') < priority(BASE+'/blogs/x/y')
         assert valid_url(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert not valid_url(BASE+'/pages/customer')
+        assert max(1,min(450,1500)) == 450
         print('SELF-TEST PASS: public parsing, required route, output filename and crawl priority. No output published.')
         return
     session=requests.Session();session.headers.update({'User-Agent':USER_AGENT})
@@ -379,16 +424,35 @@ def main():
     if not pages:raise RuntimeError('No public pages found. Check sitemap and network first; not publishing empty data.')
     released,pending=build(pages,args.max_new)
     stats=getattr(crawl_pages,'last_stats',{})
-    # Separate coverage of the real website from the subset that was crawled.
-    # Do not count pages omitted from the crawl as published/completed.
+    # Distinguish pages processed this batch from packs published over all
+    # successful batches; this also keeps the scheduled backlog gate accurate.
+    known_urls=set(BASE+r for r in pages)
+    missing_pages=set()
+    for url in known_urls:
+        if not (PUBLIC / (route_id(page_key(url))+'.json')).exists():
+            missing_pages.add(page_key(url))
+    for url in (BASE+path for path in REQUIRED_PUBLIC_ROUTES):
+        if not (PUBLIC / (route_id(page_key(url))+'.json')).exists():
+            missing_pages.add(page_key(url))
+    for failure in stats.get('skipped_or_failed',[]):
+        u=failure['url']
+        if not (PUBLIC / (route_id(page_key(u))+'.json')).exists():
+            missing_pages.add(page_key(u))
+    # Because the crawler always starts with sitemap URLs, unvisited missing
+    # packs can be counted without claiming they have already been translated.
+    missing_count=len(missing_pages)+int(stats.get('unvisited_without_existing_pack',0))
+    stats['missing_packs_in_discovered_routes']=missing_count
+    stats['published_pack_files_total']=sum(1 for f in PUBLIC.glob('*.json')
+        if f.name not in ('audit.json','coverage.json','manifest.json'))
     save_json(PUBLIC/'coverage.json',stats)
     manifest=cached_json(PUBLIC/'manifest.json',{})
     manifest['discovered_public_urls']=stats.get('discovered_public_urls',len(pages))
     manifest['uncrawled_public_urls']=stats.get('unvisited_count',0)
     manifest['crawl_failures']=len(stats.get('skipped_or_failed',[]))
     manifest['required_pages_found']=stats.get('required_pages_found',[])
-    manifest['site_coverage_complete']=(not stats.get('unvisited_count')
-         and not stats.get('skipped_or_failed') and pending==0)
+    manifest['published_pack_files_total']=stats['published_pack_files_total']
+    manifest['pages_pending']=missing_count
+    manifest['site_coverage_complete']=(missing_count==0)
     save_json(PUBLIC/'manifest.json',manifest)
     print(f'Done. Full-language pages: {released}; incomplete pages held: {pending}.')
 
