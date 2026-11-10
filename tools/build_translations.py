@@ -33,7 +33,7 @@ SCOPE = ('/blogs/', '/pages/', '/products/', '/collections/')
 REQUIRED_PUBLIC_ROUTES = ('/pages/tra-cuu-gia-cuoc-van-chuyen',)
 
 REJECT = ('/pages/customer', '/pages/customer/', '/account', '/admin', '/cart', '/checkout', '/apps/', '/search', '/api/', '/cdn/', '/pages/ll-customer')
-SKIP_TAGS = {'style', 'script', 'noscript', 'template', 'svg', 'canvas', 'iframe', 'pre', 'code', 'textarea', 'option'}
+SKIP_TAGS = {'style', 'script', 'noscript', 'template', 'svg', 'canvas', 'iframe', 'pre', 'code', 'textarea'}
 SKIP_SELECTOR = '[data-ll-private], [data-ll-no-translate], #ll-ai-chat, #ll-language-v3, #ll-language-v3-notice, .subiz-widget, #fb-root, #at4-share, #at4-soc, #at4-share2, #at4-soc2, [id^="subiz"], [translate="no"]'
 ATTRS = ('placeholder', 'title', 'aria-label', 'alt')
 LETTER = re.compile(r'[a-zA-Z\u00C0-\u024F\u1E00-\u1EFF\u3400-\u9FFF]')
@@ -161,7 +161,7 @@ def collect_text_from_html(content):
     strings=set()
     for n in root.find_all(string=True):
         if isinstance(n, Comment):continue
-        if n.parent and n.parent.name not in {'script','style','textarea','option'} and translatable(str(n)):
+        if n.parent and n.parent.name not in {'script','style','textarea'} and translatable(str(n)):
             strings.add(norm(str(n)))
     for el in root.find_all(True):
         for a in ATTRS:
