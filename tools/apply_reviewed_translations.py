@@ -3,7 +3,8 @@
 
 Run AFTER build_translations.py in GitHub Actions and BEFORE git add/commit.
 Only handles public display text. No access to customer/quote/tracking data.
-Do not create a fake complete homepage pack if builder did not publish one.
+When the builder cannot publish a complete homepage, write a clearly marked
+partial pack containing ONLY reviewed public strings; never claim full coverage.
 """
 from __future__ import annotations
 
@@ -85,9 +86,25 @@ def main():
             raise ValueError('Invalid translation mapping key or value.')
         if not all(isinstance(value.get(lang), str) and value[lang].strip() for lang in ('en','zh')):
             raise ValueError(f'Empty/invalid translation: {source[:80]}')
-    if not HOME.is_file():
-        raise FileNotFoundError('public/i18n/home.json is not published. Fix the main build before applying overrides.')
-    pack = read(HOME)
+    # The builder can hold the homepage when a single public segment is still
+    # untranslated (for example after a Haravan UI change). This is not a
+    # reason to fail the entire batch and lose every other newly built pack.
+    # The minimal fallback contains only human-reviewed public UI phrases and
+    # is marked partial, never presented as complete coverage.
+    provisional_home = not HOME.is_file()
+    if provisional_home:
+        pack = {
+            'version': 3,
+            'route': '/',
+            'texts': {},
+            'partial': True,
+            'coverage_status': 'reviewed-only-fallback',
+        }
+        print('WARNING: complete home.json unavailable; publishing a clearly '
+              'marked reviewed-only partial homepage pack. Other pages may '
+              'still be published normally.', flush=True)
+    else:
+        pack = read(HOME)
     if pack.get('version') != 3 or pack.get('route') != '/' or not isinstance(pack.get('texts'), dict):
         raise ValueError('Unexpected homepage translation pack format; refusing unsafe patch.')
     existing = len(pack['texts'])
@@ -129,11 +146,27 @@ def main():
             patched_files += 1
             corrected_others += len(corrections)
 
+    # A fallback pack contains reviewed strings, not complete page coverage.
+    # Keep manifest truthfulness: never declare the whole site 100% complete.
+    if provisional_home:
+        manifest_path = PUBLIC / 'manifest.json'
+        manifest = read(manifest_path) if manifest_path.is_file() else {}
+        if not isinstance(manifest, dict):
+            manifest = {}
+        manifest['homepage_pack_reviewed_only'] = True
+        manifest['site_coverage_complete'] = False
+        manifest['pages_pending'] = max(1, int(manifest.get('pages_pending', 0)))
+        manifest['published_pack_files_total'] = sum(
+            1 for path in PUBLIC.glob('*.json')
+            if path.name not in ('audit.json', 'coverage.json', 'manifest.json'))
+        atomic_write(manifest_path, manifest)
+
     # Preserve original pages_seen/pages_published/unique_public_texts:
     # those describe what the crawler saw, not what this review added.
     print(f'REVIEWED PATCH OK: {len(edits)} reviewed strings; '
           f'home pack now {len(pack["texts"])} keys (+{home_added}); '
-          f'corrected {corrected_others} keys in {patched_files} other published packs.')
+          f'corrected {corrected_others} keys in {patched_files} other published packs; '
+          f'homepage status: {"PARTIAL (reviewed only)" if provisional_home else "existing pack"}.')
 
 
 if __name__ == '__main__':
