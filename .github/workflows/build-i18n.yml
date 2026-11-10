@@ -21,6 +21,8 @@ jobs:
     timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Check whether a translation batch is needed
         id: gate
@@ -125,11 +127,33 @@ jobs:
 
       - name: Persist generated packs and progress
         if: steps.gate.outputs.build == 'true'
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name 'LuuLe-i18n-bot'
           git config user.email 'actions@users.noreply.github.com'
           git add translation-cache.json public/i18n/ .ll-i18n-state.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'chore: refresh translation packs and progress'
-            git push
+          if git diff --cached --quiet; then
+            echo 'No new translations to commit.'
+            exit 0
           fi
+          git commit -m 'chore: refresh translation packs and progress'
+          # Long-running translation builds may be behind the current main.
+          # Rebase our generated commit onto the latest remote head; never force push.
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt}/3: fetching current main"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo '::error::Generated files conflict with new remote commits. No force push was attempted.'
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              echo 'Successfully published translation packs and progress.'
+              exit 0
+            fi
+            echo "Branch main moved again or the push was rejected (attempt ${attempt})."
+            sleep $((attempt * 3))
+          done
+          echo '::error::Push failed after 3 attempts. Check branch protection and workflow write permissions.'
+          exit 1
