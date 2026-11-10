@@ -1,0 +1,1598 @@
+{
+  "route": "/blogs/van-chuyen-logistics/1pl-2pl-3pl-4pl-trong-hoat-dong-logistics",
+  "texts": {
+    ", chưa quản lý toàn bộ chuỗi Logistics.": {
+      "en": ", unmanaged the entire Panostics series.",
+      "zh": "整个Panostics系列没有管理"
+    },
+    ", doanh nghiệp thuê một nhà vận tải.": {
+      "en": "The business employs a carrier.",
+      "zh": "该企业雇用一名承运人。"
+    },
+    ", doanh nghiệp tự vận chuyển.": {
+      "en": "The business itself.",
+      "zh": "业务本身."
+    },
+    ", mà nằm ở việc chọn": {
+      "en": "It's a choice.",
+      "zh": "择取相取."
+    },
+    ", một số tài liệu về Logistics còn đề cập đến": {
+      "en": ", some documents about Logistics mention",
+      "zh": ",一些关于物流的文件提到"
+    },
+    ", thay vì chỉ quản lý một chuỗi cung ứng đơn lẻ.": {
+      "en": "instead of just managing a single supply chain.",
+      "zh": "而不是仅仅管理单一的供应链。"
+    },
+    ", vận chuyển trở thành một phần của gói Logistics rộng hơn.": {
+      "en": "shipping became part of the wider Logistics package.",
+      "zh": "海运成为更广泛的后勤一揽子计划的一部分。"
+    },
+    ", đơn vị 4PL có thể quản lý nhiều nhà vận chuyển và lựa chọn phương thức phù hợp cho từng tuyến.": {
+      "en": "The 4PL unit can manage many carriers and choose the right method for each line.",
+      "zh": "4PL单元可以管理许多载体,并为每行选择正确的方法."
+    },
+    ". 5PL bắt đầu gắn mạnh với quản trị mạng lưới Logistics, công nghệ và tối ưu nhiều nhà cung cấp. Trong khi đó,": {
+      "en": "Yeah. The 5PL began to attach itself to the CEO of the Logistics network, technology and optimum many providers. Meanwhile,",
+      "zh": "对 5PL开始附身于物流网络的CEO,技术并优化了许多供应商. 同时,"
+    },
+    ". Các khái niệm này chủ yếu mở rộng theo hướng": {
+      "en": "Yeah. These concepts are mostly expanding in the direction.",
+      "zh": "对 这些概念大多朝这个方向扩展."
+    },
+    ". Các nghiên cứu cũng lưu ý rằng ranh giới giữa những cấp này chưa thật sự thống nhất.": {
+      "en": "Yeah. Studies have also noted that the boundaries between these levels are not yet truly unified.",
+      "zh": "对 研究也指出,这些级别之间的界限尚未真正统一."
+    },
+    ". Tuy nhiên, cần hiểu rằng mức độ phổ biến và tính thống nhất của các khái niệm này không giống nhau.": {
+      "en": "Yeah. However, it is important to understand that the popularity and unity of these concepts are not the same.",
+      "zh": "对 然而,必须认识到,这些概念的受欢迎性和统一性并不相同。"
+    },
+    ". Với chuỗi cung ứng phức tạp, nhiều nhà cung cấp và nhiều điểm phân phối,": {
+      "en": "Yeah. With the complex supply chain, many providers and many distribution points,",
+      "zh": "对 由于供应链复杂,许多供应商和许多销售点,"
+    },
+    "10PL": {
+      "en": "10PL",
+      "zh": "10分钟"
+    },
+    "1PL": {
+      "en": "1PL",
+      "zh": "页:1"
+    },
+    "1PL = Tự làm.": {
+      "en": "1PL = Self-made.",
+      "zh": "1PL=自制."
+    },
+    "1PL trong hoạt động Logistics là gì?": {
+      "en": "What is 1PL in Logistics activity?",
+      "zh": "后勤活动中的1PL是什么?"
+    },
+    "1PL – 4PL là những mô hình được sử dụng và nhận diện rõ ràng hơn": {
+      "en": "1PL – 4PL is the models used and identified more clearly",
+      "zh": "1PL – 4PL 是使用和识别更清晰的模型"
+    },
+    "1PL – First Party Logistics": {
+      "en": "1PL – First Party Registers",
+      "zh": "1PL - 第一党登记册"
+    },
+    "1PL → 10PL": {
+      "en": "1PL (10PL)",
+      "zh": "1个PL(10个PL)"
+    },
+    "1PL → Doanh nghiệp tự thực hiện Logistics.": {
+      "en": "1PL § The business itself performs Logistics.",
+      "zh": "1PL § 业务本身负责物流。"
+    },
+    "1PL, 2PL, 3PL và 4PL": {
+      "en": "1PL, 2PL, 3PL and 4PL",
+      "zh": "1个PL、2个PL、3个PL和4个PL"
+    },
+    "1PL, 2PL, 3PL và 4PL trong hoạt động Logistics": {
+      "en": "1PL, 2PL, 3PL and 4PL Operations",
+      "zh": "1PL、2PL、3PL和4PL行动"
+    },
+    "25 Tháng 8 2026": {
+      "en": "25 August 2026",
+      "zh": "2026年8月25日 (中文(简体) )."
+    },
+    "2PL": {
+      "en": "2PL",
+      "zh": "2个PL"
+    },
+    "2PL = Thuê một công đoạn.": {
+      "en": "2PL=N1 segment.",
+      "zh": "2PL=N1线段."
+    },
+    "2PL chủ yếu cung cấp một hoạt động riêng như vận tải hoặc kho bãi. 3PL có thể quản lý nhiều hoạt động Logistics liên kết với nhau.": {
+      "en": "2PL primarily offers a separate operation such as transportation or yard depots. 3PL can manage many of the GPsics activities linked to each other.",
+      "zh": "2PL主要提供单独的运营,如运输站或货场站. 3PL可以管理许多相联的GPsic活动."
+    },
+    "2PL chủ yếu giải quyết": {
+      "en": "2PL primarily solves",
+      "zh": "2PL 主要解决"
+    },
+    "2PL trong hoạt động Logistics là gì?": {
+      "en": "What is 2PL in Logistics activity?",
+      "zh": "2PL在后勤活动中是什么?"
+    },
+    "2PL – Second Party Logistics": {
+      "en": "2PL – Second Party Registers",
+      "zh": "2PL - 第二党登记册"
+    },
+    "2PL → Thuê một công đoạn như vận chuyển hoặc kho bãi.": {
+      "en": "2PL (10) A piece of work such as transportation or a barn.",
+      "zh": "2PL (10) 运输或谷仓等工程."
+    },
+    "3PL": {
+      "en": "3PL",
+      "zh": "3个PL"
+    },
+    "3PL = Thuê một nhóm hoạt động Logistics.": {
+      "en": "3PL=N1 A Team of Operations Logistics.",
+      "zh": "3PL=N1 行动后勤队."
+    },
+    "3PL trong hoạt động Logistics là gì?": {
+      "en": "What is 3PL in Logistics activity?",
+      "zh": "后勤活动中的3PL是什么?"
+    },
+    "3PL – Third Party Logistics": {
+      "en": "3PL – Third Party Registers",
+      "zh": "3PL - 第三方登记册"
+    },
+    "3PL → Thuê ngoài nhiều hoạt động Logistics có liên kết với nhau.": {
+      "en": "3PL (10) Beyond many Logistics activities are linked.",
+      "zh": "3PL(10) 除了许多后勤活动之外,还有联系。"
+    },
+    "4PL": {
+      "en": "4PL",
+      "zh": "4PL (英语)."
+    },
+    "4PL = Thuê quản lý cả hệ thống Logistics.": {
+      "en": "4PL=Transics System Management.",
+      "zh": "4PL=翻译系统管理."
+    },
+    "4PL còn có thể hỗ trợ:": {
+      "en": "4PL can even assist:",
+      "zh": "4PL甚至可以帮助:"
+    },
+    "4PL có sở hữu xe và kho không?": {
+      "en": "Does 4PL own cars and storage?",
+      "zh": "4PL拥有汽车和储存吗?"
+    },
+    "4PL hoặc các mô hình cao hơn": {
+      "en": "4PL or Higher Models",
+      "zh": "4PL或更高型号"
+    },
+    "4PL quản trị tổng thể": {
+      "en": "4PL General Executive",
+      "zh": "4PL 总执行官"
+    },
+    "4PL trong hoạt động Logistics là gì?": {
+      "en": "What is 4PL in Logistics activity?",
+      "zh": "后勤活动中4PL是什么?"
+    },
+    "4PL – Fourth Party Logistics": {
+      "en": "4PL – Fourth Party Registers",
+      "zh": "4PL – 第四党登记册"
+    },
+    "4PL → Thuê một đơn vị quản trị và điều phối toàn bộ hệ thống Logistics.": {
+      "en": "4PL (10) An executive unit and coordinated the entire Logistics system.",
+      "zh": "4PL(10) 一个执行单位并协调整个后勤系统。"
+    },
+    "5PL": {
+      "en": "5PL",
+      "zh": "5PL (英语)."
+    },
+    "5PL có thể kết nối nhiều 3PL, 4PL, đơn vị vận tải, kho bãi và nền tảng công nghệ để tối ưu chi phí và năng lực vận hành ở quy mô lớn.": {
+      "en": "5PL can connect multiple 3PL, 4PL, shipping units, warehouses and technology platforms to optimize costs and capacity operating at large scale.",
+      "zh": "5PL可以连接多个3PL,4PL,运输单元,仓库和技术平台来优化大规模运行的成本和能力."
+    },
+    "5PL – Fifth Party Logistics": {
+      "en": "5PL – Fifth Party Registers",
+      "zh": "5PL - 第五党登记册"
+    },
+    "5PL, 6PL, 7PL, 8PL, 9PL và 10PL": {
+      "en": "5PL, 6PL, 7PL, 8PL, 9PL and 10PL",
+      "zh": "5PL、6PL、7PL、8PL、9PL和10PL"
+    },
+    "6PL": {
+      "en": "6PL",
+      "zh": "页:1"
+    },
+    "6PL – 10PL chủ yếu được sử dụng như các khái niệm mở rộng để mô tả tương lai của chuỗi cung ứng với AI, tự động hóa, mô phỏng và quản trị mạng lưới ở mức ngày càng cao": {
+      "en": "6PL – 10PL is primarily used as extended concepts to describe the future of the supply chain with AI, automation, simulcast and network administration at an increasing rate",
+      "zh": "6PL – 10PL主要用作扩展概念来描述与AI,自动化,simulcast和网络管理的供应链的未来,速度越来越快."
+    },
+    "7PL": {
+      "en": "7PL",
+      "zh": "7个PL"
+    },
+    "7PL:": {
+      "en": "7PL:",
+      "zh": "7PL: (英语)."
+    },
+    "8PL": {
+      "en": "8PL",
+      "zh": "8分钟"
+    },
+    "8PL:": {
+      "en": "8PL:",
+      "zh": "8PL: (英语)."
+    },
+    "9PL": {
+      "en": "9PL",
+      "zh": "9分钟"
+    },
+    "9PL:": {
+      "en": "9PL:",
+      "zh": "9PL: (英语)."
+    },
+    ">>> Xem đầy đủ dịch vụ:": {
+      "en": "> DS View Full Service:",
+      "zh": "> DS 查看全程服务 :"
+    },
+    "AI có thể hỗ trợ phân tích dữ liệu, dự báo nhu cầu, tối ưu tồn kho, lựa chọn tuyến và phân bổ nguồn lực vận tải.": {
+      "en": "AI can support data analysis, forecast needs, optimum storage, route selection and distribution of transportation resources.",
+      "zh": "AI可以支持数据分析,预测需求,优化存储,路线选择和运输资源的分配."
+    },
+    "AI hỗ trợ quản trị chuỗi cung ứng": {
+      "en": "AI support administrator of the supply chain",
+      "zh": "AI 供应链支助管理员"
+    },
+    "Ai quản lý chính?": {
+      "en": "Who's in charge?",
+      "zh": "谁负责?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng phân biệt 1PL, 2PL, 3PL và 4PL trong Logistics": {
+      "en": "1PL distinguishorboard, 2PL, 3PL and 4PL in Logistics",
+      "zh": "1PL分辨板、2PL、3PL和4PL后勤"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí và nguồn lực nội bộ có phù hợp không?": {
+      "en": "Does the cost and internal resources fit?",
+      "zh": "费用和内部资源是否合适?"
+    },
+    "Chi phí đầu tư ban đầu khá lớn vì doanh nghiệp phải duy trì phương tiện, kho bãi, nhân sự và hệ thống quản lý.": {
+      "en": "The initial investment costs were large because the business had to maintain vehicles, warehouses, personnel and management systems.",
+      "zh": "最初的投资费用很大,因为企业必须维护车辆、仓库、人员和管理系统。"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chuỗi cung ứng phức tạp": {
+      "en": "A complex supply chain",
+      "zh": "复杂的供应链"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cách hiểu ngắn gọn": {
+      "en": "A Brief Understanding",
+      "zh": "简要谅解"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Câu hỏi thường gặp về 1PL, 2PL, 3PL và 4PL trong Logistics": {
+      "en": "Common Questions on 1PL, 2PL, 3PL and 4PL in Logistics",
+      "zh": "关于后勤方面的1PL、2PL、3PL和4PL的共同问题"
+    },
+    "Có thể do 3PL quản lý": {
+      "en": "Could be managed by 3PL",
+      "zh": "可由 3PL 管理"
+    },
+    "Có thể ghi nhớ ngắn gọn:": {
+      "en": "A brief note:",
+      "zh": "简要说明:"
+    },
+    "Có thể ghi nhớ đơn giản:": {
+      "en": "Simply remembered:",
+      "zh": "简单地记住:"
+    },
+    "Có thể hiểu khái quát:": {
+      "en": "I can see the whole thing:",
+      "zh": "我可以看到整个事情:"
+    },
+    "Có thể thuê riêng": {
+      "en": "I can rent it myself.",
+      "zh": "我可以自己租下来"
+    },
+    "Có trong gói dịch vụ": {
+      "en": "Available in service package",
+      "zh": "成套服务中可用"
+    },
+    "Có. Ngoài các mô hình": {
+      "en": "Yes. Besides models",
+      "zh": "对 除了模型"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công nghệ": {
+      "en": "Technology",
+      "zh": "技术"
+    },
+    "Công nghệ quản lý.": {
+      "en": "Management Technology.",
+      "zh": "管理技术."
+    },
+    "Công việc nào nên thuê ngoài?": {
+      "en": "What job should be rented out?",
+      "zh": "什么工作应该租出去?"
+    },
+    "Cải tiến chuỗi cung ứng.": {
+      "en": "Progress of supply chain.",
+      "zh": "供应链的进展。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DN cần thuê một dịch vụ": {
+      "en": "DN needs to rent a service",
+      "zh": "DN需要租用服务"
+    },
+    "DN muốn thuê ngoài nhiều khâu": {
+      "en": "DN wants to rent out many stitches",
+      "zh": "DN想租很多缝线"
+    },
+    "DN tự chủ Logistics": {
+      "en": "DN control Logistics",
+      "zh": "DN 控制后勤"
+    },
+    "Do chưa có một chuẩn thống nhất toàn ngành, doanh nghiệp không nên xem 7PL, 8PL hay 9PL như những “cấp chứng nhận” bắt buộc phải đạt được.": {
+      "en": "Since there has not been a complete consensus, businesses should not view 7PL, 8PL, or 9PL as “citational IDs.",
+      "zh": "由于尚未达成完全的共识,企业不应将7PL、8PL或9PL视为“引号”。"
+    },
+    "Do đó 1PL thường phù hợp hơn với doanh nghiệp có quy mô lớn, nhu cầu Logistics ổn định và đủ nguồn lực tự vận hành.": {
+      "en": "As a result, 1PL is usually more suitable for large-scale businesses, the need for logistics is stable and sufficient for self-powered resources.",
+      "zh": "因此,1PL通常更适合大型企业,物流需求稳定并足以提供自能资源."
+    },
+    "Doanh nghiệp": {
+      "en": "Business",
+      "zh": "商业"
+    },
+    "Doanh nghiệp + 3PL": {
+      "en": "Business + 3PL",
+      "zh": "商业+3PL"
+    },
+    "Doanh nghiệp có một đầu mối quản lý tổng thể thay vì phải làm việc riêng với nhiều nhà cung cấp.": {
+      "en": "The business has a overall management lead rather than has to work alone with many providers.",
+      "zh": "企业拥有总体管理主导权,而不是必须与许多供应商单独合作。"
+    },
+    "Doanh nghiệp có quyền kiểm soát cao đối với phương tiện, nhân sự, thời gian và quy trình.": {
+      "en": "The business has high control over means, personnel, time and processes.",
+      "zh": "该企业对手段、人员、时间和程序拥有高度控制。"
+    },
+    "Doanh nghiệp cần tự quản lý phần nào và muốn giao phần nào của hoạt động Logistics cho đối tác?": {
+      "en": "What part of the business is required to manage for itself and what part of the Logistics operation is required?",
+      "zh": "需要哪些业务部分来管理自己,需要哪些后勤业务部分?"
+    },
+    "Doanh nghiệp không cần đầu tư toàn bộ phương tiện vận chuyển nhưng vẫn duy trì quyền kiểm soát các công đoạn khác.": {
+      "en": "The business does not need to invest in the entire transport but maintains control of other stages.",
+      "zh": "企业不需要对整个运输进行投资,而是保持对其他阶段的控制。"
+    },
+    "Doanh nghiệp không phải đầu tư quá nhiều vào:": {
+      "en": "Business isn't too much investment in:",
+      "zh": "企业投资不多:"
+    },
+    "Doanh nghiệp muốn tự làm những công việc nào?": {
+      "en": "What jobs does business want to do on its own?",
+      "zh": "企业想自己做什么工作?"
+    },
+    "Doanh nghiệp nhỏ có cần sử dụng 3PL hoặc 4PL không?": {
+      "en": "Does small business require 3PL or 4PL use?",
+      "zh": "小企业需要使用3PL还是4PL?"
+    },
+    "Doanh nghiệp nên chọn 1PL, 2PL, 3PL hay 4PL?": {
+      "en": "Business should choose 1PL, 2PL, 3PL or 4PL?",
+      "zh": "企业应该选择1PL,2PL,3PL还是4PL?"
+    },
+    "Doanh nghiệp tự làm bao nhiêu và thuê đối tác bên ngoài quản lý bao nhiêu?": {
+      "en": "How much does the business do and hire partners outside of management?",
+      "zh": "该企业在管理层之外从事多少工作并雇用多少合作伙伴?"
+    },
+    "Doanh nghiệp tự thực hiện Logistics": {
+      "en": "Business Self Performing Logistics",
+      "zh": "商业自演物流"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dữ liệu vận hành cũng được quản lý nội bộ nên dễ xây dựng quy trình riêng.": {
+      "en": "The operating data is also managed internally, so it's easy to build your own procedure.",
+      "zh": "操作数据也由内部管理,因此很容易自行构建程序."
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gần toàn bộ hệ thống": {
+      "en": "Close to the whole system.",
+      "zh": "接近整个系统"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hiểu đúng 1PL, 2PL, 3PL và 4PL giúp doanh nghiệp lựa chọn mô hình phù hợp với quy mô, nguồn lực và mức độ phức tạp của chuỗi cung ứng.": {
+      "en": "Understanding exactly 1PL, 2PL, 3PL and 4PL enabled the business to choose the model that fits the scale, resources and complexity of the supply chain.",
+      "zh": "准确地理解1PL、2PL、3PL和4PL使企业能够选择适合供应链的规模、资源和复杂性的模式。"
+    },
+    "Hotline Vận Tải Lưu Lê: 0909 81 6625": {
+      "en": "Hotline Media: 0909 81 6625",
+      "zh": "热线媒体:0909 81 6625"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hướng tới chuỗi cung ứng tự động và tự tối ưu": {
+      "en": "Towards the automated and optimized chain",
+      "zh": "走向自动化和优化的链条"
+    },
+    "Hạn chế": {
+      "en": "Limit",
+      "zh": "限制"
+    },
+    "Hệ thống quản lý hàng hóa riêng.": {
+      "en": "Private goods management.",
+      "zh": "私人商品管理."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khai thác nguồn lực từ mạng lưới Logistics rộng": {
+      "en": "Exploited resources from broad-specials network",
+      "zh": "广泛特别网络的资源被利用"
+    },
+    "Khi cần giao hàng, doanh nghiệp tự chuẩn bị hàng, tự điều xe và tự giao đến khách hàng.": {
+      "en": "When a delivery is needed, the business prepares itself, directs the car, and delivers it to its customers.",
+      "zh": "需要送货时,由企业自行准备,引导出行并交付给客户."
+    },
+    "Khi doanh nghiệp mở rộng quy mô, nhu cầu vận chuyển không còn đơn giản là thuê một chiếc xe đưa hàng từ điểm A đến điểm B. Kho bãi, quản lý tồn kho, đóng gói, điều phối phương tiện, phân phối và dữ liệu vận hành bắt đầu liên kết thành một chuỗi.": {
+      "en": "As the business expanded to scale, the demand for transportation was no longer simply to rent a freight car from point A to point B. The shed, storage management, packing, vehicle settlement, distribution and operating data began to bond into a sequence.",
+      "zh": "随着业务规模的扩大,运输需求不再仅仅是从A点到B点租用一辆货运车。 雨棚、储存管理、包装、车辆结算、分配和操作数据开始形成一个序列。"
+    },
+    "Khi thuê ngoài nhiều công đoạn, doanh nghiệp phụ thuộc nhiều hơn vào chất lượng nhà cung cấp.": {
+      "en": "When renting out of multiple stages, businesses depend more on the quality of the provider.",
+      "zh": "在出租多个阶段时,企业更多地依赖供应商的质量。"
+    },
+    "Kho bãi": {
+      "en": "Archive",
+      "zh": "存档"
+    },
+    "Kho riêng.": {
+      "en": "Private depot.",
+      "zh": "私人仓库。"
+    },
+    "Kho.": {
+      "en": "Treasure.",
+      "zh": "财宝."
+    },
+    "Khách hàng có thể cân nhắc xe tải, đường sắt hoặc phương án kết hợp để tổ chức hành trình phù hợp.": {
+      "en": "Customers may weigh trucks, railroads, or a combination plan to organize suitable journeys.",
+      "zh": "客户可以重载卡车,铁路,或者制定组合计划,组织合适的出行."
+    },
+    "Không bắt buộc. Vai trò chính của 4PL là quản lý, kết nối và tối ưu các nhà cung cấp Logistics.": {
+      "en": "No necessity. The main role of 4PL is management, connection and optimization of Logistics providers.",
+      "zh": "没必要 4PL的主要作用是管理,连接和优化物流供应商."
+    },
+    "Không có mô hình nào tốt nhất cho mọi doanh nghiệp.": {
+      "en": "There is no best model for every business.",
+      "zh": "每个企业都没有最佳模式。"
+    },
+    "Không nhất thiết. Nếu nhu cầu đơn giản, sử dụng 2PL hoặc thuê từng dịch vụ phù hợp có thể hiệu quả hơn.": {
+      "en": "Not necessarily. If the need is simple, using 2PL or renting each suitable service can be more effective.",
+      "zh": "不见得. 如果需求很简单,使用2PL或租用每项合适的服务可以更加有效."
+    },
+    "Kết luận: Phân biệt 1PL, 2PL, 3PL và 4PL trong hoạt động Logistics": {
+      "en": "Conclusion: Distinguished 1PL, 2PL, 3PL and 4PL in Logistics Activity",
+      "zh": "结论:后勤活动中杰出的1PL、2PL、3PL和4PL"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mô hình": {
+      "en": "Model",
+      "zh": "型号"
+    },
+    "Mô hình này khá đơn giản, dễ quản lý và phù hợp khi nhu cầu thuê ngoài chỉ tập trung vào một số hoạt động cụ thể.": {
+      "en": "The model is quite simple, easy to manage and appropriate when the rent needs are focused solely on certain activities.",
+      "zh": "当租金需求完全集中于某些活动时,这一模式相当简单、易于管理和适当。"
+    },
+    "Mạng lưới phân phối.": {
+      "en": "The distribution network.",
+      "zh": "发行网."
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Một công đoạn": {
+      "en": "A segment",
+      "zh": "一个部分"
+    },
+    "Một doanh nghiệp chỉ cần thuê vận chuyển có thể sử dụng": {
+      "en": "A business just to rent available transport",
+      "zh": "租车的生意"
+    },
+    "Một doanh nghiệp chỉ cần thuê vận chuyển hoàn toàn có thể sử dụng": {
+      "en": "A business that just rents transport is completely available",
+      "zh": "租车的生意是完全可以办的"
+    },
+    "Một nhà cung cấp 3PL có thể đảm nhận:": {
+      "en": "A 3PL provider can take over:",
+      "zh": "一个3PL提供者可以接管:"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mục tiêu của 4PL là giúp các mắt xích hoạt động như một hệ thống thống nhất.": {
+      "en": "The goal of the 4PL is to help the chain eyes act as a unified system.",
+      "zh": "4PL的目标是帮助链眼作为一个统一系统发挥作用."
+    },
+    "Mức độ kiểm soát chuỗi cung ứng cần đến đâu?": {
+      "en": "Where does the level of control of the supply sequence require?",
+      "zh": "供应序列的控制水平要求在哪里?"
+    },
+    "Mức độ thuê ngoài": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Mức độ tích hợp cao đồng nghĩa doanh nghiệp phải chia sẻ nhiều dữ liệu và trao quyền quản lý lớn hơn cho đối tác.": {
+      "en": "The high level of integration means business sharing more data and giving greater management to partners.",
+      "zh": "高度整合意味着企业共享更多数据,给予合作伙伴更大的管理."
+    },
+    "Ngoài 1PL – 4PL còn có 5PL đến 10PL không?": {
+      "en": "Apart from 1PL – 4PL – is there 5PL to 10PL?",
+      "zh": "除了1PL — 4PL — 是否有5PL到10PL?"
+    },
+    "Ngoài bốn mô hình phổ biến này, một số tài liệu còn đề cập đến": {
+      "en": "In addition to these four popular models, some documents refer to",
+      "zh": "除了这四个受欢迎的模式外,一些文件还提到"
+    },
+    "Nhiều công đoạn": {
+      "en": "Multiple Parts",
+      "zh": "多个部件"
+    },
+    "Nhà cung cấp 4PL có thể không trực tiếp sở hữu tất cả xe tải, kho hay phương tiện.": {
+      "en": "The provider 4PL may not directly own all trucks, warehouses or vehicles.",
+      "zh": "4PL供应商不得直接拥有所有卡车、仓库或车辆。"
+    },
+    "Nhân sự Logistics.": {
+      "en": "Personnel Logistics.",
+      "zh": "人事后勤."
+    },
+    "Nhân viên giao hàng.": {
+      "en": "The delivery staff.",
+      "zh": "送货人员"
+    },
+    "Nhân viên kho.": {
+      "en": "Archivers.",
+      "zh": "档案员."
+    },
+    "Nhận hàng → lưu kho → quản lý tồn kho → xử lý đơn → đóng gói → vận chuyển → phân phối.": {
+      "en": "Retrieved goods (10) Archived - > Archived Management - > Single Process - > Packing - > Transport - > Distribution.",
+      "zh": "已检索货物(10) 已归档 - > 已归档管理 - > 单一过程 - > 包装 - > 运输 - > 分发。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu 3PL trực tiếp thực hiện nhiều hoạt động Logistics thì 4PL thường đóng vai trò": {
+      "en": "If 3PL directly performs many Logistics operations then 4PL often acts",
+      "zh": "如果3PL直接从事许多后勤业务,4PL就经常采取行动"
+    },
+    "Nếu chuỗi cung ứng đã rất lớn, có nhiều nhà cung cấp, nhiều kho và nhiều kênh phân phối, doanh nghiệp có thể cân nhắc": {
+      "en": "If the supply chain is very large, there are many providers, many warehouses and many distribution channels, businesses can consider",
+      "zh": "如果供应链非常大,供应商很多,仓库很多,销售渠道很多,企业可以考虑"
+    },
+    "Nếu công ty đã có đội xe, kho và nhân sự mạnh,": {
+      "en": "If the company has got the cars, storage and personnel,",
+      "zh": "如果公司有 汽车,储存和人员,"
+    },
+    "Nếu doanh nghiệp chỉ thiếu phương tiện vận chuyển, có thể lựa chọn": {
+      "en": "If the business lacks only transportation, we can choose",
+      "zh": "如果企业缺乏交通,我们可以选择"
+    },
+    "Nếu doanh nghiệp sử dụng nhiều nhà cung cấp khác nhau cho kho, xe tải, đường sắt và phân phối, việc điều phối có thể trở nên phức tạp.": {
+      "en": "If the business uses a variety of providers for warehouses, trucks, rails and distributions, the coordination can become complex.",
+      "zh": "如果企业利用各种供应商进行仓库,卡车,铁路和配送,协调就会变得复杂."
+    },
+    "Nếu muốn thuê ngoài nhiều công đoạn như kho, vận chuyển và phân phối,": {
+      "en": "If you want to rent out more parts such as storage, transportation and distribution,",
+      "zh": "如果你想租出更多的零件,如储存,运输和分配,"
+    },
+    "Nếu sản lượng không ổn định, xe hoặc kho có thể bị dư công suất.": {
+      "en": "If the output is unstable, the car or storage may be overcharged.",
+      "zh": "如果输出不稳定,可能给汽车或存储过度充电."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Nội bộ": {
+      "en": "Internal",
+      "zh": "内部"
+    },
+    "PL cao nhất": {
+      "en": "Highest PL",
+      "zh": "最高级的PL"
+    },
+    "Phân tích dữ liệu.": {
+      "en": "Data Analysis.",
+      "zh": "数据分析."
+    },
+    "Phân tích, mô phỏng và tối ưu mạng lưới ở cấp cao": {
+      "en": "Analysing, simulating, and optimizing the network at higher levels",
+      "zh": "分析、模拟和优化更高层次的网络"
+    },
+    "Phù hợp": {
+      "en": "Matches",
+      "zh": "匹配"
+    },
+    "Phổ biến nhất là thuê:": {
+      "en": "Most importantly, lease:",
+      "zh": "最重要的是,租赁:"
+    },
+    "Quản lý nhà vận chuyển": {
+      "en": "Transportation Manager",
+      "zh": "运输经理"
+    },
+    "Quản trị dữ liệu tổng thể": {
+      "en": "General data administrator",
+      "zh": "一般数据管理员"
+    },
+    "Quản trị nhà cung cấp.": {
+      "en": "Provider administrator.",
+      "zh": "提供方管理员."
+    },
+    "Quản trị và điều phối toàn bộ chuỗi Logistics": {
+      "en": "Administer and conduct the entire series of Logistics",
+      "zh": "管理和主持整个后勤系列"
+    },
+    "Rất thấp": {
+      "en": "Very Low",
+      "zh": "极低"
+    },
+    "So với 2PL, điểm khác biệt lớn là 3PL không chỉ cung cấp một phương tiện hoặc một công đoạn riêng lẻ mà có thể quản lý": {
+      "en": "Compared to 2PL, the big difference is that 3PL not only offers a vehicle or a single segment that can be managed",
+      "zh": "与2PL相比,最大的区别在于3PL不仅提供可以管理的车辆或单段."
+    },
+    "Sự khác biệt giữa": {
+      "en": "The Difference",
+      "zh": "差异"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thay vào đó, doanh nghiệp có thể tập trung nguồn lực vào sản xuất, bán hàng và phát triển thị trường.": {
+      "en": "Instead, businesses can focus resources on production, sales and market development.",
+      "zh": "相反,企业可以将资源集中用于生产、销售和市场发展。"
+    },
+    "Thay vào đó, họ có thể quản lý nhiều nhà cung cấp khác nhau như:": {
+      "en": "Instead, they can manage various providers such as:",
+      "zh": "相反,它们可以管理各种供应商,例如:"
+    },
+    "Theo dõi KPI.": {
+      "en": "Track KPI.",
+      "zh": "田径KPI."
+    },
+    "Thiết kế mạng lưới Logistics.": {
+      "en": "Design of the Logistics Network.",
+      "zh": "物流网设计."
+    },
+    "Thuê một dịch vụ như vận chuyển hoặc kho": {
+      "en": "Hire a service such as shipping or storage",
+      "zh": "聘请航运或仓储等服务"
+    },
+    "Thuê ngoài nhiều hoạt động Logistics": {
+      "en": "Missing Many Logistics Operations",
+      "zh": "缺少许多后勤业务"
+    },
+    "Thuê ngoài phổ biến": {
+      "en": "Common Outsides",
+      "zh": "常见外部"
+    },
+    "Tiêu chí": {
+      "en": "Fleet",
+      "zh": "舰队"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong mô hình này, AI, dữ liệu thời gian thực, tự động hóa, robot, phương tiện tự hành và các hệ thống quản trị có thể phối hợp để đưa ra nhiều quyết định mà không cần con người xử lý thủ công từng bước. Một số tài liệu nghiên cứu đã mô tả 10PL theo hướng “chuỗi cung ứng tự vận hành”, nhưng đây vẫn chủ yếu là một khái niệm định hướng tương lai hơn là mô hình phổ biến trong thực tế.": {
+      "en": "In this model, AI, real-time data, automation, robotics, automotive vehicles and administrative systems can coordinate to make multiple decisions without human hand handling hand-to-steps. Some research documents have described the 10PL in the direction “the supply itself operates by itself, but this is still mainly a concept of future navigation rather than the common model in reality.",
+      "zh": "在这个模型中,AI,实时数据,自动化,机器人,汽车车辆和行政系统可以进行协调,在不由人手处理手接脚的情况下作出多起决策. 一些研究文件描述了10PL的方向“供应本身是自行操作的,但这主要是未来通航的概念,而不是现实中的共同模式。"
+    },
+    "Trong thực tế,": {
+      "en": "In fact,",
+      "zh": "事实上,"
+    },
+    "Trong trường hợp này, đơn vị vận tải đang đóng vai trò": {
+      "en": "In this case, the transport unit is playing a role.",
+      "zh": "在这种情况下,运输单位正在发挥作用。"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trả lời được câu hỏi đó sẽ hữu ích hơn nhiều so với việc cố lựa chọn mô hình có số “PL” cao nhất.": {
+      "en": "Answering that question would be much more helpful than trying to choose the model with the highest number “PLREASE.",
+      "zh": "回答这个问题比试图选择人数最多的“PLREASE”模型更有帮助。"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên, doanh nghiệp không nên hiểu": {
+      "en": "Business, however, should not understand",
+      "zh": "但是,工商界不应理解"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tích hợp nhiều hơn": {
+      "en": "More Mixing",
+      "zh": "更多混音"
+    },
+    "Tích hợp nhiều nhà cung cấp": {
+      "en": "Combination of Many Providers",
+      "zh": "许多供应商的组合"
+    },
+    "Tích hợp sâu giữa thực thi và quản trị Logistics": {
+      "en": "Deep fit between implementation and administration of Logistics",
+      "zh": "实施与后勤管理深度相适应."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tối ưu chi phí.": {
+      "en": "Exclusive cost.",
+      "zh": "全部费用。"
+    },
+    "Tối ưu mạng lưới Logistics bằng công nghệ và dữ liệu": {
+      "en": "Advise the Logistics network with technology and data",
+      "zh": "向后勤网络提供技术和数据咨询"
+    },
+    "Từ cấp này trở đi, các định nghĩa mang tính khái niệm nhiều hơn và có thể khác nhau giữa các tài liệu.": {
+      "en": "From this level onwards, definitions are more concepts and may differ between documents.",
+      "zh": "从这一级别开始,定义是更多的概念,而且文件之间可能有所不同。"
+    },
+    "Từ đó xuất hiện các khái niệm": {
+      "en": "So there are concepts.",
+      "zh": "所以有概念。"
+    },
+    "Tự quản lý": {
+      "en": "Custom Manager",
+      "zh": "自定义管理器"
+    },
+    "Tự thực hiện": {
+      "en": "Customise",
+      "zh": "自定义"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Việc lựa chọn nhà cung cấp 4PL vì vậy đòi hỏi sự tin cậy và năng lực quản trị rất cao.": {
+      "en": "The selection of the provider 4PL thus requires great trust and administrative ability.",
+      "zh": "因此,选择4PL供应商需要极大的信任和行政能力。"
+    },
+    "Vì vậy hợp đồng, KPI, dữ liệu đơn hàng, trách nhiệm giao nhận và quy trình xử lý sự cố cần được quy định rõ.": {
+      "en": "So the contract, KPI, the single file, the assignment and the incident process needed to be specified.",
+      "zh": "因此,合同,KPI,单行本,任务和事发过程需要明确."
+    },
+    "Vì vậy, câu hỏi quan trọng nhất vẫn là:": {
+      "en": "So the most important question remains:",
+      "zh": "因此,最重要的问题仍然是:"
+    },
+    "Vì vậy, cùng một chiếc xe tải nhưng vai trò của nó trong hệ thống Logistics có thể hoàn toàn khác nhau.": {
+      "en": "So the same truck but its role in the Logistics system can be completely different.",
+      "zh": "所以同一辆卡车,但它在后勤系统中的作用可以完全不同."
+    },
+    "Vì vậy, lựa chọn đúng mô hình Logistics không nằm ở việc chọn": {
+      "en": "So the correct choice of the Logistics model is not in choice.",
+      "zh": "因此,对\"物流\"模式的正确选择并不是选择."
+    },
+    "Ví dụ doanh nghiệp tự quản lý kho, đóng gói và tồn kho nhưng thuê một công ty vận tải đưa hàng từ TP.HCM ra Hà Nội.": {
+      "en": "The business, for example, manages its own warehouses, packs, and stores, but hires a freight company from TP.HCM to Hanoi.",
+      "zh": "例如,该企业管理自己的仓库、包装和商店,但从TP.HCM聘请一家货运公司到河内。"
+    },
+    "Ví dụ một công ty sản xuất có:": {
+      "en": "For example a manufacturing company has:",
+      "zh": "例如,一家制造公司:"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê trong hoạt động vận chuyển và Logistics": {
+      "en": "Media Archive in Transportation & Logistics",
+      "zh": "运输和物流媒体档案"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển": {
+      "en": "Freight transport",
+      "zh": "货物运输"
+    },
+    "Vận chuyển có thể xuất hiện trong cả bốn mô hình.": {
+      "en": "Transport can appear in all four models.",
+      "zh": "运输可以在所有四个模型中出现."
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa Logistics": {
+      "en": "Transportation of Logistics",
+      "zh": "后勤运输"
+    },
+    "Vận chuyển hàng hóa nằm ở đâu trong mô hình 1PL, 2PL, 3PL và 4PL?": {
+      "en": "Where is freight located in model 1PL, 2PL, 3PL and 4PL?",
+      "zh": "1PL型、2PL型、3PL型和4PL型的货运地点在哪里?"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận chuyển, kho bãi hoặc một phương tiện chuyên biệt.": {
+      "en": "Transportation, warehouses or a special vehicle.",
+      "zh": "运输、仓库或特殊车辆。"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Với nhu cầu vận chuyển nội địa và đặc biệt các tuyến Bắc Nam,": {
+      "en": "With the need for domestic transport and in particular the Northern South Line,",
+      "zh": "由于需要国内运输,特别是北部南线,"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xe tải riêng.": {
+      "en": "Private truck.",
+      "zh": "私人卡车。"
+    },
+    "Xe.": {
+      "en": "Car.",
+      "zh": "车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "cho khách hàng.": {
+      "en": "For the customer.",
+      "zh": "给顾客的"
+    },
+    "chuỗi cung ứng có khả năng tự nhận biết, tự phân tích và tự vận hành ở mức rất cao": {
+      "en": "The supply chain is capable of self-awareness, self-deconspection and self-acting at very high levels",
+      "zh": "供应链能够在非常高的水平上自我认识、自我解析和自我行动"
+    },
+    "chủ yếu nằm ở mức độ doanh nghiệp tự thực hiện và mức độ thuê ngoài các hoạt động trong chuỗi cung ứng.": {
+      "en": "It's mainly at the level of business that does itself and the extent of the lease outside the activities in the supply chain.",
+      "zh": "主要表现在自身经营的层次和供应链活动以外的租赁范围."
+    },
+    "có phạm vi rộng hơn 3PL.": {
+      "en": "There is a wider range of 3PL.",
+      "zh": "范围更广的是3PL。"
+    },
+    "có thể hiểu là Logistics bên thứ nhất.": {
+      "en": "It's understood as the first party.",
+      "zh": "被理解为第一党."
+    },
+    "có thể phù hợp.": {
+      "en": "Can fit.",
+      "zh": "会合."
+    },
+    "có thể tư vấn phương án dựa trên loại hàng, trọng lượng, thể tích, địa điểm giao nhận và thời gian yêu cầu.": {
+      "en": "may consult options based on the type of goods, weights, volume, destinations, and time required.",
+      "zh": "根据货物类型、重量、体积、目的地和所需时间,可查询各种选项。"
+    },
+    "hiệu quả trong nhiều năm. Doanh nghiệp khác có chuỗi phân phối phức tạp có thể cần 3PL hoặc 4PL. Những khái niệm từ 5PL trở lên chỉ thực sự có ý nghĩa khi quy mô, dữ liệu và độ phức tạp của mạng lưới đủ lớn.": {
+      "en": "Effective for years. Other businesses have complex distribution sequences that may need 3PL or 4PL. The concepts from 5PL to up are only really significant when the scale, data and complexity of the network are large enough.",
+      "zh": "有效数年. 其他企业的发行序列复杂,可能需要3PL或4PL. 只有当网络的规模、数据和复杂性足够大时,从5PL到上的概念才真正重要。"
+    },
+    "hướng tới mức tích hợp rất cao giữa năng lực thực thi Logistics và quản trị chiến lược.": {
+      "en": "towards very high integration capacity between the implementation of Logistics and strategic administration.",
+      "zh": "* 建立高度的后勤与战略行政之间的一体化能力。"
+    },
+    "không nên hiểu 1PL → 10PL như một chiếc thang mà mọi doanh nghiệp phải đi lần lượt từ thấp lên cao": {
+      "en": "Do not understand 1PL (10PL) as a ladder where every business has to take turns from low to high",
+      "zh": "不要把1PL(10PL)理解为每个企业必须从低到高轮流的梯子"
+    },
+    "là Logistics bên thứ ba.": {
+      "en": "The third party.",
+      "zh": "三相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相"
+    },
+    "là mô hình doanh nghiệp thuê một đơn vị bên ngoài thực hiện một công đoạn Logistics cụ thể.": {
+      "en": "is the business model that hires an external unit that performs a specific logistics segment.",
+      "zh": "是雇用一个履行特定后勤职能的外部单位的业务模式。"
+    },
+    "mô hình phù hợp nhất với quy mô, nguồn lực và mục tiêu vận hành của doanh nghiệp": {
+      "en": "The model is best suited to the scale, resources and operating goals of the business.",
+      "zh": "该模式最适合企业的规模、资源和业务目标。"
+    },
+    "mạng lưới Logistics": {
+      "en": "Logistics Network",
+      "zh": "后勤网"
+    },
+    "một mắt xích": {
+      "en": "one link",
+      "zh": "一个链接"
+    },
+    "một nhóm hoạt động Logistics hoàn chỉnh hơn": {
+      "en": "a more complete group of Logistics operations",
+      "zh": "更完整的后勤业务组"
+    },
+    "một số mô hình gắn với việc huy động, kết nối và quản trị nguồn lực Logistics từ mạng lưới rộng hoặc crowdsourcing.": {
+      "en": "Some models are attached to mobilization, connection and administration of the Logistics resources from either the wide network or the corrosion.",
+      "zh": "一些模型用于调动、连接和管理来自广网或腐蚀的后勤资源。"
+    },
+    "mới thực sự đáng cân nhắc.": {
+      "en": "It's really worth considering.",
+      "zh": "这真的值得考虑。"
+    },
+    "như một thang cấp độ mà càng nhiều “PL” thì càng tốt. Đặc biệt từ 5PL trở lên, cách định nghĩa giữa các tài liệu có thể khác nhau và nhiều mô hình vẫn mang tính phát triển hoặc định hướng tương lai.": {
+      "en": "as a scale, the more “PLREASE, the better. Especially from 5PL up, the definition between material can be different and many models remain in development or future orientation.",
+      "zh": "作为尺度,“PREASE越好。 特别是从5PL上起,材料之间的定义可能有所不同,许多模型仍在被开发或未来取向."
+    },
+    "quản trị chuỗi cung ứng dựa trên trí tuệ nhân tạo": {
+      "en": "administrator of the supply chain based on artificial intelligence",
+      "zh": "基于人工智能的供应链管理人"
+    },
+    "quản trị mạng lưới, dữ liệu, trí tuệ nhân tạo, tự động hóa và tối ưu chuỗi cung ứng ở quy mô ngày càng lớn": {
+      "en": "Administer the network, data, artificial intelligence, automation and optimization of the supply chain at an increasing scale",
+      "zh": "日益大规模地管理网络、数据、人工智能、供应链的自动化和优化"
+    },
+    "rất hiệu quả. Doanh nghiệp muốn thuê ngoài kho, vận chuyển và phân phối có thể phù hợp với": {
+      "en": "Very effective. The business wants to rent out of storage, transport and distribution can match",
+      "zh": "甚有效力. 企业想租出 储存,运输和分配可以匹配"
+    },
+    "sử dụng hệ thống phân tích ở cấp mạng lưới để đánh giá và tối ưu các phương án chuỗi cung ứng.": {
+      "en": "Use the network level analysis system to assess and optimize the supply sequence options.",
+      "zh": "使用网络级别分析系统评估和优化供应序列选项."
+    },
+    "thường phù hợp hơn.": {
+      "en": "More suitable.",
+      "zh": "更相宜相会."
+    },
+    "thường được hiểu là mô hình quản trị và tối ưu một": {
+      "en": "often understood as the administrative model and optimum one",
+      "zh": "常被理解为行政模式和最佳模式"
+    },
+    "thường được mô tả như điểm cực đại về mặt lý thuyết:": {
+      "en": "is often described as a theoretical extreme:",
+      "zh": "常被描述为理论极端:"
+    },
+    "thường được mô tả theo hướng": {
+      "en": "often described in a direction",
+      "zh": "经常向一个方向描述"
+    },
+    "tổ chức, quản lý và tối ưu toàn bộ hệ thống Logistics hoặc chuỗi cung ứng": {
+      "en": "Organise, manage and optimize the entire Logistics system or supply chain",
+      "zh": "组织、管理和优化整个后勤系统或供应链"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Điều quan trọng là": {
+      "en": "The important thing is",
+      "zh": "重要的是"
+    },
+    "Điều quan trọng nhất vẫn là xác định đúng nhu cầu thực tế:": {
+      "en": "The most important thing is to determine the right real needs:",
+      "zh": "最重要的是确定正确的实际需要:"
+    },
+    "Điểm khác nhau giữa các mô hình này nằm chủ yếu ở câu hỏi:": {
+      "en": "The difference between these models lies mainly in the question:",
+      "zh": "这些模型之间的差异主要在于:"
+    },
+    "Điểm quan trọng là không nên sử dụng mô hình phức tạp hơn nhu cầu thực tế.": {
+      "en": "The important point is not to use models more complex than actual needs.",
+      "zh": "重要的是不要使用比实际需要更复杂的模型."
+    },
+    "Đây là mô hình doanh nghiệp thuê một đối tác chuyên nghiệp thực hiện nhiều hoạt động Logistics có liên quan với nhau.": {
+      "en": "This is a business model that hires a professional partner who performs a variety of Tactics related activities.",
+      "zh": "这是一个商业模式,雇用了一个从事各种战术相关活动的专业伙伴。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị vận tải + đơn vị kho + 3PL + hệ thống công nghệ + nhà phân phối.": {
+      "en": "Transport Unit + stock unit + 3PL + technology system + distributor.",
+      "zh": "运输单位+库存单位+3PL+技术系统+经销商."
+    },
+    "Đối với doanh nghiệp chưa cần thuê ngoài toàn bộ chuỗi Logistics, việc sử dụng một đơn vị vận chuyển chuyên nghiệp cho từng tuyến là cách tiếp cận đơn giản và dễ kiểm soát.": {
+      "en": "For the business that has yet to be leased outside the entire series of Logists, the use of a professional transport unit for each gland is a simple and easily controlled approach.",
+      "zh": "对于还没有被租借到整个系列的Logists以外的业务,使用每个腺体的专业运输单元是一种简单易控的方法."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Ở mô hình này, doanh nghiệp chủ động thực hiện gần như toàn bộ hoạt động liên quan đến hàng hóa bằng nguồn lực của chính mình.": {
+      "en": "In this model, business actively performs almost the entire operation related to goods by its own resources.",
+      "zh": "在这个模式中,企业用自己的资源积极开展几乎与货物有关的整个业务。"
+    },
+    "™ 10PL trong Logistics là gì?": {
+      "en": "What is TM 10PL in Logistics?",
+      "zh": "什么是TM 10PL在后勤?"
+    },
+    "™ 3PL khác 2PL ở điểm nào?": {
+      "en": "What is the point of TM 3PL other 2PL?",
+      "zh": "TM 3PL 其他2PL有什么意义?"
+    },
+    "™ 5PL trong Logistics là gì?": {
+      "en": "What is TM 5PL in Logistics?",
+      "zh": "后勤部的TM 5PL是什么?"
+    },
+    "™ 6PL trong Logistics là gì?": {
+      "en": "What is TM 6PL in Logistics?",
+      "zh": "什么是TM 6PL在后勤?"
+    },
+    "™ 7PL, 8PL và 9PL trong Logistics được hiểu như thế nào?": {
+      "en": "TM 7PL, 8PL and 9PL in Logistics are understood how?",
+      "zh": "如何理解后勤部门的TM 7PL、8PL和9PL?"
+    },
+    "™ Bảng tóm tắt từ 1PL đến 10PL": {
+      "en": "TM Chart from 1PL to 10PL",
+      "zh": "1PL至10PL图"
+    },
+    "™ Hạn chế của 1PL": {
+      "en": "TM Limit of 1PL",
+      "zh": "TM 限制 1PL"
+    },
+    "™ Hạn chế của mô hình 3PL": {
+      "en": "TM Limited Model 3PL",
+      "zh": "TM 有限型号 3PL"
+    },
+    "™ Hạn chế của mô hình 4PL": {
+      "en": "The Limited TM of Model 4PL",
+      "zh": "型号为4PL的有限TM"
+    },
+    "™ Vì sao doanh nghiệp sử dụng 3PL?": {
+      "en": "TM Why Business Use 3PL?",
+      "zh": "TM 为什么商业使用3PL?"
+    },
+    "™ Điểm hạn chế của 2PL": {
+      "en": "TM Limited Point of 2PL",
+      "zh": "2PL有限点"
+    },
+    "™ Điểm mạnh của 4PL": {
+      "en": "TM Power of 4PL",
+      "zh": "TM 4PL电力"
+    },
+    "™ Điểm mạnh của mô hình 2PL": {
+      "en": "TM Power of Model 2PL",
+      "zh": "TM 2PL 型号的功率"
+    },
+    "™ Ưu điểm của mô hình 1PL": {
+      "en": "Point of Model 1PL",
+      "zh": "1PL型号点"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

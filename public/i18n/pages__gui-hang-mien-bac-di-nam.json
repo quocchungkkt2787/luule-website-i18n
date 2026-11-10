@@ -1,0 +1,1614 @@
+{
+  "route": "/pages/gui-hang-mien-bac-di-nam",
+  "texts": {
+    ", phù hợp với đặc điểm của những tuyến đường dài.": {
+      "en": ", consistent with the features of long routes.",
+      "zh": ",符合长途路线的特点."
+    },
+    ", phương án tiếp nhận, đóng gói, xe lấy hàng và cách sắp xếp hàng hóa cần được xây dựng theo từng tuyến.": {
+      "en": ", The option to take in, pack, pick up carts, and sort the goods needs to be built on every line.",
+      "zh": ",可以选择接收,打包,取出手推车,整理货物,需要在每行建设."
+    },
+    ", đặc biệt là hàng nặng, hàng số lượng lớn, máy móc, linh kiện hoặc hàng sản xuất, vận chuyển bằng đường sắt kết hợp xe tải là phương án đáng cân nhắc.": {
+      "en": ", especially heavy goods, large quantities, machinery, supplies or productions, railway transport that combine trucks is a matter of consideration.",
+      "zh": "特别是重货物,大数量,机械,用品或生产,铁路运输等结合了货车的运输都是需要考虑的."
+    },
+    ". Xe tải được sử dụng cho khâu lấy hàng và giao hàng hai đầu.": {
+      "en": "Yeah. The truck was used for picking up and delivering two heads.",
+      "zh": "对 卡车用于取出并运送两个头."
+    },
+    "1. Hàng gì?": {
+      "en": "1. What stuff?",
+      "zh": "1. 什么东西?"
+    },
+    "2. Bao nhiêu kilogram?": {
+      "en": "2. How many?",
+      "zh": "2. 几个?"
+    },
+    "3. Kích thước bao nhiêu?": {
+      "en": "Three. What size?",
+      "zh": "三个 什么尺寸?"
+    },
+    "4. Lấy hàng ở đâu?": {
+      "en": "Four. Where'd you get it?",
+      "zh": "四个 你从哪弄来的?"
+    },
+    "5. Giao ở đâu?": {
+      "en": "Five. Where's the delivery?",
+      "zh": "五个 送货在哪里?"
+    },
+    "6. Có yêu cầu bốc xếp hay xe nâng không?": {
+      "en": "Six. Is there a request for a set or a lift?",
+      "zh": "六门. 是否有人要求一组还是搭便车?"
+    },
+    "7. Thời gian cần giao hàng?": {
+      "en": "Seven. Time for delivery?",
+      "zh": "七个。 交货时间?"
+    },
+    ">>> Xem đầy đủ các dịch vụ:": {
+      "en": "> DS View Full Services:",
+      "zh": "> DS 查看全服务 :"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Báo giá dựa trên quy cách thực tế.": {
+      "en": "The price notice is based on the actual way.",
+      "zh": "出价通知以实际方式为准."
+    },
+    "Báo giá được xây dựng dựa trên đặc điểm thực tế của lô hàng và phạm vi dịch vụ.": {
+      "en": "The price paper was built on the actual features of the shipment and the service range.",
+      "zh": "出价票据以发货的实际特点和服务范围为基础."
+    },
+    "Bình Dương tập trung nhiều khu công nghiệp và nhà máy nên lượng hàng nguyên vật liệu, linh kiện, máy móc và hàng sản xuất từ phía Bắc chuyển vào khá lớn.": {
+      "en": "The Pacific concentrated numerous industrial and factory areas, so the amount of materials, supplies, machines and productions from the North moved in quite large.",
+      "zh": "太平洋集中了众多工业和工厂地区,因此北方出产的材料,用品,机器和出产量相当大."
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí giao tại TP.HCM sẽ khác giao tiếp đến các tỉnh xa hơn.": {
+      "en": "The cost of delivery at TP.HCM would be different from communicating to the further provinces.",
+      "zh": "TP.HCM的交付成本不同于与其他省份的沟通。"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chặng 1 – Xe tải lấy hàng tại miền Bắc:": {
+      "en": "Papg 1 – Carloads in the North:",
+      "zh": "Papg 1 — 北车载:"
+    },
+    "Chặng 2 – Vận chuyển đường sắt Bắc – Nam:": {
+      "en": "Block 2 – Northern Railroad Transport – South:",
+      "zh": "第2区-北部铁路运输-南部:"
+    },
+    "Chặng 3 – Xe tải giao hàng tại miền Nam:": {
+      "en": "Bibg 3 – Transport Truck in the South:",
+      "zh": "Bibg 3 — 南方运输卡车:"
+    },
+    "Chặng chính vận chuyển bằng đường sắt.": {
+      "en": "The main block of transport by rail.",
+      "zh": "铁路运输干道."
+    },
+    "Chặng dài Bắc – Nam được thực hiện bằng đường sắt.": {
+      "en": "The long North – South were made by railway.",
+      "zh": "长相南北由铁路制造."
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp tên hàng, số lượng, trọng lượng, kích thước cùng địa chỉ lấy – giao để được tư vấn phương án vận chuyển phù hợp.": {
+      "en": "Provides a package name, quantity, weight, size of the same address taken – delivered to be advised of the appropriate transport plan.",
+      "zh": "提供货包名称、数量、重量、同一地址的大小,以便告知适当的运输计划。"
+    },
+    "Cuối cùng, nên trao đổi rõ ngay từ đầu báo giá đã bao gồm những chặng nào: lấy hàng, vận chuyển đường sắt, giao hàng, bốc xếp hay các dịch vụ phát sinh khác.": {
+      "en": "Finally, it should be made clear from the beginning what the price has included: taking the goods, transporting the railroad, delivering the goods, rankings, or other birth services.",
+      "zh": "最后,从一开始就应说明价格包括什么:取走货物、运输铁路、交付货物、排名或其他分娩服务。"
+    },
+    "Các bộ phận chuyển động cần khóa hoặc cố định.": {
+      "en": "Moving parts need to be locked or fixed.",
+      "zh": "移动部件需要被锁定或固定."
+    },
+    "Các doanh nghiệp tại Đồng Nai thường phát sinh nhu cầu nhận nguyên vật liệu, thiết bị, phụ tùng và hàng sản xuất từ miền Bắc.": {
+      "en": "Businesses at the Plains of Nai often develop the need for receiving materials, equipment, spare parts, and production from the North.",
+      "zh": "直隶平原的企业经常发展出接收北方出产的材料,设备,零配件和出产的需要."
+    },
+    "Các loại nguyên vật liệu đóng bao, đóng thùng, đóng cuộn hoặc đóng pallet có thể được vận chuyển theo lô.": {
+      "en": "The type of materials packed, packaged, roll or close pallet can be transported by lot.",
+      "zh": "包装、包装、卷或近托盘所装材料的类型可通过批量运输。"
+    },
+    "Các tuyến gửi hàng từ miền Bắc đi miền Nam đang khai thác": {
+      "en": "The shipping lines from the North to the South are exploiting",
+      "zh": "从北到南的航线在开采"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Câu hỏi thường gặp về gửi hàng từ miền Bắc đi miền Nam": {
+      "en": "The question is common to send from the North to the South.",
+      "zh": "所问从北出而入南出是常."
+    },
+    "Có cần đóng kiện hay gia cố không.": {
+      "en": "Do we need to sue or reinforce?",
+      "zh": "我们需要起诉还是加强?"
+    },
+    "Có thể bố trí xe giao tiếp từ đầu đường sắt đến địa chỉ người nhận.": {
+      "en": "The communication vehicles can be arranged from the railhead to the receiver's address.",
+      "zh": "通信车辆可以从铁道头到接收者的地址排列."
+    },
+    "Có thể bố trí xe lấy tại nhà máy, kho hoặc khu công nghiệp theo thông tin khách hàng cung cấp.": {
+      "en": "Cars can be arranged at the factory, warehouse, or industrial district according to client information provided.",
+      "zh": "根据客户提供的信息,汽车可以在工厂、仓库或工业区安排。"
+    },
+    "Có thể tiếp nhận hàng lẻ và hàng số lượng khác nhau tùy loại hàng, quy cách và tuyến giao nhận.": {
+      "en": "Single goods and rows can be received depending on the type of rows, how and how to receive them.",
+      "zh": "单项货物和行可以根据行的种类,如何和如何收受."
+    },
+    "Có thể xây dựng phương án giao về nhiều khu vực miền Nam.": {
+      "en": "It's possible to build a transitional plan on many southern areas.",
+      "zh": "可以在很多南部地区制定过渡计划."
+    },
+    "Có xe nâng hay nhân công bốc xếp hay không.": {
+      "en": "There's a lift or there's a worker.",
+      "zh": "有电梯或有工人."
+    },
+    "Có. Tuy nhiên máy móc cần được kiểm tra quy cách, kích thước và yêu cầu đóng gói trước khi báo phương án.": {
+      "en": "Yes. The machine, however, needs a test of how, the size, and the request for packing before reporting the option.",
+      "zh": "对 然而,该机器在报告选择方案之前需要测试其方法、大小和包装要求。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cần có vật liệu chống sốc, ngăn cách từng sản phẩm và cảnh báo bên ngoài kiện hàng.": {
+      "en": "The anti-aphylactic material is required, separating each product and warning outside the package.",
+      "zh": "需要抗生素材料,将每个产品分开,并在包件外发出警告."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do đó, doanh nghiệp có lịch sản xuất hoặc thời hạn giao hàng cụ thể nên gửi kế hoạch sớm cho Vận Tải Lưu Lê để chủ động bố trí.": {
+      "en": "The business therefore has a production schedule or a specific delivery deadline that should send an early plan to Liu Liu to take the initiative.",
+      "zh": "因此,该企业有生产时间表或具体的交货期限,应当提前将计划发给刘刘主动."
+    },
+    "Doanh nghiệp có sản lượng đều có thể lên kế hoạch gửi hàng theo ngày hoặc theo từng đợt thay vì xử lý từng chuyến riêng lẻ.": {
+      "en": "The produce business can plan to send daily or in stages instead of handling individual trips.",
+      "zh": "生产业务可以计划每天或分阶段发送,而不是处理个人出行。"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ": {
+      "en": "Services",
+      "zh": "服务"
+    },
+    "Dịch vụ gửi hàng từ các tỉnh miền Bắc đi vào miền Nam": {
+      "en": "The delivery service from the Northern provinces enters the South",
+      "zh": "北方各省的送货服务进入南方"
+    },
+    "Dịch vụ gửi hàng từ miền Bắc đi miền Nam của Vận Tải Lưu Lê": {
+      "en": "The delivery service from the North to the South of Liu Media",
+      "zh": "刘传媒从北到南的快递服务"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá": {
+      "en": "Price",
+      "zh": "价格"
+    },
+    "Giải pháp cho doanh nghiệp gửi hàng Bắc – Nam thường xuyên": {
+      "en": "Solutions for North-Adventure Business – Males often",
+      "zh": "北冒险企业解决方案-男性经常"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang đi miền Nam": {
+      "en": "Send North Jiang to the South",
+      "zh": "送北江去南方"
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh đi miền Nam": {
+      "en": "Send North Ning to the South",
+      "zh": "送北宁去南边"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam đi miền Nam": {
+      "en": "Send Hannan to the South",
+      "zh": "送汉南去南方"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên đi miền Nam": {
+      "en": "Send the Line to the South",
+      "zh": "将线路发送到南方"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương đi miền Nam": {
+      "en": "Send Ocean to the South",
+      "zh": "送出海洋去南方"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng đi miền Nam": {
+      "en": "Send Customs to the South",
+      "zh": "向南方派遣海关"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định đi miền Nam": {
+      "en": "Send South to the South",
+      "zh": "送去南方 送去南方"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình đi miền Nam": {
+      "en": "Send Ninh Ping to the South",
+      "zh": "送宁平南来."
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ đi miền Nam": {
+      "en": "Send Funky Ts",
+      "zh": "发送 Funky Ts"
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh đi miền Nam": {
+      "en": "Send Ningang to the South",
+      "zh": "送宁冈去南方"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên đi miền Nam": {
+      "en": "Send Su Yuan to the South",
+      "zh": "送苏元去南方"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc đi miền Nam": {
+      "en": "Send Wing Fu to the South",
+      "zh": "送荣福去南方"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ miền Bắc vào những khu vực nào ở miền Nam?": {
+      "en": "Send the package from the North into what areas in the South?",
+      "zh": "把包裹从北方送到南方哪个地区?"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hai lô hàng cùng đi một tuyến nhưng một lô nặng 2 tấn chỉ chiếm vài mét khối, trong khi lô khác chỉ nặng 500 kg nhưng chiếm diện tích lớn có thể có cách tính hoàn toàn khác nhau.": {
+      "en": "The two shipments go the same route but a two-ton load of only a few cubic metres, while the other one weighs only 500 kilograms but occupying a large area may have a completely different way of calculating.",
+      "zh": "这两批货物走的是同一路线,但只有几立方米的两吨重,而另一批只有500公斤重,但占据了大片地区,计算方式可能完全不同。"
+    },
+    "Hotline Vận Tải Lưu Lê:": {
+      "en": "Hotline Media:",
+      "zh": "热线媒体 :"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng gia dụng, đồ dùng, sản phẩm đóng thùng, hàng phân phối đại lý và nhiều loại hàng thương mại khác cũng phù hợp với hình thức vận chuyển này.": {
+      "en": "The goods, items, canned goods, the delivery of the agent, and many other commercial goods are also consistent with this form of transportation.",
+      "zh": "货物、物品、罐装货物、代理人的交付以及许多其他商业货物也符合这种运输形式。"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ và hàng nặng được tính cước như thế nào?": {
+      "en": "How are light items and heavy items counted?",
+      "zh": "轻型物品和重型物品如何计算?"
+    },
+    "Hàng nên được xếp cân bằng, quấn màng và cố định vào pallet.": {
+      "en": "The package should be balanced, wrapped and fixed to pallet.",
+      "zh": "包裹应当平衡,包裹并固定为托盘."
+    },
+    "Hình thức đường sắt kết hợp xe tải giúp xử lý hiệu quả những lô hàng có trọng lượng lớn mà không nhất thiết phải sử dụng một xe đường dài riêng cho toàn bộ tuyến.": {
+      "en": "The form of railways combining trucks helps effectively process large-weight shipments that do not necessarily have to use a long-distance car for the entire route.",
+      "zh": "将货车组合起来的铁路形式有助于有效地处理大重量的货运,而大重量的货运不一定需要在整个路线上使用长途汽车."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hỗ trợ khách hàng doanh nghiệp gửi hàng định kỳ.": {
+      "en": "Supporting business customers to send on term.",
+      "zh": "支持企业客户定期寄出."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi khách hàng cung cấp chính xác địa chỉ lấy hàng, địa chỉ giao hàng, trọng lượng, kích thước và loại hàng, bộ phận vận hành sẽ tính toán phương án phù hợp.": {
+      "en": "When the customer gives the exact address for the purchase, the delivery address, the weight, the size and the type of goods, the operating department will calculate the appropriate plan.",
+      "zh": "当客户给出购买的确切地址,交货地址,重量,大小和商品种类时,运营部门会计算出相应的计划."
+    },
+    "Khi khối lượng tăng, chi phí vận chuyển trên mỗi đơn vị hàng thường có khả năng tối ưu hơn so với việc xử lý nhiều chuyến xe đường dài riêng lẻ.": {
+      "en": "As mass increases, the cost of transportation per unit is usually more optimum than the handling of many individual long-distance trains.",
+      "zh": "随着质量的提高,每节车厢的运输成本通常比许多个别长途列车的装卸更为优化."
+    },
+    "Khoảng cách từ miền Bắc vào miền Nam rất dài. Đây chính là điều kiện để ưu thế của đường sắt được thể hiện rõ.": {
+      "en": "The distance from the North into the South is very long. This is the condition for the dominant part of the express railway.",
+      "zh": "从北入南相相去甚远. 这是快铁主要部分的条件."
+    },
+    "Khác với phương án sử dụng xe tải đường dài cho toàn bộ hành trình, dịch vụ của Vận Tải Lưu Lê lấy": {
+      "en": "Unlike the plan of using long-distance trucks for the entire journey, the service of the Media Retrieved",
+      "zh": "与全程使用长途卡车的计划不同,Media Retrieved的服务"
+    },
+    "Khách hàng cung cấp:": {
+      "en": "Supplies:",
+      "zh": "用品:"
+    },
+    "Khách hàng có thể sử dụng một đầu mối để xử lý xuyên suốt từ khâu lấy hàng đến giao hàng.": {
+      "en": "Customers can use a lead to process across from suture to delivery.",
+      "zh": "客户可以使用从缝合到交付的流程。"
+    },
+    "Khách hàng nên cung cấp đúng số lượng và kích thước để hạn chế việc phải điều chỉnh cước khi nhận hàng.": {
+      "en": "Customers should provide the correct amount and size to limit the need for adjustments in the receiving of items.",
+      "zh": "客户应当提供正确的金额和规模,以限制对接收物品进行调整的需要."
+    },
+    "Kinh nghiệm giúp tiết kiệm chi phí gửi hàng miền Bắc đi miền Nam": {
+      "en": "Experience helps save the cost of sending the North to the South",
+      "zh": "经验有助于节省将北方送往南方的费用"
+    },
+    "Kích thước.": {
+      "en": "Size.",
+      "zh": "尺寸。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Linh kiện điện tử, phụ tùng cơ khí, phụ kiện máy móc, thiết bị điện và vật tư kỹ thuật là nhóm hàng thường xuyên được gửi từ các khu công nghiệp miền Bắc vào miền Nam.": {
+      "en": "Electrical parts, mechanical parts, mechanical accessories, electrical equipment, and technical objects are regular cargo groups sent from northern industrial areas into the South.",
+      "zh": "电气零件,机械零件,机械配件,电气设备等技术物品,是从北方工业区发往南方的常规货运组."
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Liên hệ gửi hàng từ các tỉnh miền Bắc đi miền Nam": {
+      "en": "Contact to send the shipment from the Northern provinces to the South",
+      "zh": "联系将货物从北方各省运往南方"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Loại hàng.": {
+      "en": "Kind of.",
+      "zh": "有点"
+    },
+    "Máy có giá trị cao có thể cân nhắc kiện gỗ.": {
+      "en": "High-valued machines can weigh the wood.",
+      "zh": "高值机能重取出木."
+    },
+    "Máy công nghiệp, thiết bị cơ khí, máy đóng gói, máy gia công, phụ tùng hoặc cụm thiết bị thường có trọng lượng lớn.": {
+      "en": "Industry, mechanical equipment, packing machines, machinery, parts, or clusters of equipment are often of large weight.",
+      "zh": "工业,机械设备,包装机,机械,零件,或设备集群往往重量较大."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mô hình này đặc biệt phù hợp với hàng nặng, hàng số lượng lớn, hàng công nghiệp, máy móc, nguyên vật liệu và những doanh nghiệp cần gửi hàng Bắc Nam thường xuyên nhưng vẫn muốn kiểm soát tốt chi phí vận chuyển.": {
+      "en": "This model is particularly consistent with heavy goods, large quantities, industrial goods, machinery, materials and businesses that need regular North South goods but still want good transportation costs.",
+      "zh": "这种模式特别符合重货物、大量货物、工业货物、机械、材料和企业,它们需要正常的南北货物,但仍然需要良好的运输成本。"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Mỗi địa phương có đặc điểm hàng hóa khác nhau. Bắc Ninh và Bắc Giang có lượng lớn linh kiện điện tử và hàng phục vụ các khu công nghiệp; Vĩnh Phúc nổi bật với linh kiện cơ khí và phụ tùng; Thái Nguyên có hàng công nghiệp, máy móc và vật tư; Hải Phòng và Quảng Ninh có nhu cầu vận chuyển liên quan đến sản xuất, cảng biển và logistics.": {
+      "en": "Each local has different goods characteristics. North Ning and North Jiang have a large quantity of electronic parts and goods serving industrial areas; the Wing of Jason stands out with mechanical and spare parts components; the Thai Thais have industrial, machinery, and private objects; Sea and Ninzhinity need for transportation related to production, sea port and logistics.",
+      "zh": "每个本地都有不同的商品特征. 北宁和北江拥有大量电子零件和商品为工业区服务;杰森之翼以机械和零配件为主;泰来人有工业,机械,和私人物品;海和宁zh需要与生产,海港和物流相关的运输."
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Một quy trình rõ ràng giúp hạn chế sai sót giữa nhiều chặng vận chuyển.": {
+      "en": "A clear process that helps to limit errors between many transport stages.",
+      "zh": "一个有助于限制许多运输阶段之间出错的明确过程."
+    },
+    "Một số lợi ích nổi bật gồm:": {
+      "en": "Some outstanding benefits include:",
+      "zh": "一些尚未支付的养恤金包括:"
+    },
+    "Một đơn hàng thông thường sẽ trải qua ba chặng:": {
+      "en": "A regular order goes through three stages:",
+      "zh": "常规订单分为三个阶段:"
+    },
+    "Một ưu điểm của": {
+      "en": "A Quality of",
+      "zh": "质量"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mục tiêu của Vận Tải Lưu Lê không chỉ là đưa một kiện hàng từ điểm A đến điểm B mà còn giúp khách hàng xây dựng phương án vận chuyển phù hợp với đặc điểm hàng hóa và ngân sách.": {
+      "en": "The goal of the Media Media was not only to take a package from point A to point B but also to help the customer build the transportation plan that was consistent with goods and budget specifications.",
+      "zh": "媒体的目标不仅是从A点到B点采取一揽子措施,而且帮助客户制定符合货物和预算规格的运输计划。"
+    },
+    "Ngoài các trung tâm lớn, Vận Tải Lưu Lê có thể xây dựng phương án giao nối chuyến đến nhiều khu vực khác ở miền Nam.": {
+      "en": "In addition to major centres, Liu Media can build a plan to connect the journey to many other areas in the South.",
+      "zh": "除主要中心外,刘传媒还可以制定计划将旅程与南方许多其他地区相接."
+    },
+    "Nhu cầu": {
+      "en": "Needs",
+      "zh": "需求"
+    },
+    "Nhận hàng tại nhiều khu vực miền Bắc.": {
+      "en": "Retrieved in several northern areas.",
+      "zh": "在几个北部地区检索。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ kết hợp hai phương thức, khách hàng vừa tận dụng được khả năng vận chuyển khối lượng lớn của đường sắt, vừa có sự linh hoạt của xe tải tại điểm lấy và điểm giao.": {
+      "en": "By combining the two means, the customer has just taken advantage of the large mass transport capacity of the railway, with the flexibility of the truck at the pick-up and the intersection.",
+      "zh": "通过将两种方式结合起来,客户刚刚利用了铁路的大型大众运输能力,在取地和相交处的货车具有灵活性."
+    },
+    "Nhờ quy trình này, khách hàng không phải tự liên hệ riêng với đơn vị xe lấy, đường sắt và xe giao.": {
+      "en": "As a result of this process, customers do not have to make personal contact with car units, rails, and transport vehicles.",
+      "zh": "由于这一过程,客户不必与汽车单位,铁路,运输车辆进行个人接触."
+    },
+    "Những loại hàng phù hợp vận chuyển bằng đường sắt Bắc – Nam": {
+      "en": "The kind of goods that fit with the Northern Railroad – Male",
+      "zh": "与北方铁路相匹配的商品类型-男性"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những thông tin cần chuẩn bị khi yêu cầu báo giá": {
+      "en": "Information to Be Prepared When Requesting Prices",
+      "zh": "索取价格时要准备的信息"
+    },
+    "Những vị trí dễ trầy xước nên được bọc bảo vệ.": {
+      "en": "Slashable positions should be protected.",
+      "zh": "应保护可割裂的阵地。"
+    },
+    "Nên cung cấp địa chỉ cụ thể.": {
+      "en": "Should provide specific address.",
+      "zh": "应提供具体地址。"
+    },
+    "Nên dùng thùng đủ độ cứng, dán kín các cạnh và không để khoảng trống lớn bên trong.": {
+      "en": "The cans should be used to have enough hardness, past the edges, and do not leave large spaces inside.",
+      "zh": "罐子应该用来有足够的硬度,越过边缘,不要在内部留下大的空间."
+    },
+    "Nếu có nhiều kiện, nên cung cấp tổng trọng lượng.": {
+      "en": "If many are involved, the total weight should be provided.",
+      "zh": "如果涉及许多人,则应提供总重量。"
+    },
+    "Nếu doanh nghiệp hoặc cá nhân đang cần": {
+      "en": "If Business or Individual Needs",
+      "zh": "如果企业或个人需要"
+    },
+    "Nếu tính cả:": {
+      "en": "If counted:",
+      "zh": "如果计算:"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Pallet giúp việc nâng hạ thuận tiện hơn và hạn chế tình trạng hàng tiếp xúc trực tiếp với nền.": {
+      "en": "Pallet helps with a more convenient upgrade and restricts the situation of the cargo directly exposed to the background.",
+      "zh": "托盘有助于更方便地升级,并限制直接暴露在背景下的货物的状况."
+    },
+    "Phù hợp hàng lẻ, hàng ghép và lô hàng lớn.": {
+      "en": "Single goods, pieces and big shipments.",
+      "zh": "单项货物、零碎货物和大宗货物。"
+    },
+    "Quy cách từng kiện.": {
+      "en": "Way to go.",
+      "zh": "不错"
+    },
+    "Quy trình gửi hàng từ các tỉnh miền Bắc đi miền Nam": {
+      "en": "The delivery process from the Northern provinces to the South",
+      "zh": "从北方省份到南方的交付进程"
+    },
+    "Quãng đường dài đồng nghĩa với hàng phải được chuẩn bị kỹ hơn những đơn hàng giao nội thành.": {
+      "en": "The long road meant the line had to be better prepared for the city's internal delivery.",
+      "zh": "长道意味着线路必须更好地为城市的内部交付做准备."
+    },
+    "Sai lệch lớn giữa số liệu khai báo và số liệu thực tế có thể khiến phương án ban đầu không còn phù hợp.": {
+      "en": "The big deviation between the account data and the actual data can make the original option invalid.",
+      "zh": "账户数据与实际数据之间的大偏差可能使原始选项无效."
+    },
+    "Sau khi chặng đường sắt hoàn thành, hàng được bố trí xe giao tiếp về khu vực Đồng Nai theo địa chỉ nhận.": {
+      "en": "After the railway crossing is completed, the line is arranged to communicate with the Plain Nai area at the address given.",
+      "zh": "铁路通车后,该线路按给定的地址安排与平原奈一区通车."
+    },
+    "Sau khi chặng đường sắt hoàn thành, hàng được tiếp nhận để chuyển sang phương tiện giao cuối.": {
+      "en": "After the railroad was completed, the line was received to transfer to the last transport.",
+      "zh": "铁路完工后,本线接通后转入上行运输."
+    },
+    "Sau khi tiếp nhận, hàng được sắp xếp để vận chuyển trên chặng đường sắt Bắc – Nam.": {
+      "en": "After receiving, the line is arranged for transport on the Northern Railway – Nam",
+      "zh": "接收后,该线路安排为北方铁路的运输 – Nam"
+    },
+    "Số kiện.": {
+      "en": "Facts.",
+      "zh": "事实"
+    },
+    "Số lượng kiện.": {
+      "en": "Number of lawsuits.",
+      "zh": "诉讼数量。"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TP.HCM là một trong những điểm nhận hàng lớn nhất. Hàng có thể được giao về kho doanh nghiệp, cửa hàng, khu công nghiệp, công trình hoặc địa chỉ khách hàng tại các khu vực phù hợp với phương án giao nhận.": {
+      "en": "TP.HCM is one of the biggest receivers. The goods may be sent back to business depots, shops, industrial districts, works or customer addresses in areas that are in line for the delivery plan.",
+      "zh": "TP.HCM是最大的接收器之一. 货物可运回商业仓库、商店、工业区、工程或符合交货计划地区的客户地址。"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thay vì mỗi lô hàng mới bắt đầu hỏi lại từ đầu, hai bên có thể thống nhất:": {
+      "en": "Instead of each new shipment starting to ask again, the two parties can be unanimous:",
+      "zh": "双方可以一致:"
+    },
+    "Thông thường, đơn vị vận chuyển cần xác định:": {
+      "en": "Typically, Transport units need to determine:",
+      "zh": "通常,运输单位需要确定:"
+    },
+    "Thông tin càng đầy đủ thì báo giá và phương án vận chuyển càng chính xác.": {
+      "en": "The more complete the information, the more precise the price and transport options are.",
+      "zh": "信息越完整,价格和运输选择就越精确."
+    },
+    "Thông tin này giúp đơn vị vận chuyển kiểm tra tính phù hợp của lịch đường sắt.": {
+      "en": "This information enabled the transport unit to test the appropriateness of the railway schedule.",
+      "zh": "这一信息使得运输单位能够测试铁路时刻表是否合适."
+    },
+    "Thể tích hàng.": {
+      "en": "Quality.",
+      "zh": "质量."
+    },
+    "Thời gian dự kiến gửi.": {
+      "en": "Time expected.",
+      "zh": "时间预计。"
+    },
+    "Thời gian gửi hàng miền Bắc đi miền Nam mất bao lâu?": {
+      "en": "How long will it take to send the North to the South?",
+      "zh": "送出北方去南方还要多久?"
+    },
+    "Thời gian vận chuyển phụ thuộc vào địa chỉ lấy hàng, lịch tập kết, lịch chạy tàu, điểm giao tại miền Nam và tính chất từng đơn hàng.": {
+      "en": "Transportation time depends on the take-out address, the schedule, the train schedule, the intersection in the South and the individual singles.",
+      "zh": "运输时间取决于取出地址,时刻表,列车时刻表,南方的相交点和个别单人."
+    },
+    "Thứ ba, với đơn hàng thường xuyên, có thể gom hàng theo đợt hợp lý để tối ưu khâu lấy hàng và vận chuyển.": {
+      "en": "Third, with regular orders, it is possible to gather in logical season to optimize the goods and transport.",
+      "zh": "三,有定期订单,可以按逻辑季节聚集来优化货物和运输."
+    },
+    "Thứ hai, nếu có thể chủ động lịch, nên trao đổi trước thay vì yêu cầu lấy gấp trong thời gian quá ngắn.": {
+      "en": "Second, if the schedule is available, it is recommended that the exchange be made first rather than asking for a rush in too short time.",
+      "zh": "第二,如果有时间表,建议先进行交换,而不是在太短的时间内要求匆忙。"
+    },
+    "Thứ tư, hàng nên được đóng gói phù hợp ngay tại kho gửi, nhất là hàng sản xuất có quy cách lặp lại.": {
+      "en": "Fourth, the package should be properly packed right at the deposit, especially the product that has a recurring pattern.",
+      "zh": "第四,包件应当妥善地装入储物,尤其是具有反复出现模式的产品."
+    },
+    "Tiếp nhận nhiều loại hàng sản xuất, máy móc và nguyên vật liệu.": {
+      "en": "Taking in many kinds of production, machinery and materials.",
+      "zh": "从事多种生产,机械和材料."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trọng lượng thực tế.": {
+      "en": "Real weight.",
+      "zh": "真正的重量。"
+    },
+    "Trọng lượng.": {
+      "en": "Load.",
+      "zh": "装弹"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tên hàng giúp xác định cách vận chuyển và mức độ cần bảo vệ.": {
+      "en": "The row name helps determine how to transport and how to protect.",
+      "zh": "该行名帮助确定如何运输,如何保护."
+    },
+    "Tên hàng.": {
+      "en": "The row name.",
+      "zh": "行名相会."
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy tính chất hàng, Vận Tải Lưu Lê sẽ tư vấn đóng thùng carton, kiện gỗ, pallet hoặc gia cố phù hợp.": {
+      "en": "Depending on the properties of the goods, Liu Media will advise the cans of carton, the wood lawsuit, pallet, or the appropriate reinforcement.",
+      "zh": "根据商品的属性,刘传媒会给卡通,木板诉讼,托盘等罐子提供建议,或适当加固."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tư vấn phương án đóng gói.": {
+      "en": "The package plan consultation.",
+      "zh": "一揽子计划咨询。"
+    },
+    "Tối thiểu cần có tên hàng, trọng lượng, kích thước, số kiện, địa chỉ lấy và địa chỉ giao.": {
+      "en": "The minimum needs a name, weight, size, lawsuit, address, and delivery address.",
+      "zh": "最低要求需要姓名、体重、大小、诉讼、地址和交货地址。"
+    },
+    "Từ đầu mối đường sắt phía Nam, hàng hóa có thể tiếp tục được phân phối bằng xe tải tới nhiều tỉnh, thành.": {
+      "en": "From the Southern Railroad lead, the goods could continue to be distributed by trucks to many provinces, to cities.",
+      "zh": "从\"南方铁路\"起,可以继续由货车向多省,多市分出."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Việc chuẩn hóa quy trình giúp rút ngắn thời gian xử lý đơn hàng và giảm sai lệch thông tin.": {
+      "en": "The standardization of the procedure helps shorten the time of the single processing and reduce information deviations.",
+      "zh": "程序的标准化有助于缩短单一处理的时间并减少信息偏差。"
+    },
+    "Vì sao lựa chọn Vận Tải Lưu Lê gửi hàng từ miền Bắc đi miền Nam?": {
+      "en": "Why the option for Liu Choi from the North to the South?",
+      "zh": "刘崔从北入南,何以取选?"
+    },
+    "Vì sao đường sắt phù hợp với vận chuyển hàng Bắc – Nam?": {
+      "en": "Why the railroad fits the shipment of North – Nam?",
+      "zh": "铁路为何适合北—南?"
+    },
+    "Vì vậy, cách nhanh nhất để nhận báo giá chính xác là gửi cho Vận Tải Lưu Lê": {
+      "en": "So the quickest way to receive the correct price is to send to Liu Media",
+      "zh": "所以,最快速得到正确价格的方法就是送去刘传媒"
+    },
+    "Vì vậy, dù cùng nằm trong cụm": {
+      "en": "So even if it's in the cluster",
+      "zh": "所以就算是在星团里"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê bố trí xe lấy hàng tại địa chỉ đã thống nhất.": {
+      "en": "The Liu Trucks layout vehicles at the unified address.",
+      "zh": "刘克车在统一地址布局车辆."
+    },
+    "Vận Tải Lưu Lê cung cấp dịch vụ gửi hàng từ miền Bắc đi miền Nam theo mô hình đường sắt kết hợp đường bộ.": {
+      "en": "Liu Transport provides delivery services from the North to the South according to the model rails that combine the route.",
+      "zh": "刘公运根据综合路线的示范铁路提供由北向南的快递服务."
+    },
+    "Vận Tải Lưu Lê có thể trao đổi với khách hàng về yêu cầu đóng gói trước khi tiếp nhận để giảm rủi ro trong hành trình.": {
+      "en": "Liu Load may talk to the customer about the package request before receiving to reduce the risk of the journey.",
+      "zh": "刘洛德可能在收到包件请求前会与客户交谈以降低出行风险."
+    },
+    "Vận Tải Lưu Lê tiếp nhận thông tin, tư vấn cách đóng gói, xây dựng phương án lấy hàng tại miền Bắc, vận chuyển đường sắt Bắc – Nam và giao tiếp đến địa chỉ người nhận ở phía Nam.": {
+      "en": "Liu transport received information, consulting the package, building the plan to take the shipment in the North, shipping the Northern Railroad – South and communicate to the recipient's address in the south.",
+      "zh": "刘运收到了信息,咨询了包裹,制定了北上取货计划,将北上铁路-南上通航,并沟通南下接收方地址."
+    },
+    "Vận Tải Lưu Lê tập trung xây dựng giải pháp vận chuyển Bắc – Nam dựa trên": {
+      "en": "Liu Transport focused on building Northern Transport Solution – Male Based",
+      "zh": "刘运专注于建设北方交通解决方案 — 基于男性"
+    },
+    "Vận Tải Lưu Lê xây dựng cụm dịch vụ vận chuyển từ nhiều khu vực sản xuất quan trọng ở miền Bắc vào miền Nam, trong đó tập trung vào các tuyến:": {
+      "en": "Media Liu built the transport cluster from several important production areas in the North into the South, which focused on the routes:",
+      "zh": "媒体 刘自成从北方的几个重要生产区向南方建设了交通集聚地,重点为:"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa": {
+      "en": "Transportation",
+      "zh": "运输"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "Với doanh nghiệp phát sinh đơn hàng đều đặn, cách vận hành nên khác khách gửi một lần.": {
+      "en": "With the business generating singles on a regular basis, the operation should be different from the one sent once.",
+      "zh": "由于企业定期生成单曲,业务应当与发送一次的单曲不同."
+    },
+    "Với máy móc, thiết bị, hàng dễ móp hoặc hàng có giá trị cao, cần xem xét pallet, kiện gỗ, màng quấn, vật liệu chống sốc hoặc phương án cố định phù hợp.": {
+      "en": "With machines, equipment, easily available items or items of high value, it is important to consider pallet, wood sues, membranes, anti-shock materials, or fixed options.",
+      "zh": "有了机器,设备,容易获得的物品或有高价值的物品,重要的是考虑托盘,木质诉讼,薄膜,抗震材料,或固定选项."
+    },
+    "Với những lô hàng khác nhau, cách bố trí và gia cố cần bảo đảm hạn chế xê dịch trong quá trình vận chuyển.": {
+      "en": "With the different shipments, the layout and reinforcement needed to ensure the movement restrictions during the transport.",
+      "zh": "随着不同的发货,布局和加固需要确保运输过程中的出行限制."
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xe tải giao hàng đến địa chỉ đã thống nhất và hoàn tất quá trình vận chuyển.": {
+      "en": "The delivery truck to the unified address and completed the transport process.",
+      "zh": "交付货车到统一地址并完成运输流程."
+    },
+    "Xe tải lấy và giao hàng hai đầu.": {
+      "en": "The truck takes and delivers two heads.",
+      "zh": "卡车取出并送出两个头."
+    },
+    "Xe tải phụ trách lấy hàng tại kho, nhà máy hoặc địa chỉ của khách hàng ở miền Bắc, hàng sau đó được tập kết để vận chuyển bằng đường sắt trên chặng Bắc – Nam. Khi đến đầu miền Nam, xe tải tiếp tục nhận hàng và giao đến địa chỉ cuối cùng.": {
+      "en": "The truck was in charge of picking up supplies at warehouses, factories, or customer addresses in the North, which were then assembled to transport by railroads on the North-South-South.",
+      "zh": "卡车负责在北方的仓库、工厂或客户地址取货,然后由南北铁路组装运输。"
+    },
+    "Xe tải vẫn được sử dụng nhưng tập trung vào chặng lấy và giao hàng.": {
+      "en": "The truck is still used but focuses on the pick-up and delivery.",
+      "zh": "卡车仍在使用,但侧重于取货和交货。"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "Yêu cầu giao nhận cụ thể.": {
+      "en": "A specific delivery request.",
+      "zh": "具体送货请求."
+    },
+    "Yêu cầu đặc biệt.": {
+      "en": "Special request.",
+      "zh": "特别请求。"
+    },
+    "chặng đường sắt;": {
+      "en": "Railway;",
+      "zh": "铁路;"
+    },
+    "chờ lịch vận chuyển;": {
+      "en": "Wait for the transport schedule;",
+      "zh": "等待运输时间表;"
+    },
+    "chứng từ;": {
+      "en": "certificates;",
+      "zh": "证书;"
+    },
+    "cách xác nhận số lượng;": {
+      "en": "how to confirm numbers;",
+      "zh": "如何确认数字;"
+    },
+    "của Vận Tải Lưu Lê.": {
+      "en": "of Liu Load.",
+      "zh": "刘载。"
+    },
+    "dịch vụ gửi hàng từ miền Bắc đi miền Nam bằng đường sắt": {
+      "en": "The delivery service from North to South by railway",
+      "zh": "铁路从北到南的送货服务"
+    },
+    "dịch vụ vận chuyển hàng từ miền Bắc đi miền Nam bằng đường sắt": {
+      "en": "Transport service from North to South by railway",
+      "zh": "铁路从北到南的运输服务"
+    },
+    "gửi hàng miền Bắc đi miền Nam": {
+      "en": "Send the North to the South",
+      "zh": "让北方去南方"
+    },
+    "gửi hàng từ các tỉnh miền Bắc đi miền Nam": {
+      "en": "Delivered from the Northern provinces to the South",
+      "zh": "从北方省份运往南方"
+    },
+    "gửi hàng từ các tỉnh miền Bắc đi miền Nam bằng đường sắt": {
+      "en": "Sent from the North provinces to the South by railway",
+      "zh": "从北方各省经铁路运往南方"
+    },
+    "gửi hàng từ miền Bắc vào miền Nam": {
+      "en": "Send the package from the North to the South",
+      "zh": "把包裹从北方送到南方"
+    },
+    "gửi hàng từ miền Bắc đi miền Nam": {
+      "en": "Sent from the North to the South",
+      "zh": "从北到南"
+    },
+    "hàng được nhận tại kho khách hàng, nhà máy, khu công nghiệp hoặc địa điểm đã thống nhất.": {
+      "en": "The goods were received at the customer's depot, plant, industrial district or unification site.",
+      "zh": "货物是在客户的仓库、工厂、工业区或统一地点收到的。"
+    },
+    "hàng được tập kết, sắp xếp và vận chuyển trên tuyến đường sắt xuyên Việt.": {
+      "en": "The line is assembled, arranged and transported on the Trans-Vietal Railway.",
+      "zh": "该线路由横越铁路组装,安排并运输."
+    },
+    "không thể chỉ dựa vào khoảng cách.": {
+      "en": "Can't just rely on distance.",
+      "zh": "不能仅仅依靠距离。"
+    },
+    "là khả năng tiếp nhận nhiều nhóm hàng khác nhau.": {
+      "en": "is the ability to take a variety of groups.",
+      "zh": "即能摄取各种团体。"
+    },
+    "lịch lấy hàng;": {
+      "en": "a row schedule;",
+      "zh": "a 行时间表;"
+    },
+    "nguyên tắc báo giá.": {
+      "en": "The principle of notice.",
+      "zh": "通知原则。"
+    },
+    "ngày càng tăng cùng với sự phát triển của hoạt động sản xuất, thương mại và phân phối hàng hóa giữa hai miền. Không chỉ các doanh nghiệp lớn tại khu công nghiệp, nhiều cơ sở sản xuất, đại lý, cửa hàng và khách hàng cá nhân cũng thường xuyên cần vận chuyển máy móc, linh kiện, nguyên vật liệu, hàng tiêu dùng hoặc những lô hàng có trọng lượng lớn vào TP.HCM, Bình Dương, Đồng Nai và các tỉnh phía Nam.": {
+      "en": "Growing along the development of production, trade and distribution of goods between the two regions. Not only major businesses at the industrial district, many manufacturing facilities, agents, shops and private customers also need regular transport of machinery, supplies, materials, consumer goods, or heavy shipments on TP.HCM, Pacific, Plains Nai and South provinces.",
+      "zh": "沿着两地之间商品的生产,贸易和分配的发展不断增长. 不仅工业区的主要企业,许多制造设施,代理商,商店和私人客户也需要定期运输机器,物资,材料,消费品,或者在TP.HCM,太平洋,平原等地和南方等地进行重载运输."
+    },
+    "nhanh và sát thực tế, khách hàng chỉ cần chuẩn bị các thông tin chính:": {
+      "en": "Fast and close to reality, the customer just prepares the main information:",
+      "zh": "快速接近现实,顾客只是准备主要信息:"
+    },
+    "phù hợp nhất với khách hàng ưu tiên sự ổn định, khả năng chở nhiều và chi phí hợp lý hơn là những lô hàng bắt buộc giao siêu tốc.": {
+      "en": "Better suited to customers who prefer stability, greater capacity and cost than forced shipments of superspeed.",
+      "zh": "更适合更喜欢稳定,能力和成本高于强制运输超快的客户."
+    },
+    "phương thức giao;": {
+      "en": "protocol;",
+      "zh": "协议;"
+    },
+    "quy cách hàng;": {
+      "en": "rowing;",
+      "zh": "划船;"
+    },
+    "sau khi hàng đến đầu phía Nam, Vận Tải Lưu Lê bố trí phương tiện giao về TP.HCM, Bình Dương, Đồng Nai, Long An hoặc khu vực khách hàng yêu cầu.": {
+      "en": "After the shipment reached the south end, the Media Archived the transport back to TP.HCM, Pacific, Plain Nai, Long An or the client area requested.",
+      "zh": "运抵南端后,媒体将运回TP.HCM,Pacific,Plain Nai,Long An或请求的客户区."
+    },
+    "thì tổng thời gian door-to-door có thể dài hơn thời gian chạy tàu thuần túy.": {
+      "en": "Then the total door-to-door can be longer than the run of pure ships.",
+      "zh": "然后门到门的总长度可以比纯船跑得长."
+    },
+    "thời gian lấy hàng;": {
+      "en": "Time for supplies;",
+      "zh": "供应时间;"
+    },
+    "trọng lượng + kích thước + địa chỉ lấy + địa chỉ giao + hình ảnh hàng nếu có": {
+      "en": "The weight + size + the address takes + the delivery address + the image if available",
+      "zh": "重量 + 大小 + 地址 + 发送地址 + 图像 如果有的话"
+    },
+    "tập kết;": {
+      "en": "gathering;",
+      "zh": "集会;"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe giao cuối;": {
+      "en": "final delivery car;",
+      "zh": "最终快递车;"
+    },
+    "xử lý tại đầu đến;": {
+      "en": "handles at head-to-head;",
+      "zh": "头接头接头;"
+    },
+    "yêu cầu bốc xếp;": {
+      "en": "request line;",
+      "zh": "请求行;"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Điểm giao.": {
+      "en": "The intersection.",
+      "zh": "相接处."
+    },
+    "Điểm lấy hàng.": {
+      "en": "The pick-up point.",
+      "zh": "取取处."
+    },
+    "Đây chính là một trong những nhóm hàng phù hợp với vận chuyển đường sắt.": {
+      "en": "This is one of the rows that fits the rail transport.",
+      "zh": "这是适合铁路运输的一行."
+    },
+    "Đây cũng là lý do": {
+      "en": "This is why.",
+      "zh": "这就是为什么。"
+    },
+    "Đây là khoản cần xác định ngay từ đầu.": {
+      "en": "This is the amount to determine from the beginning.",
+      "zh": "这是从头开始决定的金额。"
+    },
+    "Đây là nhóm hàng thể hiện rõ lợi thế của đường sắt.": {
+      "en": "This is a line group that clearly shows the advantage of the railway.",
+      "zh": "这个线组清楚地显示了铁路的优势."
+    },
+    "Đây là nhóm khách hàng rất phù hợp với": {
+      "en": "This is a very suitable customer group.",
+      "zh": "这是一个非常合适的客户群体。"
+    },
+    "Đây là tuyến phù hợp với doanh nghiệp miền Bắc có khách hàng, đại lý hoặc kho phân phối tại TP.HCM.": {
+      "en": "This is a line that is consistent with Northern business with clients, agents, or distribution depots at TP.HCM.",
+      "zh": "这条线路与北方与TP.HCM的客户,代理商或分销站的业务一致."
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đóng gói hàng khi gửi từ miền Bắc đi miền Nam": {
+      "en": "Packing when sending from the North to the South",
+      "zh": "从北向南发送时打包"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đường sắt có lợi thế đối với nhóm hàng này nhờ khả năng chuyên chở khối lượng lớn và hạn chế việc hàng phải di chuyển liên tục trên đường bộ trong toàn bộ hành trình.": {
+      "en": "Railways have an advantage for this line group thanks to the ability to carry large mass and limit the constant movement on the road during the entire journey.",
+      "zh": "铁路对于这组线路有优势,因为能够承载出大质量,并限制全程道路上的常行."
+    },
+    "Đường sắt phù hợp với những lô hàng từ vài trăm kilogram đến nhiều tấn và các đơn hàng phát sinh thường xuyên.": {
+      "en": "The railway is consistent with shipments ranging from a few hundred ligatures to many tons and orders of frequent birth.",
+      "zh": "这条铁路符合从几百根绳子到多吨和多产订单的货运要求。"
+    },
+    "Đầu tiên, doanh nghiệp nên đo chính xác kích thước kiện trước khi yêu cầu báo giá.": {
+      "en": "First, businesses should measure the size of the lawsuit before demanding price notices.",
+      "zh": "一,企业在要求价格公告前,应当先衡量诉讼规模."
+    },
+    "Đặc biệt quan trọng với hàng nhẹ, hàng máy hoặc kiện kích thước lớn.": {
+      "en": "Specially important with light goods, machine lines or large-sized lawsuits.",
+      "zh": "对轻货物,机线或大型诉讼具有特殊重要性."
+    },
+    "Để báo giá": {
+      "en": "To tell the price",
+      "zh": "告诉价格"
+    },
+    "Địa chỉ giao.": {
+      "en": "Address.",
+      "zh": "地址 电话地址"
+    },
+    "Địa chỉ lấy.": {
+      "en": "Address.",
+      "zh": "地址 电话地址"
+    },
+    "Đối với chặng đường sắt chính Bắc – Nam, thời gian thường được tính theo nhiều ngày thay vì vận chuyển nhanh trong ngày như các tuyến nội tỉnh.": {
+      "en": "For the main North – South Railroad, time is often counted for days rather than fast transport during days such as the domestic routes of the province.",
+      "zh": "对北–南铁道主干线来说,时间往往算上几天,而不是省内线路等日内快速运输."
+    },
+    "Đối với cụm dịch vụ này, phương án chủ đạo là": {
+      "en": "For this service cluster, the main option is",
+      "zh": "对于这一服务集群,主要选项是:"
+    },
+    "Đối với doanh nghiệp sản xuất liên tục, việc xây dựng lịch gửi hàng định kỳ bằng đường sắt có thể giúp chủ động nguồn cung và kiểm soát chi phí tốt hơn.": {
+      "en": "For the continuous manufacturing business, the construction of the scheduled shipping calendar by railway could help to take the lead in better supply and cost control.",
+      "zh": "对于持续的制造业,由铁路建造预定的航运日历可有助于带头更好地控制供应和成本。"
+    },
+    "Đối với hàng nhẹ nhưng cồng kềnh, thể tích mét khối là yếu tố quan trọng.": {
+      "en": "For the light row but Mela Mead, the volume of mass is critical.",
+      "zh": "对于轻行但Mela Mead,质量的量是关键."
+    },
+    "Đối với hàng nặng, cước thường được xem xét theo kilogram hoặc trọng lượng lô hàng.": {
+      "en": "For heavy goods, the score is generally considered in accordance with the plymouth or the weight of the shipment.",
+      "zh": "对于重货物,一般按照发货的油口或重量来考虑分数."
+    },
+    "Đối với hàng thông thường đã được đóng thùng chắc chắn, có thể tiếp nhận theo hiện trạng.": {
+      "en": "For common goods which have been packed are sure, can follow the status quo.",
+      "zh": "对于已经包装的公益物来说,可以遵循现状。"
+    },
+    "Đối với khách hàng có xe tự đưa hàng ra điểm tập kết, phương án cũng có thể được tính riêng.": {
+      "en": "For customers whose cars bring out their own rally points, the plan may also be personal.",
+      "zh": "对于汽车带出自己聚集点的顾客,该计划也可能是针对个人的."
+    },
+    "Đối với máy móc hoặc hàng đặc biệt, cần xem thêm kích thước từng kiện để lựa chọn phương án xếp hàng.": {
+      "en": "For machines or special items, additional sizes should be viewed to choose the lineup option.",
+      "zh": "对于机器或特殊项目,应当查看额外的大小来选择分行选项."
+    },
+    "Đối với nhiều loại hàng nặng hoặc hàng số lượng lớn, đường sắt là phương án đáng cân nhắc để tối ưu tổng chi phí logistics.": {
+      "en": "For many types of heavy or large shipments, the railway is the worth-referent plan to optimize the total cost of logistics.",
+      "zh": "对于许多种类的重型或大型货运,铁路是优化物流总成本的价值回报计划."
+    },
+    "Đối với những tuyến vận chuyển dài hàng nghìn kilômét, lựa chọn phương thức phù hợp ảnh hưởng trực tiếp đến chi phí, độ an toàn và khả năng duy trì lịch giao hàng ổn định.": {
+      "en": "For the routes that are thousands of miles long, the right method of transportation directly affects costs, safety, and stability of delivery schedules.",
+      "zh": "对于长达上千英里的路线,正确的运输方法会直接影响成本,安全,以及交货时间表的稳定性."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "đường sắt kết hợp đường bộ": {
+      "en": "Railroads Combining Routes",
+      "zh": "铁路合并路线"
+    },
+    "đường sắt làm phương thức vận chuyển chính trên chặng Bắc – Nam": {
+      "en": "Railways as main transport method on the north leg – Male",
+      "zh": "铁路作为北段的主要运输方式-男性"
+    },
+    "được nhiều doanh nghiệp lựa chọn đối với các lô hàng định kỳ hoặc hàng có sản lượng lớn.": {
+      "en": "has been selected by many businesses for regular shipments or large productions.",
+      "zh": "被许多企业选为定期发货或大型生产企业。"
+    },
+    "đầu mối liên hệ;": {
+      "en": "link;",
+      "zh": "链接;"
+    },
+    "địa chỉ kho cố định;": {
+      "en": "a fixed repository address;",
+      "zh": "固定的存储地址;"
+    },
+    "► Bước 1: Tiếp nhận thông tin hàng hóa": {
+      "en": "‹ Step 1: Accept cargo information",
+      "zh": "第1步:接受货物信息"
+    },
+    "► Bước 2: Kiểm tra quy cách và tư vấn đóng gói": {
+      "en": "MEDI Step 2: Check your regulations and package counsel",
+      "zh": "MEDI 第2步:检查您的规章和包裹咨询"
+    },
+    "► Bước 3: Báo giá vận chuyển": {
+      "en": "← Step 3: Transportation Prices",
+      "zh": "第3步:运输价格"
+    },
+    "► Bước 4: Xe tải lấy hàng tại miền Bắc": {
+      "en": "EDI Step 4: The truck takes a load in the North.",
+      "zh": "EDI 第4步:货车在北上载货."
+    },
+    "► Bước 5: Tập kết và vận chuyển bằng đường sắt": {
+      "en": "RISS Step 5: Collect and Transport by railway",
+      "zh": "RISS第5步:通过铁路收集和运输"
+    },
+    "► Bước 6: Nhận hàng tại đầu miền Nam": {
+      "en": "01 Step 6: Deal at the South Head",
+      "zh": "01 第6步:南头交易"
+    },
+    "► Bước 7: Giao hàng đến người nhận": {
+      "en": "PORTUGE 7: Deliver to receiver",
+      "zh": "葡萄牙 7: 交付给接收者"
+    },
+    "► Chi phí dễ kiểm soát với hàng nặng": {
+      "en": "The cost of easy control with heavy loads",
+      "zh": "负重的易控成本"
+    },
+    "► Có giao tận nơi tại miền Nam không?": {
+      "en": "Does the U.S. deliver places in the South?",
+      "zh": "美国能提供南方的地方吗?"
+    },
+    "► Có lấy hàng tại nhà máy không?": {
+      "en": "Did you get it at the factory?",
+      "zh": "你在工厂拿到的吗?"
+    },
+    "► Có nhận hàng số lượng ít không?": {
+      "en": "Do you receive a small load?",
+      "zh": "你有小货吗?"
+    },
+    "► Có nhận máy móc không?": {
+      "en": "Did you take the machine?",
+      "zh": "你拿走了机器吗?"
+    },
+    "► Gửi hàng miền Bắc vào TP.HCM": {
+      "en": "INTERVIEWING North to TP.HCM",
+      "zh": "北部到TP.HCM的干扰"
+    },
+    "► Gửi hàng miền Bắc đi Bình Dương": {
+      "en": "EDI Send North to Pacific",
+      "zh": "EDI 北上太平洋"
+    },
+    "► Gửi hàng miền Bắc đi Long An, Tây Ninh và các tỉnh phía Nam": {
+      "en": "IRI send the North to Long An, Western Ninh and the Southern provinces",
+      "zh": "IRI把北方送到长安,西宁和南方各省"
+    },
+    "► Gửi hàng miền Bắc đi Đồng Nai": {
+      "en": "I'm sending the North to Kosi.",
+      "zh": "遣使北上克西来."
+    },
+    "► Hàng carton": {
+      "en": "EDI Row Carton",
+      "zh": "EDI 行卡通"
+    },
+    "► Hàng dễ vỡ": {
+      "en": "The package is fragile",
+      "zh": "包裹很脆弱"
+    },
+    "► Hàng nặng, hàng số lượng lớn": {
+      "en": "Heavy cargo, bulk shipment",
+      "zh": "重型货物,散装货物"
+    },
+    "► Hàng pallet": {
+      "en": "Packlet Row",
+      "zh": "包装行"
+    },
+    "► Hàng tiêu dùng và hàng thương mại": {
+      "en": "← Communities and commercial goods",
+      "zh": "社区和商业商品"
+    },
+    "► Hàng vài tấn có gửi được không?": {
+      "en": "Can a few tons be sent?",
+      "zh": "能送出几吨吗?"
+    },
+    "► Hạn chế phụ thuộc vào hành trình xe tải đường dài": {
+      "en": "Limitation depends on the long-distance truck journey",
+      "zh": "限制取决于卡车的长途旅行"
+    },
+    "► Khả năng vận chuyển khối lượng lớn": {
+      "en": "The ability to transport mass",
+      "zh": "运输质量的能力"
+    },
+    "► Linh kiện và phụ tùng": {
+      "en": "\"Ship and parts\"",
+      "zh": "\"飞船和零件\""
+    },
+    "► Muốn biết chính xác giá cần cung cấp gì?": {
+      "en": "Want to know exactly what price to offer?",
+      "zh": "想知道要付出什么代价吗?"
+    },
+    "► Máy móc": {
+      "en": "BRAZIL Machine",
+      "zh": "巴西机器"
+    },
+    "► Máy móc và thiết bị sản xuất": {
+      "en": "Machines and production equipment",
+      "zh": "机器和生产设备"
+    },
+    "► Nguyên vật liệu sản xuất": {
+      "en": "← Products",
+      "zh": "产品"
+    },
+    "► Phù hợp xây dựng lịch vận chuyển định kỳ": {
+      "en": "Compensation of the scheduled transport schedule",
+      "zh": "定期运输时间表的补偿"
+    },
+    "► Vận Tải Lưu Lê có chạy xe tải thẳng Bắc – Nam không?": {
+      "en": "Does Liu Download run the truck straight north – South?",
+      "zh": "刘下下载是否直通南北?"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

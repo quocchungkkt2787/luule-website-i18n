@@ -1,8 +1,8 @@
 {
-  "discovered_public_urls": 948,
-  "missing_packs_in_discovered_routes": 127,
+  "discovered_public_urls": 942,
+  "missing_packs_in_discovered_routes": 102,
   "page_budget": 450,
-  "published_pack_files_total": 821,
+  "published_pack_files_total": 840,
   "required_pages_found": [
     "/pages/tra-cuu-gia-cuoc-van-chuyen"
   ],
@@ -10,7 +10,7 @@
   "sitemap_urls": 822,
   "skipped_or_failed": [],
   "successful_public_pages": 450,
-  "unvisited_count": 498,
+  "unvisited_count": 492,
   "unvisited_examples": [
     "/pages/bang-gia-van-chuyen-hang",
     "/pages/dich-vu-van-chuyen-hang-bang-duong-sat",
@@ -50,8 +50,8 @@
     "/blogs/goc-tu-van/van-chuyen-hang-le-bac-nam",
     "/blogs/goc-tu-van/van-tai-hang-hoa-duong-bien",
     "/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo",
-    "/blogs/gui-hang-hn-bac-trung-bo",
-    "/blogs/gui-hang-hn-nam-trung-bo"
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong",
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc"
   ],
-  "unvisited_without_existing_pack": 106
+  "unvisited_without_existing_pack": 100
 }

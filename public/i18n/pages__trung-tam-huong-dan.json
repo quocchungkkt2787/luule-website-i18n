@@ -1,0 +1,2218 @@
+{
+  "route": "/pages/trung-tam-huong-dan",
+  "texts": {
+    ", chỉnh sửa những trường hệ thống cho phép và bấm lưu nếu có thay đổi.": {
+      "en": ", edit system fields that allow and press save if changes occur.",
+      "zh": ",编辑系统字段,如果出现变化,则允许并按下。"
+    },
+    ", hãy nhấn nút này để hoàn tất, không chỉ mở liên kết.": {
+      "en": "press this button to complete, not just open link.",
+      "zh": "按此按钮完成, 而不仅仅是打开链接 。"
+    },
+    ", hệ thống chỉ hiển thị các vận đơn đã liên kết hợp lệ với tài khoản đang đăng nhập; danh sách trống không đồng nghĩa mọi vận đơn bên ngoài không tồn tại.": {
+      "en": "the system only shows validly associated singles with the logouting account; the blank list does not mean that all external tasks do not exist.",
+      "zh": "系统只显示与登录账户有效的关联单;空白列表并不意味着不存在所有外部任务。"
+    },
+    ", nhập số điện thoại/email và mật khẩu đã đăng ký.": {
+      "en": ", enter the phone number/January number and the registered password.",
+      "zh": ",输入电话号码/ 1月号码和注册密码。"
+    },
+    ", tìm phần": {
+      "en": "Find the part.",
+      "zh": "找到那个角色。"
+    },
+    ", xem menu ở cột bên trái (hoặc menu trên điện thoại).": {
+      "en": "see menus on the left column (or menu on the phone).",
+      "zh": "查看左栏(或电话菜单)上的菜单。"
+    },
+    ", đặc biệt nếu bạn dùng máy tính chung.": {
+      "en": ", especially if you use a shared computer.",
+      "zh": "特别是如果你使用共享计算机。"
+    },
+    ", đối chiếu mã, tuyến, tổng tiền và ngày gửi.": {
+      "en": "Co-reference codes, routes, total deposits and deposit dates.",
+      "zh": "共同参考代码,路线,存款总额和存款日期."
+    },
+    ". Hệ thống hiển thị các vận đơn thuộc tài khoản của bạn.": {
+      "en": "Yeah. The system displays the singles in your account.",
+      "zh": "对 系统显示您账户中的单曲 。"
+    },
+    ". Nếu liên kết hết hạn, thực hiện chức năng gửi lại email xác minh theo thông báo của hệ thống.": {
+      "en": "Yeah. If the link expires, performs the sending of confirmation emails at the system's notification.",
+      "zh": "对 如果链接过期,则在系统通知时发送确认邮件。"
+    },
+    ". Thông báo tiếp nhận cho biết hệ thống đã ghi nhận yêu cầu, chưa phải xác nhận điều xe.": {
+      "en": "Yeah. The announcement said the system noted the request, without confirmation of the car.",
+      "zh": "对 公告称系统注意到了请求,未确认该车."
+    },
+    ". Trong hộp thoại in, chọn máy in hoặc": {
+      "en": "Yeah. In print dialogue, select printer or",
+      "zh": "对 在打印对话框中,选择打印机或"
+    },
+    "/ Trung tâm hướng dẫn": {
+      "en": "/ Guide Center",
+      "zh": "/ 引导中心"
+    },
+    "0,72 m³": {
+      "en": "0.72 m3",
+      "zh": "0.72立方米"
+    },
+    "1 m³ = 350 kg": {
+      "en": "1 m3 = 350 kg",
+      "zh": "1立方米=350公斤"
+    },
+    "10 kiện": {
+      "en": "10 vs",
+      "zh": "10对"
+    },
+    "12 ký tự": {
+      "en": "12 Characters",
+      "zh": "12 个字符"
+    },
+    "14 giải đáp nhanh về website, tài khoản khách hàng và AI Chat.": {
+      "en": "14 Quick Answers on websites, customer accounts and AI Chat.",
+      "zh": "14 在网站,客户账户和AI Chat上的快答."
+    },
+    "150 kg": {
+      "en": "150 kg",
+      "zh": "150公斤(千公斤)"
+    },
+    "2 phút": {
+      "en": "2 min",
+      "zh": "2分钟"
+    },
+    "20 bài hướng dẫn": {
+      "en": "20 Guide articles",
+      "zh": "20条"
+    },
+    "208 kg/m³": {
+      "en": "2018 kg/m3",
+      "zh": "2018千克/立方米"
+    },
+    "3 bước": {
+      "en": "3 Steps",
+      "zh": "3个步骤"
+    },
+    "3 hướng dẫn": {
+      "en": "3 Guides",
+      "zh": "3 个指南"
+    },
+    "3 phút": {
+      "en": "3 min",
+      "zh": "3分钟"
+    },
+    "4 bước": {
+      "en": "4 Steps",
+      "zh": "4个步骤"
+    },
+    "4 hướng dẫn": {
+      "en": "4 Guides",
+      "zh": "4 指南"
+    },
+    "4 lưu ý": {
+      "en": "4 Note",
+      "zh": "4 说明"
+    },
+    "5 bước": {
+      "en": "5 Steps",
+      "zh": "5个步骤"
+    },
+    "5 nhóm nội dung": {
+      "en": "5 content groups",
+      "zh": "5个内容组"
+    },
+    "6 hướng dẫn": {
+      "en": "6 Guides",
+      "zh": "6 指南"
+    },
+    "60 × 40 × 30 cm": {
+      "en": "60 Octave 40  cm30 cm",
+      "zh": "60 Octave 40厘米30厘米"
+    },
+    ": gửi yêu cầu và nhận báo giá chính thức.": {
+      "en": ": Send requests and receive official prices.",
+      "zh": ": 发送请求并收取官方价格."
+    },
+    ": theo dõi vận đơn liên kết;": {
+      "en": ": Tracking single link;",
+      "zh": "跟踪单一链接;"
+    },
+    ": thông tin chung;": {
+      "en": ": General information;",
+      "zh": "- 一般资料;"
+    },
+    ": tạo yêu cầu mới.": {
+      "en": ": Create new requirements.",
+      "zh": ": 创建新要求."
+    },
+    ": xem tin từ công ty.": {
+      "en": ": Watch news from the company.",
+      "zh": ":央视公司新闻."
+    },
+    ": xem yêu cầu vận chuyển;": {
+      "en": ": See shipping requirements;",
+      "zh": ": 见航运要求;"
+    },
+    ": xem, cập nhật thông tin; biểu tượng": {
+      "en": ": See, update information; icons",
+      "zh": ": 见,更新信息;图标"
+    },
+    "; hàng trên 350 kg/m³ là hàng nặng, từ 350 kg/m³ trở xuống là hàng nhẹ. Cách tính tiền cuối cùng phụ thuộc tuyến, loại hàng và bảng cước hiện hành.": {
+      "en": "; rowed over 350 kg/m3 is heavy, from 350 kg/m3 to down is light. The last payment is linearly dependent, the type of goods and charts available.",
+      "zh": ";划出350公斤/立方米以上为重,从350公斤/立方米到下行为轻. 最后一笔付款是线性依赖的、可用的货物类型和图表。"
+    },
+    "; không cần đăng nhập Customer nếu trang tra cứu không yêu cầu tài khoản.": {
+      "en": "; do not need Customer login if the search page does not require the account.",
+      "zh": "; 如果搜索页面不需要账户,则不需要客户登录。"
+    },
+    "; kiểm tra tuyến, trạng thái, các mốc lịch sử.": {
+      "en": "; Line check, state, historical landmarks.",
+      "zh": "; 线路检查,状态,历史地标."
+    },
+    "; xem cước dự kiến, cách phân loại hàng và các khoản phụ phí. Nếu cần mức giá chốt, chọn liên kết nhận báo giá hoặc gửi yêu cầu báo giá trong tài khoản khách hàng.": {
+      "en": "; See the plan, how to sort goods, and how to cover expenses. If a price is required, select a link to receive the price notice or send a price notice request in the customer account.",
+      "zh": "见计划,如何分类货物,如何支付费用。 需要定价的,选择一个链接接收价格通知,或在客户账户中发送价格通知请求."
+    },
+    "AI Chat": {
+      "en": "AI Chat",
+      "zh": "AI 聊天"
+    },
+    "AI Chat của Vận Tải Lưu Lê có thể hỗ trợ những gì?": {
+      "en": "What can the AI Chat of Media support?",
+      "zh": "媒体的AI聊天支持什么?"
+    },
+    "AI Chat hỗ trợ tư vấn dịch vụ vận chuyển, hướng dẫn cung cấp thông tin hàng hóa, lựa chọn hình thức giao nhận, tham khảo cước phí và gửi thông tin yêu cầu theo quy trình. Để mở AI Chat, nhấn biểu tượng AI Chat ở cạnh phải màn hình. Nếu cần nhân viên giải đáp, vui lòng gọi": {
+      "en": "AI Chat supports transportation services consultants, guidance providing freight information, selecting the form of the receiver, referencing fees and sending the required information according to the procedure. To open AI Chat, press the AI Chat icon next to the screen. If you need employees to answer, please call",
+      "zh": "AI Chat支持运输服务顾问,提供货运信息的指导,选择接收人的形式,参照收费,并按照程序发送所需信息. 要打开AI Chat,请按屏幕旁边的AI Chat图标. 如果你需要员工回答,请打电话"
+    },
+    "AI Chat hỗ trợ tư vấn và tiếp nhận thông tin; việc xác nhận dịch vụ, lịch vận chuyển và giá chính thức do Vận Tải Lưu Lê thực hiện theo quy trình.": {
+      "en": "AI Chat supports consulting and receiving information; confirmation of services, travel schedules, and official prices carried out by the Media Archives according to procedure.",
+      "zh": "AI Chat支持咨询和接收信息;确认媒体档案馆按照程序提供的服务、旅行时间表和官方价格。"
+    },
+    "AI Chat tư vấn": {
+      "en": "AI Chat Advisory",
+      "zh": "AI 聊天咨询"
+    },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Báo giá chính thức chỉ xuất hiện sau khi nhân viên đã phát hành và gửi vào tài khoản, không tự phát hành ngay khi bạn gửi yêu cầu.": {
+      "en": "Official prices only appear after the employee has released and deposited into the account, not released on your own as soon as you send the request.",
+      "zh": "官方价格只出现在员工已放出并存入账户后,而不会在您发送请求后立即自行放出."
+    },
+    "Báo giá chính thức đã nhận": {
+      "en": "Official price notice received",
+      "zh": "收到正式价格通知"
+    },
+    "Báo giá của tôi": {
+      "en": "Tell me my price.",
+      "zh": "告诉我价格"
+    },
+    "Báo giá của tôi và Báo giá chính thức đã nhận có khác nhau không?": {
+      "en": "Is it different if my price and the official Times have received it?",
+      "zh": "如果我的价钱和《泰晤士报》已经收到,那就不一样了?"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
+    "Bạn có thể": {
+      "en": "You can",
+      "zh": "你们可以"
+    },
+    "Bạn có thể hỏi thông tin dịch vụ trước khi đăng ký tài khoản. Nếu cần nhân viên hỗ trợ, liên hệ": {
+      "en": "You can ask for service information before you register your account. If you need backup, contact",
+      "zh": "您可在注册账户前询问服务信息。 如果您需要备份, 请联系"
+    },
+    "Bạn có thể nhập số kiện và kích thước dài × rộng × cao của từng kiện bằng cm. Hệ thống tính thể tích theo dữ liệu nhập; với trường hợp đặc biệt hãy liên hệ để được tư vấn.": {
+      "en": "You can enter the number of lawsuits and the length of the Octave width of each case in cm. The volume system according to input data; with special circumstances contact to be advised.",
+      "zh": "您可以输入每起案件的诉讼次数和奥克塔夫宽度的长度,单位为cm. 根据输入数据建立体积系统;需要通知特殊情况联系人。"
+    },
+    "Bạn cần hướng dẫn nội dung nào?": {
+      "en": "Which content do you need to guide?",
+      "zh": "您需要哪些内容 ?"
+    },
+    "Bạn cần hỗ trợ thêm?": {
+      "en": "You need more support?",
+      "zh": "你需要更多的支持吗?"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn nên cung cấp điểm lấy và giao hàng, loại hàng, số kiện, tổng khối lượng (kg), thể tích (m³) hoặc kích thước từng kiện; đồng thời cho biết hình thức giao nhận và các yêu cầu như bốc xếp, xe nâng, hàng dễ vỡ hoặc nhiều điểm giao. Thông tin càng đầy đủ thì mức cước dự kiến càng sát thực tế.": {
+      "en": "You should provide a pick-up and delivery point, the sort of row, the number, the total mass (kg), the volume (m3), or the size of each lawsuit; at the same time indicate the form of the receiver and the requirements such as rankings, lifters, easily broken or multiple intersections. The more complete the information, the more realistic the odds are expected.",
+      "zh": "应当提供取出和交付点,行的种类,数量,总质量(kg),体积(m3)或每起诉讼的大小;同时表示接收器的形式以及排位,起重器,容易被打碎或被多次相接等要求. 信息越完整,预期的概率就越现实."
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bấm vào nhóm để xem từng bước thực hiện.": {
+      "en": "Click on the group to see each step taken.",
+      "zh": "单击组查看采取的每个步骤。"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bổ sung yêu cầu đặc biệt": {
+      "en": "Special request plugin",
+      "zh": "特殊请求插件"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Cho biết hàng dễ vỡ, pallet, cần xe nâng, bốc xếp, giờ lấy hàng hoặc những điều kiện liên quan.": {
+      "en": "Said the product was fragile, pallet, needed a lift, folded, now took the cargo or related conditions.",
+      "zh": "说产品是脆弱的,托盘,需要升降,折叠,现在采取货物或相关条件."
+    },
+    "Cho biết tỉnh/thành, địa chỉ lấy hàng và địa chỉ giao hàng; nếu có nhiều điểm giao, hãy nói rõ.": {
+      "en": "State the province/city, address for delivery and address; if there are many intersections, make it clear.",
+      "zh": "说明省/市、送达地址和地址;如果有许多交叉点,请说明。"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chuẩn bị thông tin đơn hàng": {
+      "en": "Prepare the order information",
+      "zh": "准备订单信息"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chưa. Cước do AI Chat tư vấn là mức dự kiến để tham khảo. Giá chính thức cần được Vận Tải Lưu Lê kiểm tra và xác nhận dựa trên tuyến đường, loại hàng, số lượng, địa chỉ và điều kiện giao nhận. Nếu cần nhận báo giá chính thức, bạn có thể gửi yêu cầu tại": {
+      "en": "Not yet. Lisbeth consulted by AI Chat was expected to refer to. The official price needs to be examined and confirmed by the Archives based on routes, rows, numbers, addresses and conditions delivered. If you need an official price notice, you can send a request at",
+      "zh": "还没有 AI Chat咨询的Lisbeth有望被提及. 官方价格需要由档案馆根据所交付的路线,行,号,地址和条件进行审查和确认. 需要正式价格通知的,可以在"
+    },
+    "Chọn": {
+      "en": "Select",
+      "zh": "选择"
+    },
+    "Chọn Cá nhân": {
+      "en": "Personal Selection",
+      "zh": "个人选择"
+    },
+    "Chọn chức năng": {
+      "en": "Select Function",
+      "zh": "选择函数"
+    },
+    "Chọn hình thức giao nhận": {
+      "en": "Select the form of the receiver",
+      "zh": "选择接收器的形式"
+    },
+    "Chọn hình thức lấy hàng và giao hàng phù hợp với nhu cầu. Phí lấy/giao có thể thay đổi theo địa chỉ thực tế.": {
+      "en": "Select the form of taking goods and delivery that suit the demand. The fee of taking/hand may change according to the actual address.",
+      "zh": "选择适合需求的货物和交货方式。 收/手的费用可按实际地址变化。"
+    },
+    "Chọn loại Doanh nghiệp": {
+      "en": "Select Business Type",
+      "zh": "选择业务类型"
+    },
+    "Chọn menu": {
+      "en": "Select menu",
+      "zh": "选择菜单"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
+    "Chọn nhanh nội dung cần xem": {
+      "en": "Select the contents to view quickly",
+      "zh": "选择要快速查看的内容"
+    },
+    "Chọn nội dung cần hướng dẫn": {
+      "en": "Select Content to Guide",
+      "zh": "选择指南的内容"
+    },
+    "Chọn phương thức giao nhận": {
+      "en": "Select the method to use",
+      "zh": "选择要使用的方法"
+    },
+    "Chọn tỉnh/thành phố, khu vực, phường/xã và nhập địa chỉ chi tiết theo các ô trên biểu mẫu.": {
+      "en": "Select the province/city, area, ward/tag and enter detailed address according to the templates.",
+      "zh": "选择省/市,区,区/区,并按模板输入详细地址."
+    },
+    "Chọn yêu cầu cần xem": {
+      "en": "Select the request to view",
+      "zh": "选择要查看的请求"
+    },
+    "Chọn địa điểm gửi và nhận": {
+      "en": "Could not initialise Bonobo",
+      "zh": "无法打开对象"
+    },
+    "Chờ nhân viên lập báo giá": {
+      "en": "Wait for the officer to issue the price.",
+      "zh": "等官发价."
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp mã vận đơn và địa điểm gửi/nhận cho bộ phận hỗ trợ nếu trạng thái chưa rõ.": {
+      "en": "Provides single transport code and send/get-to-get-to-back departments if the status is unknown.",
+      "zh": "提供单一运输代码,如果状态不明,则发送/调取回接部门."
+    },
+    "Cung cấp thông tin hàng hóa để AI tư vấn chính xác": {
+      "en": "Provides cargo information to AI advise correctly",
+      "zh": "向大赦国际提供货物信息"
+    },
+    "Cá nhân": {
+      "en": "Personal",
+      "zh": "个人"
+    },
+    "Các trạng thái như": {
+      "en": "Statuss such as",
+      "zh": "诸如:"
+    },
+    "Cách hiểu trạng thái và lịch sử hành trình": {
+      "en": "How to Understand Status and Travel History",
+      "zh": "如何理解现状和旅行历史"
+    },
+    "Cách sử dụng công cụ tính cước nhanh": {
+      "en": "The Use of Quick Identification Tool",
+      "zh": "快速识别工具的使用"
+    },
+    "Cách tính thể tích m³ và phân loại hàng": {
+      "en": "Computation of m3 and classification of rows",
+      "zh": "m3的计算和行的分类"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Câu hỏi thường gặp": {
+      "en": "Common Questions",
+      "zh": "共同问题"
+    },
+    "Có 20 bài hướng dẫn.": {
+      "en": "There are 20 instructions.",
+      "zh": "有二十个指示."
+    },
+    "Có. Bạn có thể mở trang tra cứu giá cước công khai để xem mức dự kiến. Tài khoản Customer dùng cho việc gửi yêu cầu và theo dõi yêu cầu/báo giá của mình.": {
+      "en": "Yes. You can turn the page to the public rate of an ID to see the expected level. Customer account is used for sending requests and tracking his request/payer.",
+      "zh": "对 您可以将页面打开为 ID 的公开率, 查看预期的关卡 。 客户账户用于发送请求并跟踪其请求/付款人。"
+    },
+    "Có. Khi AI Chat đưa ra bước xác nhận và gửi yêu cầu, bạn hãy kiểm tra lại thông tin rồi xác nhận gửi. Yêu cầu được chuyển đến quy trình tiếp nhận của Lưu Lê; thao tác gửi không đồng nghĩa vận đơn đã được tạo hoặc lịch vận chuyển đã được xác nhận. Nếu muốn theo dõi yêu cầu trong tài khoản, hãy sử dụng": {
+      "en": "Yes. When AI Chat offers confirmation steps and sends the request, check the information and then confirm the send. The request was transferred to Liu's reception process; the operation did not mean that the single was created or the shipping schedule was confirmed. If you want to monitor requests in your account, use",
+      "zh": "对 当AI Chat提供确认步骤并发送请求时,检查信息,然后确认发送. 请求被转移到了刘'的接收程序;操作并不意味着单曲被创建或运输时间表被确认. 如果您想要监视账户中的请求, 请使用"
+    },
+    "Có. “Báo giá của tôi” theo dõi các yêu cầu báo giá bạn gửi; “Báo giá chính thức đã nhận” chứa báo giá do công ty đã phát hành và gửi cho tài khoản.": {
+      "en": "Yes.",
+      "zh": "对"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công thức:": {
+      "en": "Formula:",
+      "zh": "公式 :"
+    },
+    "Cước hiển thị là dự kiến, chưa phải giá chốt.": {
+      "en": "The show is expected, not critical.",
+      "zh": "节目是预期的,不是批判性的."
+    },
+    "Cước được AI tư vấn có thể thay đổi khi xác minh lại loại hàng, kích thước, nơi lấy/giao, bốc xếp hoặc yêu cầu đặc biệt.": {
+      "en": "Mohammad was advised by AI to be changed by re-confirming the type, size, where take/subscription, rank or special request.",
+      "zh": "大赦国际建议Mohammad通过重新确认类型、规模、接受/订阅地点、级别或特别要求来改变。"
+    },
+    "Cần cung cấp những thông tin nào để AI Chat tính cước vận chuyển chính xác?": {
+      "en": "What information is needed for AI Chat to calculate accurate transport costs?",
+      "zh": "AI Chat计算准确运输成本需要哪些信息?"
+    },
+    "Cần hỗ trợ thêm?": {
+      "en": "More backup?",
+      "zh": "更多备份?"
+    },
+    "Cập nhật thông tin": {
+      "en": "Update Information",
+      "zh": "更新信息"
+    },
+    "Cổng khách hàng": {
+      "en": "Customer portal",
+      "zh": "客户门户"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Doanh nghiệp": {
+      "en": "Business",
+      "zh": "商业"
+    },
+    "Dài × Rộng × Cao ÷ 1.000.000 = m³/kiện": {
+      "en": "Long as the high level is 1,000,000 = m3/120",
+      "zh": "最高水平为1,000,000 = m3/120"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dựa vào tuyến, ngày gửi và trạng thái, nhấn": {
+      "en": "Based on the route, send date and state, press",
+      "zh": "根据路线,发送日期和状态,按"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Ghi các điều kiện đặc biệt": {
+      "en": "Write Special Conditions",
+      "zh": "写入特殊条件"
+    },
+    "Ghi rõ tuyến đi–đến, địa chỉ, mô tả hàng, số kiện, kg, m³ và ngày dự kiến gửi.": {
+      "en": "specify the route – to, address, row description, case number, kg, m3 and date expected to send.",
+      "zh": "指定要发送的路由 — 、地址、行描述、大小写号、kg、m3和日期。"
+    },
+    "Giá AI Chat tư vấn hoặc ước tính chỉ có giá trị tham khảo cho đến khi Lưu Lê xác nhận báo giá chính thức.": {
+      "en": "The price of AI Chat consultation or estimates has only the value of reference until Liu Lap confirms the official price.",
+      "zh": "AI Chat咨询或估计的价格只有参考值,直到刘拉普确认官方价格."
+    },
+    "Giá cước do AI Chat cung cấp có phải là báo giá chính thức không?": {
+      "en": "Is the rate provided by AI Chat an official price?",
+      "zh": "AI Chat提供的费率是官方价格吗?"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi 0909 81 6625": {
+      "en": "Calling 0909 81 6625",
+      "zh": "呼叫0909 81 6625"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "Gửi yêu cầu": {
+      "en": "Send request",
+      "zh": "发送请求"
+    },
+    "Gửi yêu cầu báo giá": {
+      "en": "Submit quotation request",
+      "zh": "提交报价申请"
+    },
+    "Gửi yêu cầu báo giá và nhận báo giá chính thức": {
+      "en": "Send the price notice and receive official price notice",
+      "zh": "发送价格通知并收到正式价格通知"
+    },
+    "Gửi yêu cầu hỗ trợ": {
+      "en": "Send support request",
+      "zh": "发送支持请求"
+    },
+    "Gửi yêu cầu vận chuyển": {
+      "en": "Send Transport Request",
+      "zh": "发送传输请求"
+    },
+    "Gửi yêu cầu vận chuyển có tự tạo vận đơn không?": {
+      "en": "Does sending for transport demand self-made singles?",
+      "zh": "发送运输需求自制单曲?"
+    },
+    "Gửi yêu cầu vận chuyển trực tuyến": {
+      "en": "Send online transport requirements",
+      "zh": "发送在线运输要求"
+    },
+    "Gửi yêu cầu, quản lý báo giá, thông báo và vận đơn.": {
+      "en": "Send requests, price managers, notices and singles.",
+      "zh": "发送请求,价格管理者,通知和单曲."
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoàn tất trên trang xác minh": {
+      "en": "Complete on verification page",
+      "zh": "完成核查页面"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hãy kiểm tra mã vận đơn và liên hệ Lưu Lê để kiểm tra vận đơn. Để bảo vệ thông tin khách hàng, công ty sẽ đối chiếu trước khi hỗ trợ.": {
+      "en": "Check the singles code and contact Liu Li for the singles. To secure customer information, the company will cross-reference before supporting.",
+      "zh": "请检查access-date=中的日期值 (帮助) 单曲代码与刘力联系. 为获取客户信息,该公司在提供支持之前将相互参照。"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hướng dẫn AI Chat": {
+      "en": "AI Chat Guide",
+      "zh": "AI 聊天指南"
+    },
+    "Hướng dẫn sử dụng AI Chat": {
+      "en": "AI Chat Guide",
+      "zh": "AI 聊天指南"
+    },
+    "Hướng dẫn từng bước": {
+      "en": "Every Step Guide",
+      "zh": "每个步骤指南"
+    },
+    "Hỏi giá cước và gửi thông tin qua AI Chat": {
+      "en": "Ask the rate and send information through AI Chat",
+      "zh": "询问费率并通过 AI Chat 发送信息"
+    },
+    "Hỏi đáp vận chuyển, cung cấp thông tin hàng và tham khảo giá cước.": {
+      "en": "Ask for transport answers, provide information and referendum.",
+      "zh": "询问交通答案,提供信息和公投."
+    },
+    "Hỗ trợ khi thiếu vận đơn": {
+      "en": "Support When Without Singles",
+      "zh": "无单曲时支持"
+    },
+    "In / Lưu PDF": {
+      "en": "Print / Save PDF",
+      "zh": "打印/ 保存 PDF"
+    },
+    "In hoặc lưu": {
+      "en": "Print or Save",
+      "zh": "打印或保存"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khai báo hàng hóa": {
+      "en": "Commercial",
+      "zh": "商业"
+    },
+    "Khai báo thông tin hàng hóa": {
+      "en": "Declare goods information",
+      "zh": "货物申报信息"
+    },
+    "Khi nào cần yêu cầu báo giá chính thức?": {
+      "en": "When do we need to call the official price?",
+      "zh": "我们什么时候需要叫正式价格?"
+    },
+    "Khi sử dụng xong, chọn": {
+      "en": "When used, select",
+      "zh": "使用时,选择"
+    },
+    "Khách hàng có thể gửi yêu cầu vận chuyển trực tiếp qua AI Chat không?": {
+      "en": "Can the customer send the request for direct transport through AI Chat?",
+      "zh": "顾客能否通过AI Chat发送直接运输请求?."
+    },
+    "Không chia sẻ liên kết xác minh, mã xác thực hoặc mật khẩu cho người khác.": {
+      "en": "Do not share verification links, authentication codes or passwords for others.",
+      "zh": "不为他人共享验证链接,认证代码或密码."
+    },
+    "Không cung cấp thông tin bảo mật": {
+      "en": "Do not provide security information",
+      "zh": "不提供安全信息"
+    },
+    "Không nhất thiết. Gửi yêu cầu là bước thông báo nhu cầu; nhân viên cần tiếp nhận và xử lý trước khi vận đơn thực tế được tạo.": {
+      "en": "Not necessarily. Send the request is the need announcement step; the staff need to receive and process before the actual single is created.",
+      "zh": "不见得. 发送请求是需要宣布的步骤;工作人员需要接收和处理,然后才能创建实际的单曲."
+    },
+    "Không nhập mật khẩu, liên kết xác minh email, mã đăng nhập hoặc thông tin thanh toán bí mật vào nội dung trò chuyện.": {
+      "en": "Do not enter the password, link confirms emails, login codes, or secret payment information into chat content.",
+      "zh": "不要输入密码, 链接确认电子邮件, 登录代码, 或秘密支付信息进入聊天内容 。"
+    },
+    "Không thấy vận đơn trong tài khoản thì làm sao?": {
+      "en": "What if I don't see a single in my account?",
+      "zh": "如果我的账户里没看到一个人呢?"
+    },
+    "Không tìm thấy bài phù hợp. Hãy thử từ khóa khác hoặc liên hệ hotline": {
+      "en": "No match cards found. Try another keyword or hotline contact",
+      "zh": "未找到匹配卡 。 尝试另一个关键字或热线联系人"
+    },
+    "Không tìm thấy vận đơn thì làm gì?": {
+      "en": "What's the point of not finding a single?",
+      "zh": "没有找到一个人有什么意义?"
+    },
+    "Không. Bạn nhập mã số thuế để tra cứu tên doanh nghiệp, đăng ký và xác minh email để sử dụng tài khoản. Việc khai báo mã số thuế không đồng nghĩa được xem tất cả vận đơn của doanh nghiệp.": {
+      "en": "Nope. You entered the tax number to look up the business name, register and verify the email to use the account. The declaration of the tax number did not mean to be viewed as all-voluntary businesses.",
+      "zh": "没有 您输入了税号以查找企业名称, 注册和验证电子邮件以使用账户 。 申报税号并不意味着被视为所有志愿企业。"
+    },
+    "Không. Giá hiển thị là dự kiến; Lưu Lê sẽ kiểm tra tuyến, hàng hóa, địa chỉ và điều kiện giao nhận trước khi báo giá chính thức.": {
+      "en": "Nope. The display price is expected; Liu will check the route, goods, addresses and condition of delivery before reporting official prices.",
+      "zh": "没有 陈列价格预计会出价;刘会先检查路线,货物,地址和交货条件后再报告出价."
+    },
+    "Khối lượng tổng ví dụ": {
+      "en": "Total mass examples",
+      "zh": "质量实例总数"
+    },
+    "Kiểm tra bản PDF đã lưu và lưu lại khi cần trao đổi nội bộ hoặc lưu hồ sơ vận chuyển.": {
+      "en": "Check the PDF archived and archived on internal exchange or shipping records.",
+      "zh": "请检查access-date=中的日期值 (帮助) PDF存档并存档于内部交换或货运记录."
+    },
+    "Kiểm tra lại mã": {
+      "en": "Check the code.",
+      "zh": "检查密码"
+    },
+    "Kiểm tra nội dung rồi nhấn": {
+      "en": "Check content and click",
+      "zh": "检查内容并单击"
+    },
+    "Kiểm tra thông báo": {
+      "en": "Announcement Check",
+      "zh": "检查"
+    },
+    "Kiểm tra tiến độ xử lý": {
+      "en": "Process Progress Check",
+      "zh": "进程进度检查"
+    },
+    "Kiểm tra trước khi xác nhận": {
+      "en": "Check before confirmation",
+      "zh": "确认前检查"
+    },
+    "Kiểm tra trạng thái hiện tại": {
+      "en": "Check current status",
+      "zh": "检查当前状态"
+    },
+    "Kiểm tra tuyến vận chuyển, trạng thái, ngày cập nhật và lịch sử vận chuyển nếu đã có dữ liệu.": {
+      "en": "Check the transport, state, update date and transport history if data is available.",
+      "zh": "如果有数据,请检查运输、状态、更新日期和运输历史。"
+    },
+    "Kiểm tra tuyến đường, số kiện, kg, m³, phương thức giao nhận và các khoản bốc xếp hoặc xe nâng nếu có.": {
+      "en": "Check the route, number of lawsuits, kilograms, m3s, protocol of the receivership and arrangements or lifts if available.",
+      "zh": "请检查date=中的日期值 (帮助) 路由,诉讼次数,公斤,m3s, 接收协议和安排或电梯(如果有的话)."
+    },
+    "Kiểm tra tệp": {
+      "en": "Check file",
+      "zh": "检查文件"
+    },
+    "Kiểm tra và gửi": {
+      "en": "Check & & Send",
+      "zh": "检查和发送( S)"
+    },
+    "Kiểm tra đơn đã được tạo chưa": {
+      "en": "Single Check created",
+      "zh": "创建单一检查"
+    },
+    "Kích thước/kiện": {
+      "en": "Size/PDF",
+      "zh": "规模/PDF"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "Kết quả tìm kiếm hướng dẫn": {
+      "en": "Guide Search Results",
+      "zh": "指南搜索结果"
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Liên hệ hotline và cung cấp mã vận đơn, số điện thoại liên hệ hoặc thông tin lô hàng để được kiểm tra.": {
+      "en": "Contact hotline and provide single-coded, phone number contact or shipment information to be checked.",
+      "zh": "联系热线,提供单码,电话号码联系或者托运信息待查."
+    },
+    "Liên hệ khi cần xác nhận với nhân viên": {
+      "en": "Contact if you need confirmation",
+      "zh": "需要确认时联系"
+    },
+    "Liên hệ khi thông tin chưa cập nhật": {
+      "en": "Contact when information is not updated",
+      "zh": "未更新信息时联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Làm quen các mục trong tài khoản": {
+      "en": "Meet Entry in Accounts",
+      "zh": "实现账户条目"
+    },
+    "Lưu dưới dạng PDF": {
+      "en": "Save as PDF",
+      "zh": "另存为 PDF"
+    },
+    "Lưu ý khi sử dụng AI Chat": {
+      "en": "Note When Using AI Chat",
+      "zh": "使用 AI 聊天时注意"
+    },
+    "Lấy mã vận đơn": {
+      "en": "Get the singles code",
+      "zh": "获取单曲代码"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mã số thuế dùng để tra cứu thông tin doanh nghiệp. Việc tra cứu thành công và xác minh email": {
+      "en": "Tax code used to look into business information. Successful research and email verification",
+      "zh": "税法用于调查商业信息. 成功的研究和电子邮件核查"
+    },
+    "Mã yêu cầu": {
+      "en": "Request Code",
+      "zh": "请求代码"
+    },
+    "Mã được Lưu Lê cung cấp sau khi đơn hàng được tạo.": {
+      "en": "The code was provided by Liu Liu after the order was created.",
+      "zh": "该代码由刘 Liu在令后提供."
+    },
+    "Mô tả loại hàng và số lượng": {
+      "en": "Description of rows and numbers",
+      "zh": "描述行数"
+    },
+    "Mô tả loại hàng, số kiện, kg, m³ hoặc quy cách; điền nhu cầu bốc xếp, xe nâng, pallet khi phù hợp.": {
+      "en": "Description of the type of row, number of lawsuits, kilograms, m3 or regulation; fill the demand for alignment, lift, pallet when fit.",
+      "zh": "描述行的种类,诉讼次数,公斤,m3或调节;在合适时满足对对等,起重,托盘的需求."
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Mỗi mốc lịch sử thể hiện thời gian và diễn biến đã ghi nhận. Mốc mới nhất thường phản ánh cập nhật gần đây nhất.": {
+      "en": "Each historical landmark represents the time and development noted. The latest meth usually reflects the most recent update.",
+      "zh": "每个历史地标都代表了所注意到的时间和发展。 最新的冰毒通常反映最新的更新."
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở AI Chat tư vấn": {
+      "en": "Open AI Chat Consul",
+      "zh": "打开 AI 聊天领事"
+    },
+    "Mở AI Chat và bắt đầu tư vấn": {
+      "en": "Open AI Chat and Start Consulting",
+      "zh": "打开 AI 聊天和启动咨询"
+    },
+    "Mở Yêu cầu báo giá": {
+      "en": "Open price notice request",
+      "zh": "公开价格通知请求"
+    },
+    "Mở Yêu cầu đã gửi": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Mở công cụ tính cước": {
+      "en": "Open ID tool",
+      "zh": "打开 ID 工具"
+    },
+    "Mở cổng khách hàng": {
+      "en": "Open Client",
+      "zh": "打开客户端"
+    },
+    "Mở cửa sổ trò chuyện": {
+      "en": "Open Chat Window",
+      "zh": "打开聊天窗口"
+    },
+    "Mở email, nhấn liên kết và xác minh theo hướng dẫn. Nên dùng email để tiện khôi phục mật khẩu sau này.": {
+      "en": "Open email, press link and verify according to instructions. An email should be used to help restore the password later.",
+      "zh": "打开电子邮件,按键链接,并按照指令进行校验. 以后应该使用电子邮件帮助恢复密码 。"
+    },
+    "Mở hộp thư đăng ký": {
+      "en": "Synchronising folders",
+      "zh": "创建文件夹"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở nội dung": {
+      "en": "Open Contents",
+      "zh": "打开内容"
+    },
+    "Mở trang tra cứu": {
+      "en": "Open Search Page",
+      "zh": "打开搜索页面"
+    },
+    "Mở trang tra cứu giá cước": {
+      "en": "Open ID page",
+      "zh": "打开ID页面"
+    },
+    "Mở trang tổng quan": {
+      "en": "Open Total Page",
+      "zh": "打开总页"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mở website Vận Tải Lưu Lê": {
+      "en": "Open Liu Download website",
+      "zh": "打开刘下载网站"
+    },
+    "Mục lục": {
+      "en": "Table of Contents",
+      "zh": "目录"
+    },
+    "Mục lục hướng dẫn": {
+      "en": "Manual Index",
+      "zh": "手动索引"
+    },
+    "Mức chính thức được xác nhận sau khi kiểm tra địa chỉ, hàng hóa và điều kiện giao nhận thực tế.": {
+      "en": "Official level confirmed after checking the address, goods and actual delivery conditions.",
+      "zh": "官方一级在检查地址、货物和实际交货条件后确认。"
+    },
+    "Nhân theo số lượng kiện": {
+      "en": "multiply by quantity of lawsuit",
+      "zh": "乘以诉讼数量"
+    },
+    "Nhân viên Lưu Lê kiểm tra, xác nhận và gửi bản chính thức đến đúng tài khoản gửi yêu cầu.": {
+      "en": "Liu staff checked, confirmed, and sent the official copy to the right account.",
+      "zh": "刘作人核对,确认,并将正本抄送正户."
+    },
+    "Nhóm 1": {
+      "en": "Group 1",
+      "zh": "第1组"
+    },
+    "Nhóm 1 · 3 bài hướng dẫn": {
+      "en": "Group 1 · 3 Guide",
+      "zh": "第1组——3个指南"
+    },
+    "Nhóm 2": {
+      "en": "Group 2",
+      "zh": "第2组"
+    },
+    "Nhóm 2 · 3 bài hướng dẫn": {
+      "en": "Group 2 · 3 Guide",
+      "zh": "第2组——3个指南"
+    },
+    "Nhóm 3": {
+      "en": "Group 3",
+      "zh": "第3组"
+    },
+    "Nhóm 3 · 4 bài hướng dẫn": {
+      "en": "Group 3 · 4 Guide",
+      "zh": "第3组——4个指南"
+    },
+    "Nhóm 4": {
+      "en": "Group 4",
+      "zh": "第4组"
+    },
+    "Nhóm 4 · 6 bài hướng dẫn": {
+      "en": "Group 4 · 6 Guide",
+      "zh": "第4组——6个指南"
+    },
+    "Nhóm 5": {
+      "en": "Group 5",
+      "zh": "第5组"
+    },
+    "Nhóm 5 · 4 bài hướng dẫn": {
+      "en": "Group 5 · 4 Guide",
+      "zh": "第5组 4个指南"
+    },
+    "Nhấn": {
+      "en": "Press",
+      "zh": "新闻"
+    },
+    "Nhấn biểu tượng": {
+      "en": "Press Icon",
+      "zh": "按下图标"
+    },
+    "Nhấn liên kết trong email": {
+      "en": "Press links in an email",
+      "zh": "在电子邮件中按下链接"
+    },
+    "Nhấn một lần vào biểu tượng AI Chat để mở cửa sổ hỗ trợ.": {
+      "en": "Click once on the AI Chat icon to open support windows.",
+      "zh": "点击 AI Chat 图标一次打开支持窗口 。"
+    },
+    "Nhận biết các chức năng": {
+      "en": "Recognizing Functions",
+      "zh": "识别函数"
+    },
+    "Nhận báo giá chính thức khi cần": {
+      "en": "Receive official price when necessary",
+      "zh": "必要时接受正式价格"
+    },
+    "Nhập câu hỏi cần tư vấn": {
+      "en": "Enter a question to advise",
+      "zh": "输入要建议的问题"
+    },
+    "Nhập loại hàng, số kiện, trọng lượng (kg), thể tích (m³). Nếu chưa biết m³, chọn cách nhập số kiện và kích thước từng kiện để hệ thống tính theo biểu mẫu.": {
+      "en": "Enter the type of row, quantity, weight (kg), volume (m3). If you do not know m3, select how to import the number and size of each lawsuit to the system according to the template.",
+      "zh": "输入行类型、数量、重量(公斤)、体积(立方米)。 如果您不知道 m3, 请选择如何按照模板将每次诉讼的数量和大小导入系统 。"
+    },
+    "Nhập mã số thuế": {
+      "en": "Enter Tax Number",
+      "zh": "输入税号"
+    },
+    "Nhập mã số thuế để tra cứu và hiển thị tên doanh nghiệp tương ứng; kiểm tra kỹ tên công ty.": {
+      "en": "Enter the tax number to search and display the corresponding business name; carefully check the company name.",
+      "zh": "输入税号搜索并显示相应的企业名称;仔细检查公司名称."
+    },
+    "Nhập nguyên mã vận đơn vào ô tra cứu, kiểm tra dấu gạch và các ký tự rồi chọn nút tra cứu.": {
+      "en": "Enter the whole single transfer code into the search box, check the dash and characters and then select the search button.",
+      "zh": "将整个单一传输代码输入到搜索框中,检查破折和字符,然后选择搜索按钮."
+    },
+    "Nhập người gửi, người nhận": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Nhập người đăng ký": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhập thông tin": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Nhập điểm lấy và điểm giao": {
+      "en": "Enter the destination and the intersection.",
+      "zh": "输入目的地和相交点。"
+    },
+    "Nhập điểm đi/đến, số kiện, trọng lượng, thể tích, dịch vụ bổ sung hoặc ghi chú theo biểu mẫu.": {
+      "en": "Enter the destination/to, number of lawsuits, weight, volume, addition service or template notes.",
+      "zh": "输入目的/去,诉讼次数,重量,量,添加服务或模板注释."
+    },
+    "Nhập đúng mã": {
+      "en": "Enter the correct code",
+      "zh": "输入正确的代码"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nêu nhu cầu lấy hàng tận nơi, giao tận nơi, nhận/giao tại ga hoặc phương án phù hợp khi AI hỏi.": {
+      "en": "If the need is to take the goods in place, deliver them, pick them up at the station or the right way when AI asks.",
+      "zh": "如果需要取出已经到位的商品,在AI问起时送去,在车站接去或用正确的方式接去."
+    },
+    "Nêu rõ điểm gửi và điểm nhận": {
+      "en": "Set the send and pick-up points",
+      "zh": "设置发送和取出点"
+    },
+    "Nêu tên hàng, số kiện, khối lượng (kg), thể tích (m³) hoặc kích thước từng kiện nếu đã biết.": {
+      "en": "Name the row, number of lawsuits, volume (kg), volume (m3) or size of each lawsuit if already known.",
+      "zh": "列出每起诉讼的行、诉讼次数、数量(公斤)、数量(立方米)或规模(如果已经知道的话)。"
+    },
+    "Nếu AI Chat hiển thị bước xác nhận hoặc gửi thông tin đơn hàng, hãy đọc lại và chỉ xác nhận khi nội dung chính xác.": {
+      "en": "If AI Chat displays the identification or sending of the order information, read again and only confirm when the content is correct.",
+      "zh": "如果AI Chat显示命令信息的识别或发送,请再次阅读,仅在内容正确时确认."
+    },
+    "Nếu bạn mới gửi yêu cầu vận chuyển, hãy vào": {
+      "en": "If you've just sent me a transfer request, enter.",
+      "zh": "如果你刚给我发了调职申请 请进"
+    },
+    "Nếu chỉ dùng số điện thoại mà không cung cấp email, bạn sẽ không nhận được liên kết xác minh qua email. Nên bổ sung email hợp lệ.": {
+      "en": "If you only use the phone number without providing an email, you will not get the identification link via email. Valid email plugin.",
+      "zh": "如果您仅使用电话号码而不提供电子邮件, 您将不会通过电子邮件获得身份识别链接 。 有效的电子邮件插件 。"
+    },
+    "Nếu cần tư vấn trước khi cung cấp đủ số liệu, gọi": {
+      "en": "If necessary to advise before providing enough figures, call",
+      "zh": "如有必要,在提供足够数字之前,请拨"
+    },
+    "Nếu trang hiển thị nút": {
+      "en": "If the page shows the button",
+      "zh": "如果页面显示按钮"
+    },
+    "Nếu tài khoản chỉ đăng ký bằng điện thoại mà chưa có email xác minh để khôi phục mật khẩu, liên hệ": {
+      "en": "If the account only registers by phone without confirmation email to restore the password, contact",
+      "zh": "如果账户仅通过电话注册,而无需确认电子邮件以恢复密码,请联系"
+    },
+    "Nếu vận đơn đã phát sinh nhưng không có trong danh sách, hãy cung cấp mã vận đơn cho Lưu Lê kiểm tra liên kết; nếu cần hỗ trợ xem vận đơn, hãy liên hệ Vận Tải Lưu Lê.": {
+      "en": "If the single has been developed but is not on the list, provide the single code for Liu to check the link; if you need support for the single view, contact the Media Liu.",
+      "zh": "如果已开发出单曲但没有在列表中,请提供单曲代码给刘作人检查链接;需要支持单曲视图的,请联系刘作人传媒."
+    },
+    "Nếu yêu cầu phức tạp hoặc nội dung AI trả lời chưa rõ, hãy liên hệ": {
+      "en": "If the request is complex or the content AI answers unknown, contact",
+      "zh": "如果请求复杂或内容不明,请联系"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phát video hướng dẫn AI Chat": {
+      "en": "Play AI Chat Guide Video",
+      "zh": "播放 AI 聊天指南视频"
+    },
+    "Phát video hướng dẫn Sử dụng tài khoản": {
+      "en": "Play account manual videos",
+      "zh": "播放账户手动视频"
+    },
+    "Phát video hướng dẫn Tra cứu vận đơn": {
+      "en": "Play Single Survey Guide Video",
+      "zh": "播放单一调查指南视频"
+    },
+    "Phát video hướng dẫn Tính cước nhanh": {
+      "en": "Play Quick Counting Video",
+      "zh": "播放快速计数视频"
+    },
+    "Phát video hướng dẫn Đăng ký và đăng nhập": {
+      "en": "Play Log & Logon Guide Video",
+      "zh": "播放日志指南视频( L)"
+    },
+    "Phân biệt giá dự kiến với báo giá chính thức": {
+      "en": "Separate the expected price from the official price newspaper",
+      "zh": "将预期价格与官方价格报纸分开"
+    },
+    "Phân biệt trạng thái yêu cầu và vận đơn": {
+      "en": "Distinguish the state of requirements and tasks",
+      "zh": "区分要求和任务的状况."
+    },
+    "Phần": {
+      "en": "Frac",
+      "zh": "断层"
+    },
+    "Quay lại": {
+      "en": "Turn around.",
+      "zh": "转身"
+    },
+    "Quy ước phân loại tại Lưu Lê:": {
+      "en": "Classification Convention at Liu:",
+      "zh": "《刘氏分类公约》:"
+    },
+    "Quên mật khẩu": {
+      "en": "Forget password",
+      "zh": "忘记密码"
+    },
+    "Quên mật khẩu?": {
+      "en": "Forget the password?",
+      "zh": "忘了密码?"
+    },
+    "Quản lý thông tin": {
+      "en": "Information Management",
+      "zh": "信息管理"
+    },
+    "Rà soát tên người liên hệ, địa chỉ, số kiện, trọng lượng, thể tích, thời gian và yêu cầu dịch vụ.": {
+      "en": "Check the name of the contact, address, number of lawsuits, weight, volume, time, and service requirements.",
+      "zh": "请检查access-date=中的日期值 (帮助) 联系人名称,地址,诉讼案件数量,重量,数量,时间,服务要求."
+    },
+    "Sau khi cung cấp thông tin, bạn có thể hỏi: “Cho tôi biết chi phí vận chuyển dự kiến?”": {
+      "en": "After providing information, you might ask: “Tell me the expected transportation costs? ”",
+      "zh": "在提供信息后,你可能会问:“告诉我预期的运输费用?”"
+    },
+    "Sau khi xác minh email, khách có thể đăng nhập, gửi yêu cầu vận chuyển, yêu cầu báo giá và sử dụng các tiện ích tài khoản. Không cần nhân viên phê duyệt để kích hoạt đăng nhập.": {
+      "en": "After confirmation of the email, guests can log in, send shipping requests, request price notices, and use account utility. There is no need for approved personnel to activate the log.",
+      "zh": "电子邮件确认后,嘉宾可以登录,发送发货请求,要求价格通知,以及使用账户工具. 无需经批准的人员启动日志。"
+    },
+    "Sau khi đăng nhập, trang sẽ mở phần": {
+      "en": "After login, the page will be opened",
+      "zh": "登录后将打开页面"
+    },
+    "So sánh với trọng lượng thực tế": {
+      "en": "Comparison to Practicalweight",
+      "zh": "与实际重量的比较"
+    },
+    "Số kiện": {
+      "en": "count",
+      "zh": "计数"
+    },
+    "Số kiện, kg và m³ có thể để trống khi biểu mẫu cho phép; nếu nhập, số kiện phải là số nguyên dương, khối lượng và thể tích phải lớn hơn 0.": {
+      "en": "The number, kilograms and m3 can be left empty when the template allows; if entered, the number must be positive, mass and volume must be greater than 0.",
+      "zh": "当模板允许时,数字,公斤和m3可以留空;如果输入,数字必须是正数,质量和体积必须大于0."
+    },
+    "Sử dụng chức năng đổi mật khẩu trong tài khoản; không gửi mật khẩu qua email, Zalo hoặc tin nhắn.": {
+      "en": "Use password changes in the account; do not send the password via email, Zalo or text.",
+      "zh": "使用账户中的密码更改; 不通过电子邮件, Zalo 或文本发送密码 。"
+    },
+    "Sử dụng tài khoản": {
+      "en": "Use Account",
+      "zh": "使用账户"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo dõi phản hồi": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Theo dõi và yêu cầu báo giá": {
+      "en": "Track and Request Prices",
+      "zh": "跟踪和请求价格"
+    },
+    "Thông báo": {
+      "en": "Announce",
+      "zh": "发布"
+    },
+    "Thông tin tài khoản": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu công khai được thực hiện bằng": {
+      "en": "Public research is done with",
+      "zh": "公共研究是通过"
+    },
+    "Tra cứu giá cước vận chuyển": {
+      "en": "Look up shipping prices",
+      "zh": "提高航运价格"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Tra cứu vận đơn bằng mã vận đơn": {
+      "en": "Look up the singles in a single code",
+      "zh": "在单一代码中查找单曲"
+    },
+    "Tra cứu vận đơn có bắt buộc phải đăng nhập không?": {
+      "en": "Is a single study required?",
+      "zh": "是否需要单项研究?"
+    },
+    "Tra cứu vận đơn ngay": {
+      "en": "Search for a single.",
+      "zh": "寻取一单."
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trang xác minh có thể còn nút “Xác minh email”. Bạn cần nhấn nút này để hoàn tất. Nếu liên kết hết hạn, sử dụng chức năng gửi lại email xác minh.": {
+      "en": "The page confirms the possible button “Resolves the CDE email. You need to press this button to complete. If the link expires, use the function of sending confirmation emails back.",
+      "zh": "该页面确认了可能的按钮“解决CDE电子邮件。 您需要按下此按钮才能完成 。 如果链接过期,请使用发送确认邮件回执的功能."
+    },
+    "Trao đổi theo hướng dẫn": {
+      "en": "Exchange by Guide",
+      "zh": "以指南交换"
+    },
+    "Trong": {
+      "en": "Inside",
+      "zh": "内部"
+    },
+    "Trong Customer, vào": {
+      "en": "In Customer, in",
+      "zh": "在客户中"
+    },
+    "Trong cùng mục": {
+      "en": "In Same Entry",
+      "zh": "在同一条目中"
+    },
+    "Trong phần loại tài khoản, chọn": {
+      "en": "In account category, select",
+      "zh": "在账户类别中,选择"
+    },
+    "Trong tài khoản, nhấn": {
+      "en": "In account, press",
+      "zh": "考虑,按"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trung tâm hướng dẫn Vận Tải Lưu Lê": {
+      "en": "Liu Download Guide Centre",
+      "zh": "刘下载指南中心"
+    },
+    "Trung tâm hướng dẫn cung cấp thông tin giúp khách hàng sử dụng các tiện ích, tra cứu và thực hiện yêu cầu vận chuyển tại Vận Tải Lưu Lê. Nếu cần giải đáp hoặc xác nhận thông tin cụ thể, vui lòng liên hệ chúng tôi qua các kênh hỗ trợ chính thức.": {
+      "en": "The Center for Information Helps Clients to Use the U.S. Constituency, Research, and Perform Transportation Requests at the Media. If we need to answer or confirm specific information, please contact us via official support channels.",
+      "zh": "信息中心帮助客户在媒体上使用美国选区、研究和执行运输请求。 如果需要回答或确认具体信息,请通过官方支助渠道与我们联系。"
+    },
+    "Truy cập": {
+      "en": "Accessed",
+      "zh": "访问"
+    },
+    "Truy cập website và tìm biểu tượng": {
+      "en": "Access the website and find icons",
+      "zh": "访问网站并找到图标"
+    },
+    "Trình duyệt của bạn không hỗ trợ phát video.": {
+      "en": "Your browser does not support video broadcast.",
+      "zh": "您的浏览器不支持视频广播 。"
+    },
+    "Trả lời các câu hỏi được AI đưa ra; kiểm tra lại thông tin trước khi yêu cầu tính cước hoặc gửi thông tin đơn hàng.": {
+      "en": "Answers the questions given by AI; re-checks the information before requesting an identification or sending a single.",
+      "zh": "回答大赦国际提出的问题;在要求识别或发送单人之前重新核实信息。"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm bài hướng dẫn": {
+      "en": "Find Guide",
+      "zh": "查找指南"
+    },
+    "Tìm báo giá chính thức": {
+      "en": "Search for official prices",
+      "zh": "寻找官方价格"
+    },
+    "Tìm email xác minh từ Lưu Lê; kiểm tra thư rác nếu chưa thấy.": {
+      "en": "Search for confirmation emails from Liu Lev; check the spam if you have not yet found them.",
+      "zh": "搜索刘列夫的确认邮件; 如果您尚未找到, 请检查垃圾邮件 。"
+    },
+    "Tìm hiểu cách tính cước, tra cứu vận đơn, đăng ký tài khoản, sử dụng AI Chat và gửi yêu cầu vận chuyển. Mỗi thao tác đều có hướng dẫn rõ ràng, dễ thực hiện.": {
+      "en": "Find out how to calculate the card, search the singles, register the account, use AI Chat and send for transport demands. Each operation has clear, easy instructions.",
+      "zh": "找出如何计算出卡片,搜索单曲,注册账户,使用AI Chat并发送运输需求. 每一个行动都有清晰,轻松的指示."
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tính cước ngay": {
+      "en": "Immediate",
+      "zh": "即时"
+    },
+    "Tính cước nhanh": {
+      "en": "Quick count",
+      "zh": "快数"
+    },
+    "Tính cước nhanh có phải giá cuối cùng không?": {
+      "en": "Is fast identity the final price?",
+      "zh": "快速身份是最后的代价吗?"
+    },
+    "Tính cước và xem kết quả": {
+      "en": "Properties & View Results",
+      "zh": "属性查看结果( V)"
+    },
+    "Tính thể tích từng kiện": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Tôi chưa có tài khoản thì có tính cước được không?": {
+      "en": "If I don't have an account, can I count?",
+      "zh": "如果我没有帐户,我可以数数吗?"
+    },
+    "Tôi có thể tải báo giá PDF ở đâu?": {
+      "en": "Where can I download the PDF?",
+      "zh": "哪里可以下载PDF?"
+    },
+    "Tôi không biết m³ thì phải làm sao?": {
+      "en": "I don't know what a m3 is.",
+      "zh": "我不知道M3是什么东西"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tư vấn vận chuyển, cung cấp thông tin hàng hóa, tham khảo giá cước và gửi yêu cầu.": {
+      "en": "Transportation Advisor, supply of cargo information, referencies and send requests.",
+      "zh": "运输顾问,提供货物信息、裁判和发出请求。"
+    },
+    "Tại": {
+      "en": "At",
+      "zh": "时"
+    },
+    "Tại sao tôi mở liên kết email mà vẫn chưa xác minh?": {
+      "en": "Why would I open an email link that hasn't been verified yet?",
+      "zh": "我为什么要打开尚未核实的电子邮件链接?"
+    },
+    "Tại vận đơn cần xem, chọn": {
+      "en": "At single to view, select",
+      "zh": "单向视图,选择"
+    },
+    "Tạo tài khoản": {
+      "en": "Create Account",
+      "zh": "创建账户"
+    },
+    "Tạo tài khoản cá nhân, doanh nghiệp và xác minh email.": {
+      "en": "Create personal accounts, businesses and email verifications.",
+      "zh": "创建个人账户,企业和电子邮件验证."
+    },
+    "Tổng m³ = m³/kiện × số kiện cùng kích thước. Với nhiều loại kiện, cộng m³ của từng loại.": {
+      "en": "The total m3 = m3/12020000 vs. the same size. With various types of lawsuit, plus m3 of each category.",
+      "zh": "总m3=m3/12020000对同大小. 有各类诉讼,外加每类的m3."
+    },
+    "Tổng quan": {
+      "en": "General",
+      "zh": "常规"
+    },
+    "Tổng thể tích": {
+      "en": "Total volume",
+      "zh": "共计"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Video hướng dẫn AI Chat": {
+      "en": "AI Chat Guide Video",
+      "zh": "AI 聊天指南视频"
+    },
+    "Video hướng dẫn Sử dụng tài khoản": {
+      "en": "Account Use Guide Video",
+      "zh": "账户使用指南视频"
+    },
+    "Video hướng dẫn Tra cứu vận đơn": {
+      "en": "Single Survey Guide Video",
+      "zh": "单一调查指南视频"
+    },
+    "Video hướng dẫn Tính cước nhanh": {
+      "en": "Quick Line Guide Video",
+      "zh": "快行指南视频"
+    },
+    "Video hướng dẫn Đăng ký và đăng nhập": {
+      "en": "Log & Logon Guide Video",
+      "zh": "日志指南视频( L)"
+    },
+    "Video tạm thời chưa phát được. Vui lòng thử lại sau.": {
+      "en": "The video's not playing yet. Please try again later.",
+      "zh": "视频还没播放 请以后再试"
+    },
+    "Vào": {
+      "en": "Enter",
+      "zh": "输入"
+    },
+    "Vào tài khoản": {
+      "en": "Join Accounts",
+      "zh": "连接账户"
+    },
+    "Ví dụ minh họa": {
+      "en": "Illustrate",
+      "zh": "图示"
+    },
+    "Ví dụ này có mật độ khoảng": {
+      "en": "This example has a density of distance.",
+      "zh": "这个例子有相距的密度."
+    },
+    "Ví dụ: Chờ xác nhận, Chờ lấy hàng, Đang vận chuyển, Đang giao hàng, Đã giao hàng — tùy thời điểm và dữ liệu cập nhật.": {
+      "en": "Examples: Wait for confirmation, Wait for the cargo, I'm transporting, I'm delivering, I'm delivering — time and data update.",
+      "zh": "例子:等待确认,等待货物,我运送,我交付,我交付——时间和数据更新."
+    },
+    "Ví dụ: hàng đóng pallet, kiện nặng cần xe nâng, có yêu cầu bốc xếp, kho tầng/hầm, nhiều điểm giao.": {
+      "en": "For example: pallet closes, heavy lawsuits need lifts, there's an order, a storeroom, multiple intersections.",
+      "zh": "例如:托盘关闭,重案需要升降,有命令,有存储室,有多个相交处."
+    },
+    "Ví dụ: tính cước, AI Chat, tra cứu vận đơn, báo giá...": {
+      "en": "For example: ABC, AI Chat, Billing, The Prices...",
+      "zh": "例如:ABC,AI Chat,Billing,The Prices... ."
+    },
+    "Ví dụ: “Tôi muốn gửi hàng từ TP.HCM ra Hà Nội, cần chuẩn bị những thông tin gì?”": {
+      "en": "For example: “I want to send the package from TP.HCM to Hanoi, what information do I need to prepare? ”",
+      "zh": "例如:“我想把包裹从TP.HCM送到河内,我需要准备什么信息?”"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê hỗ trợ tra cứu, tư vấn cước và xử lý yêu cầu vận chuyển.": {
+      "en": "Liu transport supports research, photo consulting, and handling shipping requirements.",
+      "zh": "刘运支持研究,图片咨询,装卸运输要求."
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận đơn của tôi": {
+      "en": "My treat.",
+      "zh": "我请客。"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem báo giá": {
+      "en": "View price report",
+      "zh": "查看价格报告"
+    },
+    "Xem báo giá đã nhận": {
+      "en": "View received price newspaper",
+      "zh": "查看收到的价格报"
+    },
+    "Xem chi tiết yêu cầu": {
+      "en": "View Request Details",
+      "zh": "查看请求细节"
+    },
+    "Xem danh sách vận đơn": {
+      "en": "View singles list",
+      "zh": "查看单曲列表"
+    },
+    "Xem hành trình": {
+      "en": "Journey View",
+      "zh": "行程视图"
+    },
+    "Xem kết quả": {
+      "en": "View Results",
+      "zh": "查看结果"
+    },
+    "Xem lịch sử": {
+      "en": "View History",
+      "zh": "查看历史"
+    },
+    "Xem lịch sử hành trình": {
+      "en": "View Journey History",
+      "zh": "查看行程历史"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "Xem thông tin cước được hiển thị": {
+      "en": "View displayed ID information",
+      "zh": "查看显示的ID信息"
+    },
+    "Xem trạng thái và hành trình đơn hàng theo mã vận đơn.": {
+      "en": "View the state and program menu in single-code code.",
+      "zh": "以单码码查看状态和程序菜单."
+    },
+    "Xem vận đơn, cập nhật hồ sơ và mật khẩu": {
+      "en": "View single, update profile and password",
+      "zh": "查看单一、更新配置和密码"
+    },
+    "Xem yêu cầu đã gửi và thông báo": {
+      "en": "View sent and notified requests",
+      "zh": "查看已发送和已通知的请求"
+    },
+    "Xem, in hoặc lưu báo giá PDF": {
+      "en": "View, print or save PDF prices",
+      "zh": "查看、打印或保存 PDF 价格"
+    },
+    "Xác minh email": {
+      "en": "Confirm email",
+      "zh": "确认电子邮件"
+    },
+    "Xác minh email nếu đã cung cấp": {
+      "en": "Confirm email if supplied",
+      "zh": "提供电子邮件确认"
+    },
+    "Xác minh email sau khi đăng ký": {
+      "en": "Confirm email after enrollment",
+      "zh": "入学后确认电子邮件"
+    },
+    "Xác nhận số liệu hàng hóa": {
+      "en": "Confirm cargo data",
+      "zh": "确认货物数据"
+    },
+    "Xác nhận trước khi gửi yêu cầu": {
+      "en": "Confirm before sending request",
+      "zh": "发送请求前确认"
+    },
+    "Xóa khoảng trắng thừa, đối chiếu chữ/số và dấu gạch với mã do Lưu Lê cấp.": {
+      "en": "Deletes surplus white, cross-references text/digits and dashes with code provided by Liu Lev.",
+      "zh": "删除多余的白色,交叉引用文本/数字和有由刘列夫提供的代码的破折号."
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "Yêu cầu báo giá": {
+      "en": "Ask for a price",
+      "zh": "问个价"
+    },
+    "Yêu cầu hỗ trợ": {
+      "en": "Requesting Support",
+      "zh": "请求支持"
+    },
+    "Yêu cầu vận chuyển chưa phải là vận đơn. Khi đơn hàng được tạo và gắn với tài khoản, bạn mới có thể xem vận đơn trong tài khoản.": {
+      "en": "Transportation request is not a single. When the order is created and attached to the account, you can only view the form in the account.",
+      "zh": "运输请求并非一成不变。 当命令创建并附入账户时,只能查看账户中的格式."
+    },
+    "Yêu cầu đã gửi": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "bằng mã vận đơn mà không cần đăng nhập. Còn “Vận đơn của tôi” yêu cầu đăng nhập và chỉ hiện những vận đơn thuộc tài khoản của bạn.": {
+      "en": "with a single-way code without a log. “ My application, however, is required to log in and display only the ones in your account.",
+      "zh": "采用无日志的单行码。” 但我的应用程序需要登录 并显示您的账户。"
+    },
+    "chứa văn bản báo giá do Lưu Lê phát hành.": {
+      "en": "contains the price text published by Liu Li.",
+      "zh": "包含由刘立出版的价格文本."
+    },
+    "cm": {
+      "en": "cm",
+      "zh": "厘米"
+    },
+    "cổng khách hàng": {
+      "en": "customer port",
+      "zh": "客户端口"
+    },
+    "gửi qua Customer không nhất thiết là mã vận đơn.": {
+      "en": "Coming through Customer is not necessarily a single-code.",
+      "zh": "通过客户 不一定是一个单一代码。"
+    },
+    "hoặc gửi thông tin qua trang liên hệ.": {
+      "en": "or send information via contact page.",
+      "zh": "或通过联系页发送信息。"
+    },
+    "hoặc toàn bộ vận đơn của doanh nghiệp đó.": {
+      "en": "Or the entire order of that business.",
+      "zh": "或整个生意的顺序。"
+    },
+    "khi cả ba kích thước đều tính bằng cm.": {
+      "en": "When all three sizes are in cm.",
+      "zh": "当三相相相相相相相相相相相相相相."
+    },
+    "không mặc nhiên trao quyền xem vận đơn của những tài khoản khác": {
+      "en": "does not automatically empower other accounts to view singles",
+      "zh": "不自动授权其他账户查看单曲"
+    },
+    "là trạng thái nhân viên xử lý yêu cầu; đó chưa nhất thiết là trạng thái một vận đơn vận chuyển thực tế.": {
+      "en": "is the state of the processor; it is not necessarily the state of an actual transport order.",
+      "zh": "是处理器的状态;它不一定是实际运输订单的状态。"
+    },
+    "lưu yêu cầu báo giá đã gửi. Phần": {
+      "en": "contains the sending price notice request. Frac",
+      "zh": "包含发送价格通知请求。 断层"
+    },
+    "mã vận đơn": {
+      "en": "monocode",
+      "zh": "单码"
+    },
+    "phản ánh quá trình nhân viên đang xử lý yêu cầu.": {
+      "en": "Reflecting the process of staff processing the request.",
+      "zh": "反映工作人员处理请求的过程。"
+    },
+    "rồi mở email nhận được để xác minh.": {
+      "en": "Then open an email received for confirmation.",
+      "zh": "然后打开收到的邮件确认。"
+    },
+    "tra cứu vận đơn trực tiếp": {
+      "en": "Look up live ones.",
+      "zh": "找点活的"
+    },
+    "trang Tra cứu vận đơn": {
+      "en": "single-help page",
+      "zh": "单帮助页面"
+    },
+    "trang tài khoản khách hàng": {
+      "en": "customer account page",
+      "zh": "客户账户页面"
+    },
+    "trong tài khoản khách hàng để kiểm tra trạng thái xử lý; chưa có mã vận đơn thì không thể tra cứu theo mã.": {
+      "en": "in the customer account to check the state of processing; without a single code it is impossible to search according to the code.",
+      "zh": "在客户账户中检查处理状态;没有单一代码就无法根据代码进行搜索."
+    },
+    "trong tài khoản khách hàng.": {
+      "en": "in the customer account.",
+      "zh": "在客户账户。"
+    },
+    "trên website Lưu Lê. Bạn cũng có thể vào": {
+      "en": "On Liu. You can also enter",
+      "zh": "刘上. 您也可以输入"
+    },
+    "trên website.": {
+      "en": "on the website.",
+      "zh": "在网站上。"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và chọn": {
+      "en": "& Select",
+      "zh": "选择( S)"
+    },
+    "và chọn chức năng": {
+      "en": "and select function",
+      "zh": "选择函数"
+    },
+    "và menu chức năng bên trái.": {
+      "en": "And the menu functions left.",
+      "zh": "而菜单功能还剩."
+    },
+    "và nhập email đã xác minh để nhận liên kết đặt lại. Mật khẩu mới cần tối thiểu 12 ký tự.": {
+      "en": "and entered the confirmed email to receive the set link. The new password requires a minimum of 12 characters.",
+      "zh": "并输入确认的电子邮件以接收设定链接 。 新密码至少需要12个字符."
+    },
+    "và theo dõi yêu cầu trong phần": {
+      "en": "and monitor requirements in part",
+      "zh": "和监测部分要求"
+    },
+    "và thực hiện theo hướng dẫn.": {
+      "en": "And follow instructions.",
+      "zh": "并听从指示."
+    },
+    "và xác nhận mật khẩu.": {
+      "en": "And confirm the password.",
+      "zh": "确认密码"
+    },
+    "và được phân loại hàng nhẹ theo quy ước trên. Đây là ví dụ tính thể tích, không phải báo giá.": {
+      "en": "and be classified lightly according to the above convention. This is an example of the volume, not the price.",
+      "zh": "按照上述公约轻取分类。 这是数量的例子,而不是价格。"
+    },
+    "Đang xem xét": {
+      "en": "Examining",
+      "zh": "检查"
+    },
+    "Điền họ tên người đăng ký, số điện thoại, địa chỉ email và mật khẩu tối thiểu 12 ký tự.": {
+      "en": "Fill in the name of the subscriber, phone number, email address and minimum password of 12 characters.",
+      "zh": "填写订阅者的姓名,电话号码,电子邮件地址以及12个字符的最小密码."
+    },
+    "Điền họ tên, số điện thoại liên hệ và các trường bắt buộc theo biểu mẫu.": {
+      "en": "Fill in the name name, phone number, and the template required fields.",
+      "zh": "填写名称、电话号码和模板需要的字段。"
+    },
+    "Điền họ tên; số điện thoại hoặc email (ít nhất một thông tin); tạo mật khẩu có ít nhất": {
+      "en": "Fill family name; phone number or email (at least one information); create a password with at least a minimum",
+      "zh": "填入姓氏; 电话号码或电子邮件( 至少一个信息); 创建至少一个密码"
+    },
+    "Điền thông tin lô hàng": {
+      "en": "Fill lot information",
+      "zh": "填充数量信息"
+    },
+    "Điền địa chỉ lấy hàng, địa chỉ giao hàng, ngày lấy dự kiến nếu có.": {
+      "en": "Fill in the pick-up address, delivery address, the date for the pickup if available.",
+      "zh": "填写取车地址,送车地址,如有取车日期."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đo chiều dài, rộng, cao bên ngoài kiện sau đóng gói; ghi các kích thước bằng": {
+      "en": "Measuring length, width, height outside of the rear-packing suit; scoring equal sizes",
+      "zh": "测量后包装外的长度、宽度、高度;评分大小相等"
+    },
+    "Đo kiện hàng": {
+      "en": "Quality of goods",
+      "zh": "货物质量"
+    },
+    "Đã tiếp nhận": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đăng ký": {
+      "en": "Register",
+      "zh": "登记册"
+    },
+    "Đăng ký & đăng nhập": {
+      "en": "Register",
+      "zh": "登记册"
+    },
+    "Đăng ký doanh nghiệp có cần nhân viên phê duyệt không?": {
+      "en": "Does business registration require approval personnel?",
+      "zh": "企业登记是否需要审批人员?"
+    },
+    "Đăng ký tài khoản": {
+      "en": "Account Register",
+      "zh": "账户登记册"
+    },
+    "Đăng ký tài khoản cá nhân": {
+      "en": "Personal Account Register",
+      "zh": "个人账户登记册"
+    },
+    "Đăng ký tài khoản doanh nghiệp bằng mã số thuế": {
+      "en": "Subscripting business accounts in tax code",
+      "zh": "在税法中下标商业账户"
+    },
+    "Đăng ký và đăng nhập": {
+      "en": "Registers and Registers",
+      "zh": "登记册和登记册"
+    },
+    "Đăng nhập": {
+      "en": "Logon",
+      "zh": "登录"
+    },
+    "Đăng nhập lại và kiểm tra": {
+      "en": "Login & Check",
+      "zh": "登录检查( C)"
+    },
+    "Đăng nhập và sử dụng": {
+      "en": "Login & & Use",
+      "zh": "登录和使用"
+    },
+    "Đăng nhập → Yêu cầu báo giá → Báo giá chính thức đã nhận → chọn In / Lưu PDF.": {
+      "en": "Login - > Price Request - > Official price report received (10) Select Print / Save PDF.",
+      "zh": "登录 - > 价格要求 - > 收到官方价格报告 (10) 选择打印/保存 PDF."
+    },
+    "Đăng nhập, đăng xuất và quên mật khẩu": {
+      "en": "Login, Log Out and Forget Password",
+      "zh": "登录、注销和忘记密码"
+    },
+    "Đăng xuất": {
+      "en": "Log Out",
+      "zh": "注销"
+    },
+    "Đăng xuất an toàn": {
+      "en": "Safety Log Out",
+      "zh": "安全登录"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đường dẫn sẽ mở trang xác minh email trên website.": {
+      "en": "The path will open the email identification page on the website.",
+      "zh": "该路径将在网站上打开电子邮件识别页."
+    },
+    "Đến trang tài khoản": {
+      "en": "Go to Account Page",
+      "zh": "转到账户页面"
+    },
+    "Đề nghị AI tư vấn cước": {
+      "en": "Offer AI Advisory",
+      "zh": "向大赦国际提供咨询"
+    },
+    "Để nhận báo giá chính thức trong tài khoản, truy cập": {
+      "en": "To receive official price in account, access",
+      "zh": "得到正式的帐价,访问"
+    },
+    "Đọc kỹ kết quả hoặc các câu hỏi bổ sung. Nếu số liệu chưa đủ, cung cấp thêm theo hướng dẫn.": {
+      "en": "Read the results or additional questions carefully. If the figures are not enough, supply is provided according to instructions.",
+      "zh": "仔细阅读结果或补充问题。 如果数字不够,则按照指示提供。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đổi mật khẩu khi cần": {
+      "en": "Change password when required",
+      "zh": "需要时更改密码"
+    },
+    "để kiểm tra thông tin người gửi, người nhận, các khoản cước, VAT và tổng thanh toán.": {
+      "en": "To test the sender's information, receivers, card payments, VAT and general payment.",
+      "zh": "测试寄件人的信息,接收人,卡片支付,增值税和一般支付."
+    },
+    "để theo dõi trạng thái và xem báo giá chính thức khi nhân viên phát hành, gửi đến tài khoản.": {
+      "en": "to monitor status and view official prices when employees release, send to account.",
+      "zh": "监控状况,并查看官方价格 当雇员释放,发送到负责。"
+    },
+    "để xem cập nhật từ nhân viên; có thể chọn đánh dấu đã đọc.": {
+      "en": "to view updates from the staff; can select read mark.",
+      "zh": ",可以选择读取标记。"
+    },
+    "Ước tính chi phí vận chuyển và gửi yêu cầu báo giá.": {
+      "en": "Estimating transportation costs and sending a price notice.",
+      "zh": "估算运输费用并发出价格通知。"
+    },
+    "ở cạnh phải màn hình (trên điện thoại, nút có thể nằm phía dưới).": {
+      "en": "in the right side of the screen (on the phone, node may lie below).",
+      "zh": "在屏幕右侧(在电话上,节点可能位于下方)."
+    },
+    "“Tôi cần gửi 12 kiện hàng carton, tổng 450 kg, khoảng 2,5 m³ từ TP.HCM ra Hà Nội; lấy và giao tận nơi. Nhờ tư vấn chi phí dự kiến.”": {
+      "en": "“ I needed to send 12 shipments of carton, a total of 450 kilograms, about 2.5 m3 from TP.HCM to Hanoi; took and delivered them. Thanks to the expected cost counseling. ”",
+      "zh": "“我需要从TP.HCM向河内运送12批货,共计450公斤,约2.5立方米;运走并运出。 由于预期的费用咨询。 ”"
+    },
+    "“Đã tiếp nhận” hoặc “Đang xem xét” ở": {
+      "en": "“ Accepted, or “Reviewed in",
+      "zh": "“接受,或"
+    },
+    "↑ Về đầu trang": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "→ chọn": {
+      "en": "Organisation",
+      "zh": "组织"
+    },
+    "→ điền biểu mẫu →": {
+      "en": "Can not open message",
+      "zh": "创建新邮件"
+    },
+    "▶ Phát video hướng dẫn": {
+      "en": "‹ Play Guide video",
+      "zh": "游戏指南视频"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}
