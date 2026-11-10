@@ -1,0 +1,822 @@
+{
+  "route": "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-dak-lak",
+  "texts": {
+    "08 Tháng 4 2022": {
+      "en": "08 April 2022",
+      "zh": "2022年4月8日 (中文(简体) )."
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn đang muốn chuyển hàng từ Hà Nội đi Đắk Lắk, theo dõi ngay chia sẻ dưới đây để lựa chọn được dịch vụ": {
+      "en": "You are wanted to move the goods from Hanoi to go to the LEWK, follow immediately share below to select services",
+      "zh": "你们想从河内运货到LEWK, 立即在下面分享, 选择服务"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí gửi hàng hợp lý so với chất lượng vượt trội.": {
+      "en": "The deposit costs are reasonable compared to the superior quality.",
+      "zh": "与优质相比,存款费用是合理的。"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn": {
+      "en": "Select",
+      "zh": "选择"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cộng đồng dân cư tại Đắk Lắk bao gồm 47 dân tộc, có sự đa dạng về văn hoá. Đắk Lắk có vị trí chiến lược đóng vai trò quan trọng vô cùng trong chiến lược phát triển Kinh tế - Xã Hội.": {
+      "en": "The residential community at the Rárk Lörk includes 47 peoples, with cultural diversity. THE LEWK has strategic location which plays an extremely important role in the economic - social development strategy.",
+      "zh": "拉克勒克的住宅社区包括47个民族,文化多元. 欧洲妇女游说团的战略地位在经济和社会发展战略中发挥着极其重要的作用。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ gửi hàng từ Hà Nội đi Đắk Lắk": {
+      "en": "The delivery service from Hanoi goes to the Lörk Lörk",
+      "zh": "从河内到洛尔克的送货服务"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ đi kèm các điều khoản hỗ trợ khách hàng như sân bãi, dịch vụ lấy hàng tận nơi.": {
+      "en": "The service comes with client support terms such as the yard, the service takes the goods.",
+      "zh": "服务附带诸如院子,服务带货等客户支持条款."
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giới thiệu sơ lược về tuyến Hà Nội - Đắk Lắk": {
+      "en": "Introduction to the Hanoi Line - Dárk Lörk",
+      "zh": "河内线简介-达克勒克."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội Đắk Lắk cước phí rẻ, dịch vụ uy tín": {
+      "en": "Send me the Conveyables, the prestigious services",
+      "zh": "送我可乐者,有声望的服务"
+    },
+    "Gửi hàng Hà Nội Đắk Nông": {
+      "en": "Send me Han Dak",
+      "zh": "叫韩达来"
+    },
+    "Gửi hàng Hà Nội đi Đắk Lắk như thế nào?": {
+      "en": "How do you send Hanoi's goods?",
+      "zh": "如何送河内货."
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hoá khi vận chuyển được đảm bảo chất lượng. Vận tải Lưu Lê có điều khoản cam kết đền bù hàng hoá đối với khách hàng.": {
+      "en": "The goods on transportation are guaranteed quality. Liu Li transport has a commitment to compensation for the customers.",
+      "zh": "运输货物的质量得到保证。 刘力运承诺对客户给予补偿."
+    },
+    "Hàng hoá được giao đi một cách nhanh chóng, theo sát với thời gian đã dự trù cho khách hàng.": {
+      "en": "The cargo was delivered quickly, according to the time scheduled for the customer.",
+      "zh": "根据预定的客户时间,货物迅速交付。"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hợp đồng dịch vụ rõ ràng, phiếu gửi hàng đầy đủ.": {
+      "en": "Clear service contract, full delivery form.",
+      "zh": "明确服务合同,全程交付表."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi hàng hoá được giao tới địa phương nhận, hàng hoá được kiểm tra, phân phối cho nhân viên đi giao hàng. Theo địa chỉ chính xác khách hàng cung cấp, nhân viên sẽ giao tận nơi và xin xác nhận để đảm bảo đã giao đúng và đủ hàng. Nhân viên thu tiền COD hoặc tiền ship nếu có.": {
+      "en": "When the goods were delivered locally, the merchandise was examined, distributed to the delivery staff. According to the exact customer address provided, the staff will deliver the place and request confirmation to ensure that the delivery is right and sufficient. COD money collector or share money if available.",
+      "zh": "当货物在当地交付时,对商品进行检查,分发给交货人员。 根据所提供的确切的客户地址,工作人员将交付地点并要求确认,以确保交付正确和充分。 COD 收钱人或分享资金(如果有的话)."
+    },
+    "Khi lên kế hoạch vận chuyển hàng từ Hà Nội đi Đắk Lắk bạn cần chú ý về quãng đường và thời gian chính xác. Quãng đường có sự chênh lệch, thời gian giao hàng sẽ lâu hơn vì còn cần nhiều giai đoạn khác mới có thể hoàn thiện chuyến hàng.": {
+      "en": "As you plan to transport goods from Hanoi, you need to pay attention to the exact distance and time. The road has a disparity, the delivery time will be longer as many other stages are needed to complete the shipment.",
+      "zh": "在计划从河内运输货物时,需要注意准确的距离和时间. 道路存在差异,交货时间将更长,因为完成货运需要许多其他阶段。"
+    },
+    "Khi sử dụng các dịch vụ vận tải tại Lưu Lê, quý khách có thể hoàn toàn an tâm tin tưởng, bởi chúng tôi cam kết:": {
+      "en": "When using transportation services at Liu, you can be perfectly secure, because we pledge:",
+      "zh": "在刘家使用交通服务时,你可以完全安全,因为我们保证:"
+    },
+    "Khách hàng sử dụng dịch vụ vận tải của Lưu Lê sẽ được đảm bảo phục vụ theo đúng quy trình đầy đủ, chuyên nghiệp. Đây không chỉ là sự hoàn thiện trong dịch vụ mà còn thể hiện trách nhiệm của vận tải Lưu Lê tới từng vị khách hàng. Mọi khách hàng đều cảm thấy an tâm hơn với quy trình đón tiếp, phục vụ khách hàng đầy đủ này.": {
+      "en": "Guests using Liu La's transportation services will be guaranteed to serve in full, professional procedure. This was not only the completion of the service but also the responsibility of transport Liu Liu to each customer. Every customer feels more secure with the reception process, serving this full customer.",
+      "zh": "使用刘拉交通服务的客人,保证按全程,专业程序提供服务. 这不仅是服务完成,而且是将刘刘运送给每个客户的责任. 每个客户对接收过程感到更加安全,为这个完整的客户服务."
+    },
+    "Khí hậu Đắk Lắk được chia làm hai tiểu vùng khá khác biệt đó là vùng Tây Bắc với khí hậu khô hanh, nắng nóng, vùng phía Nam lại có khí hậu mát mẻ, ôn hoà vô cùng. Địa hình của Đắk Lắk khá đa dạng, là cao nguyên rộng lớn với địa hình dốc thoải, khá bằng phẳng được xen kẽ với các khu vực đồng bằng thấp.": {
+      "en": "The climate is divided into two rather different substrates that are the Northwest with the dry, sunny climate, the southern region with a cool, mild climate. The terrain of the Rárk Lörk is quite diverse, is that the vast plateau with its comfortable steep terrain, quite flatly interlocked with low plain areas.",
+      "zh": "气候分为两个相当不同的亚基,即西北地区气候干燥,阳光明媚,南部地区气候凉爽温和. 拉克勒克河的地形相当多样,是幅员辽阔的高原,地势舒适陡峭,相当平坦,平原面积低."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lợi ích khách hàng nhận được khi chuyển hàng từ Hà Nội đi Đắk Lắk": {
+      "en": "The customer benefit received when moving from Hanoi to the GREW LEWK",
+      "zh": "从河内迁至GREW LEWK时获得的客户利益"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhân viên hỗ trợ tận tâm, nhiệt tình và có chuyên môn.": {
+      "en": "Decent, enthusiastic, and professional support staff.",
+      "zh": "体面、热情和专业的支持人员。"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phía Bắc giáp tỉnh Gia Lai.": {
+      "en": "North bordering Gi Lai Province.",
+      "zh": "北接吉莱省."
+    },
+    "Phía Nam giáp Lâm Đồng và Đắk Nông.": {
+      "en": "South of Steel and Peking.",
+      "zh": "钢铁北京南."
+    },
+    "Phía Tây giáp Campuchia.": {
+      "en": "West bordering Cambodia.",
+      "zh": "西与柬埔寨接壤."
+    },
+    "Phía Đông giáp Phú Yên và Khánh Hoà.": {
+      "en": "East bordering Fuji Guo and Hong Kong.",
+      "zh": "东邻富士郭和香港."
+    },
+    "Quy trình dịch vụ chuyển hàng Hà Nội Đắk Lắk": {
+      "en": "\"Channel Transportation Protocol\".",
+      "zh": "\"运河运输协议\"."
+    },
+    "Sử dụng dịch vụ vận chuyển hàng từ Hà Nội đi Đắk Lắk bạn sẽ nhận được nhiều lợi ích vượt trội.": {
+      "en": "Using the shipping service from Hanoi, go to the LEWK, you will receive far more benefits.",
+      "zh": "利用河内来的航运服务 去LEWK, 你会得到更多的好处。"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo thông tin chia sẻ từ Google Map, quãng đường từ Hà Nội đi Đắk Lắk rơi vào khoảng 1.200km - 1.500km, tuỳ thuộc vào tuyến đường, địa điểm muốn di chuyển tới cụ thể là ở đâu. Thời gian lái xe cho chặng đường này khoảng 27 giờ đồng hồ.": {
+      "en": "According to shared information from Google Map, the distance from Hanoi to the Dádik Lörk fell at about 1,200 km - 1,500 km (3,500 km), depending on the route, where to move to specifically. The driving time for this journey was around 27 hours.",
+      "zh": "根据Google Map的共享信息,河内至Dádik Lörk的距离下降约1,200公里至1,500公里(3,500公里),取决于路线,具体迁移到哪里. 这次旅程的驾驶时间约为27小时."
+    },
+    "Thông tin dịch vụ rõ ràng, quy trình nghiệp vụ đầy đủ đạt chuẩn.": {
+      "en": "The service information is clear, the full professional process is met.",
+      "zh": "服务信息清晰,全专业流程完成."
+    },
+    "Thời gian vận chuyển, gửi hàng hàng từ Hà Nội – Đắk Lắk là bao lâu?": {
+      "en": "Transport time, delivery from Hanoi – How long does that take?",
+      "zh": "交通时间,河内快递 — — 这需要多长时间?"
+    },
+    "Tiềm năng phát triển du lịch tại Đắk Lắk cũng rất lớn nhờ đặc điểm vị trí địa lý cùng bề dày lịch sử văn hoá. Nhu cầu vận chuyển hàng giữa Hà Nội và Đắk Lắk vì thế cũng gia tăng nhộn nhịp hơn.": {
+      "en": "The potential to develop tourism at the Dárk Lörk is also large thanks to its geographical location specification and the thickness of cultural history. The demand for transportation between Hanoi and the Rák Lörk thus increased the excitement.",
+      "zh": "发展达尔克勒克旅游的潜力也很大,因为它的地理位置规格和文化历史的厚厚. 因此,河内和Rák Lörk之间的交通需求增加了兴奋。"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tỉnh Đắk Lắk nằm ở khu vực Trung tâm của Tây Nguyên, với tổng diện tích hơn 13.125 km2 với độ cao trung bình 400 - 800m so vói mực nước biển. Về vị trí địa lý của Đắk Lắk cụ thể:": {
+      "en": "The province of Lörk is located in the central area of the West Plain, with a total area of more than 13.25 km2 with an average elevation of 400 - 800 m above sea level. About the geographical location of the GREW LEWK specific:",
+      "zh": "洛克省位于西平原中部,总面积13.25平方公里以上,平均海拔400-800米. 关于GREW LEWK具体地理位置:"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "bạn sẽ hoàn toàn yên tâm giao trọn trách nhiệm cho chúng tôi. Đã đồng hành cùng với khách hàng cá nhân, doanh nghiệp trên 10 năm nên Lưu Lê tự tin mang tới cho khách hàng trải nghiệm tuyệt vời nhất. Liên hệ hotline": {
+      "en": "If you do, you'll be completely secure in your trust. Having been traveling with private customers, business over 10 years, Liu Levi confidently brought his customers the greatest experience. Hotline Contact",
+      "zh": "如果你这样做,你会完全安全 你的信任。 与私人顾客旅行,经商超过10年,刘列维自信地为顾客带来了最伟大的经验. 热线联系人"
+    },
+    "chuyên nghiệp uy tín nhất bạn nhé!": {
+      "en": "You're the most prestigious professional!",
+      "zh": "你是最有声望的专业人士!"
+    },
+    "dịch vụ gửi hàng Hà Nội Đắk Lắk": {
+      "en": "Archived Hanuuuuuure Lörk",
+      "zh": "存档的哈努乌鲁尔·勒克"
+    },
+    "gửi hàng Hà Nội Đắk Lắk": {
+      "en": "Send me the XIVK LEWK",
+      "zh": "给我十四号"
+    },
+    "hoặc truy cập": {
+      "en": "or access",
+      "zh": "或访问"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển": {
+      "en": "Transportation",
+      "zh": "运输"
+    },
+    "website của Lưu Lê": {
+      "en": "Liu's website",
+      "zh": "刘'网站"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đáp ứng nhu cầu vận chuyển hàng hoá trong nước, hiện nay phổ biến với 3 hình thức vận chuyển hàng hoá đó là đường hàng không, đường bộ và đường sắt. Dịch vụ vận chuyển hàng từ Hà Nội đi Đắk Lắk bằng đường bộ khá phổ biến, nó phù hợp di chuyển tới tất cả các tỉnh thành với tính linh động cao.": {
+      "en": "Meeting the demand for domestic freight, it is now popular with three forms of freight transport that are airways, road and railroads. The shipping services from Hanoi travel to Dárk Lörnak by road are quite common, it fits to move all the provinces into high flexibility.",
+      "zh": "满足国内货运需求,目前流行于三种形式的货运,即航空道,公路和铁路. 从河内经陆路前往达尔克洛尔纳克的航运服务相当普遍,它适合将所有省份都引入高度灵活性。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đường sắt phù hợp với các chuyến hàng lớn, chi phí vận chuyển rẻ, đảm bảo chất lượng hàng hoá. Đường bay đáp ứng nhu cầu gấp gáp, hoả tốc của các loại hàng hoá. Các loại giấy tờ được yêu cầu chuyển phát hoả tốc, hoa tươi cũng được chuyển bằng đường hàng không.": {
+      "en": "Railways are consistent with major shipments, cost of cheap transport, secure quality of goods. The flight line meets urgent demand, speed of goods. Papers were required to transmit the express, fresh flowers were also transferred by air.",
+      "zh": "铁路与大宗货运一致,运输成本低廉,货物质量安全. 飞行线满足紧急需求,货物速度. 需要文件来传送快递,鲜花也通过空气传送."
+    },
+    "Đầu tiên, khách hàng liên hệ trực tiếp với đội ngũ của Lưu Lê sẽ được tiếp nhận yêu cầu. Các yêu cầu chuyển hàng đặc biệt như thế nào, hoặc có thắc mắc sẽ được tư vấn chi tiết về dịch vụ để chốt phương án.": {
+      "en": "First, the customer directly related to Liu Liu's team will receive the request. How special delivery requests are, or there are questions that will be advised in detail about service to block the plan.",
+      "zh": "一,与刘 Liu团队有直接关系的客户会收到申请. 特别交付请求是如何提出的,或者有些问题将详细告知如何提供服务来阻止计划。"
+    },
+    "Để có được thông tin sát sao nhất phục vụ công việc của mình bạn nên liên hệ trực tiếp đơn vị vận tải. Theo đó bạn sẽ được tư vấn và hỗ trợ thông tin chuyến hàng đầy đủ nhất.": {
+      "en": "To get the closest information to serving your work, you should contact the transport unit directly. That way you'll be consulting and supporting the most complete shipment information.",
+      "zh": "要获取服务您工作的最详细信息,应当直接联系交通运输单位. 这样你就可以 咨询和支持最完整的货运信息。"
+    },
+    "Đối với hàng hoá nhận hàng tận nơi gửi, khách hàng sẽ để lại thông tin lấy hàng, nhân viên điều phối tiến hành gọi điện xác minh thông tin lấy hàng. Nhân viên đến trực tiếp địa điểm đã được cung cấp, kiểm tra, phân loại một cách phù hợp nhất. Sau đó hàng hoá sẽ được đưa về nơi tập kết, đưa ra ga để bốc lên tàu/xe di chuyển.": {
+      "en": "For the goods receiving from the deposit site, the customer will leave behind information to pick up the goods, the executives making phone calls to verify the acquisition of information. The staff who arrived directly at the site was provided, checked, best classified. The goods will then be taken back to the rally site, given to the station in order to mount the ship/cars moving.",
+      "zh": "对于从存款站接收的货物,客户会留下信息来取货,高管会打电话核实信息的获取情况. 向直接抵达现场的工作人员提供了最佳的分类、检查和检查。 货物随后将运回集会地点,交给车站,以便搭载行驶的船只/汽车。"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được tư vấn, báo giá, hỗ trợ tốt nhất bạn nhé!": {
+      "en": "To be advised, to give you a price, your best support!",
+      "zh": "被劝告,给与贵贱,最好的支持!"
+    },
+    "► Hình thức vận chuyển từ Hà Nội đi Đắk Lắk": {
+      "en": "The transport form from Hanoi goes to the NORTH LEWK",
+      "zh": "从河内到北LEWK的运输方式"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

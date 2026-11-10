@@ -1,18 +1,19 @@
 {
-  "crawl_failures": 2,
-  "discovered_public_urls": 982,
+  "crawl_failures": 0,
+  "discovered_public_urls": 948,
   "engine": "Argos Translate (free offline open source)",
-  "generated_at": "2026-11-09T13:30:38.209306+00:00",
+  "generated_at": "2026-11-10T08:28:57.100820+00:00",
   "note": "Public Haravan text only; translations are machine-generated and require editorial review. Image text and external apps excluded.",
-  "pages_pending": 132,
-  "pages_published": 720,
-  "pages_seen": 852,
+  "pages_pending": 127,
+  "pages_published": 429,
+  "pages_seen": 450,
+  "published_pack_files_total": 821,
   "required_pages_found": [
     "/pages/tra-cuu-gia-cuoc-van-chuyen"
   ],
   "site": "https://vantailuule.vn",
   "site_coverage_complete": false,
-  "uncrawled_public_urls": 128,
-  "unique_public_texts": 41621,
+  "uncrawled_public_urls": 498,
+  "unique_public_texts": 27330,
   "version": 3
 }

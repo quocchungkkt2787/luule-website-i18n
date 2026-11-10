@@ -1,0 +1,894 @@
+{
+  "route": "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-hau-giang",
+  "texts": {
+    "* Lưu ý:": {
+      "en": "* Note:",
+      "zh": "* 说明:"
+    },
+    ", Lưu Lê sẵn sàng tư vấn và hỗ trợ bạn mọi lúc!": {
+      "en": "Liu Bei is ready to advise and assist you at all times!",
+      "zh": "刘备随时奉劝协助!"
+    },
+    "1000đ/kg": {
+      "en": "1000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "20 Tháng 12 2021": {
+      "en": "20 December 2021",
+      "zh": "2021年12月20日 (中文(简体) )."
+    },
+    "330.000đ/m3": {
+      "en": "3DD/m3",
+      "zh": "3DD/立方米"
+    },
+    "350.000đ/m3": {
+      "en": "350,000 x/m3",
+      "zh": "350 000x/立方米"
+    },
+    "900đ/kg": {
+      "en": "900 mph/kg",
+      "zh": "900 毫克/千克"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách Hà Nội - Hậu Giang": {
+      "en": "A map of Hanoi's distance",
+      "zh": "河内距离地图"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Cánh đồng khóm Cầu Đúc,...": {
+      "en": "It's a tough field.",
+      "zh": "坚固田地."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty TNHH Vận tải Lưu Lê là đơn vị chuyên cung cấp dịch vụ vận chuyển hàng hóa đường sắt đã có kinh nghiệm lâu năm trong ngành. Lưu Lê luôn là cái tên nhận được sự ưu ái của khách hàng mỗi khi phát sinh nhu cầu bởi chúng tôi luôn cam kết phục vụ bạn từ cái “tâm”.": {
+      "en": "Liu Transportation Company is the division that provides rail freight services that have had long experience in the industry. Liu Li has always been the name that receives the favor of customers whenever a need arises because we are always committed to serving you from the “concerning spirit.",
+      "zh": "刘运公司是提供行业经验悠久的铁路货运服务的部门. 刘力一向在有需要时会得到顾客的青睐,因为我们始终致力于从“关心的精神”为你们服务。"
+    },
+    "Công viên Xà No.": {
+      "en": "Snake Park No.",
+      "zh": "蛇公园号."
+    },
+    "Cước phí rẻ nhất trong tất cả các hình thức vận chuyển.": {
+      "en": "The cheapest fee in all form of transport.",
+      "zh": "最便宜的交通费"
+    },
+    "Cụ thể, quy trình vận chuyển hàng hóa từ Hà Nội đi Hậu Giang tại Lưu Lê được diễn ra như sau:": {
+      "en": "In particular, the delivery process from Hanoi to Empress Jiang at Liu Li is as follows:",
+      "zh": "特别是从河内到刘李的江太后送货的过程如下:"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng từ Hà Nội đi Hậu Giang giá rẻ": {
+      "en": "The shipping service from Hanoi goes to Miss Jiang cheap",
+      "zh": "从河内到江小姐的航运服务很便宜"
+    },
+    "Dịch vụ vận chuyển hàng từ Hà Nội đi Hậu Giang uy tín kèm bảng giá": {
+      "en": "The shipping service from Hanoi went to the prestigious Empress Jiang with the price.",
+      "zh": "从河内出发的船运服务 带着价格来到了著名的江太后那里"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội Đồng Tháp": {
+      "en": "Send the House of Commons",
+      "zh": "派下议院去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hy vọng với những thông tin chi tiết về": {
+      "en": "Hope with detailed information about",
+      "zh": "希望有详细信息"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hà Nội - Hậu Giang": {
+      "en": "Hanheang",
+      "zh": "汉香"
+    },
+    "Hà Nội - Hậu Giang là một trong những tuyến vận chuyển hàng quan trọng được nhiều khách hàng quan tâm. Do quãng đường khá xa nên việc chọn đơn vị chuyển hàng uy tín đóng vai trò quan trọng hơn cả. Vậy đâu là đơn vị cung cấp": {
+      "en": "Hanhuang is one of the important freight routes that many customers care about. Due to the distance, choosing the prestigious shipping unit played a more important role. So what's the supply unit?",
+      "zh": "汉口是许多顾客关心的重要货运路线之一. 由于距离遥远,选择有声望的航运单位发挥了更重要的作用. 补给单位是什么?"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nặng": {
+      "en": "Heavy Row",
+      "zh": "重行"
+    },
+    "Hình thức này ít bị ảnh hưởng bởi thời tiết.": {
+      "en": "This form is less affected by the weather.",
+      "zh": "这种形式受天气影响较小."
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hậu Giang - Hà Nội": {
+      "en": "Miss Jiang - Interior",
+      "zh": "江小姐 - 内务"
+    },
+    "Hậu Giang có nền kinh tế khá phát triển vì vậy nhu cầu vận chuyển hàng hóa giữa Hà Nội và Hậu Giang không phải là nhỏ. Nắm bắt cơ hội này, nhiều đơn vị vận tải đã khai thác hiệu quả tuyến vận chuyển này bằng cách đưa vào đa dạng hình thức chuyển hàng khác nhau cho bạn lựa chọn. Phổ biến nhất chính là vận chuyển hàng từ Hà Nội đi Hậu Giang bằng đường sắt.": {
+      "en": "Empress Jiang has a fairly developed economy so the demand for freight between Hanoi and Empress Jiang is not small. Taking this opportunity, many of the shipping units have successfully exploited this transport gland by putting into diverse form of freight for you to choose. The most recent is the transport from Hanoi to the Empress Jiang by railway.",
+      "zh": "江太后的经济相当发达 所以河内和江太后之间的货运需求并不小 利用这一机会,许多运输单位成功地开发了这种运输腺,为你们选择了多种形式的货运。 最近的一次是从河内到江太后的铁路运输."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi nhận được hàng, bạn có quyền kiểm tra xem hàng hóa có hư hỏng hay thất thoát gì không. Nếu không có vấn đề, Lưu Lê sẽ bàn giao lại giấy tờ và nghiệm thu.": {
+      "en": "When you get the goods, you have the right to check if the goods are damaged or lost. If there's no trouble, Liu Liu will hand over the papers and the recording experiment.",
+      "zh": "取得货物后,有权检查货物是否损坏或者丢失. 如果没有麻烦,刘刘会交出论文和录音实验."
+    },
+    "Khi vận chuyển hàng hóa, thời gian sẽ lâu hơn so với vận chuyển người vì các đơn vị vận tải cần có thời gian kiểm tra, đóng gói, chuyển hàng,...chuyên nghiệp và đồng bộ để bưu kiện đến tay người nhận nguyên vẹn.": {
+      "en": "When transporting goods, time is longer than human transport because transportation units need time to check, package, transport,... professional and synchronised to send the package to the recipient in one piece.",
+      "zh": "在运送货物时,时间比载人运输要长,因为运输单位需要时间检查,包装,运输,. 专业和同步将包裹一并发送给接收者."
+    },
+    "Khi đơn hàng gần đến địa điểm nhận, Lưu Lê sẽ báo trước nửa ngày hoặc vài tiếng để người nhận chủ động hơn trong thời gian nhận hàng.": {
+      "en": "When the order is nearing the destination, Liu Bei will foretell a half-day or a few hours for the receiver to take the initiative in the receiving time.",
+      "zh": "当订单接近目的地时,刘备会提前半天或几个小时让接收者在接收时间主动."
+    },
+    "Khi đến với Hậu Giang bạn nhất định phải ghé thăm những địa danh nổi bật sau đây để cảm nhận được nét hoang sơ và huyền bí của miền đất nơi đây nhé!": {
+      "en": "When you reach Empress Jiang, you must visit the following prominent places to feel the wilderness and mystery of the land!",
+      "zh": "到了江太后,一定要到以下重要地方去感受这片土地的荒野和神秘!"
+    },
+    "Khu Di tích chiến thắng Chương Thiện – Vị Thanh.": {
+      "en": "The Heritage Area wins Chapter Goods – Qing.",
+      "zh": "遗产区胜章货物 – 清."
+    },
+    "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng.": {
+      "en": "The Lung Jade Natural Reserve.",
+      "zh": "龙玉自然保护区."
+    },
+    "Khu du lịch Phú Hữu.": {
+      "en": "Funky Tour Area.",
+      "zh": "Funky旅游区."
+    },
+    "Không chỉ cung cấp dịch vụ vận chuyển chất lượng với mức giá phải chăng mà Lưu Lê còn cam kết bạn sẽ có những trải nghiệm tuyệt vời vì nhân viên và quy trình làm việc của chúng tôi luôn được đánh giá là chuyên nghiệp và đồng bộ.": {
+      "en": "Not only does it provide quality transportation services at the right price but Liu Li assures you that you will have wonderful experiences because our employees and work processes are always rated as professional and co-operate.",
+      "zh": "它不仅以正确的价格提供优质的交通服务,而且刘力也向大家保证,你们将会有精彩的经验,因为我们的员工和工作流程总是被评为专业合作."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Là 1 tỉnh thuộc Đồng bằng sông Cửu Long, giống như các tỉnh thành Nam Bộ khác Hậu Giang cũng mang trong mình những nét đặc trưng của vùng sông nước miệt vườn.": {
+      "en": "It is a province of the Plains of the Nine Rivers, like the other southern provinces of the Empress Jiang that also bears the features of the watery waters.",
+      "zh": "是九江平原的一个省,和江太后的其他南部省份一样,也带有水利的特征."
+    },
+    "Lưu Lê sẽ tiếp nhận yêu cầu gửi hàng qua bạn qua các kênh thông tin và tiến hành tư vấn, giới thiệu những gói vận chuyển hàng Hà Nội - Hậu Giang phù hợp nhất.": {
+      "en": "Liu Liu will receive orders to send through you via information channels and conduct consultations, introducing the shipping packages of Hanoi - Empress Jiang that fit best.",
+      "zh": "刘刘将接到命令,通过信息渠道通过你发送,并进行咨询,介绍河内——江太后最合身的货运包."
+    },
+    "Lưu Lê sẽ xác nhận lại đơn hàng cho bạn 1 lần nữa để đảm bảo tính chính xác trước khi vận chuyển.": {
+      "en": "Liu La will confirm the order for you again to ensure accuracy before transport.",
+      "zh": "刘拉将再次确认命令,保证运输前的准确性."
+    },
+    "Lưu Lê tiến hành vận chuyển hàng. Bạn có thể theo dõi và cập nhật đơn hàng của mình bằng cách liên hệ tới vận tải Lưu Lê.": {
+      "en": "Liu Li conducts transport. You can track and update your orders by relating to Liu Li transport.",
+      "zh": "刘力主持运输. 你可以通过与刘力运输有关的方式追踪和更新你的订单."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Như đã đề cập, Vận tải Lưu Lê không chỉ cam kết mang đến cho bạn quy trình vận chuyển chuyên nghiệp và đồng bộ mà còn đảm bảo cước phí gửi hàng tuyến Hà Nội - Hậu Giang cạnh tranh nhất thị trường. Chi tiết bảng báo giá chuyển hàng đường sắt Hà Nội Hậu Giang tại Lưu Lê như sau:": {
+      "en": "As mentioned, Liu Li Transport not only pledges to bring you professional transport and synchronization processes but also ensures the expense of sending Hanoi Line - the most competitive Empress Jiang market. Details the price of the shipping of Hanoi Railway at Liu Li as follows:",
+      "zh": "如前所述,刘力运输不仅保证会给你们带来专业的运输和同步过程,而且还保证了送出河内线——最有竞争力的江太后市场——的费用. 将河内铁路在刘力的运价详列如下:"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu khách hàng đồng ý với mức giá đặt ra và những điều khoản vận chuyển kèm theo, Lưu Lê sẽ soạn thảo hợp đồng, gửi giám đốc ký tên và có đóng dấu gửi đến khách hàng để đảm bảo quyền cũng như nghĩa vụ giữa 2 bên.": {
+      "en": "If the customer agrees with the price set and the shipping terms accompanying, Liu Liu will draft the contract, send the director the signature and the stamp sent to the customer to secure the rights and obligations between the two parties.",
+      "zh": "如果客户同意套价和配套的航运条件,刘刘将起草合同,将签章和印章送交客户,以保证双方的权利义务."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình vận chuyển hàng hóa Bắc Nam - Hà Nội Hậu Giang": {
+      "en": "North-Korean freight process",
+      "zh": "北韩货运过程"
+    },
+    "Sau khi thu thập đầy đủ thông tin, Lưu Lê sẽ tiến hành báo giá vận chuyển chi tiết. Lưu ý đây là mức giá trọn gói, công khai, minh bạch; không phát sinh các chi phí ngoài trừ trường hợp bất khả kháng.": {
+      "en": "After fully collected information, Liu Bei will proceed with the detailed shipping price. Note this is the package price, public, transparent; does not raise the costs except in case of resistance.",
+      "zh": "在充分收集信息后,刘备将着手办理详细运价. 请注意,这是包价,公开,透明;除遇到阻力外,不提高成本."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps, Hậu Giang cách thành phố Hồ Chí Minh khoảng 200km và cách Hà Nội 1900km đường bộ. Bạn sẽ mất khoảng 38h đi xe ô tô để đến được Hậu Giang, mất 2 - 3h bay để đến sân bay Cần Thơ hoặc Sài Gòn rồi di chuyển bằng ô tô đến Hậu Giang. Ngoài ra bạn cũng có thể chọn di chuyển bằng đường sắt nếu muốn có những trải nghiệm đặc biệt hơn.": {
+      "en": "According to Google Maps' instructions, Empress Jiang is approximately 200 km (200 km) from the city of Ho Chi Minh and is about 1900 km (200 km) from Hanoi. It'll take you about 38 hours to get to Empress Jiang, it'll take two or three hours to get to the airport or Saigon and then move by car to Miss Jiang. You can also choose to travel by rail if you want to have more special experiences.",
+      "zh": "根据Google Maps的指示,江太后距离胡志明市约200公里(200公里),距离河内约1900公里(200公里). 到江太后要花大约38小时,到机场或西贡要花两三个小时,然后乘车到江小姐那里. 如果想获得更多的特殊经验,也可以选择乘坐铁路."
+    },
+    "Thời gian vận chuyển hàng bằng đường sắt đảm bảo chính xác như thỏa thuận.": {
+      "en": "The time for transport by railway guarantees exactly as agreed.",
+      "zh": "铁路保证运输时间与约定完全一致."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trước khi tìm hiểu chi tiết dịch vụ vận chuyển hàng Hà Nội Hậu Giang, bạn nên trang bị những kiến thức cơ bản về quãng đường cũng như thời gian di chuyển để lựa chọn cho mình hình thức chuyển hàng phù hợp nhất về cả cước phí và chất lượng dịch vụ nhé!": {
+      "en": "Before you know the details of Hanheang's shipping services, you should be equipped with basic knowledge of the distance as well as travel time to select for yourself the most suitable delivery form of both the fees and the quality of services!",
+      "zh": "在知道汉香航运服务的细节之前,应当具备距离和旅行时间的基本知识,为自己选择收费和服务质量最合适的交付形式!"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy vào từng loại mặt hàng và địa điểm nhận, giá cước vận chuyển sẽ có sự thay đổi. Để được báo giá chính xác bạn vui lòng liên hệ tới số hotline": {
+      "en": "Depending on the type of goods and places received, the price of transportation will change. For the exact price you please refer to number hotline",
+      "zh": "根据收到的货物种类和地点,运输价格将发生变化。 关于具体价格,请参见电话号码热线"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại sao đường sắt lại là hình thức vận chuyển được nhiều khách hàng tin tưởng và sử dụng đến vậy?": {
+      "en": "Why is the railroad such a trusted and used form of transportation?",
+      "zh": "为什么铁路如此值得信任和使用?"
+    },
+    "Từ Hà Nội đi Hậu Giang bao nhiêu km? Mất thời gian bao lâu?": {
+      "en": "How many kilometers from Hanoi? How long will it take?",
+      "zh": "离河内几公里? 需要多长时间?"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận chuyển được đa dạng mặt hàng từ nhỏ lẻ đến hàng siêu trường siêu trọng, hàng cồng kềnh,...": {
+      "en": "Transportation is varied from small to super-vigilantes, 650/6s,...",
+      "zh": "交通工具从小到超强 650/6s..."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Với những loại hàng hóa cồng kềnh hay siêu cường, siêu trọng, hàng có giá trị cáo, hàng dễ vỡ... Lưu Lê sẽ tiến hành khảo sát trước để tư vấn cho bạn những gói dịch vụ phù hợp.": {
+      "en": "With the goods of Melanthius or superpowers, superservatives, fox-valued goods, fragile goods... Liu La will proceed with the advance survey to advise you with suitable services packages.",
+      "zh": "拥有梅兰修斯或超级大国的商品,超级保守主义者,狐狸价值商品,脆弱的商品...... 刘拉将进行预先调查,为您提供合适的成套服务。"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "dịch vụ chuyển hàng từ Hà Nội đi Hậu Giang": {
+      "en": "The delivery service from Hanoi goes to Miss Jiang",
+      "zh": "从河内送货到江小姐"
+    },
+    "dịch vụ gửi hàng Hà Nội Hậu Giang": {
+      "en": "Hanheang delivery service",
+      "zh": "汉香送货服务"
+    },
+    "nhanh chóng và chất lượng nhất? Cùng Vận tải Lưu Lê tìm hiểu chi tiết qua bài dưới đây nhé!": {
+      "en": "Fastest and most quality? Let's look into the following article",
+      "zh": "最快而且质量最高? 我们来研究下一篇"
+    },
+    "trên đây sẽ giúp bạn có những trải nghiệm tuyệt vời nhất!": {
+      "en": "Up here will help you have the best experiences ever!",
+      "zh": "在这里会帮助你获得有史以来最好的体验!"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về Hậu Giang - Lá phổi xanh của Đồng bằng sông Cửu Long": {
+      "en": "Bits of Empress Jiang - Green lung of the Plains of the Nine Dragon River",
+      "zh": "江太后之位——九龙江平原绿肺"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đặc biệt, nếu bạn chọn dịch vụ vận chuyển hàng đường sắt tại Lưu Lê những tiện ích bạn nhận được còn nhiều hơn thế.": {
+      "en": "In particular, if you choose the railway freight service at Liu, the utility you receive is more than that.",
+      "zh": "特别是,如果选择在刘的铁路货运服务,你得到的公用事业就不止于此."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Ở Hậu Giang có một sức hút kỳ lạ khiến nhiều du khách có cơ hội được đặt chân đến đây đều ấn tượng sâu sắc. Đó là sự hoang sơ, mộc mạc của những cánh đồng bát ngát; là hệ thống kênh rạch nặng tình phù sa; là nhịp sống chậm rãi và sự hiếu khách của người dân địa phương. Tất cả khiến Hậu Giang đẹp dịu dàng và “tình” đến lạ trong mắt du khách ghé thăm.": {
+      "en": "In Empress Jiang there is a strange appeal that gives many visitors the opportunity to come here both deeply impressed. It is the wilderness, the plain of the diocese fields; it is the heavy lyrical canal system; it is the slow pace of life and hospitality of the local people. All that made Miss Jiang so beautiful and “was strange in the eyes of visitors.",
+      "zh": "江太后有一个奇怪的呼吁 使许多游客有机会来到这里 都给人深刻印象 是旷野,是教区田野平原;是重水渠系统;是当地人民生活和款待的缓慢步伐. 让蒋小姐如此美丽,"
+    },
+    "► Bước 1: Tư vấn cho khách hàng": {
+      "en": "‹ Step 1: Consult with the customer",
+      "zh": "第1步:与客户协商"
+    },
+    "► Bước 2: Khảo sát hàng hóa": {
+      "en": "JSTOR 2: Commercial Survey",
+      "zh": "约瑟夫 2: 商业调查"
+    },
+    "► Bước 3: Báo giá vận chuyển trọn gói": {
+      "en": "MINISTRY 3: The shipping price of the package",
+      "zh": "外交部 3:包裹的运输价格"
+    },
+    "► Bước 4: Ký kết hợp đồng": {
+      "en": "JSTOR 4 sign contract.",
+      "zh": "JSTOR 4签合同."
+    },
+    "► Bước 5: Xác nhận đơn hàng": {
+      "en": "Step 5. Confirm the order.",
+      "zh": "第五步 确认命令"
+    },
+    "► Bước 6: Theo dõi và cập nhật đơn hàng cho Qúy khách": {
+      "en": "JSTOR 6: Track and update orders for guests",
+      "zh": "约瑟夫 6: 跟踪和更新客人订单"
+    },
+    "► Bước 7: Báo trước cho Qúy khách thời gian trả hàng": {
+      "en": "1Stress 7th Step: Announce the Timer to Return",
+      "zh": "1 第7步: 宣布返回计时器"
+    },
+    "► Bước 8: Trả hàng và bàn giao giấy tờ": {
+      "en": "← Step 8: Pay and hand over papers",
+      "zh": "* 步骤8:支付和移交文件"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

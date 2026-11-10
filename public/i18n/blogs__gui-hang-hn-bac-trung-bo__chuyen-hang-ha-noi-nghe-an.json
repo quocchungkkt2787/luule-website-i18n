@@ -1,0 +1,890 @@
+{
+  "route": "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-nghe-an",
+  "texts": {
+    "27 Tháng 12 2021": {
+      "en": "27 December 2021",
+      "zh": "2021年12月27日 (中文(简体) )."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bước 1: Lấy thông tin đơn hàng.": {
+      "en": "Step 1: Get the order information.",
+      "zh": "步骤1:获取订单信息."
+    },
+    "Bước 2: Tư vấn khách hàng.": {
+      "en": "Step 2: Consulting the customer.",
+      "zh": "第二步:咨询客户。"
+    },
+    "Bước 3: Khảo sát hàng hóa.": {
+      "en": "Step 3: Commercial Survey.",
+      "zh": "第3步:商业调查。"
+    },
+    "Bước 4: Báo giá vận chuyển chi tiết.": {
+      "en": "Step 4: The Transportation Prices Details.",
+      "zh": "第4步:运输价格细节。"
+    },
+    "Bước 5: Ký hợp đồng.": {
+      "en": "Step 5: Sign the contract.",
+      "zh": "第5步:签合同."
+    },
+    "Bước 6: Xác nhận đơn hàng.": {
+      "en": "Step 6: Confirm the order.",
+      "zh": "第六步 确认命令"
+    },
+    "Bước 7: Theo dõi, cập nhật đơn hàng.": {
+      "en": "Step 7: Track, update.",
+      "zh": "第7步:轨迹,更新."
+    },
+    "Bước 8: Báo trước thời gian hàng đến.": {
+      "en": "Step 8: Premier time comes.",
+      "zh": "步骤8:总理时间到了。"
+    },
+    "Bước 9: Trả hàng, bàn giao giấy tờ.": {
+      "en": "Step 9: Pay, hand over papers.",
+      "zh": "第九步:付,交文书."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách Hà Nội - Nghệ An": {
+      "en": "A map of the Hanoi - Art An distance",
+      "zh": "河内地图-艺术"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các phương thức gửi hàng từ Hà Nội đi Nghệ An": {
+      "en": "The method of delivery from Hanoi to Art An",
+      "zh": "从河内到艺术安的运送方法"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có đến 95% khách hàng hài lòng và 90% đánh giá dịch vụ của Lưu Lê trên 4 sao. Vận tải Lưu Lê luôn ý thức được rằng cần phải cung cấp và phát triển dịch vụ vận chuyển hàng từ tâm. Nghĩa là đảm bảo hàng hóa phải nguyên vẹn đến tận tay người nhận trong thời gian chính xác, cam kết mang đến những trải nghiệm tuyệt vời nhất nhờ quy trình được đóng gói đồng bộ và chuyên nghiệp, v.v...": {
+      "en": "As many as 95% of the customers were satisfied and 90% rated Liu's service on four stars. Liu La transport is always aware of the need to provide and develop shipping services from the center. It means making sure the goods are intact to the receiver's hands for the exact time, committed to bringing the most amazing experiences through co-conservative and professional packing processes, etc.",
+      "zh": "多达95%的顾客满意,90%的评分为刘在四星的服务. 刘拉运始终意识到需要从中心提供和发展航运服务. 这意味着确保货物在准确时间内完整地交给接收者,承诺通过共同的保守和专业的包装流程等带来最惊人的经验."
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước phí cạnh tranh": {
+      "en": "Competitive Cost",
+      "zh": "竞争性费用"
+    },
+    "Cụ thể, vận tải Lưu Lê đã liệt kê ra những lý do bạn nên chọn dịch vụ của chúng tôi thay vì các bên khác, bao gồm như sau:": {
+      "en": "In particular, Liu Levi Transport has listed reasons why you should choose our services rather than the others, including the following:",
+      "zh": "特别是,刘利文运输公司列出了你为何选择我们的服务而不是其他服务的原因,其中包括:"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Dù không phải là điểm đến đầu tiên mà du khách lựa chọn trên bản đồ du lịch Việt Nam. Nhưng thực tế, Nghệ An được thiên nhiên ưu ái ban tặng cho rất nhiều phong cảnh tuyệt đẹp. Một vài địa điểm nổi tiếng phải kể đến là: biển Cửa Lò, đồi chè Thanh Chương, đảo Lan Châu,...": {
+      "en": "Although not the first destination the tourists chose on the Vietnam Tour map. But in fact, Art An is favored by nature for many beautiful landscapes. Some of the best-known venues have to be included: Sea of the Chamber, Qing Hu's Hill, Lanzhou Island,...",
+      "zh": "虽然不是游客在越南旅游地图上选择的第一个目的地. 但事实上,对于许多美丽的景观,艺术安受到自然的青睐. 一些最知名的会场必须包括:会馆海,清胡陵,兰州岛,......"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng Hà Nội đi Nghệ An tại Lưu Lê được thực hiện theo quy trình khép kín, đảm bảo đồng bộ và chuyên nghiệp trong từng khâu. Lưu Lê sẽ tiến hành:": {
+      "en": "The Hanoi shipping service to Art An at Liu La was performed in closed procedures, ensured synchronization and professional in each suture. Liu Li will proceed:",
+      "zh": "河内至Liu La的Art An的航运服务是按封闭程序进行的,确保了每次缝合的同步性和专业性。 刘立将着手:"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giới thiệu Vận tải Lưu Lê - Đơn vị vận chuyển đường sắt uy tín hàng đầu Việt Nam": {
+      "en": "Introducing Media Liu - Vietnam's leading prestigious railway transport unit",
+      "zh": "介绍媒体刘 - 越南著名铁路运输单位."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng từ Hà Nội đi Nghệ An uy tín, chuyên nghiệp": {
+      "en": "Sent from Hanoi to prestigious, professional Arts",
+      "zh": "从河内送到著名专业艺术学院"
+    },
+    "Gửi hàng từ Hà Nội đi Thanh Hóa": {
+      "en": "Send the goods from Hanoi to Qingization",
+      "zh": "把货物从河内送到清化"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi hàng đường bộ": {
+      "en": "Send route lines",
+      "zh": "发送路由线"
+    },
+    "Gửi hàng đường hàng không": {
+      "en": "Send airlines.",
+      "zh": "派航空公司来"
+    },
+    "Gửi hàng đường sắt": {
+      "en": "Send railways",
+      "zh": "发送铁路"
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hiện có 3 phương thức chính để vận chuyển hàng Hà Nội - Nghệ An là:": {
+      "en": "There are three main methods of shipping Hanoi - Art An are:",
+      "zh": "河内航运有三种主要方法——Art An:"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hy vọng những thông tin chi tiết về": {
+      "en": "Hope for detailed information about",
+      "zh": "希望详细了解"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa của bạn sẽ được gửi từ ga Hà Nội đến ga Vinh (Nghệ An) chính xác như thời gian đã cam kết do hình thức vận chuyển này ít bị phụ thuộc nhiều vào thời tiết. Cước phí vận chuyển cực kỳ phải chăng cũng không bị thay đổi nhiều so với các hình thức khác.": {
+      "en": "Your goods will be sent from Hanoi station to the LH station (Daniel An) exactly as time has pledged due to this form of transportation being less dependent on the weather. The cost of transportation was extremely reasonable and not much was changed over other forms.",
+      "zh": "你们的货物将从河内站送到LH站(Daniel An), 运输费用极其合理,没有太多变化。"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hình thức gửi hàng bằng đường bộ được nhiều khách hàng biết đến từ lâu. Với tuyến đường từ Hà Nội đi Nghệ An, bạn có thể lựa chọn chuyển hàng bằng xe tải hoặc xe khách. Mỗi cách thức chuyển sẽ có ưu nhược điểm riêng nhưng tựu trung đều có chi phí khá tiết kiệm, thời gian gửi hàng nhanh chóng và thủ tục gọn nhẹ.": {
+      "en": "The form of road delivery has long been known by many customers. With the route from Hanoi to Art An, you can choose whether to deliver by truck or by car. Each method of moving will have its own strengths but the central achievement has a fairly savings cost, time of rapid delivery and lightweight procedure.",
+      "zh": "许多客户早就知道道路运送的形式。 通过河内至艺术安的路线,可以选择是用卡车还是用汽车运送. 每一种移动方法都有其自身的优点,但中央成果有相当的节省成本、快速交付时间和轻量级程序。"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khoảng cách từ Hà Nội đi Nghệ An bao nhiêu km? Thời gian vận chuyển bao lâu?": {
+      "en": "How many kilometers from Hanoi to Art An? How long was the transport?",
+      "zh": "从河内到艺术安还有几公里? 多久的运输?"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Là một trong những đơn vị đầu tiên phát triển dịch vụ vận chuyển đường sắt chuyên nghiệp, Vận tải Lưu Lê từ khi ra đời đến nay đã nhận được nhiều sự tin tưởng đến từ Quý khách hàng.": {
+      "en": "As one of the first units to develop the professional railway transport service, Liu Li's transport since birth has received much trust from the Customs.",
+      "zh": "作为最早发展专业铁路运输服务的单位之一,刘力自出生以来的运输得到了海关的很大信任."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Mỗi khách hàng lại có những mong muốn và nhu cầu vận chuyển khác nhau. Vì vậy, Lưu Lê đã phát triển nhiều gói dịch vụ vận chuyển hàng Hà Nội Nghệ An cho bạn thoải mái lựa chọn:": {
+      "en": "Each customer has different wishes and needs of transportation. Therefore, Liu Liu has developed several packages of Hanan Art's shipping for you to choose freely:",
+      "zh": "每个客户对运输有不同的愿望和需要。 因此,刘 Liu开发了几套汉南艺术的航运包,供你们自由选择:"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nghệ An là tỉnh thành có vị trí nằm ở phía Bắc miền Trung nước ta. Với diện tích lớn, có cả đường bờ biển dài và thảm thực vật phong phú. Nghệ An có đủ tiềm năng để phát triển thành trung tâm kinh tế, văn hóa và chính trị.": {
+      "en": "Art An is the municipality located in the northern part of our country. With a large area, there are both long coastlines and rich vegetation carpets. Art An has the potential to develop into an economic, cultural, and political center.",
+      "zh": "Art An是位于我国北部的市镇. 面积很大,有漫长的海岸线和丰富的植被地毯. 艺术安有可能发展成为一个经济、文化和政治中心。"
+    },
+    "Ngoài ra, Nghệ An từ trước đến nay đều được biết đến là vùng đất có truyền thống hiếu học, là nơi sản sinh ra nhiều danh nhân lịch sử, nhà khoa bảng, nhà khoa học, nhà văn hóa nổi danh,...Bạn có thể đến Nghệ An để thăm quê hương của Hồ Chí Minh - vị lãnh tụ vĩ đại của dân tộc Việt Nam - nhà yêu nước lớn - anh hùng giải phóng dân tộc.": {
+      "en": "In addition, Art An has always been known as the place of the popular culture, which produces many historical names, tabletsologists, prominent writers,... You can go to Art An to visit Ho Chi Minh's hometown - the great leader of the Vietnamese people - the great patriot - the national emancipation hero.",
+      "zh": "此外,\"艺术安\"一直被称为\"流行文化之地\",它产生了许多历史名称,碑刻学家,著名作家,...... 你可以去艺术安拜访胡志明的家乡——越南人民的伟大领袖——伟大的爱国者——民族解放英雄."
+    },
+    "Ngoài ra, với vận chuyển hàng bằng đường sắt bạn còn thoải mái lựa chọn các gói chuyển hàng khác nhau tùy vào mục đích và nhu cầu. Quý khách hoàn toàn yên tâm chuyển hàng dù số lượng ít hay nhiều thì hình thức này đều đáp ứng được. Thủ tục vận chuyển cũng ngày càng đơn giản hơn tạo sự thuận tiện cho khách hàng sử dụng dịch vụ.": {
+      "en": "Also, with the railway freight you are comfortable selecting different shipments depending on purpose and demand. You are fully secure in carrying, with little or much in it, the form is met. The transport procedure is also increasingly simpler and more convenient for customers to use services.",
+      "zh": "另外,随着铁路货运的到来,你可以根据目的和需求选择不同的货运。 你完全安全地携带, 很少或很多在其中, 表格是满足的。 运输程序也越来越简单,更方便客户使用服务。"
+    },
+    "Nhận rõ những ưu thế về kinh tế của Nghệ An - Vùng đất nổi tiếng với truyền thống hiếu học. Nhiều đơn vị vận tải đã nắm bắt nhu cầu và phát triển đa dạng dịch vụ vận chuyển cho khách hàng lựa chọn. Vậy đâu là đơn vị cung cấp": {
+      "en": "Recognizing the economic advantages of the Art of An - Land is well known for its anthropology tradition. Many transportation units have seized demand and developed diverse transportation services for choice customers. So what's the supply unit?",
+      "zh": "承认\"安艺术——土地\"的经济利益,以人类学传统著称. 许多运输单位抓住了需求,为选择的客户发展了多种运输服务。 补给单位是什么?"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ quy trình vận chuyển chuyên nghiệp đã giúp Lưu Lê tối ưu được thời gian gửi hàng đến mức thấp nhất. Các nhân viên tại Lưu Lê đều rất tận tâm, chuyên nghiệp và dày dặn kinh nghiệm không chỉ đảm bảo hàng hóa của bạn nguyên vẹn mà còn cam kết bưu kiện của bạn sẽ được vận chuyển đúng với thời gian đã giao hẹn.": {
+      "en": "As a result of the professional transport process that enabled Liu to optimize the time to send supplies to the lowest extent. The staff at Liu Liu are all very dedicated, professional and experienced not only ensure your goods intact but also pledge your parcel will be delivered in time of appointment.",
+      "zh": "由于专业运输流程,使刘能优化时间,将物资发送到最低程度. 刘刘的职员都非常敬业,很专业,经验丰富,不仅确保了你们的货物完好无损,而且保证你们的包裹会在任用时交付."
+    },
+    "Những lý do bạn nên chọn Vận tải Lưu Lê là gì?": {
+      "en": "What are the reasons why you should choose Liu Transport?",
+      "zh": "你选刘运有何理由?"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Nếu bạn mong muốn tìm kiếm một dịch vụ vận chuyển tiện lợi và tiết kiệm chi phí thì hình thức chuyển hàng Hà Nội - Nghệ An bằng đường sắt chính là giải pháp tối ưu nhất.": {
+      "en": "If you're looking for a utility and cost-saving service, the form of shipping Hanoi - Art An by rail is the best solution.",
+      "zh": "寻找公用和节省成本的服务,河内航运的形式——铁路的Art An是最好的解决方案."
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo chỉ dẫn của Google Maps thì khoảng cách từ Hà Nội đến Nghệ An không quá xa. Chỉ 332 km nếu đi theo tuyến quốc lộ 1A, khoảng 326 km nếu đi theo đường cao tốc Hà Nội - Ninh Bình và khoảng 319 km nếu đi theo đường mòn Hồ Chí Minh.": {
+      "en": "According to Google Maps, the distance from Hanoi to Art An is not too far. Only 332 km if followed Route 1A, about 326 km if followed the Hanoi - Ninhang Highway and about 319 km if followed the Ho Chi Minh Trail.",
+      "zh": "根据谷歌地图,从河内到艺术安的距离并不太远. 沿1A国道仅332公里,沿河内-宁杭高速公路约326公里,沿胡志明道约319公里."
+    },
+    "Thời gian vận chuyển hàng hóa sẽ lâu hơn so với thời gian vận chuyển người vì các đơn vị vận tải còn thực hiện nhiều khâu để đảm bảo bưu kiện của bạn được chuyển đi chính xác và nguyên vẹn.": {
+      "en": "The delivery time will be longer than the human transport time as transport units perform many stitches to ensure that your delivery is properly and intact.",
+      "zh": "运送时间将比载人运输时间长,因为运输单位会进行许多缝合,以确保你的运送是适当和完好的."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong trường hợp sơ sót, hàng hóa của bạn bị thất lạc hay hư hỏng. Vận tải Lưu Lê sẵn sàng bồi thường 100% và có những chính sách bồi hoàn khác rõ ràng hơn cho từng đối tượng.": {
+      "en": "In the event of a mistake, your cargo is lost or damaged. Liu's transport is willing to compensate 100% and there are more paid compensation policies for each object.",
+      "zh": "遇有错误,您的货物丢失或损坏. 刘公运愿意百分之百补偿,对每个对象都有较多的支付补偿政策."
+    },
+    "Trong đó, gói dịch vụ chuyển hàng từ kho đến kho là sự lựa chọn hoàn hảo nhất được đông đảo khách hàng tin tưởng sử dụng. Với gói dịch vụ này, bạn chẳng cần mất thời gian công sức đi đâu, sẽ có nhân viên của Lưu Lê đến lấy hàng tận nơi và giao tận tay đến người nhận.": {
+      "en": "In it, the delivery package from the depot to the depot is the most perfect choice ever used by many clients. With this package of services, you don't need to spend any time away, you'll have Liu's staff pick up the goods and deliver them to the receiver.",
+      "zh": "在其中,从仓库到仓库的包裹是许多客户有史以来最完美的选择. 凭着这一套服务,你不用费时间,就让刘员外去取货,交给接收人."
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên, với những đơn hàng lớn thì chi phí chuyển hàng bằng đường bộ sẽ bị đẩy lên rất cao vì vậy bạn nên cân nhắc khi lựa chọn nhé!": {
+      "en": "However, with the big order, the road delivery costs will be pushed up very high so you should consider when you choose!",
+      "zh": "然而,由于大订单,道路运送成本会被抬高很多,所以你应该考虑何时选择!"
+    },
+    "Tuyến bay thẳng từ Hà Nội đi Nghệ An đã tạo điều kiện cho hình thức vận chuyển hàng bằng đường hàng không có cơ hội phát triển. Hình thức này phù hợp cho những đơn tài liệu, giấy tờ, thư từ quan trọng cần gửi gấp. Chi phí cao nhất nhưng hàng hóa của bạn được đảm bảo an toàn 100%.": {
+      "en": "The straight-line flight from Hanoi to Art An facilitated air transport form with a chance to develop. This form is suitable for documents, papers, important correspondence to be sent in a hurry. The highest cost but your goods are 100% secure.",
+      "zh": "从河内到阿尔特安的直线航班便利了航空运输形式,并有机会发展. 本表适用于文件,文书,重要公文匆忙发送. 最高的成本,但你的商品 是100%的安全。"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy vào từng nhu cầu, khách hàng sẽ có sự lựa chọn khác nhau về hình thức vận chuyển hàng Hà Nội - Nghệ An phù hợp. Nếu bạn mong muốn được gửi hàng với chi phí tiết kiệm mà vẫn đảm bảo chất lượng thì sự lựa chọn tốt nhất chính là vận chuyển hàng từ Hà Nội đi Nghệ An bằng tàu hỏa tại Vận tải Lưu Lê.": {
+      "en": "Depending on each need, the customer will have a different choice in the form of shipping the goods of Hanoi - the right An Art. If you wish to be sent at the expense of your savings and still secure quality, then the best choice is to transport goods from Hanoi to Art An by train at Liu Transport.",
+      "zh": "根据每种需要,客户在运输河内货物方面将有不同的选择——正确的An Art。 如果你希望以牺牲你的储蓄和仍然保证质量为代价被送去,那么最好的选择是用火车在刘运将货物从河内运送到艺术安."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội Nghệ An từ ga đến ga.": {
+      "en": "Transporting Hanoi Art An from the station to the station.",
+      "zh": "将河内艺术安从本站运至本站."
+    },
+    "Vận chuyển hàng Hà Nội Nghệ An từ ga đến kho.": {
+      "en": "Transporting Hanoi Art An from the station to the depot.",
+      "zh": "将河内艺术安从车站运送到仓库."
+    },
+    "Vận chuyển hàng Hà Nội Nghệ An từ kho đến ga.": {
+      "en": "Transporting Hanoi Art An from the depot to the station.",
+      "zh": "将河内艺术安从货场运至车站."
+    },
+    "Vận chuyển hàng Hà Nội Nghệ An từ kho đến kho.": {
+      "en": "Transporting Hanoi Art An from storage to storage.",
+      "zh": "将河内艺术安从仓储到仓储."
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê luôn nỗ lực mang đến cho khách hàng gói cước vận chuyển chất lượng với chi phí cạnh tranh nhất thị trường. Thật từ hào khi chúng tôi đã làm được điều đó. Bảng giá chuyển hàng Hà Nội Nghệ An tại Lưu Lê được đánh giá là hợp lý nhất hiện nay, đặc biệt là với các đơn hàng lớn, cồng kềnh hay siêu cường siêu trọng.": {
+      "en": "Liu La transport is always trying to bring the customer the quality delivery package at the most competitive market costs. It's really good that we did it. The shipping price of the Hanoi Art An at Liu Archive is best rated at the present time, especially with large orders, the Mohammad Mohammad or the superweight.",
+      "zh": "刘拉运总想以最具竞争力的市场成本给客户带来优质快递包. 很高兴我们做到了 河内艺术安号在刘档案的运价目前评分最高,尤其是大订单,穆罕默德号或超重."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Với quãng đường từ Hà Nội đi Nghệ An, bạn sẽ mất từ 6h - 7h di chuyển bằng các phương tiện giao thông đường bộ và đường sắt. Nếu đi theo đường hàng không sẽ chỉ mất khoảng 1 giờ đồng hồ bay thẳng từ sân bay Nội Bài đến sân bay Vinh.": {
+      "en": "With the distance from Hanoi to Art An, you're going to take from 6 hours - 7 hours by means of road transports and railroads. If we follow the airway, it'll only take about an hour to fly straight from Cabinet Airport to vinh Airport.",
+      "zh": "随着河内至艺术安的距离,你们要通过公路运输和铁路从6小时到7小时. 如果我们沿着空中航线走,从内阁机场直飞到文赫机场只需一个小时左右."
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "dịch vụ gửi hàng từ Hà Nội đi Nghệ An": {
+      "en": "A delivery service from Hanoi to Art An",
+      "zh": "从河内到艺术安的送货服务"
+    },
+    "dịch vụ vận chuyển hàng Hà Nội đi Nghệ An": {
+      "en": "Hanoi shipping service to Art An",
+      "zh": "河内至阿尔特安的航运服务"
+    },
+    "ngon - bổ - rẻ? Cùng Vận tải Lưu Lê khám phá ngay qua bài dưới đây nhé!": {
+      "en": "Good - for - nothing? Let's explore the next article with Liu Li.",
+      "zh": "不错 - -没事? 与刘力共同探索下一篇."
+    },
+    "nếu có bất kỳ thắc mắc nào cần Vận tải Lưu Lê hỗ trợ nhé!": {
+      "en": "If you have any questions, you'll need Liu Li's support.",
+      "zh": "如有疑惑,则需刘立辅佐."
+    },
+    "sẽ có nhân viên của Lưu Lê tư vấn mọi lúc!": {
+      "en": "Liu Li's staff advises at all times!",
+      "zh": "刘力的幕僚随时劝谏!"
+    },
+    "trên đây sẽ hữu ích với bạn. Chúc bạn chọn được hình thức gửi hàng ưng ý và đừng quên liên hệ tới số Hotline": {
+      "en": "Over here will be useful to you. Please select the form of the send-off and don't forget to relate to the number Hotline",
+      "zh": "这里对你有好处 请选择发送形式, 不要忘记连接到电话号码热线"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đâu là đơn vị vận chuyển hàng từ Hà Nội đi Nghệ An uy tín và chuyên nghiệp nhất?": {
+      "en": "What is the transport unit from Hanoi to the most prestigious and professional Arts?",
+      "zh": "从河内到最有声望的专业艺术的运输单位是什么?"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về Nghệ An": {
+      "en": "Bits of Art An",
+      "zh": "艺术安的位数"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đảm bảo thời gian vận chuyển hàng chính xác": {
+      "en": "Make sure the delivery time is accurate",
+      "zh": "确保交货时间准确"
+    },
+    "Để được báo giá chi tiết bạn vui lòng liên hệ tới số hotline": {
+      "en": "For details price you please refer to number hotline",
+      "zh": "详细价格请参见电话号码热线"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "→ Có chính sách bồi hoàn rõ ràng, hợp lý": {
+      "en": "§ There are clear, reasonable compensation policies",
+      "zh": "§ 有明确、合理的赔偿政策"
+    },
+    "→ Quy trình chuyển hàng chuyên nghiệp": {
+      "en": "\"State delivery sequence\".",
+      "zh": "\"国家交付序列\"."
+    },
+    "→ Đa dạng gói dịch vụ vận chuyển": {
+      "en": "> Multiple Transport Service Packages",
+      "zh": "> 多件运输服务包"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

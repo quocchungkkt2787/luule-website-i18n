@@ -1,0 +1,870 @@
+{
+  "route": "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/chuyen-hang-tu-kho-den-kho",
+  "texts": {
+    "(hàng nhẹ) + xe lấy": {
+      "en": "(light row) + car get",
+      "zh": "(轻排)+汽车得到"
+    },
+    "(hàng nặng) hoặc": {
+      "en": "(load) or",
+      "zh": "(载)或"
+    },
+    "(đã bao gồm cước tàu + xe lấy + xe giao).": {
+      "en": "(which included the deck + car get + car delivered).",
+      "zh": "(包括甲板+车获得+车交付)."
+    },
+    "(đối với hàng < 2 tấn hoặc < 10m3) + xe giao": {
+      "en": "(For row / 2 tonnes or <10 m3) + delivery car",
+      "zh": "(用于2吨或 < 10立方米)+ 交付车"
+    },
+    "(đối với hàng < 2 tấn hoặc < 10m3).": {
+      "en": "(For the row / 2 tonnes or / 10 m3).",
+      "zh": "(为行/2吨或/10立方米)."
+    },
+    "(đối với hàng < 2 tấn hoặc < 10m3). Còn nếu hàng > 2 tấn hoặc > 10m3 thì cước trọn gói từ kho đến kho là": {
+      "en": "(For the row / 2 tonnes or / 10 m3). If the row > 2 tonnes or > 10 m3 then the package score from storage to storage is",
+      "zh": "(为行/2吨或/10立方米). 如果行 > 2吨或 > 10立方米,则从储存到储存的包装得分为:"
+    },
+    "+ Đối với hàng hoá gửi từ Bắc vào Nam, cụ thể từ kho khách hàng Hà Nội đi kho khách hàng Sài Gòn:": {
+      "en": "+ For the goods sent from North to South, specifically from the Hanoi client depot go to the Saigon customer depot:",
+      "zh": "+ 对于从北方运往南方的货物,特别是从河内客户仓库运往西贡客户仓库的货物:"
+    },
+    "+ Đối với hàng hoá gửi từ Nam ra phía Bắc, cụ thể từ kho khách hàng Sài Gòn đi kho khách hàng Hà Nội:": {
+      "en": "+ For goods sent from the South to the North, specifically from the Saigon customer depot go to the Hanoi client:",
+      "zh": "+ 对于从南方运往北方的货物,特别是从西贡客户仓库运往河内客户的货物:"
+    },
+    "07 Tháng 4 2022": {
+      "en": "07 April 2022",
+      "zh": "2022年4月07日 (中文(简体) )."
+    },
+    "1.000đ/kg": {
+      "en": "1,000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "1.400đ/kg": {
+      "en": "Gim/kg",
+      "zh": "吉姆/千克(千兆吨)"
+    },
+    "1.450đ/kg": {
+      "en": "1,450 mph/kg",
+      "zh": "1,450 mph/kg (韩语)"
+    },
+    "330k/m3": {
+      "en": "330k/m3",
+      "zh": "330克/立方米"
+    },
+    "360k/m3": {
+      "en": "360k/m3",
+      "zh": "360克/立方米"
+    },
+    "430k/m3": {
+      "en": "430k/m3",
+      "zh": "430公里/立方米"
+    },
+    "460k/m3": {
+      "en": "460k/m3",
+      "zh": "460公里/立方米"
+    },
+    "500k/chuyến": {
+      "en": "500k/cm",
+      "zh": "500克/厘米"
+    },
+    "900đ/kg": {
+      "en": "900 mph/kg",
+      "zh": "900 毫克/千克"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí vận chuyển hàng từ kho đến kho được tính theo công thức:": {
+      "en": "The shipping costs from the depot to the depot are calculated in formula:",
+      "zh": "从仓库到仓库的运费按公式计算:"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cách thức vận chuyển hàng hóa từ Kho đến Kho (door to door)": {
+      "en": "The way to transport goods from Kho to Kho (door to door)",
+      "zh": "从Kho到Kho的货物运输方式(门到门)"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Còn nếu hàng > 2 tấn hoặc > 10m3 thì cước trọn gói từ kho đến kho là": {
+      "en": "If the row > 2 tonnes or > 10 m3 then the package score from storage to storage is",
+      "zh": "如果行 > 2吨或 > 10立方米,则从储存到储存的包装得分为:"
+    },
+    "Có nhiều hình thức để vận chuyển hàng từ kho đến kho, nhưng đường sắt luôn là lựa chọn ưu tiên đầu tiên được nhắc đến. Vận chuyển hàng bằng đường sắt có những ưu điểm vượt trội:": {
+      "en": "There are many forms of shipping from the depot to the depot, but the railroad has always been the first priority option mentioned. Rail shipping has superior advantages:",
+      "zh": "从货场到货场的航运形式很多,但铁路始终是提到的第一优先选择. 铁路运输具有优越优势:"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước vận chuyển = Cước tàu hỏa + xe lấy + xe giao + xe nâng/hạ đối với mặt hàng là pallet (nếu có)": {
+      "en": "Transportation= The train + car takes + the delivery car + the lift/down to the row side is pallet (if available)",
+      "zh": "运输= 列车+车乘车+快递车+升降/下行侧为托盘(如果有)."
+    },
+    "Cước vận chuyển đường sắt tuỳ thuộc vào hướng đi của tàu:": {
+      "en": "The rail transport depends on the direction of the ship:",
+      "zh": "铁路运输取决于船舶方向:"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng hóa từ Kho đến Kho của Vận tải Lưu Lê": {
+      "en": "Transportation Services from Archive to Archive of Liu Transport",
+      "zh": "运输服务从档案到刘运的档案"
+    },
+    "Dịch vụ vận chuyển hàng từ Kho đến Kho giá rẻ, uy tín": {
+      "en": "Transportation Services from Khort to Cheap, prestigious Archive",
+      "zh": "从霍特到廉价的运输服务,著名档案馆"
+    },
+    "Dựa trên thông tin khách hàng gửi, nhân viên sẽ tiến hành tư vấn về phương án vận chuyển nào là tốt nhất, phù hợp nhất với mong muốn của khách hàng. Kèm theo đó là báo giá chi tiết để khách hàng nắm rõ những gì mình phải chi trả.": {
+      "en": "Based on the customer information sent, the staff will conduct consultation on which transportation options are best, best suited to the wishes of the customer. It follows that the price is detailed so that the customer knows exactly what to pay.",
+      "zh": "根据寄送的客户信息,工作人员将就哪些运输选择最适合客户的愿望进行协商。 因此,价格是详细的,以便客户确切知道支付什么。"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khách hàng lựa chọn phương án vận chuyển tối ưu nhất cho mình, chốt phương án với nhân viên. Tiến hành ký kết hợp đồng vận chuyển với các thông tin minh bạch rõ ràng. Trong đó cần thể hiện rõ thông tin người gửi người nhận, phân loại hàng hoá, trọng lượng, giá cả, trách nhiệm của các bên liên quan, thời gian giao nhận hàng…": {
+      "en": "The customer chooses the best transport option for himself, the decision-lock with the staff. Proceed with signing the transport contract with clear information. It needs to be made clear that the receiver's information, classification of goods, weights, prices, the responsibility of those involved, the delivery time...",
+      "zh": "顾客为自己选择最好的运输选择,即与员工的决断锁. 着手签署载有明确资料的运输合同。 需要明确接收者的信息,货物分类,权重,价格,有关人员的责任,交货时间."
+    },
+    "Khách hàng sẽ liên hệ đơn vị vận tải qua các hình thức như hotline, website hay liên hệ trực tiếp tại chi nhánh của công ty. Khách hàng gửi yêu cầu vận chuyển hàng cụ thể loại hàng gì, khối lượng dự trù, gửi đến đâu, yêu cầu đặc biệt khác… Nhân viên sẽ tiếp nhận yêu cầu, hỏi thêm một số thông tin cần thiết phục vụ quá trình vận chuyển.": {
+      "en": "Customers will contact transport units through forms such as hotline, website or direct contact at the company's branch. Customers send for specific freight requirements of what kind, the amount planned, where to send, other special requirements... The staff will receive the request, asking for additional information that will be required to serve the transport process.",
+      "zh": "客户将通过热线、网站或公司分公司直接联系等形式与运输单位联系。 客户发送的具体货运要求,种类,计划金额,发送地点,其他特殊要求. 工作人员将接受这一请求,要求提供为运输过程服务所需的补充资料。"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu ý: Cước phí xe lấy hàng tại kho đi và xe giao hàng tại kho nhận tuỳ thuộc vào địa chỉ chính xác của kho, chủng loại hàng hoá hay các yêu cầu đặt biệt khác… Do đó, để biết chính xác giá cước hãy liên hệ trực tiếp qua số Hotline:": {
+      "en": "Note: The car fee at the depot and the delivery car at the depot depends on the exact address of the depot, the type of goods or other special requirements... So to know the exact price of the ID, please contact me directly through the Hotline number:",
+      "zh": "注:仓库的车费和仓库的送货车费取决于仓库的确切地址,货物种类或其他特殊要求. 请通过热线号码联系我:"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Một dịch vụ vận chuyển hàng từ kho đến kho trọn vẹn sẽ cần thực hiện đầy đủ theo quy trình, đảm bảo khách hàng yên tâm về trải nghiệm của mình.": {
+      "en": "A delivery service from the depot to the complete depot will need to carry out fully according to the procedure, ensuring the customer of his experience.",
+      "zh": "从仓库到整个仓库的运送服务需要按照程序全面进行,确保客户的经验。"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mức chi phí vận chuyển hàng hóa từ Kho đến Kho như thế nào?": {
+      "en": "What is the cost of shipping goods from Kho to Kho?",
+      "zh": "从Kho到Kho的货运费用是多少?"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhờ hệ thống cơ sở vật chất được xây dựng tốt, Lưu Lê phục vụ khách hàng nhiệt tình, tân tâm và mức chi phí vận chuyển rẻ so với mặt bằng chung. Chọn Lưu Lê làm đơn vị cung ứng": {
+      "en": "As a result of the well-built infrastructure system, Liu Liu served his clients enthusiastically, newly, and affordable transportation costs compared to the general level. Select Liu as supply unit",
+      "zh": "由于基础设施体系建设良好,与一般水平相比,刘刘为客户服务热情,新颖,可负担的交通费用. 选择刘为供应单位"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình vận chuyển hàng hóa từ Kho đến Kho (door to door)": {
+      "en": "The shipping process from Kho to Kho (door to door)",
+      "zh": "从Kho到Kho的运输过程(门到门)"
+    },
+    "Quy định mức cước tàu hỏa:": {
+      "en": "Train level regulation:",
+      "zh": "火车等级条例:"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo đúng kế hoạch vận chuyển, đội ngũ nhân viên triển khai công việc bốc dỡ, vận chuyển hàng từ kho đến ga tàu, làm các thủ tục cần thiết và chuyển hàng đi. Tại ga đến, nhân viên tiến hành làm thủ tục, nhận hàng và tiến hành giao đi đến tận kho nhận cho khách hàng.": {
+      "en": "In accordance with the transport plan, the staff deployed the unloading work, transporting the cargo from the depot to the railway station, making the necessary procedures and shipping. At the station arrived, the staff conducted the proceedings, receiving the supplies, and conducting the delivery to the receivers.",
+      "zh": "根据运输计划,工作人员部署了卸货工作,将货物从仓库运至火车站,进行必要的手续和运输。 工作人员在到达该站时进行了处理,接收了用品,并向接收者交付了货物。"
+    },
+    "Thời gian di chuyển hàng hóa từ Kho đến Kho (door to door)": {
+      "en": "Time of shipping from Kho to Kho (door to door)",
+      "zh": "从Kho到Kho的运输时间(门到门)"
+    },
+    "Thời gian vận chuyển hàng từ kho đến ga còn tuỳ thuộc vào chính xác địa chỉ kho hàng là ở đâu, bạn muốn gửi hàng đến ga tàu nào.": {
+      "en": "The time of shipping from the depot to the station depends on where the exact address of the depot is, where you want to send the shipment to.",
+      "zh": "从货站到车站的运输时间取决于货站的确切地址,发货地点."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến đường sắt cố định, từng chuyến tàu vận chuyển một số lượng hàng lớn nên chi phí thường sẽ rất rẻ so với các hình thức khác.": {
+      "en": "The railway line is fixed, each train carries a large amount of goods so the cost is usually very cheap compared to other forms.",
+      "zh": "铁路线是固定的,每趟列车都搭载大量货物,因此与其它形式相比,成本通常非常便宜."
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tàu có nhiều toa với kích thước lớn, hệ thống tàu chắc chắn nên hàng hoá khi vận chuyển sẽ được đảm bảo chất lượng nguyên vẹn tối đa.": {
+      "en": "The train has many cars of large size, the ship's sure as to which cargo should be secured with maximum intact quality.",
+      "zh": "列车拥有许多大尺寸的车厢,该船确定哪些货物应当以最高完好的质量安全."
+    },
+    "Tàu hoả sẵn sàng vận chuyển các loại hàng hoá có kích thước lớn, số lượng lớn, trọng tải lớn cho khách hàng.": {
+      "en": "Trains are willing to transport large-scale, large-scale, heavy-load cargo for customers.",
+      "zh": "列车愿意为客户运送大型,大型,重型货物."
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tại kho nhận, khách hàng kiểm tra lại số lượng, chất lượng hàng hoá còn vẹn nguyên hay không. Nếu không có bất kỳ thắc mắc, phản hồi gì thêm thì tiến hành bàn giao và thanh toán chi phí còn lại (nếu có).": {
+      "en": "At the depot, the customer rechecks the amount, the quality of the cargo intact or not. If there are no questions, any further response, then proceed to the handover and pay the remaining (if any) fee.",
+      "zh": "在仓库,客户重新检查货物的数量、质量是否完整。 如果没有问题,则进一步答复,然后着手移交,并支付剩余的(如有)费用。"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hoá giữa các kho hàng đặt ra những yêu cầu nhất định về dịch vụ, cần thực hiện đúng quy trình nghiệp vụ và lưu ý những thông tin cần thiết. Theo dõi chia sẻ dưới đây để chuẩn bị cho quá trình": {
+      "en": "Transportation between the depots sets certain requirements for services, needs to be followed properly by the service process and noting the information required. Sharer track below to prepare for process",
+      "zh": "仓库之间的运输规定了某些服务要求,需要适当遵循服务流程,并注意到所需信息。 下面为进程做准备的共享轨道"
+    },
+    "Vận chuyển hàng từ kho đến kho được xem như một dịch vụ trọn gói. Đơn vị vận tải nhận hàng tại kho này, vận chuyển hàng theo các hình thức khác nhau, làm thủ tục liên quan và trả hàng tại kho khác.": {
+      "en": "Transportation from the depot to the depot is considered a package service. The shipping unit received the goods at this depot, shipping the goods in different forms, making interrelated procedures and returning the goods at another warehouse.",
+      "zh": "从仓库到仓库的运输被视为包件服务。 运输单位在该仓库接收货物,以不同形式运送货物,制定相互关联的程序,并将货物退回另一仓库。"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải Lưu Lê là đơn vị hoạt động trên 10 năm trong lĩnh vực này. Lưu Lê chuyên cung cấp vận chuyển hàng trên toàn quốc với dịch vụ đa dạng, chỉnh chu và chuyên nghiệp. Qua thời gian hoạt động, Lưu Lê đã dần hoàn thiện dịch vụ để mang đến cho khách hàng trải nghiệm tốt nhất.": {
+      "en": "Liu transport is a unit that operates over 10 years in this field. Liu Lev specially delivers national freight with diverse, moderate and professional services. Over the course of the operation, Liu Liu has gradually completed his service to bring customers the best experience.",
+      "zh": "刘运是这个领域经营10年以上的单位. 刘列夫特别交付国家货运,提供多种,温和和专业的服务. 整个运营过程中,刘刘逐渐完成了为客户带来最佳经验的服务."
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "bạn sẽ nhận lại sự hài lòng, sự yên tâm nhất. Liên hệ hotline": {
+      "en": "You will regain your satisfaction, your most secure. Hotline Contact",
+      "zh": "你会恢复你的满意,你最安全。 热线联系人"
+    },
+    "dịch vụ vận chuyển hàng hóa từ Kho đến Kho": {
+      "en": "Transport Service from Kho to Kho",
+      "zh": "从Kho到Kho的运输服务"
+    },
+    "hiệu quả bạn nhé!": {
+      "en": "It works!",
+      "zh": "有用吗?"
+    },
+    "hoặc": {
+      "en": "either",
+      "zh": "无论是"
+    },
+    "hoặc truy cập website": {
+      "en": "or access website",
+      "zh": "或访问网站"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng hóa từ Kho đến Kho": {
+      "en": "shipping goods from Kho to Kho",
+      "zh": "从Kho到Kho的货物运输"
+    },
+    "với Lưu Lê để được tư vấn báo giá.": {
+      "en": "With Liu Liu to be told the price.",
+      "zh": "与刘刘同知价."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Để có được dự trù về chi phí, thời gian vận chuyển hàng chính xác nhất, bạn cần liên hệ trực tiếp các đơn vị vận tải. Các đơn vị có hệ thống tính toán thời gian chi phí, có kinh nghiệm vận chuyển hàng nhiều năm nên sẽ dự trù được thông tin sát nhất với tình hình thực tế cho bạn.": {
+      "en": "In order to get the cost plan, the exactest delivery time, you need to contact the transport units directly. The units with cost-time calculations, which have years-long shipping experience, will plan the closest information to the actual situation for you.",
+      "zh": "为了获得成本计划,最精确的交货时间,您需要直接联系运输单位. 成本时间计算单位,具有多年航运经验的单位,会为您规划最接近实际情况的信息."
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được tư vấn báo giá chuẩn xác nhất bạn nhé!": {
+      "en": "Let's get your best-to-be advice.",
+      "zh": "让我们得到你最好的建议。"
+    },
+    "► Bước 01: Tiếp nhận thông tin yêu cầu của khách": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "► Bước 02: Tư vấn phương án vận chuyển tốt nhất và gửi báo giá": {
+      "en": "\"March XVIE Consults Best Transport and Send Prices\".",
+      "zh": "\"March XVIE 咨询 最佳运输和发送价格\"."
+    },
+    "► Bước 03: Chốt phương án vận chuyển, ký hợp đồng": {
+      "en": "03 Steps: Transporting, Signing",
+      "zh": "03步骤:运输、签署"
+    },
+    "► Bước 04: Vận chuyển hàng hoá cho khách": {
+      "en": "Transport for the guests.",
+      "zh": "送客车."
+    },
+    "► Bước 05: Tiếp nhận hàng, thanh toán": {
+      "en": "← Step 0-6: Accept, Pay",
+      "zh": "* 步骤0-6:接受,支付"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

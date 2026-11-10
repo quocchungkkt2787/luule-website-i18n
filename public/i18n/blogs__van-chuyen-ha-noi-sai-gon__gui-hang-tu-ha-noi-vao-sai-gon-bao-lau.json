@@ -1,0 +1,894 @@
+{
+  "route": "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-tu-ha-noi-vao-sai-gon-bao-lau",
+  "texts": {
+    "(không kể ngày nhận hàng).": {
+      "en": "(not to mention the day receiving.)",
+      "zh": "(更别提收日."
+    },
+    "(xe tải, container)": {
+      "en": "(truck, container)",
+      "zh": "(卡车,集装箱)"
+    },
+    ", nhưng chi phí thấp hơn so với đường bộ và đường hàng không.": {
+      "en": "but costs are lower than land routes and airlines.",
+      "zh": "但成本低于陆路和航空公司。"
+    },
+    ", thời gian có thể thay đổi tùy thuộc vào lịch trình tàu hỏa.": {
+      "en": "Well, time can change depending on the train schedule.",
+      "zh": "时间会因火车时刻表而改变"
+    },
+    ", thời gian vận chuyển hàng từ Hà Nội vào Sài Gòn phụ thuộc vào nhiều yếu tố, bao gồm phương thức vận chuyển và loại hàng hóa. Với các lựa chọn từ đường bộ, đường sắt, hàng không, đến đường biển, mỗi hình thức đều có ưu điểm riêng về tốc độ và chi phí. Do đó, v": {
+      "en": "the time of shipping from Hanoi to Saigon depends on many factors, including the method of transportation and the type of goods. With options from the road, the railroad, the airline, to the seaway, each has its own strengths of speed and cost. So, v.",
+      "zh": "从河内到西贡的航运时间取决于许多因素,包括运输方法和货物类型。 有了从公路,铁路,航空公司到海路的可选方案,每一个都有自己的速度和成本优势. 因此,v."
+    },
+    ", tùy vào khoảng cách và tình trạng giao thông.": {
+      "en": "It depends on the distance and traffic status.",
+      "zh": "取决于距离和交通状况."
+    },
+    ". Đây là phương án nhanh nhất nhưng cũng có chi phí cao hơn.": {
+      "en": "Yeah. This is the fastest but also the higher cost.",
+      "zh": "对 这是最快的,但成本也更高。"
+    },
+    "04 Tháng 7 2017": {
+      "en": "04 July 2017",
+      "zh": "2017年7月04日 (中文(简体) )."
+    },
+    "1 - 2 ngày": {
+      "en": "1 - 2 Days",
+      "zh": "1 - 2天"
+    },
+    "3 - 5 ngày": {
+      "en": "3 - 5 Days",
+      "zh": "3-5天时间"
+    },
+    "4 - 6 ngày": {
+      "en": "4 - 6 Days",
+      "zh": "4 - 6天"
+    },
+    "7 - 10 ngày": {
+      "en": "7 - 10 Days",
+      "zh": "7-10天"
+    },
+    ": Chi phí cao.": {
+      "en": ": High cost.",
+      "zh": ":成本高。"
+    },
+    ": Chi phí gửi hàng lớn, giới hạn về khối lượng và kích thước đơn hàng.": {
+      "en": ": Large delivery costs, limited volume and single-size.",
+      "zh": ":交付成本大,数量有限,单尺寸."
+    },
+    ": Chi phí thấp nhất trong số các hình thức vận chuyển.": {
+      "en": ": The lowest cost of transportation.",
+      "zh": ":运输费用最低。"
+    },
+    ": Chi phí vận chuyển thấp hơn so với đường bộ và đường hàng không, vận chuyển được số lượng hàng hóa lớn và an toàn.": {
+      "en": ": The transportation costs are lower than the landways and airways, which are transported in large and safe quantities.",
+      "zh": ":运输费用低于陆路和空中运输,运输量大,安全."
+    },
+    ": Dịch vụ này dành cho các gói hàng nhỏ và yêu cầu giao hàng nhanh.": {
+      "en": ": This service is for small packages and requires quick delivery.",
+      "zh": ":这项服务是针对小包的,需要快递."
+    },
+    ": Linh hoạt về thời gian, có thể giao hàng tận nơi.": {
+      "en": ": Instruments of time, goods can be delivered.",
+      "zh": ":时间工具,货物可以交付."
+    },
+    ": Phụ thuộc vào tình trạng giao thông trên đường.": {
+      "en": ": Depending on traffic conditions on the road.",
+      "zh": ":取决于道路交通条件."
+    },
+    ": Thời gian giao nhận rất nhanh.": {
+      "en": ": Time delivered very quickly.",
+      "zh": ": 时间的传递非常迅速."
+    },
+    ": Thời gian vận chuyển lâu hơn đường bộ, phụ thuộc vào lịch tàu và không giao hàng tận nơi (cần có phương tiện trung chuyển).": {
+      "en": ": Transportation time is longer than the road, depending on the schedule and not delivers to the destination (needs medium).",
+      "zh": ":运输时间比公路长,取决于时间安排,不向目的地交货(需要中途)."
+    },
+    ": Thời gian vận chuyển nhanh.": {
+      "en": ": Fast Transport Time.",
+      "zh": ": 快运时间."
+    },
+    ": Thời gian vận chuyển rất lâu.": {
+      "en": ": Transportation time is long.",
+      "zh": ": 运输时间长."
+    },
+    ": Đây là hình thức phổ biến nhất hiện nay để vận chuyển hàng hóa. Phù hợp cho việc vận chuyển số lượng hàng trung bình đến lớn.": {
+      "en": ": This is the most popular form currently available for freight. Appropriate for the transportation of average quantities to large.",
+      "zh": ":这是目前最流行的货运形式. 适于将平均数量运输到大宗。"
+    },
+    ">>> Tùy thuộc vào mức độ gấp rút và chi phí mà bạn có thể lựa chọn phương thức phù hợp.": {
+      "en": "> DSV depends on how fast and how much you can choose the right method.",
+      "zh": "> DSV取决于速度和多少可以选择正确的方法."
+    },
+    ">>> Xem chi tiết đầy đủ về dịch vụ:": {
+      "en": "> DSV See full details of service:",
+      "zh": "> DSV 数据 服务详情见:"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn có thể lựa chọn phương thức phù hợp dựa trên loại hàng hóa, khối lượng, và thời gian yêu cầu.": {
+      "en": "You can choose the right method based on the type of goods, mass, and time required.",
+      "zh": "您可以根据货物类型、质量和所需时间选择正确的方法。"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển phát nhanh": {
+      "en": "Quick Transfer",
+      "zh": "快速传输"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các phương thức vận chuyển hàng từ Hà Nội vào Sài Gòn": {
+      "en": "Transportation methods from Hanoi to Saigon",
+      "zh": "从河内到西贡的运输方法"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Câu trả lời phụ thuộc vào loại hình vận chuyển mà bạn lựa chọn, từ đường bộ, đường hàng không, đường sắt cho đến đường biển. Hãy cùng tìm hiểu chi tiết nhé!": {
+      "en": "The answer depends on the type of transport you choose, from the road, the airway, the railway to the seaway. Let's look into the details.",
+      "zh": "答案取决于你选择的运输类型,从公路,航空道,铁路到海路. 我们来查查细节"
+    },
+    "Có nhiều hình thức vận chuyển hàng từ Hà Nội vào Sài Gòn, tùy thuộc vào nhu cầu về thời gian, chi phí, và tính chất của hàng hóa. Dưới đây là tổng hợp 4 phương thức vận chuyển phổ biến:": {
+      "en": "There are many forms of shipping from Hanoi to Saigon, depending on the demand for time, costs, and properties of goods. The following is a synthesis of 4 popular transportation methods:",
+      "zh": "河内至西贡的航运形式多种多样,这取决于对货物的时间,成本和属性的需求. 以下为4种大众交通方法的综述:"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển liên vận": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội Sài Gòn là một nhu cầu thiết yếu trong nền kinh tế Việt Nam, đặc biệt khi khoảng cách giữa 2 thành phố đầu tàu của cả nước lên tới gần 2000 km. Với sự phát triển mạnh mẽ của thương mại điện tử và giao thương liên vùng, việc chọn lựa phương thức vận chuyển phù hợp về thời gian và chi phí trở thành một yếu tố quan trọng.": {
+      "en": "Selling Hanoi Saigon was an essential need in the Vietnam economy, especially when the distance between the two leading cities of the country reached nearly 2,000 kilometers. With the strong development of electronic trade and interdisciplinary trade, the choice of the right method of transportation in terms of time and cost becomes an important factor.",
+      "zh": "卖掉河内西贡是越南经济的基本需要,特别是当该国两大主要城市之间的距离接近2000公里时. 随着电子贸易和跨学科贸易的强劲发展,在时间和成本方面选择正确的运输方法成为一个重要因素."
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết hợp nhiều phương thức vận chuyển (ví dụ: đường bộ và đường hàng không, đường sắt và đường bộ) để tối ưu hóa chi phí và thời gian vận chuyển.": {
+      "en": "Combining multiple transport methods (e.g.: landways and airways, railroads and road routes) to optimize costs and transportation time.",
+      "zh": "结合多种运输方法(如:陆路和航空道,铁路和公路路线),优化成本和运输时间."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mất khoảng": {
+      "en": "Distance",
+      "zh": "距离"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhược điểm": {
+      "en": "Disabilities",
+      "zh": "残疾"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phù hợp cho các loại hàng hóa với khối lượng lớn, các mặt hàng không cần giao gấp.": {
+      "en": "Compliance for the goods with mass, the air surfaces need urgent delivery.",
+      "zh": "货物符合质量要求,空气表面需要紧急交付。"
+    },
+    "Phù hợp cho các mặt hàng có giá trị cao, yêu cầu thời gian giao nhanh.": {
+      "en": "Fits for highly valuable goods, requiring speed delivery time.",
+      "zh": "适合贵重商品,需要快递时间."
+    },
+    "Sử dụng hệ thống tàu hỏa để vận chuyển hàng hóa, đặc biệt là các loại hàng hóa lớn hoặc số lượng lớn.": {
+      "en": "Use the train system to transport goods, especially large or large items.",
+      "zh": "利用列车系统运输货物,特别是大型或大型物品."
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thông thường mất": {
+      "en": "Usually lost",
+      "zh": "通常丢失"
+    },
+    "Thường mất khoảng": {
+      "en": "It usually takes some",
+      "zh": "这通常需要一些"
+    },
+    "Thời gian vận chuyển có thể lâu hơn, từ": {
+      "en": "Transportation time can take longer, from",
+      "zh": "运输时间可能更长,从"
+    },
+    "Thời gian vận chuyển hàng từ Hà Nội vào Sài Gòn mất bao lâu?": {
+      "en": "How long would it take to transport from Hanoi to Saigon?",
+      "zh": "从河内到西贡需要多长时间?"
+    },
+    "Thời gian vận chuyển hàng từ Hà Nội vào Sài Gòn phụ thuộc vào loại hình vận chuyển:": {
+      "en": "The time of shipping from Hanoi to Saigon depends on the type of transportation:",
+      "zh": "从河内到西贡的运输时间取决于运输的类型:"
+    },
+    "Thời gian vận chuyển hàng từ Hà Nội vào Sài Gòn tại Lưu Lê?": {
+      "en": "Transportation time from Hanoi to Saigon at Liu Liu?",
+      "zh": "从河内到西贡的交通时间 刘刘?"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tóm lại": {
+      "en": "Summary",
+      "zh": "目 录"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê hiện đang triển khai dịch vụ gửi hàng từ Hà Nội vào Sài Gòn bằng phương thức vận tải đa phương thức, đó là kết hợp tàu hỏa và xe tải trung chuyển 2 đầu HN SG, thời gian giao nhận hàng là": {
+      "en": "Liu Transport is currently deploying shipping services from Hanoi into Saigon by means of multi-disciplinary transport, which is the combination of trains and medium trucks carrying two HN SG heads, the delivery time is",
+      "zh": "刘运正在通过多学科运输方式从河内向西贡部署航运服务,这是列车和中型卡车搭载两个HN SG头,交货时间是"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển bằng đường biển": {
+      "en": "Transported by Sea",
+      "zh": "海运"
+    },
+    "Vận chuyển bằng đường bộ": {
+      "en": "Transported by ground",
+      "zh": "地面运输"
+    },
+    "Vận chuyển bằng đường hàng không": {
+      "en": "Transported by Airway",
+      "zh": "空运"
+    },
+    "Vận chuyển bằng đường sắt": {
+      "en": "Train Transport",
+      "zh": "火车运输"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hóa Hà Nội Sài Gòn": {
+      "en": "Transportation of Hanan Saigon",
+      "zh": "汉南西贡运输"
+    },
+    "Vận chuyển hàng từ Hà Nội vào Sài Gòn mất bao lâu": {
+      "en": "The delivery from Hanoi to Saigon took how long.",
+      "zh": "从河内到西贡的送货花了多长时间."
+    },
+    "Vận chuyển hàng từ Hà Nội vào Sài Gòn mất bao lâu?": {
+      "en": "How long does it take to transport from Hanoi to Saigon?",
+      "zh": "从河内到西贡需要多长时间?"
+    },
+    "Vận chuyển hàng từ Sài Gòn ra Hà Nội": {
+      "en": "Transportation from Saigon to Hanoi",
+      "zh": "从西贡到河内"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vậy,": {
+      "en": "Well,",
+      "zh": "这个嘛"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xe tải chở hàng": {
+      "en": "Transportation Truck",
+      "zh": "运输卡车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "iệc lựa chọn phương thức vận chuyển phù hợp sẽ giúp tối ưu hóa chi phí và thời gian, đáp ứng nhu cầu của doanh nghiệp và cá nhân trong nền kinh tế đang phát triển.": {
+      "en": "Choosing the appropriate transportation method will help optimize cost and time, meeting the needs of businesses and individuals in the developing economy.",
+      "zh": "选择适当的运输方法将有助于优化成本和时间,满足发展中经济体企业和个人的需要。"
+    },
+    "nhé!": {
+      "en": "Okay, okay.",
+      "zh": "好,好,好,好,我们走,我们走"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng từ Hà Nội vào Sài Gòn mất bao lâu?": {
+      "en": "How long did it take to transport from Hanoi to Saigon?",
+      "zh": "从河内到西贡需要多长时间?"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Ưu điểm": {
+      "en": "Advantage",
+      "zh": "优点"
+    },
+    "► Đối với đường biển": {
+      "en": "EDI for Sealines",
+      "zh": "海绳电子数据交换"
+    },
+    "► Đối với đường bộ": {
+      "en": "EDI for the route",
+      "zh": "路线的电子数据交换"
+    },
+    "► Đối với đường hàng không": {
+      "en": "ISA for the airline",
+      "zh": "航空公司的《国际审计准则》"
+    },
+    "► Đối với đường sắt": {
+      "en": "EDI for the Railroad",
+      "zh": "铁路电子数据交换"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

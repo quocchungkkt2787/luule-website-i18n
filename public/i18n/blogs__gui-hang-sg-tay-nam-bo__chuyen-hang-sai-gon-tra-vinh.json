@@ -1,0 +1,834 @@
+{
+  "route": "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tra-vinh",
+  "texts": {
+    "07 Tháng 4 2022": {
+      "en": "07 April 2022",
+      "zh": "2022年4月07日 (中文(简体) )."
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí vận tải thấp": {
+      "en": "Low Transport Cost",
+      "zh": "低运输成本"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chọn dịch vụ vận chuyển hàng từ Sài Gòn (TpHCM) đi Trà Vinh từ Lưu Lê": {
+      "en": "Select shipping service from Saigon (TpHCM) to Tea Wine from Liu Li",
+      "zh": "选择从西贡(TpHCM)到刘力的茶酒的航运服务"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp và khai báo đầy đủ thông tin hàng hoá, tránh phát sinh vấn đề không mong muốn.": {
+      "en": "Provides and full declarations of goods information, avoiding developing unwanted problems.",
+      "zh": "提供和全面申报货物信息,避免出现不必要的问题。"
+    },
+    "Các hình thức vận chuyển từ Sài Gòn (TpHCM) đi Trà Vinh": {
+      "en": "Transportation forms from Saigon (TpHCM) to Tea Wine",
+      "zh": "从西贡(TpHCM)到茶酒的运输表格"
+    },
+    "Các mặt hàng như xăng, dầu, hóa chất…cần vận chuyển bằng xe bồn chuyên dụng, để tránh rò rỉ gây nguy hiểm cho mọi người.": {
+      "en": "The goods such as gasoline, oil, chemicals... need to be transported by a specialized tank, to avoid leaks that endanger people.",
+      "zh": "汽油,石油,化工等商品... 需要由专门的罐体运输,以避免泄漏 危及人。"
+    },
+    "Các mặt hàng với khối lượng nhỏ, lưu thông trong nội thành thì lựa chọn các phương tiện bằng đường bộ như xe máy, xe tải nhỏ,… là các phương tiện dễ dàng lư thông nhất là khi tắc đường.": {
+      "en": "The goods with small mass, internal circulation, select road vehicles such as motorcycles, small trucks,... are the easiest vehicles to clear when traffic is blocked.",
+      "zh": "拥有小质量,内部流通,选择摩托车,小卡车等道路车辆的货物,......是交通堵塞时最容易清关的车辆."
+    },
+    "Cách chọn phương tiện vận chuyển hàng từ Sài Gòn (TpHCM) đi Trà Vinh sao cho phù hợp": {
+      "en": "How to Select Transportation from Saigon (TpHCM) to Tea Wine in a Way to Fit",
+      "zh": "如何选择从西贡(TpHCM)到茶酒的运输方式"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Còn đối với các hàng hoá vận chuyển sang các tỉnh thành khác, hay sang các nước khác nên sử dụng tàu, thuyển, máy bay,… để đảm bảo tính an toàn và hàng hoá không bị hư hỏng.": {
+      "en": "For goods transported to other provinces, or to other countries should use ships, receivers, aircraft,... to ensure safety and goods not damaged.",
+      "zh": "对于运往其他省份或其他国家的货物,应当使用船舶、接收器、飞机.确保安全和货物不受损坏。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cước phí phù hợp nhất, tiết kiệm tối đa.": {
+      "en": "The fee fits best, maximum savings.",
+      "zh": "费用最合适,最高储蓄。"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ gửi hàng từ TpHCM đi Trà Vinh": {
+      "en": "The delivery service from TpHCM goes to Tea vinh",
+      "zh": "TpHCM的送货服务到茶文"
+    },
+    "Dịch vụ mà khách hàng đến với Lưu Lê nhận được:": {
+      "en": "The service the customer came to Liu La received:",
+      "zh": "顾客来刘拉收到的服务:"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng từ Sài Gòn (TpHCM) đi Trà Vinh": {
+      "en": "Transportation Services from Saigon (TpHCM) to Tea vinh",
+      "zh": "从西贡(TpHCM)到Tea vinh的运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giá thành vận chuyển thấp": {
+      "en": "The Price of Low Transportation",
+      "zh": "低运输价格"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hiện nay có rất nhiều loại hàng hóa được vận chuyển lưu thông, mỗi một mặt hàng lại có tính chất khác nhau vì thế lựa chọn được hình thức vận tải phù hợp cũng sẽ đảm bảo cho hàng hoá của bạn nguyên vẹn và an toàn khi nhận.": {
+      "en": "There are now a wide range of trafficable goods, each one of which has different properties so the choice to get the right form of transportation will also ensure that your goods are intact and safe upon receiving.",
+      "zh": "现在有各种各样的可运输货物,每种货物都有不同的特性,因此选择正确的运输方式也会确保你收到的货物完整和安全。"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng hóa được đảm bảo bảo mật an toàn nhất.": {
+      "en": "The goods are the most secure.",
+      "zh": "货物是最安全的。"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hỗ trợ vận chuyển kết hợp nhiều hình thức vận tải khác nhau.": {
+      "en": "Transport support combines various forms of transportation.",
+      "zh": "运输支助结合了各种形式的运输。"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kiểm tra chi tiết thông tin bên nhận hàng, để đơn vị vận tải báo giá chính xác nhất.": {
+      "en": "Check the information on the receivers, so the transport unit reports the best price.",
+      "zh": "请检查date=中的日期值 (帮助) 接收器信息,运输单位报告最佳价格."
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu ý khi gửi hàng vận chuyển Sài Gòn đi Trà Vinh.": {
+      "en": "Note when sending Saigon freight to Tea Hagan.",
+      "zh": "送西贡货运至茶哈根时注意."
+    },
+    "Lưu ý những điều khoản, thông tin mà đơn vị vận tải yêu cầu.": {
+      "en": "Note the terms, the information the transport unit requires.",
+      "zh": "注意运输单位需要的术语,信息."
+    },
+    "Lựa chọn được hình thức vận tải phù hợp sẽ giúp bạn tối ưu chi phí, tiết kiệm thời gian, với mội mọt hình thức vận tải sẽ có những ưu điểm khác nhau, có thể kể đến:": {
+      "en": "Selecting the appropriate form of transportation will help you optimize your costs, save your time, with the form of transportation that will have different advantages, which may refer to:",
+      "zh": "选择适当的交通形式,将帮助您优化成本,节省时间,具有不同优势的交通形式,可能指:"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Một số lưu ý khi gửi hàng bạn nên nắm rõ:": {
+      "en": "Some note when sending a package you should be well aware of:",
+      "zh": "寄件时要注意:"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhu cầu vận chuyển hàng hoá của con người ngày một tăng,": {
+      "en": "The demand for human goods is increasing,",
+      "zh": "人类商品的需求不断增加,"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Phân loại và tiến hành đóng gói riêng theo mỗi loại hàng hoá.": {
+      "en": "Classify and proceed to pack separately according to each type of goods.",
+      "zh": "按照各类货物分别分类和包装。"
+    },
+    "Phù hợp chuyển hàng hoá khối lượng lớn, khoảng cách xa": {
+      "en": "In accordance with mass cargo, distance",
+      "zh": "根据大批货物,距离"
+    },
+    "Phù hợp với vận chuyển ngắn trong đô thị hoặc giữa các địa phương, khu công nghiệp có bán kính 300km.": {
+      "en": "In accordance with short transportation in urban or mid-south locals, the industry has a 300 km radius.",
+      "zh": "根据城市或中南地方的短途交通,该行业的半径为300公里."
+    },
+    "Phục vụ 24/24 theo mọi nhu cầu khách hàng.": {
+      "en": "Served 24 hours on all customer requirements.",
+      "zh": "服务24小时 所有客户要求。"
+    },
+    "Sơ lược về Trà Vinh": {
+      "en": "A Summary of Teats",
+      "zh": "茶叶摘要"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thích hợp vận chuyển hàng có khối lượng lớn.": {
+      "en": "Fits shipping mass.",
+      "zh": "适合运输质量。"
+    },
+    "Thời gian vận chuyển nhanh chóng, chính xác.": {
+      "en": "Time for rapid transport, exactly.",
+      "zh": "是时候快速运输了"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trong tương lai Trà Vinh có thể trở thành trung tâm giao thương mới của khu vực và cả nước, là đầu mối chế biến nông, thủy hải sản; nông nghiệp công nghệ cao có khả năng tham gia vào chuỗi giá trị, mạng sản xuất trong nước và quốc tế. Từ Trà Vinh đến Sài Gòn có khoảng cách là 130km chính bởi vậy nếu di chuyển bằng đường bộ sẽ mất khoảng 3h để đến nơi.": {
+      "en": "In the future Tea Yong can become the new trading centre of the region and the country, which is the lead in farming, maritimes; high-tech agriculture is capable of participating in the value chain, domestic and international production networks. From the Tea of Yong to Saigon there is a distance of 130 main kilometers so if you travel by land it will take about 3 hours to reach your destination.",
+      "zh": "今后茶荣可以成为地区和国家的新贸易中心,是农业,海洋的领先地位;高科技农业能够参与价值链,国内和国际生产网络. 从永茶到西贡,有130公里的路程,所以如果你通过陆地旅行,大约需要3小时才能到达目的地。"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuy nhiên, với quãng đường gần như Sài Gòn Trà Vinh thì vận chuyển đường bộ là tối ưu và phù hợp hơn cả.": {
+      "en": "However, with the distance almost Saigon the road traffic was optimal and more appropriate.",
+      "zh": "然而,由于距离几乎是西贡,因此公路交通是最佳和更为适当的。"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tính cơ động cao, linh hoạt vận chuyển đến các khu vực dễ dàng.": {
+      "en": "High motority, flexible transport to easy areas.",
+      "zh": "机动性高,向易行地区灵活运输."
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận Tải Đường bộ:": {
+      "en": "Line load:",
+      "zh": "行载数 :"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng hoá một cách nhanh chóng, đảm bảo tính an toàn.": {
+      "en": "Transportation quickly, ensures safety.",
+      "zh": "快速运输,确保安全."
+    },
+    "Vận chuyển hàng từ Sài Gòn đi Tiền Giang": {
+      "en": "Transported from Saigon to Money Jiang",
+      "zh": "从西贡运往江钱"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "Vận tải đường hàng không:": {
+      "en": "Aviation Transport:",
+      "zh": "空运:"
+    },
+    "Vận tải đường thuỷ:": {
+      "en": "Waterborne Transport:",
+      "zh": "水上运输:"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Với đơn hàng lớn có hợp đồng, đơn hàng nhỏ có phiếu gửi hàng, quý khách hàng cần giữ lại phiếu để có thể kiểm tra mã vận đơn, trạng thái đơn hàng và làm bằng chứng đối chiếu nếu có phát sinh xảy ra.": {
+      "en": "With the major order on the contract, the small singles have a deposit, and the customers need to retain the form so that they can check the singles, the single status, and make the cross-reference evidence if any arise.",
+      "zh": "随着合同的主要订单,小单曲有押金,客户需要保留表格,以便检查单曲,单曲状态,并在出现任何情况时提供交叉引用证据."
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "cũng hình thành và phát triển từ đó. Vậy làm sao để quý khách hàng chọn lựa được đơn vị vận tải uy tín giữa hai tỉnh thành này, hãy cùng chúng tôi tìm hiểu qua bài viết dưới đây.": {
+      "en": "also formed and developed from there. So how do you get your customers to choose the prestigious transport unit between the two provinces, join us in the following article.",
+      "zh": "也从那里形成和发展. 如何让顾客选择两省之间的 著名的交通单位,加入我们下面的文章。"
+    },
+    "dịch vụ vận chuyển hàng hoá từ Sài Gòn đi Trà Vinh": {
+      "en": "The freight service from Saigon to Tea Hagan",
+      "zh": "从西贡到茶叶哈根的货运服务"
+    },
+    "hoặc truy cập website": {
+      "en": "or access website",
+      "zh": "或访问网站"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị vận tải Công ty TNHH Lưu Lê với 10 năm làm việc trong lĩnh vực vận tải, chúng tôi hiểu rằng cần nỗ lực hơn nữa để đem đến chất lượng cũng như dịch vụ tốt nhất đến với quý khách hàng. Sự hài lòng của khách hàng chính là thước đo cho cố gắng của Lưu Lê.": {
+      "en": "The THH Liu Company Transport Division with 10 years of work in the transportation sector, we understand that further effort is required to bring the best quality and service to you. The main client satisfaction is the measure for Liu's efforts.",
+      "zh": "THH刘公司运输司在运输部门工作了十年,我们理解,需要进一步努力,使你们获得最好的质量和服务。 主要客户满意度是衡量刘'的努力."
+    },
+    "Được thiên nhiên ưu ái mưa thuận gió hào, chính bở thế đây là khu vực được đánh giá là tỉnh có tiềm năng phong phú về du lịch văn hóa, du lịch biển,… và gắn liền với bản sắc văn hoá của các dân tộc Kinh, Khmer, Hoa. Trà Vinh là khu vực có mức tăng trưởng kinh tế dẫn đầu khu vực Đồng bằng sông Cửu Long (ĐBSCL) về tốc độ tăng trưởng vượt bậc.": {
+      "en": "Being favoured by natural rain to the trenches, this is the area that is judged to be a rich province of cultural tourism, sea travel,... and is associated with the cultural identity of the peoples of the Bible, Khmer, Chinese.",
+      "zh": "受自然雨的青睐,这里被评为文化旅游,海上旅行的丰富省份. . ."
+    },
+    "Đền bù 100% thiệt hại hàng hóa.": {
+      "en": "100% compensation of cargo damage.",
+      "zh": "100%赔偿货物损坏."
+    },
+    "Đối với mặt hàng cần vận chuyển nhanh với khối lượng lớn như: đồ tươi sống, rau quả, hải sản, vaccine,… bạn nên lựa chọn phương tiện đảm bảo tính xuyên suốt và nên có thùng trữ lạnh để hàng hoá không hư hỏng trong khi vận chuyển:": {
+      "en": "For quick transportation sides with large masss such as: raw goods, vegetables, seafood, vaccines,... you should select the vehicle that ensures translucency and should have refrigerated containers so the goods don't corrupt while transporting:",
+      "zh": "对于有大质量的快速运输方,例如:生货,蔬菜,海鲜,疫苗,......你应该选择确保透明性的车辆,并且应该有冷藏容器,这样货物在运输时就不会腐败:"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "Đội ngũ nhân viên tận tình, giàu kinh nghiệm sẵn sàng hỗ trợ.": {
+      "en": "A team of dedicated, experienced staff ready to assist.",
+      "zh": "一组富有献身精神、经验丰富的工作人员准备提供协助。"
+    },
+    "được cung cấp bởi Lưu Lê sẽ đem đến cho quý khách hàng một trải nghiệm và dịch vụ tốt nhất. Liên hệ với Lưu Lê qua hotline": {
+      "en": "provided by Liu Li will bring you the best experience and service. Contact Liu via Hotline",
+      "zh": "由刘力提供 将带来最好的经验和服务。 通过热线联系刘少奇"
+    },
+    "để được tư vấn và hỗ trợ tốt nhất bạn nhé!": {
+      "en": "To get your best advice and support!",
+      "zh": "得到你最好的建议和支持!"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

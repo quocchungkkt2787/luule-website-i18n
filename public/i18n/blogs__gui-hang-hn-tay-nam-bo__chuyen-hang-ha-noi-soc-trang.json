@@ -1,0 +1,922 @@
+{
+  "route": "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-soc-trang",
+  "texts": {
+    "1000đ/kg": {
+      "en": "1000 mph/kg",
+      "zh": "1 000 mph/kg (单位:公斤)"
+    },
+    "21 Tháng 12 2021": {
+      "en": "21 December 2021",
+      "zh": "2021年12月21日 (中文(简体) )."
+    },
+    "330.000đ/m3": {
+      "en": "3DD/m3",
+      "zh": "3DD/立方米"
+    },
+    "350.000đ/m3": {
+      "en": "350,000 x/m3",
+      "zh": "350 000x/立方米"
+    },
+    "900đ/kg": {
+      "en": "900 mph/kg",
+      "zh": "900 毫克/千克"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    ">>> Xem thêm:": {
+      "en": "> DSV See more:",
+      "zh": "> DSV 数据 更多信息:"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần thông báo thời gian đi hàng chính xác, đầy đủ địa chỉ và thông tin người liên hệ để lấy hàng,...": {
+      "en": "You need to announce the time of the exact delivery, the full address and information of the person involved to get the goods,...",
+      "zh": "你需要宣布确切交货时间, 完整的地址和有关人员的信息 来得到货物,..."
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bản đồ khoảng cách Hà Nội Sóc Trăng": {
+      "en": "Moon Hanoi Range Map",
+      "zh": "月球河内射程图"
+    },
+    "Bảng giá vận chuyển hàng Hà Nội - Sóc Trăng tại Lưu Lê như sau:": {
+      "en": "The price of shipping of Hanoi Moon at Liu Liu is as follows:",
+      "zh": "河内月在刘刘的航运价格如下:"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "BIT",
+      "zh": "双边投资条约"
+    },
+    "Cam kết chất lượng dịch vụ tuyệt vời với đa dạng gói dịch vụ, đáp ứng mọi nhu cầu vận chuyển của khách hàng": {
+      "en": "Great service quality pledge with various service packages, meeting all customer transportation requirements",
+      "zh": "以各种成套服务保证提供高质量的服务,满足所有客户运输要求"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our commitment.",
+      "zh": "我们的承诺。"
+    },
+    "Cam kết hàng hóa nguyên vẹn đến tay người nhận": {
+      "en": "Commit the goods to the receiver",
+      "zh": "将货物交给接收者"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chi phí gửi hàng rẻ, giá không bị dao động do không bị phụ thuộc vào sự lên xuống của giá xăng dầu": {
+      "en": "The cost of cheap goods, the cost of not being wavered due to not being dependent on the up and down of oil prices.",
+      "zh": "廉价商品的成本,由于不依赖于油价的上下波动而不受动摇的成本."
+    },
+    "Chi tiết bảng giá dịch vụ vận chuyển hàng Hà Nội - Sóc Trăng tại Lưu Lê": {
+      "en": "Details of the shipping price of Hanoi Moon goods at Liu Liu",
+      "zh": "河内月货在刘刘的运价详情"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Information Security Policy",
+      "zh": "信息安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "支付政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Policy",
+      "zh": "损害政策"
+    },
+    "Chặng đường từ Hà Nội đi Sóc Trăng khá xa, trải dài khắp các tỉnh thành từ Bắc vào Nam với 1666km. Với quãng đường xa như vậy thì bạn nên chuẩn bị kỹ về sức khỏe để có những trải nghiệm tuyệt vời nhất!": {
+      "en": "The road from Hanoi goes to the Moon quite far, stretching across the provinces from North to South with 1666 km. With such a distance, you should be well prepared for your best experience!",
+      "zh": "从河内到月球的道路相当远,从北到南横跨各省,全长1666公里. 这么远的路程,你应该做好最好的经验准备!"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Các phương thức vận chuyển hàng Hà Nội Sóc Trăng": {
+      "en": "The Ways of Transporting the Mooning Hanoi",
+      "zh": "运月河内的道路"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "LUCY",
+      "zh": "卢森堡"
+    },
+    "Dịch vụ bốc xếp free toàn bộ 2 đầu": {
+      "en": "Freestyle service full-headed",
+      "zh": "免费服务"
+    },
+    "Dịch vụ gửi hàng Hà Nội - Sóc Trăng giá rẻ, an toàn": {
+      "en": "The Hanoi shipping service - cheap, safe moon",
+      "zh": "河内航运服务 - 廉价而安全的月球"
+    },
+    "Dịch vụ kho bãi hỗ trợ gửi hàng giá rẻ": {
+      "en": "Cheap goods sent",
+      "zh": "发送的廉价货物"
+    },
+    "Dịch vụ thu tiền hộ COD khi có yêu cầu": {
+      "en": "COD collect service on request",
+      "zh": "COD 应请求收集服务"
+    },
+    "Dịch vụ thuê xe nâng, xe hạ hoặc xe cẩu, xe vận chuyển nếu có nhu cầu": {
+      "en": "Tank rental services, low cars or cranes, transport vehicles if needed",
+      "zh": "坦克租赁服务,低车或起重机,必要时运输车辆"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng Hà Nội Long An": {
+      "en": "Heihan An Transport Service",
+      "zh": "海汉安运局."
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Transportation Services",
+      "zh": "运输服务"
+    },
+    "Dịch vụ vận chuyển hàng hóa bằng tàu hỏa 24/7": {
+      "en": "Train Transport Service 24/7",
+      "zh": "火车运输处"
+    },
+    "Dịch vụ đóng gói giúp gửi đồ dễ dàng và an toàn": {
+      "en": "Packing services make packages easy and safe",
+      "zh": "包装服务使包件容易和安全"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giới thiệu dịch vụ vận chuyển hàng Hà Nội - Sóc Trăng tại Lưu Lê": {
+      "en": "Introducing Hanoi Transport Service Moon at Liu Liu",
+      "zh": "在刘刘介绍河内交通服务月亮"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "GREATIVES",
+      "zh": "伟大"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội Tiền Giang": {
+      "en": "Send Han Yijiang",
+      "zh": "派韩一江去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Send the Hanoits – Saigon",
+      "zh": "派河内人去西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Send Saigon – Hanoi",
+      "zh": "发送西贡 — 河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "Send a Northern South motorcycle",
+      "zh": "派一辆南车过去"
+    },
+    "Gửi được mọi loại mặt hàng từ nhỏ lẻ đến hàng cồng kềnh, siêu cường siêu trọng": {
+      "en": "Send all kinds of goods from small to row 640/6, superweight",
+      "zh": "将各种商品从小到排640/6,超重"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoạt động với phương châm “an toàn - hiệu quả - chuyên nghiệp”, Vận tải Lưu Lê tự hào mang đến cho bạn dịch vụ vận chuyển hàng Hà Nội Sóc Trăng từ tâm. Đến với Lưu Lê bạn sẽ được đáp ứng đầy đủ yêu cầu ở một gói vận chuyển số 1 đó là:": {
+      "en": "Activity with the motto “safe - effective - professional, Liu Li transport is proud to bring you the Hanoi Transportation Service Moon from the heart. Come to Liu you will be filled with request at a No. 1 delivery package which is:",
+      "zh": "以“安全、有效、专业”为口号的活动, 到刘家来,您会接到一号包裹的请求,即:"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hà Nội - Sóc Trăng": {
+      "en": "The Moon's Horn",
+      "zh": "月亮的角声"
+    },
+    "Hàng hóa gửi bằng tàu hỏa sẽ được vận chuyển từ ga Hà Nội đến ga Sài Gòn và chuyển đến Sóc Trăng bằng xe trung chuyển phù hợp.": {
+      "en": "The shipment by train will be transported from Hanoi station to Saigon station and transferred to the Moon via suitable medium transport.",
+      "zh": "列车的货运将从河内站运送到西贡站,并通过适当的中型运输转移到月球."
+    },
+    "Hàng hóa phải có hóa đơn hoặc chứng từ đầy đủ (đối với khách hàng là các công ty) để được lưu thông nhanh nhất": {
+      "en": "The goods must have bills or certificates from the full (for the customers are companies) to get the fastest traffic",
+      "zh": "货物必须有全部的账单或证明(因为客户是公司)才能获得最快的流量"
+    },
+    "Hàng hóa thông thường": {
+      "en": "Normal goods",
+      "zh": "正常货物"
+    },
+    "Hàng nhẹ": {
+      "en": "Light Row",
+      "zh": "轻行"
+    },
+    "Hàng nặng": {
+      "en": "Heavy Row",
+      "zh": "重行"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi lựa chọn Lưu Lê, bạn có thể hoàn toàn yên tâm về chất lượng dịch vụ vận chuyển hàng Hà Nội - Sóc Trăng bởi chúng tôi có những cam kết rất rõ ràng:": {
+      "en": "When you choose Liu, you can be entirely secure about the quality of the Hanoi Transportation - Moon because we have very clear commitments:",
+      "zh": "当你选择刘时,你可以完全保证河内交通的质量——月球,因为我们有非常明确的承诺:"
+    },
+    "Không chỉ nổi tiếng với những món ăn ngon, những điểm du lịch hấp dẫn, Sóc Trăng còn là tỉnh thành có tiềm lực lớn về phát triển kinh tế đặc biệt là lĩnh vực giao thương hàng hóa do hạ tầng giao thông khá kiên cố. Nếu bạn chưa biết đơn vị nào cung cấp": {
+      "en": "Not only are they known for their delicious foods, the attractive tourist spots, the Moon is also a city of great potential for economic growth especially the field of goods trade due to a fairly strong traffic infrastructure. If you do not know which unit provides",
+      "zh": "它们不仅以美味的食物,有吸引力的旅游景点而闻名,月球也是一个具有巨大经济增长潜力的城市,特别是由于交通基础设施相当强大,货物贸易领域. 如果你不知道哪个单位提供"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Media via Official Channels.",
+      "zh": "通过官方频道与媒体连接."
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Lưu ý:": {
+      "en": "Note:",
+      "zh": "说明:"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machines, Devices",
+      "zh": "机器、设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Như đã đề cập, Lưu Lê luôn chú trọng hoàn thiện dịch vụ vận chuyển hàng hóa Hà Nội - Sóc Trăng để mang đến cho bạn những trải nghiệm tuyệt vời hơn cả. Đặc biệt là quy trình vận chuyển hàng của Lưu Lê được đánh giá là rất chuyên nghiệp và đồng bộ trong từng bước, cụ thể như sau:": {
+      "en": "As mentioned, Liu La has always focused on completing the Hanoi - Moon freight service to bring you the greatest experience. In particular, Liu La's delivery process is rated as very professional and co-steps, specifically as follows:",
+      "zh": "如前所述,刘拉一直专注于完成河内—月球货运服务,为您带来最丰富的经验. 特别是,刘拉的交付过程被评为非常专业和协同步骤,具体如下:"
+    },
+    "Nhận vận chuyển tất cả các loại hàng hóa nhưng ngoại trừ hàng gia súc, gia cầm, động vật quý hiếm; hàng lậu": {
+      "en": "Retrieved all goods but except cattle, poultry, rare animals; smuggling",
+      "zh": "除牛、家禽、稀有动物外,所有物品都得到;走私"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Nhằm mang đến cho Quý khách hàng những trải nghiệm tuyệt vời nhất khi vận chuyển hàng tại Lưu Lê, chúng tôi đã phát triển rất nhiều gói dịch vụ ngoài cùng nhiều ưu đãi hấp dẫn cho bạn như sau:": {
+      "en": "In order to give the customer the most amazing experience of shipping at Liu Liu, we have developed a lot of service packages along with many attractive privileges for you as follows:",
+      "zh": "为了让客户在刘刘的航运方面获得最惊人的经验,我们开发了许多服务套件,同时也为您开发了许多有吸引力的特权,如下:"
+    },
+    "Những lưu ý chung": {
+      "en": "Common Notes",
+      "zh": "共同说明"
+    },
+    "Những ưu đãi và cam kết khi sử dụng dịch vụ vận chuyển hàng hóa Hà Nội Sóc Trăng tại Lưu Lê": {
+      "en": "Advantages and commitments when using the Transportation Service of the Moon Haoi at Liu Liu",
+      "zh": "在刘刘使用月海运输局时的优点和承诺"
+    },
+    "Nếu bạn đang băn khoăn không biết đâu là dịch vụ chuyển hàng hóa Hà Nội đi Sóc Trăng bằng tàu hỏa uy tín, chất lượng nhất hãy tham khảo ngay các gói gửi hàng tại Vận tải Lưu Lê nhé!": {
+      "en": "If you're wondering if it's a shipping service for Hanoi to go to the Moon on the prestigious train, the most quality is to refer to the package at Liu Liu Transport!",
+      "zh": "如果你想知道河内乘坐著名的列车去月球是否是航运服务,那么最高质量的就是指刘刘交通的包裹!"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Quy trình vận chuyển hàng chuyên nghiệp và đồng bộ trong từng khâu": {
+      "en": "Professional delivery and synchronization sequences in each suture",
+      "zh": "每个缝隙的专业交付和同步序列"
+    },
+    "Quy trình vận chuyển hàng hóa Hà Nội Sóc Trăng chuyên nghiệp tại Lưu Lê": {
+      "en": "The master course of shipping of Hanoi Moon goods at Liu Li",
+      "zh": "河内月货在刘力的运输总路线"
+    },
+    "Quãng đường từ Hà Nội đi Sóc Trăng bao nhiêu km?": {
+      "en": "How many kilometers from Hanoi?",
+      "zh": "离河内几公里?"
+    },
+    "Sóc Trăng - Hà Nội": {
+      "en": "Lunar — The Moon",
+      "zh": "月球——月球号"
+    },
+    "Sóc Trăng là một trong 13 tỉnh, thành phố thuộc đồng bằng sông Cửu Long. Sóc Trăng mang đầy đủ nét đặc trưng của vùng miền Tây sông nước nhưng cũng có những tiềm năng riêng để phát triển du lịch, đặc biệt là du lịch về văn hóa lễ hội với truyền thống của 3 dân tộc Kinh, Khmer, Hoa đặc sắc.": {
+      "en": "The Lunar Moon is one of 13 provinces, the city in the Plains of the Nine Dragon River. The Moon bears full features of the western part of the water but also has its own potential for developing tourism, especially touring the festival culture with the traditions of three Bible peoples, Khmer, Outstanding Chinese.",
+      "zh": "月亮是十三省之一,九龙江平原地区的城市. 月球具有水西部的全部特征,但也具有发展旅游业的自身潜力,特别是利用三个圣经民族高棉语,杰出汉语的传统游览节日文化."
+    },
+    "Sẵn sàng bồi thường 100% nếu hàng hóa nguyên vẹn": {
+      "en": "Ready to compensate 100% if the goods are intact",
+      "zh": "如果货物完好无损,可以全额赔偿"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "Track Your Shipment",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thông tin chi tiết về đơn vị vận chuyển từ Hà Nội đi Sóc Trăng": {
+      "en": "Details of the transport unit from Hanoi to Moon",
+      "zh": "从河内到月球的运输队详情"
+    },
+    "Thời gian chuyển hàng bằng đường bộ được đánh giá là khá lâu nhưng bù lại chi phí rẻ nếu bạn gửi các bưu kiện nhỏ lẻ. Với hàng siêu cường, siêu trọng thì vận chuyển hàng hóa đường sắt sẽ phù hợp hơn.": {
+      "en": "Travel time is rated for quite a while but compensates for the cost if you deposit small parcels. With supersonic goods, superspectrums would be more suitable.",
+      "zh": "旅行时间被评为相当长一段时间,但如果存有小包裹,则补偿成本. 有了超音速商品,超光谱会更合适."
+    },
+    "Thời gian nhận hàng chính xác, thủ tục tinh gọn,...": {
+      "en": "The timing of the exact delivery, the compact procedure...",
+      "zh": "准确交货的时间 紧凑的程序..."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là thông tin chi tiết từ A → Z về dịch vụ": {
+      "en": "Above is detailed information from A- > Z on Service",
+      "zh": "以上为A- > Z关于服务的详细资料"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyến": {
+      "en": "Line",
+      "zh": "行线"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tùy vào từng nhu cầu vận chuyển khác nhau mà khách hàng sẽ sử dụng hình thức gửi hàng tương xứng. Tuy nhiên, do đây là quãng đường xa nên vận chuyển hàng hóa bằng đường sắt là hình thức được nhiều người lựa chọn hơn cả vì đáp ứng đủ 3 tiêu chí: giá rẻ, chất lượng và thời gian chính xác.": {
+      "en": "Depending on each different transportation demand, the customer will use a corresponding delivery form. However, since this is a long distance, shipping goods by railway is a form that is more chosen by many than by a full range of three criteria: cheap, quality, and precise time.",
+      "zh": "根据每种不同的运输需求,客户将使用相应的交付表. 然而,由于这是一段很长的路程,铁路的货运货物是许多人选择的一种形式,而不是全部选择三种标准:廉价、质量和准确的时间。"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tương tự như vận chuyển người, vận chuyển hàng hóa cũng có 3 hình thức phổ biến nhất là:": {
+      "en": "Similar to human transport, freight also has three common forms:",
+      "zh": "与载人运输类似,货运还具有三种常见形式:"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Và nhiều dịch vụ khác theo mong muốn của từng khách hàng": {
+      "en": "And many other services according to the wishes of each customer",
+      "zh": "根据每个客户的意愿,还有许多其他服务"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "Northern South Transportation",
+      "zh": "南北运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển hàng bằng tàu hỏa là hình thức không mấy xa lạ với người dân Việt Nam. Dù đưa vào phát triển từ lâu nhưng đến nay, gửi hàng đường sắt vẫn được đông đảo khách hàng tin tưởng và sử dụng nhờ những ưu điểm vượt trội:": {
+      "en": "Transportation by train was not uncommon to the Vietnamese. Although it has been in development for a long time, to date, sending railroads are still widely believed and used by the superior advantages:",
+      "zh": "火车运输对越南人来说并不罕见。 尽管它长期处于开发阶段,但到目前为止,发送铁路仍然被上层优势广泛相信和使用:"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North Southern Railway Transport",
+      "zh": "北方铁路运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Vớ": {
+      "en": "Bulls",
+      "zh": "公牛队"
+    },
+    "Với hình thức gửi hàng đường bộ bạn có thể chọn gửi bằng xe khách hoặc xe tải có tải trọng phù hợp tùy vào từng loại mặt hàng. Lưu ý, nên cân nhắc đơn vị vận tải uy tín để hạn chế tối đa tình trạng hàng hóa thất lạc hay hư hỏng.": {
+      "en": "With the form of road delivery you can choose to send by passenger car or truck with the proper load depending on the type of items you have. Note, consider the prestigious transport unit to limit the loss of goods or damage.",
+      "zh": "通过公路交运的形式,您可以选择用客车或货车发送,并按您拥有的物品类型进行适当的载荷. 注意,考虑有声望的运输单位限制货物或损坏的损失。"
+    },
+    "Với hình thức vận chuyển hàng Hà Nội - Sóc Trăng bằng đường hàng không, bưu kiện sẽ được gửi từ cảng hàng không Nội Bài đến cảng hàng không Sài Gòn và chuyển tiếp tới kho Sóc Trăng. Do thời gian bay nhanh chóng nên đây là hình thức vận chuyển hàng siêu tốc, phù hợp cho những tài liệu, giấy tờ cần gửi khẩn cấp. Cước phí chuyển hàng bằng đường hàng không khá cao nên bạn hãy cân nhắc trước khi lựa chọn nhé!": {
+      "en": "In the form of shipping of Hanoi Moon via airway, the package will be sent from the Imperial Airport to the Saigon Airport and relay to the Lunar Archive. Due to rapid flight time, this is a form of super-speed freight, suitable for documents, papers to send urgently. The airline delivery fee is quite high, so consider it before you choose.",
+      "zh": "以河内月经航空航线运输的形式,包裹将从帝国机场送往西贡机场,并继而前往月球档案馆. 由于飞行时间过快,这是一种超高速货运的形式,适合文件,文件紧急发送. 航空公司的送货费相当高 所以先考虑一下"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycle",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "dịch vụ gửi hàng Hà Nội Sóc Trăng": {
+      "en": "Lunar Hanoi shipping service",
+      "zh": "河内月航运服务"
+    },
+    "hàng không rõ nguồn gốc xuất xứ và hàng cấm theo quy định của pháp luật của Nhà nước Việt Nam": {
+      "en": "The airline does not know its origin and the bans according to the laws of the State of Vietnam",
+      "zh": "根据越南国的法律,航空公司不知道其来源和禁令"
+    },
+    "i mỗi mặt hàng và vị trí giao nhận hàng, cước phí sẽ có sự chênh lệch tương đối vì vậy tốt nhất bạn nên gọi tới số hotline 0909 81 6625 để được Lưu Lê báo giá chính xác nhất nhé!": {
+      "en": "In each row and delivery position, the fee will have a relative difference so you better call the number of hotline 0909 81 6625 to be the best recorded price!",
+      "zh": "在每一行和交货位置,收费会有相对的差别,所以你最好拨打热线号码0909 81 6625,作为最好记录的价格!"
+    },
+    "uy tín và chuyên nghiệp tại Lưu Lê, hy vọng sẽ giúp ích cho sự lựa chọn sắp tới của bạn. Đừng quên liên hệ ngay tới số Hotline:": {
+      "en": "Fame and professionality at Liu, hopefully will help your next choice. Don't forget to contact Hotline number:",
+      "zh": "刘的名气和专业,希望能帮助你的下一个选择。 别忘了联系热线号码:"
+    },
+    "uy tín, hãy khám phá ngay bài dưới đây cùng Vận tải Lưu Lê nhé!": {
+      "en": "Fame, explore the following article with Liu Li.",
+      "zh": "名人,与刘力一起探索以下文章."
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "vận chuyển hàng Hà Nội Sóc Trăng": {
+      "en": "Transportation of the Arctic Moon",
+      "zh": "北极月球的运输"
+    },
+    "Điều khoản công ty": {
+      "en": "Company terms.",
+      "zh": "公司条款。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đôi nét về Sóc Trăng": {
+      "en": "Bits of the Moon",
+      "zh": "月球点数"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đảm bảo giá cạnh tranh hàng đầu": {
+      "en": "Make sure the top competitive price is guaranteed",
+      "zh": "确保最高竞争价格得到保证"
+    },
+    "Đặc biệt, khi đến Sóc Trăng, bạn sẽ phải ngạc nhiên với vẻ đẹp của các ngôi chùa cổ mang kiến trúc cực kỳ độc đáo, những phong cảnh tuyệt đẹp của các khu sinh thái tự nhiên, những món ăn ngon, lạ miệng và đặc biệt là người dân hiền lành, gần gũi. Một số điểm du lịch nổi tiếng của Sóc Trăng bạn nhất định phải ghé thăm khi có cơ hội đến nơi đây là: chợ nổi Ngã Năm, chùa Dơi, bảo tàng Khmer, chùa Chén Kiểu, vườn cò Tân Long, Côn Đảo,...": {
+      "en": "In particular, when you arrive at the Moon, you will be surprised by the beauty of ancient temples that carry extremely unique architecture, the beautiful landscapes of natural ecosystems, the delicious dishes, the strange mouths and especially the peaceful, close people. Some of the famous tourist attractions of the Moons you must definitely visit when you have a chance to come to this place are: the floating market of the Year, the Bat House, the Khmer Museum, the Kind of Grail, the New Long Garden, the Constance of the Island,...",
+      "zh": "特别是到达月球时,会惊奇地看到承载着极其独特的建筑的古代寺庙的美丽,自然生态系统的美丽景观,美味的菜肴,奇特的嘴,特别是和平,亲密的人. 月球上的一些著名的旅游景点 当你有机会来到这个地方时,你一定要参观的有: 年度的浮动市场,蝙蝠之家,高棉博物馆,圣杯之类,新长花园,岛的康斯坦丝,......"
+    },
+    "Đồ gia đình": {
+      "en": "Family stuff.",
+      "zh": "家庭的东西。"
+    },
+    "để được Lưu Lê hỗ trợ 24/7 nếu có bất kỳ thắc mắc hay vấn đề cần giải đáp nhé!": {
+      "en": "Let's get some help from Liu, 24/7 if we have any questions or problems to answer!",
+      "zh": "如果有什么问题要回答,请刘少奇帮忙!"
+    },
+    "► Vận chuyển đường bộ": {
+      "en": "Route Transport",
+      "zh": "公路运输"
+    },
+    "► Vận chuyển đường hàng không": {
+      "en": "Air Transport",
+      "zh": "空运"
+    },
+    "► Vận chuyển đường sắt": {
+      "en": "Railway Transport",
+      "zh": "铁路运输"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}
