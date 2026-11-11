@@ -193,6 +193,14 @@
       "en": "QUOTATION",
       "zh": "报价"
     },
+    "BÊN GỬI": {
+      "en": "SENDER",
+      "zh": "寄件方"
+    },
+    "BÊN NHẬN": {
+      "en": "RECIPIENT",
+      "zh": "收件方"
+    },
     "Báo Giá Rõ Ràng": {
       "en": "Transparent Quotations",
       "zh": "透明报价"
@@ -229,9 +237,17 @@
       "en": "Where is licence plate code 89 from? [Definitive guide]",
       "zh": "89号车牌属于哪里？【权威指南】"
     },
+    "Bạn cần hỗ trợ?": {
+      "en": "Need Support?",
+      "zh": "需要帮助吗？"
+    },
     "Bạn cần tìm gì?": {
       "en": "What are you looking for?",
       "zh": "你们在找什么?"
+    },
+    "Bạn cần tư vấn?": {
+      "en": "Need Assistance?",
+      "zh": "需要咨询吗？"
     },
     "Bạn đang băn khoăn tàu nhanh nhất Sài Gòn Hà Nội bao nhiêu tiếng? Đơn vị nào cung cấp dịch vụ vận chuyển uy tín? Đồng...": {
       "en": "Wondering how many hours the fastest train from Sài Gòn to Hanoi takes, or which transport company to choose? Read on...",
@@ -248,6 +264,10 @@
     "Bạn đang có ý định gửi xe máy tại ga Sài Gòn nhưng không biết gửi ở đâu? Bạn lo lắng việc gửi xe ở ga...": {
       "en": "Planning to send a motorcycle from Sài Gòn Railway Station but unsure where to go? You may also be concerned about...",
       "zh": "想从西贡火车站托运摩托车，却不清楚办理地点？您可能还担心……"
+    },
+    "Bạn đang gặp khó khăn?": {
+      "en": "Need Help?",
+      "zh": "需要帮助吗？"
     },
     "Bạn đang muốn biết biển số 83 tỉnh nào? Ký hiệu biển 83 có những gì đặc biệt. Hãy cùng vận tải Lưu Lê tham khảo...": {
       "en": "Wondering where licence plate code 83 is used and what its special markings mean? Find out with Luu Le Transport...",
@@ -309,6 +329,10 @@
       "en": "Placeboard is ready. The results came out as soon as you hit the card.",
       "zh": "板子准备好了 你一打出牌,结果就出来了"
     },
+    "Bảo quản": {
+      "en": "Storage",
+      "zh": "仓储保管"
+    },
     "Bật mí đến bạn cách xác định hướng Đông Tây Nam Bắc ĐƠN GIẢN": {
       "en": "Easy ways to determine north, south, east and west",
       "zh": "轻松辨别东南西北方向的方法"
@@ -322,12 +346,12 @@
       "zh": "开始咨询"
     },
     "Bằng mã vận đơn": {
-      "en": "In Single Passcode",
-      "zh": "在单行码中"
+      "en": "By Tracking Number",
+      "zh": "按运单号"
     },
     "Bằng số điện thoại": {
-      "en": "By phone number",
-      "zh": "按电话号码"
+      "en": "By Phone Number",
+      "zh": "按手机号"
     },
     "Bọc bảo vệ xe": {
       "en": "Car Guard",
@@ -340,6 +364,10 @@
     "Bố trí đường bộ hoặc đường sắt phù hợp": {
       "en": "Arrange suitable road or rail transport",
       "zh": "安排合适的公路或铁路运输"
+    },
+    "Bốc xếp": {
+      "en": "Loading & Unloading",
+      "zh": "装卸"
     },
     "Bốc xếp đầu giao": {
       "en": "Bulk head off.",
@@ -386,8 +414,8 @@
       "zh": "伟大"
     },
     "CHÍNH SÁCH": {
-      "en": "BIT",
-      "zh": "双边投资条约"
+      "en": "POLICIES",
+      "zh": "政策"
     },
     "CHÚNG TÔI": {
       "en": "US",
@@ -410,8 +438,8 @@
       "zh": "当然"
     },
     "Cam kết của chúng tôi": {
-      "en": "Our commitment.",
-      "zh": "我们的承诺。"
+      "en": "Our Commitments",
+      "zh": "我们的承诺"
     },
     "Chat Zalo Vận Tải Lưu Lê": {
       "en": "Chat Zalo Download Archive",
@@ -434,16 +462,16 @@
       "zh": "摩托车跨地区登记转移手续详解"
     },
     "Chiều cao/kiện": {
-      "en": "Height",
-      "zh": "高度"
+      "en": "Height per Package",
+      "zh": "每件高度"
     },
     "Chiều dài/kiện": {
-      "en": "Length/PDF",
-      "zh": "长度/PDF"
+      "en": "Length per Package",
+      "zh": "每件长度"
     },
     "Chiều rộng/kiện": {
-      "en": "Length/DVD",
-      "zh": "长度/DVD"
+      "en": "Width per Package",
+      "zh": "每件宽度"
     },
     "Chuyển kho xưởng Hà Nội → Sài Gòn": {
       "en": "Transfer the Hanoi factory of Saigon",
@@ -522,8 +550,8 @@
       "zh": "车泽洛 刘运"
     },
     "Chính sách bảo mật thông tin": {
-      "en": "Information Security Policy",
-      "zh": "信息安全政策"
+      "en": "Privacy Policy",
+      "zh": "隐私政策"
     },
     "Chính sách công ty": {
       "en": "Company Policy",
@@ -531,11 +559,11 @@
     },
     "Chính sách thanh toán": {
       "en": "Payment Policy",
-      "zh": "支付政策"
+      "zh": "付款政策"
     },
     "Chính sách đền bù thiệt hại": {
-      "en": "Damage Policy",
-      "zh": "损害政策"
+      "en": "Damage Compensation Policy",
+      "zh": "货损赔偿政策"
     },
     "Chúng ta thường thấy có khẩu hiệu hàng dễ vỡ xin nhẹ tay được dán trên các thùng hàng hóa. Bởi vì chuyển hàng hóa có...": {
       "en": "The label “Fragile – Handle with Care” is often attached to shipping cartons because transporting goods can...",
@@ -570,16 +598,36 @@
       "zh": "Thu Trang 女士"
     },
     "Chọn Ga Gửi": {
-      "en": "Send",
-      "zh": "发送"
+      "en": "Select Origin Rail Station",
+      "zh": "请选择始发站"
     },
     "Chọn Ga Nhận": {
-      "en": "Configure Gadget",
-      "zh": "配置组件"
+      "en": "Select Destination Rail Station",
+      "zh": "请选择到达站"
     },
     "Chọn Hãng và dòng xe để hệ thống tự phân loại": {
       "en": "Select the Constance and Line of the car to classification system",
       "zh": "选择车厢的 Constance 和线路到分类系统"
+    },
+    "Chọn Phương thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
+    "Chọn Phường/Xã": {
+      "en": "Select Ward/Commune",
+      "zh": "请选择坊／社"
+    },
+    "Chọn Quận/Huyện": {
+      "en": "Select District",
+      "zh": "请选择区／县"
+    },
+    "Chọn Tỉnh / Thành phố": {
+      "en": "Select Province/City",
+      "zh": "请选择省／直辖市"
+    },
+    "Chọn Tỉnh/Thành phố": {
+      "en": "Select Province/City",
+      "zh": "请选择省／直辖市"
     },
     "Chọn cách tra cứu vận đơn": {
       "en": "Select how to do a single study",
@@ -657,6 +705,10 @@
       "en": "ONLINE TOOLS",
       "zh": "在线工具"
     },
+    "CÔNG TY TNHH VẬN TẢI LƯU LÊ": {
+      "en": "Luu Le Transport Co., Ltd.",
+      "zh": "Luu Le 运输有限公司"
+    },
     "Các kiện hàng cùng một loại": {
       "en": "Packages of the same type",
       "zh": "同类软件包"
@@ -692,6 +744,10 @@
     "Có bọc": {
       "en": "Covered",
       "zh": "覆盖"
+    },
+    "Có lấy hàng tận nơi và giao hàng tận nơi không?": {
+      "en": "Do you offer door-to-door pickup and delivery?",
+      "zh": "是否提供上门取货和送货服务？"
     },
     "Có mã vận đơn: tra cứu ngay để xem trạng thái và lịch sử vận chuyển.": {
       "en": "There's a single pass code: Do an immediate search for status and travel history.",
@@ -782,8 +838,8 @@
       "zh": "伟大"
     },
     "Cước vận chuyển được tính như thế nào?": {
-      "en": "How is the transport calculated?",
-      "zh": "如何计算运输量?"
+      "en": "How is shipping cost calculated?",
+      "zh": "运费如何计算？"
     },
     "Cước vận chuyển được xác định dựa trên trọng lượng hoặc thể tích, loại hàng, tuyến đường, phương thức vận chuyển, hình thức lấy – giao và các yêu cầu đi kèm. Báo giá được trao đổi và xác nhận trước khi triển khai vận chuyển.": {
       "en": "Transportation is determined based on weight or volume, type of goods, route, method of transportation, form of acquisition – delivery and accompanying requests. The price papers were traded and confirmed before the transport deployment.",
@@ -804,6 +860,10 @@
     "Cần cung cấp thông tin gì để nhận báo giá nhanh?": {
       "en": "What information is needed to receive a quick price report?",
       "zh": "迅速收到价格报告需要哪些信息?"
+    },
+    "Cần tư vấn?": {
+      "en": "Need Assistance?",
+      "zh": "需要咨询吗？"
     },
     "CẬP NHẬT TIẾN ĐỘ VẬN CHUYỂN": {
       "en": "SHIPMENT STATUS UPDATES",
@@ -841,13 +901,37 @@
       "en": "Duy Tân Plastics",
       "zh": "Duy Tân Plastics"
     },
+    "Dùng địa chỉ mới sau sáp nhập": {
+      "en": "Use updated administrative addresses",
+      "zh": "使用行政区划调整后的新地址"
+    },
     "DỊCH VỤ": {
       "en": "Povray",
       "zh": "波维雷"
     },
+    "DỊCH VỤ BỔ SUNG": {
+      "en": "ADDITIONAL SERVICES",
+      "zh": "附加服务"
+    },
     "DỊCH VỤ CHÍNH": {
-      "en": "LUCY",
-      "zh": "卢森堡"
+      "en": "MAIN SERVICES",
+      "zh": "主要服务"
+    },
+    "DỊCH VỤ CUNG CẤP": {
+      "en": "OUR SERVICES",
+      "zh": "服务项目"
+    },
+    "DỊCH VỤ CỘNG THÊM": {
+      "en": "ADDITIONAL SERVICES",
+      "zh": "附加服务"
+    },
+    "DỊCH VỤ PHÁT SINH": {
+      "en": "ADDITIONAL SERVICES",
+      "zh": "附加服务"
+    },
+    "Dịch vụ bốc xếp": {
+      "en": "Loading & Unloading Service",
+      "zh": "装卸服务"
     },
     "Dịch vụ bổ sung": {
       "en": "Plugin Services",
@@ -862,8 +946,8 @@
       "zh": "主要运输事务处"
     },
     "Dịch vụ vận chuyển hàng hóa": {
-      "en": "Transportation Services",
-      "zh": "运输服务"
+      "en": "Freight Transportation Services",
+      "zh": "货物运输服务"
     },
     "Dọn chuyển nhà là một vấn đề vô cùng quan trọng đối với mỗi gia đình. Vậy tuổi Kỷ Mùi dọn nhà ngày nào tốt? Hãy...": {
       "en": "Moving house is an important event for every family. Which date is suitable for someone born in the Kỷ Mùi year?...",
@@ -894,12 +978,12 @@
       "zh": "已存档下载 Facebook"
     },
     "GA GỬI": {
-      "en": "GAKI",
-      "zh": "嘉纪"
+      "en": "ORIGIN RAIL STATION",
+      "zh": "始发站"
     },
     "GA NHẬN": {
-      "en": "GACAR",
-      "zh": "加纳"
+      "en": "DESTINATION RAIL STATION",
+      "zh": "到达站"
     },
     "GIAO HÀNG & XÁC NHẬN": {
       "en": "DELIVERY & CONFIRMATION",
@@ -925,6 +1009,14 @@
       "en": "PORTUGUESE",
       "zh": "葡萄牙"
     },
+    "Ga đến Ga": {
+      "en": "Station-to-Station",
+      "zh": "站到站"
+    },
+    "Ga đến Nhà": {
+      "en": "Station-to-Door",
+      "zh": "站到门"
+    },
     "Ghi chú": {
       "en": "Comment",
       "zh": "注释"
@@ -949,9 +1041,25 @@
       "en": "Deal",
       "zh": "发牌"
     },
+    "Giao ban đêm": {
+      "en": "Night Delivery",
+      "zh": "夜间配送"
+    },
     "Giao hàng ban đêm": {
-      "en": "Night delivery",
-      "zh": "夜间分娩"
+      "en": "Night Delivery",
+      "zh": "夜间配送"
+    },
+    "Giao hàng tại kho": {
+      "en": "Collect at Warehouse",
+      "zh": "仓库提货"
+    },
+    "Giao hàng tận nơi": {
+      "en": "Delivery to Your Address",
+      "zh": "送货上门"
+    },
+    "Giao nhận tận nơi": {
+      "en": "Door-to-Door Pickup & Delivery",
+      "zh": "上门取货及送货"
     },
     "Giao đúng người, đúng địa chỉ": {
       "en": "Deliver to the correct recipient and address",
@@ -986,8 +1094,8 @@
       "zh": "走开"
     },
     "GÓC TƯ VẤN": {
-      "en": "GREATIVES",
-      "zh": "伟大"
+      "en": "ADVICE & GUIDES",
+      "zh": "咨询与指南"
     },
     "Gọi 0909 81 6625": {
       "en": "Calling 0909 81 6625",
@@ -1038,8 +1146,8 @@
       "zh": "派汉南南去"
     },
     "Gửi hàng Hà Nội – Sài Gòn": {
-      "en": "Send the Hanoits – Saigon",
-      "zh": "派河内人去西贡"
+      "en": "Ship from Hanoi to Saigon",
+      "zh": "从河内寄货至西贡"
     },
     "Gửi hàng Hưng Yên → Miền Nam": {
       "en": "Send the Peace Line",
@@ -1074,8 +1182,8 @@
       "zh": "发送宁古行"
     },
     "Gửi hàng Sài Gòn – Hà Nội": {
-      "en": "Send Saigon – Hanoi",
-      "zh": "发送西贡 — 河内"
+      "en": "Ship from Saigon to Hanoi",
+      "zh": "从西贡寄货至河内"
     },
     "Gửi hàng Thái Nguyên → Miền Nam": {
       "en": "Send Thai Yuan 06 South",
@@ -1101,13 +1209,17 @@
       "en": "Send bronze Nai : North",
       "zh": "送出青铜乃:北去."
     },
+    "Gửi thông tin yêu cầu, Lưu Lê hỗ trợ phương án phù hợp.": {
+      "en": "Send your shipment details and Luu Le will recommend a suitable solution.",
+      "zh": "请提交运输需求，Luu Le 将为您推荐合适的方案。"
+    },
     "Gửi thông tin đơn hàng, Lưu Lê hỗ trợ phương án phù hợp.": {
       "en": "Send application information, Liu Li supports the appropriate method.",
       "zh": "发送应用信息,刘力支持适当方法."
     },
     "Gửi xe máy Bắc Nam": {
-      "en": "Send a Northern South motorcycle",
-      "zh": "派一辆南车过去"
+      "en": "North–South Motorcycle Shipping",
+      "zh": "南北摩托车托运"
     },
     "Gửi xe máy qua đêm ở ga Sài Gòn như thế nào?": {
       "en": "How to park a motorcycle overnight at Sài Gòn Railway Station",
@@ -1118,8 +1230,8 @@
       "zh": "从西贡火车站托运摩托车安全吗？"
     },
     "Gửi yêu cầu báo giá": {
-      "en": "Submit quotation request",
-      "zh": "提交报价申请"
+      "en": "Request a Quote",
+      "zh": "申请报价"
     },
     "HOTLINE": {
       "en": "Hotline",
@@ -1166,8 +1278,8 @@
       "zh": "企业货运"
     },
     "Hàng hóa thông thường": {
-      "en": "Normal goods",
-      "zh": "正常货物"
+      "en": "General Cargo",
+      "zh": "普通货物"
     },
     "Hàng hóa được kiểm soát trong quá trình tiếp nhận, lưu kho, trung chuyển và giao nhận. Với hàng có giá trị hoặc yêu cầu riêng, phương án bảo hiểm được áp dụng theo thỏa thuận và điều kiện của từng đơn hàng.": {
       "en": "Cargo is monitored during receipt, storage, transfers and delivery. For high-value goods or special requirements, insurance arrangements are agreed according to the terms of each shipment.",
@@ -1208,6 +1320,10 @@
     "Hãng và dòng xe": {
       "en": "The Company and the Car Line",
       "zh": "公司和汽车线路"
+    },
+    "Hình thức giao nhận": {
+      "en": "Pickup & Delivery Method",
+      "zh": "收发货方式"
     },
     "Hơn 10 năm kinh nghiệm cùng đội ngũ và năng lực vận hành giúp Lưu Lê vận chuyển an toàn, rõ ràng và hiệu quả.": {
       "en": "With over 10 years of experience, a dedicated team and strong operational capabilities, Luu Le provides safe, transparent and efficient transport services.",
@@ -1260,6 +1376,10 @@
     "Hỗ trợ lưu kho và trung chuyển": {
       "en": "Storage and transfer services",
       "zh": "仓储与中转支持"
+    },
+    "Hỗ trợ nhanh": {
+      "en": "QUICK SUPPORT",
+      "zh": "快速支持"
     },
     "Hỗ trợ vận chuyển Bắc – Nam và giao nhận theo yêu cầu.": {
       "en": "North–South transport with pickup and delivery on request.",
@@ -1325,6 +1445,10 @@
       "en": "Where is Nanning Warehouse? How long does shipping to Vietnam take?",
       "zh": "南宁仓在哪里？运送到越南需要多久？"
     },
+    "Kho bãi": {
+      "en": "Warehousing",
+      "zh": "仓储场地"
+    },
     "Kho bãi hỗ trợ tập kết, phân loại, lưu hàng và trung chuyển giúp quá trình vận tải được tổ chức linh hoạt và chủ động hơn.": {
       "en": "Our warehouses support consolidation, sorting, storage and transfers, enabling flexible and proactive transport operations.",
       "zh": "仓库支持集货、分拣、存储与中转，使运输组织更灵活、更高效。"
@@ -1332,6 +1456,10 @@
     "Kho trung chuyển Hà Nội 02 ở đâu? Thông tin chi tiết": {
       "en": "Where is Hanoi Transfer Warehouse 02? Detailed information",
       "zh": "河内02号中转仓库在哪里？详细信息"
+    },
+    "Kho đến Kho": {
+      "en": "Warehouse-to-Warehouse",
+      "zh": "仓到仓"
     },
     "Khách hàng có đầu mối liên hệ để trao đổi và cập nhật tình trạng đơn hàng trong quá trình vận chuyển, giúp chủ động hơn trong kế hoạch nhận hàng và phối hợp giao nhận.": {
       "en": "Customers have a designated contact for shipment status updates and coordination, helping them plan receipt and delivery more effectively.",
@@ -1370,12 +1498,12 @@
       "zh": "重量"
     },
     "Khối lượng tổng": {
-      "en": "Total mass",
-      "zh": "总质量"
+      "en": "Total Weight",
+      "zh": "总重量"
     },
     "Khối lượng/kiện": {
-      "en": "Volume/PDF",
-      "zh": "数量/PDF"
+      "en": "Weight per Package",
+      "zh": "每件重量"
     },
     "Kinh nghiệm hàng nặng, cồng kềnh, máy móc": {
       "en": "Experience with heavy, oversized cargo and machinery",
@@ -1422,8 +1550,8 @@
       "zh": "便捷连接铁路货站与卡车"
     },
     "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
-      "en": "Connect with Media via Official Channels.",
-      "zh": "通过官方频道与媒体连接."
+      "en": "Connect with Luu Le Transport through our official channels.",
+      "zh": "通过官方渠道联系 Luu Le 运输公司。"
     },
     "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
       "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
@@ -1434,8 +1562,8 @@
       "zh": "希腊"
     },
     "LIÊN KẾT": {
-      "en": "GREECE",
-      "zh": "希腊"
+      "en": "CONNECT WITH US",
+      "zh": "联系我们"
     },
     "LOẠI 1": {
       "en": "JSTOR 1",
@@ -1489,6 +1617,10 @@
       "en": "Media Media Contact",
       "zh": "媒体联系人"
     },
+    "Liên hệ tư vấn": {
+      "en": "Contact Us for Advice",
+      "zh": "联系咨询"
+    },
     "Logistics": {
       "en": "Logistics",
       "zh": "物流"
@@ -1500,6 +1632,10 @@
     "Loại hàng cần vận chuyển": {
       "en": "Type of cargo to transport",
       "zh": "货物类型"
+    },
+    "Loại hàng nào Vận Tải Lưu Lê nhận vận chuyển?": {
+      "en": "What types of cargo does Luu Le Transport handle?",
+      "zh": "Luu Le 运输公司承运哪些货物？"
     },
     "Loại hàng, số lượng, kích thước": {
       "en": "Cargo type, quantity and dimensions",
@@ -1538,8 +1674,8 @@
       "zh": "刘列夫优先兼顾安全,接管,时间,成本和海运."
     },
     "Lưu kho": {
-      "en": "Archive",
-      "zh": "存档"
+      "en": "Storage",
+      "zh": "仓储"
     },
     "Lưu ý:": {
       "en": "Note:",
@@ -1565,6 +1701,10 @@
       "en": "Pickup schedules, estimated transit times and delivery plans are discussed in advance. If external factors affect progress, customers are proactively informed so both parties can coordinate a response.",
       "zh": "我们会提前沟通取货时间、预计运输时效及交付计划。如客观因素影响进度，将主动通知客户并协调应对。"
     },
+    "Lịch sử vận chuyển": {
+      "en": "Shipment History",
+      "zh": "运输记录"
+    },
     "Lộc Trời": {
       "en": "Lộc Trời",
       "zh": "Lộc Trời"
@@ -1578,12 +1718,16 @@
       "zh": "机械与设备"
     },
     "Máy móc, thiết bị": {
-      "en": "Machines, Devices",
-      "zh": "机器、设备"
+      "en": "Machinery & Equipment",
+      "zh": "机械设备"
     },
     "Mã vận đơn": {
-      "en": "Singles Code",
-      "zh": "单身者代码"
+      "en": "Tracking Number",
+      "zh": "运单号"
+    },
+    "Mô tả hàng hóa": {
+      "en": "Cargo Description",
+      "zh": "货物描述"
     },
     "Mô tả ngắn vị trí bốc xếp đầu giao": {
       "en": "Short description of the intersection position",
@@ -1596,6 +1740,10 @@
     "Mạng xã hội Vận Tải Lưu Lê": {
       "en": "Archived Social Network",
       "zh": "存档社会网络"
+    },
+    "Mất bao lâu để vận chuyển?": {
+      "en": "How long does delivery take?",
+      "zh": "运输需要多长时间？"
     },
     "Mẹo gửi hàng": {
       "en": "Shipping tips",
@@ -1681,6 +1829,14 @@
       "en": "Demand for motorcycle transport from Ho Chi Minh City to other provinces continues to grow. Many people choose to send...",
       "zh": "从胡志明市向其他省份运输摩托车的需求不断增加。许多人选择……"
     },
+    "Nhà đến Ga": {
+      "en": "Door-to-Station",
+      "zh": "门到站"
+    },
+    "Nhà đến Nhà": {
+      "en": "Door-to-Door",
+      "zh": "门到门"
+    },
     "Nhân sự phối hợp vận hành và phục vụ": {
       "en": "Operations and customer service personnel",
       "zh": "运营及客户服务人员"
@@ -1705,6 +1861,14 @@
       "en": "Receive the correct price",
       "zh": "接收正确的价格"
     },
+    "Nhận hàng tại kho": {
+      "en": "Drop-off at Warehouse",
+      "zh": "送货至仓库"
+    },
+    "Nhận hàng tận nơi": {
+      "en": "Pickup at Your Address",
+      "zh": "上门取货"
+    },
     "Nhận vận chuyển hàng từ Hà Nội vào TP.HCM với phương án linh hoạt theo loại hàng, khối lượng và địa điểm giao nhận.": {
       "en": "Get freight from Hanoi into TP.HCM with flexible options according to the type of row, mass and location delivered.",
       "zh": "从河内运入TP.HCM,可按行型,质量和交付地点灵活选择."
@@ -1718,8 +1882,12 @@
       "zh": "输入家族和姓名"
     },
     "Nhập mã vận đơn": {
-      "en": "Enter single transport code",
-      "zh": "输入单一运输代码"
+      "en": "Enter Tracking Number",
+      "zh": "请输入运单号"
+    },
+    "Nhập mã vận đơn hoặc số điện thoại đăng ký": {
+      "en": "Enter tracking number or registered phone number",
+      "zh": "请输入运单号或登记的手机号码"
     },
     "Nhập mã vận đơn hoặc số điện thoại đăng ký để xem nhanh tình trạng giao nhận và hành trình vận chuyển của Quý khách.": {
       "en": "Enter the single transfer code or phone number registered to quickly view the transfer status and the passenger's transport route.",
@@ -1750,8 +1918,8 @@
       "zh": "输入电子邮箱地址"
     },
     "Những lưu ý chung": {
-      "en": "Common Notes",
-      "zh": "共同说明"
+      "en": "General Information",
+      "zh": "一般须知"
     },
     "Những lưu ý khi cúng về nhà mới bạn đã biết chưa?": {
       "en": "What to know about housewarming offerings and rituals",
@@ -1793,6 +1961,14 @@
       "en": "Pickup location",
       "zh": "取货地址"
     },
+    "Nơi đi": {
+      "en": "Origin",
+      "zh": "始发地"
+    },
+    "Nơi đến": {
+      "en": "Destination",
+      "zh": "目的地"
+    },
     "Nếu có": {
       "en": "If applicable",
       "zh": "如适用"
@@ -1828,6 +2004,10 @@
     "PHỐI HỢP XỬ LÝ PHÁT SINH": {
       "en": "COORDINATED ISSUE RESOLUTION",
       "zh": "异常情况协调处理"
+    },
+    "PHỤ PHÍ DỊCH VỤ": {
+      "en": "SERVICE SURCHARGES",
+      "zh": "服务附加费"
     },
     "Pallet": {
       "en": "Pallet",
@@ -1902,8 +2082,8 @@
       "zh": "清晰的运输方案"
     },
     "Phường/Xã": {
-      "en": "KSnapshot",
-      "zh": "KSnapshot 图像"
+      "en": "Ward/Commune",
+      "zh": "坊／社"
     },
     "Phối hợp theo dõi quá trình lấy hàng, vận chuyển và giao hàng để khách hàng chủ động nắm tình trạng đơn, thời gian dự kiến và các thông tin cần thiết trong suốt hành trình.": {
       "en": "Coordination tracks the acquisition process, transportation and delivery so that customers take the initiative to take on the single status, the scheduled time and the necessary information throughout the journey.",
@@ -1962,8 +2142,8 @@
       "zh": "您可以在这里快速搜索应用程序, 以尽可能方便地监控发送状态和运输路线。"
     },
     "Quận/Huyện": {
-      "en": "District/Local",
-      "zh": "地区/地方"
+      "en": "District",
+      "zh": "区／县"
     },
     "Rạng Đông": {
       "en": "Rạng Đông",
@@ -1989,9 +2169,13 @@
       "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
       "zh": "MLIZER:轻度50000 mph/m3;重度bleh/dm. 法规增加的带有电梯的地板/地点"
     },
+    "Số kiện": {
+      "en": "Number of Packages",
+      "zh": "件数"
+    },
     "Số kiện tổng": {
-      "en": "Total Number",
-      "zh": "总数"
+      "en": "Total Packages",
+      "zh": "总件数"
     },
     "Số liệu thực tế khách nhập luôn được ưu tiên hơn số liệu ước tính.": {
       "en": "In fact the entry is always preferred over the estimates.",
@@ -2026,8 +2210,8 @@
       "zh": "公司使命"
     },
     "Sử dụng địa danh mới sau sáp nhập": {
-      "en": "Use the New Place After Indentation",
-      "zh": "缩进后使用新位置"
+      "en": "Use updated administrative place names",
+      "zh": "使用行政区划调整后的新地名"
     },
     "Sử dụng địa danh mới sau sáp nhập cho địa chỉ gửi": {
       "en": "Use the following new name integrating address",
@@ -2037,13 +2221,21 @@
       "en": "Use the following new name integrating address",
       "zh": "使用以下新名称集成地址"
     },
+    "THEO DÕI NHANH": {
+      "en": "QUICK TRACKING",
+      "zh": "快速跟踪"
+    },
+    "THEO DÕI VẬN ĐƠN": {
+      "en": "TRACK SHIPMENT",
+      "zh": "跟踪运单"
+    },
     "THÔNG BÁO": {
       "en": "FINAL",
       "zh": "最终结果"
     },
     "THÔNG TIN": {
-      "en": "INTERVIEW",
-      "zh": "专访"
+      "en": "INFORMATION",
+      "zh": "公司信息"
     },
     "THÔNG TIN HÀNG HÓA": {
       "en": "CARGO INFORMATION",
@@ -2078,16 +2270,24 @@
       "zh": "查询运输费率"
     },
     "TRA CỨU NGAY": {
-      "en": "NORTH",
-      "zh": "北边"
+      "en": "TRACK NOW",
+      "zh": "立即查询"
     },
     "TRA CỨU VẬN ĐƠN": {
-      "en": "Track Your Shipment",
+      "en": "TRACK SHIPMENT",
       "zh": "查询运单"
+    },
+    "TRA CỨU VẬN ĐƠN NHANH": {
+      "en": "QUICK SHIPMENT TRACKING",
+      "zh": "快速查询运单"
     },
     "TRANG CHỦ": {
       "en": "Home",
       "zh": "首页"
+    },
+    "TRUNG TÂM HƯỚNG DẪN": {
+      "en": "HELP CENTER",
+      "zh": "使用指南中心"
     },
     "TUYẾN VẬN CHUYỂN": {
       "en": "SHIPPING ROUTE",
@@ -2125,9 +2325,25 @@
       "en": "Track shipment progress",
       "zh": "跟踪货物运输进度"
     },
+    "Theo dõi đơn hàng thế nào?": {
+      "en": "How can I track my shipment?",
+      "zh": "如何查询货物运输进度？"
+    },
+    "Thu gọn địa chỉ sau sáp nhập": {
+      "en": "Use updated administrative addresses",
+      "zh": "使用调整后的行政地址"
+    },
+    "Thành phố Hà Nội": {
+      "en": "Hanoi",
+      "zh": "河内"
+    },
+    "Thành phố Hồ Chí Minh": {
+      "en": "Ho Chi Minh City",
+      "zh": "胡志明市"
+    },
     "Thôn/Xóm/Ấp, đường và số nhà": {
-      "en": "Santos/Xóm/Press, Road and Home Number",
-      "zh": "桑托斯/Xóm/新闻、道路和家庭编号"
+      "en": "Hamlet, street and house number",
+      "zh": "村／组、街道及门牌号"
     },
     "Thông thường đi tàu từ Hà Nội vào Huế mất bao lâu?": {
       "en": "How long does the train from Hanoi to Huế usually take?",
@@ -2137,6 +2353,10 @@
       "en": "Your information will only be used to provide consultation and quotations.",
       "zh": "所填信息仅用于咨询及报价。"
     },
+    "Thông tin gửi hàng": {
+      "en": "Shipment Details",
+      "zh": "寄件信息"
+    },
     "Thông tin hàng hóa": {
       "en": "Row Information",
       "zh": "行信息"
@@ -2145,9 +2365,13 @@
       "en": "Customer information",
       "zh": "客户信息"
     },
+    "Thông tin nhận hàng": {
+      "en": "Delivery Details",
+      "zh": "收货信息"
+    },
     "Thể tích tổng": {
-      "en": "Total volume",
-      "zh": "总量"
+      "en": "Total Volume",
+      "zh": "总体积"
     },
     "Thống nhất thời gian dự kiến": {
       "en": "Agree on the estimated schedule",
@@ -2156,6 +2380,10 @@
     "Thời gian": {
       "en": "Time",
       "zh": "时间"
+    },
+    "Thời gian vận chuyển": {
+      "en": "Transit Time",
+      "zh": "运输时效"
     },
     "Thời gian vận chuyển hàng hóa mất bao lâu?": {
       "en": "How long will it take to transport?",
@@ -2173,6 +2401,18 @@
       "en": "Transportation Review",
       "zh": "运输审查"
     },
+    "Tra cứu bằng mã vận đơn": {
+      "en": "Search by Tracking Number",
+      "zh": "按运单号查询"
+    },
+    "Tra cứu bằng số điện thoại": {
+      "en": "Search by Phone Number",
+      "zh": "按手机号查询"
+    },
+    "Tra cứu giá cước vận chuyển": {
+      "en": "Check Shipping Rates",
+      "zh": "运费查询"
+    },
     "Tra cứu vận đơn": {
       "en": "Search for Singles",
       "zh": "寻找单身者"
@@ -2185,6 +2425,10 @@
       "en": "Guide Center",
       "zh": "引导中心"
     },
+    "Trọng lượng tổng": {
+      "en": "Total Weight",
+      "zh": "总重量"
+    },
     "Trở thành thương hiệu vận chuyển hàng hóa đáng tin cậy trên các tuyến Bắc – Nam và liên tỉnh. Lưu Lê từng bước mở rộng mạng lưới, nâng cao năng lực, ứng dụng công nghệ để phục vụ chuyên nghiệp, linh hoạt và hiệu quả.": {
       "en": "To become a trusted freight transport brand on North–South and interprovincial routes. Luu Le will expand its network, strengthen capabilities and adopt technology to deliver professional, flexible and efficient services.",
       "zh": "成为南北干线及跨省货运领域值得信赖的品牌。Luu Le 将逐步拓展网络、提升运力并运用技术，提供更专业、灵活、高效的服务。"
@@ -2194,12 +2438,16 @@
       "zh": "AI 媒体助理"
     },
     "Tuyến vận chuyển": {
-      "en": "Transport Line",
-      "zh": "运输线"
+      "en": "Shipping Route",
+      "zh": "运输路线"
     },
     "Tuyến Đường": {
       "en": "Lineline",
       "zh": "线条"
+    },
+    "Tuyến đường": {
+      "en": "Route",
+      "zh": "线路"
     },
     "Tuyến đường sắt": {
       "en": "Railway",
@@ -2246,8 +2494,8 @@
       "zh": "Tân Á Đại Thành"
     },
     "Tên hàng": {
-      "en": "Row Name",
-      "zh": "行名称"
+      "en": "Cargo Description",
+      "zh": "货物名称"
     },
     "Tên máy/thiết bị": {
       "en": "Hostname/ Device",
@@ -2261,6 +2509,10 @@
       "en": "Organisation",
       "zh": "日历"
     },
+    "Tình trạng đơn hàng": {
+      "en": "Shipment Status",
+      "zh": "运单状态"
+    },
     "Tích chọn nếu lô đồ gia đình có xe máy đi cùng": {
       "en": "Select if a family shipment has a motorcycle with it",
       "zh": "选择家用货有没有摩托车"
@@ -2272,6 +2524,10 @@
     "Tính ngay": {
       "en": "Calculate Now",
       "zh": "立即计算"
+    },
+    "Tôi cần cung cấp thông tin gì để nhận báo giá nhanh?": {
+      "en": "What details do I need for a quick quote?",
+      "zh": "快速报价需要提供哪些信息？"
     },
     "Tôi cần vận chuyển gọn, rõ đầu việc và đúng thời gian. Đội ngũ tư vấn sát nhu cầu, phối hợp nhanh nên quá trình giao nhận diễn ra thuận lợi.": {
       "en": "We need streamlined transportation, clear responsibilities and punctual delivery. Their team understands our needs and coordinates quickly, so the process runs smoothly.",
@@ -2346,8 +2602,8 @@
       "zh": "全国服务覆盖省市"
     },
     "Tỉnh/Thành phố": {
-      "en": "Province/ City",
-      "zh": "省/市"
+      "en": "Province/City",
+      "zh": "省／直辖市"
     },
     "Tỉnh/thành phố hoặc địa chỉ giao hàng": {
       "en": "Province/city or delivery address",
@@ -2378,8 +2634,8 @@
       "zh": "汽车组织在仓库,车间,或发送地址取货;连接主要路线,并在客户需要时将其送到接收者的地址."
     },
     "Tổng số kiện": {
-      "en": "Total count",
-      "zh": "总数"
+      "en": "Total Packages",
+      "zh": "总件数"
     },
     "Tổng số kiện hàng": {
       "en": "Total Packages",
@@ -2393,13 +2649,17 @@
       "en": "From receiving requests and quoting to dispatch, consolidation, transport and delivery, each stage is coordinated under a consistent process.",
       "zh": "从接收需求、咨询报价、车辆调度、集货运输到最终交付，各环节均按统一流程协同运作。"
     },
+    "Từ đâu": {
+      "en": "Origin",
+      "zh": "始发地"
+    },
     "Từ đơn hàng nhỏ lẻ đến hàng số lượng lớn, từ khách hàng cá nhân đến doanh nghiệp, phương án vận chuyển được lựa chọn dựa trên đặc tính hàng hóa, tuyến đường, thời gian và nhu cầu giao nhận thực tế.": {
       "en": "From small consignments to high-volume cargo, and from individuals to businesses, we select transport solutions based on cargo characteristics, routes, delivery times and actual pickup and delivery needs.",
       "zh": "无论是小批货物还是大宗货物，无论是个人还是企业，我们都根据货物特点、线路、时效及实际收发货需求选择运输方案。"
     },
     "TỰ NHẬN DIỆN & TÍNH M³": {
-      "en": "M3",
-      "zh": "M3级"
+      "en": "IDENTIFY CARGO & CALCULATE VOLUME",
+      "zh": "自动识别货物并计算体积"
     },
     "Uy tín – Trách nhiệm – An toàn – Minh bạch – Tận tâm là nền tảng trong mọi hoạt động. Từ tư vấn, báo giá đến giao nhận, chúng tôi duy trì cách làm việc rõ ràng, nhất quán và đặt quyền lợi khách hàng làm trọng tâm.": {
       "en": "Credibility, responsibility, safety, transparency and dedication underpin everything we do. From consultation and quotations to delivery, we work clearly and consistently, with customers' interests at the centre.",
@@ -2574,8 +2834,8 @@
       "zh": "运输"
     },
     "VẬN ĐƠN": {
-      "en": "I'm sorry.",
-      "zh": "对不起"
+      "en": "SHIPMENT TRACKING",
+      "zh": "运单跟踪"
     },
     "Vận Chuyển Hàng Bắc – Nam": {
       "en": "Northern Transport – South",
@@ -2630,8 +2890,8 @@
       "zh": "货物运输"
     },
     "Vận chuyển hàng Bắc Nam": {
-      "en": "Northern South Transportation",
-      "zh": "南北运输"
+      "en": "North–South Freight Transport",
+      "zh": "南北货物运输"
     },
     "Vận chuyển hàng Bắc – Nam bằng tàu hỏa, phù hợp hàng nặng, hàng số lượng lớn và nhu cầu giao nhận ổn định.": {
       "en": "Northern Transport – Males by train, in accordance with heavy cargo, large quantities and stable delivery needs.",
@@ -2694,8 +2954,8 @@
       "zh": "南北南北机器运输"
     },
     "Vận chuyển đường sắt Bắc Nam": {
-      "en": "North Southern Railway Transport",
-      "zh": "北方铁路运输"
+      "en": "North–South Rail Freight",
+      "zh": "南北铁路货运"
     },
     "VỀ CHÚNG TÔI": {
       "en": "About Us",
@@ -2774,7 +3034,7 @@
       "zh": "火车"
     },
     "Xe máy": {
-      "en": "Motorcycle",
+      "en": "Motorcycles",
       "zh": "摩托车"
     },
     "Xe máy & hàng cá nhân": {
@@ -2784,6 +3044,10 @@
     "Xe máy điện": {
       "en": "Electrical Car",
       "zh": "电动车"
+    },
+    "Xe nâng": {
+      "en": "Forklift Service",
+      "zh": "叉车服务"
     },
     "Xe phân khối lớn": {
       "en": "Large block car",
@@ -3046,7 +3310,7 @@
       "zh": "申请"
     },
     "YÊU CẦU BÁO GIÁ": {
-      "en": "Request a Quotation",
+      "en": "REQUEST A QUOTE",
       "zh": "申请报价"
     },
     "Yêu cầu báo giá vận chuyển Vận Tải Lưu Lê": {
@@ -3145,6 +3409,14 @@
       "en": "Pickup and Delivery Locations",
       "zh": "取货和送货地点"
     },
+    "ĐIỂM ĐI": {
+      "en": "PICKUP LOCATION",
+      "zh": "取货地点"
+    },
+    "ĐIỂM ĐẾN": {
+      "en": "DELIVERY LOCATION",
+      "zh": "收货地点"
+    },
     "Điền thông tin và chọn \"Tính cước ngay\" để xem chi tiết.": {
       "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
       "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
@@ -3170,8 +3442,8 @@
       "zh": "浏览我们的合作伙伴"
     },
     "Điều khoản công ty": {
-      "en": "Company terms.",
-      "zh": "公司条款。"
+      "en": "Company Terms",
+      "zh": "公司条款"
     },
     "Điều phối nhận hàng và đối chiếu tình trạng thực tế trước khi đưa vào vận chuyển.": {
       "en": "Coordinate pickup and verify the goods' condition before transport.",
@@ -3196,6 +3468,10 @@
     "Đóng gói đồ gia đình": {
       "en": "Pack your bags",
       "zh": "收拾东西"
+    },
+    "Đơn hàng bị hư hỏng thì giải quyết thế nào?": {
+      "en": "How are damaged shipments handled?",
+      "zh": "货物损坏如何处理？"
     },
     "Đơn hàng giao thành công": {
       "en": "Shipments successfully delivered",
@@ -3229,6 +3505,10 @@
       "en": "Quality - mass",
       "zh": "质量 - 质量"
     },
+    "Đến đâu": {
+      "en": "Destination",
+      "zh": "目的地"
+    },
     "ĐỀN BÙ KHI MẤT MÁT, HƯ HỎNG": {
       "en": "COMPENSATION FOR LOSS OR DAMAGE",
       "zh": "货物丢失或损坏赔偿"
@@ -3238,20 +3518,28 @@
       "zh": "根据运输路线、货物特点和实际需求制定合适的运输方案。"
     },
     "ĐỊA CHỈ GỬI": {
-      "en": "I'm sorry.",
-      "zh": "对不起"
+      "en": "PICKUP ADDRESS",
+      "zh": "取货地址"
     },
     "ĐỊA CHỈ NHẬN": {
-      "en": "HEALTH",
-      "zh": "卫生"
+      "en": "DELIVERY ADDRESS",
+      "zh": "收货地址"
+    },
+    "ĐỊA ĐIỂM GỬI": {
+      "en": "PICKUP LOCATION",
+      "zh": "取货地点"
+    },
+    "ĐỊA ĐIỂM NHẬN": {
+      "en": "DELIVERY LOCATION",
+      "zh": "收货地点"
     },
     "ĐỊNH HƯỚNG PHÁT TRIỂN": {
       "en": "DEVELOPMENT DIRECTION",
       "zh": "发展方向"
     },
     "Địa chỉ chi tiết": {
-      "en": "Chile",
-      "zh": "邮件地址"
+      "en": "Street Address",
+      "zh": "详细地址"
     },
     "ĐỐI TÁC": {
       "en": "PARTNERS",
@@ -3262,16 +3550,24 @@
       "zh": "核对数量及货物状况"
     },
     "Đồ gia đình": {
-      "en": "Family stuff.",
-      "zh": "家庭的东西。"
+      "en": "Household Goods",
+      "zh": "家居物品"
     },
     "Đồng hành": {
       "en": "Partnership",
       "zh": "携手同行"
     },
+    "Đổi chiều": {
+      "en": "Swap Origin and Destination",
+      "zh": "交换起点和终点"
+    },
     "Đổi chiều vận chuyển": {
       "en": "Change Transportation",
       "zh": "改变运输"
+    },
+    "Đổi điểm đi và điểm đến": {
+      "en": "Swap Pickup and Delivery Locations",
+      "zh": "交换取货和收货地址"
     },
     "Đội ngũ nhân sự phối hợp từ tư vấn, điều phối, kho bãi, tài xế, giao nhận đến chăm sóc khách hàng trong suốt quá trình vận chuyển.": {
       "en": "Our team works together across consultation, dispatch, warehousing, driving, pickup, delivery and customer care throughout each shipment.",
