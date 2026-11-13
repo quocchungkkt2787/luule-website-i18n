@@ -99,8 +99,8 @@ jobs:
       - name: Generate public translation packs
         if: steps.gate.outputs.build == 'true'
         env:
-          LL_MAX_PAGES: '450'
-          LL_MAX_NEW: '8000'
+          LL_MAX_PAGES: '1200'
+          LL_MAX_NEW: '12000'
         run: python tools/build_translations.py --browser
 
       - name: Apply reviewed homepage and terminology translations
@@ -148,6 +148,53 @@ jobs:
           print(f'Cache: {count}; total published packs: {total_packs}; '
                 f'pages pending: {pending}; progress: {progressed}; '
                 f'stalls: {state["no_progress_runs"]}')
+          PY
+
+      - name: Audit unresolved pages and why they are pending
+        if: steps.gate.outputs.build == 'true'
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+
+          def read(path):
+              try:
+                  return json.loads(Path(path).read_text(encoding='utf-8'))
+              except (OSError, ValueError):
+                  return {}
+
+          manifest = read('public/i18n/manifest.json')
+          coverage = read('public/i18n/coverage.json')
+          audit = read('public/i18n/audit.json')
+          pending = audit.get('pending_pages') or []
+          failed = coverage.get('skipped_or_failed') or []
+          unvisited = coverage.get('unvisited_examples') or []
+          print('---- PUBLIC TRANSLATION BACKLOG DIAGNOSTICS ----')
+          print('Pages pending:', manifest.get('pages_pending', 'n/a'))
+          print('Pages beyond crawl budget:', coverage.get('unvisited_count', 'n/a'))
+          print('Pages lacking a pack beyond crawl budget:', coverage.get('unvisited_without_existing_pack', 'n/a'))
+          print('Fetch failures:', len(failed))
+          print('Pages with incomplete translations:', len(pending))
+          print('Pending incomplete pages (up to 30):')
+          for p in pending[:30]:
+              print(' INCOMPLETE', p.get('route', ''), 'missing texts:', p.get('missing_count', '?'))
+          print('Failed URL fetches (up to 30):')
+          for f in failed[:30]:
+              print(' FETCH_ERROR', f.get('url', ''), ':', f.get('error', ''))
+          print('Unvisited examples (up to 30):')
+          for url in unvisited[:30]:
+              print(' UNVISITED', url)
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
+              out.write('### Translation backlog diagnostic\n\n')
+              out.write(f'- Pending packs: {manifest.get("pages_pending", "n/a")}\n')
+              out.write(f'- Unvisited URLs: {coverage.get("unvisited_count", "n/a")}\n')
+              out.write(f'- Unvisited without a pack: {coverage.get("unvisited_without_existing_pack", "n/a")}\n')
+              out.write(f'- Fetch errors: {len(failed)}\n')
+              out.write(f'- Pages with missing translation strings: {len(pending)}\n')
+              for row in pending[:12]:
+                  out.write(f'  - {row.get("route", "unknown")}: {row.get("missing_count", "?")} strings missing\n')
+              for row in failed[:8]:
+                  out.write(f'  - Fetch error {row.get("url", "unknown")}: {str(row.get("error", ""))[:100]}\n')
           PY
 
       - name: Persist generated packs and progress
