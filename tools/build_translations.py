@@ -12,6 +12,7 @@ import re
 import sys
 import time
 import unicodedata
+import heapq
 from collections import deque
 from datetime import datetime, timezone
 from html import unescape
@@ -30,7 +31,12 @@ USER_AGENT = 'LuuLePublicI18NBuilder/3.0 (+https://vantailuule.vn)'
 SCOPE = ('/blogs/', '/pages/', '/products/', '/collections/')
 # Important public tools can be absent from the sitemap or from normal HTML links.
 # This is a discovery list only: no private/account/quote/tracking pages are fetched.
-REQUIRED_PUBLIC_ROUTES = ('/pages/tra-cuu-gia-cuoc-van-chuyen',)
+REQUIRED_PUBLIC_ROUTES = (
+    '/pages/tra-cuu-gia-cuoc-van-chuyen',
+    '/blogs/van-chuyen-bac-nam',
+    '/blogs/van-chuyen-tphcm-mien-trung',
+    '/blogs/xe-tai-cho-hang-di-tinh',
+)
 
 REJECT = ('/pages/customer', '/pages/customer/', '/account', '/admin', '/cart', '/checkout', '/apps/', '/search', '/api/', '/cdn/', '/pages/ll-customer')
 SKIP_TAGS = {'style', 'script', 'noscript', 'template', 'svg', 'canvas', 'iframe', 'pre', 'code', 'textarea'}
@@ -101,12 +107,17 @@ def priority(url):
 
 
 def crawl_priority(url):
-    """Prioritize public routes with no previously published pack."""
+    """Prioritize *all* missing packs before already-published pages.
+
+    The earlier (tier, missing) ordering always placed every blog after
+    service/product pages; with a 450-page budget, missing blog packs could
+    remain unreachable indefinitely. Do not change existing pack content.
+    """
     tier, route = priority(url)
     if tier <= 1:
-        return (tier, 0, route)
+        return (0, tier, route)
     existing = (PUBLIC / (route_id(urlsplit(url).path) + '.json')).exists()
-    return (tier, 1 if existing else 0, route)
+    return (2 if existing else 1, tier, route)
 
 
 def page_key(url):
@@ -189,9 +200,20 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
     # but do not quietly claim that URLs beyond the configured limit are done.
     # The workflow can process more in future batches; previous packs remain.
     budget=max(1,min(max_pages,1500))
-    initial={BASE+'/'} | seeds | required_urls
-    queue=deque(sorted(initial,key=crawl_priority))
-    queued=set(queue)
+    # Carry over previously discovered but unvisited routes, including
+    # linked blog pages absent from the sitemap. coverage.json contains only
+    # public routes collected by previous successful crawling.
+    previous=cached_json(PUBLIC/'coverage.json', {})
+    known_unvisited=set()
+    for path in previous.get('unvisited_examples', []):
+        url=canonical(BASE+str(path))
+        if valid_url(url):known_unvisited.add(url)
+    initial={BASE+'/'} | seeds | required_urls | known_unvisited
+    # A priority heap matters: newly discovered *missing* links must jump
+    # ahead of already-published URLs, not wait at the end of a 940-URL queue.
+    queue=[(crawl_priority(url),url) for url in initial]
+    heapq.heapify(queue)
+    queued=set(initial)
     visited=set(); result={}; errors=[]
     browser=None;playwright=None;context=None
     if use_browser:
@@ -201,7 +223,8 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
         context=browser.new_context(locale='vi-VN',viewport={'width':1380,'height':900})
     try:
         while queue and len(visited)<budget:
-            url=canonical(queue.popleft())
+            _, candidate=heapq.heappop(queue)
+            url=canonical(candidate)
             if url in visited or not valid_url(url):
                 continue
             visited.add(url)
@@ -259,7 +282,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
                       flush=True)
                 for link in sorted(links,key=crawl_priority):
                     if link not in visited and link not in queued and valid_url(link):
-                        queue.append(link)
+                        heapq.heappush(queue,(crawl_priority(link),link))
                         queued.add(link)
                 # Log degraded collection separately without marking a public
                 # page as missing when its browser fallback succeeded.
@@ -363,9 +386,8 @@ def build(pages,max_new=100000,demo=False):
         missing_entries=[x for x in items if x not in cache or not all(cache[x].get(y) for y in ('en','zh'))]
         if missing_entries:
             partial+=1
-            # Keep the previously published pack while the current crawl is incomplete.
-            # A cached pack is better than deleting live translations; only a complete
-            # rebuild may replace it. The audit still counts this route as pending.
+            # Keep the previously published pack while this crawl is incomplete.
+            # Preserve live translations until a complete rebuild can replace them.
             old_file=PUBLIC/(route_id(route)+'.json')
             if old_file.exists():
                 print('PRESERVE existing pack (current crawl incomplete):',
@@ -418,6 +440,9 @@ def main():
         key=route_id('/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert key=='pages__tra-cuu-gia-cuoc-van-chuyen', key
         assert priority(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen') < priority(BASE+'/blogs/x/y')
+        missing_blog=BASE+'/blogs/ll-i18n-missing-pack-selftest-never-published'
+        assert crawl_priority(missing_blog)[0] == 1
+        assert crawl_priority(BASE+'/blogs/van-chuyen-tphcm-mien-trung')[0] == 0
         assert valid_url(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert not valid_url(BASE+'/pages/customer')
         assert max(1,min(450,1500)) == 450
