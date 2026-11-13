@@ -1,8 +1,8 @@
 {
-  "discovered_public_urls": 950,
-  "missing_packs_in_discovered_routes": 51,
-  "page_budget": 450,
-  "published_pack_files_total": 908,
+  "discovered_public_urls": 987,
+  "missing_packs_in_discovered_routes": 58,
+  "page_budget": 1200,
+  "published_pack_files_total": 929,
   "required_pages_found": [
     "/pages/tra-cuu-gia-cuoc-van-chuyen",
     "/blogs/van-chuyen-bac-nam",
@@ -199,51 +199,38 @@
     {
       "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau",
       "url": "https://vantailuule.vn/blogs/tin-tuc/chuyen-phat-nhanh-buu-dien-mat-bao-lau"
+    },
+    {
+      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-vung-tau; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-vung-tau",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-gui-va-van-chuyen-hang-hoa-di-vung-tau"
+    },
+    {
+      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh",
+      "url": "https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-hoa-long-an-nam-dinh"
+    },
+    {
+      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh",
+      "url": "https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-hoa-long-an-ha-tinh"
+    },
+    {
+      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/chuyen-nha-bac-nam"
+    },
+    {
+      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-nghe-an; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-nghe-an",
+      "url": "https://vantailuule.vn/blogs/gui-hang-sg-bac-trung-bo/chuyen-hang-sai-gon-nghe-an"
+    },
+    {
+      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang; Browser: browser redirected to https://vantailuule.vn/",
+      "url": "https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang"
+    },
+    {
+      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
     }
   ],
-  "successful_public_pages": 403,
-  "unvisited_count": 500,
-  "unvisited_examples": [
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-khanh-binh",
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-my-phuoc",
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-song-than",
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-tan-my-2",
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-visip-2b",
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-vsip-1-2",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-bac-dong-phu",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-becamex-binh-phuoc",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-chon-thanh",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-dong-xoai",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-ledana",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-minh-hung",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-nam-dong-phu",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-thanh-binh",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-viet-kieu",
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/gui-hang-ha-noi-kcn-tan-khai",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-agtex-long-binh",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-amata",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-an-phuoc",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bau-xeo",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bien-hoa",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dau-giay",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-det-may-nhon-trach",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dinh-quan",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-giang-dien",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-go-dau",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-ho-nai",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-loc-an",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-binh-loteco",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-duc",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-khanh",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-thanh",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-nhon-trach",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-ong-keo",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-song-may",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-suoi-tre",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-tam-phuoc",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-tan-phu",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-thanh-phu",
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-xuan-loc"
-  ],
+  "successful_public_pages": 933,
+  "unvisited_count": 0,
+  "unvisited_examples": [],
   "unvisited_without_existing_pack": 0
 }
