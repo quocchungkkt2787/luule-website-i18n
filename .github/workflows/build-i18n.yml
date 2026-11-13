@@ -1,7 +1,19 @@
 name: Build Luu Le public translations (VI EN ZH)
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/build-i18n.yml'
+      - 'tools/build_translations.py'
+      - 'tools/apply_reviewed_translations.py'
   workflow_dispatch:
+    inputs:
+      chain_depth:
+        description: 'Internal: automatic follow-up batch number (leave 0 for manual run)'
+        required: false
+        default: '0'
+        type: string
   schedule:
     # Daily maintenance: detect new or edited public pages.
     - cron: '17 3 * * *'
@@ -10,6 +22,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: luule-i18n-static
@@ -55,6 +68,8 @@ jobs:
               output.write(f'build={str(do_build).lower()}\n')
               output.write(f'before_count={len(cache) if isinstance(cache, dict) else 0}\n')
               output.write(f'before_published={int(manifest.get("pages_published", 0))}\n')
+              output.write(f'before_packs_total={int(manifest.get("published_pack_files_total", 0))}\n')
+              output.write(f'before_pending={remaining}\n')
           PY
 
       - uses: actions/setup-python@v5
@@ -94,6 +109,8 @@ jobs:
         env:
           BEFORE_COUNT: ${{ steps.gate.outputs.before_count }}
           BEFORE_PUBLISHED: ${{ steps.gate.outputs.before_published }}
+          BEFORE_PACKS_TOTAL: ${{ steps.gate.outputs.before_packs_total }}
+          BEFORE_PENDING: ${{ steps.gate.outputs.before_pending }}
         run: |
           python - <<'PY'
           import json, os
@@ -112,17 +129,22 @@ jobs:
           count = len(cache) if isinstance(cache, dict) else 0
           published = int(manifest.get('pages_published', 0))
           pending = int(manifest.get('pages_pending', 0))
+          total_packs = int(manifest.get('published_pack_files_total', 0))
+          was_pending = int(os.getenv('BEFORE_PENDING', pending))
           progressed = (count > int(os.getenv('BEFORE_COUNT', 0)) or
-                        published > int(os.getenv('BEFORE_PUBLISHED', 0)))
+                        total_packs > int(os.getenv('BEFORE_PACKS_TOTAL', 0)) or
+                        (pending < was_pending))
           state['no_progress_runs'] = (0 if progressed or pending == 0 else
               min(2, int(state.get('no_progress_runs', 0)) + 1))
           state['last_cache_entries'] = count
           state['last_pages_published'] = published
           state['last_pages_pending'] = pending
+          state['last_progressed'] = bool(progressed)
           state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n',
                                 encoding='utf-8')
-          print(f'Cache: {count}; pages published: {published}; '
-                f'pages pending: {pending}; stalls: {state["no_progress_runs"]}')
+          print(f'Cache: {count}; total published packs: {total_packs}; '
+                f'pages pending: {pending}; progress: {progressed}; '
+                f'stalls: {state["no_progress_runs"]}')
           PY
 
       - name: Persist generated packs and progress
@@ -157,3 +179,73 @@ jobs:
           done
           echo '::error::Push failed after 3 attempts. Check branch protection and workflow write permissions.'
           exit 1
+
+      - name: Automatically continue translation backlog
+        # Runs AFTER saving results on main. GITHUB_TOKEN is enough:
+        # workflow_dispatch is one of GitHub's permitted recursive events.
+        if: steps.gate.outputs.build == 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          CHAIN_DEPTH: ${{ inputs.chain_depth || '0' }}
+          MAX_CHAIN_DEPTH: '8'
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+
+          def load(path):
+              try:
+                  return json.loads(Path(path).read_text(encoding='utf-8'))
+              except (OSError, ValueError):
+                  return {}
+
+          manifest = load('public/i18n/manifest.json')
+          state = load('.ll-i18n-state.json')
+          pending = int(manifest.get('pages_pending', 0))
+          stalls = int(state.get('no_progress_runs', 0))
+          try:
+              depth = max(0, int(os.getenv('CHAIN_DEPTH', '0')))
+          except ValueError:
+              depth = 0
+          max_depth = max(1, min(12, int(os.getenv('MAX_CHAIN_DEPTH', '8'))))
+
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
+              out.write(f'### Public translation coverage\n\n'
+                        f'- Published JSON packs: {manifest.get("published_pack_files_total", "n/a")}\n'
+                        f'- Pending / missing packs: {pending}\n'
+                        f'- Runs without progress: {stalls}\n'
+                        f'- Automatic chain depth: {depth}/{max_depth}\n')
+
+          if pending <= 0:
+              print('Coverage complete for currently discovered URLs. Daily schedule will check new posts.')
+          elif stalls >= 2:
+              print('No progress twice. Stop chain; daily maintenance can retry.')
+          elif depth >= max_depth:
+              print('Chain safety limit reached. Four-hour / daily schedule will resume.')
+          else:
+              url = (f'https://api.github.com/repos/{os.environ["GITHUB_REPOSITORY"]}'
+                     '/actions/workflows/build-i18n.yml/dispatches')
+              payload = json.dumps({
+                  'ref': 'main',
+                  'inputs': {'chain_depth': str(depth + 1)}
+              }).encode('utf-8')
+              request = Request(url, data=payload, method='POST', headers={
+                  'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'],
+                  'Accept': 'application/vnd.github+json',
+                  'X-GitHub-Api-Version': '2022-11-28',
+                  'User-Agent': 'LuuLePublicTranslationBot'
+              })
+              try:
+                  with urlopen(request, timeout=30) as response:
+                      if response.status != 204:
+                          raise RuntimeError(f'Unexpected dispatch status: {response.status}')
+                  print(f'Queued next automatic batch: {depth+1} / {max_depth}.')
+              except HTTPError as exc:
+                  print(f'::error::Auto-dispatch failed with HTTP {exc.code}. '
+                        'Check Actions workflow permissions (actions: write).')
+                  raise
+          PY
