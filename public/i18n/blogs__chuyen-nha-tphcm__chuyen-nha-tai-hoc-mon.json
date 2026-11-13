@@ -9,6 +9,10 @@
       "en": "> DS View Full Services:",
       "zh": "> DS 查看全服务 :"
     },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
     "BLOG": {
       "en": "Blog",
       "zh": "博客"
@@ -17,13 +21,53 @@
       "en": "Breadcrubb",
       "zh": "布莱克鲁布"
     },
+    "BÀI VIẾT LIÊN QUAN": {
+      "en": "STUDY ARTICLES",
+      "zh": "研究条款"
+    },
     "BÁO CHÍ": {
       "en": "Synchronising folder",
       "zh": "创建新文件夹"
     },
+    "Bài tiếp theo": {
+      "en": "Next Card",
+      "zh": "下一个牌"
+    },
+    "Bài trước": {
+      "en": "Previous Card",
+      "zh": "上一张牌"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
+    },
     "Bạn cần tìm gì?": {
       "en": "What are you looking for?",
       "zh": "你们在找什么?"
+    },
+    "Bạn đang có ý định thuê dịch vụ chuyển nhà tại quận 6 vì nó giúp ích cho bạn rất nhiều vừa tiết kiệm được thời gian...": {
+      "en": "You're planning to rent the move service in the 6th district because it helps you a lot and saves time...",
+      "zh": "你计划租6区搬家服务 因为它能帮你节省很多时间..."
+    },
+    "Bạn đang có ý định thuê dịch vụ chuyển nhà tại quận 6 vì nó giúp ích cho bạn rất nhiều vừa tiết kiệm được thời...": {
+      "en": "You're planning on renting housing services in the 6th district because it helps you a lot and saves time...",
+      "zh": "你计划租房服务 在第六区 因为它帮助了很多你 并节省时间..."
+    },
+    "Bạn đang sinh sống tại Quận 7 có nhu cầu chuyển sang nhà mới và đang rất lo lắng vì không biết cách tháo lắp, sắp xếp...": {
+      "en": "You're living in District 7 with a need to move to a new home and are very worried about not knowing how to unmount, arrange...",
+      "zh": "你住在第7区,需要搬去新家 而且很担心不知道如何卸架,安排..."
+    },
+    "Bạn đang sinh sống tại Quận 7 có nhu cầu chuyển sang nhà mới và đang rất lo lắng vì không biết cách tháo lắp, sắp...": {
+      "en": "You're living in District 7 with a need to move to a new home and are very worried about not knowing how to unmount, about to...",
+      "zh": "你住在7区 需要搬去新家 并非常担心不知道如何卸载,即将..."
+    },
+    "Bạn đang sống ở Quận 11 - TpHCM? Bạn cảm thấy quá chán nản khi phải di chuyển nhà thường xuyên, mệt mỏi với việc đóng gói...": {
+      "en": "You live in District 11 - TpHCM? You feel too depressed to have to move regularly, tired of packing...",
+      "zh": "你住在11区 -TpHCM? 你感到太沮丧,不能经常移动, 厌倦包装..."
+    },
+    "Bạn đang sống ở Quận 11 - TpHCM? Bạn cảm thấy quá chán nản khi phải di chuyển nhà thường xuyên, mệt mỏi với việc đóng...": {
+      "en": "You live in District 11 - TpHCM? You feel too depressed to have to move regularly, tired of closing...",
+      "zh": "你住在11区 -TpHCM? 你感到太沮丧,不能经常移动,厌倦关闭..."
     },
     "BẢNG GIÁ": {
       "en": "Shipping Rates",
@@ -48,10 +92,6 @@
     "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
       "en": "THE FIGURAL BEST",
       "zh": "数字最好的"
-    },
-    "Bắt đầu tư vấn": {
-      "en": "Start consulting",
-      "zh": "开始咨询"
     },
     "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
       "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
@@ -137,9 +177,49 @@
       "en": "TpHCM Home",
       "zh": "TpHCM 移动 内容"
     },
+    "Chuyển nhà là công việc khó khăn với nhiều bước đòi hỏi cực kỳ khắt khe. Từ phân loại, đóng gói hàng hóa, vận chuyển, tháo dỡ,...": {
+      "en": "Moving from home was hard work with numerous steps that required an extremely strict move. From classification, package, transport, dismantled,...",
+      "zh": "从家中搬家是一项艰苦的工作,需要采取许多步骤,这要求采取极其严格的行动。 从分类,包裹,运输,拆解,......"
+    },
+    "Chuyển nhà là công việc khó khăn với nhiều bước đòi hỏi cực kỳ khắt khe. Từ phân loại, đóng gói hàng hóa, vận chuyển, tháo...": {
+      "en": "Moving from home was hard work with numerous steps that required an extremely strict move. From classification, package, transport, remove...",
+      "zh": "从家中搬家是一项艰苦的工作,需要采取许多步骤,这要求采取极其严格的行动。 从分类,包裹,运输,去除..."
+    },
+    "Chuyển nhà là công việc tốn công tốn sức và mất nhiều thời gian, đặc biệt với những ai lần đầu chuyển nhà. Nắm bắt được điều...": {
+      "en": "Moving was a costly and time - consuming job, especially for those who first moved. Getting what...",
+      "zh": "搬家是一项耗资和时间的工作,对那些最初搬家的人来说尤其如此。 获取什么..."
+    },
+    "Chuyển nhà là công việc tốn công tốn sức và mất nhiều thời gian, đặc biệt với những ai lần đầu chuyển nhà. Nắm bắt được...": {
+      "en": "Moving was a costly and time - consuming job, especially for those who first moved. Catch...",
+      "zh": "搬家是一项耗资和时间的工作,对那些最初搬家的人来说尤其如此。 接着..."
+    },
     "Chuyển nhà trọn gói giá rẻ tại Hóc": {
       "en": "Moving the full package cheaply at http://www.c",
       "zh": "在http://www."
+    },
+    "Chuyển nhà tại Bình Chánh nên lựa chọn đơn vị dịch vụ vận tải nào? Cùng theo dõi những chia sẻ dưới đây để có kinh nghiệm...": {
+      "en": "What transportation unit should be selected at the Vadim? Let's track the shares below for experience...",
+      "zh": "瓦迪姆号应该选哪个运输队? 让我们追踪下面的股份 经验..."
+    },
+    "Chuyển nhà tại Bình Chánh nên lựa chọn đơn vị dịch vụ vận tải nào? Cùng theo dõi những chia sẻ dưới đây để có kinh...": {
+      "en": "What transportation unit should be selected at the Vadim? Let's watch the shares below for the period...",
+      "zh": "瓦迪姆号应该选哪个运输队? 让我们看下面的股票 在这段时间..."
+    },
+    "Chuyển nhà tại Hóc Môn": {
+      "en": "Home move at the OTC Men",
+      "zh": "在OTC男子的家迁"
+    },
+    "Chuyển nhà tại Quận 3 - Dịch vụ trọn gói, an toàn, nhanh chóng": {
+      "en": "Moving home in District 3 - Package Service, Safety, Quick",
+      "zh": "在3区搬家 - 包裹服务,安全,快"
+    },
+    "Chuyển nhà tại Quận Tân Phú, TpHCM là nhu cầu của rất nhiều khách hàng hiện nay. Việc chuyển chỗ ở, chỗ làm, văn phòng trong Tân...": {
+      "en": "Moving to New Fuji County, TpHCM is a need for many of our current customers. The move, the work, the office in New Zealand...",
+      "zh": "搬到新富士县,TpHCM是我们许多现时客户的需要. 搬家,工作,新西兰的办公室..."
+    },
+    "Chuyển nhà tại Quận Tân Phú, TpHCM là nhu cầu của rất nhiều khách hàng hiện nay. Việc chuyển chỗ ở, chỗ làm, văn phòng trong...": {
+      "en": "Moving to New Fuji County, TpHCM is a need for many of our current customers. The move, the work, the office in...",
+      "zh": "搬到新富士县,TpHCM是我们许多现时客户的需要. 搬家 工作 办公室..."
     },
     "Chuyển văn phòng Hà Nội → Sài Gòn": {
       "en": "Move Hanoi's office to Saigon",
@@ -189,9 +269,29 @@
       "en": "Quality of the Transition Service at Liu Media",
       "zh": "刘传媒转型服务质量."
     },
+    "Chọn dịch vụ chuyển nhà tại Củ Chi như thế nào cho phù hợp? Chuyển nhà sẽ cần chuẩn bị những gì, kinh nghiệm ra sao? Cùng...": {
+      "en": "How do you choose the move service at Chips for appropriate? The move will need to prepare what, what experience?",
+      "zh": "你怎么选择芯片的移动服务? 行动需要准备什么,什么经验?"
+    },
+    "Chọn dịch vụ chuyển nhà tại Củ Chi như thế nào cho phù hợp? Chuyển nhà sẽ cần chuẩn bị những gì, kinh nghiệm ra sao?...": {
+      "en": "How do you choose the move service at Chips for appropriate? What will the move require, what experience?...",
+      "zh": "你怎么选择芯片的移动服务? 行动需要什么,什么经验?"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
+    },
+    "Các dịch vụ chuyển nhà tại Bình Tân hiện nay rất phổ biến, tuy nhiên để tìm được đơn vị có khả năng đáp ứng nhu cầu...": {
+      "en": "The move services at the present Pacific are widespread, however to find the unit capable of meeting the demand...",
+      "zh": "目前太平洋的移动服务很普遍,不过为了找到能够满足需求的单位. ."
+    },
+    "Các dịch vụ chuyển nhà tại Bình Tân hiện nay rất phổ biến, tuy nhiên để tìm được đơn vị có khả năng đáp ứng nhu...": {
+      "en": "The moved services in present-day Pacific countries are very popular, however to find units capable of meeting the demand...",
+      "zh": "现今太平洋国家的移动服务非常受欢迎,然而找到能够满足需求的单位. ."
     },
     "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
       "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
@@ -216,6 +316,54 @@
     "Dịch vụ chuyển nhà Hóc Môn trọn gói, giá rẻ ưu đãi số #1": {
       "en": "The entire package transfer service, low-cost #1",
       "zh": "整个软件包传输服务, 低成本 # 1"
+    },
+    "Dịch vụ chuyển nhà trọn gói Quận Tân Phú giá rẻ, uy tín": {
+      "en": "Home transfer service package New Fuji District cheap, prestigious",
+      "zh": "新富士区廉价、有声望的家庭转移服务包"
+    },
+    "Dịch vụ chuyển nhà trọn gói tại Nhà Bè uy tín, giá rẻ": {
+      "en": "Package transfer service at Celebrity House, cheap",
+      "zh": "名人屋的包裹传输服务,便宜"
+    },
+    "Dịch vụ chuyển nhà trọn gói tại Quận 1 kèm kinh nghiệm hữu ích": {
+      "en": "Package move service in District 1 accompanied beneficial experience",
+      "zh": "第1区一揽子搬迁服务伴随有益的经验"
+    },
+    "Dịch vụ chuyển nhà tại Bình Thạnh [Trọn gói, Giá rẻ]": {
+      "en": "Home move service at Ping TD [Stat packages, cheap]",
+      "zh": "平定TD的家迁服务[Stat包,便宜]."
+    },
+    "Dịch vụ chuyển nhà tại Bình Tân uy tín, giá cả phải chăng": {
+      "en": "The move service at the prestigious Pacific, the price is right",
+      "zh": "在有声望的太平洋的移动服务,价格是正确的"
+    },
+    "Dịch vụ chuyển nhà tại Cần Giờ chuyên nghiệp, hỗ trợ nhiệt tình": {
+      "en": "Homelift Service at Professional Hours, Warm Support",
+      "zh": "专业工时家庭交通服务,温暖支助"
+    },
+    "Dịch vụ chuyển nhà tại Củ Chi giá rẻ, trọn gói, uy tín": {
+      "en": "Home move service at cheap, full package, prestigious",
+      "zh": "廉价、全套、有名的家迁服务"
+    },
+    "Dịch vụ chuyển nhà tại Gò Vấp [Nhanh - Rẻ - Hiệu Quả]": {
+      "en": "Home move service at VHS [fast - 1250 - Effect]",
+      "zh": "家庭交通服务[快-1250-效果]"
+    },
+    "Dịch vụ chuyển nhà tại Phú Nhuận [Uy tín, Chuyên nghiệp]": {
+      "en": "Home move service at Funkyu [United, Professional]",
+      "zh": "Funkyu的家迁服务[联合、专业]"
+    },
+    "Dịch vụ chuyển nhà tại Quận 3 đang ngày càng được quan tâm nhờ nhu cầu ngày càng lớn của Quý khách hàng. Nếu bạn đang băn...": {
+      "en": "The move service in District 3 is increasingly being cared for due to the growing needs of the Ladies. If you're wondering...",
+      "zh": "由于妇女的需求日益增加,第3区的搬迁服务得到了越来越多的照顾。 如果你想知道的话..."
+    },
+    "Dịch vụ chuyển nhà tại Quận 3 đang ngày càng được quan tâm nhờ nhu cầu ngày càng lớn của Quý khách hàng. Nếu bạn đang...": {
+      "en": "The move service in District 3 is increasingly being cared for due to the growing needs of the Ladies. If you are...",
+      "zh": "由于妇女的需求日益增加,第3区的搬迁服务得到了越来越多的照顾。 狦琌..."
+    },
+    "Dịch vụ chuyển nhà tại Tân Bình nhanh chóng, chuyên nghiệp": {
+      "en": "The move-in service at New Zealand is quick, professional",
+      "zh": "在新西兰的移动服务是快速的,专业的"
     },
     "Dịch vụ vận chuyển chính": {
       "en": "Main Transport Service",
@@ -256,6 +404,10 @@
     "Giá chuyển nhà Hóc Môn = chi phí tháo dỡ, lắp ráp, đóng gói (nếu có) + chi phí bốc xếp (nếu có) + chi phí vận chuyển.": {
       "en": "The cost of moving the Men's house = the cost of dissolution, assembly, packing (if any) + the cost of stacking (if any) + transportation costs.",
       "zh": "男子房屋搬迁费=解散费,组装费,包装费(如有)+堆放费(如有)+运输费."
+    },
+    "Giải đáp thắc mắc khi chuyển nhà tại Quận 10 với dịch vụ chuyển nhà Lưu Lê.": {
+      "en": "The question was answered when moving to District 10 with the move of Liu.",
+      "zh": "迁入第十区后,刘同迁便回答了这个问题."
     },
     "Go": {
       "en": "Go",
@@ -361,6 +513,14 @@
       "en": "Hotline",
       "zh": "服务热线"
     },
+    "Hiện nay, khi đời sống ngày càng được nâng cao, dịch vụ chuyển nhà để đáp ứng nhu cầu dọn nhà của người dân cũng ngày càng phát triển...": {
+      "en": "As life is growing, the move of the house in response to the need for the move of residents is also growing....",
+      "zh": "随着生活的增长,因应居民搬迁需要的房屋搬迁也在增加. ."
+    },
+    "Hiện nay, khi đời sống ngày càng được nâng cao, dịch vụ chuyển nhà để đáp ứng nhu cầu dọn nhà của người dân cũng ngày càng phát...": {
+      "en": "Now, as life is increasing, the move service to meet the needs of the people's move is also growing....",
+      "zh": "现在,随着生活的增加,满足人们迁移需要的迁移服务也在增加. ."
+    },
     "Hotline:": {
       "en": "Hotline:",
       "zh": "热线 :"
@@ -389,9 +549,25 @@
       "en": "BIRTHER",
       "zh": "比尔"
     },
+    "Khi bạn đã quá đau đầu và phiền não về chuyện phải đóng gói và sắp xếp đồ đạc khi chuyển nhà tại Quận 12 thì đó...": {
+      "en": "When you're sore and upset about having to pack and pack your things when moving in District 12 that's...",
+      "zh": "当你在十二区搬家时 不得不收拾行李 感到很难过的时候..."
+    },
+    "Khi bạn đã quá đau đầu và phiền não về chuyện phải đóng gói và sắp xếp đồ đạc khi chuyển nhà tại Quận 12 thì...": {
+      "en": "When you're sorely in the head and upset about having to pack and pack your things when moving in District 12 then...",
+      "zh": "当你在头部很痛 和烦恼 不得不打包 收拾你的东西 当移动到第十二区,然后..."
+    },
     "Khi đến với vận tải Lưu Lê bạn sẽ nhận được sự đón tiếp nhiệt tình, tư vấn tận tâm từ đội ngũ. Được giải đáp thắc mắc, hỗ trợ từng chi tiết nhỏ nhất trong quá trình đóng gói vận chuyển hàng hoá. Lưu Lê có sự cam kết về dịch vụ, cam kết thời gian vận chuyển, cam kết bảo hành, bảo vệ hàng hoá khi nếu có xảy ra bất kỳ sự đổ vỡ tổn thất nào trong suốt thời gian vận chuyển.": {
       "en": "When you arrive at Liu Li transport you will receive a warm reception, conscientious counsel from the team. Answered by questions, assists in every smallest detail in the delivery process. Liu Levi has a commitment to services, pledges to transport time, commits to warrants, protects goods when there is any damage to the breach during transport time.",
       "zh": "到达刘力运输后,将接受团队的热情接待,自觉咨询. 回答问题后,协助执行过程中的每一个最小细节。 刘列维对服务有承诺,保证运输时间,承诺执行搜查令,在运输期间发生任何损坏时保护货物."
+    },
+    "Kinh nghiệm chuyển nhà tại Quận 12 nhanh chóng, tiết kiệm": {
+      "en": "The move experience in District 12 quickly, saves",
+      "zh": "十二区的移动经验,很快,节省了"
+    },
+    "Kinh nghiệm chuyển nhà tại Quận 5 an toàn - nhanh chóng - tiết kiệm": {
+      "en": "Home move experience in District 5 safety - quick - save",
+      "zh": "5号区的家迁经验 - 快速 - 节省"
     },
     "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
       "en": "Connect with Luu Le Transport through our official channels.",
@@ -413,9 +589,21 @@
       "en": "Archived Transportation",
       "zh": "存档运输"
     },
+    "Lưu Lê dịch vụ Vận chuyển nhà tại Quận 11 uy tín - nhanh chóng - giá rẻ": {
+      "en": "Archive Transportation Services in the 11th District - Quick - Cheap",
+      "zh": "第11区档案运输服务 - 快 - 廉价"
+    },
+    "Lưu ý khi lựa chọn dịch vụ chuyển nhà tại Quận Thủ Đức": {
+      "en": "Note when selecting the move service in the German Shire",
+      "zh": "在德国郡选择移动服务时注意"
+    },
     "Lợi ích khi sử dụng dịch vụ chuyển nhà Hóc Môn tại vận tải Lưu Lê": {
       "en": "Benefits from using the Wikinews Transportation Service at Liu Li Transportation",
       "zh": "使用刘力交通的维基新闻运输服务的好处"
+    },
+    "Mách bạn những lưu ý khi thuê dịch vụ chuyển nhà tại Quận 6": {
+      "en": "Tips you note when hiring moving services in District 6",
+      "zh": "6区雇用搬运服务时提示"
     },
     "Máy móc, thiết bị": {
       "en": "Machinery & Equipment",
@@ -445,6 +633,22 @@
       "en": "Open Advisory AI",
       "zh": "开放咨询AI"
     },
+    "Ngày nay, có rất nhiều đơn vị chuyển nhà, văn phòng, kho xưởng, v.v... để đáp ứng nhu cầu của người dân trên địa bàn quận Gò...": {
+      "en": "Today, there are a lot of moving units, offices, warehouses, etc. to meet the needs of the residents on the U.S. District...",
+      "zh": "今天,有许多搬家单位,办公室,仓库等,以满足美国特区居民的需求. ."
+    },
+    "Ngày nay, có rất nhiều đơn vị chuyển nhà, văn phòng, kho xưởng, v.v... để đáp ứng nhu cầu của người dân trên địa bàn quận...": {
+      "en": "Today, there are a lot of moving units, offices, warehouses, etc. to meet the needs of residents on the district...",
+      "zh": "如今,区内有不少搬家单位,办公室,仓库等,以满足居民的需要. ."
+    },
+    "Ngày nay, khi nền kinh tế phát triển, các dịch vụ chuyển nhà cũng ngày càng phát triển và đa dạng hình thức để đáp ứng nhu...": {
+      "en": "Today, as the economy grows, moving services are also growing and diverse to meet the demand...",
+      "zh": "今天,随着经济的发展,移动服务也在增长和多样化,以满足需求. ."
+    },
+    "Ngày nay, khi nền kinh tế phát triển, các dịch vụ chuyển nhà cũng ngày càng phát triển và đa dạng hình thức để đáp ứng...": {
+      "en": "Today, as the economy grows, moving services are also growing and diverse to meet...",
+      "zh": "今天,随着经济的增长,移动的服务也在增长和多样化以满足."
+    },
     "Nhu cầu chuyển nhà tại Hóc Môn": {
       "en": "The Need for Home move at Litc Men",
       "zh": "在Litc男子之家搬家的必要性"
@@ -461,6 +665,34 @@
       "en": "General Information",
       "zh": "一般须知"
     },
+    "Những lưu ý khi chuyển nhà tại Quận 8 nhanh chóng - an toàn - tiết kiệm.": {
+      "en": "Notes when moving in District 8 quickly - safety - savings.",
+      "zh": "注意8区快速移动时注意 - 安全 - 节省."
+    },
+    "Nếu bạn đang có nhu cầu chuyển nhà tại Cần Giờ thì chia sẻ dưới đây chắc chắn dành cho bạn. Việc chuyển nhà bao gồm nhiều...": {
+      "en": "If you are in need of moving at the Need Now, sharing below is definitely for you. The move included many...",
+      "zh": "如果你现在需要搬家, 分享下面肯定是你的。 行动包括很多..."
+    },
+    "Nếu bạn đang có nhu cầu chuyển nhà tại Cần Giờ thì chia sẻ dưới đây chắc chắn dành cho bạn. Việc chuyển nhà bao gồm...": {
+      "en": "If you are in need of moving at the Need Now, sharing below is definitely for you. The move included...",
+      "zh": "如果你现在需要搬家, 分享下面肯定是你的。 包括..."
+    },
+    "Nếu bạn đang có rất nhiều thắc mắc khi chuyển nhà tại Quận 10 và các dịch vụ chuyển nhà trọn gói thì đừng bỏ lỡ bài...": {
+      "en": "If you're having a lot of questions about moving your house in the 10th District and the package move services, don't miss the article...",
+      "zh": "如果你对第十区你的房子搬家和包裹搬家服务有不少疑问,不要错过文章......"
+    },
+    "Nếu bạn đang có rất nhiều thắc mắc khi chuyển nhà tại Quận 10 và các dịch vụ chuyển nhà trọn gói thì đừng bỏ lỡ...": {
+      "en": "If you're having a lot of questions moving in the 10th District and package moving services, don't miss...",
+      "zh": "如果你在第十区有很多问题 需要搬家和打包搬家服务,千万不要错过..."
+    },
+    "Nếu bạn đang tìm kiếm đơn vị hỗ trợ chuyển nhà tại Tân Bình uy tín, chất lượng mà giá cả lại phải chăng thì đừng bỏ...": {
+      "en": "If you're looking for an aid unit to move in the prestigious New Ping, the quality that costs you, don't give up...",
+      "zh": "如果你想在著名的新平区 找到一个援助单位 需要你付出的代价 不要放弃..."
+    },
+    "Nếu bạn đang tìm kiếm đơn vị hỗ trợ chuyển nhà tại Tân Bình uy tín, chất lượng mà giá cả lại phải chăng thì đừng...": {
+      "en": "If you're looking for an aid unit to move in the prestigious New Ping, the quality of which the price is right, don't...",
+      "zh": "如果你是在寻找一个援助单位,以在有声望的新平移动,其质量价格是正确的,不要."
+    },
     "NỘI BỘ": {
       "en": "INTERVIEW",
       "zh": "专访"
@@ -468,6 +700,14 @@
     "Qua quá trình nghiên cứu, tìm hiểu và hoàn thiện dịch vụ, vận tải Lưu Lê đã mang đến cho khách hàng dịch vụ sát với nhu cầu nhất. Chuyển nhà với các hình thức vận chuyển cơ bản, trọn gói bao gồm đóng gói đồ đạc. Quy trình làm việc chuyên nghiệp, đầy đủ các bước để đảm bảo về tính đồng nhất và chất lượng phục vụ khách hàng.": {
       "en": "Through the process of research, study, and completion of services, Liu Li transport has brought customers services that are closest to the most needed. Moving in basic form of transportation, the package includes packing. Professional work process, full of steps to ensure uniformity and quality service to the customer.",
       "zh": "通过研究,研究,服务完成的过程,刘力运输带来了最接近最需要的客户服务. 以基本运输形式移动,包裹包括包装. 专业工作流程,充满确保向客户提供统一和优质服务的步骤."
+    },
+    "Quận 1 nằm ngay tại trung tâm của Thành phố Hồ Chí Minh. Nơi đây tập trung nhiều nhà cao tầng, lãnh sự quán, trung tâm thương...": {
+      "en": "The 1st District is located in the center of Ho Chi Minh City, where it gathers several high-rises, Consulates, center of injuries...",
+      "zh": "第一区位于胡志明市中心,聚集数座高楼,领事馆,伤病中心. ."
+    },
+    "Quận 1 nằm ngay tại trung tâm của Thành phố Hồ Chí Minh. Nơi đây tập trung nhiều nhà cao tầng, lãnh sự quán, trung tâm...": {
+      "en": "The 1st District is located in the center of Ho Chi Minh City, where it gathers many high-rises, Consuls, Central...",
+      "zh": "第一区位于胡志明市中心,聚集了许多高层,领事,中央......"
     },
     "THÔNG BÁO": {
       "en": "FINAL",
@@ -549,6 +789,14 @@
       "en": "LIS",
       "zh": "利比里亚"
     },
+    "Việc dọn nhà luôn là một trong những công việc tốn quá nhiều công sức và thời gian, đặc biệt với những khu vực đô thị sầm uất...": {
+      "en": "Housekeeping has always been one of the overworks and the time, especially with the lost urban areas...",
+      "zh": "管家一直是过度劳累和时间之一,尤其是与失去的城区. ."
+    },
+    "Việc dọn nhà luôn là một trong những công việc tốn quá nhiều công sức và thời gian, đặc biệt với những khu vực đô thị sầm...": {
+      "en": "Housekeeping has always been one of those overworks and over-time jobs, especially with urban areas crashing...",
+      "zh": "家务总是那些过度劳累和超时工作之一,尤其是随着城市地区的崩溃......"
+    },
     "VẬN CHUYỂN HÀNG BẮC NAM": {
       "en": "THE FINAL BEST",
       "zh": "最后的最好成绩"
@@ -601,6 +849,10 @@
       "en": "Liu Load announced the Ministry of Commerce",
       "zh": "刘负载宣布商务部"
     },
+    "Vận chuyển Lưu Lê dịch vụ chuyển nhà tại Quận 7 trọn gói - uy tín - tận tâm": {
+      "en": "Liu Transport Service Transportation in District 7 Full Package - Trusted",
+      "zh": "刘运服务 7区交通全包 - 信任"
+    },
     "Vận chuyển hàng Bắc Nam": {
       "en": "North–South Freight Transport",
       "zh": "南北货物运输"
@@ -649,6 +901,10 @@
       "en": "About Us",
       "zh": "关于我们"
     },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
+    },
     "WEBSITE": {
       "en": "Website",
       "zh": "网站"
@@ -693,6 +949,10 @@
       "en": "Archived YouTube",
       "zh": "存档 YouTube"
     },
+    "[Bạn nên biết] 3 lưu ý quan trọng khi chuyển nhà tại Quận 4": {
+      "en": "[You should know] 3 Notes important when moving at District 4",
+      "zh": "[你应该知道]3 在第四区移动时很重要的说明"
+    },
     "liên hệ nhân viên của Lưu Lê để được tư vấn.": {
       "en": "Liu Li's staff for counseling.",
       "zh": "刘力的参谋顾问."
@@ -717,9 +977,29 @@
       "en": "Close",
       "zh": "关闭"
     },
+    "Đóng gói, vận chuyển đồ đạc, nội thất trong nhà là những công việc đòi hỏi mất nhiều thời gian và công sức mỗi khi chuyển nhà....": {
+      "en": "Packing, moving furniture, interiors are jobs that require much time and effort each move....",
+      "zh": "包装,移动的家具,内部是需要大量时间和精力的工作,每次移动. ."
+    },
+    "Đóng gói, vận chuyển đồ đạc, nội thất trong nhà là những công việc đòi hỏi mất nhiều thời gian và công sức mỗi khi chuyển...": {
+      "en": "Packing, moving furniture, interiors are jobs that require a lot of time and energy when moving...",
+      "zh": "包装,移动家具,内饰是移动时需要大量时间和精力的工作. ."
+    },
     "Đơn mới": {
       "en": "New Single",
       "zh": "新单人"
+    },
+    "Đơn vị chuyển nhà trọn gói tại Bình Chánh uy tín, giá rẻ": {
+      "en": "The package transfer unit at the prestigious, cheap",
+      "zh": "名声大噪、便宜的货包传输单位"
+    },
+    "Để đáp ứng lại nhu cầu chuyển nhà trọn gói tại Nhà Bè, vận tải Lưu Lê cung cấp dịch vụ chuyển nhà trọn gói. Đây là lựa...": {
+      "en": "In response to the need for the move of the full house at the House of Leh, Liu Transport provided the move service for the package. This is the choice...",
+      "zh": "为应对黎家庄全院搬迁的需要,刘运为包裹提供了搬迁服务. 这是选择..."
+    },
+    "Để đáp ứng lại nhu cầu chuyển nhà trọn gói tại Nhà Bè, vận tải Lưu Lê cung cấp dịch vụ chuyển nhà trọn gói. Đây là...": {
+      "en": "In response to the need for the move of the full house at the House of Leh, Liu Transport provided the move service for the package. This is...",
+      "zh": "为应对黎家庄全院搬迁的需要,刘运为包裹提供了搬迁服务. 这是..."
     },
     "Đồ gia đình": {
       "en": "Household Goods",
