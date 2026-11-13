@@ -33,8 +33,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
+      # Always start from the freshest main, including a manually rerun old job.
+      # Combined with workflow-wide concurrency, this prevents stale batches.
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Check whether a translation batch is needed
@@ -148,6 +151,7 @@ jobs:
           PY
 
       - name: Persist generated packs and progress
+        id: persist
         if: steps.gate.outputs.build == 'true'
         shell: bash
         run: |
@@ -157,34 +161,39 @@ jobs:
           git add translation-cache.json public/i18n/ .ll-i18n-state.json
           if git diff --cached --quiet; then
             echo 'No new translations to commit.'
+            echo 'result=published' >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m 'chore: refresh translation packs and progress'
-          # Long-running translation builds may be behind the current main.
-          # Rebase our generated commit onto the latest remote head; never force push.
+          # Never force push. If main changed during this long build and JSON
+          # cannot safely rebase, abort the stale commit and ask the next run
+          # to rebuild FROM CURRENT MAIN. Existing published packs stay intact.
           for attempt in 1 2 3; do
             echo "Push attempt ${attempt}/3: fetching current main"
             git fetch origin main
             if ! git rebase origin/main; then
               git rebase --abort || true
-              echo '::error::Generated files conflict with new remote commits. No force push was attempted.'
-              exit 1
+              echo '::warning::Generated JSON conflicts with newer main. Keeping remote data; scheduling a fresh batch.'
+              echo 'result=conflict' >> "$GITHUB_OUTPUT"
+              exit 0
             fi
             if git push origin HEAD:main; then
               echo 'Successfully published translation packs and progress.'
+              echo 'result=published' >> "$GITHUB_OUTPUT"
               exit 0
             fi
-            echo "Branch main moved again or the push was rejected (attempt ${attempt})."
+            echo "Remote branch moved again (attempt ${attempt}); retrying."
             sleep $((attempt * 3))
           done
-          echo '::error::Push failed after 3 attempts. Check branch protection and workflow write permissions.'
+          echo '::error::Push rejected three times; check branch protection and repository permission.'
           exit 1
 
       - name: Automatically continue translation backlog
         # Runs AFTER saving results on main. GITHUB_TOKEN is enough:
         # workflow_dispatch is one of GitHub's permitted recursive events.
-        if: steps.gate.outputs.build == 'true'
+        if: steps.gate.outputs.build == 'true' && (steps.persist.outputs.result == 'published' || steps.persist.outputs.result == 'conflict')
         env:
+          PERSIST_RESULT: ${{ steps.persist.outputs.result }}
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           CHAIN_DEPTH: ${{ inputs.chain_depth || '0' }}
@@ -212,21 +221,35 @@ jobs:
           except ValueError:
               depth = 0
           max_depth = max(1, min(12, int(os.getenv('MAX_CHAIN_DEPTH', '8'))))
+          stale_conflict = (os.getenv('PERSIST_RESULT') == 'conflict')
 
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
               out.write(f'### Public translation coverage\n\n'
                         f'- Published JSON packs: {manifest.get("published_pack_files_total", "n/a")}\n'
                         f'- Pending / missing packs: {pending}\n'
                         f'- Runs without progress: {stalls}\n'
-                        f'- Automatic chain depth: {depth}/{max_depth}\n')
+                        f'- Automatic chain depth: {depth}/{max_depth}\n'
+                        f'- Publish outcome: {"CONFLICT, safe retry" if stale_conflict else "published or unchanged"}\n')
 
-          if pending <= 0:
-              print('Coverage complete for currently discovered URLs. Daily schedule will check new posts.')
+          # A conflict requires a fresh run even if the obsolete local manifest
+          # reports no pending work. Read the newest main in the next batch.
+          should_dispatch = False
+          if stale_conflict:
+              if depth < max_depth:
+                  should_dispatch = True
+                  print('Remote data changed during build; retry on latest main.')
+              else:
+                  print('Safety cap reached after conflict; next scheduled check can retry.')
+          elif pending <= 0:
+              print('Coverage complete for discovered URLs; daily schedule checks new posts.')
           elif stalls >= 2:
-              print('No progress twice. Stop chain; daily maintenance can retry.')
+              print('No progress twice. Stop chain; daily maintenance may retry.')
           elif depth >= max_depth:
-              print('Chain safety limit reached. Four-hour / daily schedule will resume.')
+              print('Safety cap reached. Scheduled maintenance will resume.')
           else:
+              should_dispatch = True
+
+          if should_dispatch:
               url = (f'https://api.github.com/repos/{os.environ["GITHUB_REPOSITORY"]}'
                      '/actions/workflows/build-i18n.yml/dispatches')
               payload = json.dumps({
