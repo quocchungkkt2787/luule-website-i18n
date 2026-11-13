@@ -27,6 +27,8 @@ BASE = 'https://vantailuule.vn'
 ROOT = Path(__file__).resolve().parent.parent
 STORE = ROOT / 'translation-cache.json'
 PUBLIC = ROOT / 'public' / 'i18n'
+# Shared PUBLIC page titles/breadcrumb labels found during crawl.
+SHARED_NAV_LABELS = set()
 USER_AGENT = 'LuuLePublicI18NBuilder/3.0 (+https://vantailuule.vn)'
 SCOPE = ('/blogs/', '/pages/', '/products/', '/collections/')
 # Important public tools can be absent from the sitemap or from normal HTML links.
@@ -170,6 +172,20 @@ def collect_text_from_html(content):
     for q in root.select(SKIP_SELECTOR):q.decompose()
     for q in root.find_all(SKIP_TAGS):q.decompose()
     strings=set()
+    # A page's breadcrumb often contains titles from *other* URLs. Build an
+    # incremental navigation pack so any page can translate these labels.
+    for item in root.select(
+        '.breadcrumb,.breadcrumbs,.breadcrumb-wrap,.breadcrumb-wrapper,'
+        '.breadcrumb-area,[aria-label="breadcrumb"],h1'
+    ):
+        label=norm(item.get_text(' ',strip=True))
+        if label and len(label)<=160 and translatable(label):
+            SHARED_NAV_LABELS.add(label)
+        if item.name!='h1':
+            for sub in item.stripped_strings:
+                label=norm(str(sub))
+                if label and len(label)<=160 and translatable(label):
+                    SHARED_NAV_LABELS.add(label)
     for n in root.find_all(string=True):
         if isinstance(n, Comment):continue
         if n.parent and n.parent.name not in {'script','style','textarea'} and translatable(str(n)):
@@ -381,6 +397,21 @@ def build(pages,max_new=100000,demo=False):
         except Exception as ex:
             print('Translation failed:',source[:45],str(ex)[:70])
     save_json(STORE,cache)
+    # Incrementally publish a *small, public, title-only* fallback pack.
+    # Use previously verified entries when the 450-page crawl budget excludes
+    # other URLs. Never include private forms, full article text or credentials.
+    shared_path=PUBLIC/'shared.json'
+    previous_shared=cached_json(shared_path,{})
+    shared_texts=dict(previous_shared.get('texts') or {}) if isinstance(previous_shared,dict) else {}
+    for key in SHARED_NAV_LABELS:
+        row=cache.get(key)
+        if isinstance(row,dict) and all(isinstance(row.get(code),str) and row[code].strip()
+                                        for code in ('en','zh')):
+            shared_texts[key]={'en':row['en'],'zh':row['zh']}
+    # Do not publish an empty map if the crawl was temporarily degraded.
+    if shared_texts:
+        save_json(shared_path,{'version':3,'route':'*','texts':shared_texts})
+        print('Shared public navigation/title labels:',len(shared_texts),flush=True)
     released=0;partial=0;pending_report=[]
     for route,items in pages.items():
         missing_entries=[x for x in items if x not in cache or not all(cache[x].get(y) for y in ('en','zh'))]
@@ -472,7 +503,7 @@ def main():
     missing_count=len(missing_pages)+int(stats.get('unvisited_without_existing_pack',0))
     stats['missing_packs_in_discovered_routes']=missing_count
     stats['published_pack_files_total']=sum(1 for f in PUBLIC.glob('*.json')
-        if f.name not in ('audit.json','coverage.json','manifest.json'))
+        if f.name not in ('audit.json','coverage.json','manifest.json','shared.json'))
     save_json(PUBLIC/'coverage.json',stats)
     manifest=cached_json(PUBLIC/'manifest.json',{})
     manifest['discovered_public_urls']=stats.get('discovered_public_urls',len(pages))
