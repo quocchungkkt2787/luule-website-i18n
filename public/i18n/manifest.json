@@ -1,19 +1,22 @@
 {
-  "crawl_failures": 0,
-  "discovered_public_urls": 940,
+  "crawl_failures": 47,
+  "discovered_public_urls": 959,
   "engine": "Argos Translate (free offline open source)",
-  "generated_at": "2026-11-12T11:09:34.910673+00:00",
+  "generated_at": "2026-11-13T04:01:04.365674+00:00",
   "note": "Public Haravan text only; translations are machine-generated and require editorial review. Image text and external apps excluded.",
-  "pages_pending": 100,
-  "pages_published": 446,
-  "pages_seen": 450,
-  "published_pack_files_total": 840,
+  "pages_pending": 51,
+  "pages_published": 397,
+  "pages_seen": 403,
+  "published_pack_files_total": 908,
   "required_pages_found": [
-    "/pages/tra-cuu-gia-cuoc-van-chuyen"
+    "/pages/tra-cuu-gia-cuoc-van-chuyen",
+    "/blogs/van-chuyen-bac-nam",
+    "/blogs/van-chuyen-tphcm-mien-trung",
+    "/blogs/xe-tai-cho-hang-di-tinh"
   ],
   "site": "https://vantailuule.vn",
   "site_coverage_complete": false,
-  "uncrawled_public_urls": 490,
-  "unique_public_texts": 20787,
+  "uncrawled_public_urls": 509,
+  "unique_public_texts": 25015,
   "version": 3
 }

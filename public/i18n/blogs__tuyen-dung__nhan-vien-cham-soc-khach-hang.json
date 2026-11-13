@@ -1,0 +1,902 @@
+{
+  "route": "/blogs/tuyen-dung/nhan-vien-cham-soc-khach-hang",
+  "texts": {
+    "01 nhân viên": {
+      "en": "01 staff",
+      "zh": "01名工作人员"
+    },
+    "12 Tháng 11 2021": {
+      "en": "12 November 2021",
+      "zh": "2021年11月12日 (中文(简体) )."
+    },
+    "An Toàn – Uy Tín – Chuyên Nghiệp": {
+      "en": "Safe – Taiwan – Professional",
+      "zh": "安全-台湾-专业"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Biết sắp xếp, theo dõi và quản lý công việc liên quan đến từng đơn hàng.": {
+      "en": "Strategy, surveillance, and management of the work related to each order.",
+      "zh": "战略、监督和管理与每一命令有关的工作。"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu phố 3, Phường Thới An, TP. Hồ Chí Minh.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TP. Lake Chi Minh.",
+      "zh": "C94 KNO for AN,\"私立讲座线\",第三街,和安,TP. 志明湖."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "POLICIES",
+      "zh": "政策"
+    },
+    "CHẾ ĐỘ VÀ QUYỀN LỢI": {
+      "en": "GIVING AND EXPLAINING",
+      "zh": "主题和解释"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our Commitments",
+      "zh": "我们的承诺"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Privacy Policy",
+      "zh": "隐私政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "付款政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Compensation Policy",
+      "zh": "货损赔偿政策"
+    },
+    "Chăm sóc khách hàng sau khi đơn hàng hoàn thành.": {
+      "en": "Take care of the customer after the order is completed.",
+      "zh": "订单完成后照顾客户."
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "CÔNG TY TNHH VẬN TẢI LƯU LÊ": {
+      "en": "Luu Le Transport Co., Ltd.",
+      "zh": "Luu Le 运输有限公司"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có cơ hội tiếp xúc và làm việc trực tiếp với nhiều khách hàng, doanh nghiệp.": {
+      "en": "There is an opportunity to come in contact and work directly with many clients, businesses.",
+      "zh": "有机会与许多客户和企业直接接触和工作。"
+    },
+    "Có khả năng xử lý tình huống và phối hợp công việc tốt.": {
+      "en": "Possible to handle the situation and coordinate good work.",
+      "zh": "处理这种情况和协调良好工作的可能性。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty TNHH Vận Tải Lưu Lê": {
+      "en": "Archived Transport Company",
+      "zh": "存档运输公司"
+    },
+    "Công ty có thể kết thúc đợt tuyển dụng sớm khi đã tìm được ứng viên phù hợp.": {
+      "en": "The company can end the recruitment early on finding the right candidate.",
+      "zh": "公司在找到合适的人选后可以提前结束招聘."
+    },
+    "Công việc cụ thể gồm:": {
+      "en": "The specific work includes:",
+      "zh": "具体工作包括:"
+    },
+    "Cẩn thận, chịu khó, có trách nhiệm với công việc.": {
+      "en": "Be careful, take it easy, be responsible for work.",
+      "zh": "要小心,放轻松,做好工作责任."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Do lượng khách hàng sử dụng dịch vụ vận chuyển hàng hóa tại": {
+      "en": "Due to the number of customers using freight services at",
+      "zh": "由于使用货运服务的客户数目"
+    },
+    "Duy trì mối quan hệ với khách hàng cũ và hỗ trợ khách hàng khi có nhu cầu vận chuyển tiếp theo.": {
+      "en": "Maintain relationships with former customers and support customers as the next transport demand arises.",
+      "zh": "在出现下一个运输需求时,与以前的客户保持关系并支助客户。"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "MAIN SERVICES",
+      "zh": "主要服务"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Freight Transportation Services",
+      "zh": "货物运输服务"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email:": {
+      "en": "Email:",
+      "zh": "电子邮件 :"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "GIỚI TÍNH": {
+      "en": "PEOPLE",
+      "zh": "人员"
+    },
+    "Giao tiếp tốt, lịch sự và có tinh thần phục vụ khách hàng.": {
+      "en": "Good communication, courtesy, and a spirit of service.",
+      "zh": "善沟通,礼乐,勤勤精神."
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "ADVICE & GUIDES",
+      "zh": "咨询与指南"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Ship from Hanoi to Saigon",
+      "zh": "从河内寄货至西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Ship from Saigon to Hanoi",
+      "zh": "从西贡寄货至河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "North–South Motorcycle Shipping",
+      "zh": "南北摩托车托运"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hoa hồng theo hiệu quả công việc.": {
+      "en": "Roses are efficient at work.",
+      "zh": "玫瑰是高效的工作。"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa thông thường": {
+      "en": "General Cargo",
+      "zh": "普通货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hỗ trợ chi phí xăng xe.": {
+      "en": "Gas costs support.",
+      "zh": "天然气成本支持。"
+    },
+    "Hỗ trợ chi phí điện thoại.": {
+      "en": "Phone costs support.",
+      "zh": "电话费用支持。"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Luu Le Transport through our official channels.",
+      "zh": "通过官方渠道联系 Luu Le 运输公司。"
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "CONNECT WITH US",
+      "zh": "联系我们"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Làm việc trong môi trường ổn định, lâu dài.": {
+      "en": "Work in stable, permanent environment.",
+      "zh": "在稳定,永久的环境中工作."
+    },
+    "Lương cứng + Hoa hồng": {
+      "en": "Hardsword + Roses",
+      "zh": "硬剑+玫瑰"
+    },
+    "Lương tháng 13.": {
+      "en": "The salary of 13th.",
+      "zh": "十三军军饷."
+    },
+    "Lập và gửi báo giá vận chuyển.": {
+      "en": "Set and send a shipping price.",
+      "zh": "设定并发送运价."
+    },
+    "Microsoft Word, Excel": {
+      "en": "Microsoft Word, Exxon",
+      "zh": "微软 Word, Exon"
+    },
+    "MÔ TẢ CÔNG VIỆC": {
+      "en": "PEACE",
+      "zh": "和平"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machinery & Equipment",
+      "zh": "机械设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Mức lương và hoa hồng được thỏa thuận cụ thể dựa trên năng lực, kinh nghiệm và hiệu quả công việc của ứng viên.": {
+      "en": "The salary and rose levels were negotiated specifically based on the abilities, experience, and performance of the candidate.",
+      "zh": "具体根据候选人的能力、经验和业绩,谈判达成了薪金和上涨水平。"
+    },
+    "Nhân viên Chăm sóc Khách hàng": {
+      "en": "Guest Career",
+      "zh": "客座生涯"
+    },
+    "Nhân viên Chăm sóc Khách hàng sẽ là người trực tiếp tiếp nhận, theo dõi và hỗ trợ khách hàng từ khi phát sinh nhu cầu vận chuyển cho đến khi đơn hàng được hoàn tất.": {
+      "en": "The customer care staff will be a direct receiver, track and support of the customer from the time the demand for transport will be developed until the order is completed.",
+      "zh": "从开发运输需求到订单完成之时,客户护理人员将是客户的直接接收者、跟踪和支持者。"
+    },
+    "Nhân viên Chăm sóc Khách hàng – Dịch vụ vận chuyển hàng hóa": {
+      "en": "Customer Officer – Transportation Services",
+      "zh": "客户干事-运输事务"
+    },
+    "Nhận hồ sơ từ ngày đăng tuyển cho đến khi tuyển đủ nhân sự.": {
+      "en": "Get the records from the day of enrollment until recruitment.",
+      "zh": "记录从入学到招募"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "General Information",
+      "zh": "一般须知"
+    },
+    "NƠI LÀM VIỆC": {
+      "en": "WHAT YOU DO",
+      "zh": "你做什麽?"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Nữ.": {
+      "en": "Female.",
+      "zh": "女.."
+    },
+    "Phối hợp với bộ phận điều hành để triển khai lấy hàng và giao hàng.": {
+      "en": "Mixing with the executives to deploy the cargo and delivery.",
+      "zh": "与高管混用,部署货运."
+    },
+    "Soạn thảo báo giá, hợp đồng vận chuyển, biên bản và các văn bản liên quan để trình cấp quản lý ký duyệt.": {
+      "en": "Edit price reports, shipping agreements, transcriptions and related texts for the browser management level.",
+      "zh": "为浏览器管理级别编辑价格报告、装运协议、抄录和相关文本。"
+    },
+    "SỐ LƯỢNG TUYỂN DỤNG": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Sử dụng tốt máy tính và các phần mềm văn phòng.": {
+      "en": "Good use of computers and office software.",
+      "zh": "妥善使用计算机和办公软件。"
+    },
+    "THU NHẬP": {
+      "en": "GREWING",
+      "zh": "欢呼声"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INFORMATION",
+      "zh": "公司信息"
+    },
+    "THÔNG TIN LIÊN HỆ": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "THỜI GIAN NHẬN HỒ SƠ": {
+      "en": "PORTRAL TIME",
+      "zh": "葡萄牙时间"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "TRACK SHIPMENT",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TRÌNH ĐỘ": {
+      "en": "TYPE",
+      "zh": "类型"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Theo dõi báo giá và phản hồi của khách hàng.": {
+      "en": "Monitor the customer's prices and feedback.",
+      "zh": "监控客户价格和反馈."
+    },
+    "Theo dõi hồ sơ, chứng từ và tình trạng hoàn tất của từng đơn hàng.": {
+      "en": "Track records, certificates, and the completion of each order.",
+      "zh": "音轨记录,证书,以及每个订单的完成."
+    },
+    "Theo dõi tiến trình vận chuyển và chủ động cập nhật thông tin cho khách hàng.": {
+      "en": "Track the transport process and take the customer's update initiative.",
+      "zh": "跟踪运输流程,采取客户更新举措."
+    },
+    "Thưởng Tết.": {
+      "en": "New Year.",
+      "zh": "新纪元."
+    },
+    "Thực hiện các công việc liên quan khác theo sự phân công của công ty.": {
+      "en": "Perform other related work according to the company's division.",
+      "zh": "按照公司划分进行其他相关工作."
+    },
+    "Tiếp nhận nhu cầu vận chuyển hàng hóa của khách hàng qua điện thoại, Zalo, email và các kênh liên hệ của công ty.": {
+      "en": "Accept the demand for customer freight via telephone, Zalo, email, and communications channels.",
+      "zh": "通过电话、Zalo、电子邮件和通信渠道接受客户货运要求。"
+    },
+    "Tiếp nhận thông tin hàng hóa, địa điểm lấy hàng, địa điểm giao hàng và các yêu cầu liên quan.": {
+      "en": "Retrieved cargo information, pickup venues, delivery venues and related requests.",
+      "zh": "获取货物信息、接货地点、交货地点和相关请求。"
+    },
+    "Tiếp nhận và xử lý các vấn đề phát sinh trong suốt quá trình vận chuyển.": {
+      "en": "Accept and deal with problems that arise during transport.",
+      "zh": "接受并处理运输过程中出现的问题."
+    },
+    "Tiếp nhận đơn hàng sau khi khách hàng xác nhận sử dụng dịch vụ.": {
+      "en": "Receive the order after the customer confirms use of the service.",
+      "zh": "在客户确认使用服务后接收订单."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuyển dụng nhân viên chăm sóc khách hàng": {
+      "en": "Use Customer Staff",
+      "zh": "使用客户工作人员"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tư vấn phương án vận chuyển phù hợp cho khách hàng.": {
+      "en": "Consulting the appropriate delivery option for the customer.",
+      "zh": "为客户咨询适当的交货选择。"
+    },
+    "Tốt nghiệp Cao đẳng hoặc Đại học.": {
+      "en": "Graduated College or University.",
+      "zh": "毕业于学院或大学."
+    },
+    "Từ 23 – 30 tuổi.": {
+      "en": "From 23 – 30.",
+      "zh": "从23 - 30."
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "North–South Freight Transport",
+      "zh": "南北货物运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North–South Rail Freight",
+      "zh": "南北铁路货运"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "VỊ TRÍ TUYỂN DỤNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycles",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "YÊU CẦU CÔNG VIỆC": {
+      "en": "Love for Work",
+      "zh": "爱工作"
+    },
+    "làm việc trực tiếp tại TP. Hồ Chí Minh.": {
+      "en": "Working directly at TP. Lake Chi Minh.",
+      "zh": "直接在TP工作. 志明湖."
+    },
+    "ngày càng tăng, nhằm nâng cao chất lượng phục vụ và đảm bảo khách hàng được hỗ trợ chu đáo trong suốt quá trình vận chuyển, công ty chúng tôi cần tuyển": {
+      "en": "More and more, in order to enhance the quality of service and ensure that the customers are well supported during the transportation process, our company needs to recruit",
+      "zh": "为提高服务质量和确保客户在运输过程中得到良好支持,我们公司需要征聘更多人员。"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và các công cụ văn phòng thông dụng.": {
+      "en": "and common office tools.",
+      "zh": "通用办公工具。"
+    },
+    "Điều khoản công ty": {
+      "en": "Company Terms",
+      "zh": "公司条款"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Được hướng dẫn về quy trình vận chuyển, báo giá và chăm sóc khách hàng của công ty.": {
+      "en": "Guided by the company's transport process, notice the price and care of its customers.",
+      "zh": "在公司运输过程的指导下,注意客户的价格和照顾。"
+    },
+    "Đồ gia đình": {
+      "en": "Household Goods",
+      "zh": "家居物品"
+    },
+    "ĐỘ TUỔI": {
+      "en": "MEDIA",
+      "zh": "地中海"
+    },
+    "Ưu tiên ứng viên có kinh nghiệm làm việc văn phòng, hành chính, văn thư, lễ tân hoặc chăm sóc khách hàng.": {
+      "en": "The candidate's priority is office, administrative, correspondence, reception or customer care.",
+      "zh": "候选人的优先权是办公室、行政、通信、接待或客户照顾。"
+    },
+    "Ưu tiên ứng viên thành thạo": {
+      "en": "Expert candidate priority",
+      "zh": "专家候选人优先"
+    },
+    "Ưu tiên ứng viên đã từng làm công việc chăm sóc khách hàng, văn phòng, văn thư, hành chính hoặc tiếp tân.": {
+      "en": "The candidate's priority has previously been in customer care, office, mail, administrative or reception work.",
+      "zh": "候选人的优先考虑以前是客户照顾、办公室、邮件、行政或接待工作。"
+    },
+    "Ứng viên quan tâm vui lòng gửi hồ sơ ứng tuyển về:": {
+      "en": "Attention candidate please send the candidate profile back:",
+      "zh": "请将候选人简介寄回:"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

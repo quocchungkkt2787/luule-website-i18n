@@ -1,15 +1,29 @@
 {
-  "missing_unique_texts": 21,
-  "pages_pending": 4,
-  "pages_published": 446,
-  "pages_seen": 450,
+  "missing_unique_texts": 22,
+  "pages_pending": 6,
+  "pages_published": 397,
+  "pages_seen": 403,
   "pending_pages": [
+    {
+      "examples": [
+        "Hotline/Zalo: 0909 81 6625"
+      ],
+      "missing_count": 1,
+      "route": "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi"
+    },
     {
       "examples": [
         "LCL (Less than Container Load):"
       ],
       "missing_count": 1,
       "route": "/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam"
+    },
+    {
+      "examples": [
+        "Hotline/Zalo: 0909 81 6625"
+      ],
+      "missing_count": 1,
+      "route": "/blogs/van-chuyen-tphcm-mien-bac"
     },
     {
       "examples": [

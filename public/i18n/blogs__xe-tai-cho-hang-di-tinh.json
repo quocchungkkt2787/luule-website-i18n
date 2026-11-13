@@ -1,0 +1,1434 @@
+{
+  "route": "/blogs/xe-tai-cho-hang-di-tinh",
+  "texts": {
+    "), sau đó bạn điền các thông số này vào bảng giá có sẵn của Lưu Lê là tính ra được mức giá cước chính xác là bao nhiêu (Đây là mức giá cước được niêm yết mặc định và công bằng, chuẩn xác 100%, dựa trên công thức toán học chứ không phải dựa trên cảm tính). Nếu khách hàng gặp khó khăn trong cách tính giá hãy yên tâm gọi cho nhân viên Lưu Lê, chúng tôi sẽ hướng dẫn chi tiết 24/7.": {
+      "en": "), then you fill out these parameters into Liu La's available price sheet and you figure out exactly what the price of the bill is (this is the rate of the amount of costs that is fixed by default and fair, 100% standard, based on mathematical formulas and not based on feelings). If the customer has a problem in the price-counting way please rest assured to call Liu staff, we will guide the details 24/7.",
+      "zh": "),然后将这些参数填入刘拉的可用价格表,然后准确计算出账单的价格(这是默认和公平确定的费用金额的速率,100%的标准,基于数学公式而不是感情). 如果客户在计价方式上有问题,请放心给刘员工打电话,我们会全天候指导详情."
+    },
+    ", giá đúng thực tế với từng trọng lượng, kích thước hàng hóa và khoảng cách vận chuyển của đơn hàng từ điểm lấy đến điểm giao.": {
+      "en": "the actual price of each of the weights, the size of the goods and the transport distance of the single from the destination to the intersection.",
+      "zh": "每一重量的实际价格、货物的大小和单人从目的地到交叉点的运输距离。"
+    },
+    ", quý khách vui lòng liên hệ trực tiếp với Lưu Lê.": {
+      "en": "Please contact Liu Li directly.",
+      "zh": "请直接联系刘力."
+    },
+    ": vantailuule.vn": {
+      "en": ": vantailule.vn",
+      "zh": ": vantailule.vn (英语)."
+    },
+    ">>> Có thể bạn quan tâm dịch vụ:": {
+      "en": "> DSTOR You may be interested in services:",
+      "zh": "> 数据存储器 您可能感兴趣的服务:"
+    },
+    ">>> Xem chi tiết tại đây:": {
+      "en": "> DSV See Details Here:",
+      "zh": "> DSV 见这里的细节 :"
+    },
+    ">>> Xem thêm dịch vụ:": {
+      "en": "> DSV See extra service:",
+      "zh": "> DSV 数据 参见额外服务 :"
+    },
+    ">>> Xem đầy đủ dịch vụ:": {
+      "en": "> DS View Full Service:",
+      "zh": "> DS 查看全程服务 :"
+    },
+    "An toàn.": {
+      "en": "Clear.",
+      "zh": "清净."
+    },
+    "An tâm:": {
+      "en": "Security:",
+      "zh": "警卫:"
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Báo giá:": {
+      "en": "Price newspaper:",
+      "zh": "价格报:"
+    },
+    "Bước 2: Khảo sát (nếu cần)": {
+      "en": "Step 2: Survey (if necessary)",
+      "zh": "步骤2:调查(如有必要)"
+    },
+    "Bước 3: Báo giá vận chuyển": {
+      "en": "Step 3: Transport Prices",
+      "zh": "步骤3:运输价格"
+    },
+    "Bước 4: Ký kết hợp đồng": {
+      "en": "Step 4: Sign a contract.",
+      "zh": "第四步:签合同."
+    },
+    "Bước 5: Vận chuyển hàng hóa": {
+      "en": "Step 5: Transportation",
+      "zh": "步骤5:运输"
+    },
+    "Bước 6: Thanh toán và nghiệm thu": {
+      "en": "Step 6: Pay and Record",
+      "zh": "步骤6:薪酬和记录"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "Bạn đang lo lắng về việc vận chuyển hàng hóa đi tỉnh? Hàng hóa có được đảm bảo an toàn không? Chi phí có quá cao không? Bạn sợ hàng hóa bị hư hỏng, mất mát hoặc giao hàng chậm trễ?": {
+      "en": "Are you worried about transporting the goods to the province? Is the goods safe? Is the cost too high? Are you afraid the goods are damaged, lost, or delayed?",
+      "zh": "你担心运货到省里吗? 货物安全吗? 费用太高了吗? 你怕货物受损、丢失或延误吗?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "THE TREEGUE",
+      "zh": "卡车"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "INTERVIECTION",
+      "zh": "暂停"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "THE FIGURAL BEST",
+      "zh": "数字最好的"
+    },
+    "Bảng giá cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê": {
+      "en": "The price for renting freight trucks to the province in Liu Liu",
+      "zh": "刘刘庄租运货车到省价格"
+    },
+    "Bảng giá cước chỉ mang tính chất tham khảo và phụ thuộc vào nhiều yếu tố như:": {
+      "en": "The ratings were just reference and depending on the many factors such as:",
+      "zh": "评级只是参考,取决于许多因素,例如:"
+    },
+    "Bảo hiểm hàng hóa toàn diện.": {
+      "en": "Full cargo insurance.",
+      "zh": "货物全保险."
+    },
+    "Bảo vệ hàng hóa bằng các vật liệu đóng gói phù hợp.": {
+      "en": "Protect the goods with suitable packed materials.",
+      "zh": "以适当的包装材料保护货物。"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "Bốc xếp, đóng gói, bảo hiểm...": {
+      "en": "Packing, packing, insurance...",
+      "zh": "包装,包装,保险..."
+    },
+    "Bốc xếp, đóng gói, bảo hiểm... sẽ làm tăng chi phí.": {
+      "en": "Packing, packing, insurance... will raise costs.",
+      "zh": "包装,包装,保险... 将提高成本。"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "GREEWING",
+      "zh": "欢呼声"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "FIGURAL BEST",
+      "zh": "数字最佳"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
+    "CHÍNH SÁCH": {
+      "en": "POLICIES",
+      "zh": "政策"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our Commitments",
+      "zh": "我们的承诺"
+    },
+    "Cam kết không xảy ra tình trạng hư hỏng, đánh tráo hàng hoá trong quá trình vận chuyển.": {
+      "en": "The commitment doesn't come to a bad state, trading the goods during the transport.",
+      "zh": "承诺并没有出现不良状态,在运输过程中进行货物交易."
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat Zalo Download Archive",
+      "zh": "Chat Zalo 下载归档"
+    },
+    "Chuyên nghiệp:": {
+      "en": "Professional:",
+      "zh": "专业:"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Transfer the Hanoi factory of Saigon",
+      "zh": "转让西贡河内工厂"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Transfer of Saigon workshops 01 Hulpa",
+      "zh": "西贡车间转让"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "TpHCM shed",
+      "zh": "TpHCM 仓库"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "Move North South",
+      "zh": "向南移动"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Move the Hanoi of Saigon",
+      "zh": "移动西贡河内"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Move Saigon/1 North",
+      "zh": "北移西贡/1"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Move Saigon/1 central",
+      "zh": "移动西贡/1 中心"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "The Saigon move.",
+      "zh": "西贡之行."
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "TpHCM Home",
+      "zh": "TpHCM 移动 内容"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Move Hanoi's office to Saigon",
+      "zh": "把河内办事处搬到西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Move Saigon office 04 Hulch",
+      "zh": "搬走西贡办事处 04 Hulch"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Move TpHCM Office",
+      "zh": "移动 TpHCM 办公室"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Cha Zalo Transport Liu",
+      "zh": "车泽洛 刘运"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Privacy Policy",
+      "zh": "隐私政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "付款政策"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Compensation Policy",
+      "zh": "货损赔偿政策"
+    },
+    "Chúng tôi sẽ sử dụng hệ thống GPS để theo dõi hành trình của xe, đảm bảo hàng hóa luôn được vận chuyển đúng lộ trình.": {
+      "en": "We're going to use the GPS to track the vehicle's course, to ensure that the cargo is always transported in the right direction.",
+      "zh": "我们要使用GPS追踪车辆的航向,确保货物始终向正确的方向运输."
+    },
+    "Chưa có bài viết nào trong mục này": {
+      "en": "No article has been written in this entry",
+      "zh": "本条目中没有写文章"
+    },
+    "Chọn đơn vị vận tải uy tín:": {
+      "en": "Select the prestigious transport unit:",
+      "zh": "选择著名的运输单位 :"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cung cấp thông tin:": {
+      "en": "Give information:",
+      "zh": "提供信息:"
+    },
+    "Các câu hỏi thường gặp khi thuê xe tải chở hàng tỉnh?": {
+      "en": "The usual questions when renting a cargo truck?",
+      "zh": "租货车的常见问题?"
+    },
+    "Các dịch vụ đi kèm:": {
+      "en": "The accompanying services:",
+      "zh": "配套服务:"
+    },
+    "Các thủ tục hải quan (nếu có):": {
+      "en": "Custom procedures (if any):",
+      "zh": "自定义程序(如有):"
+    },
+    "Các yêu cầu khác:": {
+      "en": "Other requirements:",
+      "zh": "其他所需经费:"
+    },
+    "Các yếu tố như thời tiết, tình hình giao thông, tắc đường... có thể ảnh hưởng đến thời gian giao hàng.": {
+      "en": "Elements such as weather, traffic conditions, traffic traffic traffic... can affect delivery time.",
+      "zh": "天气,交通条件,交通交通流量等要素,会影响交货时间."
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Có trách nhiệm đền bù thiệt hại hàng hoá xảy ra trong quá trình vận chuyển.": {
+      "en": "The responsibility to compensate for the cargo damage occurred during transport.",
+      "zh": "货物损坏的赔偿责任发生在运输期间。"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Cần xác định chính xác trọng lượng và kích thước của hàng hóa để chọn loại xe có tải trọng và thùng xe phù hợp.": {
+      "en": "The exact weight and size of the goods required to select the type of loaded car and the fit trunk.",
+      "zh": "选择装载车型和适配车厢所需货物的确切重量和大小."
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "MAIN SERVICES",
+      "zh": "主要服务"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Freight Transportation Services",
+      "zh": "货物运输服务"
+    },
+    "Dịch vụ đi kèm:": {
+      "en": "Included service:",
+      "zh": "包含服务 :"
+    },
+    "Dựa trên thông tin khách hàng cung cấp ở bước 1 và khảo sát thực tế (nếu cần) ở bước 2, nhân viên tư vấn Lưu Lê sẽ tiến hành báo giá cước vận chuyển cho khách hàng.": {
+      "en": "Based on customer information provided at step 1 and realistic survey (if necessary) at step 2, the Liu Lavi consultant will conduct the shipping rate for the customer.",
+      "zh": "根据第1步提供的客户资料和(如有必要)第2步的现实调查,刘拉维顾问将为客户办理发货费。"
+    },
+    "Dựa trên thông tin khách hàng cung cấp, nhân viên của chúng tôi sẽ tư vấn loại xe phù hợp nhất, đưa ra lộ trình vận chuyển tối ưu và báo giá chi tiết.": {
+      "en": "Based on the customer information provided, our staff will advise the most suitable car, offering the optimal transport route and the detailed notice.",
+      "zh": "根据所提供的客户信息,我们的工作人员将向最合适的汽车提供咨询,提供最佳运输路线和详细通知。"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email:": {
+      "en": "Email:",
+      "zh": "电子邮件 :"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "HEAD",
+      "zh": "总部"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giao hàng:": {
+      "en": "The delivery:",
+      "zh": "交付:"
+    },
+    "Giá cả cạnh tranh.": {
+      "en": "The price of competition.",
+      "zh": "竞争的代价。"
+    },
+    "Giá thuê xe tải bao nhiêu?": {
+      "en": "What's the rent on the truck?",
+      "zh": "卡车租金多少?"
+    },
+    "Giá thuê xe tải phụ thuộc vào nhiều yếu tố:": {
+      "en": "Truck rental prices depend on multiple factors:",
+      "zh": "卡车租金取决于多种因素:"
+    },
+    "Giá xe tải chở hàng": {
+      "en": "The cost of freight trucks",
+      "zh": "货运卡车费用"
+    },
+    "Giải đáp:": {
+      "en": "Answer:",
+      "zh": "答复:"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "ADVICE & GUIDES",
+      "zh": "咨询与指南"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Ship from Hanoi to Saigon",
+      "zh": "从河内寄货至西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Ship from Saigon to Hanoi",
+      "zh": "从西贡寄货至河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "North–South Motorcycle Shipping",
+      "zh": "南北摩托车托运"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hay bạn muốn vận chuyển hàng hóa đi tỉnh một cách nhanh chóng, an toàn và tiết kiệm? Và bạn đang đi tìm kiếm 1 đơn vị dịch vụ vận tải uy tín, chuyên nghiệp để hợp tác lâu dài?": {
+      "en": "Or do you want to transport the goods to the province quickly, safely and save? And you're looking for a prestigious, professional transport service unit for long-term partnership?",
+      "zh": "还是你想把货物 安全地运送到省里去? 你要找一个有名望的专业运输服务单位 做长期的伙伴关系?"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "Hotline: 0909 81 6625": {
+      "en": "Hotline: 0909 81 6625",
+      "zh": "热线:0909 81 6625"
+    },
+    "Hoạt động rộng khắp các tỉnh thành trên toàn quốc, đặc biệt miền Nam.": {
+      "en": "Wide operations throughout the provinces across the country, especially the South.",
+      "zh": "全国各省,特别是南方的广大业务."
+    },
+    "HÌNH ẢNH": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Hàng hóa dễ vỡ, cần có thùng kín để bảo vệ. Hàng hóa quá khổ, quá tải cần xe chuyên dụng.": {
+      "en": "The goods are fragile, need to be sealed for protection. The goods are too heavy, too loaded to be used.",
+      "zh": "货物很脆弱,需要密封以保护。 货物太重,装载过重,无法使用."
+    },
+    "Hàng hóa sẽ được sắp xếp lên xe một cách khoa học, đảm bảo an toàn và tránh hư hỏng.": {
+      "en": "The goods will be arranged in the car in a scientific way, secure and avoid damage.",
+      "zh": "货物将以科学的方式安排在车上,保证安全并避免损坏。"
+    },
+    "Hàng hóa thông thường": {
+      "en": "General Cargo",
+      "zh": "普通货物"
+    },
+    "Hàng hóa được vận chuyển an toàn, đúng hẹn.": {
+      "en": "The cargo is safely delivered, on time.",
+      "zh": "货物按时安全交付。"
+    },
+    "Hãy đến với Vận Tải Lưu Lê, dịch vụ cho thuê": {
+      "en": "Go to Liu Download, lease service",
+      "zh": "去刘下载,租赁服务"
+    },
+    "HƯỚNG DẪN": {
+      "en": "EXAMPLE",
+      "zh": "实例"
+    },
+    "Hệ thống quản lý hiện đại.": {
+      "en": "Modern administration.",
+      "zh": "现代行政管理."
+    },
+    "Hỗ trợ khách hàng 24/7.": {
+      "en": "Support client 24/7.",
+      "zh": "支持客户24/7。"
+    },
+    "Hỗ trợ tối đa theo yêu cầu của khách hàng.": {
+      "en": "Full support at the request of the customer.",
+      "zh": "应客户要求给予全力支持。"
+    },
+    "Hợp đồng sẽ bao gồm các thông tin chi tiết như: loại xe, khối lượng hàng hóa, cước phí, thời gian vận chuyển, trách nhiệm của hai bên...": {
+      "en": "The contract will include detailed information such as: the type of car, the mass, the fee, the time of transportation, the responsibility of the two sides...",
+      "zh": "合同将包括详细信息,如:车型,质量,收费,运输时间,双方责任等."
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Khi có nhu cầu thuê xe tải, chắc hẳn bạn sẽ có rất nhiều những thắc mắc. Dưới đây là một số câu hỏi thường gặp nhất và lời giải đáp chi tiết:": {
+      "en": "When there is a need to rent a truck, questions will undoubtedly arise. The following are some of the most common questions and detailed answers:",
+      "zh": "当需要租用一辆卡车时,无疑会出现问题。 以下是一些最常见的问题和详细答案:"
+    },
+    "Khi hàng hóa đến nơi, chúng tôi sẽ thông báo cho khách hàng để tiến hành giao nhận.": {
+      "en": "When the goods arrive, we will inform the customers to conduct the delivery.",
+      "zh": "货物一到,我们就会通知客户进行交货。"
+    },
+    "Khi sử dụng dịch vụ vận chuyển hàng hóa bằng xe tải tại Lưu Lê bạn sẽ được ký hợp đồng đầy đủ. Các chế độ bảo hành sẽ được liệt kê đầy đủ trong hợp đồng, nếu xảy ra sự cố hư hỏng trong quá trình vận chuyển công ty sẽ hỗ trợ 100% giá trị hợp đồng.": {
+      "en": "When you use the freight service by truck at Liu Liu you will be signed full contract. Preservation regimes will be listed in the contract, if the malfunction occurs during the company transport will support 100% of the contract value.",
+      "zh": "在刘刘使用卡车货运服务时,将签订正式合同。 如果在公司运输期间发生故障,则保存制度将列入合同,从而支持100%的合同价值。"
+    },
+    "Khoảng cách giữa điểm đi và điểm đến.": {
+      "en": "The distance between destination and destination.",
+      "zh": "目的地与目的地之间的距离."
+    },
+    "Khoảng này bạn có thể đo trên Google Map": {
+      "en": "About this you can measure on Google Map",
+      "zh": "关于这一点, 您可以在 Google 地图上测量"
+    },
+    "Khác biệt với các đơn vị vận tải khác, chúng tôi cam kết mang đến cho bạn dịch vụ chất lượng tốt nhất với giá cước cạnh tranh nhất. Hãy cùng tìm hiểu chi tiết nhé!": {
+      "en": "Unlike other transport units, we are committed to bringing you the best quality service at the most competitive rate. Let's look into the details.",
+      "zh": "与其他运输单位不同,我们致力于以最具竞争力的速度为你们提供最好的优质服务。 我们来查查细节"
+    },
+    "Khách hàng kiểm tra hàng hóa và ký biên bản nghiệm thu.": {
+      "en": "Customers check the cargo and sign the record.",
+      "zh": "客户检查货物 并签署记录。"
+    },
+    "Khách hàng liên hệ:": {
+      "en": "Contact client:",
+      "zh": "联系客户端 :"
+    },
+    "Khách hàng thanh toán cước phí theo đúng hợp đồng.": {
+      "en": "Customers pay their bills on the right contract.",
+      "zh": "客户按正确的合同支付账单。"
+    },
+    "Khảo sát thực tế:": {
+      "en": "Reality Survey:",
+      "zh": "现实调查:"
+    },
+    "Khối lượng hàng hóa cần vận chuyển.": {
+      "en": "The cargo mass needs transport.",
+      "zh": "货物批量需要运输."
+    },
+    "Khối lượng, kích thước hàng hóa.": {
+      "en": "The mass, the size of the cargo.",
+      "zh": "质量,货体大小."
+    },
+    "Khối lượng, kích thước, tính chất hàng hóa.": {
+      "en": "Volume, size, substance.",
+      "zh": "量,大小,实质."
+    },
+    "Kiểm tra kỹ hàng hóa trước khi giao:": {
+      "en": "Check the cargo before delivery:",
+      "zh": "交货前检查货物:"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Luu Le Transport through our official channels.",
+      "zh": "通过官方渠道联系 Luu Le 运输公司。"
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "CONNECT WITH US",
+      "zh": "联系我们"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Liên tỉnh:": {
+      "en": "Associated:",
+      "zh": "联系人:"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Loại hàng hóa cần vận chuyển.": {
+      "en": "The kind of goods that need transportation.",
+      "zh": "那种需要运输的货物。"
+    },
+    "Loại hàng hóa:": {
+      "en": "Kind of goods:",
+      "zh": "货物类型:"
+    },
+    "Loại xe:": {
+      "en": "Car Type:",
+      "zh": "车型 :"
+    },
+    "Làm gì khi hàng hóa bị hư hỏng trong quá trình vận chuyển?": {
+      "en": "What do you do when goods are damaged during transport?",
+      "zh": "当货物在运输过程中受损时,你会怎么做?"
+    },
+    "Làm sao để đảm bảo hàng hóa an toàn khi vận chuyển?": {
+      "en": "How do we ensure that goods are safe when transported?",
+      "zh": "我们如何确保货物在运输时安全?"
+    },
+    "Làm thế nào để thanh toán cước phí?": {
+      "en": "How do I pay the bill?",
+      "zh": "我该怎么付账?"
+    },
+    "Lưu Lê là một trong những doanh nghiệp vận tải TN cung cấp dịch vụ giao nhận bằng xe tải uy tín trên thị trường hiện nay. Khi sử dụng xe tải vận chuyển hàng hóa tại Lưu Lê bạn sẽ nhận được nhiều lợi ích vượt trội, chẳng hạn như:": {
+      "en": "Liu La is one of the TN shipping businesses that offer the delivery service by the prestigious truck on the current market. When you use freight trucks at Liu Liu, you get a lot of outstanding benefits, such as:",
+      "zh": "刘拉是TN航运企业之一,由目前市场上著名的货车提供送货服务. 在刘刘处使用货运货车时,会得到很多未完成的福利,例如:"
+    },
+    "Lưu ý:": {
+      "en": "Note:",
+      "zh": "说明:"
+    },
+    "Lượng hàng hóa:": {
+      "en": "Commodities:",
+      "zh": "初级商品:"
+    },
+    "Lập hợp đồng:": {
+      "en": "The contract:",
+      "zh": "合同:"
+    },
+    "Lợi ích khi sử dụng dịch vụ xe tải chở hàng đi tỉnh tại Lưu Lê": {
+      "en": "Benefits from using truck service to the province in Liu",
+      "zh": "利用卡车到刘省服务的好处"
+    },
+    "Lựa chọn những đơn vị có kinh nghiệm, đội ngũ lái xe chuyên nghiệp, hệ thống xe tốt.": {
+      "en": "Select experienced units, professional driving teams, good car systems.",
+      "zh": "选择经验丰富的单位,专业驾驶团队,良好的汽车系统."
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machinery & Equipment",
+      "zh": "机械设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nghiệm thu:": {
+      "en": "Retrieved Addiction:",
+      "zh": "获取成瘾:"
+    },
+    "Ngoài ra tại Lưu Lê còn có hệ thống xe tải vận chuyển TPHCM và đến các tỉnh thành khác trong cả nước, phục vụ mọi nhu cầu vận chuyển của khách hàng.": {
+      "en": "In addition, in Liu, there is the TPHCM transport and to other provinces throughout the country, serving all customer transportation needs.",
+      "zh": "此外,在刘州,还有TPHCM运输以及前往全国其他省份,满足所有客运需求."
+    },
+    "Nhanh chóng.": {
+      "en": "Quick.",
+      "zh": "快点"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "General Information",
+      "zh": "一般须知"
+    },
+    "Nói cách khác, chỉ cần khách hàng nắm được thông tin CHI TIẾT về hàng hóa vận chuyển như số lượng đơn hàng bao nhiêu tấn hoặc bao nhiêu m3, khoảng cách từ điểm \"": {
+      "en": "In other words, as long as the customer grasps the CHICO information about the freight as how many tons or how many m3, the distance from the point\"",
+      "zh": "换句话说,只要顾客掌握CHICO关于运费的信息,就等于多少吨或多少立方米,距离点的距离\"."
+    },
+    "Nếu có yêu cầu đặc biệt, hãy thông báo ngay từ đầu.": {
+      "en": "If you have a special request, report it from the beginning.",
+      "zh": "有特殊要求的,从头报告."
+    },
+    "Nếu cần giao hàng gấp, giá có thể cao hơn.": {
+      "en": "If the delivery is urgent, the price may be higher.",
+      "zh": "如果交货紧急,价格可能更高。"
+    },
+    "Nếu hàng hóa bị hư hỏng, bạn nên liên hệ ngay với đơn vị vận tải để yêu cầu bồi thường. Đơn vị vận tải có trách nhiệm đền bù thiệt hại cho khách hàng theo đúng hợp đồng.": {
+      "en": "If the goods are damaged, you should contact the transport unit immediately for compensation. The transport unit is responsible for making up for the damage to the customer on the proper contract.",
+      "zh": "货物损坏的,应当立即联系运输单位要求赔偿. 运输单位负责在适当的合同中弥补对客户的损害."
+    },
+    "Nếu quãng đường ngắn, bạn có thể chọn xe tải nhỏ. Ngược lại, nếu quãng đường dài, nên chọn xe tải lớn để tiết kiệm chi phí.": {
+      "en": "If the distance is short, you can choose a small truck. On the contrary, if the distance is long, the truck should be selected to save costs.",
+      "zh": "如果距离短,可以选择一辆小卡车. 相反,如果距离很长,则应选择卡车来节省费用。"
+    },
+    "NỘI BỘ": {
+      "en": "INTERVIEW",
+      "zh": "专访"
+    },
+    "Nội dung hợp đồng:": {
+      "en": "The contract content:",
+      "zh": "合同内容:"
+    },
+    "Nội thành:": {
+      "en": "City:",
+      "zh": "城市 :"
+    },
+    "Quy trình dịch vụ cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê": {
+      "en": "The service process for renting freight trucks to the province in Liu Liu",
+      "zh": "刘 Liu租货车到省服务流程"
+    },
+    "Quy trình làm việc chuyên nghiệp.": {
+      "en": "Professional work process.",
+      "zh": "专业工作流程。"
+    },
+    "Quãng đường càng xa, thời gian giao hàng càng lâu.": {
+      "en": "The further the road, the longer the delivery time.",
+      "zh": "越远的道路,交货时间越长."
+    },
+    "Quãng đường vận chuyển càng xa, giá càng cao.": {
+      "en": "The further the route, the higher the price.",
+      "zh": "路线越远,价格就越高."
+    },
+    "Quãng đường vận chuyển:": {
+      "en": "Transport route:",
+      "zh": "运输路线:"
+    },
+    "Quãng đường:": {
+      "en": "Road:",
+      "zh": "道路 :"
+    },
+    "Quý khách cung cấp thông tin chi tiết về:": {
+      "en": "You provide detailed information about:",
+      "zh": "请详细了解:"
+    },
+    "Quý khách có thể liên hệ với chúng tôi qua điện thoại, email hoặc trực tiếp đến văn phòng để được tư vấn và báo giá.": {
+      "en": "You can contact us on the phone, email, or direct to the office for advice and price notice.",
+      "zh": "您可通过电话、电子邮件或电话联系办公室咨询及价格通知。"
+    },
+    "Sau khi hai bên ký hợp đồng vận chuyển hàng hoá bằng xe tải, Lưu Lê sẽ thực hiện vận chuyển theo đúng hợp đồng, giao hàng đúng nơi, đúng thời gian, đảm bảo thời gian giao hàng chính xác và nhanh nhất cho khách hàng.": {
+      "en": "After the two sides sign the delivery contract by truck, Liu Liu will perform the transport in the right contract, deliver the right place, the right time, ensure that the time of the delivery is the best and the fastest for the customer.",
+      "zh": "双方通过货车签订交货合同后,刘刘将按正确的合同进行运输,交付正确的地点,正确的时间,保证交货时间对客户最好,最快."
+    },
+    "Sau khi khách hàng đồng ý với báo giá, hai bên sẽ tiến hành ký kết hợp đồng vận chuyển.": {
+      "en": "After the customer agrees with the price newspaper, the two parties will proceed to sign the shipping contract.",
+      "zh": "在客户同意价格报后,双方将着手签署航运合同."
+    },
+    "So sánh hàng hóa với phiếu giao nhận để đảm bảo không bị thiếu hụt.": {
+      "en": "Comparing goods with transfers to ensure no shortage.",
+      "zh": "将货物与转让进行比较,以确保不短缺。"
+    },
+    "Sắp xếp hàng hóa:": {
+      "en": "Order of goods:",
+      "zh": "货物顺序:"
+    },
+    "Số lượng và khối lượng hàng hóa lớn sẽ cần nhiều thời gian để xếp dỡ và vận chuyển.": {
+      "en": "Large quantities and mass of goods will take much time to load and transport.",
+      "zh": "大量货物需要大量时间装载和运输。"
+    },
+    "Số điện thoại:": {
+      "en": "Phone number:",
+      "zh": "电话号码:"
+    },
+    "Sở dĩ bạn nên chọn dịch vụ cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê bởi nhiều lý do được liệt kê ra ở dưới đây:": {
+      "en": "You should choose the service for the delivery truck to the province in Liu for various reasons listed below:",
+      "zh": "因下列原因,您应选择前往省内的运货卡车服务:"
+    },
+    "THÔNG BÁO": {
+      "en": "FINAL",
+      "zh": "最终结果"
+    },
+    "THÔNG TIN": {
+      "en": "INFORMATION",
+      "zh": "公司信息"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "TRACK SHIPMENT",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "GREECE",
+      "zh": "希腊"
+    },
+    "Thanh toán sau khi nhận hàng. Hình thức này thường áp dụng cho khách hàng thân thiết.": {
+      "en": "Pay up after receiving. This form often applies to close customers.",
+      "zh": "收讫后付. 这种表格通常适用于关系密切的客户。"
+    },
+    "Thanh toán sau:": {
+      "en": "The following payment:",
+      "zh": "下列付款:"
+    },
+    "Thanh toán trước:": {
+      "en": "Prepaid:",
+      "zh": "预付:"
+    },
+    "Thanh toán:": {
+      "en": "Payment:",
+      "zh": "付款:"
+    },
+    "Theo dõi hành trình:": {
+      "en": "Travel track:",
+      "zh": "旅行轨道:"
+    },
+    "Thông thường, hàng hóa sẽ được giao trong vòng 24 → 48 giờ.": {
+      "en": "Typically, the cargo will be delivered within 24/13-48 hours.",
+      "zh": "通常,货物将在24/13-48小时内交付。"
+    },
+    "Thông tin liên hệ cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê": {
+      "en": "Contact information for renting freight trucks to the province in Liu Liu",
+      "zh": "刘刘租运货车到省联系方式"
+    },
+    "Thông tin về hàng hóa:": {
+      "en": "Row Information:",
+      "zh": "行信息 :"
+    },
+    "Thường thanh toán trước một phần hoặc toàn bộ cước phí.": {
+      "en": "Usually in part or in total fees.",
+      "zh": "通常部分或全部收费."
+    },
+    "Thời gian giao hàng có thể dao động từ 2 → 7 ngày, tùy thuộc vào quãng đường và các yếu tố khác.": {
+      "en": "The delivery time can waver from 2/13 days, depending on the distance and other factors.",
+      "zh": "交付时间会从2/13天起波动,取决于距离和其他因素."
+    },
+    "Thời gian giao hàng:": {
+      "en": "Time of delivery:",
+      "zh": "交货时间:"
+    },
+    "Thời gian giao nhận hàng hóa": {
+      "en": "Time for delivery",
+      "zh": "交货时间"
+    },
+    "Thời gian giao nhận hàng hóa bằng xe tải đi tỉnh tại Lưu Lê": {
+      "en": "Time for delivery by truck to the province in Liu Liu",
+      "zh": "刘刘的货车交货时间"
+    },
+    "Thời gian mong muốn nhận hàng.": {
+      "en": "Time for receiving.",
+      "zh": "时间接收。"
+    },
+    "Thời gian vận chuyển (ngày, đêm, gấp).": {
+      "en": "Transportation Time (Day, Night, Fold).",
+      "zh": "交通时间(日,夜,福德)."
+    },
+    "Thời gian yêu cầu giao hàng.": {
+      "en": "Time for delivery.",
+      "zh": "时间交货。"
+    },
+    "Thời gian:": {
+      "en": "Time:",
+      "zh": "时间 :"
+    },
+    "Thủ tục đơn giản, nhanh gọn.": {
+      "en": "Simple, quick procedure.",
+      "zh": "简单,快速的程序。"
+    },
+    "Tiết kiệm thời gian và chi phí.": {
+      "en": "Save time and expenses.",
+      "zh": "节省时间和开支。"
+    },
+    "Tiết kiệm:": {
+      "en": "Saving:",
+      "zh": "保存 :"
+    },
+    "Tiện lợi:": {
+      "en": "utility:",
+      "zh": "工具栏 :"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Transportation Review",
+      "zh": "运输审查"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trên đây là mọi thông tin chi tiết về": {
+      "en": "Above are all the details of",
+      "zh": "上面是所有的细节"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Tuân thủ theo những điều khoản ghi trên hợp đồng, đảm bảo quyền lợi cho cả hai bên.": {
+      "en": "Follow the terms written on the contract, secure the rights of both parties.",
+      "zh": "遵守合同中的条款,保障双方的权利。"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm kiếm": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tình hình giao thông:": {
+      "en": "Transport status:",
+      "zh": "运输状况:"
+    },
+    "Tóm lại,": {
+      "en": "In short,",
+      "zh": "总之"
+    },
+    "Tôi có thể hủy hợp đồng thuê xe không?": {
+      "en": "Can I cancel my rental contract?",
+      "zh": "我能取消我的租赁合同吗?"
+    },
+    "Tôi cần chuẩn bị những gì khi thuê xe tải?": {
+      "en": "What do I need to prepare for when I rent a truck?",
+      "zh": "我租卡车要准备什么?"
+    },
+    "Tôi nên chọn loại xe tải nào cho phù hợp?": {
+      "en": "What kind of truck should I pick for appropriate?",
+      "zh": "我该选什么样的卡车?"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "Tư vấn:": {
+      "en": "Consulting:",
+      "zh": "咨询:"
+    },
+    "Tại Lưu Lê có đa dạng các dòng xe tải đến từ các hãng khác nhau và có nhiều kích thước, tải trọng xe khác nhau giúp khách hàng thoải mái lựa chọn sao cho phù hợp với khối lượng hàng hoá mà mình muốn gửi. Xe tải luôn được bảo hành kiểm tra về chất lượng theo định kỳ, đảm bảo an toàn trong quá trình vận chuyển hàng hoá.": {
+      "en": "At Liu Levi there is a variety of truck lines coming from different companies and has a wide range of sizes, a variety of car load that helps customers to choose in such a way as to fit the amount of goods they want to send. Trucks are always issued a routine quality test, secure during freight.",
+      "zh": "刘列维有多种货车线路来自不同的公司,车体大小各异,车载量各异,帮助客户选择符合自己希望发送的货物量. 卡车总是得到例行的质量测试,在货运期间是安全的。"
+    },
+    "Tải trọng:": {
+      "en": "Load:",
+      "zh": "装入 :"
+    },
+    "Uy tín và kinh nghiệm.": {
+      "en": "Trust and experience.",
+      "zh": "信任和经验。"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Việc hủy hợp đồng phụ thuộc vào điều khoản trong hợp đồng. Bạn nên đọc kỹ hợp đồng trước khi ký kết để biết rõ quyền lợi và nghĩa vụ của mình.": {
+      "en": "Cancelling the contract depends on the terms of the contract. You should read the contract carefully before signing to know your rights and obligations.",
+      "zh": "解除合同取决于合同条款. 在签署合同之前,您应认真阅读合同,以了解您的权利和义务。"
+    },
+    "Vì sao nên chọn dịch vụ cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê?": {
+      "en": "Why select the rental truck truck for the province in Liu?",
+      "zh": "为何选省租车在刘?."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "THE BEST OF BITCH",
+      "zh": "最佳母狗队"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "TPHCM",
+      "zh": "TPHCM 电话"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "THE BEST OF THE BEST",
+      "zh": "最佳成绩"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "JUDGE OF MIKIN",
+      "zh": "迈克尔法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "JUDGE OF MIDIA",
+      "zh": "米迪亚法官"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "MICHABORIES",
+      "zh": "微生物"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "TPHCM BIT",
+      "zh": "TPHCM 双边投资条约"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "THE TESTHCM INTERVIECTIONS",
+      "zh": "二、专题辩论"
+    },
+    "Vận Tải Lưu Lê luôn mong muốn mang đến cho khách hàng một dịch vụ chất lượng tốt nhất, giúp quý khách có thể hoàn toàn an tâm, tin tưởng.": {
+      "en": "Liu Li's truck has always wanted to give its customers the best quality service, so that you can be completely secure, confident.",
+      "zh": "刘力的货车一直想给客户提供最好的优质服务,这样你就可以完全安全,自信."
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "North–South Freight Transport",
+      "zh": "南北货物运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Transporting Hanoi (10) Southwestern Ministry",
+      "zh": "运输河内(10)西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "TPHCM Transportation - > North",
+      "zh": "TPHCM 运输 - > 北边"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "TPHCM Transportation - > China",
+      "zh": "TPHCM 运输 - > 中国"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "\"TPHCM Transportation\" (10).",
+      "zh": "\"TPHCM运输\"(10)."
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "TPHCM Transportation - > Yuan",
+      "zh": "TPHCM 运输 - >  Yuan"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North–South Rail Freight",
+      "zh": "南北铁路货运"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Với trình độ kinh nghiệm cao, đội ngũ nhân viên luôn làm việc một cách nhiệt tình, chuyên nghiệp từ khâu đóng gói, bảo quản tới vận chuyển, đảm bảo hàng hóa của bạn an toàn và vận chuyển đúng lịch trình.": {
+      "en": "With a high level of experience, the staff always worked passionately, professionally from bundled stitches, preservative to transport, making sure your cargo is safe and on schedule.",
+      "zh": "由于经验丰富,工作人员总是热情地工作,从捆绑的缝线,防腐剂到运输,确保你们的货物安全并如期到达。"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "Website": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe lớn, xe nhỏ, xe chuyên dụng có giá khác nhau.": {
+      "en": "Big cars, small cars, specialized cars have different prices.",
+      "zh": "大车,小车,专用车的价格不同."
+    },
+    "Xe máy": {
+      "en": "Motorcycles",
+      "zh": "摩托车"
+    },
+    "Xe tải chở hàng": {
+      "en": "Transportation Truck",
+      "zh": "运输卡车"
+    },
+    "Xe tải chở hàng Bình Dương": {
+      "en": "Pacific freight truck",
+      "zh": "太平洋货运卡车"
+    },
+    "Xe tải chở hàng Bắc Nam": {
+      "en": "North Vietnamese freight truck",
+      "zh": "北越货运卡车"
+    },
+    "Xe tải chở hàng TpHCM": {
+      "en": "TpHCM freight truck",
+      "zh": "TpHCM 货运卡车"
+    },
+    "Xe tải chở hàng Đồng Nai": {
+      "en": "Copper Truck Nai",
+      "zh": "直井铜车"
+    },
+    "Xe tải chở hàng đi tỉnh": {
+      "en": "A delivery truck to the province",
+      "zh": "一辆运送货车到该省"
+    },
+    "Xe tải lớn thường có tốc độ chậm hơn so với xe tải nhỏ.": {
+      "en": "Large trucks usually have slower speed than small trucks.",
+      "zh": "大卡车的车速通常比小卡车慢."
+    },
+    "Xe tải nhẹ, trung, nặng, thùng kín, thùng mui bạt...": {
+      "en": "Light, medium, heavy, closed barrel, carton...",
+      "zh": "轻,中,重,闭合的枪管,卡通..."
+    },
+    "Xe tải nhẹ.": {
+      "en": "Light truck.",
+      "zh": "轻型卡车。"
+    },
+    "Xe tải nhỏ chở hàng": {
+      "en": "Small freight truck",
+      "zh": "小货车"
+    },
+    "Xe tải nặng.": {
+      "en": "Heavy truck.",
+      "zh": "重型卡车。"
+    },
+    "Xe tải thùng kín.": {
+      "en": "Bind truck.",
+      "zh": "宾德卡车。"
+    },
+    "Xe tải thùng mui bạt, v.v...": {
+      "en": "The box van, etc.",
+      "zh": "箱车等."
+    },
+    "Xe tải trung.": {
+      "en": "Central truck.",
+      "zh": "中央卡车。"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "của chúng tôi là lựa chọn hoàn hảo dành cho bạn. Với dịch vụ cho thuê xe tải chuyên nghiệp, đội ngũ nhân viên giàu kinh nghiệm, quy trình vận chuyển chặt chẽ, và có nhiều năm hoạt động trong lĩnh vực vận tải, chúng tôi tự tin mang đến cho bạn giải pháp vận chuyển tối ưu nhất.": {
+      "en": "Ours is the perfect choice for you. With the job of renting professional trucks, the experienced staff, the tight transport process, and having years operating in the transportation sector, we confidently bring you the best transport solution.",
+      "zh": "我们的是你最好的选择 随着专业卡车的租用,经验丰富的工作人员,运输过程的紧张,以及运输部门多年的运营,我们有信心地给你带来最好的运输解决方案."
+    },
+    "dịch vụ cho thuê xe tải chở hàng đi tỉnh": {
+      "en": "The service for renting trucks to the province",
+      "zh": "向该省租用卡车的服务"
+    },
+    "khi chọn dịch vụ cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê, bạn sẽ được hưởng những lợi ích sau:": {
+      "en": "When you choose to rent a truck to the province in Liu, you will enjoy the following benefits:",
+      "zh": "选择租车到省驻刘时,享受以下优惠: 租车到省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省驻省办事处."
+    },
+    "là một trong những yếu tố quan trọng mà khách hàng quan tâm khi sử dụng dịch vụ vận chuyển. Tại Lưu Lê, chúng tôi luôn cố gắng rút ngắn thời gian giao hàng để đáp ứng tốt nhất nhu cầu của khách hàng.": {
+      "en": "is one of the key factors that customers care about using transportation services. At Liu Liu, we always tried to shorten the delivery time to meet the customers' best needs.",
+      "zh": "是顾客关心使用运输服务的关键因素之一。 在刘刘,我们一直试图缩短交货时间,以满足顾客的最佳需求."
+    },
+    "lấy hàng\"": {
+      "en": "Take the package.\"",
+      "zh": "拿着包裹\""
+    },
+    "mà Vận Tải Lưu Lê đã chia sẻ đến với bạn. Hy vọng qua những thông tin trên đây sẽ giúp bạn hiểu rõ hơn về dịch vụ này để lựa chọn được đơn vị cung cấp dịch vụ cho thuê xe liên tỉnh uy tín và chuyên nghiệp nhất. Nếu có bất kỳ mọi thắc mắc nào về dịch vụ hãy liên hệ ngay với Lưu Lê qua số hotline:": {
+      "en": "which Liu Li's fortune has shared with you. Hope through the above information will help you better understand this service to select the unit that provides services to the most prestigious and professional federal vehicle rental. If you have any questions about service, contact Liu immediately through the number hotline:",
+      "zh": "刘力的财宝与你分享了 希望通过上述信息可以帮助您更好地了解这项服务,选择为最有声望和专业的联邦车辆租赁服务单位。 如果您有任何服务问题,请立即通过电话热线联系刘:"
+    },
+    "nhận hàng\"": {
+      "en": "Take the package.\"",
+      "zh": "拿着包裹\""
+    },
+    "tới điểm \"": {
+      "en": "to the point \"",
+      "zh": "至此为止 \""
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "xe tải chở hàng đi tỉnh": {
+      "en": "The delivery truck to the province",
+      "zh": "运往该省的货车"
+    },
+    "Điều khoản công ty": {
+      "en": "Company Terms",
+      "zh": "公司条款"
+    },
+    "Điều khác biệt của Lưu Lê so với các đơn vị vận tải khác chính là giá cước cạnh tranh, được niêm yết mặc định, công khai minh bạch rõ ràng trên website:": {
+      "en": "Liu La's difference with other shipping units is the competition rate, the default label, the explicit public on the website:",
+      "zh": "刘拉与其他航运单位的区别在于竞争率,默认标签,网站的公开内容:"
+    },
+    "Điểm xuất phát và điểm đến.": {
+      "en": "The starting point and destination.",
+      "zh": "起点和目的地。"
+    },
+    "Điểm đi và điểm đến:": {
+      "en": "Point and destination:",
+      "zh": "点和目的地:"
+    },
+    "Đánh giá khối lượng và kích thước hàng hóa:": {
+      "en": "Quality rating and cargo size:",
+      "zh": "质量评级和货物大小:"
+    },
+    "Đây chỉ là thời gian ước tính để giao hàng. Trên thực tế, thời gian có thể thay đổi tùy thuộc vào các yếu tố nêu trên.": {
+      "en": "This is an estimated time for delivery. In fact, time can change depending on the above factors.",
+      "zh": "估计这是交货时间。 事实上,时间会因上述因素而变化。"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đóng gói hàng hóa cẩn thận:": {
+      "en": "Careful package:",
+      "zh": "注意软件包 :"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đảm bảo thời gian vận chuyển hàng hoá nhanh chóng, đúng tiến độ ghi trên hợp đồng.": {
+      "en": "Make sure that the time for the transport of goods is fast, right on schedule written on the contract.",
+      "zh": "确保货物运输时间迅速,如期在合同上写明。"
+    },
+    "Để có báo giá chính xác nhất về dịch vụ": {
+      "en": "To get an exact price on service",
+      "zh": "为了得到确切的服务价格"
+    },
+    "Để đảm bảo quy trình giao nhận hàng hóa luôn diễn ra suôn sẻ và hiệu quả, Công ty Lưu Lê đã chuẩn bị trước một quy trình dịch vụ rõ ràng và chuyên nghiệp. Dưới đây là 6 bước trong quy trình cho thuê xe tải chở hàng đi tỉnh tại Lưu Lê, mời bạn tham khảo:": {
+      "en": "In order to ensure that the delivery process is always smooth and effective, the Liu Company has prepared for a clear and professional service process. The following is six steps in the lease of a delivery truck to the province in Liu, which invites you to refer to:",
+      "zh": "为了保证交付过程始终是顺畅有效的,刘连为明确和专业的服务过程做好了准备. 以下为刘府租送货车的六个步骤,请参见: 刘府租送货车,请参见: 刘府租送货车,请参照使用."
+    },
+    "Để đảm bảo quyền lợi của mình, bạn nên chọn những đơn vị cho thuê xe tải đi tỉnh có độ uy tín cao, có hợp đồng đầy đủ, biên bản giao nhận rõ ràng.": {
+      "en": "In order to ensure your rights, you should select the units for the high-profile county truck rentals, with full contracts, a clear delivery report.",
+      "zh": "为保障你的权利,你应当选择高调的县级货车租赁单位,并签订全合同,明确交货报告."
+    },
+    "Địa chỉ cụ thể, số điện thoại liên hệ.": {
+      "en": "The specific address, the contact number.",
+      "zh": "具体地址,联系号码."
+    },
+    "Đối với hàng hóa xuất nhập khẩu, các thủ tục hải quan sẽ làm tăng thời gian giao hàng.": {
+      "en": "For import goods, customs procedures will increase delivery time.",
+      "zh": "对于进口货物,海关手续将增加交货时间。"
+    },
+    "Đối với những đơn hàng có yêu cầu đặc biệt hoặc hàng hóa cồng kềnh, chúng tôi sẽ cử nhân viên đến khảo sát thực tế để đảm bảo quá trình vận chuyển diễn ra thuận lợi.": {
+      "en": "For special orders or supplies, we'll send employees to the field to make sure the transport process goes well.",
+      "zh": "对于特殊订单或用品,我们会派员工到外地确保运输过程顺利进行."
+    },
+    "Đồ gia đình": {
+      "en": "Household Goods",
+      "zh": "家居物品"
+    },
+    "Đội ngũ lái xe chuyên nghiệp": {
+      "en": "Professional driving team",
+      "zh": "专业驾驶小组"
+    },
+    "Đội ngũ nhân viên giàu kinh nghiệm, phục vụ tận tình.": {
+      "en": "Experienced staff, dedicated service.",
+      "zh": "有经验的工作人员,专职服务。"
+    },
+    "Đội ngũ nhân viên tại doanh nghiệp vận tải Lưu Lê được đào tạo bài bản, có kinh nghiệm lâu năm trong ngành vận tải. Họ luôn sẵn sàng tư vấn, hỗ trợ và phục vụ tận tình, đảm bảo hài lòng cho khách hàng.": {
+      "en": "The staff at Liu's shipping business were trained, having long experience in the transportation industry. They are always willing to advise, assist, and serve well, assuring the customers satisfaction.",
+      "zh": "刘家航运业务的工作人员经过培训,在运输业有长期的经验. 他们始终愿意提供咨询、协助和服务,确保顾客满意。"
+    },
+    "Đội xe mới, đa dạng, chất lượng cao.": {
+      "en": "New team, diverse, high quality.",
+      "zh": "新团队,多样化,高质量."
+    },
+    "để được nhân viên công ty tư vấn báo giá và cung cấp dịch vụ nhé!": {
+      "en": "Let's get the company staff to give us a price and a service.",
+      "zh": "让公司员工给我们一个价钱和服务."
+    },
+    "→ Bạn còn bất kỳ thắc mắc nào khác, đừng ngần ngại đặt câu hỏi nhé!": {
+      "en": "Don't hesitate to ask questions.",
+      "zh": "不犹豫问."
+    },
+    "→ Lưu ý:": {
+      "en": "(10) Note:",
+      "zh": "(10) 说明:"
+    },
+    "► Bước 1: Tiếp nhận thông tin và tư vấn": {
+      "en": "‹ Step 1: Accept information and consultation",
+      "zh": "步骤1:接受信息和咨询"
+    },
+    "► Cam kết": {
+      "en": "I'm committed",
+      "zh": "我承诺"
+    },
+    "► Cam kết chất lượng vận chuyển và có bảo hành an toàn": {
+      "en": "IMI commit to shipping quality and security warrants",
+      "zh": "IMI致力于运输质量和安全令"
+    },
+    "► Các yếu tố ảnh hưởng đến thời gian giao hàng": {
+      "en": "INTERVIECTIONs that affect delivery time",
+      "zh": "影响交货时间的干扰"
+    },
+    "► Giá cước cạnh tranh, được niêm yết mặc định và công khai minh bạch rõ ràng": {
+      "en": "The competition rate, the default seal and the explicit public",
+      "zh": "竞争率、默认封条和公开"
+    },
+    "► Phạm vi hoạt động rộng khắp": {
+      "en": "A wide range of operations",
+      "zh": "各种业务"
+    },
+    "► Thời gian giao hàng ước tính": {
+      "en": "‹ The time of the covenant",
+      "zh": "* 公约的时间"
+    },
+    "► Đa dạng các dòng xe tải với kích thước khác nhau": {
+      "en": "INTERNATIONAL truck lines with different sizes",
+      "zh": "大小不同的国际卡车线路"
+    },
+    "► Đa dạng loại xe": {
+      "en": "INTERNATIONAL car format",
+      "zh": "国际汽车格式"
+    },
+    "► Điểm khác biệt": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "► Đảm bảo thời gian giao hàng đúng theo hợp đồng": {
+      "en": "Make sure the delivery time is in accordance with the contract",
+      "zh": "确保交货时间符合合同"
+    },
+    "► Đội ngũ nhân viên nhiệt tình, có trình độ và kinh nghiệm cao": {
+      "en": "The team is enthusiastic, highly qualified and experienced",
+      "zh": "团队热情,高素质,经验丰富"
+    },
+    "► Ưu điểm của dịch vụ": {
+      "en": "Adversity of Service",
+      "zh": "服务不利"
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}
