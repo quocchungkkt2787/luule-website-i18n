@@ -64,6 +64,11 @@ def translatable(s):
     # are identifiers, not prose. Preserve them as written across languages.
     if re.fullmatch(r'Website:\s*(?:[A-Za-z0-9-]+\.)+[A-Za-z]{2,}', v, re.I):
         return False
+    # Identifiers in external-site directories, including HTTP(S) URLs with a
+    # trailing slash, do not need machine translation. They caused 13 false
+    # missing strings on an otherwise complete published blog page.
+    if re.fullmatch(r'Website:\s*(?:https?://|www\.)[^\s<>]+', v, re.I):
+        return False
     if re.fullmatch(r'Airport Blvd,\s*Singapore', v, re.I):
         return False
     if re.match(r'^Parkway Parade:\s*\d+\s+Marine Parade\b', v, re.I):
@@ -599,6 +604,9 @@ def main():
         assert not translatable('/blogs/goc-tu-van/bien-so-56-o-dau')
         assert not translatable('Website: vantaibacnamgiare.com')
         assert not translatable('Website: vantaihuonglan.vn')
+        assert not translatable('Website: http://24hour.com.vn/')
+        assert not translatable('Website: https://www.futaexpress.vn/')
+        assert not translatable('Website: http://sagawa.vn/')
         assert not translatable('Airport Blvd, Singapore')
         assert not translatable('Parkway Parade: 80 Marine Parade,')
         assert not translatable('Hotline/Zalo: 0909 81 6625')
