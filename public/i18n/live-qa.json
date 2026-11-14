@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T15:13:29.803967+00:00",
+  "tested_at": "2026-11-14T15:36:19.062976+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 19,
-  "public_routes_pending": 917,
+  "public_routes_verified": 27,
+  "public_routes_pending": 909,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -314,14 +314,158 @@
         }
       }
     },
-    "/blogs/chuyen-cua-hang/chuyen-cua-hang-sai-gon-ha-noi": {},
-    "/blogs/chuyen-kho-xuong": {},
-    "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-ha-noi-sai-gon": {},
-    "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-sai-gon-ha-noi": {},
-    "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-tphcm": {},
-    "/blogs/chuyen-nha-hn-mien-nam": {},
-    "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-binh-duong": {},
-    "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-binh-phuoc": {},
+    "/blogs/chuyen-cua-hang/chuyen-cua-hang-sai-gon-ha-noi": {
+      "fingerprint": "065cd58c70e55f4a",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:35:25.851540+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "All the experience of moving Saigon store - Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "搬西贡店的经验 - 河内"
+        }
+      }
+    },
+    "/blogs/chuyen-kho-xuong": {
+      "fingerprint": "1f3ad94721cf730d",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:35:34.808500+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package Full Store Transfer Service Processes, cost & solutions"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "软件包全存储传输服务流程、成本和解决方案"
+        }
+      }
+    },
+    "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-ha-noi-sai-gon": {
+      "fingerprint": "2efb51c99dbb5c4a",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:35:41.935235+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The warehouse transfer service from Hanoi to Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到西贡的仓库转运服务"
+        }
+      }
+    },
+    "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-sai-gon-ha-noi": {
+      "fingerprint": "39c25088917ba343",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:35:49.850735+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The warehouse moved from Saigon to Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "仓库从西贡搬到河内"
+        }
+      }
+    },
+    "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-tphcm": {
+      "fingerprint": "7ea544a518121333",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:35:56.598236+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The TP.HCM warehouse transfer service complete package"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TP.HCM 仓库转移服务包"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-hn-mien-nam": {
+      "fingerprint": "a72eed020ae260e7",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:36:03.226032+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hêure package transfer service Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方省份的包装转移服务"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-binh-duong": {
+      "fingerprint": "af8ddf98a082eef9",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:36:10.532082+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Professional, safe, low-cost Han Pacific move service"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "专业、安全、低成本的汉族太平洋流动服务"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-binh-phuoc": {
+      "fingerprint": "dbd1645dd9245999",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:36:19.037503+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The move rate for the Hanoi House - Lucky Details"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内大厦的移动率-幸运细节"
+        }
+      }
+    },
     "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-dong-nai": {},
     "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-long-an": {},
     "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-tay-ninh": {},
@@ -1220,7 +1364,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T15:12:18.378408+00:00",
+      "checked_at": "2026-11-14T15:35:05.058284+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1240,7 +1384,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T15:12:33.319862+00:00",
+      "checked_at": "2026-11-14T15:35:18.533503+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1272,7 +1416,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T15:12:25.510478+00:00",
+      "checked_at": "2026-11-14T15:35:12.237965+00:00",
       "languages": {
         "en": {
           "ok": true,
