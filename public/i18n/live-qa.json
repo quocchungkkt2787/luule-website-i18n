@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T14:50:57.062123+00:00",
+  "tested_at": "2026-11-14T15:13:29.803967+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 11,
-  "public_routes_pending": 925,
+  "public_routes_verified": 19,
+  "public_routes_pending": 917,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -162,14 +162,158 @@
         }
       }
     },
-    "/blogs/chinh-sach-cong-ty/den-bu-thiet-hai": {},
-    "/blogs/chinh-sach-cong-ty/dieu-khoan-chung": {},
-    "/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay": {},
-    "/blogs/chinh-sach-cong-ty/nhung-luu-y-chung": {},
-    "/blogs/chinh-sach-cong-ty/quy-trinh-giao-nhan-hang-hoa": {},
-    "/blogs/chinh-sach-cong-ty/thanh-toan": {},
-    "/blogs/chuyen-cua-hang": {},
-    "/blogs/chuyen-cua-hang/chuyen-cua-hang-ha-noi-sai-gon": {},
+    "/blogs/chinh-sach-cong-ty/den-bu-thiet-hai": {
+      "fingerprint": "d7f0039b3898a76f",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:12:39.854922+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The policy of compensation for customers at Liu Li Company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘力公司客户补偿政策"
+        }
+      }
+    },
+    "/blogs/chinh-sach-cong-ty/dieu-khoan-chung": {
+      "fingerprint": "2926e6636eb2650c",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:12:47.857638+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"The Rule of the CBS Archived Company\"."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"CBS存档公司规则\"."
+        }
+      }
+    },
+    "/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay": {
+      "fingerprint": "45736a7f8507b82a",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:12:54.342639+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery schedule at Liu's company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘家的送货时间表"
+        }
+      }
+    },
+    "/blogs/chinh-sach-cong-ty/nhung-luu-y-chung": {
+      "fingerprint": "2fc04d53f3aba714",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:13:01.002982+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "General Notes when you send a delivery at Liu Li company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在刘力公司送货的时候,将军记"
+        }
+      }
+    },
+    "/blogs/chinh-sach-cong-ty/quy-trinh-giao-nhan-hang-hoa": {
+      "fingerprint": "0ce680abe86828e5",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:13:07.620980+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery process at Liu Li's company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘力公司送货的过程"
+        }
+      }
+    },
+    "/blogs/chinh-sach-cong-ty/thanh-toan": {
+      "fingerprint": "5b1edec22b9dc45c",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:13:15.009399+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Payment Policy Guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "支付政策指南"
+        }
+      }
+    },
+    "/blogs/chuyen-cua-hang": {
+      "fingerprint": "be3a4ca3cdad97b9",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:13:21.919180+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping service is a prestigious, professional, cheap package"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "航运服务是一个有名望的、专业的、廉价的一揽子服务"
+        }
+      }
+    },
+    "/blogs/chuyen-cua-hang/chuyen-cua-hang-ha-noi-sai-gon": {
+      "fingerprint": "be70e753c7faef31",
+      "status": "pass",
+      "checked_at": "2026-11-14T15:13:29.770733+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Things to know when moving the Hanoi- Saigon store"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "搬河内西贡店时要知道的事"
+        }
+      }
+    },
     "/blogs/chuyen-cua-hang/chuyen-cua-hang-sai-gon-ha-noi": {},
     "/blogs/chuyen-kho-xuong": {},
     "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-ha-noi-sai-gon": {},
@@ -1076,7 +1220,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T14:49:46.977505+00:00",
+      "checked_at": "2026-11-14T15:12:18.378408+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1096,7 +1240,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:00.493775+00:00",
+      "checked_at": "2026-11-14T15:12:33.319862+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1128,7 +1272,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T14:49:54.550172+00:00",
+      "checked_at": "2026-11-14T15:12:25.510478+00:00",
       "languages": {
         "en": {
           "ok": true,
