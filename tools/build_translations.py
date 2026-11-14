@@ -68,10 +68,37 @@ def translatable(s):
         return False
     if re.match(r'^Parkway Parade:\s*\d+\s+Marine Parade\b', v, re.I):
         return False
+    # Public contact identifiers and motorcycle model names are not Vietnamese
+    # prose. Translating them changes phone numbers or product identifiers.
+    if re.match(r'^Hotline(?:/Zalo)?\s*:', v, re.I):
+        contact = v.split(':', 1)[1].strip()
+        if (re.fullmatch(r'(?:https?://|www\.)\S+', contact, re.I) or
+                re.fullmatch(r'[\d\s()+.,/\-–]+', contact)):
+            return False
+    if re.fullmatch(r'(?:Honda|Kawasaki|Yamaha)\s+[A-Za-z0-9 /._()+-]+', v, re.I):
+        return False
     return (len(v) > 1 and bool(LETTER.search(v))
         and not re.match(r'^(https?://|www\.|mailto:|tel:)', v, re.I)
         and not re.fullmatch(r'[\w.+-]+@[\w.-]+\.[a-z]{2,}', v, re.I)
         and not re.fullmatch(r'(VẬN TẢI LƯU LÊ|Vận Tải Lưu Lê|Lưu Lê|LL|VNĐ)', v, re.I))
+
+
+def inactive_public_url_failure(details):
+    """Identify verified redirects/deleted aliases, not transient fetch errors.
+
+    Both HTTP and browser must agree on an alias, or HTTP must return 404/410
+    while the browser lands on the homepage. Keep other failures actionable.
+    """
+    http = re.search(r'HTTP redirected to (https?://[^\s;]+)', details)
+    browser = re.search(r'Browser: browser redirected to (https?://[^\s;]+)', details)
+    if http and browser:
+        target_http, target_browser = canonical(http.group(1)), canonical(browser.group(1))
+        if target_http == target_browser and valid_url(target_http):
+            return 'redirect_alias'
+    if browser and re.search(r'HTTP:\s*(?:404|410)\b', details):
+        if canonical(browser.group(1)) == BASE + '/':
+            return 'not_found'
+    return None
 
 
 def valid_url(url):
@@ -289,7 +316,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
     queue=[(crawl_priority(url),url) for url in initial]
     heapq.heapify(queue)
     queued=set(initial)
-    visited=set(); result={}; errors=[]
+    visited=set(); result={}; errors=[]; inactive=[]
     browser=None;playwright=None;context=None
     if use_browser:
         from playwright.sync_api import sync_playwright
@@ -366,7 +393,11 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
             else:
                 details='; '.join(issues) or 'no public text extracted'
                 print('Page skipped:',url,details,flush=True)
-                errors.append({'url':url,'error':details[:350]})
+                reason = inactive_public_url_failure(details)
+                if reason:
+                    inactive.append({'url':url,'reason':reason,'evidence':details[:350]})
+                else:
+                    errors.append({'url':url,'error':details[:350]})
             time.sleep(rate)
     finally:
         if browser:browser.close()
@@ -379,6 +410,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
         'discovered_public_urls':len(queued),
         'successful_public_pages':len(result),
         'skipped_or_failed':errors,
+        'inactive_redirects_or_404':inactive,
         'unvisited_count':len(unvisited),
         'unvisited_examples':[urlsplit(u).path for u in unvisited[:40]],
         'required_pages_missing':missing_required,
@@ -423,6 +455,15 @@ def build(pages,max_new=100000,demo=False):
     # and therefore is not a normal text node on the current article page.
     public_shared=SHARED_NAV_LABELS | SHARED_RELATED_SNIPPETS
     all_candidates={s for group in pages.values() for s in group} | public_shared
+    # Restore approved translations before calculating work. Otherwise Argos
+    # repeatedly retries unchanged acronyms and can keep a page partial.
+    reviewed = cached_json(ROOT/'tools'/'ll-i18n-reviewed-translations.json', {})
+    if isinstance(reviewed, dict):
+        for source in all_candidates.intersection(reviewed):
+            row = reviewed[source]
+            if (isinstance(row, dict) and all(isinstance(row.get(k), str)
+                    and row[k].strip() for k in ('en', 'zh'))):
+                cache[source] = {'en':row['en'], 'zh':row['zh']}
     missing_set={s for s in all_candidates if s not in cache or
                  not isinstance(cache[s],dict) or
                  not all(cache[s].get(k) for k in ('en','zh'))}
@@ -551,6 +592,16 @@ def main():
         assert not translatable('Website: vantaihuonglan.vn')
         assert not translatable('Airport Blvd, Singapore')
         assert not translatable('Parkway Parade: 80 Marine Parade,')
+        assert not translatable('Hotline/Zalo: 0909 81 6625')
+        assert not translatable('Hotline: +84 (8) 3 848 6820')
+        assert not translatable('Hotline: 19006762 - 0977.76.76.76')
+        assert not translatable('Hotline: https://www.aramex.com/')
+        assert not translatable('Honda CB500/CBR500/Rebel 500')
+        assert not translatable('Kawasaki Ninja 400/500/650')
+        assert not translatable('Yamaha MT-03/MT-07/MT-09')
+        assert inactive_public_url_failure('HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam') == 'redirect_alias'
+        assert inactive_public_url_failure('HTTP: 404 Client Error; Browser: browser redirected to https://vantailuule.vn/') == 'not_found'
+        assert inactive_public_url_failure('HTTP: timeout; Browser: timeout') is None
         sample_related='<html><body><section class="related-articles"><h3>BÀI VIẾT LIÊN QUAN</h3><p>Đây là đoạn mô tả bài viết có ích.</p></section></body></html>'
         collect_text_from_html(sample_related)
         assert 'Đây là đoạn mô tả bài viết có ích.' in SHARED_RELATED_SNIPPETS
@@ -603,10 +654,13 @@ def main():
     manifest['discovered_public_urls']=stats.get('discovered_public_urls',len(pages))
     manifest['uncrawled_public_urls']=stats.get('unvisited_count',0)
     manifest['crawl_failures']=len(stats.get('skipped_or_failed',[]))
+    manifest['inactive_redirects_or_404']=len(stats.get('inactive_redirects_or_404',[]))
     manifest['required_pages_found']=stats.get('required_pages_found',[])
     manifest['published_pack_files_total']=stats['published_pack_files_total']
     manifest['pages_pending']=missing_count
-    manifest['site_coverage_complete']=(missing_count==0)
+    audit=cached_json(PUBLIC/'audit.json',{})
+    manifest['site_coverage_complete']=(missing_count==0 and
+        int(audit.get('missing_unique_texts',1))==0)
     save_json(PUBLIC/'manifest.json',manifest)
     print(f'Done. Full-language pages: {released}; incomplete pages held: {pending}.')
 

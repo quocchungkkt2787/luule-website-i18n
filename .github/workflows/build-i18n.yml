@@ -7,6 +7,7 @@ on:
       - '.github/workflows/build-i18n.yml'
       - 'tools/build_translations.py'
       - 'tools/apply_reviewed_translations.py'
+      - 'tools/ll-i18n-reviewed-translations.json'
   workflow_dispatch:
     inputs:
       chain_depth:
@@ -204,6 +205,7 @@ jobs:
           print('Pages beyond crawl budget:', coverage.get('unvisited_count', 'n/a'))
           print('Pages lacking a pack beyond crawl budget:', coverage.get('unvisited_without_existing_pack', 'n/a'))
           print('Fetch failures:', len(failed))
+          print('Redirected/deleted legacy URLs (not pending):', len(coverage.get('inactive_redirects_or_404', [])))
           print('Pages with incomplete translations:', len(pending))
           print('Pending incomplete pages (up to 30):')
           for p in pending[:30]:
@@ -220,6 +222,7 @@ jobs:
               out.write(f'- Unvisited URLs: {coverage.get("unvisited_count", "n/a")}\n')
               out.write(f'- Unvisited without a pack: {coverage.get("unvisited_without_existing_pack", "n/a")}\n')
               out.write(f'- Fetch errors: {len(failed)}\n')
+              out.write(f'- Redirected/deleted aliases (excluded): {len(coverage.get("inactive_redirects_or_404", []))}\n')
               out.write(f'- Pages with missing translation strings: {len(pending)}\n')
               for row in pending[:12]:
                   out.write(f'  - {row.get("route", "unknown")}: {row.get("missing_count", "?")} strings missing\n')
@@ -308,7 +311,8 @@ jobs:
               out.write(f'- Incomplete translated pages: {partial}\n')
               out.write(f'- Missing unique strings: {missing_texts}\n')
               out.write(f'- Unvisited URLs without packs: {unvisited_missing}\n')
-              out.write(f'- Failed page fetches: {failures}\n')
+              out.write(f'- Failed page fetches needing retry: {failures}\n')
+              out.write(f'- Redirected/deleted legacy URL aliases: {len(coverage.get("inactive_redirects_or_404", []))}\n')
               out.write(f'- No-progress runs: {stalls}\n')
               out.write(f'- Chain index: {depth} (no fixed batch limit)\n')
 
