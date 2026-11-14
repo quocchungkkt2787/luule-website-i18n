@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T21:09:39.029128+00:00",
+  "tested_at": "2026-11-14T21:31:53.922209+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 155,
-  "public_routes_pending": 781,
+  "public_routes_verified": 163,
+  "public_routes_pending": 773,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2898,14 +2898,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/bien-so-xe-97-o-dau": {},
-    "/blogs/goc-tu-van/bill-of-lading-mau": {},
-    "/blogs/goc-tu-van/boc-xe-may-gui-xe-khach": {},
-    "/blogs/goc-tu-van/cac-don-vi-van-chuyen-hang-hoa-uy-tin-hien-nay": {},
-    "/blogs/goc-tu-van/cac-hang-tau-lon-o-tai-viet-nam": {},
-    "/blogs/goc-tu-van/cac-loai-cont": {},
-    "/blogs/goc-tu-van/cac-loai-hinh-van-tai": {},
-    "/blogs/goc-tu-van/cac-loai-xe-tai": {},
+    "/blogs/goc-tu-van/bien-so-xe-97-o-dau": {
+      "fingerprint": "7ec125a6b0b4658e",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:01.014636+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 97 from? Province and regional code guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "97号车牌属于哪里？省份及地区代码指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bill-of-lading-mau": {
+      "fingerprint": "5013f32dc1ac4213",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:08.269396+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Bill of the template and function in freight"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "模板单和货运功能"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/boc-xe-may-gui-xe-khach": {
+      "fingerprint": "497a23509dd85ba1",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:15.531410+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Guide 3 ways to wrap up the car and send the safest passenger car."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "引导3路包车出行 送出最安全客车."
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cac-don-vi-van-chuyen-hang-hoa-uy-tin-hien-nay": {
+      "fingerprint": "1c5e76a4d4261e5c",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:22.827897+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Ratings, Top Five Points of Transported Goods Now"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "评分,现在运输货物的前五分"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cac-hang-tau-lon-o-tai-viet-nam": {
+      "fingerprint": "78156744ea173fdc",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:31.252744+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Large Ships in Vietnam Sea Transport 2021"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "2021年越南海上运输大型船舶"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cac-loai-cont": {
+      "fingerprint": "30ce967b45c1f1ee",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:39.301225+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Mix the most common cont in international transport"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "混合国际运输中最常见的圆锥"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cac-loai-hinh-van-tai": {
+      "fingerprint": "5f4aa1c8e86945c8",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:46.666774+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Composite the most common form of transportation available today"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "综合当今最常用的交通形式"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cac-loai-xe-tai": {
+      "fingerprint": "368a6d491c08af7d",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:31:53.890423+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Details: What are the most common freight trucks?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "细节:什么是最常见的货运卡车?"
+        }
+      }
+    },
     "/blogs/goc-tu-van/cac-loi-thuong-gap-cua-xe-nang-dien": {},
     "/blogs/goc-tu-van/cac-tuyen-duong-sat-chinh-cua-viet-nam": {},
     "/blogs/goc-tu-van/cach-bao-quan-vai-thieu-khi-van-chuyen": {},
@@ -3668,7 +3812,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T21:08:32.727603+00:00",
+      "checked_at": "2026-11-14T21:30:40.253007+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3688,7 +3832,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T21:08:44.589048+00:00",
+      "checked_at": "2026-11-14T21:30:53.919478+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3720,7 +3864,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T21:08:39.123502+00:00",
+      "checked_at": "2026-11-14T21:30:47.758345+00:00",
       "languages": {
         "en": {
           "ok": true,
