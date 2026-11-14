@@ -1,6 +1,6 @@
 {
-  "complete": false,
-  "missing_count": 3,
+  "complete": true,
+  "missing_count": 0,
   "route": "/",
   "texts": {
     "(Đã bao gồm VAT 8%)": {
@@ -1826,6 +1826,10 @@
     "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
       "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
       "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
+    },
+    "LCL (Less than Container Load):": {
+      "en": "LCL (Less than Container Load):",
+      "zh": "拼箱（LCL，非整箱货运）："
     },
     "LIÊN HỆ": {
       "en": "GREEW",

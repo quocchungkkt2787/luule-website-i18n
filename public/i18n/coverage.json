@@ -1,6 +1,278 @@
 {
   "discovered_public_urls": 987,
-  "missing_packs_in_discovered_routes": 54,
+  "inactive_redirects_or_404": [
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/chinh-sach-bao-mat"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/den-bu-thiet-hai; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/den-bu-thiet-hai",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/chinh-sach-den-bu"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/thanh-toan; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/thanh-toan",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/chinh-sach-thanh-toan"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gia-cuoc-van-chuyen-hang-hoa-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gia-cuoc-van-chuyen-hang-hoa-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/bang-gia-van-chuyen-hang"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-bang-duong-sat"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/chuyen-nha-dong-nai/chuyen-nha-tai-trang-bom; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/chuyen-nha-dong-nai/chuyen-nha-tai-trang-bom"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-tu-sai-gon-ra-vinh; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-tu-sai-gon-ra-vinh"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-sai-gon"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/chuyen-nha-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/chuyen-nha-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-chuyen-nha-tron-goi"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/chuyen-nha-tay-ninh/chuyen-nha-tai-ben-cau; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/chuyen-nha-tay-ninh/chuyen-nha-tai-ben-cau"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-hoa-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-tai-noi-dia"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-o-to-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-o-to-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-o-to-bang-tau-hoa"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-di-tinh; Browser: browser redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-di-tinh",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-chuyen-hang-hoa-bang-xe-tai"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/bien-so-xe-59-o-dau; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/bien-so-xe-59-o-dau",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/bien-so-xe-59-o-dau"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-duong-bien; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-duong-bien",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bien"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-ra-ha-noi"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-tai-bac-trung-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/gioi-thieu-ve-cong-ty-co-phan-van-tai-duong-sat-ha-noi"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tp-hcm-van-tai-luu-le; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tp-hcm-van-tai-luu-le"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-de-vo-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-de-vo-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-chuyen-hang-de-vo-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/giai-phap-toi-uu-khi-gui-hang-cho-moi-doanh-nghiep; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/giai-phap-toi-uu-khi-gui-hang-cho-moi-doanh-nghiep",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/van-chuyen-hang-hoa-bac-nam"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-tau-giap-bat-o-dau-ha-noi; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-tau-giap-bat-o-dau-ha-noi"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-sai-gon; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-sai-gon"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/gioi-thieu-ve-cong-ty-co-phan-van-tai-duong-sat-sai-gon"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/gioi-thieu-ve-tong-cong-ty-duong-sat-viet-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/cong-ty-van-chuyen-hang-hoa; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/cong-ty-van-chuyen-hang-hoa",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/van-chuyen-bac-nam/cong-ty-van-chuyen-hang-hoa-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/doi-giay-phep-lai-xe; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/doi-giay-phep-lai-xe",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/doi-giay-phep-lai-xe"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/van-chuyen-hang-tu-sai-gon-ra-ha-noi-mat-khoang-bao-lau; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/van-chuyen-hang-tu-sai-gon-ra-ha-noi-mat-khoang-bao-lau"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-container-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/lich-trinh-tau-chay"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-ha-noi; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-ha-noi",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/ga-ha-noi"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-giap-bat; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-giap-bat",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dia-chi-ga-giap-bat"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-song-than; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-song-than",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-song-than"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tu-sai-gon-di-hai-phong; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tu-sai-gon-di-hai-phong"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-tu-tphcm-di-ha-noi-mat-bao-lau; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-tu-tphcm-di-ha-noi-mat-bao-lau",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-tu-sai-gon-ra-ha-noi-mat-bao-lau"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/doc-vi-tri-container; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/doc-vi-tri-container",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/doc-vi-tri-container"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-vao-sai-gon"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/van-chuyen-bac-nam/xe-tai-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/thue-xe-van-tai-hang-hoa"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-logistics; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-logistics",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-chuyen-hang-hoa-logistic"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-le-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-le-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-hang-le-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/uu-diem-cua-giao-thong-van-tai-bang-duong-sat"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/chuyen-phat-nhanh-buu-dien-mat-bao-lau"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-vung-tau; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-vung-tau",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-gui-va-van-chuyen-hang-hoa-di-vung-tau"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-hoa-long-an-nam-dinh"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-hoa-long-an-ha-tinh"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/chuyen-nha-bac-nam"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-nghe-an; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-nghe-an",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/gui-hang-sg-bac-trung-bo/chuyen-hang-sai-gon-nghe-an"
+    },
+    {
+      "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang; Browser: browser redirected to https://vantailuule.vn/",
+      "reason": "not_found",
+      "url": "https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang"
+    },
+    {
+      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen",
+      "reason": "redirect_alias",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
+    }
+  ],
+  "missing_packs_in_discovered_routes": 0,
   "page_budget": 1200,
   "published_pack_files_total": 933,
   "required_pages_found": [
@@ -11,224 +283,7 @@
   ],
   "required_pages_missing": [],
   "sitemap_urls": 822,
-  "skipped_or_failed": [
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin",
-      "url": "https://vantailuule.vn/pages/chinh-sach-bao-mat"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/den-bu-thiet-hai; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/den-bu-thiet-hai",
-      "url": "https://vantailuule.vn/pages/chinh-sach-den-bu"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/thanh-toan; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/thanh-toan",
-      "url": "https://vantailuule.vn/pages/chinh-sach-thanh-toan"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gia-cuoc-van-chuyen-hang-hoa-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gia-cuoc-van-chuyen-hang-hoa-bac-nam",
-      "url": "https://vantailuule.vn/pages/bang-gia-van-chuyen-hang"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-bang-duong-sat"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/chuyen-nha-dong-nai/chuyen-nha-tai-trang-bom; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/chuyen-nha-dong-nai/chuyen-nha-tai-trang-bom"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-tu-sai-gon-ra-vinh; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-tu-sai-gon-ra-vinh"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon",
-      "url": "https://vantailuule.vn/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-sai-gon"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/chuyen-nha-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/chuyen-nha-bac-nam",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-chuyen-nha-tron-goi"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/chuyen-nha-tay-ninh/chuyen-nha-tai-ben-cau; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/chuyen-nha-tay-ninh/chuyen-nha-tai-ben-cau"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-hoa-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-tai-noi-dia"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-o-to-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-o-to-bac-nam",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-o-to-bang-tau-hoa"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-di-tinh; Browser: browser redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-di-tinh",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-chuyen-hang-hoa-bang-xe-tai"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/bien-so-xe-59-o-dau; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/bien-so-xe-59-o-dau",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/bien-so-xe-59-o-dau"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-duong-bien; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-duong-bien",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bien"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-ra-ha-noi"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-tai-bac-trung-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/gioi-thieu-ve-cong-ty-co-phan-van-tai-duong-sat-ha-noi"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tp-hcm-van-tai-luu-le; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tp-hcm-van-tai-luu-le"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-de-vo-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-de-vo-bac-nam",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-chuyen-hang-de-vo-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/giai-phap-toi-uu-khi-gui-hang-cho-moi-doanh-nghiep; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/giai-phap-toi-uu-khi-gui-hang-cho-moi-doanh-nghiep",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/van-chuyen-hang-hoa-bac-nam"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-tau-giap-bat-o-dau-ha-noi; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-tau-giap-bat-o-dau-ha-noi"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-sai-gon; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-sai-gon"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/gioi-thieu-ve-cong-ty-co-phan-van-tai-duong-sat-sai-gon"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/gioi-thieu-ve-tong-cong-ty-duong-sat-viet-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/cong-ty-van-chuyen-hang-hoa; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/cong-ty-van-chuyen-hang-hoa",
-      "url": "https://vantailuule.vn/blogs/van-chuyen-bac-nam/cong-ty-van-chuyen-hang-hoa-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/doi-giay-phep-lai-xe; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/doi-giay-phep-lai-xe",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/doi-giay-phep-lai-xe"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/van-chuyen-hang-tu-sai-gon-ra-ha-noi-mat-khoang-bao-lau; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/van-chuyen-hang-tu-sai-gon-ra-ha-noi-mat-khoang-bao-lau"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-container-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay",
-      "url": "https://vantailuule.vn/pages/lich-trinh-tau-chay"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-ha-noi; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-ha-noi",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/ga-ha-noi"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-giap-bat; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-giap-bat",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dia-chi-ga-giap-bat"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-song-than; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/ga-song-than",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dia-chi-ga-song-than"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tu-sai-gon-di-hai-phong; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tu-sai-gon-di-hai-phong"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-tu-tphcm-di-ha-noi-mat-bao-lau; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-tu-tphcm-di-ha-noi-mat-bao-lau",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-tu-sai-gon-ra-ha-noi-mat-bao-lau"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/doc-vi-tri-container; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/doc-vi-tri-container",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/doc-vi-tri-container"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-vao-sai-gon"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam",
-      "url": "https://vantailuule.vn/blogs/van-chuyen-bac-nam/xe-tai-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/xe-tai-cho-hang-bac-nam",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/thue-xe-van-tai-hang-hoa"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-logistics; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-logistics",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-chuyen-hang-hoa-logistic"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-le-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-hang-le-bac-nam",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/van-chuyen-hang-le-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/uu-diem-cua-giao-thong-van-tai-bang-duong-sat"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/chuyen-phat-nhanh-buu-dien-mat-bao-lau"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-vung-tau; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-vung-tau",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/dich-vu-gui-va-van-chuyen-hang-hoa-di-vung-tau"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh",
-      "url": "https://vantailuule.vn/blogs/gui-hang-la-mien-bac/chuyen-hang-hoa-long-an-nam-dinh"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh; Browser: browser redirected to https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh",
-      "url": "https://vantailuule.vn/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-hoa-long-an-ha-tinh"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/chuyen-nha-bac-nam"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-nghe-an; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-nghe-an",
-      "url": "https://vantailuule.vn/blogs/gui-hang-sg-bac-trung-bo/chuyen-hang-sai-gon-nghe-an"
-    },
-    {
-      "error": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang; Browser: browser redirected to https://vantailuule.vn/",
-      "url": "https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang"
-    },
-    {
-      "error": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
-    }
-  ],
+  "skipped_or_failed": [],
   "successful_public_pages": 933,
   "unvisited_count": 0,
   "unvisited_examples": [],

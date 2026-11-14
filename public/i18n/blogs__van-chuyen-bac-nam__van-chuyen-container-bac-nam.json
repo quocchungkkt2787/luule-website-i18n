@@ -1,6 +1,6 @@
 {
-  "complete": false,
-  "missing_count": 1,
+  "complete": true,
+  "missing_count": 0,
   "route": "/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam",
   "texts": {
     "(Nếu có) Hoàn thành các thủ tục hải quan theo quy định.": {
@@ -890,6 +890,10 @@
     "Kết nối với thị trường thế giới:": {
       "en": "Connect to World Market:",
       "zh": "连接到世界市场:"
+    },
+    "LCL (Less than Container Load):": {
+      "en": "LCL (Less than Container Load):",
+      "zh": "拼箱（LCL，非整箱货运）："
     },
     "LIÊN HỆ": {
       "en": "GREEW",
