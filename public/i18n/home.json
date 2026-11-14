@@ -1,4 +1,6 @@
 {
+  "complete": false,
+  "missing_count": 3,
   "route": "/",
   "texts": {
     "(Đã bao gồm VAT 8%)": {
@@ -100,6 +102,10 @@
     "BLOG": {
       "en": "Blog",
       "zh": "博客"
+    },
+    "BMW Motorrad": {
+      "en": "Bentley Motorrad",
+      "zh": "宾特利摩托拉德"
     },
     "Ba định hướng cốt lõi giúp Vận Tải Lưu Lê duy trì chất lượng dịch vụ, bảo vệ lợi ích khách hàng và phát triển bền vững.": {
       "en": "Three core principles help Luu Le Transport maintain service quality, protect customers' interests and achieve sustainable growth.",
@@ -637,6 +643,10 @@
       "en": "Select Ward/Commune",
       "zh": "请选择坊／社"
     },
+    "Chọn Phường/Xã mới": {
+      "en": "New",
+      "zh": "新设"
+    },
     "Chọn Quận/Huyện": {
       "en": "Select District",
       "zh": "请选择区／县"
@@ -648,6 +658,10 @@
     "Chọn Tỉnh/Thành phố": {
       "en": "Select Province/City",
       "zh": "请选择省／直辖市"
+    },
+    "Chọn Tỉnh/Thành phố mới": {
+      "en": "Select Province/ New City",
+      "zh": "选择省/ 新城"
     },
     "Chọn cách tra cứu vận đơn": {
       "en": "Select how to do a single study",
@@ -696,6 +710,14 @@
     "Chọn tuyến đường vận chuyển": {
       "en": "Select Shipping Route",
       "zh": "请选择运输路线"
+    },
+    "Chọn tình trạng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Chọn vị trí bốc xếp": {
+      "en": "Select the ranking position",
+      "zh": "选择排名位置"
     },
     "Chốt chi phí rõ ràng trước khi thực hiện": {
       "en": "Confirm all costs before proceeding",
@@ -776,6 +798,10 @@
     "Có nhận lấy hàng và giao hàng tận nơi không?": {
       "en": "Did you pick up the supplies and deliver them?",
       "zh": "你拿起物资并交付了吗?"
+    },
+    "Có thang máy": {
+      "en": "There's an elevator.",
+      "zh": "有电梯"
     },
     "Có thể khác nhau. Hàng nặng thường được tính theo trọng lượng, trong khi hàng nhẹ nhưng chiếm nhiều diện tích có thể được tính theo thể tích. Lưu Lê căn cứ quy cách thực tế của đơn hàng để áp dụng cách tính phù hợp.": {
       "en": "Could be different. Heavy cargo is typically calculated in weight, while light items but occupy many areas can be calculated in volume. Liu Li bases the actual way of the order to apply the appropriate calculation.",
@@ -917,9 +943,33 @@
       "en": "Train travel is now familiar to many passengers thanks to benefits such as price and safety...",
       "zh": "由于票价、安全性等方面的优势，火车出行已为许多旅客所熟悉……"
     },
+    "Ducati": {
+      "en": "Ducati",
+      "zh": "杜卡蒂语Name"
+    },
     "Duy Tân Plastics": {
       "en": "Duy Tân Plastics",
       "zh": "Duy Tân Plastics"
+    },
+    "Dòng xe côn tay khác": {
+      "en": "Other wheelcar lines",
+      "zh": "其他轮车线路"
+    },
+    "Dòng xe ga khác": {
+      "en": "Other Train Line",
+      "zh": "其他列车线路"
+    },
+    "Dòng xe máy điện khác": {
+      "en": "Other Electric Engine Line",
+      "zh": "其他电动发动机线"
+    },
+    "Dòng xe phân khối lớn khác": {
+      "en": "Other Large Block Car Line",
+      "zh": "其他大块车线"
+    },
+    "Dòng xe số khác": {
+      "en": "Number line",
+      "zh": "数字行"
     },
     "Dùng địa chỉ mới sau sáp nhập": {
       "en": "Use updated administrative addresses",
@@ -1273,9 +1323,81 @@
       "en": "Hotline",
       "zh": "服务热线"
     },
+    "Harley-Davidson": {
+      "en": "Harley-Davidson",
+      "zh": "哈雷 - 戴维森"
+    },
     "Hiện nay, ngành đường sắt đã cung cấp các giải pháp mua, thanh toán vé tàu trên nền tảng website và các ứng dụng dành cho...": {
       "en": "The railway industry now provides online ticket booking and payment through websites and mobile applications...",
       "zh": "铁路行业现已通过网站及手机应用提供网上订票和支付服务……"
+    },
+    "Honda ADV": {
+      "en": "Honda ADV",
+      "zh": "本田汽车公司"
+    },
+    "Honda Africa Twin": {
+      "en": "Honda Africa Twin",
+      "zh": "本田非洲 双"
+    },
+    "Honda Air Blade": {
+      "en": "Honda Air Blade",
+      "zh": "本田空中刀锋"
+    },
+    "Honda Blade": {
+      "en": "Honda Blade",
+      "zh": "本田刀锋"
+    },
+    "Honda CB650R/CBR650R": {
+      "en": "Honda CB650R/CBR650R",
+      "zh": "本田 CB650R/CBR650R (中文(简体) )."
+    },
+    "Honda CBR150R": {
+      "en": "Honda CBR150R",
+      "zh": "本田 CBR150R (英语)."
+    },
+    "Honda Future": {
+      "en": "Honda Future",
+      "zh": "本田未来"
+    },
+    "Honda LEAD": {
+      "en": "Honda LREAD",
+      "zh": "本田已经开发"
+    },
+    "Honda PCX": {
+      "en": "Honda PCX",
+      "zh": "本田 PCX 软件"
+    },
+    "Honda SH 125i/160i/350i": {
+      "en": "Honda SH 125i/160i/Boxi",
+      "zh": "本田SH 125i/160i/Boxi"
+    },
+    "Honda SH Mode": {
+      "en": "Honda SH Mode",
+      "zh": "本田 SH 模式"
+    },
+    "Honda Super Cub": {
+      "en": "Honda Super Cub",
+      "zh": "本田超级熊"
+    },
+    "Honda Vario": {
+      "en": "Honda Vario",
+      "zh": "本田·瓦里奥"
+    },
+    "Honda Vision": {
+      "en": "Honda Vision",
+      "zh": "本田视野"
+    },
+    "Honda Wave Alpha": {
+      "en": "Honda Wave Alpha",
+      "zh": "本田波浪阿尔法"
+    },
+    "Honda Wave RSX": {
+      "en": "Honda Wave RSX",
+      "zh": "本田波风RSX"
+    },
+    "Honda Winner X": {
+      "en": "Honda Winner X",
+      "zh": "本田赢家 X"
     },
     "Hotline:": {
       "en": "Hotline:",
@@ -1296,6 +1418,94 @@
     "Hoặc tính m³ theo kích thước kiện hàng: nhập số lượng và kích thước bên dưới, hệ thống sẽ tự tính tổng m³.": {
       "en": "Or do the m3 in the package size: enter the number and size below, the system will calculate the total m3.",
       "zh": "或做包大小的m3:输入下面的数字和大小,系统会计算出总的m3."
+    },
+    "Huyện Ba Vì": {
+      "en": "Ba because",
+      "zh": "巴因为"
+    },
+    "Huyện Bình Chánh": {
+      "en": "Chief Fox",
+      "zh": "福克斯局长"
+    },
+    "Huyện Chương Mỹ": {
+      "en": "US Chapter",
+      "zh": "美国章节"
+    },
+    "Huyện Cần Giờ": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Huyện Củ Chi": {
+      "en": "Chithoku",
+      "zh": "千户"
+    },
+    "Huyện Gia Lâm": {
+      "en": "Lamia",
+      "zh": "拉米亚"
+    },
+    "Huyện Hoài Đức": {
+      "en": "Germany",
+      "zh": "德国"
+    },
+    "Huyện Hóc Môn": {
+      "en": "The Gate",
+      "zh": "门"
+    },
+    "Huyện Mê Linh": {
+      "en": "\"Meo-Tunes\"",
+      "zh": "\"美图恩斯\""
+    },
+    "Huyện Mỹ Đức": {
+      "en": "German American",
+      "zh": "德裔美国人"
+    },
+    "Huyện Nhà Bè": {
+      "en": "House",
+      "zh": "房间"
+    },
+    "Huyện Phú Xuyên": {
+      "en": "xhichuan",
+      "zh": "hi川"
+    },
+    "Huyện Phúc Thọ": {
+      "en": "They're happy",
+      "zh": "他们很高兴"
+    },
+    "Huyện Quốc Oai": {
+      "en": "Ooou",
+      "zh": "呜呜"
+    },
+    "Huyện Sóc Sơn": {
+      "en": "\"Movie Mountain\"",
+      "zh": "\"电影山\""
+    },
+    "Huyện Thanh Oai": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "Huyện Thanh Trì": {
+      "en": "Qingqing",
+      "zh": "庆青"
+    },
+    "Huyện Thường Tín": {
+      "en": "Octophone",
+      "zh": "八音响"
+    },
+    "Huyện Thạch Thất": {
+      "en": "Stone Stone.",
+      "zh": "石头石."
+    },
+    "Huyện Đan Phượng": {
+      "en": "Shan Phoenix",
+      "zh": "山凤凰"
+    },
+    "Huyện Đông Anh": {
+      "en": "East UK Antiquities",
+      "zh": "英国东部文物"
+    },
+    "Huyện Ứng Hòa": {
+      "en": "Compatibility",
+      "zh": "兼容性"
     },
     "HÌNH ẢNH": {
       "en": "REVIECTION",
@@ -1461,6 +1671,18 @@
       "en": "GPL >=200G",
       "zh": "GPL QQ200G 导弹"
     },
+    "KTM": {
+      "en": "KTM",
+      "zh": "KTM 机车"
+    },
+    "Kawasaki Versys": {
+      "en": "Kawasaki Versys",
+      "zh": "川崎·韦尔西"
+    },
+    "Kawasaki Z650/Z900": {
+      "en": "Kawasaki Z650/Z900",
+      "zh": "川崎Z650/Z900号"
+    },
     "Khi có thay đổi về thời gian, địa điểm giao nhận hoặc sự cố trong quá trình vận chuyển, bộ phận phụ trách phối hợp với khách hàng để lựa chọn phương án xử lý phù hợp và hạn chế ảnh hưởng đến đơn hàng.": {
       "en": "If pickup or delivery times, locations or transport conditions change, our team coordinates with the customer to select a suitable solution and minimise disruption.",
       "zh": "如收发货时间、地点发生变化或运输途中出现异常，我们将与客户协商合适的解决方案，尽量降低对货运订单的影响。"
@@ -1532,6 +1754,10 @@
     "Không bọc": {
       "en": "No Cover",
       "zh": "无封面"
+    },
+    "Không có thang máy": {
+      "en": "No elevator.",
+      "zh": "没有电梯。"
     },
     "Không cần số điện thoại nếu đã có mã vận đơn.": {
       "en": "Don't need a phone number if you have a single.",
@@ -2153,6 +2379,10 @@
       "en": "Serving regular and batch shipping needs.",
       "zh": "满足定期运输和批量发货需求。"
     },
+    "Piaggio Liberty": {
+      "en": "Piaggio Liberty",
+      "zh": "皮亚焦自由组织"
+    },
     "QUY CÁCH ĐÓNG HÀNG": {
       "en": "REVIECTION",
       "zh": "修订"
@@ -2193,9 +2423,125 @@
       "en": "You can do a quick search of the application right here to monitor the delivery status and the transport route as convenient as possible.",
       "zh": "您可以在这里快速搜索应用程序, 以尽可能方便地监控发送状态和运输路线。"
     },
+    "Quận 1": {
+      "en": "District 1",
+      "zh": "区1"
+    },
+    "Quận 10": {
+      "en": "District 10",
+      "zh": "第10区"
+    },
+    "Quận 11": {
+      "en": "District 11",
+      "zh": "第11区"
+    },
+    "Quận 12": {
+      "en": "District 12",
+      "zh": "第12区"
+    },
+    "Quận 3": {
+      "en": "District 3",
+      "zh": "第3区"
+    },
+    "Quận 4": {
+      "en": "District 4",
+      "zh": "第4区"
+    },
+    "Quận 5": {
+      "en": "District 5",
+      "zh": "第5区"
+    },
+    "Quận 6": {
+      "en": "District 6",
+      "zh": "第6区"
+    },
+    "Quận 7": {
+      "en": "District 7",
+      "zh": "第7区"
+    },
+    "Quận 8": {
+      "en": "District 8",
+      "zh": "第8区"
+    },
+    "Quận Ba Đình": {
+      "en": "District of Ting",
+      "zh": "丁区"
+    },
+    "Quận Bình Thạnh": {
+      "en": "District of Peace",
+      "zh": "和平区"
+    },
+    "Quận Bình Tân": {
+      "en": "Penis District",
+      "zh": "佩尼斯区"
+    },
+    "Quận Bắc Từ Liêm": {
+      "en": "North District from the Dyer",
+      "zh": "北区从迪尔"
+    },
+    "Quận Cầu Giấy": {
+      "en": "Paper Bridge District",
+      "zh": "纸桥区"
+    },
+    "Quận Gò Vấp": {
+      "en": "\"President District\".",
+      "zh": "\"区长\"."
+    },
+    "Quận Hai Bà Trưng": {
+      "en": "Two women's district",
+      "zh": "两个女区"
+    },
+    "Quận Hoàn Kiếm": {
+      "en": "The District of Swords",
+      "zh": "剑城区"
+    },
+    "Quận Hoàng Mai": {
+      "en": "Royal Mai District",
+      "zh": "皇家迈区"
+    },
+    "Quận Hà Đông": {
+      "en": "Dutch District",
+      "zh": "荷兰区"
+    },
+    "Quận Long Biên": {
+      "en": "Long Border District",
+      "zh": "长边区"
+    },
+    "Quận Nam Từ Liêm": {
+      "en": "South District from the South",
+      "zh": "南部地区"
+    },
+    "Quận Phú Nhuận": {
+      "en": "Funky District",
+      "zh": "丰基区"
+    },
+    "Quận Thanh Xuân": {
+      "en": "Qing Chun District",
+      "zh": "青春区"
+    },
+    "Quận Tân Bình": {
+      "en": "New Zealand District",
+      "zh": "新西兰区"
+    },
+    "Quận Tân Phú": {
+      "en": "New Funky District",
+      "zh": "新丰基区"
+    },
+    "Quận Tây Hồ": {
+      "en": "West Lake District",
+      "zh": "西湖区"
+    },
+    "Quận Đống Đa": {
+      "en": "Middle District",
+      "zh": "中区"
+    },
     "Quận/Huyện": {
       "en": "District",
       "zh": "区／县"
+    },
+    "Royal Enfield": {
+      "en": "Royal Enfield",
+      "zh": "皇家恩菲尔德"
     },
     "Rạng Đông": {
       "en": "Rạng Đông",
@@ -2209,6 +2555,14 @@
       "en": "Many people wonder which province licence plate code 69 belongs to. Discover the answer with Luu Le Transport...",
       "zh": "许多人想知道69号车牌属于哪个省。跟随 Luu Le Transport 了解答案……"
     },
+    "SYM Attila": {
+      "en": "SYMtica",
+      "zh": "软件"
+    },
+    "SYM Galaxy": {
+      "en": "SYM Galaxy",
+      "zh": "银河系统"
+    },
     "Sau khi gửi, hệ thống sẽ ghi nhận ngay đơn vận chuyển của Quý khách.": {
       "en": "After the delivery, the system will immediately record the transfer order.",
       "zh": "交付后,系统会立即记录转移订单."
@@ -2216,6 +2570,26 @@
     "Secoin": {
       "en": "Secoin",
       "zh": "Secoin"
+    },
+    "Suzuki Burgman": {
+      "en": "Suzuki Burgman",
+      "zh": "铃木伯格曼"
+    },
+    "Suzuki GSX-R150": {
+      "en": "Suzuki GSX-R150",
+      "zh": "铃木 GSX-R150"
+    },
+    "Suzuki Raider": {
+      "en": "Suzuki Raider",
+      "zh": "铃木突击队"
+    },
+    "Suzuki Satria": {
+      "en": "Suzuki Satria",
+      "zh": "铃木佐特里亚"
+    },
+    "Sảnh / tầng trệt": {
+      "en": "Bottom/floor",
+      "zh": "底楼/底楼"
     },
     "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
       "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
@@ -2385,13 +2759,33 @@
       "en": "Use updated administrative addresses",
       "zh": "使用调整后的行政地址"
     },
+    "Thành phố Cần Thơ": {
+      "en": "City of Need of Poem",
+      "zh": "贫困之城"
+    },
+    "Thành phố Huế": {
+      "en": "Salt City",
+      "zh": "盐城"
+    },
     "Thành phố Hà Nội": {
       "en": "Hanoi",
       "zh": "河内"
     },
+    "Thành phố Hải Phòng": {
+      "en": "The City of Customs",
+      "zh": "海关"
+    },
     "Thành phố Hồ Chí Minh": {
       "en": "Ho Chi Minh City",
       "zh": "胡志明市"
+    },
+    "Thành phố Thủ Đức": {
+      "en": "German City of Prime Ministers",
+      "zh": "德国总理城"
+    },
+    "Thành phố Đà Nẵng": {
+      "en": "Da Nang City",
+      "zh": "大南市"
     },
     "Thôn/Xóm/Ấp, đường và số nhà": {
       "en": "Hamlet, street and house number",
@@ -2424,6 +2818,10 @@
     "Thể tích tổng": {
       "en": "Total Volume",
       "zh": "总体积"
+    },
+    "Thị xã Sơn Tây": {
+      "en": "Western Village",
+      "zh": "西村镇"
     },
     "Thống nhất thời gian dự kiến": {
       "en": "Agree on the estimated schedule",
@@ -2469,6 +2867,10 @@
       "en": "Search for Singles",
       "zh": "寻找单身者"
     },
+    "Triumph": {
+      "en": "Triumph",
+      "zh": "凯旋"
+    },
     "Trong bài viết sau đây chúng tôi sẽ trả lời cho câu hỏi biển số xe 47 ở đâu cũng như cung cấp thêm thông tin...": {
       "en": "In this article, we explain which province uses licence plate code 47 and provide additional details...",
       "zh": "本文将介绍47号车牌所属省份及相关信息……"
@@ -2476,6 +2878,10 @@
     "Trung tâm hướng dẫn": {
       "en": "Guide Center",
       "zh": "引导中心"
+    },
+    "Trên tầng/lầu": {
+      "en": "Upstairs.",
+      "zh": "楼上"
     },
     "Trọng lượng tổng": {
       "en": "Total Weight",
@@ -2637,6 +3043,10 @@
       "en": "OUR VISION",
       "zh": "未来愿景"
     },
+    "Tầng hầm": {
+      "en": "The basement.",
+      "zh": "地下室 地下室"
+    },
     "Tầng/lầu hoặc hầm": {
       "en": "Level/Land or vault",
       "zh": "级别/地盘或金库"
@@ -2648,6 +3058,234 @@
     "Tập kết và phân loại hàng hóa": {
       "en": "Cargo consolidation and sorting",
       "zh": "货物集货与分类"
+    },
+    "Tỉnh An Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Bà Rịa - Vũng Tàu": {
+      "en": "Mrs. Ruyang-Cheng Province",
+      "zh": "鲁阳城夫人"
+    },
+    "Tỉnh Bình Dương": {
+      "en": "Pacific Province",
+      "zh": "太平洋省"
+    },
+    "Tỉnh Bình Phước": {
+      "en": "Lucky Province",
+      "zh": "幸运省"
+    },
+    "Tỉnh Bình Thuận": {
+      "en": "Ping Shun Province",
+      "zh": "平顺省"
+    },
+    "Tỉnh Bình Định": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tỉnh Bạc Liêu": {
+      "en": "Silver Province",
+      "zh": "银省"
+    },
+    "Tỉnh Bắc Giang": {
+      "en": "North Jiang Province",
+      "zh": "北江省"
+    },
+    "Tỉnh Bắc Kạn": {
+      "en": "Northern Province",
+      "zh": "北部省"
+    },
+    "Tỉnh Bắc Ninh": {
+      "en": "Northern Kong Province",
+      "zh": "北金刚省"
+    },
+    "Tỉnh Bến Tre": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Cao Bằng": {
+      "en": "High Province With",
+      "zh": "高级省"
+    },
+    "Tỉnh Cà Mau": {
+      "en": "Mau Province",
+      "zh": "马乌省"
+    },
+    "Tỉnh Gia Lai": {
+      "en": "Zhuang Province",
+      "zh": "ang省"
+    },
+    "Tỉnh Hoà Bình": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "Tỉnh Hà Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Hà Nam": {
+      "en": "Henan Province",
+      "zh": "河南省历代进士名表."
+    },
+    "Tỉnh Hà Tĩnh": {
+      "en": "Han Jing Province",
+      "zh": "汉中省"
+    },
+    "Tỉnh Hưng Yên": {
+      "en": "Province of Jingye",
+      "zh": "静业省"
+    },
+    "Tỉnh Hải Dương": {
+      "en": "Ocean Province",
+      "zh": "海洋省"
+    },
+    "Tỉnh Hậu Giang": {
+      "en": "Empress Jiang Province",
+      "zh": "江省皇后"
+    },
+    "Tỉnh Khánh Hòa": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "Tỉnh Kiên Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Kon Tum": {
+      "en": "Kon Tum Province",
+      "zh": "孔屯省"
+    },
+    "Tỉnh Lai Châu": {
+      "en": "Laizhou Province",
+      "zh": "莱州省"
+    },
+    "Tỉnh Long An": {
+      "en": "Long An Province",
+      "zh": "长安省"
+    },
+    "Tỉnh Lào Cai": {
+      "en": "Lao Cai Province",
+      "zh": "老蔡省"
+    },
+    "Tỉnh Lâm Đồng": {
+      "en": "Linong Province",
+      "zh": "利农省"
+    },
+    "Tỉnh Lạng Sơn": {
+      "en": "Shan Province",
+      "zh": "掸邦"
+    },
+    "Tỉnh Nam Định": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Nghệ An": {
+      "en": "Province of Art",
+      "zh": "艺术省"
+    },
+    "Tỉnh Ninh Bình": {
+      "en": "Ninh Ping Province",
+      "zh": "宁平省"
+    },
+    "Tỉnh Ninh Thuận": {
+      "en": "Ninh Shun Province",
+      "zh": "宁顺省"
+    },
+    "Tỉnh Phú Thọ": {
+      "en": "Funky Province",
+      "zh": "丰基省"
+    },
+    "Tỉnh Phú Yên": {
+      "en": "Funky Province",
+      "zh": "丰基省"
+    },
+    "Tỉnh Quảng Bình": {
+      "en": "Guang Guang Province",
+      "zh": "广东省"
+    },
+    "Tỉnh Quảng Nam": {
+      "en": "Guangnan Province",
+      "zh": "广南省"
+    },
+    "Tỉnh Quảng Ngãi": {
+      "en": "Guangxi Province",
+      "zh": "广西省"
+    },
+    "Tỉnh Quảng Ninh": {
+      "en": "Ning Province",
+      "zh": "宁省"
+    },
+    "Tỉnh Quảng Trị": {
+      "en": "Guangdu Province",
+      "zh": "广都省"
+    },
+    "Tỉnh Sóc Trăng": {
+      "en": "Moon Province",
+      "zh": "月球省"
+    },
+    "Tỉnh Sơn La": {
+      "en": "Mountain Province",
+      "zh": "山区省"
+    },
+    "Tỉnh Thanh Hóa": {
+      "en": "Qing hóa Province",
+      "zh": "清河省"
+    },
+    "Tỉnh Thái Bình": {
+      "en": "Pacific Province",
+      "zh": "太平洋省"
+    },
+    "Tỉnh Thái Nguyên": {
+      "en": "Thai Province",
+      "zh": "泰国省"
+    },
+    "Tỉnh Tiền Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Trà Vinh": {
+      "en": "In the province of Tinghan",
+      "zh": "丁汉省"
+    },
+    "Tỉnh Tuyên Quang": {
+      "en": "\"Phian Province\"",
+      "zh": "\"滇汉省志\""
+    },
+    "Tỉnh Tây Ninh": {
+      "en": "Western Province",
+      "zh": "西部省"
+    },
+    "Tỉnh Vĩnh Long": {
+      "en": "Long Province",
+      "zh": "长省"
+    },
+    "Tỉnh Vĩnh Phúc": {
+      "en": "Wing Fu Province",
+      "zh": "荣富省"
+    },
+    "Tỉnh Yên Bái": {
+      "en": "\"Silence Province\"",
+      "zh": "\"静安省志\"."
+    },
+    "Tỉnh Điện Biên": {
+      "en": "Border Area",
+      "zh": "边境地区"
+    },
+    "Tỉnh Đắk Lắk": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Đắk Nông": {
+      "en": "In the province of Farm",
+      "zh": "农业省"
+    },
+    "Tỉnh Đồng Nai": {
+      "en": "Plain Nai Province",
+      "zh": "原直隶省"
+    },
+    "Tỉnh Đồng Tháp": {
+      "en": "Council Province",
+      "zh": "议会省"
     },
     "Tỉnh, thành phục vụ trên toàn quốc": {
       "en": "Provinces and cities served nationwide",
@@ -2732,6 +3370,34 @@
     "VIDEOS": {
       "en": "LIS",
       "zh": "利比里亚"
+    },
+    "Vespa GTS": {
+      "en": "Vespa GTS",
+      "zh": "维斯帕GTS"
+    },
+    "Vespa Primavera": {
+      "en": "Vespa Primavera",
+      "zh": "维斯帕·普里马维拉"
+    },
+    "Vespa Sprint": {
+      "en": "Vespa Sprint",
+      "zh": "Vespa 冲刺"
+    },
+    "VinFast Evo": {
+      "en": "VinFast Evo",
+      "zh": "温·法斯特·埃沃"
+    },
+    "VinFast Feliz": {
+      "en": "VinFast Feliz",
+      "zh": "费利兹"
+    },
+    "VinFast Klara": {
+      "en": "VinFast Ahmad",
+      "zh": "温·法斯特·艾哈迈德"
+    },
+    "VinFast Vento": {
+      "en": "VinFast Vento",
+      "zh": "文·法斯特·文托"
     },
     "Vui lòng chọn một phương án": {
       "en": "Please choose a solution",
@@ -3024,6 +3690,10 @@
     "Vị trí bốc xếp đầu lấy": {
       "en": "Headup position take",
       "zh": "头部位置"
+    },
+    "Vị trí khác": {
+      "en": "Organisation",
+      "zh": "日历"
     },
     "Với hàng cồng kềnh và máy móc, phương án xử lý cần chắc chắn. Bên Lưu Lê tư vấn cụ thể, theo dõi kỹ và phối hợp ổn định suốt quá trình.": {
       "en": "Oversized goods and machinery need a reliable transport plan. Luu Le provides detailed advice, careful monitoring and consistent coordination throughout.",
@@ -3353,6 +4023,54 @@
       "en": "Confirm pickup and delivery details",
       "zh": "确认收发货信息"
     },
+    "Yamaha Exciter": {
+      "en": "Yamaha Excitator",
+      "zh": "山叶专家"
+    },
+    "Yamaha FreeGo": {
+      "en": "Yamaha Free Go",
+      "zh": "山叶自由走"
+    },
+    "Yamaha Grande": {
+      "en": "Yamaha Grande",
+      "zh": "亚马哈·格兰德"
+    },
+    "Yamaha Janus": {
+      "en": "Yamaha Janus",
+      "zh": "亚马哈·亚努斯"
+    },
+    "Yamaha Jupiter": {
+      "en": "Yamaha Jupiter",
+      "zh": "亚马哈木星"
+    },
+    "Yamaha Latte": {
+      "en": "Yamahahou",
+      "zh": "山叶侯"
+    },
+    "Yamaha Lexi": {
+      "en": "Yamaha Lexi",
+      "zh": "亚马哈·莱克西"
+    },
+    "Yamaha MT-15": {
+      "en": "Yamaha MT-15",
+      "zh": "亚马哈 MT-15"
+    },
+    "Yamaha NVX": {
+      "en": "Yamaha NVX",
+      "zh": "亚马哈NVX"
+    },
+    "Yamaha R15": {
+      "en": "Yamaha R15",
+      "zh": "亚马哈R15"
+    },
+    "Yamaha R3/R7": {
+      "en": "Yamaha R3/R7",
+      "zh": "亚马哈 R3/R7"
+    },
+    "Yamaha Sirius": {
+      "en": "Yamaha Sirius",
+      "zh": "山叶天狼星"
+    },
     "YouTube Vận Tải Lưu Lê": {
       "en": "Archived YouTube",
       "zh": "存档 YouTube"
@@ -3468,6 +4186,10 @@
     "ĐIỂM ĐẾN": {
       "en": "DELIVERY LOCATION",
       "zh": "收货地点"
+    },
+    "Đang tải dữ liệu…": {
+      "en": "Downloading data...",
+      "zh": "正在下载数据..."
     },
     "Điền thông tin và chọn \"Tính cước ngay\" để xem chi tiết.": {
       "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",

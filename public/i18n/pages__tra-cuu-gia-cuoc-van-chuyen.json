@@ -1,4 +1,6 @@
 {
+  "complete": false,
+  "missing_count": 3,
   "route": "/pages/tra-cuu-gia-cuoc-van-chuyen",
   "texts": {
     "(Đã bao gồm VAT 8%)": {
@@ -28,6 +30,10 @@
     "BLOG": {
       "en": "Blog",
       "zh": "博客"
+    },
+    "BMW Motorrad": {
+      "en": "Bentley Motorrad",
+      "zh": "宾特利摩托拉德"
     },
     "BÁO CHÍ": {
       "en": "Synchronising folder",
@@ -265,6 +271,26 @@
       "en": "Select the Constance and Line of the car to classification system",
       "zh": "选择车厢的 Constance 和线路到分类系统"
     },
+    "Chọn Phường/Xã": {
+      "en": "Select Ward/Commune",
+      "zh": "请选择坊／社"
+    },
+    "Chọn Phường/Xã mới": {
+      "en": "New",
+      "zh": "新设"
+    },
+    "Chọn Quận/Huyện": {
+      "en": "Select District",
+      "zh": "请选择区／县"
+    },
+    "Chọn Tỉnh/Thành phố": {
+      "en": "Select Province/City",
+      "zh": "请选择省／直辖市"
+    },
+    "Chọn Tỉnh/Thành phố mới": {
+      "en": "Select Province/ New City",
+      "zh": "选择省/ 新城"
+    },
     "Chọn hãng và dòng xe": {
       "en": "Select a company and line of vehicles",
       "zh": "选择公司和车辆线路"
@@ -313,6 +339,14 @@
       "en": "Select Shipping Route",
       "zh": "请选择运输路线"
     },
+    "Chọn tình trạng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Chọn vị trí bốc xếp": {
+      "en": "Select the ranking position",
+      "zh": "选择排名位置"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
@@ -336,6 +370,10 @@
     "Có bọc": {
       "en": "Covered",
       "zh": "覆盖"
+    },
+    "Có thang máy": {
+      "en": "There's an elevator.",
+      "zh": "有电梯"
     },
     "Có thể nhập bằng dấu phẩy, dấu chấm phẩy hoặc xuống dòng.": {
       "en": "Enterable with commas, semicolons, or downstreams.",
@@ -364,6 +402,30 @@
     "Danh sách đồ gia đình": {
       "en": "List of family items",
       "zh": "家庭物品清单"
+    },
+    "Ducati": {
+      "en": "Ducati",
+      "zh": "杜卡蒂语Name"
+    },
+    "Dòng xe côn tay khác": {
+      "en": "Other wheelcar lines",
+      "zh": "其他轮车线路"
+    },
+    "Dòng xe ga khác": {
+      "en": "Other Train Line",
+      "zh": "其他列车线路"
+    },
+    "Dòng xe máy điện khác": {
+      "en": "Other Electric Engine Line",
+      "zh": "其他电动发动机线"
+    },
+    "Dòng xe phân khối lớn khác": {
+      "en": "Other Large Block Car Line",
+      "zh": "其他大块车线"
+    },
+    "Dòng xe số khác": {
+      "en": "Number line",
+      "zh": "数字行"
     },
     "DỊCH VỤ CHÍNH": {
       "en": "MAIN SERVICES",
@@ -412,6 +474,14 @@
     "GIỚI THIỆU": {
       "en": "PORTUGUESE",
       "zh": "葡萄牙"
+    },
+    "Ga đến Ga": {
+      "en": "Station-to-Station",
+      "zh": "站到站"
+    },
+    "Ga đến Nhà": {
+      "en": "Station-to-Door",
+      "zh": "站到门"
     },
     "Ghi chú": {
       "en": "Comment",
@@ -537,6 +607,78 @@
       "en": "Hotline",
       "zh": "服务热线"
     },
+    "Harley-Davidson": {
+      "en": "Harley-Davidson",
+      "zh": "哈雷 - 戴维森"
+    },
+    "Honda ADV": {
+      "en": "Honda ADV",
+      "zh": "本田汽车公司"
+    },
+    "Honda Africa Twin": {
+      "en": "Honda Africa Twin",
+      "zh": "本田非洲 双"
+    },
+    "Honda Air Blade": {
+      "en": "Honda Air Blade",
+      "zh": "本田空中刀锋"
+    },
+    "Honda Blade": {
+      "en": "Honda Blade",
+      "zh": "本田刀锋"
+    },
+    "Honda CB650R/CBR650R": {
+      "en": "Honda CB650R/CBR650R",
+      "zh": "本田 CB650R/CBR650R (中文(简体) )."
+    },
+    "Honda CBR150R": {
+      "en": "Honda CBR150R",
+      "zh": "本田 CBR150R (英语)."
+    },
+    "Honda Future": {
+      "en": "Honda Future",
+      "zh": "本田未来"
+    },
+    "Honda LEAD": {
+      "en": "Honda LREAD",
+      "zh": "本田已经开发"
+    },
+    "Honda PCX": {
+      "en": "Honda PCX",
+      "zh": "本田 PCX 软件"
+    },
+    "Honda SH 125i/160i/350i": {
+      "en": "Honda SH 125i/160i/Boxi",
+      "zh": "本田SH 125i/160i/Boxi"
+    },
+    "Honda SH Mode": {
+      "en": "Honda SH Mode",
+      "zh": "本田 SH 模式"
+    },
+    "Honda Super Cub": {
+      "en": "Honda Super Cub",
+      "zh": "本田超级熊"
+    },
+    "Honda Vario": {
+      "en": "Honda Vario",
+      "zh": "本田·瓦里奥"
+    },
+    "Honda Vision": {
+      "en": "Honda Vision",
+      "zh": "本田视野"
+    },
+    "Honda Wave Alpha": {
+      "en": "Honda Wave Alpha",
+      "zh": "本田波浪阿尔法"
+    },
+    "Honda Wave RSX": {
+      "en": "Honda Wave RSX",
+      "zh": "本田波风RSX"
+    },
+    "Honda Winner X": {
+      "en": "Honda Winner X",
+      "zh": "本田赢家 X"
+    },
     "Hotline:": {
       "en": "Hotline:",
       "zh": "热线 :"
@@ -548,6 +690,94 @@
     "Hoặc tính m³ theo kích thước kiện hàng: nhập số lượng và kích thước bên dưới, hệ thống sẽ tự tính tổng m³.": {
       "en": "Or do the m3 in the package size: enter the number and size below, the system will calculate the total m3.",
       "zh": "或做包大小的m3:输入下面的数字和大小,系统会计算出总的m3."
+    },
+    "Huyện Ba Vì": {
+      "en": "Ba because",
+      "zh": "巴因为"
+    },
+    "Huyện Bình Chánh": {
+      "en": "Chief Fox",
+      "zh": "福克斯局长"
+    },
+    "Huyện Chương Mỹ": {
+      "en": "US Chapter",
+      "zh": "美国章节"
+    },
+    "Huyện Cần Giờ": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Huyện Củ Chi": {
+      "en": "Chithoku",
+      "zh": "千户"
+    },
+    "Huyện Gia Lâm": {
+      "en": "Lamia",
+      "zh": "拉米亚"
+    },
+    "Huyện Hoài Đức": {
+      "en": "Germany",
+      "zh": "德国"
+    },
+    "Huyện Hóc Môn": {
+      "en": "The Gate",
+      "zh": "门"
+    },
+    "Huyện Mê Linh": {
+      "en": "\"Meo-Tunes\"",
+      "zh": "\"美图恩斯\""
+    },
+    "Huyện Mỹ Đức": {
+      "en": "German American",
+      "zh": "德裔美国人"
+    },
+    "Huyện Nhà Bè": {
+      "en": "House",
+      "zh": "房间"
+    },
+    "Huyện Phú Xuyên": {
+      "en": "xhichuan",
+      "zh": "hi川"
+    },
+    "Huyện Phúc Thọ": {
+      "en": "They're happy",
+      "zh": "他们很高兴"
+    },
+    "Huyện Quốc Oai": {
+      "en": "Ooou",
+      "zh": "呜呜"
+    },
+    "Huyện Sóc Sơn": {
+      "en": "\"Movie Mountain\"",
+      "zh": "\"电影山\""
+    },
+    "Huyện Thanh Oai": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "Huyện Thanh Trì": {
+      "en": "Qingqing",
+      "zh": "庆青"
+    },
+    "Huyện Thường Tín": {
+      "en": "Octophone",
+      "zh": "八音响"
+    },
+    "Huyện Thạch Thất": {
+      "en": "Stone Stone.",
+      "zh": "石头石."
+    },
+    "Huyện Đan Phượng": {
+      "en": "Shan Phoenix",
+      "zh": "山凤凰"
+    },
+    "Huyện Đông Anh": {
+      "en": "East UK Antiquities",
+      "zh": "英国东部文物"
+    },
+    "Huyện Ứng Hòa": {
+      "en": "Compatibility",
+      "zh": "兼容性"
     },
     "HÌNH ẢNH": {
       "en": "REVIECTION",
@@ -597,6 +827,18 @@
       "en": "GPL >=200G",
       "zh": "GPL QQ200G 导弹"
     },
+    "KTM": {
+      "en": "KTM",
+      "zh": "KTM 机车"
+    },
+    "Kawasaki Versys": {
+      "en": "Kawasaki Versys",
+      "zh": "川崎·韦尔西"
+    },
+    "Kawasaki Z650/Z900": {
+      "en": "Kawasaki Z650/Z900",
+      "zh": "川崎Z650/Z900号"
+    },
     "Không biết loại xe?": {
       "en": "Don't know the car?",
       "zh": "不认识那辆车?"
@@ -604,6 +846,10 @@
     "Không bọc": {
       "en": "No Cover",
       "zh": "无封面"
+    },
+    "Không có thang máy": {
+      "en": "No elevator.",
+      "zh": "没有电梯。"
     },
     "Khối lượng tổng": {
       "en": "Total Weight",
@@ -729,6 +975,14 @@
       "en": "Open Advisory AI",
       "zh": "开放咨询AI"
     },
+    "Nhà đến Ga": {
+      "en": "Door-to-Station",
+      "zh": "门到站"
+    },
+    "Nhà đến Nhà": {
+      "en": "Door-to-Door",
+      "zh": "门到门"
+    },
     "Nhận báo giá chính xác": {
       "en": "Receive the correct price",
       "zh": "接收正确的价格"
@@ -805,6 +1059,10 @@
       "en": "$900,000 apiece",
       "zh": "每人90万美元"
     },
+    "Piaggio Liberty": {
+      "en": "Piaggio Liberty",
+      "zh": "皮亚焦自由组织"
+    },
     "QUY CÁCH ĐÓNG HÀNG": {
       "en": "REVIECTION",
       "zh": "修订"
@@ -813,13 +1071,157 @@
       "en": "Rule 1 m3 = 350 kg: over 350 kg/m3 weights; from 350 kg/m3 to down the light row.",
       "zh": "规则1m3=350公斤:超过350公斤/立方米体重;从350公斤/立方米到下行轻排."
     },
+    "Quận 1": {
+      "en": "District 1",
+      "zh": "区1"
+    },
+    "Quận 10": {
+      "en": "District 10",
+      "zh": "第10区"
+    },
+    "Quận 11": {
+      "en": "District 11",
+      "zh": "第11区"
+    },
+    "Quận 12": {
+      "en": "District 12",
+      "zh": "第12区"
+    },
+    "Quận 3": {
+      "en": "District 3",
+      "zh": "第3区"
+    },
+    "Quận 4": {
+      "en": "District 4",
+      "zh": "第4区"
+    },
+    "Quận 5": {
+      "en": "District 5",
+      "zh": "第5区"
+    },
+    "Quận 6": {
+      "en": "District 6",
+      "zh": "第6区"
+    },
+    "Quận 7": {
+      "en": "District 7",
+      "zh": "第7区"
+    },
+    "Quận 8": {
+      "en": "District 8",
+      "zh": "第8区"
+    },
+    "Quận Ba Đình": {
+      "en": "District of Ting",
+      "zh": "丁区"
+    },
+    "Quận Bình Thạnh": {
+      "en": "District of Peace",
+      "zh": "和平区"
+    },
+    "Quận Bình Tân": {
+      "en": "Penis District",
+      "zh": "佩尼斯区"
+    },
+    "Quận Bắc Từ Liêm": {
+      "en": "North District from the Dyer",
+      "zh": "北区从迪尔"
+    },
+    "Quận Cầu Giấy": {
+      "en": "Paper Bridge District",
+      "zh": "纸桥区"
+    },
+    "Quận Gò Vấp": {
+      "en": "\"President District\".",
+      "zh": "\"区长\"."
+    },
+    "Quận Hai Bà Trưng": {
+      "en": "Two women's district",
+      "zh": "两个女区"
+    },
+    "Quận Hoàn Kiếm": {
+      "en": "The District of Swords",
+      "zh": "剑城区"
+    },
+    "Quận Hoàng Mai": {
+      "en": "Royal Mai District",
+      "zh": "皇家迈区"
+    },
+    "Quận Hà Đông": {
+      "en": "Dutch District",
+      "zh": "荷兰区"
+    },
+    "Quận Long Biên": {
+      "en": "Long Border District",
+      "zh": "长边区"
+    },
+    "Quận Nam Từ Liêm": {
+      "en": "South District from the South",
+      "zh": "南部地区"
+    },
+    "Quận Phú Nhuận": {
+      "en": "Funky District",
+      "zh": "丰基区"
+    },
+    "Quận Thanh Xuân": {
+      "en": "Qing Chun District",
+      "zh": "青春区"
+    },
+    "Quận Tân Bình": {
+      "en": "New Zealand District",
+      "zh": "新西兰区"
+    },
+    "Quận Tân Phú": {
+      "en": "New Funky District",
+      "zh": "新丰基区"
+    },
+    "Quận Tây Hồ": {
+      "en": "West Lake District",
+      "zh": "西湖区"
+    },
+    "Quận Đống Đa": {
+      "en": "Middle District",
+      "zh": "中区"
+    },
     "Quận/Huyện": {
       "en": "District",
       "zh": "区／县"
     },
+    "Royal Enfield": {
+      "en": "Royal Enfield",
+      "zh": "皇家恩菲尔德"
+    },
+    "SYM Attila": {
+      "en": "SYMtica",
+      "zh": "软件"
+    },
+    "SYM Galaxy": {
+      "en": "SYM Galaxy",
+      "zh": "银河系统"
+    },
     "Sau khi gửi, hệ thống sẽ ghi nhận ngay đơn vận chuyển của Quý khách.": {
       "en": "After the delivery, the system will immediately record the transfer order.",
       "zh": "交付后,系统会立即记录转移订单."
+    },
+    "Suzuki Burgman": {
+      "en": "Suzuki Burgman",
+      "zh": "铃木伯格曼"
+    },
+    "Suzuki GSX-R150": {
+      "en": "Suzuki GSX-R150",
+      "zh": "铃木 GSX-R150"
+    },
+    "Suzuki Raider": {
+      "en": "Suzuki Raider",
+      "zh": "铃木突击队"
+    },
+    "Suzuki Satria": {
+      "en": "Suzuki Satria",
+      "zh": "铃木佐特里亚"
+    },
+    "Sảnh / tầng trệt": {
+      "en": "Bottom/floor",
+      "zh": "底楼/底楼"
     },
     "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
       "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
@@ -917,6 +1319,34 @@
       "en": "Elevator",
       "zh": "电梯"
     },
+    "Thành phố Cần Thơ": {
+      "en": "City of Need of Poem",
+      "zh": "贫困之城"
+    },
+    "Thành phố Huế": {
+      "en": "Salt City",
+      "zh": "盐城"
+    },
+    "Thành phố Hà Nội": {
+      "en": "Hanoi",
+      "zh": "河内"
+    },
+    "Thành phố Hải Phòng": {
+      "en": "The City of Customs",
+      "zh": "海关"
+    },
+    "Thành phố Hồ Chí Minh": {
+      "en": "Ho Chi Minh City",
+      "zh": "胡志明市"
+    },
+    "Thành phố Thủ Đức": {
+      "en": "German City of Prime Ministers",
+      "zh": "德国总理城"
+    },
+    "Thành phố Đà Nẵng": {
+      "en": "Da Nang City",
+      "zh": "大南市"
+    },
     "Thôn/Xóm/Ấp, đường và số nhà": {
       "en": "Hamlet, street and house number",
       "zh": "村／组、街道及门牌号"
@@ -928,6 +1358,10 @@
     "Thể tích tổng": {
       "en": "Total Volume",
       "zh": "总体积"
+    },
+    "Thị xã Sơn Tây": {
+      "en": "Western Village",
+      "zh": "西村镇"
     },
     "Thời gian": {
       "en": "Time",
@@ -941,9 +1375,17 @@
       "en": "Search for Singles",
       "zh": "寻找单身者"
     },
+    "Triumph": {
+      "en": "Triumph",
+      "zh": "凯旋"
+    },
     "Trung tâm hướng dẫn": {
       "en": "Guide Center",
       "zh": "引导中心"
+    },
+    "Trên tầng/lầu": {
+      "en": "Upstairs.",
+      "zh": "楼上"
     },
     "Trợ lý AI Vận Tải Lưu Lê": {
       "en": "AI Media Assistant",
@@ -1021,9 +1463,241 @@
       "en": "Publishing VAT",
       "zh": "公布增值税"
     },
+    "Tầng hầm": {
+      "en": "The basement.",
+      "zh": "地下室 地下室"
+    },
     "Tầng/lầu hoặc hầm": {
       "en": "Level/Land or vault",
       "zh": "级别/地盘或金库"
+    },
+    "Tỉnh An Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Bà Rịa - Vũng Tàu": {
+      "en": "Mrs. Ruyang-Cheng Province",
+      "zh": "鲁阳城夫人"
+    },
+    "Tỉnh Bình Dương": {
+      "en": "Pacific Province",
+      "zh": "太平洋省"
+    },
+    "Tỉnh Bình Phước": {
+      "en": "Lucky Province",
+      "zh": "幸运省"
+    },
+    "Tỉnh Bình Thuận": {
+      "en": "Ping Shun Province",
+      "zh": "平顺省"
+    },
+    "Tỉnh Bình Định": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tỉnh Bạc Liêu": {
+      "en": "Silver Province",
+      "zh": "银省"
+    },
+    "Tỉnh Bắc Giang": {
+      "en": "North Jiang Province",
+      "zh": "北江省"
+    },
+    "Tỉnh Bắc Kạn": {
+      "en": "Northern Province",
+      "zh": "北部省"
+    },
+    "Tỉnh Bắc Ninh": {
+      "en": "Northern Kong Province",
+      "zh": "北金刚省"
+    },
+    "Tỉnh Bến Tre": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Cao Bằng": {
+      "en": "High Province With",
+      "zh": "高级省"
+    },
+    "Tỉnh Cà Mau": {
+      "en": "Mau Province",
+      "zh": "马乌省"
+    },
+    "Tỉnh Gia Lai": {
+      "en": "Zhuang Province",
+      "zh": "ang省"
+    },
+    "Tỉnh Hoà Bình": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "Tỉnh Hà Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Hà Nam": {
+      "en": "Henan Province",
+      "zh": "河南省历代进士名表."
+    },
+    "Tỉnh Hà Tĩnh": {
+      "en": "Han Jing Province",
+      "zh": "汉中省"
+    },
+    "Tỉnh Hưng Yên": {
+      "en": "Province of Jingye",
+      "zh": "静业省"
+    },
+    "Tỉnh Hải Dương": {
+      "en": "Ocean Province",
+      "zh": "海洋省"
+    },
+    "Tỉnh Hậu Giang": {
+      "en": "Empress Jiang Province",
+      "zh": "江省皇后"
+    },
+    "Tỉnh Khánh Hòa": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "Tỉnh Kiên Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Kon Tum": {
+      "en": "Kon Tum Province",
+      "zh": "孔屯省"
+    },
+    "Tỉnh Lai Châu": {
+      "en": "Laizhou Province",
+      "zh": "莱州省"
+    },
+    "Tỉnh Long An": {
+      "en": "Long An Province",
+      "zh": "长安省"
+    },
+    "Tỉnh Lào Cai": {
+      "en": "Lao Cai Province",
+      "zh": "老蔡省"
+    },
+    "Tỉnh Lâm Đồng": {
+      "en": "Linong Province",
+      "zh": "利农省"
+    },
+    "Tỉnh Lạng Sơn": {
+      "en": "Shan Province",
+      "zh": "掸邦"
+    },
+    "Tỉnh Nam Định": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Nghệ An": {
+      "en": "Province of Art",
+      "zh": "艺术省"
+    },
+    "Tỉnh Ninh Bình": {
+      "en": "Ninh Ping Province",
+      "zh": "宁平省"
+    },
+    "Tỉnh Ninh Thuận": {
+      "en": "Ninh Shun Province",
+      "zh": "宁顺省"
+    },
+    "Tỉnh Phú Thọ": {
+      "en": "Funky Province",
+      "zh": "丰基省"
+    },
+    "Tỉnh Phú Yên": {
+      "en": "Funky Province",
+      "zh": "丰基省"
+    },
+    "Tỉnh Quảng Bình": {
+      "en": "Guang Guang Province",
+      "zh": "广东省"
+    },
+    "Tỉnh Quảng Nam": {
+      "en": "Guangnan Province",
+      "zh": "广南省"
+    },
+    "Tỉnh Quảng Ngãi": {
+      "en": "Guangxi Province",
+      "zh": "广西省"
+    },
+    "Tỉnh Quảng Ninh": {
+      "en": "Ning Province",
+      "zh": "宁省"
+    },
+    "Tỉnh Quảng Trị": {
+      "en": "Guangdu Province",
+      "zh": "广都省"
+    },
+    "Tỉnh Sóc Trăng": {
+      "en": "Moon Province",
+      "zh": "月球省"
+    },
+    "Tỉnh Sơn La": {
+      "en": "Mountain Province",
+      "zh": "山区省"
+    },
+    "Tỉnh Thanh Hóa": {
+      "en": "Qing hóa Province",
+      "zh": "清河省"
+    },
+    "Tỉnh Thái Bình": {
+      "en": "Pacific Province",
+      "zh": "太平洋省"
+    },
+    "Tỉnh Thái Nguyên": {
+      "en": "Thai Province",
+      "zh": "泰国省"
+    },
+    "Tỉnh Tiền Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Trà Vinh": {
+      "en": "In the province of Tinghan",
+      "zh": "丁汉省"
+    },
+    "Tỉnh Tuyên Quang": {
+      "en": "\"Phian Province\"",
+      "zh": "\"滇汉省志\""
+    },
+    "Tỉnh Tây Ninh": {
+      "en": "Western Province",
+      "zh": "西部省"
+    },
+    "Tỉnh Vĩnh Long": {
+      "en": "Long Province",
+      "zh": "长省"
+    },
+    "Tỉnh Vĩnh Phúc": {
+      "en": "Wing Fu Province",
+      "zh": "荣富省"
+    },
+    "Tỉnh Yên Bái": {
+      "en": "\"Silence Province\"",
+      "zh": "\"静安省志\"."
+    },
+    "Tỉnh Điện Biên": {
+      "en": "Border Area",
+      "zh": "边境地区"
+    },
+    "Tỉnh Đắk Lắk": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Đắk Nông": {
+      "en": "In the province of Farm",
+      "zh": "农业省"
+    },
+    "Tỉnh Đồng Nai": {
+      "en": "Plain Nai Province",
+      "zh": "原直隶省"
+    },
+    "Tỉnh Đồng Tháp": {
+      "en": "Council Province",
+      "zh": "议会省"
     },
     "Tỉnh/Thành phố": {
       "en": "Province/City",
@@ -1060,6 +1734,34 @@
     "VIDEOS": {
       "en": "LIS",
       "zh": "利比里亚"
+    },
+    "Vespa GTS": {
+      "en": "Vespa GTS",
+      "zh": "维斯帕GTS"
+    },
+    "Vespa Primavera": {
+      "en": "Vespa Primavera",
+      "zh": "维斯帕·普里马维拉"
+    },
+    "Vespa Sprint": {
+      "en": "Vespa Sprint",
+      "zh": "Vespa 冲刺"
+    },
+    "VinFast Evo": {
+      "en": "VinFast Evo",
+      "zh": "温·法斯特·埃沃"
+    },
+    "VinFast Feliz": {
+      "en": "VinFast Feliz",
+      "zh": "费利兹"
+    },
+    "VinFast Klara": {
+      "en": "VinFast Ahmad",
+      "zh": "温·法斯特·艾哈迈德"
+    },
+    "VinFast Vento": {
+      "en": "VinFast Vento",
+      "zh": "文·法斯特·文托"
     },
     "Vui lòng chọn một phương án": {
       "en": "Please choose a solution",
@@ -1229,6 +1931,10 @@
       "en": "Headup position take",
       "zh": "头部位置"
     },
+    "Vị trí khác": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
     "WEBSITE": {
       "en": "Website",
       "zh": "网站"
@@ -1297,6 +2003,54 @@
       "en": "View Information",
       "zh": "查看信息"
     },
+    "Yamaha Exciter": {
+      "en": "Yamaha Excitator",
+      "zh": "山叶专家"
+    },
+    "Yamaha FreeGo": {
+      "en": "Yamaha Free Go",
+      "zh": "山叶自由走"
+    },
+    "Yamaha Grande": {
+      "en": "Yamaha Grande",
+      "zh": "亚马哈·格兰德"
+    },
+    "Yamaha Janus": {
+      "en": "Yamaha Janus",
+      "zh": "亚马哈·亚努斯"
+    },
+    "Yamaha Jupiter": {
+      "en": "Yamaha Jupiter",
+      "zh": "亚马哈木星"
+    },
+    "Yamaha Latte": {
+      "en": "Yamahahou",
+      "zh": "山叶侯"
+    },
+    "Yamaha Lexi": {
+      "en": "Yamaha Lexi",
+      "zh": "亚马哈·莱克西"
+    },
+    "Yamaha MT-15": {
+      "en": "Yamaha MT-15",
+      "zh": "亚马哈 MT-15"
+    },
+    "Yamaha NVX": {
+      "en": "Yamaha NVX",
+      "zh": "亚马哈NVX"
+    },
+    "Yamaha R15": {
+      "en": "Yamaha R15",
+      "zh": "亚马哈R15"
+    },
+    "Yamaha R3/R7": {
+      "en": "Yamaha R3/R7",
+      "zh": "亚马哈 R3/R7"
+    },
+    "Yamaha Sirius": {
+      "en": "Yamaha Sirius",
+      "zh": "山叶天狼星"
+    },
     "YouTube Vận Tải Lưu Lê": {
       "en": "Archived YouTube",
       "zh": "存档 YouTube"
@@ -1344,6 +2098,10 @@
     "Áp dụng khi xe đã tới nơi và thông báo khách nhận nhưng khách chưa nhận được, hoặc khi đi giao mà khách không có mặt.": {
       "en": "Apply when the car has arrived and informs the guests but the guests do not receive it, or when the delivery is not present.",
       "zh": "乘车到达后通知客人,但客人不接受,或送货不在场。"
+    },
+    "Đang tải dữ liệu…": {
+      "en": "Downloading data...",
+      "zh": "正在下载数据..."
     },
     "Điền thông tin và chọn \"Tính cước ngay\" để xem chi tiết.": {
       "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
