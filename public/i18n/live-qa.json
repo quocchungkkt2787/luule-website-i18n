@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T22:32:10.864865+00:00",
+  "tested_at": "2026-11-14T22:52:52.700590+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 187,
-  "public_routes_pending": 749,
+  "public_routes_verified": 195,
+  "public_routes_pending": 741,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3506,14 +3506,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/chanh-xe-to-chau": {},
-    "/blogs/goc-tu-van/chi-phi-van-chuyen-hang-hoa": {},
-    "/blogs/goc-tu-van/chieu-cao-xe-container-40-feet": {},
-    "/blogs/goc-tu-van/chieu-cao-xe-container": {},
-    "/blogs/goc-tu-van/chuyen-dan-piano": {},
-    "/blogs/goc-tu-van/chuyen-nha-duong-dai": {},
-    "/blogs/goc-tu-van/chuyen-nha-nen-mang-gi-vao-truoc": {},
-    "/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau": {},
+    "/blogs/goc-tu-van/chanh-xe-to-chau": {
+      "fingerprint": "7095a74d0b9e1fe7",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:01.958461+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "List of the latest Suzhou Car stations"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "最新的苏州车站列表"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chi-phi-van-chuyen-hang-hoa": {
+      "fingerprint": "fd5f33e915f2b186",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:09.087798+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Thirteen conditions required to save freight costs"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "节省运费所需的13个条件"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chieu-cao-xe-container-40-feet": {
+      "fingerprint": "e57860cefe44c6eb",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:23.727461+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's 40 feet of container height?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "40英尺的集装箱高度是什么?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chieu-cao-xe-container": {
+      "fingerprint": "1d1a6e55dcf5eda8",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:16.870222+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How high is the standard container?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "标准容器有多高?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chuyen-dan-piano": {
+      "fingerprint": "a747f25ae09bd54e",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:30.561733+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which unit provides the prestigious piano transport service?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "哪个单位提供著名的钢琴运输服务?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chuyen-nha-duong-dai": {
+      "fingerprint": "e565ebdee10475a9",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:39.110085+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The long way to the cheap province - things to know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "通往廉价省份的漫长路程 - 事情要知道"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chuyen-nha-nen-mang-gi-vao-truoc": {
+      "fingerprint": "958a01a42c754e4c",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:46.082999+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Move your house in first place for good luck!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把房子挪到第一位,祝你好运!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau": {
+      "fingerprint": "2bd3a69110bd6f4c",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:52:52.670658+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long's the delivery going on? Some note?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送货多久? 有纸条吗?"
+        }
+      }
+    },
     "/blogs/goc-tu-van/chuyen-phat-nhanh-mat-may-ngay": {},
     "/blogs/goc-tu-van/chuyen-phat-thuong-mat-bao-lau": {},
     "/blogs/goc-tu-van/cip-la-gi": {},
@@ -4244,7 +4388,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T22:31:00.098644+00:00",
+      "checked_at": "2026-11-14T22:51:41.836032+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4264,7 +4408,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T22:31:12.928391+00:00",
+      "checked_at": "2026-11-14T22:51:55.309116+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4296,7 +4440,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T22:31:06.872687+00:00",
+      "checked_at": "2026-11-14T22:51:49.308178+00:00",
       "languages": {
         "en": {
           "ok": true,
