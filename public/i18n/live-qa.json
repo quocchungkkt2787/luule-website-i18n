@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T17:21:51.517929+00:00",
+  "tested_at": "2026-11-14T17:43:24.145223+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 67,
-  "public_routes_pending": 869,
+  "public_routes_verified": 75,
+  "public_routes_pending": 861,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -1226,14 +1226,158 @@
         }
       }
     },
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-ninh-thuan": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-phu-yen": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-binh": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-nam": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-ngai": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-tri": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-thanh-hoa": {},
-    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-thua-thien-hue": {},
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-ninh-thuan": {
+      "fingerprint": "1040409119bda7e4",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:42:39.339283+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transmission Service - Ning Shun Professional and most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡传输服务 - 宁顺专业和最有名的"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-phu-yen": {
+      "fingerprint": "38c5afa4f486d70a",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:42:45.754024+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon move service - Fuji Yen package, prestige, quality"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡移动服务 - 富士 日用包,威望,质量"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-binh": {
+      "fingerprint": "c6761e1b2810ea14",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:42:52.489256+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Saigon move - Square safe, save"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡移动 - 平方安全, 保存"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-nam": {
+      "fingerprint": "fded845dc186db83",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:42:58.712218+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Move Saigon - Guangnan, which transportation unit should be selected?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动西贡-广南,应选哪个运输分队?."
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-ngai": {
+      "fingerprint": "bccd29d85eadea4a",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:43:04.807160+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Moves Saigon - Square fast, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动西贡- 平地快, 便宜"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-quang-tri": {
+      "fingerprint": "9023ea13dc95c984",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:43:11.125108+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Saigon move - the full package, quality"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡移动 - 完整包件,质量"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-thanh-hoa": {
+      "fingerprint": "95997798648dc37e",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:43:17.461281+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[Presidential] Saigon move experience - Qingization from A-2010 Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[总统 西贡移动体验 - A-2010 Z的清化"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-thua-thien-hue": {
+      "fingerprint": "6375eaf5d7419220",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:43:24.115050+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Saigon move - the God complex simply, quickly"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡的动作——神的复合体 简单,快速"
+        }
+      }
+    },
     "/blogs/chuyen-nha-sg-tay-nam-bo": {},
     "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-an-giang": {},
     "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-bac-lieu": {},
@@ -2084,7 +2228,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T17:20:49.345340+00:00",
+      "checked_at": "2026-11-14T17:42:18.137528+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2104,7 +2248,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T17:21:01.487189+00:00",
+      "checked_at": "2026-11-14T17:42:31.665678+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2136,7 +2280,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T17:20:55.954228+00:00",
+      "checked_at": "2026-11-14T17:42:25.875646+00:00",
       "languages": {
         "en": {
           "ok": true,
