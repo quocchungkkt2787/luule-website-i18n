@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T20:28:59.225562+00:00",
+  "tested_at": "2026-11-14T20:49:49.197238+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 139,
-  "public_routes_pending": 797,
+  "public_routes_verified": 147,
+  "public_routes_pending": 789,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2594,14 +2594,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/ben-xe-nuoc-ngam-o-dau": {},
-    "/blogs/goc-tu-van/bien-35-o-dau": {},
-    "/blogs/goc-tu-van/bien-ban-giao-nhan-hang-hoa-noi-bo": {},
-    "/blogs/goc-tu-van/bien-cam-quay-dau-co-duoc-re-trai-khong": {},
-    "/blogs/goc-tu-van/bien-so-39-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-48-la-tinh-nao": {},
-    "/blogs/goc-tu-van/bien-so-50-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-76-la-tinh-nao": {},
+    "/blogs/goc-tu-van/ben-xe-nuoc-ngam-o-dau": {
+      "fingerprint": "7322d1a37e681f28",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:00.791506+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where's the water station? The number of phone calls from the Hanoi Water Station"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "水站在甚么处. 河内水站的电话数"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-35-o-dau": {
+      "fingerprint": "1044bca74f820f3e",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:07.569046+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 35 from? Ninh Bình plate guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "35号车牌属于哪里？宁平省车牌指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-ban-giao-nhan-hang-hoa-noi-bo": {
+      "fingerprint": "1675d59b15ad2b3c",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:14.089769+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Rules of the template of an internal delivery transfer"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "内部交货转让模板的规则"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-cam-quay-dau-co-duoc-re-trai-khong": {
+      "fingerprint": "d8f8d0d04f68d163",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:20.885788+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Will the sea banning turn left? The Kinds of Seas No Need to Know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海禁会左转吗? 不需要知道的海洋类型"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-39-o-dau": {
+      "fingerprint": "df2f8a929b4af2d7",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:27.845061+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where's number 39? Access plate number of provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "39号在哪儿? 省出入号"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-48-la-tinh-nao": {
+      "fingerprint": "6f88726263efbeb8",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:34.511329+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which province uses licence plate code 48? Đắk Nông plate codes"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "48号车牌属于哪个省？得农省车牌代码"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-50-o-dau": {
+      "fingerprint": "9c0d29a52ac3c23b",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:41.188478+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 50 from?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "50号车牌属于哪里？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-76-la-tinh-nao": {
+      "fingerprint": "dae191e1325e039d",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:49:49.166936+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which province uses licence plate code 76? Quảng Ngãi plate codes"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "76号车牌属于哪个省？广义省车牌代码"
+        }
+      }
+    },
     "/blogs/goc-tu-van/bien-so-83-tinh-nao": {},
     "/blogs/goc-tu-van/bien-so-xe-26-o-dau": {},
     "/blogs/goc-tu-van/bien-so-xe-37-o-dau": {},
@@ -3380,7 +3524,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T20:27:48.607707+00:00",
+      "checked_at": "2026-11-14T20:48:41.095979+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3400,7 +3544,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:01.701901+00:00",
+      "checked_at": "2026-11-14T20:48:53.756820+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3432,7 +3576,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T20:27:55.685572+00:00",
+      "checked_at": "2026-11-14T20:48:47.805736+00:00",
       "languages": {
         "en": {
           "ok": true,
