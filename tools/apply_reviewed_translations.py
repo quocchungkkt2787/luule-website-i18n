@@ -161,6 +161,54 @@ def main():
             if path.name not in ('audit.json', 'coverage.json', 'manifest.json'))
         atomic_write(manifest_path, manifest)
 
+    # Public Haravan /search is intentionally excluded from the crawler.
+    # Build its safe, stable translation pack from reviewed search UI,
+    # public navigation and already-published blog prose. Visitor queries,
+    # login forms and personalized results are never collected.
+    search_source = PUBLIC / 'pages__customer.json'
+    search_source_pack = read(search_source) if search_source.is_file() else {}
+    if search_source_pack.get('route') != '/pages/customer':
+        raise ValueError('Public site-shell translation pack is unavailable.')
+    search_texts = dict(search_source_pack.get('texts') or {})
+    article_source = PUBLIC / 'blogs__van-chuyen-bac-nam__van-chuyen-duong-sat-bac-nam.json'
+    if article_source.is_file():
+        article_pack = read(article_source)
+        if article_pack.get('route') == '/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam':
+            # Public search currently features this railway article; translated
+            # snippets and short fragments are composed by the Haravan template.
+            search_texts.update(article_pack.get('texts') or {})
+    search_keys = {
+        'SEARCH', 'Tìm kiếm', 'TÌM KIẾM', 'Kết quả tìm kiếm',
+        'Kết quả tìm kiếm cho',
+        'Kết quả tìm kiếm cho "vận tải đường sắt"',
+        'Dịch vụ vận chuyển đường sắt Bắc Nam giá rẻ, an toàn',
+        '11 Tháng 6 2024', '0Bình luận', '0 Bình luận',
+        'Xem tiếp →', 'Xem tiếp', 'Bạn có biết rằng',
+        'Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp',
+        'là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển khác,',
+        'Với nhiều năm kinh nghiệm trong lĩnh vực vận tải, Vận Tải Lưu Lê đã trở thành địa chỉ tin cậy của nhiều khách hàng. Chúng tôi tự hào mang đến dịch vụ',
+    }
+    for key in search_keys:
+        if key in edits:
+            search_texts[key] = edits[key]
+    search_path = PUBLIC / 'search.json'
+    previous_search = read(search_path) if search_path.is_file() else {}
+    if previous_search and previous_search.get('route') != '/search':
+        raise ValueError('Unexpected preexisting search.json route.')
+    # Existing reviewed keys take priority and survive rebuilds.
+    search_texts.update({key: edits[key] for key in search_texts if key in edits})
+    if not all(isinstance(row, dict) and all(isinstance(row.get(code), str)
+            and row[code].strip() for code in ('en', 'zh'))
+            for row in search_texts.values()):
+        raise ValueError('Search pack includes invalid translations.')
+    atomic_write(search_path, {
+        'version': 3, 'route': '/search', 'complete': False,
+        'scope': 'public-search-UI-and-public-article-results-only',
+        'note': 'Public site labels and article snippets; visitor search terms are not stored.',
+        'texts': search_texts,
+    })
+    print(f'Public search translation pack: {len(search_texts)} keys', flush=True)
+
     # Preserve original pages_seen/pages_published/unique_public_texts:
     # those describe what the crawler saw, not what this review added.
     print(f'REVIEWED PATCH OK: {len(edits)} reviewed strings; '
