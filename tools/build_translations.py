@@ -206,6 +206,11 @@ def collect_text_from_html(content, route=None):
     # Harvest public article summaries before deleting body widgets. Haravan
     # related cards may show meta-description or a shortened first paragraph.
     # These are PUBLIC copy only; never include tracking/customer forms.
+    # A Haravan /search result can flatten a whole public first paragraph
+    # while the article page renders it as several nested text nodes.
+    # Include the PUBLIC flattened intro in the source article pack too; the
+    # search-language switcher already fetches linked article packs on demand.
+    article_search_intros = set()
     if route and route.startswith('/blogs/'):
         for meta in soup.select('head meta[name="description"],head meta[property="og:description"]'):
             desc=norm(meta.get('content',''))
@@ -219,9 +224,16 @@ def collect_text_from_html(content, route=None):
                 snippet=norm(para.get_text(' ',strip=True))
                 if 60<=len(snippet)<=1400 and translatable(snippet):
                     SHARED_RELATED_SNIPPETS.add(snippet)
+                    article_search_intros.add(snippet)
+                    # Haravan search uses strip_html and may omit whitespace
+                    # added by get_text around punctuation or inline links.
+                    compact = re.sub(r'\s+([.,!?;:])', r'\1', snippet)
+                    if compact != snippet and 60 <= len(compact) <= 1400:
+                        SHARED_RELATED_SNIPPETS.add(compact)
+                        article_search_intros.add(compact)
     for q in root.select(SKIP_SELECTOR):q.decompose()
     for q in root.find_all(SKIP_TAGS):q.decompose()
-    strings=set()
+    strings=set(article_search_intros)
     # Haravan SEO <title> lives in <head>, not the body walker. Capture it
     # as PUBLIC copy so each per-route JSON pack can translate the browser tab
     # without changing canonical tags, HTML layout or search-engine metadata.
@@ -606,6 +618,10 @@ def main():
         assert not translatable('Website: vantaihuonglan.vn')
         assert not translatable('Website: http://24hour.com.vn/')
         assert not translatable('Website: https://www.futaexpress.vn/')
+        sample_intro = ('Bạn đang muốn tìm hiểu về Tổng công ty đường sắt Việt Nam '
+                        '? Tuy nhiên, bạn chưa tìm được nguồn thông tin hợp lệ?')
+        assert re.sub(r'\s+([.,!?;:])', r'\1', sample_intro).startswith(
+            'Bạn đang muốn tìm hiểu về Tổng công ty đường sắt Việt Nam?')
         assert not translatable('Website: http://sagawa.vn/')
         assert not translatable('Airport Blvd, Singapore')
         assert not translatable('Parkway Parade: 80 Marine Parade,')
