@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T16:39:41.641069+00:00",
+  "tested_at": "2026-11-14T17:00:59.860704+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 51,
-  "public_routes_pending": 885,
+  "public_routes_verified": 59,
+  "public_routes_pending": 877,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -922,14 +922,158 @@
         }
       }
     },
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-ninh-binh": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-phu-tho": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-quang-ninh": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-son-la": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-thai-binh": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-thai-nguyen": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-tuyen-quang": {},
-    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-vinh-phuc": {},
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-ninh-binh": {
+      "fingerprint": "b2b1af669d5debe1",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:11.781117+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Services - Security, Saving"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输服务-安全、储蓄"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-phu-tho": {
+      "fingerprint": "acdd99fb0dace521",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:18.321327+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why use Saigon's move service - Fuji T's?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为什么使用西贡的移动服务 - 富士T's?"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-quang-ninh": {
+      "fingerprint": "07d7cf72f3878265",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:25.089821+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon move service - prestigious Ning, safe, affordable"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡移动服务 - 有声望的宁,安全,负担得起的"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-son-la": {
+      "fingerprint": "637701341c9fcb43",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:32.016779+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon's Transportation Service - La cheap, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡交通局 - 廉价、安全"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-thai-binh": {
+      "fingerprint": "aaf7d53e936ee755",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:38.627834+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Pacific Saigon move experience from A-13-Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋西贡从A- 13- Z 移动经验"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-thai-nguyen": {
+      "fingerprint": "fa4a32077afc5603",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:45.183810+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Important Notes when moving to Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动到西贡时的重要注释"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-tuyen-quang": {
+      "fingerprint": "aca57b7187c80885",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:52.980530+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is a Saigon move-off service - a prestigious, cheap declaration?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡搬出服务是什么 - 一个有声望,廉价的申报?"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-vinh-phuc": {
+      "fingerprint": "c5746040fb1e1394",
+      "status": "pass",
+      "checked_at": "2026-11-14T17:00:59.836780+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Making the Saigon Home Safe and Quick"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "使西贡安全回家的经验"
+        }
+      }
+    },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-yen-bai": {},
     "/blogs/chuyen-nha-sg-mien-trung": {},
     "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-binh-dinh": {},
@@ -1796,7 +1940,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T16:38:33.193846+00:00",
+      "checked_at": "2026-11-14T16:59:51.951995+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1816,7 +1960,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T16:38:46.179641+00:00",
+      "checked_at": "2026-11-14T17:00:04.967141+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1848,7 +1992,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T16:38:40.107413+00:00",
+      "checked_at": "2026-11-14T16:59:58.813215+00:00",
       "languages": {
         "en": {
           "ok": true,
