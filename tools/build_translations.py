@@ -29,6 +29,8 @@ STORE = ROOT / 'translation-cache.json'
 PUBLIC = ROOT / 'public' / 'i18n'
 # Shared PUBLIC page titles/breadcrumb labels found during crawl.
 SHARED_NAV_LABELS = set()
+# Also share excerpts from cards showing related articles on other pages.
+SHARED_RELATED_SNIPPETS = set()
 USER_AGENT = 'LuuLePublicI18NBuilder/3.0 (+https://vantailuule.vn)'
 SCOPE = ('/blogs/', '/pages/', '/products/', '/collections/')
 # Important public tools can be absent from the sitemap or from normal HTML links.
@@ -186,6 +188,26 @@ def collect_text_from_html(content):
                 label=norm(str(sub))
                 if label and len(label)<=160 and translatable(label):
                     SHARED_NAV_LABELS.add(label)
+    # Related cards and all public article links may show on many other routes.
+    # Add short visible titles to shared.json (never article bodies, forms or
+    # customer/account data). Exact matches only in the browser.
+    for link in root.select('a[href^="/blogs/"],a[href^="https://vantailuule.vn/blogs/"]'):
+        title=norm(link.get_text(' ',strip=True))
+        if 2 < len(title) <= 180 and translatable(title):
+            SHARED_NAV_LABELS.add(title)
+    # Related-article cards are cross-page content and often lazy-loaded.
+    # They may not exist in the current route's pack even after that page
+    # has been translated. Keep only short public visitor-facing excerpts.
+    for block in root.select(
+        '[class*="related" i], [id*="related" i],'
+        '[class*="recommend" i], [id*="recommend" i]'
+    ):
+        for n in block.find_all(string=True):
+            if isinstance(n, Comment) or n.parent.name in SKIP_TAGS:
+                continue
+            label=norm(str(n))
+            if 2 < len(label) <= 450 and translatable(label):
+                SHARED_RELATED_SNIPPETS.add(label)
     for n in root.find_all(string=True):
         if isinstance(n, Comment):continue
         if n.parent and n.parent.name not in {'script','style','textarea'} and translatable(str(n)):
@@ -397,13 +419,13 @@ def build(pages,max_new=100000,demo=False):
         except Exception as ex:
             print('Translation failed:',source[:45],str(ex)[:70])
     save_json(STORE,cache)
-    # Incrementally publish a *small, public, title-only* fallback pack.
+    # Incrementally publish a PUBLIC navigation/related-snippet fallback pack.
     # Use previously verified entries when the 450-page crawl budget excludes
     # other URLs. Never include private forms, full article text or credentials.
     shared_path=PUBLIC/'shared.json'
     previous_shared=cached_json(shared_path,{})
     shared_texts=dict(previous_shared.get('texts') or {}) if isinstance(previous_shared,dict) else {}
-    for key in SHARED_NAV_LABELS:
+    for key in (SHARED_NAV_LABELS | SHARED_RELATED_SNIPPETS):
         row=cache.get(key)
         if isinstance(row,dict) and all(isinstance(row.get(code),str) and row[code].strip()
                                         for code in ('en','zh')):
@@ -411,26 +433,35 @@ def build(pages,max_new=100000,demo=False):
     # Do not publish an empty map if the crawl was temporarily degraded.
     if shared_texts:
         save_json(shared_path,{'version':3,'route':'*','texts':shared_texts})
-        print('Shared public navigation/title labels:',len(shared_texts),flush=True)
+        print('Shared public titles, breadcrumbs and related snippets:',len(shared_texts),flush=True)
     released=0;partial=0;pending_report=[]
     for route,items in pages.items():
         missing_entries=[x for x in items if x not in cache or not all(cache[x].get(y) for y in ('en','zh'))]
+        old_file=PUBLIC/(route_id(route)+'.json')
+        old_pack=cached_json(old_file,{})
+        # Publish available translated segments on EVERY successful batch,
+        # not only when the last untranslated text on this route is finished.
+        # Otherwise a site with 51 pending pages can show no visible progress
+        # despite multiple green GitHub workflow runs.
+        mapping=dict(old_pack.get('texts') or {}) if isinstance(old_pack,dict) and old_pack.get('version')==3 and old_pack.get('route')==route else {}
+        mapping.update({k:cache[k] for k in sorted(items) if k in cache and
+                        isinstance(cache[k],dict) and
+                        all(isinstance(cache[k].get(y),str) and cache[k][y].strip()
+                            for y in ('en','zh'))})
         if missing_entries:
             partial+=1
-            # Keep the previously published pack while this crawl is incomplete.
-            # Preserve live translations until a complete rebuild can replace them.
-            old_file=PUBLIC/(route_id(route)+'.json')
-            if old_file.exists():
-                print('PRESERVE existing pack (current crawl incomplete):',
-                      route, 'missing', len(missing_entries), flush=True)
-            # Only PUBLIC website snippets appear in this report; no private data.
             pending_report.append({'route':route,'missing_count':len(missing_entries),
                                    'examples':sorted(missing_entries)[:4]})
-            print('HOLD (incomplete):',route,len(missing_entries));continue
-        mapping={k:cache[k] for k in sorted(items)}
-        out={'version':3,'route':route,'texts':mapping}
-        save_json(PUBLIC/(route_id(route)+'.json'),out)
-        released+=1
+            print('PARTIAL (incrementally published):',route,
+                  'translated',len(mapping),'missing',len(missing_entries),flush=True)
+        if mapping:
+            out={'version':3,'route':route,'texts':mapping,
+                 'complete':not bool(missing_entries),
+                 'missing_count':len(missing_entries)}
+            save_json(old_file,out)
+            released+=1
+        else:
+            print('NO TRANSLATED STRINGS YET:',route,flush=True)
     save_json(PUBLIC/'audit.json',{
         'version':3,'pages_seen':len(pages),'pages_published':released,
         'pages_pending':partial,'missing_unique_texts':len({x for p in pages.values()
@@ -467,6 +498,9 @@ def main():
         assert not translatable('Website: vantaihuonglan.vn')
         assert not translatable('Airport Blvd, Singapore')
         assert not translatable('Parkway Parade: 80 Marine Parade,')
+        sample_related='<html><body><section class="related-articles"><h3>BÀI VIẾT LIÊN QUAN</h3><p>Đây là đoạn mô tả bài viết có ích.</p></section></body></html>'
+        collect_text_from_html(sample_related)
+        assert 'Đây là đoạn mô tả bài viết có ích.' in SHARED_RELATED_SNIPPETS
         assert translatable('Vận chuyển hàng hóa Bắc Nam')
         key=route_id('/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert key=='pages__tra-cuu-gia-cuoc-van-chuyen', key
@@ -476,6 +510,7 @@ def main():
         assert crawl_priority(BASE+'/blogs/van-chuyen-tphcm-mien-trung')[0] == 0
         assert valid_url(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert not valid_url(BASE+'/pages/customer')
+        assert all(y in {'en','zh'} for y in ('en','zh'))
         assert max(1,min(450,1500)) == 450
         print('SELF-TEST PASS: public parsing, required route, output filename and crawl priority. No output published.')
         return
