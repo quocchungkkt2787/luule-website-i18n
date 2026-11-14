@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T18:24:13.157146+00:00",
+  "tested_at": "2026-11-14T18:43:59.961992+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 91,
-  "public_routes_pending": 845,
+  "public_routes_verified": 99,
+  "public_routes_pending": 837,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -1682,14 +1682,158 @@
         }
       }
     },
-    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-dak-nong": {},
-    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-gia-lai": {},
-    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-kon-tum": {},
-    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-lam-dong": {},
-    "/blogs/chuyen-nha-tphcm": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-binh-chanh": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-binh-tan": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-binh-thanh": {},
+    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-dak-nong": {
+      "fingerprint": "73c080594e81fc99",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:15.203116+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Note when moving Saigon - Rák Farm with detailed prices"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动西贡-Rák农场时注明详细价格"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-gia-lai": {
+      "fingerprint": "a6c72f43865e4945",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:21.491931+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Move Saigon - Lai: What Do You Need to Note?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动西贡-来:你需要注意什么?."
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-kon-tum": {
+      "fingerprint": "29bf9ecd47183a9a",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:27.272067+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[You already know] Saigon move experience - Kon Tum details"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[你已经知道] 西贡移动体验 - Kon Tum细节"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nguyen/chuyen-nha-sai-gon-lam-dong": {
+      "fingerprint": "c03085648d9e287d",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:33.272057+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Subishing Saigon Service Trust - Safety - Cheap\""
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"征服西贡服务信托——安全——便宜\"."
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm": {
+      "fingerprint": "f65a66c9beb60f55",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:40.539910+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Home move service at TpHCM [PDF packages, cheap, trusted]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM的家迁服务[PDF包,便宜,可信]"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-binh-chanh": {
+      "fingerprint": "fefa53a88e4e0f8f",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:47.837549+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The package transfer unit at the prestigious, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "名声大噪、便宜的货包传输单位"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-binh-tan": {
+      "fingerprint": "5c5b5ee5ae04cf33",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:54.203731+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The move service at the prestigious Pacific, the price is right"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在有声望的太平洋的移动服务,价格是正确的"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-binh-thanh": {
+      "fingerprint": "231c4b9026501de8",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:43:59.937284+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Home move service at Ping TD [Stat packages, cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "平定TD的家迁服务[Stat包,便宜]."
+        }
+      }
+    },
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-can-gio": {},
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-cu-chi": {},
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-go-vap": {},
@@ -2516,7 +2660,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T18:23:12.567705+00:00",
+      "checked_at": "2026-11-14T18:42:57.592616+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2536,7 +2680,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T18:23:24.400477+00:00",
+      "checked_at": "2026-11-14T18:43:09.291527+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2568,7 +2712,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T18:23:18.973989+00:00",
+      "checked_at": "2026-11-14T18:43:03.843578+00:00",
       "languages": {
         "en": {
           "ok": true,
