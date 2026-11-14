@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T19:25:09.867879+00:00",
+  "tested_at": "2026-11-14T19:46:36.069183+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 115,
-  "public_routes_pending": 821,
+  "public_routes_verified": 123,
+  "public_routes_pending": 813,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2138,14 +2138,158 @@
         }
       }
     },
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-thu-duc": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-tan-binh": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-tan-phu": {},
-    "/blogs/chuyen-van-phong": {},
-    "/blogs/chuyen-van-phong/chuyen-van-phong-ha-noi-sai-gon": {},
-    "/blogs/chuyen-van-phong/chuyen-van-phong-sai-gon-ha-noi": {},
-    "/blogs/chuyen-van-phong/dich-vu-chuyen-van-phong-tphcm": {},
-    "/blogs/gia-cuoc-xe-tai-cho-hang": {},
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-thu-duc": {
+      "fingerprint": "facc0016c43a79d5",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:45:44.441509+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Note when selecting the move service in the German Shire"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在德国郡选择移动服务时注意"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-tan-binh": {
+      "fingerprint": "920fd83776670872",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:45:51.021544+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The move-in service at New Zealand is quick, professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在新西兰的移动服务是快速的,专业的"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-tan-phu": {
+      "fingerprint": "2f24cc9304745b0b",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:45:57.574452+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Home transfer service package New Fuji District cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "新富士区廉价、有声望的家庭转移服务包"
+        }
+      }
+    },
+    "/blogs/chuyen-van-phong": {
+      "fingerprint": "fa69d85fdc48627e",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:46:05.408095+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Move full package office Process, Service & Prices"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动完整的软件包办公程序、服务及价格"
+        }
+      }
+    },
+    "/blogs/chuyen-van-phong/chuyen-van-phong-ha-noi-sai-gon": {
+      "fingerprint": "4172f338d085904b",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:46:12.749914+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Office transfer service from Hanoi to Saigon | Archived Transport"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到西贡的办公室转移服务 存档运输"
+        }
+      }
+    },
+    "/blogs/chuyen-van-phong/chuyen-van-phong-sai-gon-ha-noi": {
+      "fingerprint": "e551323f5702c288",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:46:20.210294+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Office transfer service from Saigon to Hanoi is safe, saved"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡到河内的办公室转移服务是安全的,有救的"
+        }
+      }
+    },
+    "/blogs/chuyen-van-phong/dich-vu-chuyen-van-phong-tphcm": {
+      "fingerprint": "2296bb74e62c38b2",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:46:28.124621+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The TP.HCM office transfer service complete package"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TP.HCM 办公转移服务包"
+        }
+      }
+    },
+    "/blogs/gia-cuoc-xe-tai-cho-hang": {
+      "fingerprint": "3f8c8240e4205f77",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:46:36.040480+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings for rental trucks carrying goods of cheap kinds"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率 出租货车运载廉价货"
+        }
+      }
+    },
     "/blogs/giai-phap-kinh-doanh": {},
     "/blogs/giai-phap-kinh-doanh/cam-ket-dung-tien-do": {},
     "/blogs/giai-phap-kinh-doanh/cam-ket-van-chuyen-an-toan": {},
@@ -2948,7 +3092,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T19:24:08.467259+00:00",
+      "checked_at": "2026-11-14T19:45:24.902165+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2968,7 +3112,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T19:24:22.562762+00:00",
+      "checked_at": "2026-11-14T19:45:37.883429+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3000,7 +3144,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T19:24:16.393233+00:00",
+      "checked_at": "2026-11-14T19:45:31.792721+00:00",
       "languages": {
         "en": {
           "ok": true,
