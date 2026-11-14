@@ -2,11 +2,6 @@
   "discovered_public_urls": 987,
   "inactive_redirects_or_404": [
     {
-      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
-      "reason": "redirect_alias",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
-    },
-    {
       "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin",
       "reason": "redirect_alias",
       "url": "https://vantailuule.vn/pages/chinh-sach-bao-mat"
@@ -265,14 +260,9 @@
       "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang; Browser: browser redirected to https://vantailuule.vn/",
       "reason": "not_found",
       "url": "https://vantailuule.vn/blogs/gui-hang-sg-nam-trung-bo/chuyen-hang-sai-gon-da-nang"
-    },
-    {
-      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen; Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen",
-      "reason": "redirect_alias",
-      "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
     }
   ],
-  "missing_packs_in_discovered_routes": 0,
+  "missing_packs_in_discovered_routes": 2,
   "page_budget": 1200,
   "published_pack_files_total": 933,
   "required_pages_found": [
@@ -283,7 +273,16 @@
   ],
   "required_pages_missing": [],
   "sitemap_urls": 822,
-  "skipped_or_failed": [],
+  "skipped_or_failed": [
+    {
+      "error": "HTTP: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')); Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
+    },
+    {
+      "error": "HTTP: HTTPSConnectionPool(host='vantailuule.vn', port=443): Read timed out. (read timeout=25); Browser: browser redirected to https://vantailuule.vn/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen",
+      "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
+    }
+  ],
   "successful_public_pages": 933,
   "unvisited_count": 0,
   "unvisited_examples": [],

@@ -1,11 +1,11 @@
 {
-  "crawl_failures": 0,
+  "crawl_failures": 2,
   "discovered_public_urls": 987,
   "engine": "Argos Translate (free offline open source)",
-  "generated_at": "2026-11-14T06:39:58.622306+00:00",
-  "inactive_redirects_or_404": 54,
+  "generated_at": "2026-11-14T07:03:25.831562+00:00",
+  "inactive_redirects_or_404": 52,
   "note": "Public Haravan text only; translations are machine-generated and require editorial review. Image text and external apps excluded.",
-  "pages_pending": 0,
+  "pages_pending": 2,
   "pages_published": 933,
   "pages_seen": 933,
   "published_pack_files_total": 933,
@@ -18,6 +18,6 @@
   "site": "https://vantailuule.vn",
   "site_coverage_complete": false,
   "uncrawled_public_urls": 0,
-  "unique_public_texts": 46970,
+  "unique_public_texts": 46956,
   "version": 3
 }
