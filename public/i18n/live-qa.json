@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T20:07:21.189519+00:00",
+  "tested_at": "2026-11-14T20:28:59.225562+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 131,
-  "public_routes_pending": 805,
+  "public_routes_verified": 139,
+  "public_routes_pending": 797,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2442,14 +2442,158 @@
         }
       }
     },
-    "/blogs/giai-phap-kinh-doanh/tiet-kiem-toi-da-chi-phi": {},
-    "/blogs/goc-tu-van": {},
-    "/blogs/goc-tu-van/1-van-tien-dai-loan-bang-bao-nhieu-tien-viet": {},
-    "/blogs/goc-tu-van/17-la-o-dau": {},
-    "/blogs/goc-tu-van/65-la-tinh-nao": {},
-    "/blogs/goc-tu-van/69-la-tinh-nao": {},
-    "/blogs/goc-tu-van/bang-gia-cuoc-van-chuyen-container-duong-bien": {},
-    "/blogs/goc-tu-van/bang-gia-ve-tau-hoa-sai-gon-ha-noi": {},
+    "/blogs/giai-phap-kinh-doanh/tiet-kiem-toi-da-chi-phi": {
+      "fingerprint": "bf08cf39cba6cc50",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:08.199767+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Help Clients save maximum transportation costs"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "帮助客户节省最高运输费用"
+        }
+      }
+    },
+    "/blogs/goc-tu-van": {
+      "fingerprint": "699f95c7dacc5705",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:14.649051+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Consulting Corner"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "咨询角"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/1-van-tien-dai-loan-bang-bao-nhieu-tien-viet": {
+      "fingerprint": "5b6940a6dcd2f9f0",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:21.353570+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Change: 100,000 Taiwanese money at how much money Vietnam is 2025"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "变动:100 000 2025年的台湾钱多少"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/17-la-o-dau": {
+      "fingerprint": "ca4edba8d3911103",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:28.198259+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 17 from? Complete guide to Thái Bình plates"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "17号车牌属于哪里？太平省车牌详解"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/65-la-tinh-nao": {
+      "fingerprint": "fef3bee61306adaa",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:37.011232+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which province uses licence plate code 65?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "65号车牌属于哪个省？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/69-la-tinh-nao": {
+      "fingerprint": "863aa828e5655df8",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:44.802993+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which province uses code 69? Cà Mau licence plates explained"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "69号车牌属于哪个省？金瓯省车牌详解"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bang-gia-cuoc-van-chuyen-container-duong-bien": {
+      "fingerprint": "513ad6f58e38d904",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:52.471803+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[citation] Transit shipping container | 2022"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[引 2022年过境运输集装箱"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bang-gia-ve-tau-hoa-sai-gon-ha-noi": {
+      "fingerprint": "32aee864017adfaa",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:28:59.186810+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"HEWI train ticket bid\". Newest Update 2021"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"HEWI火车票竞标\". 最新2021年更新"
+        }
+      }
+    },
     "/blogs/goc-tu-van/ben-xe-nuoc-ngam-o-dau": {},
     "/blogs/goc-tu-van/bien-35-o-dau": {},
     "/blogs/goc-tu-van/bien-ban-giao-nhan-hang-hoa-noi-bo": {},
@@ -3236,7 +3380,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:15.986787+00:00",
+      "checked_at": "2026-11-14T20:27:48.607707+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3256,7 +3400,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:28.645456+00:00",
+      "checked_at": "2026-11-14T20:28:01.701901+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3288,7 +3432,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:22.734291+00:00",
+      "checked_at": "2026-11-14T20:27:55.685572+00:00",
       "languages": {
         "en": {
           "ok": true,
