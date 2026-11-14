@@ -1,0 +1,165 @@
+{
+  "version": 3,
+  "route": "/pages/customer",
+  "complete": false,
+  "scope": "public-site-shell-only",
+  "note": "Only public header/footer copy. LL-CUSTOMER app UI has a separate local dictionary; authenticated/personal customer data is deliberately excluded.",
+  "texts": {
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "CHÍNH SÁCH": {
+      "en": "POLICIES",
+      "zh": "政策"
+    },
+    "DỊCH VỤ CUNG CẤP": {
+      "en": "OUR SERVICES",
+      "zh": "服务项目"
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "Shipping Rates",
+      "zh": "运输费率"
+    },
+    "GIỚI THIỆU": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "LIÊN HỆ": {
+      "en": "Contact Us",
+      "zh": "联系我们"
+    },
+    "QUY TRÌNH": {
+      "en": "PICKUP & DELIVERY",
+      "zh": "收发货"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "TRACK SHIPMENT",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TRUNG TÂM HƯỚNG DẪN": {
+      "en": "HELP CENTER",
+      "zh": "使用指南中心"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "VẬN CHUYỂN": {
+      "en": "THE TEST",
+      "zh": "测试"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN TẢI": {
+      "en": "TRANSPORT",
+      "zh": "运输"
+    },
+    "Vận chuyển": {
+      "en": "Freight transport",
+      "zh": "货物运输"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "Website": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "Trang chủ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "Vận chuyển hàng hóa": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN XE TẢI": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "Vận chuyển xe tải": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "DỊCH VỤ CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "Dịch vụ chuyển nhà": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "ĐĂNG NHẬP": {
+      "en": "Sign In",
+      "zh": "登录"
+    },
+    "Đăng nhập": {
+      "en": "Sign In",
+      "zh": "登录"
+    },
+    "ĐĂNG KÝ": {
+      "en": "Register",
+      "zh": "注册"
+    },
+    "Đăng ký": {
+      "en": "Register",
+      "zh": "注册"
+    },
+    "Hotline": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线："
+    },
+    "Email": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "VẬN TẢI LƯU LÊ": {
+      "en": "VẬN TẢI LƯU LÊ",
+      "zh": "VẬN TẢI LƯU LÊ"
+    },
+    "Vận Tải Lưu Lê": {
+      "en": "Vận Tải Lưu Lê",
+      "zh": "Vận Tải Lưu Lê"
+    }
+  }
+}
