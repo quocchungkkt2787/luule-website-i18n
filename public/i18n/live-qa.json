@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T19:46:36.069183+00:00",
+  "tested_at": "2026-11-14T20:07:21.189519+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 123,
-  "public_routes_pending": 813,
+  "public_routes_verified": 131,
+  "public_routes_pending": 805,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2290,14 +2290,158 @@
         }
       }
     },
-    "/blogs/giai-phap-kinh-doanh": {},
-    "/blogs/giai-phap-kinh-doanh/cam-ket-dung-tien-do": {},
-    "/blogs/giai-phap-kinh-doanh/cam-ket-van-chuyen-an-toan": {},
-    "/blogs/giai-phap-kinh-doanh/cap-nhat-tien-do": {},
-    "/blogs/giai-phap-kinh-doanh/cung-cap-9-toa-tau-va-40-xe-tai-moi-ngay": {},
-    "/blogs/giai-phap-kinh-doanh/giam-sat-chat-che": {},
-    "/blogs/giai-phap-kinh-doanh/ho-tro-24-7": {},
-    "/blogs/giai-phap-kinh-doanh/mien-phi-boc-xep": {},
+    "/blogs/giai-phap-kinh-doanh": {
+      "fingerprint": "3edc6bcb647684c1",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:06:35.086867+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Business Solution at Liu Liu for Customs"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘刘海关的商务解决方案"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/cam-ket-dung-tien-do": {
+      "fingerprint": "eb36af1cb382e22d",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:06:41.394230+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Liu Li pledges the right delivery to you"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘力答应你送好东西"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/cam-ket-van-chuyen-an-toan": {
+      "fingerprint": "8856dedd2acf8c46",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:06:47.904520+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Absolute safe transport commitment"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "绝对安全运输承诺"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/cap-nhat-tien-do": {
+      "fingerprint": "7eac808e66a84ce0",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:06:54.988861+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Liu Li always updates the delivery schedule"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘力总是更新交货时间表"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/cung-cap-9-toa-tau-va-40-xe-tai-moi-ngay": {
+      "fingerprint": "a3ee1d1b31ad479a",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:07:01.276329+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Provides nine carriages and 40 medium trucks each day"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "每天提供9辆马车和40辆中型卡车"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/giam-sat-chat-che": {
+      "fingerprint": "b36c9f48d5cee8ba",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:07:07.865184+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Watch closely throughout the shipping process"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在整个航运过程中密切注视"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/ho-tro-24-7": {
+      "fingerprint": "dc5d29976efeff29",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:07:14.361987+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Liu Liu supports consulting and taking care of customers 24/7"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘刘支持咨询 和照顾客户24/7"
+        }
+      }
+    },
+    "/blogs/giai-phap-kinh-doanh/mien-phi-boc-xep": {
+      "fingerprint": "3b91848ba261efe3",
+      "status": "pass",
+      "checked_at": "2026-11-14T20:07:21.164413+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Liu Li supports the full cost of loading at 2 North South Station"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘力支持南二北站全部装卸费用."
+        }
+      }
+    },
     "/blogs/giai-phap-kinh-doanh/tiet-kiem-toi-da-chi-phi": {},
     "/blogs/goc-tu-van": {},
     "/blogs/goc-tu-van/1-van-tien-dai-loan-bang-bao-nhieu-tien-viet": {},
@@ -3092,7 +3236,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T19:45:24.902165+00:00",
+      "checked_at": "2026-11-14T20:06:15.986787+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3112,7 +3256,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T19:45:37.883429+00:00",
+      "checked_at": "2026-11-14T20:06:28.645456+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3144,7 +3288,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T19:45:31.792721+00:00",
+      "checked_at": "2026-11-14T20:06:22.734291+00:00",
       "languages": {
         "en": {
           "ok": true,
