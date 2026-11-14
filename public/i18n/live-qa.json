@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T22:52:52.700590+00:00",
+  "tested_at": "2026-11-14T23:13:18.285242+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 195,
-  "public_routes_pending": 741,
+  "public_routes_verified": 203,
+  "public_routes_pending": 733,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3658,14 +3658,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/chuyen-phat-nhanh-mat-may-ngay": {},
-    "/blogs/goc-tu-van/chuyen-phat-thuong-mat-bao-lau": {},
-    "/blogs/goc-tu-van/cip-la-gi": {},
-    "/blogs/goc-tu-van/co-nen-gui-hang-de-vo-qua-buu-dien": {},
-    "/blogs/goc-tu-van/con-an-xa-co-quyen-bat-xe-khong": {},
-    "/blogs/goc-tu-van/cong-thuc-tinh-so-khoi-trong-van-chuyen": {},
-    "/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi": {},
-    "/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon": {},
+    "/blogs/goc-tu-van/chuyen-phat-nhanh-mat-may-ngay": {
+      "fingerprint": "be696e3b167f13fa",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:12:29.206771+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How many days does express delivery take?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "快递通常需要几天？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chuyen-phat-thuong-mat-bao-lau": {
+      "fingerprint": "6c9e4adfaffbe99d",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:12:36.243113+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long does the transmission usually take?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "传输通常需要多长时间?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cip-la-gi": {
+      "fingerprint": "9d9c885ef220ff58",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:12:43.307542+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's CICP? CICP delivery conditions in commercial contracts"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是预防犯罪中心? 商业合同中的预防犯罪中心交付条件"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/co-nen-gui-hang-de-vo-qua-buu-dien": {
+      "fingerprint": "566a62290ba35ab1",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:12:50.871845+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Is it appropriate to send broken goods through the post office?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "通过邮局发送破损货物是否合适?."
+        }
+      }
+    },
+    "/blogs/goc-tu-van/con-an-xa-co-quyen-bat-xe-khong": {
+      "fingerprint": "5c60db1db5867cdf",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:12:57.797730+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Do the police have the right to take the car? The authority of the police?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "警察有权开车吗? 警方的权威?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cong-thuc-tinh-so-khoi-trong-van-chuyen": {
+      "fingerprint": "86e9b9f6bd63fb33",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:13:04.811759+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The formula calculates the number of blocks in the most cargo transport!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "计算公式计算货运量最高的区块数!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi": {
+      "fingerprint": "ad922b645e6d6f97",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:13:11.547381+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Introduction to Hanoi Railroad Transporting Company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内铁路运输公司简介."
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon": {
+      "fingerprint": "af0c25e6e6b3db4c",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:13:18.248890+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "About: Saigon Railroad Transporting Company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "关于:西贡铁路运输公司"
+        }
+      }
+    },
     "/blogs/goc-tu-van/cont-40hc": {},
     "/blogs/goc-tu-van/cuc-canh-sat-dkql-cu-tru-va-dlqg-ve-dan-cu": {},
     "/blogs/goc-tu-van/cuoc-phi-gui-buu-dien-1kg-bao-nhieu-tien": {},
@@ -4388,7 +4532,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T22:51:41.836032+00:00",
+      "checked_at": "2026-11-14T23:12:09.300098+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4408,7 +4552,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T22:51:55.309116+00:00",
+      "checked_at": "2026-11-14T23:12:22.195812+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4440,7 +4584,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T22:51:49.308178+00:00",
+      "checked_at": "2026-11-14T23:12:16.198898+00:00",
       "languages": {
         "en": {
           "ok": true,
