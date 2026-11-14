@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T23:13:18.285242+00:00",
+  "tested_at": "2026-11-14T23:32:35.852098+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 203,
-  "public_routes_pending": 733,
+  "public_routes_verified": 211,
+  "public_routes_pending": 725,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3810,14 +3810,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/cont-40hc": {},
-    "/blogs/goc-tu-van/cuc-canh-sat-dkql-cu-tru-va-dlqg-ve-dan-cu": {},
-    "/blogs/goc-tu-van/cuoc-phi-gui-buu-dien-1kg-bao-nhieu-tien": {},
-    "/blogs/goc-tu-van/cuoc-van-chuyen-hang-hoa-bang-o-to": {},
-    "/blogs/goc-tu-van/cuoc-van-tai-hang-hoa-bang-oto": {},
-    "/blogs/goc-tu-van/danh-muc-hang-hoa-cam-luu-thong": {},
-    "/blogs/goc-tu-van/danh-sach-63-tinh-thanh-tren-ca-nuoc": {},
-    "/blogs/goc-tu-van/danh-sach-cac-cong-ty-van-tai": {},
+    "/blogs/goc-tu-van/cont-40hc": {
+      "fingerprint": "127780919e0e01e4",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:31:48.177035+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the size and weight of the 40hc?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "40克的尺寸和重量是多少?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cuc-canh-sat-dkql-cu-tru-va-dlqg-ve-dan-cu": {
+      "fingerprint": "cefd6d9891ad2b37",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:31:55.741138+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The khql Police Department resides and dlqg on residential - Citizens ID"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "khql警察局居住和居住时间----公民身份证"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cuoc-phi-gui-buu-dien-1kg-bao-nhieu-tien": {
+      "fingerprint": "c35f5d008e0ca293",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:32:02.202637+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's the deposit rate for a one kilogram deposit?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "一公斤押金的押金是多少?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cuoc-van-chuyen-hang-hoa-bang-o-to": {
+      "fingerprint": "4fd36d1e7f20fcb4",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:32:08.824682+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Car Transport Board, latest truck"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "汽车运输委员会,最新卡车"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cuoc-van-tai-hang-hoa-bang-oto": {
+      "fingerprint": "b9b2e80c15fbcb4c",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:32:15.320763+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The 2023 Newst Car Transportation Billion"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "2023年新车运亿"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/danh-muc-hang-hoa-cam-luu-thong": {
+      "fingerprint": "e2c59688cbd4d730",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:32:22.476909+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "List of goods prohibited from circulation – Know the rules to avoid violations"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "禁止流通货物清单——了解规定，避免违规"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/danh-sach-63-tinh-thanh-tren-ca-nuoc": {
+      "fingerprint": "79755112ff6edffc",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:32:28.894814+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Updated list of Vietnam's 63 provinces and cities by region"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "按地区更新的越南63个省市名单"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/danh-sach-cac-cong-ty-van-tai": {
+      "fingerprint": "a53567939e76ccce",
+      "status": "pass",
+      "checked_at": "2026-11-14T23:32:35.818593+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "List of prestigious #1 shipping companies in Vietnam"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "越南有声望的一号航运公司列表"
+        }
+      }
+    },
     "/blogs/goc-tu-van/di-chuyen-ban-tho-trong-nha": {},
     "/blogs/goc-tu-van/di-tau-tu-ha-noi-vao-hue-mat-bao-lau": {},
     "/blogs/goc-tu-van/dich-vu-van-tai-da-phuong-thuc": {},
@@ -4532,7 +4676,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:09.300098+00:00",
+      "checked_at": "2026-11-14T23:31:28.160778+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4552,7 +4696,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:22.195812+00:00",
+      "checked_at": "2026-11-14T23:31:40.996674+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4584,7 +4728,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:16.198898+00:00",
+      "checked_at": "2026-11-14T23:31:34.573153+00:00",
       "languages": {
         "en": {
           "ok": true,
