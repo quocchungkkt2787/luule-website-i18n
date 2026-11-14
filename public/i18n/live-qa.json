@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T20:49:49.197238+00:00",
+  "tested_at": "2026-11-14T21:09:39.029128+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 147,
-  "public_routes_pending": 789,
+  "public_routes_verified": 155,
+  "public_routes_pending": 781,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2746,14 +2746,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/bien-so-83-tinh-nao": {},
-    "/blogs/goc-tu-van/bien-so-xe-26-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-xe-37-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-xe-47-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-xe-59-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-xe-60-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-xe-88-o-dau": {},
-    "/blogs/goc-tu-van/bien-so-xe-89-o-dau": {},
+    "/blogs/goc-tu-van/bien-so-83-tinh-nao": {
+      "fingerprint": "a124bc150ead508b",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:08:50.834528+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which province uses licence plate code 83? Sóc Trăng plate codes"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "83号车牌属于哪个省？朔庄省车牌代码"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-26-o-dau": {
+      "fingerprint": "25a7c763db11c194",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:00.490021+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where's the license plate 26? The license plate number for Shan Li Province"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "车牌号26在哪? 山利省的车牌号"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-37-o-dau": {
+      "fingerprint": "baa8032ba6abd86a",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:07.238782+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 37 from and what is the province like?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "37号车牌属于哪里？当地有何特点？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-47-o-dau": {
+      "fingerprint": "222c05f203a0a1a5",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:13.586095+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 47 from and what is the province like?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "47号车牌属于哪里？当地有何特点？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-59-o-dau": {
+      "fingerprint": "7630d1a10dbf7e1b",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:20.515707+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 59 from and what is the province like?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "59号车牌属于哪里？当地有何特点？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-60-o-dau": {
+      "fingerprint": "8caad81e8df2d561",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:26.555476+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 60 from and what is the province like?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "60号车牌属于哪里？当地有何特点？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-88-o-dau": {
+      "fingerprint": "4426423a8a9df7f8",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:32.886630+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[FAQ] Where is licence plate code 88 from and what is the province like?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "【常见问题】88号车牌属于哪里？当地有何特点？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/bien-so-xe-89-o-dau": {
+      "fingerprint": "e42763e2f7000f1d",
+      "status": "pass",
+      "checked_at": "2026-11-14T21:09:39.001844+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is licence plate code 89 from? [Definitive guide]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "89号车牌属于哪里？【权威指南】"
+        }
+      }
+    },
     "/blogs/goc-tu-van/bien-so-xe-97-o-dau": {},
     "/blogs/goc-tu-van/bill-of-lading-mau": {},
     "/blogs/goc-tu-van/boc-xe-may-gui-xe-khach": {},
@@ -3524,7 +3668,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T20:48:41.095979+00:00",
+      "checked_at": "2026-11-14T21:08:32.727603+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3544,7 +3688,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T20:48:53.756820+00:00",
+      "checked_at": "2026-11-14T21:08:44.589048+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3576,7 +3720,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T20:48:47.805736+00:00",
+      "checked_at": "2026-11-14T21:08:39.123502+00:00",
       "languages": {
         "en": {
           "ok": true,
