@@ -1,9 +1,8 @@
 {
-  "version": 3,
-  "route": "/pages/customer",
   "complete": false,
-  "scope": "public-site-shell-only",
   "note": "Only public header/footer copy. LL-CUSTOMER app UI has a separate local dictionary; authenticated/personal customer data is deliberately excluded.",
+  "route": "/pages/customer",
+  "scope": "public-site-shell-only",
   "texts": {
     "BLOG": {
       "en": "Blog",
@@ -17,16 +16,28 @@
       "en": "POLICIES",
       "zh": "政策"
     },
+    "DỊCH VỤ CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
     "DỊCH VỤ CUNG CẤP": {
       "en": "OUR SERVICES",
       "zh": "服务项目"
+    },
+    "Dịch vụ chuyển nhà": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
     },
     "EMAIL": {
       "en": "Email",
       "zh": "电子邮箱"
     },
+    "Email": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
     "GIÁ CƯỚC VẬN CHUYỂN": {
-      "en": "Shipping Rates",
+      "en": "SHIPPING RATES",
       "zh": "运输费率"
     },
     "GIỚI THIỆU": {
@@ -36,6 +47,14 @@
     "HOTLINE": {
       "en": "Hotline",
       "zh": "服务热线"
+    },
+    "Hotline": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线："
     },
     "LIÊN HỆ": {
       "en": "Contact Us",
@@ -65,6 +84,10 @@
       "en": "Search for Singles",
       "zh": "寻找单身者"
     },
+    "Trang chủ": {
+      "en": "Home",
+      "zh": "首页"
+    },
     "Trung tâm hướng dẫn": {
       "en": "Guide Center",
       "zh": "引导中心"
@@ -81,13 +104,33 @@
       "en": "Freight Transport",
       "zh": "货物运输"
     },
+    "VẬN CHUYỂN XE TẢI": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
     "VẬN TẢI": {
       "en": "TRANSPORT",
       "zh": "运输"
     },
+    "VẬN TẢI LƯU LÊ": {
+      "en": "VẬN TẢI LƯU LÊ",
+      "zh": "VẬN TẢI LƯU LÊ"
+    },
+    "Vận Tải Lưu Lê": {
+      "en": "Vận Tải Lưu Lê",
+      "zh": "Vận Tải Lưu Lê"
+    },
     "Vận chuyển": {
       "en": "Freight transport",
       "zh": "货物运输"
+    },
+    "Vận chuyển hàng hóa": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "Vận chuyển xe tải": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
     },
     "VỀ CHÚNG TÔI": {
       "en": "About Us",
@@ -101,65 +144,22 @@
       "en": "Website",
       "zh": "网站"
     },
-    "Trang chủ": {
-      "en": "Home",
-      "zh": "首页"
-    },
-    "Vận chuyển hàng hóa": {
-      "en": "Freight Transport",
-      "zh": "货物运输"
-    },
-    "VẬN CHUYỂN XE TẢI": {
-      "en": "Truck Transport",
-      "zh": "卡车运输"
-    },
-    "Vận chuyển xe tải": {
-      "en": "Truck Transport",
-      "zh": "卡车运输"
-    },
-    "DỊCH VỤ CHUYỂN NHÀ": {
-      "en": "Moving Services",
-      "zh": "搬家服务"
-    },
-    "Dịch vụ chuyển nhà": {
-      "en": "Moving Services",
-      "zh": "搬家服务"
+    "ĐĂNG KÝ": {
+      "en": "Register",
+      "zh": "注册"
     },
     "ĐĂNG NHẬP": {
       "en": "Sign In",
       "zh": "登录"
     },
-    "Đăng nhập": {
-      "en": "Sign In",
-      "zh": "登录"
-    },
-    "ĐĂNG KÝ": {
-      "en": "Register",
-      "zh": "注册"
-    },
     "Đăng ký": {
       "en": "Register",
       "zh": "注册"
     },
-    "Hotline": {
-      "en": "Hotline",
-      "zh": "服务热线"
-    },
-    "Hotline:": {
-      "en": "Hotline:",
-      "zh": "热线："
-    },
-    "Email": {
-      "en": "Email",
-      "zh": "电子邮箱"
-    },
-    "VẬN TẢI LƯU LÊ": {
-      "en": "VẬN TẢI LƯU LÊ",
-      "zh": "VẬN TẢI LƯU LÊ"
-    },
-    "Vận Tải Lưu Lê": {
-      "en": "Vận Tải Lưu Lê",
-      "zh": "Vận Tải Lưu Lê"
+    "Đăng nhập": {
+      "en": "Sign In",
+      "zh": "登录"
     }
-  }
+  },
+  "version": 3
 }
