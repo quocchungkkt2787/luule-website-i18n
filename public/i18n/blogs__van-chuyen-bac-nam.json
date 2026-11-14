@@ -167,6 +167,10 @@
       "en": "Safety:",
       "zh": "安全性:"
     },
+    "Anh/chị cần vận chuyển loại hàng nào?": {
+      "en": "What kind of cargo do you need?",
+      "zh": "你需要什么样的货物?"
+    },
     "BLOG": {
       "en": "Blog",
       "zh": "博客"
@@ -210,6 +214,10 @@
     "Bí quyết chọn chành xe Bắc Nam uy tín, đáng tin cậy nhất": {
       "en": "The key to choosing the most prestigious, reliable North Southern cars",
       "zh": "选择最有声望、最可靠的北南车的关键"
+    },
+    "Bước 1/5 · Chọn loại hàng": {
+      "en": "Step 0% · Select Row",
+      "zh": "步骤 0% —— 选择行"
     },
     "Bạn có bao giờ thắc mắc hàng ngày có bao nhiêu tấn hàng hóa được vận chuyển từ Bắc vào Nam và ngược lại? Con số đưa ra này thực sự rất ấn tượng! Việc giao nhận hàng giữa hai đầu đất nước không chỉ đáp ứng nhu cầu tiêu dùng mà qua đây còn thúc đẩy sự phát triển về kinh tế.": {
       "en": "Have you ever wondered how many tons of cargo were transported from North to South every day? This number is really impressive! The delivery between the two heads of the country not only meets the demand for consumption but also promotes economic growth.",
@@ -502,6 +510,10 @@
     "Chọn hình thức thanh toán phù hợp với nhu cầu của bạn.": {
       "en": "Select the form of payment that suits your needs.",
       "zh": "选择适合您需要的付款形式。"
+    },
+    "Chọn một phương án:": {
+      "en": "Select one option:",
+      "zh": "选择一个选项 :"
     },
     "Chọn đơn vị vận tải": {
       "en": "Select Transport Unit",
@@ -1015,6 +1027,10 @@
       "en": "Sides:",
       "zh": "边 :"
     },
+    "Hiện": {
+      "en": "Show",
+      "zh": "显示"
+    },
     "Hotline:": {
       "en": "Hotline:",
       "zh": "热线 :"
@@ -1471,6 +1487,10 @@
       "en": "Open menu",
       "zh": "打开菜单"
     },
+    "Mở mục lục": {
+      "en": "Open Index",
+      "zh": "打开索引"
+    },
     "Mở rộng mạng lưới đại lý, chi nhánh để đáp ứng nhu cầu của khách hàng trên diện rộng.": {
       "en": "Expanding the agency network, the branch to meet the customers' needs on a wide range.",
       "zh": "扩大代理网络,分公司,满足广大客户需求."
@@ -1498,6 +1518,10 @@
     "Mở tư vấn AI": {
       "en": "Open Advisory AI",
       "zh": "开放咨询AI"
+    },
+    "Mục lục": {
+      "en": "Table of Contents",
+      "zh": "目录"
     },
     "Nghệ An": {
       "en": "Art",
@@ -2247,6 +2271,10 @@
       "en": "Freight transport",
       "zh": "货物运输"
     },
+    "Vận chuyển Bắc Nam": {
+      "en": "North South Transport",
+      "zh": "南北运输"
+    },
     "Vận chuyển hàng Bắc Nam": {
       "en": "North–South Freight Transport",
       "zh": "南北货物运输"
@@ -2374,6 +2402,10 @@
     "VỀ CHÚNG TÔI": {
       "en": "About Us",
       "zh": "关于我们"
+    },
+    "Về đầu trang": {
+      "en": "Header",
+      "zh": "页眉"
     },
     "Với đội ngũ nhân viên giàu kinh nghiệm, nhiệt tình, Lưu Lê luôn đảm bảo hàng hóa của khách hàng được vận chuyển an toàn, nhanh chóng và đúng hẹn.": {
       "en": "With the team of experienced, enthusiastic staff, Liu Liu always ensures that the customer's cargo is safely transported, quickly and on schedule.",
@@ -2943,17 +2975,65 @@
       "en": "The table details the North South Transport Service by train at Liu Li",
       "zh": "表格详细介绍刘力火车的南北交通局."
     },
+    "► Bảo hiểm hàng hóa": {
+      "en": "EDI Insurance",
+      "zh": "EDI 保险"
+    },
     "► Cam kết của Lưu Lê khi triển khai dịch vụ vận tải Bắc Nam": {
       "en": "Liu Li's commitment to launch the Northern South Transport Service",
       "zh": "刘力承诺启动北南交通局."
+    },
+    "► Chi phí vận chuyển": {
+      "en": "The Transportation Cost",
+      "zh": "运输费用"
+    },
+    "► Chọn đơn vị vận tải": {
+      "en": "Select Transport Unit",
+      "zh": "选择运输单位"
+    },
+    "► Các yếu tố khác cần cân nhắc": {
+      "en": "Other Elements to Consider",
+      "zh": "需要考虑的其他因素"
+    },
+    "► Dịch vụ hỗ trợ": {
+      "en": "Help Service",
+      "zh": "帮助服务"
+    },
+    "► Giao hàng": {
+      "en": "The delivery",
+      "zh": "交货"
     },
     "► Giới thiệu đôi nét về Vận tải Lưu Lê": {
       "en": "Introducing a glimpse of Liu Transport",
       "zh": "介绍刘运一览"
     },
+    "► Hoàn thành thủ tục": {
+      "en": "The procedure is complete",
+      "zh": "程序已经完成"
+    },
+    "► Lưu ý khác": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "► Lời khuyên hữu ích": {
+      "en": "← Good Counsel",
+      "zh": "好律师"
+    },
+    "► Mạng lưới hoạt động": {
+      "en": "Network Active",
+      "zh": "网络活动"
+    },
     "► Quy trình vận chuyển Bắc Nam chuyên nghiệp và đồng bộ": {
       "en": "The North South Professional Transport Protocol and Sync",
       "zh": "南北专业运输协议和同步"
+    },
+    "► Theo dõi hành trình": {
+      "en": "RUSSIA Tracking Journeys",
+      "zh": "俄罗斯跟踪旅程"
+    },
+    "► Thu xếp hàng hóa": {
+      "en": "Line up",
+      "zh": "排队"
     },
     "► Thách thức và cơ hội trong vận chuyển hàng hóa Bắc Nam": {
       "en": "TERRATION and opportunity in North South freight",
@@ -2963,9 +3043,57 @@
       "en": "North Nam Transport Market",
       "zh": "北南交通市场."
     },
+    "► Thời gian giao hàng": {
+      "en": "Time for delivery",
+      "zh": "交货时间"
+    },
+    "► Thủ tục giấy tờ": {
+      "en": "Paper Protocol",
+      "zh": "纸质协议"
+    },
+    "► Tiếp nhận thông tin và báo giá": {
+      "en": "Accept information and notice prices",
+      "zh": "接受信息和通知价格"
+    },
+    "► Tính chất hàng hóa": {
+      "en": "EDI Properties",
+      "zh": "EDI 属性"
+    },
+    "► Uy tín của đơn vị vận chuyển": {
+      "en": "Ulyssy of Transport Unit",
+      "zh": "运输股"
+    },
+    "► Vận chuyển": {
+      "en": "Transportation",
+      "zh": "运输"
+    },
+    "► Vận tải hàng không": {
+      "en": "Air Transport",
+      "zh": "空运"
+    },
+    "► Vận tải đường biển": {
+      "en": "\"Walter Transport\"",
+      "zh": "\"沃尔特运输\""
+    },
+    "► Vận tải đường bộ": {
+      "en": "Route transport",
+      "zh": "公路运输"
+    },
+    "► Vận tải đường sắt": {
+      "en": "Railway Transport",
+      "zh": "铁路运输"
+    },
+    "► Đóng gói hàng hóa": {
+      "en": "Packing packages",
+      "zh": "包装包"
+    },
     "► Định nghĩa": {
       "en": "Organisation",
       "zh": "日历"
+    },
+    "► Độ an toàn": {
+      "en": "Safeness",
+      "zh": "安全性"
     },
     "✓ Chốt đơn theo báo giá": {
       "en": "The form according to the price notice",
