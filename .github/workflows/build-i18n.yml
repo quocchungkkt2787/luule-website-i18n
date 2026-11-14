@@ -8,6 +8,7 @@ on:
       - 'tools/build_translations.py'
       - 'tools/apply_reviewed_translations.py'
       - 'tools/ll-i18n-reviewed-translations.json'
+      - 'tools/live_audit_i18n.py'
   workflow_dispatch:
     inputs:
       chain_depth:
@@ -28,6 +29,7 @@ permissions:
 concurrency:
   group: luule-i18n-static
   cancel-in-progress: false
+  queue: max
 
 jobs:
   build:
@@ -62,6 +64,8 @@ jobs:
           coverage = read('public/i18n/coverage.json', {})
           state = read('.ll-i18n-state.json', {})
           cache = read('translation-cache.json', {})
+          qa = read('public/i18n/live-qa.json', {})
+          live_pending = int(qa.get('public_routes_pending', 1))
           # Do not confuse "published JSON pack exists" with "all text translated".
           pending_packs = int(manifest.get('pages_pending', 1))
           partial_pages = int(audit.get('pages_pending', 0))
@@ -72,7 +76,7 @@ jobs:
           fast = (os.getenv('EVENT_NAME') == 'schedule' and
                   os.getenv('EVENT_SCHEDULE') == '47 */4 * * *')
           unfinished = any((pending_packs, partial_pages, missing_texts,
-                            uncrawled_without_pack, fetch_errors))
+                            uncrawled_without_pack, fetch_errors, live_pending))
           # Every manual/push/daily run scans for NEW pages. The 4-hour backup
           # also retries unfinished work even after a previously stalled chain.
           do_build = (not fast) or unfinished
@@ -80,7 +84,8 @@ jobs:
           print(f'Pending packs: {pending_packs}; partial pages: {partial_pages}; '
                 f'missing strings: {missing_texts}; unvisited missing packs: '
                 f'{uncrawled_without_pack}; fetch errors: {fetch_errors}; '
-                f'no-progress runs: {stalls}; expedited: {fast}; build: {do_build}')
+                f'live QA pending: {live_pending}; no-progress runs: {stalls}; '
+                f'expedited: {fast}; build: {do_build}')
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
               output.write(f'build={str(do_build).lower()}\n')
               output.write(f'before_count={len(cache) if isinstance(cache, dict) else 0}\n')
@@ -106,7 +111,9 @@ jobs:
 
       - name: Test parser
         if: steps.gate.outputs.build == 'true'
-        run: python tools/build_translations.py --self-test
+        run: |
+          python tools/build_translations.py --self-test
+          python -m py_compile tools/live_audit_i18n.py
 
       - name: Verify language switcher in simulated browser
         if: steps.gate.outputs.build == 'true'
@@ -123,7 +130,14 @@ jobs:
         if: steps.gate.outputs.build == 'true'
         run: python tools/apply_reviewed_translations.py
 
-      - name: Update progress and stop repeated no-progress batches
+      - name: Verify English and Chinese on anonymous public pages
+        if: steps.gate.outputs.build == 'true'
+        continue-on-error: true
+        env:
+          LL_QA_BATCH_SIZE: '8'
+        run: python tools/live_audit_i18n.py
+
+      - name: Update progress and measure continued live verification
         if: steps.gate.outputs.build == 'true'
         env:
           BEFORE_COUNT: ${{ steps.gate.outputs.before_count }}
@@ -149,6 +163,9 @@ jobs:
           manifest = read('public/i18n/manifest.json', {})
           audit = read('public/i18n/audit.json', {})
           coverage = read('public/i18n/coverage.json', {})
+          qa = read('public/i18n/live-qa.json', {})
+          live_pending = int(qa.get('public_routes_pending', 1))
+          live_verified = int(qa.get('public_routes_verified', 0))
           count = len(cache) if isinstance(cache, dict) else 0
           published = int(manifest.get('pages_published', 0))
           pending = int(manifest.get('pages_pending', 0))
@@ -157,14 +174,15 @@ jobs:
           total_packs = int(manifest.get('published_pack_files_total', 0))
           failures = len(coverage.get('skipped_or_failed', []))
           unvisited_missing = int(coverage.get('unvisited_without_existing_pack', 0))
-          unfinished = any((pending, partial, missing_texts, failures, unvisited_missing))
+          unfinished = any((pending, partial, missing_texts, failures, unvisited_missing, live_pending))
           progressed = (count > int(os.getenv('BEFORE_COUNT', 0)) or
                         total_packs > int(os.getenv('BEFORE_PACKS_TOTAL', 0)) or
                         pending < int(os.getenv('BEFORE_PENDING', pending)) or
                         partial < int(os.getenv('BEFORE_PARTIAL', partial)) or
-                        missing_texts < int(os.getenv('BEFORE_MISSING_TEXTS', missing_texts)))
-          # Stop only a truly stagnant *immediate chain* to avoid burning
-          # GitHub minutes forever; scheduled retries remain enabled.
+                        missing_texts < int(os.getenv('BEFORE_MISSING_TEXTS', missing_texts)) or
+                        live_verified > int(state.get('last_live_qa_verified', 0)))
+          # Keep measuring consecutive no-progress runs for diagnostics only.
+          # The next run still follows while real-site EN/ZH QA is incomplete.
           state['no_progress_runs'] = (0 if progressed or not unfinished else
               min(3, int(state.get('no_progress_runs', 0)) + 1))
           state['last_cache_entries'] = count
@@ -173,11 +191,14 @@ jobs:
           state['last_partial_pages'] = partial
           state['last_missing_texts'] = missing_texts
           state['last_progressed'] = bool(progressed)
+          state['last_live_qa_verified'] = live_verified
+          state['last_live_qa_pending'] = live_pending
           state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n',
                                 encoding='utf-8')
           print(f'Cache: {count}; published packs: {total_packs}; pending packs: {pending}; '
                 f'partial pages: {partial}; missing texts: {missing_texts}; '
                 f'unvisited without pack: {unvisited_missing}; failures: {failures}; '
+                f'live verified: {live_verified}; live pending: {live_pending}; '
                 f'progress: {progressed}; stalled runs: {state["no_progress_runs"]}')
           PY
 
@@ -197,11 +218,15 @@ jobs:
           manifest = read('public/i18n/manifest.json')
           coverage = read('public/i18n/coverage.json')
           audit = read('public/i18n/audit.json')
+          live_qa = read('public/i18n/live-qa.json')
           pending = audit.get('pending_pages') or []
           failed = coverage.get('skipped_or_failed') or []
           unvisited = coverage.get('unvisited_examples') or []
           print('---- PUBLIC TRANSLATION BACKLOG DIAGNOSTICS ----')
           print('Pages pending:', manifest.get('pages_pending', 'n/a'))
+          print('Live EN/ZH verified:',live_qa.get('public_routes_verified',0),'/',
+                live_qa.get('public_routes_total','unknown'))
+          print('Live QA failures:',live_qa.get('failed_examples',[])[:10])
           print('Pages beyond crawl budget:', coverage.get('unvisited_count', 'n/a'))
           print('Pages lacking a pack beyond crawl budget:', coverage.get('unvisited_without_existing_pack', 'n/a'))
           print('Fetch failures:', len(failed))
@@ -219,6 +244,7 @@ jobs:
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
               out.write('### Translation backlog diagnostic\n\n')
               out.write(f'- Pending packs: {manifest.get("pages_pending", "n/a")}\n')
+              out.write(f'- EN/ZH live pages verified: {live_qa.get("public_routes_verified",0)} / {live_qa.get("public_routes_total","unknown")}\n')
               out.write(f'- Unvisited URLs: {coverage.get("unvisited_count", "n/a")}\n')
               out.write(f'- Unvisited without a pack: {coverage.get("unvisited_without_existing_pack", "n/a")}\n')
               out.write(f'- Fetch errors: {len(failed)}\n')
@@ -293,6 +319,9 @@ jobs:
           audit = load('public/i18n/audit.json')
           coverage = load('public/i18n/coverage.json')
           state = load('.ll-i18n-state.json')
+          qa = load('public/i18n/live-qa.json')
+          live_pending = int(qa.get('public_routes_pending', 1))
+          live_verified = int(qa.get('public_routes_verified', 0))
           pending = int(manifest.get('pages_pending', 0))
           partial = int(audit.get('pages_pending', 0))
           missing_texts = int(audit.get('missing_unique_texts', 0))
@@ -304,7 +333,7 @@ jobs:
               depth = max(0, int(os.getenv('CHAIN_DEPTH', '0')))
           except ValueError:
               depth = 0
-          unfinished = any((pending, partial, missing_texts, unvisited_missing, failures))
+          unfinished = any((pending, partial, missing_texts, unvisited_missing, failures, live_pending))
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
               out.write('### Luu Le translation coverage and continuation\n\n')
               out.write(f'- Pending JSON packs: {pending}\n')
@@ -314,27 +343,24 @@ jobs:
               out.write(f'- Failed page fetches needing retry: {failures}\n')
               out.write(f'- Redirected/deleted legacy URL aliases: {len(coverage.get("inactive_redirects_or_404", []))}\n')
               out.write(f'- No-progress runs: {stalls}\n')
+              out.write(f'- EN/ZH live verified: {live_verified}; live pending: {live_pending}\n')
               out.write(f'- Chain index: {depth} (no fixed batch limit)\n')
 
-          # A real commit conflict must be rebuilt from the latest main.
-          # Continue while ANY known backlog exists; having a JSON pack is NOT
-          # sufficient if audit.json still shows untranslated text.
-          # When three identical runs produce no progress, stop the *immediate*
-          # chain and let the 4-hour retry/daily content discovery check again.
-          # This avoids infinite billed/limited retries on a persistent error.
+          # The 933/933 static JSON-pack count is NOT proof of full
+          # website translation. Continue one queued batch at a time until
+          # BOTH static coverage and rolling anonymous EN/ZH live checks pass.
+          # Stagnation is reported but is not a silent termination condition.
           if conflict:
               reason = 'Conflicting generated JSON; rebuild from fresh main'
           elif not unfinished:
-              print('All discovered pages, including partial text, are covered. '
-                    'Scheduled daily scan remains active for new articles.')
-              reason = None
-          elif stalls >= 3:
-              print('::warning::Translation backlog remains, but 3 consecutive '
-                    'runs made no progress. Check audit.json and coverage.json. '
-                    'Automatic 4-hour retries and daily discovery remain active.')
+              print('Static packs and currently discovered anonymous public '
+                    'routes passed EN/ZH checks. Daily discovery stays active.')
               reason = None
           else:
-              reason = 'Untranslated public content remains'
+              if stalls >= 3:
+                  print('::warning::Repeated no-progress runs; inspect live-qa.json '
+                        'and unblock source-data, CDN or browser errors.')
+              reason = 'Unverified public EN/ZH page content remains'
 
           if reason:
               repo = os.environ['GITHUB_REPOSITORY']
