@@ -217,6 +217,12 @@ def collect_text_from_html(content, route=None):
     for q in root.select(SKIP_SELECTOR):q.decompose()
     for q in root.find_all(SKIP_TAGS):q.decompose()
     strings=set()
+    # Haravan SEO <title> lives in <head>, not the body walker. Capture it
+    # as PUBLIC copy so each per-route JSON pack can translate the browser tab
+    # without changing canonical tags, HTML layout or search-engine metadata.
+    browser_title=norm(soup.title.get_text(' ',strip=True)) if soup.title else ''
+    if browser_title and translatable(browser_title):
+        strings.add(browser_title)
     # A page's breadcrumb often contains titles from *other* URLs. Build an
     # incremental navigation pack so any page can translate these labels.
     for item in root.select(
@@ -586,6 +592,9 @@ def main():
         sample='<html><body><div id="wrapper"><nav>Trang chủ</nav><h1>Vận chuyển hàng hóa Bắc Nam</h1><p>Chúng tôi vận chuyển hàng hóa bằng đường sắt và đường bộ.</p><input placeholder="Nhập mã vận đơn"/><script>doNotRead()</script></div></body></html>'
         texts,_=collect_text_from_html(sample)
         assert 'Trang chủ' in texts and 'Nhập mã vận đơn' in texts
+        seo='<html><head><title>Vận Tải Lưu Lê - Đơn vị vận chuyển hàng hóa Bắc Nam</title></head><body><p>Trang chủ</p></body></html>'
+        seo_texts,_=collect_text_from_html(seo,route='/')
+        assert 'Vận Tải Lưu Lê - Đơn vị vận chuyển hàng hóa Bắc Nam' in seo_texts
         assert 'doNotRead()' not in texts
         assert not translatable('/blogs/goc-tu-van/bien-so-56-o-dau')
         assert not translatable('Website: vantaibacnamgiare.com')
