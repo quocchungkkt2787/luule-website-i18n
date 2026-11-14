@@ -1,6 +1,6 @@
 {
   "complete": false,
-  "note": "Only public header/footer copy. LL-CUSTOMER app UI has a separate local dictionary; authenticated/personal customer data is deliberately excluded.",
+  "note": "Only public site shell/menu/hover labels. Customer account fields and user data excluded; app uses its own local translations. Source menu labels were reviewed against published navigation.",
   "route": "/pages/customer",
   "scope": "public-site-shell-only",
   "texts": {
@@ -13,7 +13,7 @@
       "zh": "运费价格表"
     },
     "CHÍNH SÁCH": {
-      "en": "POLICIES",
+      "en": "Policies",
       "zh": "政策"
     },
     "DỊCH VỤ CHUYỂN NHÀ": {
@@ -41,8 +41,8 @@
       "zh": "运输费率"
     },
     "GIỚI THIỆU": {
-      "en": "About Us",
-      "zh": "关于我们"
+      "en": "Introduction",
+      "zh": "公司介绍"
     },
     "HOTLINE": {
       "en": "Hotline",
@@ -65,11 +65,11 @@
       "zh": "收发货"
     },
     "TRA CỨU GIÁ CƯỚC": {
-      "en": "CENTRAL",
-      "zh": "中央"
+      "en": "Check Freight Rates",
+      "zh": "查询运费"
     },
     "TRA CỨU VẬN ĐƠN": {
-      "en": "TRACK SHIPMENT",
+      "en": "Track Shipment",
       "zh": "查询运单"
     },
     "TRANG CHỦ": {
@@ -77,8 +77,8 @@
       "zh": "首页"
     },
     "TRUNG TÂM HƯỚNG DẪN": {
-      "en": "HELP CENTER",
-      "zh": "使用指南中心"
+      "en": "Help Center",
+      "zh": "帮助中心"
     },
     "Tra cứu vận đơn": {
       "en": "Search for Singles",
@@ -159,6 +159,610 @@
     "Đăng nhập": {
       "en": "Sign In",
       "zh": "登录"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "Full-Service Moving",
+      "zh": "一站式搬家服务"
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "North–South Freight Transport",
+      "zh": "南北货物运输"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM ĐI HÀ NỘI": {
+      "en": "Freight from Ho Chi Minh City to Hanoi",
+      "zh": "胡志明市至河内货物运输"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM ĐI TỈNH": {
+      "en": "Freight from Ho Chi Minh City to Other Provinces",
+      "zh": "胡志明市发往各省货运"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "Ho Chi Minh City → Northern Vietnam",
+      "zh": "胡志明市 → 越南北部"
+    },
+    "Vận chuyển hàng TPHCM → Đông Bắc Bộ": {
+      "en": "Ho Chi Minh City → Northeast Vietnam",
+      "zh": "胡志明市 → 越南东北部"
+    },
+    "Vận chuyển hàng TPHCM → Tây Bắc Bộ": {
+      "en": "Ho Chi Minh City → Northwest Vietnam",
+      "zh": "胡志明市 → 越南西北部"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "Ho Chi Minh City → Central Vietnam",
+      "zh": "胡志明市 → 越南中部"
+    },
+    "Vận chuyển hàng TPHCM → Nam Trung Bộ": {
+      "en": "Ho Chi Minh City → South Central Vietnam",
+      "zh": "胡志明市 → 越南中南部"
+    },
+    "Vận chuyển hàng TPHCM → Bắc Trung Bộ": {
+      "en": "Ho Chi Minh City → North Central Vietnam",
+      "zh": "胡志明市 → 越南中北部"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "Ho Chi Minh City → Central Highlands",
+      "zh": "胡志明市 → 越南西原地区"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "Southern → Central Vietnam Freight",
+      "zh": "越南南部 → 中部货运"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "Southern → Northern Vietnam Freight",
+      "zh": "越南南部 → 北部货运"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "Binh Duong → Northern Vietnam Freight",
+      "zh": "平阳 → 越南北部货运"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Dong Nai → Northern Vietnam Freight",
+      "zh": "同奈 → 越南北部货运"
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Vung Tau → Northern Vietnam Freight",
+      "zh": "头顿 → 越南北部货运"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Tay Ninh → Northern Vietnam Freight",
+      "zh": "西宁 → 越南北部货运"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "Binh Phuoc → Northern Vietnam Freight",
+      "zh": "平福 → 越南北部货运"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Long An → Northern Vietnam Freight",
+      "zh": "隆安 → 越南北部货运"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI ĐI TPHCM": {
+      "en": "Freight from Hanoi to Ho Chi Minh City",
+      "zh": "河内至胡志明市货物运输"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI ĐI TỈNH": {
+      "en": "Freight from Hanoi to Other Provinces",
+      "zh": "河内发往各省货运"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Hanoi → Southeast Vietnam",
+      "zh": "河内 → 越南东南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Hanoi → Southwest Vietnam",
+      "zh": "河内 → 越南西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Hanoi → Central Highlands",
+      "zh": "河内 → 越南西原地区"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "Northern → Southern Vietnam Freight",
+      "zh": "越南北部 → 南部货运"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Bac Ninh → Southern Vietnam Freight",
+      "zh": "北宁 → 越南南部货运"
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Bac Giang → Southern Vietnam Freight",
+      "zh": "北江 → 越南南部货运"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "Vinh Phuc → Southern Vietnam Freight",
+      "zh": "永福 → 越南南部货运"
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Phu Tho → Southern Vietnam Freight",
+      "zh": "富寿 → 越南南部货运"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Thai Nguyen → Southern Vietnam Freight",
+      "zh": "太原 → 越南南部货运"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Ha Nam → Southern Vietnam Freight",
+      "zh": "河南 → 越南南部货运"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "Ninh Binh → Southern Vietnam Freight",
+      "zh": "宁平 → 越南南部货运"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Hai Duong → Southern Vietnam Freight",
+      "zh": "海阳 → 越南南部货运"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Hung Yen → Southern Vietnam Freight",
+      "zh": "兴安 → 越南南部货运"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Nam Dinh → Southern Vietnam Freight",
+      "zh": "南定 → 越南南部货运"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Hai Phong → Southern Vietnam Freight",
+      "zh": "海防 → 越南南部货运"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Quang Ninh → Southern Vietnam Freight",
+      "zh": "广宁 → 越南南部货运"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "Interprovincial Freight Transport",
+      "zh": "跨省货物运输"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "Domestic Freight Transport",
+      "zh": "国内货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "Logistics Transport",
+      "zh": "物流运输"
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "Truck Transport in Ho Chi Minh City",
+      "zh": "胡志明市货车运输"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "Interprovincial Truck Transport",
+      "zh": "跨省货车运输"
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "North–South Truck Transport",
+      "zh": "南北货车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "Truck Transport in Binh Duong",
+      "zh": "平阳货车运输"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "Truck Transport in Dong Nai",
+      "zh": "同奈货车运输"
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "Small Truck Transport",
+      "zh": "小型货车运输"
+    },
+    "CHUYỂN NHÀ BẮC NAM": {
+      "en": "North–South Moving",
+      "zh": "南北搬家服务"
+    },
+    "CHUYỂN NHÀ TPHCM": {
+      "en": "Moving Services in Ho Chi Minh City",
+      "zh": "胡志明市搬家服务"
+    },
+    "CHUYỂN NHÀ ĐI TỈNH": {
+      "en": "Interprovincial Moving",
+      "zh": "跨省搬家"
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Moving from Saigon to Northern Vietnam",
+      "zh": "从西贡搬家至越南北部"
+    },
+    "Chuyển nhà Hà Nội → Miền Nam": {
+      "en": "Moving from Hanoi to Southern Vietnam",
+      "zh": "从河内搬家至越南南部"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Moving from Saigon to Central Vietnam",
+      "zh": "从西贡搬家至越南中部"
+    },
+    "Chuyển nhà Sài Gòn → Đông Nam Bộ": {
+      "en": "Moving from Saigon to Southeast Vietnam",
+      "zh": "从西贡搬家至越南东南部"
+    },
+    "Chuyển nhà Sài Gòn → Tây Nam Bộ": {
+      "en": "Moving from Saigon to Southwest Vietnam",
+      "zh": "从西贡搬家至越南西南部"
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Moving from Saigon to Central Highlands",
+      "zh": "从西贡搬家至越南西原地区"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "Office Relocation",
+      "zh": "办公室搬迁"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Office Relocation from Saigon to Hanoi",
+      "zh": "从西贡搬迁办公室至河内"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Office Relocation from Hanoi to Saigon",
+      "zh": "从河内搬迁办公室至西贡"
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "Warehouse & Factory Relocation",
+      "zh": "仓库与工厂搬迁"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Warehouse & Factory Relocation from Saigon to Hanoi",
+      "zh": "从西贡搬迁仓库及工厂至河内"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Warehouse & Factory Relocation from Hanoi to Saigon",
+      "zh": "从河内搬迁仓库及工厂至西贡"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "North–South Freight Rates",
+      "zh": "南北货运价格表"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "Saigon–Hanoi Freight Rates",
+      "zh": "西贡至河内运价表"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "Hanoi–Saigon Freight Rates",
+      "zh": "河内至西贡运价表"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "Truck Freight Rates",
+      "zh": "货车运输价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "Full-Service Moving Rates",
+      "zh": "一站式搬家价格表"
+    },
+    "TRUNG TÂM": {
+      "en": "Help Center",
+      "zh": "帮助中心"
+    },
+    "TRA CỨU GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "Freight Rate Lookup",
+      "zh": "运费查询"
+    },
+    "Tra cước vận chuyển": {
+      "en": "Freight Rate Lookup",
+      "zh": "运费查询"
+    },
+    "TRA CƯỚC VẬN CHUYỂN": {
+      "en": "FREIGHT RATE LOOKUP",
+      "zh": "运费查询"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "Advice & Guides",
+      "zh": "咨询与指南"
+    },
+    "GIẢI PHÁP": {
+      "en": "Solutions",
+      "zh": "解决方案"
+    },
+    "BÁO CHÍ": {
+      "en": "Press",
+      "zh": "媒体报道"
+    },
+    "THÔNG BÁO": {
+      "en": "Announcements",
+      "zh": "公告"
+    },
+    "HÌNH ẢNH": {
+      "en": "Photo Gallery",
+      "zh": "图片库"
+    },
+    "TUYỂN DỤNG": {
+      "en": "Careers",
+      "zh": "招聘"
+    },
+    "VIDEOS": {
+      "en": "Videos",
+      "zh": "视频"
+    },
+    "Góc tư vấn": {
+      "en": "Advice & Guides",
+      "zh": "咨询与指南"
+    },
+    "Chính sách": {
+      "en": "Policies",
+      "zh": "政策"
+    },
+    "Giải pháp": {
+      "en": "Solutions",
+      "zh": "解决方案"
+    },
+    "Báo chí": {
+      "en": "Press",
+      "zh": "媒体报道"
+    },
+    "Thông báo": {
+      "en": "Announcements",
+      "zh": "公告"
+    },
+    "Hình ảnh": {
+      "en": "Photo Gallery",
+      "zh": "图片库"
+    },
+    "Tuyển dụng": {
+      "en": "Careers",
+      "zh": "招聘"
+    },
+    "TRUNG TÂM HƯỚNG DẪN SỬ DỤNG": {
+      "en": "User Guide Center",
+      "zh": "用户指南中心"
+    },
+    "Đăng ký tài khoản": {
+      "en": "Create Account",
+      "zh": "注册账户"
+    },
+    "Đăng nhập tài khoản": {
+      "en": "Sign In",
+      "zh": "登录"
+    },
+    "Đăng xuất": {
+      "en": "Sign Out",
+      "zh": "退出登录"
+    },
+    "Tính cước nhanh": {
+      "en": "Quick Rate Calculator",
+      "zh": "快速运费计算"
+    },
+    "Xem bảng giá": {
+      "en": "View Rates",
+      "zh": "查看运价"
+    },
+    "Liên hệ tư vấn": {
+      "en": "Contact for Consultation",
+      "zh": "联系咨询"
+    },
+    "Thay đổi ngôn ngữ": {
+      "en": "Change Language",
+      "zh": "切换语言"
+    },
+    "Xem thông báo": {
+      "en": "View Notifications",
+      "zh": "查看通知"
+    },
+    "Hỗ trợ": {
+      "en": "Support",
+      "zh": "客服支持"
+    },
+    "Hỗ trợ:": {
+      "en": "Support:",
+      "zh": "客服支持："
+    },
+    "© Vận Tải Lưu Lê · Dịch vụ vận chuyển hàng hóa toàn quốc": {
+      "en": "© Vận Tải Lưu Lê · Nationwide Freight Transport",
+      "zh": "© Vận Tải Lưu Lê · 越南全国货运服务"
+    },
+    "Cổng khách hàng trực tuyến | Vận Tải Lưu Lê": {
+      "en": "Customer Portal | Vận Tải Lưu Lê",
+      "zh": "客户中心 | Vận Tải Lưu Lê"
+    },
+    "Cổng khách hàng trực tuyến - Vận Tải Lưu Lê": {
+      "en": "Customer Portal | Vận Tải Lưu Lê",
+      "zh": "客户中心 | Vận Tải Lưu Lê"
+    },
+    "Trang Chủ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "Vận Chuyển Hàng Hóa": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "Xe Tải Chở Hàng": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "Chuyển Nhà Trọn Gói": {
+      "en": "Full-Service Moving",
+      "zh": "一站式搬家服务"
+    },
+    "Bảng Giá": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "Blog": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Tài Khoản": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Về Chúng Tôi": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "Giới Thiệu": {
+      "en": "Introduction",
+      "zh": "公司介绍"
+    },
+    "Đăng Ký": {
+      "en": "Register",
+      "zh": "注册"
+    },
+    "Liên Hệ": {
+      "en": "Contact Us",
+      "zh": "联系我们"
+    },
+    "Vận Chuyển Hàng Bắc Nam": {
+      "en": "North–South Freight Transport",
+      "zh": "南北货物运输"
+    },
+    "Vận Chuyển Hàng Tphcm Đi Hà Nội": {
+      "en": "Freight from Ho Chi Minh City to Hanoi",
+      "zh": "胡志明市至河内货物运输"
+    },
+    "Vận Chuyển Hàng Từ Tphcm Đi Tỉnh": {
+      "en": "Freight from Ho Chi Minh City to Other Provinces",
+      "zh": "胡志明市发往各省货运"
+    },
+    "Vận Chuyển Hàng Miền Nam → Trung": {
+      "en": "Southern → Central Vietnam Freight",
+      "zh": "越南南部 → 中部货运"
+    },
+    "Vận Chuyển Hàng Miền Nam → Bắc": {
+      "en": "Southern → Northern Vietnam Freight",
+      "zh": "越南南部 → 北部货运"
+    },
+    "Vận Chuyển Hàng Hà Nội Đi Tphcm": {
+      "en": "Freight from Hanoi to Ho Chi Minh City",
+      "zh": "河内至胡志明市货物运输"
+    },
+    "Vận Chuyển Hàng Hà Nội Đi Tỉnh": {
+      "en": "Freight from Hanoi to Other Provinces",
+      "zh": "河内发往各省货运"
+    },
+    "Vận Chuyển Hàng Miền Bắc → Nam": {
+      "en": "Northern → Southern Vietnam Freight",
+      "zh": "越南北部 → 南部货运"
+    },
+    "Vận Chuyển Hàng Liên Tỉnh": {
+      "en": "Interprovincial Freight Transport",
+      "zh": "跨省货物运输"
+    },
+    "Vận Chuyển Hàng Nội Địa": {
+      "en": "Domestic Freight Transport",
+      "zh": "国内货物运输"
+    },
+    "Vận Chuyển Hàng Logistics": {
+      "en": "Logistics Transport",
+      "zh": "物流运输"
+    },
+    "Xe Tải Chở Hàng Tphcm": {
+      "en": "Truck Transport in Ho Chi Minh City",
+      "zh": "胡志明市货车运输"
+    },
+    "Xe Tải Chở Hàng Đi Tỉnh": {
+      "en": "Interprovincial Truck Transport",
+      "zh": "跨省货车运输"
+    },
+    "Xe Tải Chở Hàng Bắc Nam": {
+      "en": "North–South Truck Transport",
+      "zh": "南北货车运输"
+    },
+    "Xe Tải Chở Hàng Bình Dương": {
+      "en": "Truck Transport in Binh Duong",
+      "zh": "平阳货车运输"
+    },
+    "Xe Tải Chở Hàng Đồng Nai": {
+      "en": "Truck Transport in Dong Nai",
+      "zh": "同奈货车运输"
+    },
+    "Xe Tải Nhỏ Chở Hàng": {
+      "en": "Small Truck Transport",
+      "zh": "小型货车运输"
+    },
+    "Chuyển Nhà Bắc Nam": {
+      "en": "North–South Moving",
+      "zh": "南北搬家服务"
+    },
+    "Chuyển Nhà Tphcm": {
+      "en": "Moving Services in Ho Chi Minh City",
+      "zh": "胡志明市搬家服务"
+    },
+    "Chuyển Nhà Đi Tỉnh": {
+      "en": "Interprovincial Moving",
+      "zh": "跨省搬家"
+    },
+    "Chuyển Văn Phòng": {
+      "en": "Office Relocation",
+      "zh": "办公室搬迁"
+    },
+    "Chuyển Kho Xưởng": {
+      "en": "Warehouse & Factory Relocation",
+      "zh": "仓库与工厂搬迁"
+    },
+    "Bảng Giá Vận Chuyển Bắc Nam": {
+      "en": "North–South Freight Rates",
+      "zh": "南北货运价格表"
+    },
+    "Bảng Giá Vận Chuyển Sài Gòn Hà Nội": {
+      "en": "Saigon–Hanoi Freight Rates",
+      "zh": "西贡至河内运价表"
+    },
+    "Bảng Giá Vận Chuyển Hà Nội Sài Gòn": {
+      "en": "Hanoi–Saigon Freight Rates",
+      "zh": "河内至西贡运价表"
+    },
+    "Bảng Giá Xe Tải Chở Hàng": {
+      "en": "Truck Freight Rates",
+      "zh": "货车运输价格表"
+    },
+    "Bảng Giá Chuyển Nhà Trọn Gói": {
+      "en": "Full-Service Moving Rates",
+      "zh": "一站式搬家价格表"
+    },
+    "Trung Tâm Hướng Dẫn": {
+      "en": "Help Center",
+      "zh": "帮助中心"
+    },
+    "Tra Cứu Vận Đơn": {
+      "en": "Track Shipment",
+      "zh": "查询运单"
+    },
+    "Tra Cứu Giá Cước": {
+      "en": "Check Freight Rates",
+      "zh": "查询运费"
+    },
+    "Tra Cứu Giá Cước Vận Chuyển": {
+      "en": "Freight Rate Lookup",
+      "zh": "运费查询"
+    },
+    "Tra Cước Vận Chuyển": {
+      "en": "FREIGHT RATE LOOKUP",
+      "zh": "运费查询"
+    },
+    "Góc Tư Vấn": {
+      "en": "Advice & Guides",
+      "zh": "咨询与指南"
+    },
+    "Chính Sách": {
+      "en": "Policies",
+      "zh": "政策"
+    },
+    "Giải Pháp": {
+      "en": "Solutions",
+      "zh": "解决方案"
+    },
+    "Báo Chí": {
+      "en": "Press",
+      "zh": "媒体报道"
+    },
+    "Thông Báo": {
+      "en": "Announcements",
+      "zh": "公告"
+    },
+    "Hình Ảnh": {
+      "en": "Photo Gallery",
+      "zh": "图片库"
+    },
+    "Tuyển Dụng": {
+      "en": "Careers",
+      "zh": "招聘"
+    },
+    "Videos": {
+      "en": "Videos",
+      "zh": "视频"
+    },
+    "Trung Tâm Hướng Dẫn Sử Dụng": {
+      "en": "User Guide Center",
+      "zh": "用户指南中心"
     }
   },
   "version": 3
