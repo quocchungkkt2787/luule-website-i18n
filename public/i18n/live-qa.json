@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T21:51:53.980423+00:00",
+  "tested_at": "2026-11-14T22:11:25.200278+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 171,
-  "public_routes_pending": 765,
+  "public_routes_verified": 179,
+  "public_routes_pending": 757,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3202,14 +3202,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/cach-gui-hang-buu-dien-thu-ho": {},
-    "/blogs/goc-tu-van/cach-mua-ve-tau-qua-mang": {},
-    "/blogs/goc-tu-van/cach-nhap-hang-tu-han-quoc-ve-viet-nam": {},
-    "/blogs/goc-tu-van/cach-sap-xep-va-quan-ly-hang-hoa-trong-kho-hieu-qua": {},
-    "/blogs/goc-tu-van/cach-ship-hang-di-tinh": {},
-    "/blogs/goc-tu-van/cach-tim-dia-chi-buu-cuc-giao-hang-nhanh-ha-noi": {},
-    "/blogs/goc-tu-van/cach-tim-ten-chu-xe-qua-bien-so": {},
-    "/blogs/goc-tu-van/cach-tinh-cac-loai-thue-phi-khi-gui-hang-tu-nuoc-ngoai-ve-vn": {},
+    "/blogs/goc-tu-van/cach-gui-hang-buu-dien-thu-ho": {
+      "fingerprint": "3102ecefd8c7b447",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:10:36.455254+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The way to mail through the post office collects the money for [Details]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "邮局的邮递方式收钱[详]"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-mua-ve-tau-qua-mang": {
+      "fingerprint": "f504730e146488f6",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:10:43.061588+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How to buy train tickets online: A beginner's guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "新手网上购买火车票指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-nhap-hang-tu-han-quoc-ve-viet-nam": {
+      "fingerprint": "d06077a4361b43ca",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:10:49.885745+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The way to import goods from Korea to Vietnam"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从韩国向越南进口货物的方式"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-sap-xep-va-quan-ly-hang-hoa-trong-kho-hieu-qua": {
+      "fingerprint": "9654b3abb44f8b64",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:10:56.393913+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The way to organize and manage goods in effective storage"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在有效储存中组织和管理货物的方式"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-ship-hang-di-tinh": {
+      "fingerprint": "dceae41bf8814084",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:11:03.317426+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How to ship goods between provinces quickly and efficiently"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "如何快速高效地跨省寄货"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-tim-dia-chi-buu-cuc-giao-hang-nhanh-ha-noi": {
+      "fingerprint": "263f78721932481b",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:11:09.817078+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[The Way to Find Address] The Quick Transportation Bureau of Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[寻找地址的方法] 河内快速运输局"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-tim-ten-chu-xe-qua-bien-so": {
+      "fingerprint": "2539ac67619febbf",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:11:18.706539+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[The experience] How to find the owner of the car through the license plate not everyone knows"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[经验] 如何通过车牌找到车主?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-tinh-cac-loai-thue-phi-khi-gui-hang-tu-nuoc-ngoai-ve-vn": {
+      "fingerprint": "04c43d655d1fa7a5",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:11:25.169378+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How to Comput tax types when sending items overseas about VN"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "向海外发送有关 VN 的项目时如何计算税种"
+        }
+      }
+    },
     "/blogs/goc-tu-van/cach-tinh-cuoc-van-chuyen-duong-sat": {},
     "/blogs/goc-tu-van/cach-tinh-met-khoi-thung-carton-trong-van-chuyen": {},
     "/blogs/goc-tu-van/cach-tinh-tien-nhat-ban-sang-tien-viet-nam": {},
@@ -3956,7 +4100,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T21:50:46.765053+00:00",
+      "checked_at": "2026-11-14T22:10:17.756341+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3976,7 +4120,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T21:50:59.332963+00:00",
+      "checked_at": "2026-11-14T22:10:29.830738+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4008,7 +4152,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T21:50:53.539956+00:00",
+      "checked_at": "2026-11-14T22:10:24.070788+00:00",
       "languages": {
         "en": {
           "ok": true,
