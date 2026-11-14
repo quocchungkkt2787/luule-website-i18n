@@ -111,7 +111,9 @@ jobs:
 
       - name: Test parser
         if: steps.gate.outputs.build == 'true'
-        run: python tools/build_translations.py --self-test
+        run: |
+          python tools/build_translations.py --self-test
+          python -m py_compile tools/live_audit_i18n.py
 
       - name: Verify language switcher in simulated browser
         if: steps.gate.outputs.build == 'true'
