@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T17:43:24.145223+00:00",
+  "tested_at": "2026-11-14T18:03:53.309084+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 75,
-  "public_routes_pending": 861,
+  "public_routes_verified": 83,
+  "public_routes_pending": 853,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -1378,14 +1378,158 @@
         }
       }
     },
-    "/blogs/chuyen-nha-sg-tay-nam-bo": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-an-giang": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-bac-lieu": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-ben-tre": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-ca-mau": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-can-tho": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-dong-thap": {},
-    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-hau-giang": {},
+    "/blogs/chuyen-nha-sg-tay-nam-bo": {
+      "fingerprint": "2254a2968f9a6261",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:08.467192+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Full Packing Service 01 Southwestern Ministry"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西南部01"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-an-giang": {
+      "fingerprint": "a842773dbe7f45e9",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:14.621825+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon's cheap move-off service in the day"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "白天西贡的廉价出行服务"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-bac-lieu": {
+      "fingerprint": "7dfc3dd13b0360da",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:20.794434+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division provides moving services for the Saigon - Silver and Silver package"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "该司为西贡 -- -- 银和银包裹提供移动服务。"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-ben-tre": {
+      "fingerprint": "4acbda0599aca415",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:28.129599+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon move experience Tre from A-2010 Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡移动体验 A-2010 Z的Tre"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-ca-mau": {
+      "fingerprint": "337e939d64aeb2d1",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:34.382421+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon move service - The full package, number one"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡移动服务 - 全套,第一"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-can-tho": {
+      "fingerprint": "9560d7ca15048755",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:40.399874+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Services - Professional Needs, Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡交通服务-专业需求,名人"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-dong-thap": {
+      "fingerprint": "4b36b29c63aa2c68",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:46.460585+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Important Notes When Moving the Saigon House - The Tower"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "移动西贡房屋时的重要注释 - 塔"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-hau-giang": {
+      "fingerprint": "015ad54f86ccde2b",
+      "status": "pass",
+      "checked_at": "2026-11-14T18:03:53.279576+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Services - Professional Miss Jiang, safest"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡交通服务 - 最安全的江小姐专业"
+        }
+      }
+    },
     "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-kien-giang": {},
     "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-long-an": {},
     "/blogs/chuyen-nha-sg-tay-nam-bo/chuyen-nha-sai-gon-soc-trang": {},
@@ -2228,7 +2372,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T17:42:18.137528+00:00",
+      "checked_at": "2026-11-14T18:02:49.823324+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2248,7 +2392,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T17:42:31.665678+00:00",
+      "checked_at": "2026-11-14T18:03:02.040880+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2280,7 +2424,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T17:42:25.875646+00:00",
+      "checked_at": "2026-11-14T18:02:56.287853+00:00",
       "languages": {
         "en": {
           "ok": true,
