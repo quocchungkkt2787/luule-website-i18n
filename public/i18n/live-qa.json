@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T22:11:25.200278+00:00",
+  "tested_at": "2026-11-14T22:32:10.864865+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 179,
-  "public_routes_pending": 757,
+  "public_routes_verified": 187,
+  "public_routes_pending": 749,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3354,14 +3354,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/cach-tinh-cuoc-van-chuyen-duong-sat": {},
-    "/blogs/goc-tu-van/cach-tinh-met-khoi-thung-carton-trong-van-chuyen": {},
-    "/blogs/goc-tu-van/cach-tinh-tien-nhat-ban-sang-tien-viet-nam": {},
-    "/blogs/goc-tu-van/cach-van-chuyen-cay-canh-di-xa": {},
-    "/blogs/goc-tu-van/cach-van-chuyen-hang-de-vo": {},
-    "/blogs/goc-tu-van/cach-xac-dinh-huong-dong-tay-nam-bac": {},
-    "/blogs/goc-tu-van/cang-vung-ang-thuoc-tinh-nao": {},
-    "/blogs/goc-tu-van/chanh-xe-la-gi": {},
+    "/blogs/goc-tu-van/cach-tinh-cuoc-van-chuyen-duong-sat": {
+      "fingerprint": "a6a1005fb00a47c0",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:31:19.614680+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The most standard rail transport of today!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "今天最标准的铁路运输!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-tinh-met-khoi-thung-carton-trong-van-chuyen": {
+      "fingerprint": "5bb305779e8deaeb",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:31:26.298482+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[The formula] Computation of carton barrels in shipping"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[方 运输中箱桶的计算"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-tinh-tien-nhat-ban-sang-tien-viet-nam": {
+      "fingerprint": "b15719f6ccae79f7",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:31:33.453115+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Guide Japan Billing to the latest 2022"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "日本最新2022年账单指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-van-chuyen-cay-canh-di-xa": {
+      "fingerprint": "a72e15bd1951e565",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:31:40.124999+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[Daniel leads from ADDZ] How to move the tree away safely, properly."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[丹尼尔从ADDZ领 如何安全地把树移开 正确"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-van-chuyen-hang-de-vo": {
+      "fingerprint": "2fd718a731cd4168",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:31:46.864019+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Guide to the fragile way of shipping [ Highly effective 100%]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[高度有效的100%]"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cach-xac-dinh-huong-dong-tay-nam-bac": {
+      "fingerprint": "c1a8a91c7c7a3380",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:31:54.977021+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Easy ways to determine north, south, east and west"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "轻松辨别东南西北方向的方法"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/cang-vung-ang-thuoc-tinh-nao": {
+      "fingerprint": "4d06911626e31bfa",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:32:01.711060+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which province is Vũng Áng Port in? How far is it from Hanoi and Ho Chi Minh City?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "永昂港位于哪个省？距河内和胡志明市有多远？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/chanh-xe-la-gi": {
+      "fingerprint": "7e8f14f71dad4833",
+      "status": "pass",
+      "checked_at": "2026-11-14T22:32:10.840742+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What are cars? What's the meaning of the car? How to send cars?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是汽车? 车何义. 怎么送车?"
+        }
+      }
+    },
     "/blogs/goc-tu-van/chanh-xe-to-chau": {},
     "/blogs/goc-tu-van/chi-phi-van-chuyen-hang-hoa": {},
     "/blogs/goc-tu-van/chieu-cao-xe-container-40-feet": {},
@@ -4100,7 +4244,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:17.756341+00:00",
+      "checked_at": "2026-11-14T22:31:00.098644+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4120,7 +4264,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:29.830738+00:00",
+      "checked_at": "2026-11-14T22:31:12.928391+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4152,7 +4296,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:24.070788+00:00",
+      "checked_at": "2026-11-14T22:31:06.872687+00:00",
       "languages": {
         "en": {
           "ok": true,
