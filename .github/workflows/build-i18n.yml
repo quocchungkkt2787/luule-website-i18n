@@ -17,7 +17,7 @@ on:
   schedule:
     # Daily maintenance: detect new or edited public pages.
     - cron: '17 3 * * *'
-    # Accelerated backlog processing every 4 hours, until complete or stalled.
+    # Backup retry every 4 hours while translations remain (even after stall).
     - cron: '47 */4 * * *'
 
 permissions:
@@ -57,22 +57,37 @@ jobs:
                   return default
 
           manifest = read('public/i18n/manifest.json', {})
+          audit = read('public/i18n/audit.json', {})
+          coverage = read('public/i18n/coverage.json', {})
           state = read('.ll-i18n-state.json', {})
           cache = read('translation-cache.json', {})
-          remaining = int(manifest.get('pages_pending', 1))
+          # Do not confuse "published JSON pack exists" with "all text translated".
+          pending_packs = int(manifest.get('pages_pending', 1))
+          partial_pages = int(audit.get('pages_pending', 0))
+          missing_texts = int(audit.get('missing_unique_texts', 0))
+          uncrawled_without_pack = int(coverage.get('unvisited_without_existing_pack', 0))
+          fetch_errors = len(coverage.get('skipped_or_failed', []))
           stalls = int(state.get('no_progress_runs', 0))
           fast = (os.getenv('EVENT_NAME') == 'schedule' and
                   os.getenv('EVENT_SCHEDULE') == '47 */4 * * *')
-          do_build = not (fast and (remaining == 0 or stalls >= 2))
+          unfinished = any((pending_packs, partial_pages, missing_texts,
+                            uncrawled_without_pack, fetch_errors))
+          # Every manual/push/daily run scans for NEW pages. The 4-hour backup
+          # also retries unfinished work even after a previously stalled chain.
+          do_build = (not fast) or unfinished
 
-          print(f'Pages pending: {remaining}; no-progress runs: {stalls}; '
-                f'expedited: {fast}; build: {do_build}')
+          print(f'Pending packs: {pending_packs}; partial pages: {partial_pages}; '
+                f'missing strings: {missing_texts}; unvisited missing packs: '
+                f'{uncrawled_without_pack}; fetch errors: {fetch_errors}; '
+                f'no-progress runs: {stalls}; expedited: {fast}; build: {do_build}')
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
               output.write(f'build={str(do_build).lower()}\n')
               output.write(f'before_count={len(cache) if isinstance(cache, dict) else 0}\n')
               output.write(f'before_published={int(manifest.get("pages_published", 0))}\n')
               output.write(f'before_packs_total={int(manifest.get("published_pack_files_total", 0))}\n')
-              output.write(f'before_pending={remaining}\n')
+              output.write(f'before_pending={pending_packs}\n')
+              output.write(f'before_partial={partial_pages}\n')
+              output.write(f'before_missing_texts={missing_texts}\n')
           PY
 
       - uses: actions/setup-python@v5
@@ -114,6 +129,8 @@ jobs:
           BEFORE_PUBLISHED: ${{ steps.gate.outputs.before_published }}
           BEFORE_PACKS_TOTAL: ${{ steps.gate.outputs.before_packs_total }}
           BEFORE_PENDING: ${{ steps.gate.outputs.before_pending }}
+          BEFORE_PARTIAL: ${{ steps.gate.outputs.before_partial }}
+          BEFORE_MISSING_TEXTS: ${{ steps.gate.outputs.before_missing_texts }}
         run: |
           python - <<'PY'
           import json, os
@@ -129,25 +146,38 @@ jobs:
           state = read(state_path, {})
           cache = read('translation-cache.json', {})
           manifest = read('public/i18n/manifest.json', {})
+          audit = read('public/i18n/audit.json', {})
+          coverage = read('public/i18n/coverage.json', {})
           count = len(cache) if isinstance(cache, dict) else 0
           published = int(manifest.get('pages_published', 0))
           pending = int(manifest.get('pages_pending', 0))
+          partial = int(audit.get('pages_pending', 0))
+          missing_texts = int(audit.get('missing_unique_texts', 0))
           total_packs = int(manifest.get('published_pack_files_total', 0))
-          was_pending = int(os.getenv('BEFORE_PENDING', pending))
+          failures = len(coverage.get('skipped_or_failed', []))
+          unvisited_missing = int(coverage.get('unvisited_without_existing_pack', 0))
+          unfinished = any((pending, partial, missing_texts, failures, unvisited_missing))
           progressed = (count > int(os.getenv('BEFORE_COUNT', 0)) or
                         total_packs > int(os.getenv('BEFORE_PACKS_TOTAL', 0)) or
-                        (pending < was_pending))
-          state['no_progress_runs'] = (0 if progressed or pending == 0 else
-              min(2, int(state.get('no_progress_runs', 0)) + 1))
+                        pending < int(os.getenv('BEFORE_PENDING', pending)) or
+                        partial < int(os.getenv('BEFORE_PARTIAL', partial)) or
+                        missing_texts < int(os.getenv('BEFORE_MISSING_TEXTS', missing_texts)))
+          # Stop only a truly stagnant *immediate chain* to avoid burning
+          # GitHub minutes forever; scheduled retries remain enabled.
+          state['no_progress_runs'] = (0 if progressed or not unfinished else
+              min(3, int(state.get('no_progress_runs', 0)) + 1))
           state['last_cache_entries'] = count
           state['last_pages_published'] = published
           state['last_pages_pending'] = pending
+          state['last_partial_pages'] = partial
+          state['last_missing_texts'] = missing_texts
           state['last_progressed'] = bool(progressed)
           state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n',
                                 encoding='utf-8')
-          print(f'Cache: {count}; total published packs: {total_packs}; '
-                f'pages pending: {pending}; progress: {progressed}; '
-                f'stalls: {state["no_progress_runs"]}')
+          print(f'Cache: {count}; published packs: {total_packs}; pending packs: {pending}; '
+                f'partial pages: {partial}; missing texts: {missing_texts}; '
+                f'unvisited without pack: {unvisited_missing}; failures: {failures}; '
+                f'progress: {progressed}; stalled runs: {state["no_progress_runs"]}')
           PY
 
       - name: Audit unresolved pages and why they are pending
@@ -236,22 +266,19 @@ jobs:
           exit 1
 
       - name: Automatically continue translation backlog
-        # Runs AFTER saving results on main. GITHUB_TOKEN is enough:
-        # workflow_dispatch is one of GitHub's permitted recursive events.
+        # Explicit workflow_dispatch works with GITHUB_TOKEN (unlike a push
+        # made by GITHUB_TOKEN). One queued successor at a time.
         if: steps.gate.outputs.build == 'true' && (steps.persist.outputs.result == 'published' || steps.persist.outputs.result == 'conflict')
         env:
           PERSIST_RESULT: ${{ steps.persist.outputs.result }}
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           CHAIN_DEPTH: ${{ inputs.chain_depth || '0' }}
-          MAX_CHAIN_DEPTH: '8'
         run: |
           python - <<'PY'
-          import json
-          import os
+          import json, os
           from pathlib import Path
           from urllib.request import Request, urlopen
-          from urllib.error import HTTPError
 
           def load(path):
               try:
@@ -260,62 +287,64 @@ jobs:
                   return {}
 
           manifest = load('public/i18n/manifest.json')
+          audit = load('public/i18n/audit.json')
+          coverage = load('public/i18n/coverage.json')
           state = load('.ll-i18n-state.json')
           pending = int(manifest.get('pages_pending', 0))
+          partial = int(audit.get('pages_pending', 0))
+          missing_texts = int(audit.get('missing_unique_texts', 0))
+          unvisited_missing = int(coverage.get('unvisited_without_existing_pack', 0))
+          failures = len(coverage.get('skipped_or_failed', []))
           stalls = int(state.get('no_progress_runs', 0))
+          conflict = os.getenv('PERSIST_RESULT') == 'conflict'
           try:
               depth = max(0, int(os.getenv('CHAIN_DEPTH', '0')))
           except ValueError:
               depth = 0
-          max_depth = max(1, min(12, int(os.getenv('MAX_CHAIN_DEPTH', '8'))))
-          stale_conflict = (os.getenv('PERSIST_RESULT') == 'conflict')
-
+          unfinished = any((pending, partial, missing_texts, unvisited_missing, failures))
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
-              out.write(f'### Public translation coverage\n\n'
-                        f'- Published JSON packs: {manifest.get("published_pack_files_total", "n/a")}\n'
-                        f'- Pending / missing packs: {pending}\n'
-                        f'- Runs without progress: {stalls}\n'
-                        f'- Automatic chain depth: {depth}/{max_depth}\n'
-                        f'- Publish outcome: {"CONFLICT, safe retry" if stale_conflict else "published or unchanged"}\n')
+              out.write('### Luu Le translation coverage and continuation\n\n')
+              out.write(f'- Pending JSON packs: {pending}\n')
+              out.write(f'- Incomplete translated pages: {partial}\n')
+              out.write(f'- Missing unique strings: {missing_texts}\n')
+              out.write(f'- Unvisited URLs without packs: {unvisited_missing}\n')
+              out.write(f'- Failed page fetches: {failures}\n')
+              out.write(f'- No-progress runs: {stalls}\n')
+              out.write(f'- Chain index: {depth} (no fixed batch limit)\n')
 
-          # A conflict requires a fresh run even if the obsolete local manifest
-          # reports no pending work. Read the newest main in the next batch.
-          should_dispatch = False
-          if stale_conflict:
-              if depth < max_depth:
-                  should_dispatch = True
-                  print('Remote data changed during build; retry on latest main.')
-              else:
-                  print('Safety cap reached after conflict; next scheduled check can retry.')
-          elif pending <= 0:
-              print('Coverage complete for discovered URLs; daily schedule checks new posts.')
-          elif stalls >= 2:
-              print('No progress twice. Stop chain; daily maintenance may retry.')
-          elif depth >= max_depth:
-              print('Safety cap reached. Scheduled maintenance will resume.')
+          # A real commit conflict must be rebuilt from the latest main.
+          # Continue while ANY known backlog exists; having a JSON pack is NOT
+          # sufficient if audit.json still shows untranslated text.
+          # When three identical runs produce no progress, stop the *immediate*
+          # chain and let the 4-hour retry/daily content discovery check again.
+          # This avoids infinite billed/limited retries on a persistent error.
+          if conflict:
+              reason = 'Conflicting generated JSON; rebuild from fresh main'
+          elif not unfinished:
+              print('All discovered pages, including partial text, are covered. '
+                    'Scheduled daily scan remains active for new articles.')
+              reason = None
+          elif stalls >= 3:
+              print('::warning::Translation backlog remains, but 3 consecutive '
+                    'runs made no progress. Check audit.json and coverage.json. '
+                    'Automatic 4-hour retries and daily discovery remain active.')
+              reason = None
           else:
-              should_dispatch = True
+              reason = 'Untranslated public content remains'
 
-          if should_dispatch:
-              url = (f'https://api.github.com/repos/{os.environ["GITHUB_REPOSITORY"]}'
-                     '/actions/workflows/build-i18n.yml/dispatches')
-              payload = json.dumps({
-                  'ref': 'main',
-                  'inputs': {'chain_depth': str(depth + 1)}
-              }).encode('utf-8')
-              request = Request(url, data=payload, method='POST', headers={
-                  'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'],
-                  'Accept': 'application/vnd.github+json',
-                  'X-GitHub-Api-Version': '2022-11-28',
-                  'User-Agent': 'LuuLePublicTranslationBot'
-              })
-              try:
-                  with urlopen(request, timeout=30) as response:
-                      if response.status != 204:
-                          raise RuntimeError(f'Unexpected dispatch status: {response.status}')
-                  print(f'Queued next automatic batch: {depth+1} / {max_depth}.')
-              except HTTPError as exc:
-                  print(f'::error::Auto-dispatch failed with HTTP {exc.code}. '
-                        'Check Actions workflow permissions (actions: write).')
-                  raise
+          if reason:
+              repo = os.environ['GITHUB_REPOSITORY']
+              request = Request(
+                  f'https://api.github.com/repos/{repo}/actions/workflows/build-i18n.yml/dispatches',
+                  data=json.dumps({'ref': 'main',
+                                   'inputs': {'chain_depth': str(depth+1)}}).encode('utf-8'),
+                  method='POST',
+                  headers={'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'],
+                           'Accept': 'application/vnd.github+json',
+                           'X-GitHub-Api-Version': '2022-11-28',
+                           'User-Agent': 'LuuLePublicTranslationBot'})
+              with urlopen(request, timeout=30) as response:
+                  if response.status != 204:
+                      raise RuntimeError('Unexpected dispatch status ' + str(response.status))
+              print(f'Queued next GitHub Actions batch #{depth+1}: {reason}.')
           PY
