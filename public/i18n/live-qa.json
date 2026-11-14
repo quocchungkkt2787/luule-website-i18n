@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T18:43:59.961992+00:00",
+  "tested_at": "2026-11-14T19:05:01.570828+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 99,
-  "public_routes_pending": 837,
+  "public_routes_verified": 107,
+  "public_routes_pending": 829,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -1834,14 +1834,158 @@
         }
       }
     },
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-can-gio": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-cu-chi": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-go-vap": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-hoc-mon": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-nha-be": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-phu-nhuan": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-1": {},
-    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-10": {},
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-can-gio": {
+      "fingerprint": "b47bef51dda988b4",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:17.329749+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Homelift Service at Professional Hours, Warm Support"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "专业工时家庭交通服务,温暖支助"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-cu-chi": {
+      "fingerprint": "7843df8a31183f7b",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:23.469882+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Home move service at cheap, full package, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "廉价、全套、有名的家迁服务"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-go-vap": {
+      "fingerprint": "04ae786b15f07c8f",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:29.848108+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Home move service at VHS [fast - 1250 - Effect]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "家庭交通服务[快-1250-效果]"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-hoc-mon": {
+      "fingerprint": "7d3cd03e5a425f9a",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:35.908884+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The entire package transfer service, low-cost #1"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "整个软件包传输服务, 低成本 # 1"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-nha-be": {
+      "fingerprint": "6d98db112f68b9f4",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:42.139004+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package transfer service at Celebrity House, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "名人屋的包裹传输服务,便宜"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-phu-nhuan": {
+      "fingerprint": "734ce224bfa48872",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:48.772023+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Home move service at Funkyu [United, Professional]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Funkyu的家迁服务[联合、专业]"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-1": {
+      "fingerprint": "5288e896483c331c",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:04:55.160942+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package move service in District 1 accompanied beneficial experience"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "第1区一揽子搬迁服务伴随有益的经验"
+        }
+      }
+    },
+    "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-10": {
+      "fingerprint": "9357d7280d4d3e79",
+      "status": "pass",
+      "checked_at": "2026-11-14T19:05:01.536116+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Questions were answered when moving to District 10"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在迁至第十区时回答了问题"
+        }
+      }
+    },
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-11": {},
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-12": {},
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-3": {},
@@ -2660,7 +2804,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T18:42:57.592616+00:00",
+      "checked_at": "2026-11-14T19:03:58.229769+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2680,7 +2824,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T18:43:09.291527+00:00",
+      "checked_at": "2026-11-14T19:04:11.069404+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2712,7 +2856,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T18:43:03.843578+00:00",
+      "checked_at": "2026-11-14T19:04:04.993715+00:00",
       "languages": {
         "en": {
           "ok": true,
