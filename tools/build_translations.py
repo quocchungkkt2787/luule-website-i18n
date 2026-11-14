@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build public-site translation packs for LL Haravan v3 (no private data).
+"""Build public-site translation packs for LL Haravan v3.10 (no private data).
 
 Only requests public pages and only publishes site copy. Does not access
 customer accounts, tracking records, quote data, or input values.
@@ -167,10 +167,26 @@ def get_sitemap_urls(session, max_depth=3):
     return found
 
 
-def collect_text_from_html(content):
+def collect_text_from_html(content, route=None):
     soup=BeautifulSoup(content,'html.parser')
     root=soup.body
     if not root:return set(),set()
+    # Harvest public article summaries before deleting body widgets. Haravan
+    # related cards may show meta-description or a shortened first paragraph.
+    # These are PUBLIC copy only; never include tracking/customer forms.
+    if route and route.startswith('/blogs/'):
+        for meta in soup.select('head meta[name="description"],head meta[property="og:description"]'):
+            desc=norm(meta.get('content',''))
+            if 30<=len(desc)<=1200 and translatable(desc):
+                SHARED_RELATED_SNIPPETS.add(desc)
+        article_root=root.select_one('article .article-content, article .content, '
+                                     '.article-content, .blog-article, '
+                                     '.article-body, [itemprop="articleBody"]')
+        if article_root:
+            for para in article_root.select('p')[:3]:
+                snippet=norm(para.get_text(' ',strip=True))
+                if 60<=len(snippet)<=1400 and translatable(snippet):
+                    SHARED_RELATED_SNIPPETS.add(snippet)
     for q in root.select(SKIP_SELECTOR):q.decompose()
     for q in root.find_all(SKIP_TAGS):q.decompose()
     strings=set()
@@ -208,6 +224,27 @@ def collect_text_from_html(content):
             label=norm(str(n))
             if 2 < len(label) <= 450 and translatable(label):
                 SHARED_RELATED_SNIPPETS.add(label)
+    # Templates can call their carousel "list-article", "blog-item",
+    # "owl-item" etc., rather than "related". Include visible excerpts from
+    # PUBLIC article cards identified by a blog link plus a thumbnail.
+    for card in root.select(
+        '[class*="article" i], [class*="blog" i], [class*="post" i],'
+        '[class*="news" i], [class*="owl-item" i], [class*="swiper-slide" i]'
+    ):
+        if not card.find('img'):
+            continue
+        if not card.find('a', href=lambda h: h and '/blogs/' in h):
+            continue
+        if len(norm(card.get_text(' ',strip=True)))>1000:
+            continue
+        for text in card.find_all(string=True):
+            if isinstance(text,Comment) or not text.parent or text.parent.name in SKIP_TAGS:
+                continue
+            if text.parent.name in ('a','h1','h2','h3','h4','h5','h6'):
+                continue
+            snippet=norm(str(text))
+            if 35<=len(snippet)<=500 and translatable(snippet):
+                SHARED_RELATED_SNIPPETS.add(snippet)
     for n in root.find_all(string=True):
         if isinstance(n, Comment):continue
         if n.parent and n.parent.name not in {'script','style','textarea'} and translatable(str(n)):
@@ -276,7 +313,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
                 html,final=fetch(session,url)
                 if not valid_url(final) or page_key(final)!=page_key(url):
                     raise ValueError('HTTP redirected to '+final)
-                html_texts,html_links=collect_text_from_html(html)
+                html_texts,html_links=collect_text_from_html(html,route=page_key(url))
                 if not html_texts:
                     raise ValueError('HTTP page has no readable public text')
                 texts |= html_texts
@@ -298,7 +335,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
                     if not valid_url(page.url) or page_key(page.url)!=route:
                         raise ValueError('browser redirected to '+page.url)
                     page.wait_for_timeout(1400)
-                    browser_texts,browser_links=collect_text_from_html(page.content())
+                    browser_texts,browser_links=collect_text_from_html(page.content(),route=page_key(url))
                     if not browser_texts:
                         raise ValueError('browser page has no readable public text')
                     # Do not treat bot challenges or not-found pages as copy.
@@ -381,13 +418,29 @@ def init_argos():
 def build(pages,max_new=100000,demo=False):
     cache=cached_json(STORE,{})
     if not isinstance(cache,dict):cache={}
-    missing_set={s for group in pages.values() for s in group if s not in cache or not all(cache[s].get(k) for k in ('en','zh'))}
+    # Cross-page breadcrumbs and RELATED CARD EXCERPTS must be translated even
+    # when the visible snippet comes from <meta> or a truncated lazy carousel
+    # and therefore is not a normal text node on the current article page.
+    public_shared=SHARED_NAV_LABELS | SHARED_RELATED_SNIPPETS
+    all_candidates={s for group in pages.values() for s in group} | public_shared
+    missing_set={s for s in all_candidates if s not in cache or
+                 not isinstance(cache[s],dict) or
+                 not all(cache[s].get(k) for k in ('en','zh'))}
     # Prioritize completing the homepage, then pages closest to full coverage.
     # Unlike lexical sorting of 19k strings, this can publish complete packs
     # early without requiring every page to be finished first.
     route_order=sorted(pages, key=lambda r: (0 if r=='/' else 1,
                      sum(x in missing_set for x in pages[r]),r))
     missing=[]; scheduled=set()
+    # Homepage first, then *shared* excerpts/navigation (the same excerpts
+    # appear across many articles), then the remaining page-specific strings.
+    for r in ['/']:
+        for item in sorted(pages.get(r,())):
+            if item in missing_set and item not in scheduled:
+                missing.append(item);scheduled.add(item)
+    for item in sorted(public_shared):
+        if item in missing_set and item not in scheduled:
+            missing.append(item);scheduled.add(item)
     for r in route_order:
         for item in sorted(pages[r]):
             if item in missing_set and item not in scheduled:
@@ -501,6 +554,12 @@ def main():
         sample_related='<html><body><section class="related-articles"><h3>BÀI VIẾT LIÊN QUAN</h3><p>Đây là đoạn mô tả bài viết có ích.</p></section></body></html>'
         collect_text_from_html(sample_related)
         assert 'Đây là đoạn mô tả bài viết có ích.' in SHARED_RELATED_SNIPPETS
+        no_related_class='<html><body><div class="blog-item"><a href="/blogs/goc-tu-van/mau"><img src="/a.jpg"/>Tieu de</a><p>Đây là đoạn giới thiệu đầy đủ về dịch vụ vận chuyển đường sắt cho khách hàng.</p></div></body></html>'
+        collect_text_from_html(no_related_class)
+        assert 'Đây là đoạn giới thiệu đầy đủ về dịch vụ vận chuyển đường sắt cho khách hàng.' in SHARED_RELATED_SNIPPETS
+        sample_meta='<html><head><meta name="description" content="Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí."></head><body><article><p>Nội dung minh họa.</p></article></body></html>'
+        collect_text_from_html(sample_meta,route='/blogs/van-chuyen/mau')
+        assert 'Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí.' in SHARED_RELATED_SNIPPETS
         assert translatable('Vận chuyển hàng hóa Bắc Nam')
         key=route_id('/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert key=='pages__tra-cuu-gia-cuoc-van-chuyen', key
