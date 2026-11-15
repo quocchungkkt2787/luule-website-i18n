@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T21:36:58.100074+00:00",
+  "tested_at": "2026-11-15T21:57:34.702642+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 689,
-  "public_routes_pending": 247,
+  "public_routes_verified": 697,
+  "public_routes_pending": 239,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -13063,14 +13063,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-bac-giang": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-dinh-tram": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-hoa-phu": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-quang-chau": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-song-khe": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-tan-hung": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-van-trung": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-viet-han": {},
+    "/blogs/gui-hang-tphcm-kcn-bac-giang": {
+      "fingerprint": "02b1fd4f42733089",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:56:49.675089+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation The industrial district at North Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输公司 北江工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-dinh-tram": {
+      "fingerprint": "5b2bfb2407316b59",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:56:56.169761+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why did you choose Liu to send Saigon?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为甚么选刘公送西贡."
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-hoa-phu": {
+      "fingerprint": "035cd4be81b33f4d",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:57:02.439312+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNC Republic Quick - Safety - Saving"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNC Republic 快速 - 安全 - 保存"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-quang-chau": {
+      "fingerprint": "2af5feb83fbd81c9",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:57:08.716418+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Note when sending Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡时注意"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-song-khe": {
+      "fingerprint": "409b57e847973280",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:57:14.993240+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Saigon - KNN Song KKY Quick, Simple"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出西贡的经验 - KNN Song KKY 快速,简单"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-tan-hung": {
+      "fingerprint": "5432573f741b2c2d",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:57:21.528738+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience should know when sending Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "经验应该知道,当派遣西贡"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-van-trung": {
+      "fingerprint": "5cc37803baa89964",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:57:28.394775+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Note to Saigon - KNNC Central quickly"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "对西贡的注意 - KNNC 中央快速"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-viet-han": {
+      "fingerprint": "3077c3c323599c6d",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:57:34.670597+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Pay Attention when sending Saigon - Korean KNN"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡时注意 - 韩国 KNN"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-yen-lu": {},
     "/blogs/gui-hang-tphcm-kcn-bac-ninh": {},
     "/blogs/gui-hang-tphcm-kcn-bac-ninh/chuyen-hang-sai-gon-kcn-dai-dong-hoan-son": {},
@@ -13298,7 +13442,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T21:35:55.329206+00:00",
+      "checked_at": "2026-11-15T21:56:31.486605+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13318,7 +13462,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T21:36:06.869661+00:00",
+      "checked_at": "2026-11-15T21:56:43.564408+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13350,7 +13494,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T21:36:01.542184+00:00",
+      "checked_at": "2026-11-15T21:56:37.898631+00:00",
       "languages": {
         "en": {
           "ok": true,
