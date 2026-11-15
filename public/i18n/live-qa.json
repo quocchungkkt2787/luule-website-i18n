@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T15:52:48.481631+00:00",
+  "tested_at": "2026-11-15T16:13:43.617518+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 561,
-  "public_routes_pending": 375,
+  "public_routes_verified": 569,
+  "public_routes_pending": 367,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -10631,14 +10631,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-binh-duong": {},
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-binh-phuoc": {},
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-dong-nai": {},
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-long-an": {},
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-sai-gon": {},
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-tay-ninh": {},
-    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-vung-tau": {},
-    "/blogs/gui-hang-hy-mien-nam": {},
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-binh-duong": {
+      "fingerprint": "91174523306c807d",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:12:53.425300+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping service from the Sea Hall to the low-cost Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海洋大厅到低成本太平洋的航运服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-binh-phuoc": {
+      "fingerprint": "a468f504bab00313",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:12:59.443242+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service ratings from the Sea Hall to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海堂到幸运的服务收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-dong-nai": {
+      "fingerprint": "17ac8559f1b25293",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:13:07.423280+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill deposits from the Customs to the Plain Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海关到平原的服务账单"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-long-an": {
+      "fingerprint": "5c1dc6090b3ac85b",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:13:13.421459+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hai Hall to Long An quickly"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海堂到长安的快递服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-sai-gon": {
+      "fingerprint": "52ff4b87847ca4fd",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:13:19.413956+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from Customs to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海关到西贡的存款单(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-tay-ninh": {
+      "fingerprint": "460c1d6f5a6cebff",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:13:25.368567+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for delivery from Customs to Western Europe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海关到西欧的服务单"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-vung-tau": {
+      "fingerprint": "723e7de44074008f",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:13:37.375279+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service ratings from the Sea Hall to the Chinese Gong"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海会馆到中歌的服务收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam": {
+      "fingerprint": "d422f13ff46b634e",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:13:43.587339+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of the Peace Line Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南部各省和平线运输"
+        }
+      }
+    },
     "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-duong": {},
     "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-phuoc": {},
     "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-dong-nai": {},
@@ -10994,7 +11138,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T15:51:47.811582+00:00",
+      "checked_at": "2026-11-15T16:12:36.141495+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11014,7 +11158,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T15:51:59.509548+00:00",
+      "checked_at": "2026-11-15T16:12:47.443310+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11046,7 +11190,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T15:51:54.409059+00:00",
+      "checked_at": "2026-11-15T16:12:42.038157+00:00",
       "languages": {
         "en": {
           "ok": true,
