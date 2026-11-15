@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T07:59:37.867132+00:00",
+  "tested_at": "2026-11-15T08:22:37.166006+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 394,
-  "public_routes_pending": 542,
+  "public_routes_verified": 402,
+  "public_routes_pending": 534,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -7458,14 +7458,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-nam-dong-phu": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-thanh-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-viet-kieu": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/gui-hang-ha-noi-kcn-tan-khai": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-agtex-long-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-amata": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-an-phuoc": {},
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-nam-dong-phu": {
+      "fingerprint": "282e34a204155cde",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:21:48.452607+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hanoi shipping unit - South-KN South Fuji most prestigious 2023"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运单位 - 南克南富士最有名的2023年"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-thanh-binh": {
+      "fingerprint": "ce14fb4af6e9c0bf",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:21:55.142599+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hanoi - KNN Qing's most prestigious shipping market"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送河内 - KNN 清最有名的航运市场"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-viet-kieu": {
+      "fingerprint": "d8cb41176a399dcb",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:22:01.506338+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why did many choose to send Hanoi-KN Vietcong in Liu?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为什么许多人选择派河内-KN越共到刘家?."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/gui-hang-ha-noi-kcn-tan-khai": {
+      "fingerprint": "ac2d84ce2ea9cb3d",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:22:08.582485+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division Sends Hanoi - KNN New Founding I, II Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师发河内-克南新创一 二名."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai": {
+      "fingerprint": "9da598d929c3690c",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:22:15.918308+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Industrial Zone at the Plain Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10个)"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-agtex-long-binh": {
+      "fingerprint": "eab9c86242c4d729",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:22:22.587937+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping service - KNC AGTEX Long Peace safe, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运服务-KNC AGTEX 长平平安无事,享有盛誉"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-amata": {
+      "fingerprint": "f0e78628bf5904ac",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:22:28.949411+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The most prestigious Hanoi shipping unit - KNC Amata"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "最有声望的河内航运单位——KNC Amata"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-an-phuoc": {
+      "fingerprint": "7297cf323bd55a0d",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:22:37.137486+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The experience of sending Hanoi-KN Security must know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派遣河内-KN安全局的经验必须知道"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bau-xeo": {},
     "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bien-hoa": {},
     "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dau-giay": {},
@@ -7988,7 +8132,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T07:58:35.830399+00:00",
+      "checked_at": "2026-11-15T08:21:29.104008+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8008,7 +8152,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T07:58:47.864517+00:00",
+      "checked_at": "2026-11-15T08:21:41.999732+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8040,7 +8184,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T07:58:42.208950+00:00",
+      "checked_at": "2026-11-15T08:21:35.931473+00:00",
       "languages": {
         "en": {
           "ok": true,
