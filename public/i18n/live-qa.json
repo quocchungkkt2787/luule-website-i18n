@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T01:18:50.387553+00:00",
+  "tested_at": "2026-11-15T01:40:31.545859+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 251,
-  "public_routes_pending": 685,
+  "public_routes_verified": 259,
+  "public_routes_pending": 677,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -4722,14 +4722,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/kho-nam-ninh-o-dau": {},
-    "/blogs/goc-tu-van/kho-trung-chuyen-ha-noi-02": {},
-    "/blogs/goc-tu-van/khoang-cach-giua-cac-tinh-thanh-pho-tren-ca-nuoc": {},
-    "/blogs/goc-tu-van/khoi-luong-luan-chuyen-la-gi": {},
-    "/blogs/goc-tu-van/kich-thuoc-thung-xe-tai": {},
-    "/blogs/goc-tu-van/kinh-nghiem-chon-giuong-nam-khoang-4-va-6-dieu-hoa-tren-tau": {},
-    "/blogs/goc-tu-van/ky-hieu-container": {},
-    "/blogs/goc-tu-van/lam-shipper-thu-nhap-bao-nhieu": {},
+    "/blogs/goc-tu-van/kho-nam-ninh-o-dau": {
+      "fingerprint": "6530473161fb63fc",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:39:42.030763+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is Nanning Warehouse? How long does shipping to Vietnam take?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南宁仓在哪里？运送到越南需要多久？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/kho-trung-chuyen-ha-noi-02": {
+      "fingerprint": "d689c526f61ab856",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:39:48.948638+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where is Hanoi Transfer Warehouse 02? Detailed information"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内02号中转仓库在哪里？详细信息"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/khoang-cach-giua-cac-tinh-thanh-pho-tren-ca-nuoc": {
+      "fingerprint": "e055e4ea84637959",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:39:55.553727+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Distance between municipal provinces across the country [ Details from ASTZ]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "全国各省之间的距离[详情见ASTZ]"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/khoi-luong-luan-chuyen-la-gi": {
+      "fingerprint": "0161efb0a83150cb",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:40:02.063793+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the concept of mass rotation and the latest formula?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是质量自转的概念和最新的公式?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/kich-thuoc-thung-xe-tai": {
+      "fingerprint": "768aa6c2b88147c0",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:40:08.798358+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Composite current popular truck barrel sizes"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "目前流行的复合卡车桶大小"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/kinh-nghiem-chon-giuong-nam-khoang-4-va-6-dieu-hoa-tren-tau": {
+      "fingerprint": "61bb3bcbf4d5e67a",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:40:15.417512+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience picks bed on deck 4 and 6 air conditioning on board!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "经验在4号甲板和6号空调上挑床!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/ky-hieu-container": {
+      "fingerprint": "57faeeb56bfd92d1",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:40:23.099720+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the significance of the container notation? Codes on container"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "集装箱标记的意义是什么? 集装箱编码"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/lam-shipper-thu-nhap-bao-nhieu": {
+      "fingerprint": "ae0fb2561012e289",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:40:31.504181+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How much does shipper make? Is shipper's salary high?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "托运人能赚多少钱? 托运人的工资高吗?"
+        }
+      }
+    },
     "/blogs/goc-tu-van/lcl-la-hang-gi-phan-biet-fcl-va-lcl": {},
     "/blogs/goc-tu-van/lich-tau-chay-ha-noi-hai-phong": {},
     "/blogs/goc-tu-van/lich-trinh-gio-tau-chay-ha-noi-hai-duong": {},
@@ -5396,7 +5540,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T01:17:49.732323+00:00",
+      "checked_at": "2026-11-15T01:39:21.353455+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5416,7 +5560,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T01:18:01.646459+00:00",
+      "checked_at": "2026-11-15T01:39:34.140424+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5448,7 +5592,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T01:17:56.275364+00:00",
+      "checked_at": "2026-11-15T01:39:28.337643+00:00",
       "languages": {
         "en": {
           "ok": true,
