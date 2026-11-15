@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T05:26:20.415885+00:00",
+  "tested_at": "2026-11-15T05:50:16.793326+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 338,
-  "public_routes_pending": 598,
+  "public_routes_verified": 346,
+  "public_routes_pending": 590,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -6394,14 +6394,158 @@
         }
       }
     },
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-dong-nai": {},
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-long-an": {},
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-sai-gon": {},
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-tay-ninh": {},
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-vung-tau": {},
-    "/blogs/gui-hang-bn-mien-nam": {},
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-binh-duong": {},
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-binh-phuoc": {},
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-dong-nai": {
+      "fingerprint": "ba5a1b758dfc111f",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:49:30.773334+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from the North Jiang to the Plains of Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从北江发到直隶平原的服务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-long-an": {
+      "fingerprint": "297af698ad8ac481",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:49:37.264885+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from North Jiang to the prestigious Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北江到长安的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-sai-gon": {
+      "fingerprint": "41906b6a45b62476",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:49:43.797456+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings deposit from North Jiang to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北江至西贡收视率存款(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-tay-ninh": {
+      "fingerprint": "79f22ed9acb0ce8a",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:49:50.248094+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The price of the deposits from the North Jiang to Western Europe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从北江到西欧的存款价格"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-vung-tau": {
+      "fingerprint": "b0961e77f420ebd1",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:49:56.637172+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service rating sent from North Jiang to China"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北江来华的服务评级"
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam": {
+      "fingerprint": "fb11023c7d2dcdb9",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:50:03.144823+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "North Ning Transport Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北宁交通 南方省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-binh-duong": {
+      "fingerprint": "6e47e746d1fe7bd5",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:50:10.309877+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Board of Administrative Services from North India to Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北印度至太平洋行政事务委员会"
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-binh-phuoc": {
+      "fingerprint": "173bf3fa75f92db4",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:50:16.758139+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from North India to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从北印度寄到Lucky的服务卡"
+        }
+      }
+    },
     "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-dong-nai": {},
     "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-long-an": {},
     "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-sai-gon": {},
@@ -6980,7 +7124,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T05:25:13.602819+00:00",
+      "checked_at": "2026-11-15T05:49:10.256234+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7000,7 +7144,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T05:25:26.408546+00:00",
+      "checked_at": "2026-11-15T05:49:23.710840+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7032,7 +7176,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T05:25:20.492052+00:00",
+      "checked_at": "2026-11-15T05:49:17.349620+00:00",
       "languages": {
         "en": {
           "ok": true,
