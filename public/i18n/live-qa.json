@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T22:40:01.163536+00:00",
+  "tested_at": "2026-11-15T23:00:12.446887+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 713,
-  "public_routes_pending": 223,
+  "public_routes_verified": 721,
+  "public_routes_pending": 215,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -13519,14 +13519,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-itahan": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-nam-chau-son": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-bac-thang-long": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-bac-thuong-tin": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-cong-nghe-cao-sinh-hoc": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-dai-tu": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-dong-anh": {},
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-itahan": {
+      "fingerprint": "896eca358e9ac2d3",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:59:30.474325+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Division - KNN Itahan Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡师-KNN 伊塔汉专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-nam-chau-son": {
+      "fingerprint": "61f66c2209eba048",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:59:36.755541+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The division sends Saigon - KNN Namzhou Mountain most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师派西贡克南州山最出名"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi": {
+      "fingerprint": "625247a19b975422",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:59:42.525118+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation (TpHCM) (10 KCN at Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡交通公司(TpHCM)(10 KCN在河内)"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-bac-thang-long": {
+      "fingerprint": "faca9b5ee8d29106",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:59:49.121280+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The things you need to know when sending Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送西贡时你需要知道的"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-bac-thuong-tin": {
+      "fingerprint": "423ddd1a329fbc5a",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:59:54.763691+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division Sends Saigon - KNN Northern Professionals"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "组织派遣西贡-KNN北方专业人员"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-cong-nghe-cao-sinh-hoc": {
+      "fingerprint": "2eaa58c3b04871c4",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:00:00.430162+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Saigon - KNN Biotech"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派遣西贡的经验-KNN生物技术"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-dai-tu": {
+      "fingerprint": "d64d8003e9c5ff06",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:00:06.685537+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Units and Notes when sending Saigon - KNNU Taiwan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡-KNNU台湾时的运输单位和说明"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-dong-anh": {
+      "fingerprint": "c09c1ef7663ce1c8",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:00:12.425923+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The division sends Saigon - the most professional East UK"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师派西贡——最专业的东英."
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-minh-khai-vinh-tuy": {},
     "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-nam-thang-long": {},
     "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-noi-bai": {},
@@ -13730,7 +13874,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T22:38:57.329623+00:00",
+      "checked_at": "2026-11-15T22:59:13.508674+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13750,7 +13894,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T22:39:09.524238+00:00",
+      "checked_at": "2026-11-15T22:59:24.539202+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13782,7 +13926,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T22:39:03.726325+00:00",
+      "checked_at": "2026-11-15T22:59:19.343298+00:00",
       "languages": {
         "en": {
           "ok": true,
