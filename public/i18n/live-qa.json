@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T01:40:31.545859+00:00",
+  "tested_at": "2026-11-15T02:02:36.032733+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 259,
-  "public_routes_pending": 677,
+  "public_routes_verified": 267,
+  "public_routes_pending": 669,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -4874,14 +4874,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/lcl-la-hang-gi-phan-biet-fcl-va-lcl": {},
-    "/blogs/goc-tu-van/lich-tau-chay-ha-noi-hai-phong": {},
-    "/blogs/goc-tu-van/lich-trinh-gio-tau-chay-ha-noi-hai-duong": {},
-    "/blogs/goc-tu-van/loai-hinh-van-tai-cua-tuong-lai-van-tai-duong-ong": {},
-    "/blogs/goc-tu-van/ma-so-xe-cac-tinh-thanh-trong-ca-nuoc": {},
-    "/blogs/goc-tu-van/mat-bang-lai-xe-a1": {},
-    "/blogs/goc-tu-van/mat-bang-lai-xe-lam-lai-nhu-the-nao": {},
-    "/blogs/goc-tu-van/mat-chung-minh-thu-co-rut-tien-duoc-khong": {},
+    "/blogs/goc-tu-van/lcl-la-hang-gi-phan-biet-fcl-va-lcl": {
+      "fingerprint": "bd28f44872a2d3ef",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:01:41.703980+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the LCL package? FCL Transportation Separation and LCL"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是LCL软件包? FCL 运输分离和LCL"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/lich-tau-chay-ha-noi-hai-phong": {
+      "fingerprint": "6870c7f44393059c",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:01:48.669149+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Set a schedule for the Hanoi-Sea Chamber, today! Get out!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "确定河内-海庭的日程,今天! 滚出去!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/lich-trinh-gio-tau-chay-ha-noi-hai-duong": {
+      "fingerprint": "b768798d0ecbde98",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:01:55.914716+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The time schedule runs in Hanoi Ocean and vice versa."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "时间表在河内海洋运行,反之亦然。"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/loai-hinh-van-tai-cua-tuong-lai-van-tai-duong-ong": {
+      "fingerprint": "60a6167f3763f7d3",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:02:03.642890+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Pipe Transport - Future Transport Type"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "管道运输 - 未来运输类型"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/ma-so-xe-cac-tinh-thanh-trong-ca-nuoc": {
+      "fingerprint": "6881e29960cd29d6",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:02:12.083564+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Look up the number of vehicles of the provinces throughout the country and information needed"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "调查全国各省的车辆数量和所需信息"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/mat-bang-lai-xe-a1": {
+      "fingerprint": "057e8910e0623332",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:02:20.631756+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Lost his driver's license A1 procedures and how to re-supply?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "失去驾照A1程序 如何再补给?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/mat-bang-lai-xe-lam-lai-nhu-the-nao": {
+      "fingerprint": "eef1463467531cf9",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:02:28.869858+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How does a driver's license go again? Protocol, level address at HN, HCM"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "驾照又怎样? 礼宾,HN,HCM的级别地址"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/mat-chung-minh-thu-co-rut-tien-duoc-khong": {
+      "fingerprint": "e00132b370911d9d",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:02:35.994799+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Can you get the money out of losing your ID?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "你能从失去身份证的钱里拿出来吗?"
+        }
+      }
+    },
     "/blogs/goc-tu-van/mau-bao-gia-van-chuyen-xe-tai": {},
     "/blogs/goc-tu-van/mau-logo-duong-sat-viet-nam": {},
     "/blogs/goc-tu-van/mau-van-khan-cau-binh-an-suc-khoe-cau-tai-loc-tai-nha": {},
@@ -5540,7 +5684,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T01:39:21.353455+00:00",
+      "checked_at": "2026-11-15T02:01:20.821947+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5560,7 +5704,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T01:39:34.140424+00:00",
+      "checked_at": "2026-11-15T02:01:33.928994+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5592,7 +5736,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T01:39:28.337643+00:00",
+      "checked_at": "2026-11-15T02:01:27.921522+00:00",
       "languages": {
         "en": {
           "ok": true,
