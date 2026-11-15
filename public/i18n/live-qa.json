@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T03:53:47.666816+00:00",
+  "tested_at": "2026-11-15T04:18:44.074204+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 306,
-  "public_routes_pending": 630,
+  "public_routes_verified": 314,
+  "public_routes_pending": 622,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5786,14 +5786,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/uu-va-nhuoc-diem-cua-hinh-thuc-van-tai-duong-thuy": {},
-    "/blogs/goc-tu-van/van-chuyen-container-noi-dia": {},
-    "/blogs/goc-tu-van/van-chuyen-door-to-door": {},
-    "/blogs/goc-tu-van/van-chuyen-duong-bien": {},
-    "/blogs/goc-tu-van/van-chuyen-duong-sat-va-o-to": {},
-    "/blogs/goc-tu-van/van-chuyen-hang-di-thai-lan-bang-duong-bo": {},
-    "/blogs/goc-tu-van/van-chuyen-hang-hoa-bang-sa-lan-va-nhung-dieu-ban-nen-biet": {},
-    "/blogs/goc-tu-van/van-chuyen-hang-hoa-ga-song-than": {},
+    "/blogs/goc-tu-van/uu-va-nhuoc-diem-cua-hinh-thuc-van-tai-duong-thuy": {
+      "fingerprint": "c494ca9d12289120",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:17:49.954413+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The weakness of sea-way transport"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海运的弱点"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-container-noi-dia": {
+      "fingerprint": "1fc859fac6381b32",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:17:58.122020+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Which way is the safest domestic container transport?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "最安全的国内集装箱运输是哪条路?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-door-to-door": {
+      "fingerprint": "e60983c962d78a19",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:18:06.145560+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Benefits from using the door to door transport service?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "使用门到门运输服务的好处?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-duong-bien": {
+      "fingerprint": "5bb08b013b1e66a6",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:18:14.122526+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Sea Transportation Service[ Cheap, safe]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海运处[廉价、安全]"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-duong-sat-va-o-to": {
+      "fingerprint": "dd07949362b68dad",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:18:22.116752+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Comparing the strength of the form of railway and road transport"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "比较铁路和公路运输形式的强度"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-hang-di-thai-lan-bang-duong-bo": {
+      "fingerprint": "54362b6e2ca38875",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:18:29.336585+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "- Transportation to Thailand by land! Get out!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "- 陆路去泰国! 滚出去!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-hang-hoa-bang-sa-lan-va-nhung-dieu-ban-nen-biet": {
+      "fingerprint": "50f467acd5c94532",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:18:36.594633+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation with orchids and things you should know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "运送兰花和一些你应该知道的东西"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-hang-hoa-ga-song-than": {
+      "fingerprint": "865dbcbaabad4ddd",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:18:44.029367+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation of Ga Waves 900 mph/kg [priced price #1]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[价格#1]"
+        }
+      }
+    },
     "/blogs/goc-tu-van/van-chuyen-hang-hoa-gia-tri-cao": {},
     "/blogs/goc-tu-van/van-chuyen-hang-hoa-nang": {},
     "/blogs/goc-tu-van/van-chuyen-thu-cung-di-xa-an-toan": {},
@@ -6404,7 +6548,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T03:52:40.657205+00:00",
+      "checked_at": "2026-11-15T04:17:28.219840+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6424,7 +6568,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T03:52:53.271265+00:00",
+      "checked_at": "2026-11-15T04:17:42.739429+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6456,7 +6600,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T03:52:47.512858+00:00",
+      "checked_at": "2026-11-15T04:17:36.367500+00:00",
       "languages": {
         "en": {
           "ok": true,
