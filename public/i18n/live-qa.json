@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T08:22:37.166006+00:00",
+  "tested_at": "2026-11-15T08:44:12.833016+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 402,
-  "public_routes_pending": 534,
+  "public_routes_verified": 410,
+  "public_routes_pending": 526,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -7610,14 +7610,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bau-xeo": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bien-hoa": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dau-giay": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-det-may-nhon-trach": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dinh-quan": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-giang-dien": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-go-dau": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-ho-nai": {},
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bau-xeo": {
+      "fingerprint": "665865b4e5b6d94e",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:43:28.141496+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What you need to know when sending Hanoi - KNC Quots"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送河内时需要知道的 KNC Quots"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-bien-hoa": {
+      "fingerprint": "37b0fa74f39181be",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:43:34.490382+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi Rowing Unit - CNC Republic I, II most prestigious today"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内划船股-CNC共和国 一 二 今天最有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dau-giay": {
+      "fingerprint": "12b9931f6133ea59",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:43:40.910500+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi-KN Oil Experience"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内-KN石油经验"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-det-may-nhon-trach": {
+      "fingerprint": "9a4659a998de1a81",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:43:47.162133+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why choose Liu to send Hanoi Line - KNC Lucky AQU"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为何选择刘送河内线 - KNC Lucky AQU"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-dinh-quan": {
+      "fingerprint": "af39d9355aa163f2",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:43:53.159252+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experiences to know when sending Hanoi Line - KCN Bar"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内线-KCN Bar时需要了解的经验"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-giang-dien": {
+      "fingerprint": "7b6d0a0174d16b94",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:43:59.132518+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division sends Hanoi - KNN Jiang Huatian the most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师出河内-克南·江·华亭最有声望."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-go-dau": {
+      "fingerprint": "3da626ff0b3f5f65",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:44:06.695131+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hanoi Rowing Unit - KNNNNNC Celebrity Oil"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内分队-KNNNNC名人石油公司"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-ho-nai": {
+      "fingerprint": "5dac6566254f1e8a",
+      "status": "pass",
+      "checked_at": "2026-11-15T08:44:12.806751+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi-KNC NAI sales experience"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内-KNC NAI销售经验"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-loc-an": {},
     "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-binh-loteco": {},
     "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-long-duc": {},
@@ -8132,7 +8276,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T08:21:29.104008+00:00",
+      "checked_at": "2026-11-15T08:43:09.447603+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8152,7 +8296,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T08:21:41.999732+00:00",
+      "checked_at": "2026-11-15T08:43:21.582539+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8184,7 +8328,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T08:21:35.931473+00:00",
+      "checked_at": "2026-11-15T08:43:15.982452+00:00",
       "languages": {
         "en": {
           "ok": true,
