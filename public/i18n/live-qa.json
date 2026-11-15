@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T22:19:35.967376+00:00",
+  "tested_at": "2026-11-15T22:40:01.163536+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 705,
-  "public_routes_pending": 231,
+  "public_routes_verified": 713,
+  "public_routes_pending": 223,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -13367,14 +13367,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-bac-ninh/chuyen-hang-sai-gon-kcn-viet-nam-singapore": {},
-    "/blogs/gui-hang-tphcm-kcn-bac-ninh/chuyen-hang-sai-gon-kcn-yen-phong": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-ascendas": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-chau-son": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-dong-van": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-hoa-mac": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-hoang-dong": {},
+    "/blogs/gui-hang-tphcm-kcn-bac-ninh/chuyen-hang-sai-gon-kcn-viet-nam-singapore": {
+      "fingerprint": "0a1294d2da50f6f6",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:15.654056+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - Vietnam - Singapore"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - 越南 - 新加坡"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-bac-ninh/chuyen-hang-sai-gon-kcn-yen-phong": {
+      "fingerprint": "840fbe99db01b76b",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:22.461476+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is needed when sending Saigon - KNC Yen 1, 2"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡时需要什么 KNC 1, 2日元"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam": {
+      "fingerprint": "09683dede8f23293",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:28.982865+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Industrial Zone in Hannan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "汉南西贡交通工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-ascendas": {
+      "fingerprint": "771e0bb19b28179d",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:36.173711+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is needed when sending Saigon - KNC Asciendas"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNC Asciendas 时需要什么"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-chau-son": {
+      "fingerprint": "89beecd99e931965",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:42.555314+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience should know when sending Saigon - KNNzhou Mountain"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "经验应该知道,当派遣西贡 - 昆州山"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-dong-van": {
+      "fingerprint": "b420f6cdf56a9b0c",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:48.845932+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division Sends Saigon - KNC đồngmetics I, II, IV Most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "分区派遣西贡 - KNC 第一, 二, 四名"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-hoa-mac": {
+      "fingerprint": "466be5a101d2b571",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:39:55.058149+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The division sends Saigon - KNC the most professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师派西贡 - KNC最专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-hoang-dong": {
+      "fingerprint": "58386b5fb16b571e",
+      "status": "pass",
+      "checked_at": "2026-11-15T22:40:01.129966+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The division sends Saigon - the most prestigious KNC"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师派西贡——最有声望的克民会"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-itahan": {},
     "/blogs/gui-hang-tphcm-kcn-ha-nam/chuyen-hang-sai-gon-kcn-nam-chau-son": {},
     "/blogs/gui-hang-tphcm-kcn-ha-noi": {},
@@ -13586,7 +13730,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T22:18:31.488862+00:00",
+      "checked_at": "2026-11-15T22:38:57.329623+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13606,7 +13750,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T22:18:43.654633+00:00",
+      "checked_at": "2026-11-15T22:39:09.524238+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13638,7 +13782,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T22:18:38.019321+00:00",
+      "checked_at": "2026-11-15T22:39:03.726325+00:00",
       "languages": {
         "en": {
           "ok": true,
