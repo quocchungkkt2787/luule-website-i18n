@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T05:03:21.578964+00:00",
+  "tested_at": "2026-11-15T05:26:20.415885+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 330,
-  "public_routes_pending": 606,
+  "public_routes_verified": 338,
+  "public_routes_pending": 598,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -6242,14 +6242,158 @@
         }
       }
     },
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ninh-binh": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-phu-tho": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-quang-ninh": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-thai-nguyen": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-vinh-phuc": {},
-    "/blogs/gui-hang-bg-mien-nam": {},
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-binh-duong": {},
-    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-binh-phuoc": {},
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ninh-binh": {
+      "fingerprint": "0b99dcae24df9fb7",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:25:32.824123+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from the Pacific to Ninh Ping"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋寄给宁平的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-phu-tho": {
+      "fingerprint": "1404ad132db97df2",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:25:40.656828+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The rater deposits from the Pacific to Fuji Tem"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋到富士特姆的存款"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-quang-ninh": {
+      "fingerprint": "cf8bf26281d64905",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:25:47.325943+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from the Pacific to Guangzhou"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋至广州的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-thai-nguyen": {
+      "fingerprint": "2ca662436cb96483",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:25:53.866218+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from the Pacific to the Yuan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋至元的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-vinh-phuc": {
+      "fingerprint": "3d963430e5050ece",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:26:00.410850+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from the Pacific to Wing Fu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋汇给荣富的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam": {
+      "fingerprint": "892a27a2ad6e9ab6",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:26:06.846780+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transported North Jiang-ji Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "运北江济 南方各省"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-binh-duong": {
+      "fingerprint": "8e11fbc0a619e480",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:26:13.214450+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the North Jiang to the prestigious Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从北江到著名的太平洋的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-binh-phuoc": {
+      "fingerprint": "81709f6e95b0293c",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:26:20.391888+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of price sent from North Jiang to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北江送来的钞票"
+        }
+      }
+    },
     "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-dong-nai": {},
     "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-long-an": {},
     "/blogs/gui-hang-bg-mien-nam/chuyen-hang-bac-giang-sai-gon": {},
@@ -6836,7 +6980,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T05:02:13.000228+00:00",
+      "checked_at": "2026-11-15T05:25:13.602819+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6856,7 +7000,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T05:02:26.185732+00:00",
+      "checked_at": "2026-11-15T05:25:26.408546+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6888,7 +7032,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T05:02:20.025124+00:00",
+      "checked_at": "2026-11-15T05:25:20.492052+00:00",
       "languages": {
         "en": {
           "ok": true,
