@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T13:15:27.431671+00:00",
+  "tested_at": "2026-11-15T13:38:22.038203+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 506,
-  "public_routes_pending": 430,
+  "public_routes_verified": 514,
+  "public_routes_pending": 422,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -9586,14 +9586,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-ha-tinh": {},
-    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-hue": {},
-    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-nghe-an": {},
-    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-quang-binh": {},
-    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-quang-tri": {},
-    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-thanh-hoa": {},
-    "/blogs/gui-hang-hn-dong-nam-bo": {},
-    "/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-binh-duong": {},
+    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-ha-tinh": {
+      "fingerprint": "abdd8b139e2e2855",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:37:35.093879+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Hanoi to Hover Jing Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到Hover Jing Fame的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-hue": {
+      "fingerprint": "bd2dcb772bf06efc",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:37:42.170506+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Hanoi go to Heaven"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到天堂的交通服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-nghe-an": {
+      "fingerprint": "c47aea45764ca069",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:37:48.693240+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Sent from Hanoi to prestigious, professional Arts"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内送到著名专业艺术学院"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-quang-binh": {
+      "fingerprint": "973acd3439dbcea5",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:37:55.457398+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from Hanoi to Guangang Safe, save the most"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把货物从河内送到广安,救得最多"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-quang-tri": {
+      "fingerprint": "a1ce7aafe6a1ee3a",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:38:02.315908+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi goes fast, saves"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内送货快,省钱"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-thanh-hoa": {
+      "fingerprint": "84f2127539af3b83",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:38:08.649782+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi goes to Qingize Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到青岛的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-dong-nam-bo": {
+      "fingerprint": "d53dd1002b880ee2",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:38:14.950868+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) The Southeastern provinces of the Ministry"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输 (10) 该部东南各省"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-binh-duong": {
+      "fingerprint": "7911d1b7f1420827",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:38:22.001624+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Charts deposits from Hanoi to Pacific 1000 mph/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到太平洋的海图矿床 1000 mph/kg"
+        }
+      }
+    },
     "/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-binh-phuoc": {},
     "/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-dong-nai": {},
     "/blogs/gui-hang-hn-dong-nam-bo/chuyen-hang-ha-noi-tay-ninh": {},
@@ -10004,7 +10148,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T13:14:28.247914+00:00",
+      "checked_at": "2026-11-15T13:37:16.006804+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10024,7 +10168,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T13:14:40.396668+00:00",
+      "checked_at": "2026-11-15T13:37:28.818608+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10056,7 +10200,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T13:14:34.030258+00:00",
+      "checked_at": "2026-11-15T13:37:23.179129+00:00",
       "languages": {
         "en": {
           "ok": true,
