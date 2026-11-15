@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T16:58:08.132783+00:00",
+  "tested_at": "2026-11-15T17:19:40.623406+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 585,
-  "public_routes_pending": 351,
+  "public_routes_verified": 593,
+  "public_routes_pending": 343,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11087,14 +11087,158 @@
         }
       }
     },
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ninh-binh": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-phu-tho": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-quang-ninh": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-thai-nguyen": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-vinh-phuc": {},
-    "/blogs/gui-hang-mien-nam-di-trung": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-ha-tinh": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-thanh-hoa": {},
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ninh-binh": {
+      "fingerprint": "ead3dd4e240aa1ff",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:18:55.588878+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill deposits from Long An go to Ning Ping"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到宁平的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-phu-tho": {
+      "fingerprint": "b43ac523ba9baf79",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:01.881340+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill bill sent from Long An goes to Fuji Tem"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安寄来的服务费帐单是给富士铁的"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-quang-ninh": {
+      "fingerprint": "bce43df4e06d076a",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:07.964576+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Long An to Guangzhou"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安寄到广州的公务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-thai-nguyen": {
+      "fingerprint": "c36e69284b9e3517",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:13.953451+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from Long An to Thailand"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安寄到泰国的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-vinh-phuc": {
+      "fingerprint": "d8ad009aafff4be7",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:19.988945+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Long An goes to Fame, low prices"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到名人店的送货服务 低价"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung": {
+      "fingerprint": "19b0939a9bbbf144",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:26.356062+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the southern provinces to the Central"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从南部省份到中部的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-ha-tinh": {
+      "fingerprint": "43beabbbf91ff39f",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:33.199139+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping rating from the Pacific to Han Jing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋到韩晶的航运评级"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-thanh-hoa": {
+      "fingerprint": "7bd0f98777627e77",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:19:40.590860+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of sale from the Pacific to Qingdu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋至清都的出货单"
+        }
+      }
+    },
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-vinh-nghe-an": {},
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-ha-tinh": {},
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-thanh-hoa": {},
@@ -11426,7 +11570,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T16:57:03.456790+00:00",
+      "checked_at": "2026-11-15T17:18:37.245310+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11446,7 +11590,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T16:57:16.045912+00:00",
+      "checked_at": "2026-11-15T17:18:49.080568+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11478,7 +11622,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T16:57:10.204455+00:00",
+      "checked_at": "2026-11-15T17:18:43.744882+00:00",
       "languages": {
         "en": {
           "ok": true,
