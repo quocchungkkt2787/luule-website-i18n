@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T20:53:56.263466+00:00",
+  "tested_at": "2026-11-15T21:15:59.871423+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 673,
-  "public_routes_pending": 263,
+  "public_routes_verified": 681,
+  "public_routes_pending": 255,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -12759,14 +12759,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hai-phong": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hung-yen": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-nam-dinh": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-ninh-binh": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-phu-tho": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-quang-ninh": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-thai-nguyen": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-vinh-phuc": {},
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hai-phong": {
+      "fingerprint": "dee1d58eb76bbf81",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:13.964183+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Western Europe goes to Hai Chamber for 1,000 mph/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西欧的送货服务以1,000 mph/kg的价格送到海分会"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hung-yen": {
+      "fingerprint": "ba02dcfa60be5183",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:20.503797+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings are deposited from Western Europe to Hong Kong in detail"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率由西欧详细存入香港"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-nam-dinh": {
+      "fingerprint": "d9ca21e2cca0a21d",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:26.964726+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Western Europe to South Korea is cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧到韩国的送货服务很便宜,很有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-ninh-binh": {
+      "fingerprint": "0aadd5f6c017fcc0",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:33.272358+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Presidents of Services from Western Europe\"."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"西欧服务总裁\"."
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-phu-tho": {
+      "fingerprint": "cefc335e74901010",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:39.679931+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Western Europe goes to Fuji T of them cheap, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西欧的送货服务是给富士T的,便宜,安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-quang-ninh": {
+      "fingerprint": "784f72974e9c4140",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:46.328091+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Western Europe to Ning Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧到宁的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-thai-nguyen": {
+      "fingerprint": "f20f9be819ccaeab",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:53.352288+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Immediates of services deposits from Western Europe."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西欧服务存款的即期存款。"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-vinh-phuc": {
+      "fingerprint": "6a26b216690f6f12",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:15:59.831422+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"President Service Post\"."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"总统服务职位\"."
+        }
+      }
+    },
     "/blogs/gui-hang-tn-mien-nam": {},
     "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-binh-duong": {},
     "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-binh-phuoc": {},
@@ -13010,7 +13154,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T20:52:49.910263+00:00",
+      "checked_at": "2026-11-15T21:14:54.914527+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13030,7 +13174,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T20:53:02.766919+00:00",
+      "checked_at": "2026-11-15T21:15:07.464360+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13062,7 +13206,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T20:52:56.784308+00:00",
+      "checked_at": "2026-11-15T21:15:01.658667+00:00",
       "languages": {
         "en": {
           "ok": true,
