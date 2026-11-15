@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T05:50:16.793326+00:00",
+  "tested_at": "2026-11-15T06:12:11.461213+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 346,
-  "public_routes_pending": 590,
+  "public_routes_verified": 354,
+  "public_routes_pending": 582,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -6546,14 +6546,158 @@
         }
       }
     },
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-dong-nai": {},
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-long-an": {},
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-sai-gon": {},
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-tay-ninh": {},
-    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-vung-tau": {},
-    "/blogs/gui-hang-bp-mien-bac": {},
-    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-bac-giang": {},
-    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-bac-ninh": {},
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-dong-nai": {
+      "fingerprint": "94b51c85c8ab4aa6",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:11:26.693300+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from North Europe goes to Coins of Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北欧的送货服务是给储蓄银行的"
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-long-an": {
+      "fingerprint": "7d09c63d2b28cc3a",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:11:32.739092+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for delivery from North Ning. Long An."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北宁送货服务账单. 长安."
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-sai-gon": {
+      "fingerprint": "dc137344341d4431",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:11:39.399584+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from North Ning to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北宁至西贡的汇票(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-tay-ninh": {
+      "fingerprint": "8560c9e5b2cf9073",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:11:46.076600+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for delivery from North Europe to Western Europe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从北欧到西欧的服务法案"
+        }
+      }
+    },
+    "/blogs/gui-hang-bn-mien-nam/chuyen-hang-bac-ninh-vung-tau": {
+      "fingerprint": "1091d87ae1987a77",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:11:52.385406+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from North India goes to the Chinese good, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北印度的送货服务是给中国好人,有声望的"
+        }
+      }
+    },
+    "/blogs/gui-hang-bp-mien-bac": {
+      "fingerprint": "07d388fe37d20f2f",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:11:58.879010+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Lucky Transportation Northern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北部省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-bac-giang": {
+      "fingerprint": "0d40e3f384dff988",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:12:05.170544+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from Lucky to the cheap North Jiang, competing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把货从幸运送到便宜的北江,竞争"
+        }
+      }
+    },
+    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-bac-ninh": {
+      "fingerprint": "920d33bebc39d241",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:12:11.428958+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery unit from the Lucky to North Ning Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从幸运号到北宁的送货单位"
+        }
+      }
+    },
     "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-ha-nam": {},
     "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-ha-noi": {},
     "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-hai-duong": {},
@@ -7124,7 +7268,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T05:49:10.256234+00:00",
+      "checked_at": "2026-11-15T06:11:07.193074+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7144,7 +7288,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T05:49:23.710840+00:00",
+      "checked_at": "2026-11-15T06:11:19.181226+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7176,7 +7320,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T05:49:17.349620+00:00",
+      "checked_at": "2026-11-15T06:11:13.528992+00:00",
       "languages": {
         "en": {
           "ok": true,
