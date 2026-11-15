@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T07:38:05.555207+00:00",
+  "tested_at": "2026-11-15T07:59:37.867132+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 386,
-  "public_routes_pending": 550,
+  "public_routes_verified": 394,
+  "public_routes_pending": 542,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -7306,14 +7306,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-vsip-1-2": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-bac-dong-phu": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-becamex-binh-phuoc": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-chon-thanh": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-dong-xoai": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-ledana": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-minh-hung": {},
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-vsip-1-2": {
+      "fingerprint": "8b527516332514b1",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:58:54.133197+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "All Experience Sends Hanoi Row - KCN Vsip 1, 2"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "所有经验都送河内一行——KCN Vsip 1, 2"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc": {
+      "fingerprint": "9c2b5f4804f9228a",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:00.508353+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Industrial Zone at Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10)"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-bac-dong-phu": {
+      "fingerprint": "ae0015ac953b5ba3",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:06.674447+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The selection of the Hanoi-KN North Plains Division"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内-KN北平原分区选址"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-becamex-binh-phuoc": {
+      "fingerprint": "d39050e634f2cf0b",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:13.454200+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hanoi Line to KCN BCDmex Lucky, Quality"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "将河内线发送给KCN BCDmex Lucky, 质量"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-chon-thanh": {
+      "fingerprint": "0a190ef3fe5916c3",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:19.444266+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Selecting the Hanoi Rowing Unit - KNNC City I, II Most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "选择河内划线单位-KNNC城市一,二 最有声望."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-dong-xoai": {
+      "fingerprint": "c848054ea4fbb48d",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:25.455924+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping service - KN Coordination XLUI, II Celebrities Cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运服务 -- -- KN协调XLUI、II名人廉价"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-ledana": {
+      "fingerprint": "7b5cbbe0de424a20",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:31.872019+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hanoi-KN Ledana Professional Trust"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派河内-克恩-莱达纳专业信托基金"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-minh-hung": {
+      "fingerprint": "6743defa622d4324",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:59:37.839843+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hanoi-KN Ming Korea & Sikico Celebrities"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送 河内- KN 明 韩国和 Sikico 名人"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-nam-dong-phu": {},
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-thanh-binh": {},
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-viet-kieu": {},
@@ -7844,7 +7988,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T07:37:05.751954+00:00",
+      "checked_at": "2026-11-15T07:58:35.830399+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7864,7 +8008,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T07:37:17.488794+00:00",
+      "checked_at": "2026-11-15T07:58:47.864517+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7896,7 +8040,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T07:37:12.167092+00:00",
+      "checked_at": "2026-11-15T07:58:42.208950+00:00",
       "languages": {
         "en": {
           "ok": true,
