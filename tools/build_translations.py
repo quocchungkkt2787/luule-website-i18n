@@ -22,6 +22,7 @@ from xml.etree import ElementTree
 
 import requests
 from bs4 import BeautifulSoup, Comment
+import image_i18n
 
 BASE = 'https://vantailuule.vn'
 ROOT = Path(__file__).resolve().parent.parent
@@ -31,6 +32,8 @@ PUBLIC = ROOT / 'public' / 'i18n'
 SHARED_NAV_LABELS = set()
 # Also share excerpts from cards showing related articles on other pages.
 SHARED_RELATED_SNIPPETS = set()
+# Public images are inventoried separately; alt text is not embedded image lettering.
+SHARED_IMAGE_ASSETS = {}
 USER_AGENT = 'LuuLePublicI18NBuilder/3.0 (+https://vantailuule.vn)'
 SCOPE = ('/blogs/', '/pages/', '/products/', '/collections/')
 # Important public tools can be absent from the sitemap or from normal HTML links.
@@ -200,6 +203,8 @@ def get_sitemap_urls(session, max_depth=3):
 
 
 def collect_text_from_html(content, route=None):
+    if route is not None:
+        image_i18n.capture(SHARED_IMAGE_ASSETS, image_i18n.extract(content,route))
     soup=BeautifulSoup(content,'html.parser')
     root=soup.body
     if not root:return set(),set()
@@ -609,6 +614,7 @@ def main():
         sample='<html><body><div id="wrapper"><nav>Trang chủ</nav><h1>Vận chuyển hàng hóa Bắc Nam</h1><p>Chúng tôi vận chuyển hàng hóa bằng đường sắt và đường bộ.</p><input placeholder="Nhập mã vận đơn"/><script>doNotRead()</script></div></body></html>'
         texts,_=collect_text_from_html(sample)
         assert 'Trang chủ' in texts and 'Nhập mã vận đơn' in texts
+        image_i18n.test()
         seo='<html><head><title>Vận Tải Lưu Lê - Đơn vị vận chuyển hàng hóa Bắc Nam</title></head><body><p>Trang chủ</p></body></html>'
         seo_texts,_=collect_text_from_html(seo,route='/')
         assert 'Vận Tải Lưu Lê - Đơn vị vận chuyển hàng hóa Bắc Nam' in seo_texts
@@ -660,6 +666,11 @@ def main():
     session=requests.Session();session.headers.update({'User-Agent':USER_AGENT})
     pages=crawl_pages(session,args.max_pages,use_browser=args.browser)
     if not pages:raise RuntimeError('No public pages found. Check sitemap and network first; not publishing empty data.')
+    current=image_i18n.read(image_i18n.OUT/'catalog.json',{}).get('images',{})
+    if not isinstance(current,dict):current={}
+    image_i18n.capture(current,SHARED_IMAGE_ASSETS)
+    image_i18n.save(current)
+    print('Image inventory:',len(current),'public assets; translated pairs require approved files.',flush=True)
     released,pending=build(pages,args.max_new)
     stats=getattr(crawl_pages,'last_stats',{})
     # Distinguish pages processed this batch from packs published over all

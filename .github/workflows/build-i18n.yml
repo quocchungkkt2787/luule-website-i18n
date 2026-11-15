@@ -9,6 +9,8 @@ on:
       - 'tools/apply_reviewed_translations.py'
       - 'tools/ll-i18n-reviewed-translations.json'
       - 'tools/live_audit_i18n.py'
+      - 'tools/image_i18n.py'
+      - 'tools/image_i18n_audit.py'
   workflow_dispatch:
     inputs:
       chain_depth:
@@ -113,7 +115,8 @@ jobs:
         if: steps.gate.outputs.build == 'true'
         run: |
           python tools/build_translations.py --self-test
-          python -m py_compile tools/live_audit_i18n.py
+          python -m py_compile tools/live_audit_i18n.py tools/image_i18n.py tools/image_i18n_audit.py
+          python tools/image_i18n.py --self-test
 
       - name: Verify language switcher in simulated browser
         if: steps.gate.outputs.build == 'true'
@@ -136,6 +139,15 @@ jobs:
         env:
           LL_QA_BATCH_SIZE: '8'
         run: python tools/live_audit_i18n.py
+
+      - name: Inspect embedded Vietnamese lettering in public images
+        if: steps.gate.outputs.build == 'true'
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-vie tesseract-ocr-eng
+          python -m pip install 'Pillow>=11,<13'
+          python tools/image_i18n_audit.py --batch 12
 
       - name: Update progress and measure continued live verification
         if: steps.gate.outputs.build == 'true'
@@ -218,11 +230,16 @@ jobs:
           manifest = read('public/i18n/manifest.json')
           coverage = read('public/i18n/coverage.json')
           audit = read('public/i18n/audit.json')
+          image_audit = read('public/i18n/images/audit.json')
+          image_manifest = read('public/i18n/images/manifest.json')
           live_qa = read('public/i18n/live-qa.json')
           pending = audit.get('pending_pages') or []
           failed = coverage.get('skipped_or_failed') or []
           unvisited = coverage.get('unvisited_examples') or []
           print('---- PUBLIC TRANSLATION BACKLOG DIAGNOSTICS ----')
+          print('Image OCR scanned:',image_audit.get('images_scanned',0),'/',image_audit.get('unique_public_images','?'))
+          print('Images potentially containing Vietnamese lettering:',image_audit.get('possibly_vietnamese','?'))
+          print('Reviewed image EN/ZH pairs:',image_manifest.get('approved_pair_count',0))
           print('Pages pending:', manifest.get('pages_pending', 'n/a'))
           print('Live EN/ZH verified:',live_qa.get('public_routes_verified',0),'/',
                 live_qa.get('public_routes_total','unknown'))
@@ -244,6 +261,8 @@ jobs:
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
               out.write('### Translation backlog diagnostic\n\n')
               out.write(f'- Pending packs: {manifest.get("pages_pending", "n/a")}\n')
+              out.write(f'- Public images scanned by OCR: {image_audit.get("images_scanned",0)} / {image_audit.get("unique_public_images","unknown")}\n')
+              out.write(f'- EN/ZH image pairs approved: {image_manifest.get("approved_pair_count",0)}\n')
               out.write(f'- EN/ZH live pages verified: {live_qa.get("public_routes_verified",0)} / {live_qa.get("public_routes_total","unknown")}\n')
               out.write(f'- Unvisited URLs: {coverage.get("unvisited_count", "n/a")}\n')
               out.write(f'- Unvisited without a pack: {coverage.get("unvisited_without_existing_pack", "n/a")}\n')
