@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T10:37:18.508452+00:00",
+  "tested_at": "2026-11-15T11:00:51.323789+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 450,
-  "public_routes_pending": 486,
+  "public_routes_verified": 458,
+  "public_routes_pending": 478,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -8522,14 +8522,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-ben-keo": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-binh-minh": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-bourbon-an-hoa": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-cha-la-1": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-cha-la": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-gia-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-hiep-thanh": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-linh-trung-iii": {},
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-ben-keo": {
+      "fingerprint": "bec6edd48e771a92",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:03.819051+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The need to send goods from Hanoi - The current CBS"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "需要从河内运送货物-目前的CBS"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-binh-minh": {
+      "fingerprint": "d2d5c98cbe887443",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:10.260002+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Select the GHP send-off unit of Hanoi - KNC Dawn prestigious, low-cost"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "选择河内- KNC 的 GHP 发送单元 黎明有声望,成本低廉"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-bourbon-an-hoa": {
+      "fingerprint": "f7fa2966fc197a4a",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:17.238033+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the long-distance line at reasonable cost of Hanoi - KNC Bourbon An Peace"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "以河内合理成本发送长途线路 - KNC 波旁安和平"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-cha-la-1": {
+      "fingerprint": "c8b96b1f2f74cf06",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:31.236507+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The fastest delivery from Hanoi to KNC Well is"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到KNC的快递是"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-cha-la": {
+      "fingerprint": "46408ce3659b0367",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:24.610835+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How to Select Quality Send Units in Hanoi - KCN Lost"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "如何在河内选择质量发送单位 - KCN Lost"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-gia-binh": {
+      "fingerprint": "b3e21f1f5ea346e1",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:37.733583+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How do you get the correct Hanoi-KN Civil War unit?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "如何获得正确的河内-KN内战部队?."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-hiep-thanh": {
+      "fingerprint": "0fbe3c39307c7c10",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:44.833232+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The prestigious delivery service in the Hanoi area - KNN TD"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内地区著名的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-linh-trung-iii": {
+      "fingerprint": "b41a9fbd6f45e17b",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:00:51.289169+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery process from Hanoi to KNC Central III quickly"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到国民军中央三局的交付过程很快"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-phuoc-dong": {},
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tan-binh": {},
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-dien": {},
@@ -8996,7 +9140,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:10.318996+00:00",
+      "checked_at": "2026-11-15T10:59:43.578540+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9016,7 +9160,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:23.303676+00:00",
+      "checked_at": "2026-11-15T10:59:56.502641+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9048,7 +9192,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:17.314469+00:00",
+      "checked_at": "2026-11-15T10:59:50.503336+00:00",
       "languages": {
         "en": {
           "ok": true,
