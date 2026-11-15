@@ -12100,6 +12100,17 @@
         "/blogs/thong-bao/lich-nghi-tet-nguyen-dan-2022"
       ]
     },
+    "https://cdn.hstatic.net/themes/1000191021/1001518008/14/cancel.svg": {
+      "alt": [],
+      "id": "abeba195dd6a8d72",
+      "kinds": [
+        "img"
+      ],
+      "priority": "general",
+      "routes": [
+        "/blogs/van-chuyen-bac-nam"
+      ]
+    },
     "https://cdn.hstatic.net/themes/1000191021/1001518008/14/egaLadi_services_item_image_1_large.png": {
       "alt": [
         "Vận chuyển hàng đường sắt Bắc Nam"
@@ -38484,6 +38495,6 @@
     }
   },
   "note": "Public image inventory, not OCR. Original logos and photos remain unchanged until a reviewed image variant exists.",
-  "unique_public_images": 3089,
+  "unique_public_images": 3090,
   "version": 1
 }

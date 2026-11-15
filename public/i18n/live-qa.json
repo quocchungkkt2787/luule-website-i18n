@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T04:18:44.074204+00:00",
+  "tested_at": "2026-11-15T04:40:19.991730+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 314,
-  "public_routes_pending": 622,
+  "public_routes_verified": 322,
+  "public_routes_pending": 614,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5938,14 +5938,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/van-chuyen-hang-hoa-gia-tri-cao": {},
-    "/blogs/goc-tu-van/van-chuyen-hang-hoa-nang": {},
-    "/blogs/goc-tu-van/van-chuyen-thu-cung-di-xa-an-toan": {},
-    "/blogs/goc-tu-van/xe-daklak-ha-noi": {},
-    "/blogs/goc-tu-van/xe-may-chuyen-dung": {},
-    "/blogs/goc-tu-van/xe-may-lien-doanh-la-gi": {},
-    "/blogs/goc-tu-van/xe-tai-duoc-phep-cho-qua-tai-bao-nhieu-phan-tram": {},
-    "/blogs/gui-hang-bd-mien-bac": {},
+    "/blogs/goc-tu-van/van-chuyen-hang-hoa-gia-tri-cao": {
+      "fingerprint": "505182b3ffca239a",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:39:32.388570+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services of high value."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "高价值运输服务。"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-hang-hoa-nang": {
+      "fingerprint": "a415bc137be779f8",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:39:39.515696+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Heavy freight service, equipment machines"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "重型货运服务、设备机"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/van-chuyen-thu-cung-di-xa-an-toan": {
+      "fingerprint": "f6553ab651abbe0a",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:39:46.209745+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience of Transporting Pets Safely"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "安全运输宠物的经验"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/xe-daklak-ha-noi": {
+      "fingerprint": "18e8c47f5704437b",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:39:52.966929+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The latest DakLak Hanoi route list (770 ticket price)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "最新达克拉克河内路线列表(770票价)"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/xe-may-chuyen-dung": {
+      "fingerprint": "e1089e8521049a4b",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:39:59.976524+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's a specially used motorcycle? Professional motorcycle regulations"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是特用摩托车? 专业摩托车条例"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/xe-may-lien-doanh-la-gi": {
+      "fingerprint": "18e4cf761edd0c0a",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:40:07.347570+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's a inter-com car? Good business car choice experience!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是互通车? 不错的商务车选择经验!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/xe-tai-duoc-phep-cho-qua-tai-bao-nhieu-phan-tram": {
+      "fingerprint": "1963a9b5696d0224",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:40:13.819855+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What percentage of load transport is allowed? Organisation"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "允许载荷运输的百分比是多少? 日历"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac": {
+      "fingerprint": "3a7d41f36603612f",
+      "status": "pass",
+      "checked_at": "2026-11-15T04:40:19.961129+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Pacific Transportation (10) Northern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋运输(10) 北方省份"
+        }
+      }
+    },
     "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-bac-giang": {},
     "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-bac-ninh": {},
     "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ha-nam": {},
@@ -6548,7 +6692,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T04:17:28.219840+00:00",
+      "checked_at": "2026-11-15T04:39:13.541871+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6568,7 +6712,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T04:17:42.739429+00:00",
+      "checked_at": "2026-11-15T04:39:25.595695+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6600,7 +6744,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T04:17:36.367500+00:00",
+      "checked_at": "2026-11-15T04:39:19.897156+00:00",
       "languages": {
         "en": {
           "ok": true,
