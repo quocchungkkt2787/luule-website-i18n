@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-14T23:55:45.412594+00:00",
+  "tested_at": "2026-11-15T00:17:36.475496+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 219,
-  "public_routes_pending": 717,
+  "public_routes_verified": 227,
+  "public_routes_pending": 709,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -4114,14 +4114,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/doi-giay-phep-lai-xe": {},
-    "/blogs/goc-tu-van/doi-tien-han-quoc-sang-tien-viet-nam-o-dau": {},
-    "/blogs/goc-tu-van/doi-tien-nhat-sang-tien-viet-o-ngan-hang-nao": {},
-    "/blogs/goc-tu-van/doi-tien-singapore-sang-tien-viet-o-dau-uy-tin-nhat": {},
-    "/blogs/goc-tu-van/fca-la-gi": {},
-    "/blogs/goc-tu-van/fob-la-gi": {},
-    "/blogs/goc-tu-van/ga-giap-bat": {},
-    "/blogs/goc-tu-van/ga-ha-noi": {},
+    "/blogs/goc-tu-van/doi-giay-phep-lai-xe": {
+      "fingerprint": "a0d11649b9cf358a",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:16:47.084478+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Network driver's license transfer details guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "网络驾照转让详情指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/doi-tien-han-quoc-sang-tien-viet-nam-o-dau": {
+      "fingerprint": "e2d98257d43ee12a",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:16:54.435620+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where's the most prestigious money in Korea?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "韩国最有声望的钱呢?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/doi-tien-nhat-sang-tien-viet-o-ngan-hang-nao": {
+      "fingerprint": "5b76bad21acfd1ff",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:17:01.152007+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Change Japan money to Vietnamese money at what bank? Attention!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在哪个银行把日本的钱换成越南的钱? 请注意!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/doi-tien-singapore-sang-tien-viet-o-dau-uy-tin-nhat": {
+      "fingerprint": "97172f5841789298",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:17:08.167635+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where's the most prestigious money for Singapore? What?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "新加坡最有声望的钱呢? 你说什么?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/fca-la-gi": {
+      "fingerprint": "3a254939450d1030",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:17:15.621908+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is FCA? The responsibility on each side of the delivery under FCA conditions"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是公平竞争法? 交货双方在《公平竞争法》条件下的责任"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/fob-la-gi": {
+      "fingerprint": "42e3d90a12206d50",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:17:22.479769+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is FOB? - FOB delivery conditions include what, how are they understood?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "离岸线是什么? - 离岸外包条件包括什么,如何理解?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/ga-giap-bat": {
+      "fingerprint": "981e6f7e0c215b07",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:17:29.384965+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Learn about Gaa Bajiang Where's the address? Phone number?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "学学巴江 地址在哪儿? 地址在哪? 地址在哪? 地址在哪? Where's the address? 电话号码?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/ga-ha-noi": {
+      "fingerprint": "5488bf89637c9fda",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:17:36.437644+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Learning about Hanoihuang Where's the address? Phone number?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "了解河内宏 地址在哪儿? 地址在哪? 地址在哪? 地址在哪? Where's the address? 电话号码?"
+        }
+      }
+    },
     "/blogs/goc-tu-van/ga-sai-gon": {},
     "/blogs/goc-tu-van/ga-song-than": {},
     "/blogs/goc-tu-van/gia-ve-tau-hoa-bac-nam": {},
@@ -4820,7 +4964,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-14T23:54:30.727753+00:00",
+      "checked_at": "2026-11-15T00:16:27.008391+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4840,7 +4984,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-14T23:54:44.450824+00:00",
+      "checked_at": "2026-11-15T00:16:39.901496+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4872,7 +5016,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-14T23:54:38.109821+00:00",
+      "checked_at": "2026-11-15T00:16:33.890358+00:00",
       "languages": {
         "en": {
           "ok": true,
