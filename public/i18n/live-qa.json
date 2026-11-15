@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T14:00:54.992386+00:00",
+  "tested_at": "2026-11-15T14:22:42.729383+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 522,
-  "public_routes_pending": 414,
+  "public_routes_verified": 530,
+  "public_routes_pending": 406,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -9890,14 +9890,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-long-an": {},
-    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-sai-gon": {},
-    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-tay-ninh": {},
-    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-vung-tau": {},
-    "/blogs/gui-hang-hn-nam-trung-bo": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-binh-dinh": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-binh-thuan": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-da-nang": {},
+    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-long-an": {
+      "fingerprint": "b611c67274197854",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:00.525516+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Hannan to Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从汉南寄去长安的公务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-sai-gon": {
+      "fingerprint": "4057cd3be2567419",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:06.505178+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Bills Bills sent from Hannan to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从汉南发往西贡的法案(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-tay-ninh": {
+      "fingerprint": "2fccb6db7a0d4069",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:12.678722+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Post-Steel Service Bill from Henan to Western Europe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河南到西欧的钢铁后服务法案"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-mien-nam/chuyen-hang-ha-nam-vung-tau": {
+      "fingerprint": "9dbcd75af2182323",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:18.603780+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hannan goes to prestigious Chinese, good price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "汉纳的送货服务是给中国人送的,价钱不错"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo": {
+      "fingerprint": "0a2e2389f8761f0e",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:24.393948+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Southern Central Districts"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内交通(10)中南部县."
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-binh-dinh": {
+      "fingerprint": "89787ae70feaa9a6",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:30.445077+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from Hanoi to the prestigious, professional plan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把货从河内送到有声望的专业计划"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-binh-thuan": {
+      "fingerprint": "3a88cd57b6b67c24",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:36.566746+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hani Ping Shun sales service costs 900 mph/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "哈尼平顺销售服务费用900 mph/kg"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-da-nang": {
+      "fingerprint": "5b52ef4bd68aefe8",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:22:42.696048+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation from Hanoi to Da Nang cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到大南的廉价运输,有声望"
+        }
+      }
+    },
     "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-khanh-hoa": {},
     "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-ninh-thuan": {},
     "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-phu-yen": {},
@@ -10292,7 +10436,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T13:59:52.995070+00:00",
+      "checked_at": "2026-11-15T14:21:41.598047+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10312,7 +10456,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T14:00:04.292711+00:00",
+      "checked_at": "2026-11-15T14:21:54.418021+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10344,7 +10488,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T13:59:59.096668+00:00",
+      "checked_at": "2026-11-15T14:21:48.869032+00:00",
       "languages": {
         "en": {
           "ok": true,
