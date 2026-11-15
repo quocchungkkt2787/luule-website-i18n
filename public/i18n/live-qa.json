@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T16:13:43.617518+00:00",
+  "tested_at": "2026-11-15T16:35:47.346355+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 569,
-  "public_routes_pending": 367,
+  "public_routes_verified": 577,
+  "public_routes_pending": 359,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -10783,14 +10783,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-duong": {},
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-phuoc": {},
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-dong-nai": {},
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-long-an": {},
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-sai-gon": {},
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-tay-ninh": {},
-    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-vung-tau": {},
-    "/blogs/gui-hang-la-mien-bac": {},
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-duong": {
+      "fingerprint": "8deebcd1f740cfb8",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:34:58.221876+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from the village to the prestigious Pacific."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从村里把货物送到著名的太平洋"
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-binh-phuoc": {
+      "fingerprint": "5911f31dfdbe907e",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:05.446671+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from the Valley of Peace"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "和平谷寄来的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-dong-nai": {
+      "fingerprint": "87f65e257fefbd42",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:11.739367+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from the Village of Yen to the prestigious, professional."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出由\"同仁\"村出货给有声望的,专业的."
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-long-an": {
+      "fingerprint": "fef818b1a36f3760",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:17.943573+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from the Wallet to Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从钱包寄到长安的服务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-sai-gon": {
+      "fingerprint": "f6493aef594239ba",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:25.110265+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of purchases sent from the Village of Yen to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从日出村到西贡(TpHCM)的购货单"
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-tay-ninh": {
+      "fingerprint": "8b7bfad91b721f39",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:33.121145+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the Village of Yan to Western Ninh Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从燕村到西宁的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hy-mien-nam/chuyen-hang-hung-yen-vung-tau": {
+      "fingerprint": "505199315eaff07b",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:39.612125+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the Village of Yan to the Chinese."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从燕村寄来的服务图 中国人."
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac": {
+      "fingerprint": "dbae746304bccec6",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:35:47.317031+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transport Long An Northern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "长安北部省"
+        }
+      }
+    },
     "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-bac-giang": {},
     "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-bac-ninh": {},
     "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ha-nam": {},
@@ -11138,7 +11282,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T16:12:36.141495+00:00",
+      "checked_at": "2026-11-15T16:34:36.338373+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11158,7 +11302,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T16:12:47.443310+00:00",
+      "checked_at": "2026-11-15T16:34:48.756917+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11190,7 +11334,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T16:12:42.038157+00:00",
+      "checked_at": "2026-11-15T16:34:42.993536+00:00",
       "languages": {
         "en": {
           "ok": true,
