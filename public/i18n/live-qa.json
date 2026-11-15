@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T11:22:14.526076+00:00",
+  "tested_at": "2026-11-15T11:44:47.281073+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 466,
-  "public_routes_pending": 470,
+  "public_routes_verified": 474,
+  "public_routes_pending": 462,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -8826,14 +8826,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-an-ha": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-bau-dung": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-binh-chieu": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-cat-lai-2": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-co-khi-o-to": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-dong-nam": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-hiep-phuoc": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-le-minh-xuan": {},
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-an-ha": {
+      "fingerprint": "ccc04468df6790f5",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:03.213306+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why select Liu Transport to send Hanoi - KNC Anh?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为何选择刘运发河内 - KNC 安吗?"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-bau-dung": {
+      "fingerprint": "47807a34081cf964",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:09.586751+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "An Experience of Sending Hanoi-KN German"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内-KN德语的经验"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-binh-chieu": {
+      "fingerprint": "7fd1c55fb44d23fd",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:15.735286+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Dear Hanoi - KNNC PEACE OF UYCLE - GREEGUE"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "亲爱的河内 - 基恩茨 乌伊克和平 - 希腊"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-cat-lai-2": {
+      "fingerprint": "31de5e52784f69a8",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:21.814939+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi Row Service - KCN Sand Drive 2 [GIÁ RAD, ANTR]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内行车服务-KCN Sand Drive 2 [GIÁ RAD, ANTR]"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-co-khi-o-to": {
+      "fingerprint": "69fb105de1e153e0",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:27.846389+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "All experience of sending Hanoi-KN Motor Engineering"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "所有派遣河内-KN汽车工程公司的经验"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-dong-nam": {
+      "fingerprint": "acdad1ad1236ca23",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:34.965611+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hanoi shipping unit - the most professional Southeast KNN"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运单位 - 最专业的东南KNN"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-hiep-phuoc": {
+      "fingerprint": "8ea68d4cfe027b3b",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:41.006260+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Dear Hanoi - KNC Quick Blessings - Safety - Price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "亲爱的河内 - KNC快速祝福 - 安全 - 价格"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-le-minh-xuan": {
+      "fingerprint": "98814d226394b9d3",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:44:47.246924+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience of sending Hanoi-KN Levitage 1, 2, 3"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内-KN利维塔吉一、二、三的经验"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-linh-trung": {},
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-phong-phu": {},
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-phuoc-hiep": {},
@@ -9284,7 +9428,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:11.137572+00:00",
+      "checked_at": "2026-11-15T11:43:44.696008+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9304,7 +9448,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:23.426485+00:00",
+      "checked_at": "2026-11-15T11:43:56.751943+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9336,7 +9480,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:18.121046+00:00",
+      "checked_at": "2026-11-15T11:43:51.306135+00:00",
       "languages": {
         "en": {
           "ok": true,
