@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T17:19:40.623406+00:00",
+  "tested_at": "2026-11-15T17:39:54.361470+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 593,
-  "public_routes_pending": 343,
+  "public_routes_verified": 601,
+  "public_routes_pending": 335,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11239,14 +11239,158 @@
         }
       }
     },
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-vinh-nghe-an": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-ha-tinh": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-thanh-hoa": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-vinh-nghe-an": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-ha-tinh": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-thanh-hoa": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-vinh-nghe-an": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh": {},
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-duong-vinh-nghe-an": {
+      "fingerprint": "5027f0959bd166b7",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:12.256303+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Administrative Service Bill to Art An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "行政服务法案至第A条"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-ha-tinh": {
+      "fingerprint": "1bbeda0d70fad583",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:18.524609+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from Lucky to Han Jing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从幸运寄给韩晶的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-thanh-hoa": {
+      "fingerprint": "933aa25f4bae0efb",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:24.941324+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from Lucky to Qingization"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从幸运去清化的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-binh-phuoc-vinh-nghe-an": {
+      "fingerprint": "cf2ea06527872993",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:30.839837+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from Lucky to Art An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "服务费从幸运送到艺术安"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-ha-tinh": {
+      "fingerprint": "4b7bb9cd06609b9b",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:36.707625+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Kogi to Han Jing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "高木寄给韩静的公务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-thanh-hoa": {
+      "fingerprint": "eec28b30c79420ac",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:42.623426+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for the delivery from Koo Nai to Qingu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从高奈到青岛的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-dong-nai-vinh-nghe-an": {
+      "fingerprint": "e5ddf7299dddbb96",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:48.485803+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill deposits from Kogi to Art An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从高木到艺术安的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-ha-tinh": {
+      "fingerprint": "4b1b3a6bf66d9f18",
+      "status": "pass",
+      "checked_at": "2026-11-15T17:39:54.330084+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Long An to Han Jing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安寄到韩静的公务卡"
+        }
+      }
+    },
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-thanh-hoa": {},
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-vinh-nghe-an": {},
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-ha-tinh": {},
@@ -11570,7 +11714,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T17:18:37.245310+00:00",
+      "checked_at": "2026-11-15T17:38:54.762563+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11590,7 +11734,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T17:18:49.080568+00:00",
+      "checked_at": "2026-11-15T17:39:06.365063+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11622,7 +11766,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T17:18:43.744882+00:00",
+      "checked_at": "2026-11-15T17:39:01.049550+00:00",
       "languages": {
         "en": {
           "ok": true,
