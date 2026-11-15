@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T19:07:53.125768+00:00",
+  "tested_at": "2026-11-15T19:28:56.876669+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 633,
-  "public_routes_pending": 303,
+  "public_routes_verified": 641,
+  "public_routes_pending": 295,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11999,14 +11999,158 @@
         }
       }
     },
-    "/blogs/gui-hang-qn-mien-nam": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-binh-duong": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-binh-phuoc": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-dong-nai": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-long-an": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-sai-gon": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-tay-ninh": {},
-    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-vung-tau": {},
+    "/blogs/gui-hang-qn-mien-nam": {
+      "fingerprint": "0006b5c903b5d176",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:12.667977+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Nedu Transport\". Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"内都交通\". 南部省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-binh-duong": {
+      "fingerprint": "eba16a4bb876a3d0",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:18.898908+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from Guangzhou to the prestigious Pacific, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从广州送到太平洋 安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-binh-phuoc": {
+      "fingerprint": "02ad0f27c7a1f9d0",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:24.999336+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service price price sent from Guangzhing to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "服务价格从广正送到幸运"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-dong-nai": {
+      "fingerprint": "056c3d75adebd304",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:31.396827+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for the delivery from Guangzhing to Plain Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从广正到平原奈城的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-long-an": {
+      "fingerprint": "3611ae451d519e05",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:37.749013+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Guangzhou to the prestigious Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从广州到著名长安的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-sai-gon": {
+      "fingerprint": "5dda3d28bd948d61",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:44.129891+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Billings deposits from Ningu to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从宁古到西贡的计费存款(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-tay-ninh": {
+      "fingerprint": "23f665160bab2bd6",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:50.517101+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Guangzhou to Western India Saves"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从广州到西印度的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-vung-tau": {
+      "fingerprint": "c8e85673417b0b7a",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:28:56.842979+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from Guangqi to the professional Chinese"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把货从广克送到专业的中国人那里"
+        }
+      }
+    },
     "/blogs/gui-hang-sg-dong-nam-bo": {},
     "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-binh-duong": {},
     "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-binh-phuoc": {},
@@ -12290,7 +12434,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T19:06:44.581113+00:00",
+      "checked_at": "2026-11-15T19:27:54.160129+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12310,7 +12454,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T19:06:57.641404+00:00",
+      "checked_at": "2026-11-15T19:28:06.303163+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12342,7 +12486,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T19:06:51.489766+00:00",
+      "checked_at": "2026-11-15T19:28:00.679938+00:00",
       "languages": {
         "en": {
           "ok": true,
