@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T00:38:26.040700+00:00",
+  "tested_at": "2026-11-15T00:58:39.378996+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 235,
-  "public_routes_pending": 701,
+  "public_routes_verified": 243,
+  "public_routes_pending": 693,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -4418,14 +4418,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/gui-giay-to-qua-buu-dien": {},
-    "/blogs/goc-tu-van/gui-hang-ha-noi-hai-phong": {},
-    "/blogs/goc-tu-van/gui-hang-nhanh-ha-noi-sai-gon": {},
-    "/blogs/goc-tu-van/gui-hang-tu-anh-ve-viet-nam-mat-bao-lau": {},
-    "/blogs/goc-tu-van/gui-hang-xe-phuong-trang-mat-bao-lau": {},
-    "/blogs/goc-tu-van/gui-laptop-qua-buu-dien": {},
-    "/blogs/goc-tu-van/gui-xe-may-o-ben-xe-mien-dong": {},
-    "/blogs/goc-tu-van/gui-xe-may-o-ga-sai-gon-co-an-toan-khong": {},
+    "/blogs/goc-tu-van/gui-giay-to-qua-buu-dien": {
+      "fingerprint": "5e652897b81efe77",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:57:54.713662+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[Experients] Send papers through the mail as quickly as possible!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[专家] 尽快通过邮件发送文件!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-hang-ha-noi-hai-phong": {
+      "fingerprint": "7cffb168038b602d",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:01.058285+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "3 The Way to Deliver Hanoi - Quick Hall - Saving"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "3 交付河内之路-快堂-拯救"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-hang-nhanh-ha-noi-sai-gon": {
+      "fingerprint": "fdaee569e66811b1",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:07.324679+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Quick delivery of Hanoi Saigon - 4 Note KATS Need to Remember"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "快速交付河内西贡 - 4 Note KATS 需要记住"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-hang-tu-anh-ve-viet-nam-mat-bao-lau": {
+      "fingerprint": "e0e21c71795526da",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:13.714304+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[ Quick Answers ] How long will the delivery time from England for Vietnam take?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[快速答 从英国运货到越南需要多长时间?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-hang-xe-phuong-trang-mat-bao-lau": {
+      "fingerprint": "dced2cc7e276d16b",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:19.998776+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long does it take to send goods with Phương Trang buses?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "通过 Phương Trang 客车寄货需要多久？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-laptop-qua-buu-dien": {
+      "fingerprint": "3a268f18322bf9ff",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:26.320650+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[States] Packing and sending laptops through the safety post."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[国 包装并发送笔记本电脑通过安全站."
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-xe-may-o-ben-xe-mien-dong": {
+      "fingerprint": "bbc00de7179d2aac",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:33.185124+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What to know about parking a motorcycle at Miền Đông Bus Station"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在东部客运站停放摩托车的注意事项"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-xe-may-o-ga-sai-gon-co-an-toan-khong": {
+      "fingerprint": "60db0fe777ff42d2",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:58:39.353634+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Is it safe to ship a motorcycle from Sài Gòn Railway Station?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡火车站托运摩托车安全吗？"
+        }
+      }
+    },
     "/blogs/goc-tu-van/gui-xe-may-qua-dem-o-ga-sai-gon-nhu-the-nao": {},
     "/blogs/goc-tu-van/hang-de-vo-xin-nhe-tay": {},
     "/blogs/goc-tu-van/hang-fake-la-hang-gi": {},
@@ -5108,7 +5252,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T00:37:19.921955+00:00",
+      "checked_at": "2026-11-15T00:57:35.773486+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5128,7 +5272,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T00:37:32.386008+00:00",
+      "checked_at": "2026-11-15T00:57:47.474475+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5160,7 +5304,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T00:37:26.549811+00:00",
+      "checked_at": "2026-11-15T00:57:42.132334+00:00",
       "languages": {
         "en": {
           "ok": true,

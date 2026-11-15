@@ -62,11 +62,6 @@
       "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-hang-hoa-bac-nam"
     },
     {
-      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia",
-      "reason": "redirect_alias",
-      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-tai-noi-dia"
-    },
-    {
       "evidence": "HTTP: 404 Client Error: Not Found for url: https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo; Browser: browser redirected to https://vantailuule.vn/",
       "reason": "not_found",
       "url": "https://vantailuule.vn/blogs/goc-tu-van/van-tai-hang-hoa-duong-bo"
@@ -272,7 +267,7 @@
       "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
     }
   ],
-  "missing_packs_in_discovered_routes": 0,
+  "missing_packs_in_discovered_routes": 1,
   "page_budget": 1200,
   "published_pack_files_total": 937,
   "required_pages_found": [
@@ -283,7 +278,12 @@
   ],
   "required_pages_missing": [],
   "sitemap_urls": 822,
-  "skipped_or_failed": [],
+  "skipped_or_failed": [
+    {
+      "error": "HTTP: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')); Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-noi-dia",
+      "url": "https://vantailuule.vn/blogs/goc-tu-van/dich-vu-van-tai-noi-dia"
+    }
+  ],
   "successful_public_pages": 933,
   "unvisited_count": 0,
   "unvisited_examples": [],
