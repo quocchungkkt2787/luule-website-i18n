@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T18:24:30.331914+00:00",
+  "tested_at": "2026-11-15T18:45:32.716816+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 617,
-  "public_routes_pending": 319,
+  "public_routes_verified": 625,
+  "public_routes_pending": 311,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11695,14 +11695,158 @@
         }
       }
     },
-    "/blogs/gui-hang-nd-mien-nam": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-binh-duong": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-binh-phuoc": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-dong-nai": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-long-an": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-sai-gon": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-tay-ninh": {},
-    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-vung-tau": {},
+    "/blogs/gui-hang-nd-mien-nam": {
+      "fingerprint": "84867efab2ac112a",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:44:46.128129+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Southern Transportation (10) Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方运输(10) 南方各省"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-binh-duong": {
+      "fingerprint": "261b5f8686c15966",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:44:52.694333+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from South Korea plans to go to the Pacific for cheap-bets"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "韩国的送货服务计划去太平洋买便宜货"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-binh-phuoc": {
+      "fingerprint": "2f3b8f1fd4cee12d",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:44:58.857829+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the South was going to the Lucky Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方的送货服务是去幸运储蓄"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-dong-nai": {
+      "fingerprint": "3443e8f12c3c9e0c",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:45:06.181488+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Nam intends to go to Kosi fast, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南的送货服务要快去科西 便宜"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-long-an": {
+      "fingerprint": "e1ff8322e290bc00",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:45:12.792095+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Nam intended to go Long An prestigious, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "阿南的送货服务 本来是去长安的 有声望的便宜货"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-sai-gon": {
+      "fingerprint": "9a0f06cc25994cb5",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:45:20.184408+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from South Korea to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "韩国到西贡的汇票(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-tay-ninh": {
+      "fingerprint": "4add97d0259c68ee",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:45:26.410554+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the South was intended for the prestigious West Ning, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方的送货服务是给有名望的西宁的,便宜的"
+        }
+      }
+    },
+    "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-vung-tau": {
+      "fingerprint": "43b923ecec24601d",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:45:32.688042+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping ratings from the South are going to China."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方的航运收视率会升入中国."
+        }
+      }
+    },
     "/blogs/gui-hang-pt-mien-nam": {},
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-duong": {},
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-phuoc": {},
@@ -12002,7 +12146,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T18:23:21.700394+00:00",
+      "checked_at": "2026-11-15T18:44:26.939049+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12022,7 +12166,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T18:23:36.440386+00:00",
+      "checked_at": "2026-11-15T18:44:39.750107+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12054,7 +12198,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T18:23:30.671411+00:00",
+      "checked_at": "2026-11-15T18:44:33.961024+00:00",
       "languages": {
         "en": {
           "ok": true,
