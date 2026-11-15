@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T20:09:59.959256+00:00",
+  "tested_at": "2026-11-15T20:31:22.908071+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 657,
-  "public_routes_pending": 279,
+  "public_routes_verified": 665,
+  "public_routes_pending": 271,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -12455,14 +12455,158 @@
         }
       }
     },
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-soc-trang": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tien-giang": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tra-vinh": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-vinh-long": {},
-    "/blogs/gui-hang-sg-tay-nguyen": {},
-    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-dak-lak": {},
-    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-dak-nong": {},
-    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-gia-lai": {},
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-soc-trang": {
+      "fingerprint": "52fe8af57a91ac0a",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:30:32.993353+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) goes to the cheap moon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到廉价月球的快递服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tien-giang": {
+      "fingerprint": "d309a923a530cdf2",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:30:40.810203+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) to the prestigious Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到著名江东的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tra-vinh": {
+      "fingerprint": "ae01d4a3db73fbb7",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:30:47.328183+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) to Tea vinh"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到Tea vinh的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-vinh-long": {
+      "fingerprint": "492f67fb51c3672d",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:30:53.695345+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) Gone Long"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输服务公司"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nguyen": {
+      "fingerprint": "b621383d342c399d",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:31:01.075609+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from TP.HCM to West Plains by land"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从TP.HCM到西平原的陆路服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-dak-lak": {
+      "fingerprint": "149fce83fc03d471",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:31:07.997474+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from Saigon (TpHCM) to GREW LEWK fast, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡( TpHCM) 发送包裹到 GREW LEWK 快速, 廉价"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-dak-nong": {
+      "fingerprint": "24dc029c6e9f9ff1",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:31:16.442866+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) goes to cheap Farm"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡(TpHCM)的送货服务到廉价农场"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-gia-lai": {
+      "fingerprint": "b671028205d92ff4",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:31:22.887232+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transport Service from Saigon (TpHCM) to Gia Lai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到Gia Lai的运输服务"
+        }
+      }
+    },
     "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-kon-tum": {},
     "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-lam-dong": {},
     "/blogs/gui-hang-tn-mien-bac": {},
@@ -12722,7 +12866,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T20:08:57.218934+00:00",
+      "checked_at": "2026-11-15T20:30:13.873536+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12742,7 +12886,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T20:09:09.450835+00:00",
+      "checked_at": "2026-11-15T20:30:26.499351+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12774,7 +12918,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T20:09:03.371251+00:00",
+      "checked_at": "2026-11-15T20:30:20.449842+00:00",
       "languages": {
         "en": {
           "ok": true,
