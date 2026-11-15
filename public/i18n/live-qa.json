@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T11:00:51.323789+00:00",
+  "tested_at": "2026-11-15T11:22:14.526076+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 458,
-  "public_routes_pending": 478,
+  "public_routes_verified": 466,
+  "public_routes_pending": 470,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -8674,14 +8674,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-phuoc-dong": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tan-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-dien": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-tan": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tram-vang": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-trang-bang": {},
-    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-truong-hoa": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm": {},
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-phuoc-dong": {
+      "fingerprint": "659c92134b55be91",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:21:29.278478+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Long-distance transport from Hanoi - KCN East for safety?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内长途运输-KCN 东边安全?"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tan-binh": {
+      "fingerprint": "b12334e13d6d4f8d",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:21:35.507918+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How do the goods send from Hanoi to KNN New Zealand"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "货物如何从河内运往新西兰KNN"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-dien": {
+      "fingerprint": "a08214a5d67e9d46",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:21:41.453617+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Quick delivery in the Hanoi area - KCN Qingtin"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在河内地区的快递-KCN清廷"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-tan": {
+      "fingerprint": "88cac9d7a3b8e6a3",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:21:49.167018+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The choice to send the prestigious, cheap cargo at Hanoi to KNC TWIN"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "选择将河内有声望的廉价货物送到KNC TWIN"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tram-vang": {
+      "fingerprint": "a3fd453057f6ec70",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:21:56.953107+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Cheap goods delivery service in the Hanoi area - the Yellow KNNNN 1350m"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内地区廉价货物运送服务 -- -- 黄克南1 350米"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-trang-bang": {
+      "fingerprint": "0e68a22e3d2cbf1f",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:22:02.760507+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send prestigious cargo in the Hanoi area to the current KCN Eagle"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "将河内地区有名的货品送到现时的克军老鹰手中"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-truong-hoa": {
+      "fingerprint": "4ce26d2273e7aea6",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:22:08.654274+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Tips the prestigious sending unit in Hanoi - KNC School"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "提示河内著名的送校单位 - KNC学校"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm": {
+      "fingerprint": "cbe96c4fd1c02f3e",
+      "status": "pass",
+      "checked_at": "2026-11-15T11:22:14.492638+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) KNC at TpHCM (SKN)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10) KNC,TpHCM(SKN)"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-an-ha": {},
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-bau-dung": {},
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-binh-chieu": {},
@@ -9140,7 +9284,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T10:59:43.578540+00:00",
+      "checked_at": "2026-11-15T11:21:11.137572+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9160,7 +9304,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T10:59:56.502641+00:00",
+      "checked_at": "2026-11-15T11:21:23.426485+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9192,7 +9336,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T10:59:50.503336+00:00",
+      "checked_at": "2026-11-15T11:21:18.121046+00:00",
       "languages": {
         "en": {
           "ok": true,
