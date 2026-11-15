@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T14:22:42.729383+00:00",
+  "tested_at": "2026-11-15T14:46:06.914958+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 530,
-  "public_routes_pending": 406,
+  "public_routes_verified": 538,
+  "public_routes_pending": 398,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -10042,14 +10042,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-khanh-hoa": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-ninh-thuan": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-phu-yen": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-quang-nam": {},
-    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-quang-ngai": {},
-    "/blogs/gui-hang-hn-tay-nam-bo": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-ca-mau": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-can-tho": {},
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-khanh-hoa": {
+      "fingerprint": "d950b082423165b4",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:19.809703+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi to Hong Kong Savings Price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到香港的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-ninh-thuan": {
+      "fingerprint": "59078de5b424288b",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:26.540223+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi went to Nin Shun prestigious from A-06 Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到宁顺的送货服务 从A-06 Z获得盛誉"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-phu-yen": {
+      "fingerprint": "bb459e77cef49c29",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:33.251376+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Hanoi to Fuji Yeung cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到富士杨的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-quang-nam": {
+      "fingerprint": "3b21d0e7bc86cfb2",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:40.329161+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi sales service to Guangnan Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内对广南的销售服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-nam-trung-bo/chuyen-hang-ha-noi-quang-ngai": {
+      "fingerprint": "7d5ca70bd0450920",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:46.721941+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi to Guangzhou is cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到广州的送货服务很便宜,很有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo": {
+      "fingerprint": "710a851fa97b70bd",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:53.130928+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Western Districts Department"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内交通(10)西区局."
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-ca-mau": {
+      "fingerprint": "98d215e15810d298",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:45:59.549385+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi delivery service - Celebrity, cheap, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内送货服务----名人、廉价、安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-can-tho": {
+      "fingerprint": "c389d1050c91021f",
+      "status": "pass",
+      "checked_at": "2026-11-15T14:46:06.881620+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporting goods from Hanoi enters cheap Nintendo"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内运送货物进入便宜的任天堂"
+        }
+      }
+    },
     "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-dong-thap": {},
     "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-hau-giang": {},
     "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-kien-giang": {},
@@ -10436,7 +10580,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T14:21:41.598047+00:00",
+      "checked_at": "2026-11-15T14:45:00.549795+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10456,7 +10600,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T14:21:54.418021+00:00",
+      "checked_at": "2026-11-15T14:45:13.286947+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10488,7 +10632,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T14:21:48.869032+00:00",
+      "checked_at": "2026-11-15T14:45:07.367825+00:00",
       "languages": {
         "en": {
           "ok": true,
