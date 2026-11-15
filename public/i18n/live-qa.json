@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T14:46:06.914958+00:00",
+  "tested_at": "2026-11-15T15:09:12.980290+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 538,
-  "public_routes_pending": 398,
+  "public_routes_verified": 545,
+  "public_routes_pending": 391,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5711,9 +5711,9 @@
       }
     },
     "/blogs/goc-tu-van/tu-tp-ho-chi-minh-di-bac-lieu-bao-nhieu-km": {
-      "fingerprint": "b757eaa143237467",
+      "fingerprint": "dadf2b017839430f",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:27.764244+00:00",
+      "checked_at": "2026-11-15T15:08:26.342835+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10194,13 +10194,139 @@
         }
       }
     },
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-dong-thap": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-hau-giang": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-kien-giang": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-long-an": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-soc-trang": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-tien-giang": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-tra-vinh": {},
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-dong-thap": {
+      "fingerprint": "91569fec650539f1",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:08:33.174219+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transported from Hanoi to Celebrities, Cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内运到廉价名人店"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-hau-giang": {
+      "fingerprint": "87dd3e3561573677",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:08:39.796554+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping service from Hanoi goes to Miss Jiang cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到江小姐的航运服务很便宜"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-kien-giang": {
+      "fingerprint": "90a0b6ddf9bdae07",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:08:45.946876+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi to Jiang was cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到江的送货服务很便宜,很有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-long-an": {
+      "fingerprint": "a5229d9bfd352238",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:08:52.121010+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings deposit from Hanoi to Long An only 1000 m/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内到长安的收视率押金只有1000米/克"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-soc-trang": {
+      "fingerprint": "310568ef8b700fab",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:08:59.013240+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hanoi shipping service - cheap, safe moon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运服务 - 廉价而安全的月球"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-tien-giang": {
+      "fingerprint": "2841bbec5e9f30f8",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:09:05.988070+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi went to Jiang's Savings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到江口的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-tra-vinh": {
+      "fingerprint": "799cd3dfc08c1cb8",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:09:12.950116+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi sales service - cheap, professional tea"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内销售服务 -- -- 廉价、专业的茶叶"
+        }
+      }
+    },
     "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-vinh-long": {},
     "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-an-giang": {},
     "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-bac-lieu": {},
@@ -10580,7 +10706,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T14:45:00.549795+00:00",
+      "checked_at": "2026-11-15T15:08:07.150305+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10600,7 +10726,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T14:45:13.286947+00:00",
+      "checked_at": "2026-11-15T15:08:19.629859+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10632,7 +10758,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T14:45:07.367825+00:00",
+      "checked_at": "2026-11-15T15:08:14.132875+00:00",
       "languages": {
         "en": {
           "ok": true,
