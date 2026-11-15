@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T17:39:54.361470+00:00",
+  "tested_at": "2026-11-15T18:03:29.642056+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 601,
-  "public_routes_pending": 335,
+  "public_routes_verified": 609,
+  "public_routes_pending": 327,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11391,14 +11391,158 @@
         }
       }
     },
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-thanh-hoa": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-vinh-nghe-an": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-ha-tinh": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-thanh-hoa": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-vinh-nghe-an": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-ha-tinh": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-thanh-hoa": {},
-    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-vinh-nghe-an": {},
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-thanh-hoa": {
+      "fingerprint": "970d641f7d0e5a2d",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:02:40.243516+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Long An to Qing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安寄回清的公务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-long-an-vinh-nghe-an": {
+      "fingerprint": "e8465c00e46095ac",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:02:47.028249+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Long An to Art An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安寄到艺术安的服务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-ha-tinh": {
+      "fingerprint": "27599684f873f9d0",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:02:53.906742+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from Western Europe to Han Jing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧寄给韩晶的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-thanh-hoa": {
+      "fingerprint": "0ae4019145fd45db",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:03:01.780678+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "I'm going to have to go."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "我该走了"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-tay-ninh-vinh-nghe-an": {
+      "fingerprint": "b65e93dd09cf378a",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:03:08.696336+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for delivery from Western Europe to Art An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧到阿特安的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-ha-tinh": {
+      "fingerprint": "1b26ca6fdb881fec",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:03:15.572765+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service rating sent from the Chinese Gong to Han Jing"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从中克贡到韩晶的服务评级"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-thanh-hoa": {
+      "fingerprint": "268ad5ee1be2c833",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:03:22.687933+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the Chinese to Qinghua"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "中国人送来清华的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-vinh-nghe-an": {
+      "fingerprint": "f50659b871422c4c",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:03:29.606957+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service rating sent from the Chinese Gong to Art An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "由\"中国功\"到\"艺安\"的服役评分"
+        }
+      }
+    },
     "/blogs/gui-hang-nb-mien-nam": {},
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-duong": {},
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-phuoc": {},
@@ -11714,7 +11858,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T17:38:54.762563+00:00",
+      "checked_at": "2026-11-15T18:02:19.909620+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11734,7 +11878,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T17:39:06.365063+00:00",
+      "checked_at": "2026-11-15T18:02:33.402647+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11766,7 +11910,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T17:39:01.049550+00:00",
+      "checked_at": "2026-11-15T18:02:27.132161+00:00",
       "languages": {
         "en": {
           "ok": true,
