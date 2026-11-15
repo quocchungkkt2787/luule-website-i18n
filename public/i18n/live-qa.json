@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T19:49:29.123499+00:00",
+  "tested_at": "2026-11-15T20:09:59.959256+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 649,
-  "public_routes_pending": 287,
+  "public_routes_verified": 657,
+  "public_routes_pending": 279,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -12303,14 +12303,158 @@
         }
       }
     },
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-bac-lieu": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-ben-tre": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-ca-mau": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-can-tho": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-dong-thap": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-hau-giang": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-kien-giang": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-long-an": {},
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-bac-lieu": {
+      "fingerprint": "589ed027b8ac811a",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:16.137245+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transport Service from Saigon (TpHCM) to Silver Mint"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到银矿的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-ben-tre": {
+      "fingerprint": "8b27482207e82965",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:22.549022+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transport Service from Saigon (TpHCM) to Ben Tre"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到Ben Tre的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-ca-mau": {
+      "fingerprint": "7be8c7ffc5c55c99",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:28.507880+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) to Pakistan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到巴基斯坦的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-can-tho": {
+      "fingerprint": "73424c847ac4adf1",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:35.355889+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package service from Saigon (TpHCM) to low-cost poetry"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到低成本诗歌的包裹服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-dong-thap": {
+      "fingerprint": "daf5a7ac78c9cc31",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:41.623006+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) to Copper"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到铜的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-hau-giang": {
+      "fingerprint": "aa53bcf24440b0af",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:47.591523+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) to Miss Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到江小姐的交通服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-kien-giang": {
+      "fingerprint": "7bee5dc2a773df13",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:54.200212+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) to Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到江的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-long-an": {
+      "fingerprint": "e28947f59d784987",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:09:59.934030+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package service from Saigon (TpHCM) to Long An cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到长安便宜的包服务"
+        }
+      }
+    },
     "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-soc-trang": {},
     "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tien-giang": {},
     "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-tra-vinh": {},
@@ -12578,7 +12722,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T19:48:23.494513+00:00",
+      "checked_at": "2026-11-15T20:08:57.218934+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12598,7 +12742,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T19:48:35.606211+00:00",
+      "checked_at": "2026-11-15T20:09:09.450835+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12630,7 +12774,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T19:48:29.817464+00:00",
+      "checked_at": "2026-11-15T20:09:03.371251+00:00",
       "languages": {
         "en": {
           "ok": true,
