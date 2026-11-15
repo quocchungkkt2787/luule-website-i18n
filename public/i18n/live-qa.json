@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T06:32:52.040121+00:00",
+  "tested_at": "2026-11-15T06:54:41.467401+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 362,
-  "public_routes_pending": 574,
+  "public_routes_verified": 370,
+  "public_routes_pending": 566,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -6850,14 +6850,158 @@
         }
       }
     },
-    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-quang-ninh": {},
-    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-thai-nguyen": {},
-    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-vinh-phuc": {},
-    "/blogs/gui-hang-dn-mien-bac": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-bac-giang": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-bac-ninh": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-ha-nam": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-ha-noi": {},
+    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-quang-ninh": {
+      "fingerprint": "96a9b862015edcb9",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:53:56.547926+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from Lucky to the cheap, safe Ning"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把货从幸运送到便宜又安全的宁国"
+        }
+      }
+    },
+    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-thai-nguyen": {
+      "fingerprint": "2ea3a711f8a7347c",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:02.839993+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings deposit from the Lucky to the Yuan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率从幸运到元"
+        }
+      }
+    },
+    "/blogs/gui-hang-bp-mien-bac/chuyen-hang-binh-phuoc-vinh-phuc": {
+      "fingerprint": "ae1fd65075f28725",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:09.139240+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings deposit from the Lucky to the Wings"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"幸运之翼\"收视率保证金"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac": {
+      "fingerprint": "a78c8768bf852c6d",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:14.985853+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Literal Transportation Nai (13) Northern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北方省份(13个)"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-bac-giang": {
+      "fingerprint": "9adf68dd71047df0",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:22.441975+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings of the service deposits from Koyi to North Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "高义至北江服务存款的收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-bac-ninh": {
+      "fingerprint": "9e1de4cb5a795d80",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:29.711271+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service ratings from Kogi to North Ning"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从高木到北宁的服务收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-ha-nam": {
+      "fingerprint": "c7fb8e67cb41dd85",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:35.575348+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from Kogi to Hannan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从高木寄去汉南的服务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-ha-noi": {
+      "fingerprint": "92bec0134956402a",
+      "status": "pass",
+      "checked_at": "2026-11-15T06:54:41.428406+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The rater bill deposits from the Kogi to Hanoi 1000 mph/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从科吉到河内1 000 mph/kg的票面存款"
+        }
+      }
+    },
     "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hai-duong": {},
     "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hai-phong": {},
     "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hung-yen": {},
@@ -7412,7 +7556,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T06:31:49.547535+00:00",
+      "checked_at": "2026-11-15T06:53:39.020648+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7432,7 +7576,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T06:32:01.383518+00:00",
+      "checked_at": "2026-11-15T06:53:50.456030+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7464,7 +7608,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T06:31:55.952161+00:00",
+      "checked_at": "2026-11-15T06:53:45.261071+00:00",
       "languages": {
         "en": {
           "ok": true,
