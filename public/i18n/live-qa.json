@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T00:17:36.475496+00:00",
+  "tested_at": "2026-11-15T00:38:26.040700+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 227,
-  "public_routes_pending": 709,
+  "public_routes_verified": 235,
+  "public_routes_pending": 701,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -4266,14 +4266,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/ga-sai-gon": {},
-    "/blogs/goc-tu-van/ga-song-than": {},
-    "/blogs/goc-tu-van/gia-ve-tau-hoa-bac-nam": {},
-    "/blogs/goc-tu-van/giai-dap-bien-cam-quay-dau-co-duoc-re-trai-khong": {},
-    "/blogs/goc-tu-van/giai-phap-toi-uu-khi-gui-hang-cho-moi-doanh-nghiep": {},
-    "/blogs/goc-tu-van/giao-hang-tiet-kiem-tra-cuu-van-don": {},
-    "/blogs/goc-tu-van/gio-tau-hai-duong-hai-phong": {},
-    "/blogs/goc-tu-van/gui-cod-la-gi-va-kinh-nghiem-ship-cod": {},
+    "/blogs/goc-tu-van/ga-sai-gon": {
+      "fingerprint": "3fd30c25dece1014",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:37:39.192698+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Learning About Saigon Where's the address? Phone number?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "学习西贡 地址在哪儿? 地址在哪? 地址在哪? 地址在哪? Where's the address? 电话号码?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/ga-song-than": {
+      "fingerprint": "9a36e9209cade1d4",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:37:45.591616+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Learning about the Spirit Wave Where's the address? Phone number?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "得知\"灵波\"的消息 地址在哪里? 电话号码?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gia-ve-tau-hoa-bac-nam": {
+      "fingerprint": "c13a1adc6c4a0fae",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:37:52.292178+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Are North–South train tickets expensive nowadays?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "现在越南南北线火车票贵吗？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/giai-dap-bien-cam-quay-dau-co-duoc-re-trai-khong": {
+      "fingerprint": "a27d8351d79297e4",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:37:58.687936+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Can you turn left at a no-U-turn sign?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "禁止掉头标志处可以左转吗？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/giai-phap-toi-uu-khi-gui-hang-cho-moi-doanh-nghiep": {
+      "fingerprint": "afe957604e6e3728",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:38:05.202324+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Optimal Solutions When Sent to All Businesses"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送给所有企业时的优化解决方案"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/giao-hang-tiet-kiem-tra-cuu-van-don": {
+      "fingerprint": "85b6ad64d81de81c",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:38:11.905316+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery saves search for single-step codes - simple step in one minute"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送可保存搜索单步代码 - 一分钟后简单步骤"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gio-tau-hai-duong-hai-phong": {
+      "fingerprint": "cfa6f839ee20c120",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:38:18.867326+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Seaboard timer - The most complete and detailed room!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海豹计时器 - 最完整和详细的房间!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/gui-cod-la-gi-va-kinh-nghiem-ship-cod": {
+      "fingerprint": "2724fdd924c36a36",
+      "status": "pass",
+      "checked_at": "2026-11-15T00:38:26.010737+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the form of sending COD? Experience Ship Cod needs to know!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派遣COD的形式是什么? 经验船鳕需要知道!"
+        }
+      }
+    },
     "/blogs/goc-tu-van/gui-giay-to-qua-buu-dien": {},
     "/blogs/goc-tu-van/gui-hang-ha-noi-hai-phong": {},
     "/blogs/goc-tu-van/gui-hang-nhanh-ha-noi-sai-gon": {},
@@ -4964,7 +5108,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T00:16:27.008391+00:00",
+      "checked_at": "2026-11-15T00:37:19.921955+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4984,7 +5128,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T00:16:39.901496+00:00",
+      "checked_at": "2026-11-15T00:37:32.386008+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5016,7 +5160,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T00:16:33.890358+00:00",
+      "checked_at": "2026-11-15T00:37:26.549811+00:00",
       "languages": {
         "en": {
           "ok": true,
