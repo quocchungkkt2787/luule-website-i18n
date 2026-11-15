@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T12:54:51.805801+00:00",
+  "tested_at": "2026-11-15T13:15:27.431671+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 498,
-  "public_routes_pending": 438,
+  "public_routes_verified": 506,
+  "public_routes_pending": 430,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -9434,14 +9434,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-binh-duong": {},
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-binh-phuoc": {},
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-dong-nai": {},
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-long-an": {},
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-sai-gon": {},
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-tay-ninh": {},
-    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-vung-tau": {},
-    "/blogs/gui-hang-hn-bac-trung-bo": {},
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-binh-duong": {
+      "fingerprint": "6a438849b4dcf277",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:14:45.924139+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Administrative Service Bills from Ocean to Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海洋到太平洋的行政服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-binh-phuoc": {
+      "fingerprint": "e1af1a9a04a826a6",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:14:51.984958+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from the Ocean to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "服务费是从海洋寄到幸运的"
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-dong-nai": {
+      "fingerprint": "e00480363eb1acbb",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:14:57.486377+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Charter for shipping services from Ocean to Plain Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海洋到平原的航运服务章程"
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-long-an": {
+      "fingerprint": "a5bf1ad693699c81",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:15:03.600719+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Saltance Service Bill from Ocean\"."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"来自海洋的消防服务费\""
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-sai-gon": {
+      "fingerprint": "b6ccda12ab359c01",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:15:09.733367+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Charts deposit from Ocean to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海洋到西贡的海图矿床(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-tay-ninh": {
+      "fingerprint": "a0ee368577d491e4",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:15:16.011100+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery unit from the Ocean to the prestigious West Ning, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海洋到西宁的送货单位 便宜"
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-vung-tau": {
+      "fingerprint": "3b41340b37bcbd52",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:15:21.702289+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the cargo from the Ocean to the ship safely, fast, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海洋把货物安全地,快速地,廉价地送到船上"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-bac-trung-bo": {
+      "fingerprint": "ab753119b66c9f21",
+      "status": "pass",
+      "checked_at": "2026-11-15T13:15:27.395030+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Northern Central Provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10) 中北部省份"
+        }
+      }
+    },
     "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-ha-tinh": {},
     "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-hue": {},
     "/blogs/gui-hang-hn-bac-trung-bo/chuyen-hang-ha-noi-nghe-an": {},
@@ -9860,7 +10004,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T12:53:42.347491+00:00",
+      "checked_at": "2026-11-15T13:14:28.247914+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9880,7 +10024,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T12:53:56.093249+00:00",
+      "checked_at": "2026-11-15T13:14:40.396668+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9912,7 +10056,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T12:53:49.814938+00:00",
+      "checked_at": "2026-11-15T13:14:34.030258+00:00",
       "languages": {
         "en": {
           "ok": true,
