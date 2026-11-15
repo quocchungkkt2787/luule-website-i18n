@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T11:44:47.281073+00:00",
+  "tested_at": "2026-11-15T12:08:12.104425+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 474,
-  "public_routes_pending": 462,
+  "public_routes_verified": 482,
+  "public_routes_pending": 454,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -8978,14 +8978,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-linh-trung": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-phong-phu": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-phuoc-hiep": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-phu-trung": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-tao": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-thoi-hiep": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-thuan": {},
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-linh-trung": {
+      "fingerprint": "bc89e725d1baa256",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:07:24.331845+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping experience - Middle Crystal 1, 2 MEDI"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运经验-中晶1,2 MEDI"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-phong-phu": {
+      "fingerprint": "20abd1a6d9964abc",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:07:30.949807+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Hanoi - KCN Fung Fuji"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内的经验-KCN丰富士"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-phuoc-hiep": {
+      "fingerprint": "f69ac89c87f71000",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:07:37.295436+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Hanoi - KNC Blessed"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内的经验"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-binh": {
+      "fingerprint": "fb1beb76a4c92a65",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:07:43.769121+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi's most prestigious delivery unit"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内最出名的送货单位"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-phu-trung": {
+      "fingerprint": "8da5b55e5a4fbe71",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:07:51.454387+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send me Hanoi - KNN New Fuji Fast - Cost 2050"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派我河内 - KNN 新富士快 - 成本2050"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-tao": {
+      "fingerprint": "ecd388215258ea39",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:07:58.623139+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience to know when sending Hanoi-KN New"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内-KN New的经验"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-thoi-hiep": {
+      "fingerprint": "70cd7f287cf6ab61",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:08:05.437951+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division to Send Hanoi - KNN New to the Professional Union"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "该司将河内-KNN New送入职业联盟"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tan-thuan": {
+      "fingerprint": "81963af5675fd16c",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:08:12.073415+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi's most prestigious delivery unit - KNN Tan Shun"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内最有名的送货单位——克南·谭顺."
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tay-bac-cu-chi": {},
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-vinh-loc": {},
     "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-xuan-thoi-thuong": {},
@@ -9428,7 +9572,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T11:43:44.696008+00:00",
+      "checked_at": "2026-11-15T12:07:04.411330+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9448,7 +9592,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T11:43:56.751943+00:00",
+      "checked_at": "2026-11-15T12:07:17.653106+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9480,7 +9624,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T11:43:51.306135+00:00",
+      "checked_at": "2026-11-15T12:07:11.474968+00:00",
       "languages": {
         "en": {
           "ok": true,
