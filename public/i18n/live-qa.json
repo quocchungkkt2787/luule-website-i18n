@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T02:47:27.385212+00:00",
+  "tested_at": "2026-11-15T03:11:05.681108+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 282,
-  "public_routes_pending": 654,
+  "public_routes_verified": 290,
+  "public_routes_pending": 646,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5330,14 +5330,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/quoc-lo-1a-dai-bao-nhieu-km": {},
-    "/blogs/goc-tu-van/rut-tien-bang-chung-minh-thu-agribank": {},
-    "/blogs/goc-tu-van/so-dien-thoai-ben-xe-khach-thai-nguyen": {},
-    "/blogs/goc-tu-van/so-dien-thoai-ga-hai-phong": {},
-    "/blogs/goc-tu-van/so-dien-thoai-ga-nam-dinh": {},
-    "/blogs/goc-tu-van/so-dien-thoai-ga-sai-gon": {},
-    "/blogs/goc-tu-van/so-dien-thoai-hotline-cua-ga-ha-noi": {},
-    "/blogs/goc-tu-van/tau-nhanh-sai-gon-ha-noi": {},
+    "/blogs/goc-tu-van/quoc-lo-1a-dai-bao-nhieu-km": {
+      "fingerprint": "a6b0af5cd58efc08",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:14.419508+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long is Highway 1A? Route 1A length order via provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "1A高速公路有多长? 路线 1A 通过省份的长度顺序"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/rut-tien-bang-chung-minh-thu-agribank": {
+      "fingerprint": "64c1543c75ac83a2",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:21.024168+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Instructions: Retrieve ID at Agribank"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "指示:在阿格里班克取得身份证"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/so-dien-thoai-ben-xe-khach-thai-nguyen": {
+      "fingerprint": "c47063979202dae4",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:28.325288+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The number of phone terminals of Thai passengers [new Sunday]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "泰国旅客的电话终端数量[新周日]"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/so-dien-thoai-ga-hai-phong": {
+      "fingerprint": "c0fbfcd73e8a28c4",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:35.915473+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Sea Hall Station [The address - phone number - How to book a train ticket]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海堂站[地址-电话号码-如何订火车票]."
+        }
+      }
+    },
+    "/blogs/goc-tu-van/so-dien-thoai-ga-nam-dinh": {
+      "fingerprint": "e2bd9f2ab79b316d",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:44.455004+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[FAQ] What is Nam Định Railway Station's phone number?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "【常见问题】南定火车站的电话号码是多少？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/so-dien-thoai-ga-sai-gon": {
+      "fingerprint": "df88b5466169725e",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:51.765268+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Station Number and Information You Need to Know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡站的编号和您需要知道的信息"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/so-dien-thoai-hotline-cua-ga-ha-noi": {
+      "fingerprint": "881cc13240e0485d",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:10:58.437483+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hotline number of Hanoi station combined"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内站的热线号码"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tau-nhanh-sai-gon-ha-noi": {
+      "fingerprint": "539c3902b9253753",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:11:05.650837+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[FAQ] How many hours does the fastest train from Sài Gòn to Hanoi take?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "【常见问题】西贡至河内最快的火车需要多少小时？"
+        }
+      }
+    },
     "/blogs/goc-tu-van/tau-tu-vinh-ha-noi": {},
     "/blogs/goc-tu-van/thanh-tra-giao-thong-co-duoc-dung-xe-khong": {},
     "/blogs/goc-tu-van/thu-tuc-chuyen-vung-xe-may": {},
@@ -5972,7 +6116,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T02:46:18.717478+00:00",
+      "checked_at": "2026-11-15T03:09:54.714914+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5992,7 +6136,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T02:46:31.631842+00:00",
+      "checked_at": "2026-11-15T03:10:07.408149+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6024,7 +6168,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T02:46:25.666576+00:00",
+      "checked_at": "2026-11-15T03:10:01.484947+00:00",
       "languages": {
         "en": {
           "ok": true,
