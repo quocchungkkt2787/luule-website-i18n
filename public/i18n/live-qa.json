@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T12:31:16.319499+00:00",
+  "tested_at": "2026-11-15T12:54:51.805801+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 490,
-  "public_routes_pending": 446,
+  "public_routes_verified": 498,
+  "public_routes_pending": 438,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -9282,14 +9282,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-dong-xuyen": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-long-huong": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-long-son": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-my-xuan-b1-conac-dai-duong": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-my-xuan-b1-tien-hung": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-my-xuan": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-phu-my": {},
-    "/blogs/gui-hang-hd-mien-nam": {},
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-dong-xuyen": {
+      "fingerprint": "2c1031072a10cff1",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:03.540343+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send cheap goods at Hanoi - KNN Eastchuan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在河内寄出便宜货——克南东川."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-long-huong": {
+      "fingerprint": "fd60232ad69ca9f2",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:10.273817+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send fast at Hanoi - KNN Longxang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送快去河内 - KNN长相"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-long-son": {
+      "fingerprint": "eaa4fa321e582335",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:17.030436+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Professional delivery at Hanoi - KNN Long Shan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在河内的专业分娩-KNN长山"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-my-xuan-b1-conac-dai-duong": {
+      "fingerprint": "b4eb798718f60635",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:30.708024+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transfers from Hanoi to KCN American Spring B1 - Conac & Ocean"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内转移到KCN 美国之春B1 - Conac & Ocean"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-my-xuan-b1-tien-hung": {
+      "fingerprint": "60d145f0251c456f",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:37.686210+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The need to send supplies in Hanoi - USA Chun B1"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "需要向河内运送物资-美国春B1"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-my-xuan": {
+      "fingerprint": "af9b1d0e21d1030d",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:23.686185+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send quality goods at Hanoi - KNA Song A, A2"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在河内发送优质商品 - KNA Song A, A2"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-phu-my": {
+      "fingerprint": "2b135172123b36ee",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:44.733917+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send prestigious cargo at Hanoi - KCN Fuji 1, 2, 2 MR and 3"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在河内发送有名望的货物 -- -- KCN Fuji 1、2、3"
+        }
+      }
+    },
+    "/blogs/gui-hang-hd-mien-nam": {
+      "fingerprint": "05d37620b861e2d0",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:54:51.773379+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Oceanic shipping (10) Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海洋航运(10) 南方省份"
+        }
+      }
+    },
     "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-binh-duong": {},
     "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-binh-phuoc": {},
     "/blogs/gui-hang-hd-mien-nam/chuyen-hang-hai-duong-dong-nai": {},
@@ -9716,7 +9860,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T12:30:14.121334+00:00",
+      "checked_at": "2026-11-15T12:53:42.347491+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9736,7 +9880,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T12:30:26.503695+00:00",
+      "checked_at": "2026-11-15T12:53:56.093249+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9768,7 +9912,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T12:30:20.676240+00:00",
+      "checked_at": "2026-11-15T12:53:49.814938+00:00",
       "languages": {
         "en": {
           "ok": true,
