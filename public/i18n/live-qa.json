@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T12:08:12.104425+00:00",
+  "tested_at": "2026-11-15T12:31:16.319499+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 482,
-  "public_routes_pending": 454,
+  "public_routes_verified": 490,
+  "public_routes_pending": 446,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -9130,14 +9130,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tay-bac-cu-chi": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-vinh-loc": {},
-    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-xuan-thoi-thuong": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-cai-mep": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-chau-duc": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-da-bac": {},
-    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-dat-do": {},
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-tay-bac-cu-chi": {
+      "fingerprint": "d91b0f8d9428143a",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:30:32.515903+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Notes on sending Hanoi's - KCN Northwest Chi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "关于向河内发送KCN西北志的说明"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-vinh-loc": {
+      "fingerprint": "eca0fc1f694e3299",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:30:38.660815+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience of Sending Hanoi - KNNIN 1st, 3"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内的经验-KNNIN第一、三期"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-tphcm/chuyen-hang-ha-noi-kcn-xuan-thoi-thuong": {
+      "fingerprint": "832320918b9b1728",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:30:44.730119+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The course of sending Hanoi-KN Chun-Han"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送河内金春汉的路线"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau": {
+      "fingerprint": "a0909493a4af56f8",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:30:50.976209+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Industrial Zone at the China Gang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10)中国帮的工业区."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-cai-mep": {
+      "fingerprint": "7bb75a6fb7dc1efd",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:30:57.616622+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The prestigious delivery unit in Hanoi - KNC The OTC"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内著名的送货单位——KNC 东方木材公司"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-chau-duc": {
+      "fingerprint": "82aef09aa7b52cbf",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:31:03.710299+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Delivering cheap goods in Hanoi - KNNzhou Germany"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在河内交付廉价货物 -- -- 昆州德国"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-da-bac": {
+      "fingerprint": "26051e3e107e2a1a",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:31:10.148406+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The prestigious cargo unit in Hanoi - The Silver Stones"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内著名的货运单位——\"银石\""
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-dat-do": {
+      "fingerprint": "fdd3c857f6150a85",
+      "status": "pass",
+      "checked_at": "2026-11-15T12:31:16.283168+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Quality delivery at Hanoi - Red Land"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内优质交付-红地."
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-dong-xuyen": {},
     "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-long-huong": {},
     "/blogs/gui-hang-ha-noi-kcn-vung-tau/chuyen-hang-ha-noi-kcn-long-son": {},
@@ -9572,7 +9716,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T12:07:04.411330+00:00",
+      "checked_at": "2026-11-15T12:30:14.121334+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9592,7 +9736,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T12:07:17.653106+00:00",
+      "checked_at": "2026-11-15T12:30:26.503695+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9624,7 +9768,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T12:07:11.474968+00:00",
+      "checked_at": "2026-11-15T12:30:20.676240+00:00",
       "languages": {
         "en": {
           "ok": true,
