@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T04:40:19.991730+00:00",
+  "tested_at": "2026-11-15T05:03:21.578964+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 322,
-  "public_routes_pending": 614,
+  "public_routes_verified": 330,
+  "public_routes_pending": 606,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -6090,14 +6090,158 @@
         }
       }
     },
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-bac-giang": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-bac-ninh": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ha-nam": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ha-noi": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-hai-duong": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-hai-phong": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-hung-yen": {},
-    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-nam-dinh": {},
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-bac-giang": {
+      "fingerprint": "79ec893d51b4f09a",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:02:32.829201+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of sale from the Pacific to North Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋到北江的销售单"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-bac-ninh": {
+      "fingerprint": "a162f3c757634957",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:02:39.866624+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings are deposited from the Pacific to the cheap North Ning"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率从太平洋存入便宜的北宁"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ha-nam": {
+      "fingerprint": "96618861fb2c9154",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:02:46.601810+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from the Pacific to Hannan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋至汉南的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ha-noi": {
+      "fingerprint": "e880169648e331d7",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:02:53.603332+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Bills sent from the Pacific to Hanoi 1000 mph/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋向河内发送的账单"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-hai-duong": {
+      "fingerprint": "d961b3c309caec96",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:03:00.113299+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Prices for shipping from the Pacific to Ocean"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋到海洋的航运价格"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-hai-phong": {
+      "fingerprint": "1a6488e141d53cf0",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:03:07.701192+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from the Pacific to Sea Hall"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋寄到海堂的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-hung-yen": {
+      "fingerprint": "b76450860ece658c",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:03:14.561259+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from Pacific to Xingyan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从太平洋寄到兴安的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-nam-dinh": {
+      "fingerprint": "5f5bedf6b9f35985",
+      "status": "pass",
+      "checked_at": "2026-11-15T05:03:21.551606+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The fee bill deposit from the Pacific to South Korea"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "太平洋对韩国的收费存款"
+        }
+      }
+    },
     "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-ninh-binh": {},
     "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-phu-tho": {},
     "/blogs/gui-hang-bd-mien-bac/chuyen-hang-binh-duong-quang-ninh": {},
@@ -6692,7 +6836,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T04:39:13.541871+00:00",
+      "checked_at": "2026-11-15T05:02:13.000228+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6712,7 +6856,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T04:39:25.595695+00:00",
+      "checked_at": "2026-11-15T05:02:26.185732+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6744,7 +6888,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T04:39:19.897156+00:00",
+      "checked_at": "2026-11-15T05:02:20.025124+00:00",
       "languages": {
         "en": {
           "ok": true,
