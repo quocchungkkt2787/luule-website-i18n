@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T19:28:56.876669+00:00",
+  "tested_at": "2026-11-15T19:49:29.123499+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 641,
-  "public_routes_pending": 295,
+  "public_routes_verified": 649,
+  "public_routes_pending": 287,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -12151,14 +12151,158 @@
         }
       }
     },
-    "/blogs/gui-hang-sg-dong-nam-bo": {},
-    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-binh-duong": {},
-    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-binh-phuoc": {},
-    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-dong-nai": {},
-    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-tay-ninh": {},
-    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-vung-tau": {},
-    "/blogs/gui-hang-sg-tay-nam-bo": {},
-    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-an-giang": {},
+    "/blogs/gui-hang-sg-dong-nam-bo": {
+      "fingerprint": "bddeb0d93d178358",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:48:43.063321+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation The Southeastern provinces of the Ministry"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输公司 外交部东南各省"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-binh-duong": {
+      "fingerprint": "5d9407fe5a26500e",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:48:49.462809+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package Services from Saigon (TpHCM) to the prestigious Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到有声望的太平洋的包裹服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-binh-phuoc": {
+      "fingerprint": "b703f91168f3f3b5",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:48:56.113257+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transport Service from Saigon (TpHCM) to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到Lucky的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-dong-nai": {
+      "fingerprint": "1c6bf4d060589fea",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:49:03.484057+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) to the cheap bronze"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到廉价青铜的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-tay-ninh": {
+      "fingerprint": "a28c5516e6f2242d",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:49:09.638730+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Saigon (TpHCM) to Western Europe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡到西欧的运输服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-dong-nam-bo/chuyen-hang-sai-gon-vung-tau": {
+      "fingerprint": "7e39dedd38a1d2ec",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:49:15.820650+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) to the cheap Chinese Dance"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到廉价中国舞蹈的快递服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo": {
+      "fingerprint": "c58ee8e32a919b65",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:49:22.962660+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from TP.HCM to the Southwestern provinces of the Ministry"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从TP.HCM到该部西南部各省的运送服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-an-giang": {
+      "fingerprint": "f012b27035e477cf",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:49:29.092469+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) goes to Anhang good price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡(TpHCM)的送货服务到安杭的好价钱"
+        }
+      }
+    },
     "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-bac-lieu": {},
     "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-ben-tre": {},
     "/blogs/gui-hang-sg-tay-nam-bo/chuyen-hang-sai-gon-ca-mau": {},
@@ -12434,7 +12578,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T19:27:54.160129+00:00",
+      "checked_at": "2026-11-15T19:48:23.494513+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12454,7 +12598,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T19:28:06.303163+00:00",
+      "checked_at": "2026-11-15T19:48:35.606211+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12486,7 +12630,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T19:28:00.679938+00:00",
+      "checked_at": "2026-11-15T19:48:29.817464+00:00",
       "languages": {
         "en": {
           "ok": true,
