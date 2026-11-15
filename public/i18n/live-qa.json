@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T07:16:11.604650+00:00",
+  "tested_at": "2026-11-15T07:38:05.555207+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 378,
-  "public_routes_pending": 558,
+  "public_routes_verified": 386,
+  "public_routes_pending": 550,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -7154,14 +7154,158 @@
         }
       }
     },
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-vinh-phuc": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-bau-bang": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-khanh-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-my-phuoc": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-song-than": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-tan-my-2": {},
-    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-visip-2b": {},
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-vinh-phuc": {
+      "fingerprint": "2227e7425e5f6ce7",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:23.491687+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from Koo Nai went to Wing Fu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "古乃寄来的服务图去荣福了"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong": {
+      "fingerprint": "f016bcb2c1b27619",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:30.206439+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Industrial Zone in the Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10) 太平洋工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-bau-bang": {
+      "fingerprint": "7c0ddb8f3ddf0650",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:35.916226+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The experience of sending Hanoi-KN Eagle must know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派河内-KN老鹰的经验必须知道"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-khanh-binh": {
+      "fingerprint": "440fdde387b3dca7",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:42.047485+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping unit - KNNNH Penh Ping's most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运单位 - KNNNH Ping最有名."
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-my-phuoc": {
+      "fingerprint": "86d25d54b5eba47d",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:48.250708+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The course of sending Hanoi-KN America Blessed 2, 3 Fame at Liu Li"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送河内-KN美国 祝福二三名人刘力"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-song-than": {
+      "fingerprint": "e54c6c2d900f3c99",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:53.863506+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi Transport Service - KNN Waves 2, 3"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内交通服务 - KNN Waves 2, 3"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-tan-my-2": {
+      "fingerprint": "15a3e4ef7e021726",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:37:59.609119+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping experience - New American New York 2 Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运经验——美国纽约 2太平洋"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-visip-2b": {
+      "fingerprint": "19e210f76602e313",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:38:05.527197+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why was Liu La selected to send Hanoi Line - KCN Visip 2B?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘拉为何选送河内线——KCN Visip 2B?."
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-vsip-1-2": {},
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc": {},
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc/chuyen-hang-ha-noi-kcn-bac-dong-phu": {},
@@ -7700,7 +7844,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T07:15:09.657906+00:00",
+      "checked_at": "2026-11-15T07:37:05.751954+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7720,7 +7864,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T07:15:21.988329+00:00",
+      "checked_at": "2026-11-15T07:37:17.488794+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7752,7 +7896,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T07:15:16.261075+00:00",
+      "checked_at": "2026-11-15T07:37:12.167092+00:00",
       "languages": {
         "en": {
           "ok": true,
