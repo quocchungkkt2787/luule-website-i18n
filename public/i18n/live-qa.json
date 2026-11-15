@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T18:03:29.642056+00:00",
+  "tested_at": "2026-11-15T18:24:30.331914+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 609,
-  "public_routes_pending": 327,
+  "public_routes_verified": 617,
+  "public_routes_pending": 319,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11543,14 +11543,158 @@
         }
       }
     },
-    "/blogs/gui-hang-nb-mien-nam": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-duong": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-phuoc": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-dong-nai": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-long-an": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-sai-gon": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-tay-ninh": {},
-    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-vung-tau": {},
+    "/blogs/gui-hang-nb-mien-nam": {
+      "fingerprint": "4b6fbec958d903ab",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:23:43.099518+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Nepth Transport\". Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Nepth运报\". 南部省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-duong": {
+      "fingerprint": "d21700b8c091cfa1",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:23:49.566860+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the goods from Ninh Ping to the prestigious Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把宁平的货送去太平洋"
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-phuoc": {
+      "fingerprint": "8f9c5b7db31af7c8",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:23:55.835083+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Ninh Ping Go to Lucky Cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "宁平的送货服务 去幸运便宜"
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-dong-nai": {
+      "fingerprint": "d21a7f99345ddbca",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:24:02.056695+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Prespondent Service Board Sends From Ninh Ping to Plain Nai\""
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"通讯服务局从宁平发往平原奈\""
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-long-an": {
+      "fingerprint": "352f50090fa38598",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:24:08.434583+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Ninh Ping go Long An prestigious, good price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "宁平的送货服务 长安有名,价钱不错"
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-sai-gon": {
+      "fingerprint": "0f34d446c48818a5",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:24:15.256522+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Billing from Ninh Ping to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从宁平到西贡的比林 (TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-tay-ninh": {
+      "fingerprint": "a6ea83331be14a2d",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:24:22.779324+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Ninhping to Western Europe is cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从宁平到西欧的送货服务是廉价的,有声望的"
+        }
+      }
+    },
+    "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-vung-tau": {
+      "fingerprint": "a26215e475aec000",
+      "status": "pass",
+      "checked_at": "2026-11-15T18:24:30.303463+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of sale from Ninh Ping to China"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从宁平到中国的销售单"
+        }
+      }
+    },
     "/blogs/gui-hang-nd-mien-nam": {},
     "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-binh-duong": {},
     "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-binh-phuoc": {},
@@ -11858,7 +12002,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T18:02:19.909620+00:00",
+      "checked_at": "2026-11-15T18:23:21.700394+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11878,7 +12022,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T18:02:33.402647+00:00",
+      "checked_at": "2026-11-15T18:23:36.440386+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11910,7 +12054,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T18:02:27.132161+00:00",
+      "checked_at": "2026-11-15T18:23:30.671411+00:00",
       "languages": {
         "en": {
           "ok": true,
