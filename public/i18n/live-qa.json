@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T16:35:47.346355+00:00",
+  "tested_at": "2026-11-15T16:58:08.132783+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 577,
-  "public_routes_pending": 359,
+  "public_routes_verified": 585,
+  "public_routes_pending": 351,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -10935,14 +10935,158 @@
         }
       }
     },
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-bac-giang": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-bac-ninh": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ha-nam": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ha-noi": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-hai-duong": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-hai-phong": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-hung-yen": {},
-    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh": {},
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-bac-giang": {
+      "fingerprint": "0e6c9612c58ff0de",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:57:22.853065+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Details of the delivery service from Long An to North Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到北江的快递服务详情"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-bac-ninh": {
+      "fingerprint": "7026bc92d6ef6fa7",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:57:29.334405+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Long An to North Ninh Details A- > Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到北宁的运送服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ha-nam": {
+      "fingerprint": "3fe62241d5532826",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:57:36.499951+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The fee bill of service deposits from Long An to Hannan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到汉南的手续费"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ha-noi": {
+      "fingerprint": "b3ad285c1c7ff411",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:57:42.781081+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service fee bill from Long An to Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到河内的服务费账单"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-hai-duong": {
+      "fingerprint": "22ec14c82ced9be0",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:57:49.104959+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from Long An to the prestigious Ocean, cheap, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从长安送到有名望的海洋去,便宜又安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-hai-phong": {
+      "fingerprint": "0da011f175127239",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:57:55.457717+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Long An goes to Sea Hall of Fame, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到海名堂的送货服务很便宜"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-hung-yen": {
+      "fingerprint": "4193fb29de18e8e3",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:58:01.732894+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Long An to the Fame of Yan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到扬名的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-nam-dinh": {
+      "fingerprint": "451f26bde70f42b0",
+      "status": "pass",
+      "checked_at": "2026-11-15T16:58:08.100064+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Long An to Nam Instituency Details A- > Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从长安到南疆的送货服务详情 A - > Z"
+        }
+      }
+    },
     "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-ninh-binh": {},
     "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-phu-tho": {},
     "/blogs/gui-hang-la-mien-bac/chuyen-hang-long-an-quang-ninh": {},
@@ -11282,7 +11426,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T16:34:36.338373+00:00",
+      "checked_at": "2026-11-15T16:57:03.456790+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11302,7 +11446,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T16:34:48.756917+00:00",
+      "checked_at": "2026-11-15T16:57:16.045912+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11334,7 +11478,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T16:34:42.993536+00:00",
+      "checked_at": "2026-11-15T16:57:10.204455+00:00",
       "languages": {
         "en": {
           "ok": true,
