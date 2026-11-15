@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T21:15:59.871423+00:00",
+  "tested_at": "2026-11-15T21:36:58.100074+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 681,
-  "public_routes_pending": 255,
+  "public_routes_verified": 689,
+  "public_routes_pending": 247,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -12911,14 +12911,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tn-mien-nam": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-binh-duong": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-binh-phuoc": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-dong-nai": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-long-an": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-sai-gon": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-tay-ninh": {},
-    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-vung-tau": {},
+    "/blogs/gui-hang-tn-mien-nam": {
+      "fingerprint": "bf42c0c35aed833e",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:12.816961+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"State Thai Transport\". Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"国泰交通\". 南部省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-binh-duong": {
+      "fingerprint": "0bfafe8e7558e5ca",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:18.831271+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of sale from the Yuan Pacific"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "元太平天国出价"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-binh-phuoc": {
+      "fingerprint": "6f0ec3a2fc596bb5",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:25.676712+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of sale from the Prime Minister to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从首相到幸运的买卖单"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-dong-nai": {
+      "fingerprint": "16980216fc34809e",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:33.204954+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from the Yuan."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "元人送来的服务费单."
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-long-an": {
+      "fingerprint": "583a6be7b5b8b200",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:39.061945+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service card sent from the Yuan, Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "元,长安寄来的公务卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-sai-gon": {
+      "fingerprint": "b4895f27ba51af7a",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:46.021780+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposit from the Yuan to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "元至西贡的汇票(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-tay-ninh": {
+      "fingerprint": "fdc07a2695d262e8",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:52.177386+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"President Service Advisory Board Sends From the Yuan to Western Europe\""
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"总统服务顾问委员会从元到西欧\""
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-nam/chuyen-hang-thai-nguyen-vung-tau": {
+      "fingerprint": "a65f7892d71c48e5",
+      "status": "pass",
+      "checked_at": "2026-11-15T21:36:58.064684+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits from the Yuan to the Chinese Wu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "元至中吴的汇票"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-bac-giang": {},
     "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-dinh-tram": {},
     "/blogs/gui-hang-tphcm-kcn-bac-giang/chuyen-hang-sai-gon-kcn-hoa-phu": {},
@@ -13154,7 +13298,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T21:14:54.914527+00:00",
+      "checked_at": "2026-11-15T21:35:55.329206+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13174,7 +13318,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T21:15:07.464360+00:00",
+      "checked_at": "2026-11-15T21:36:06.869661+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13206,7 +13350,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T21:15:01.658667+00:00",
+      "checked_at": "2026-11-15T21:36:01.542184+00:00",
       "languages": {
         "en": {
           "ok": true,
