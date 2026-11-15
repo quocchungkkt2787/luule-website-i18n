@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T06:54:41.467401+00:00",
+  "tested_at": "2026-11-15T07:16:11.604650+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 370,
-  "public_routes_pending": 566,
+  "public_routes_verified": 378,
+  "public_routes_pending": 558,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -7002,14 +7002,158 @@
         }
       }
     },
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hai-duong": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hai-phong": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hung-yen": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-nam-dinh": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-ninh-binh": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-phu-tho": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-quang-ninh": {},
-    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-thai-nguyen": {},
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hai-duong": {
+      "fingerprint": "057bc94e2bf94c15",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:15:28.079232+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Board of Administrative Services from Plain Nai to Ocean"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从平原到海洋的行政事务委员会"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hai-phong": {
+      "fingerprint": "2acea0919b73b3f9",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:15:34.127648+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill deposits from Koo Nai go to Hai Hall"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "古奈的服务费存到海堂"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-hung-yen": {
+      "fingerprint": "e2b826fc6dfb4334",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:15:40.539460+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service ratings sent from Koo Nai tongng"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "高乃生寄来的服务收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-nam-dinh": {
+      "fingerprint": "71f5ae493f67631b",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:15:46.801774+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from Kogi to Nannh"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "高木寄给南恩的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-ninh-binh": {
+      "fingerprint": "f802d42a03995d7a",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:15:52.876406+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Presidents of the service deposits from Coin Nai to Ninh Ping\""
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"科能奈到宁平的服务存款总裁\""
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-phu-tho": {
+      "fingerprint": "7ba2fd13e200f87e",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:15:59.203430+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service ratings sent from Koo Nai to Fuji Tem"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "古奈寄给富士腾的服务收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-quang-ninh": {
+      "fingerprint": "7938d816d34d1b97",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:16:05.296843+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill for the delivery from Kogi to Ning"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从高木到宁的服务费"
+        }
+      }
+    },
+    "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-thai-nguyen": {
+      "fingerprint": "426c0418995811ae",
+      "status": "pass",
+      "checked_at": "2026-11-15T07:16:11.567635+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings are deposited from Plain Nai."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率来自平原奈."
+        }
+      }
+    },
     "/blogs/gui-hang-dn-mien-bac/chuyen-hang-dong-nai-vinh-phuc": {},
     "/blogs/gui-hang-ha-noi-kcn-binh-duong": {},
     "/blogs/gui-hang-ha-noi-kcn-binh-duong/chuyen-hang-ha-noi-kcn-bau-bang": {},
@@ -7556,7 +7700,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T06:53:39.020648+00:00",
+      "checked_at": "2026-11-15T07:15:09.657906+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7576,7 +7720,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T06:53:50.456030+00:00",
+      "checked_at": "2026-11-15T07:15:21.988329+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7608,7 +7752,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T06:53:45.261071+00:00",
+      "checked_at": "2026-11-15T07:15:16.261075+00:00",
       "languages": {
         "en": {
           "ok": true,
