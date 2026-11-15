@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T03:31:35.160400+00:00",
+  "tested_at": "2026-11-15T03:53:47.666816+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 298,
-  "public_routes_pending": 638,
+  "public_routes_verified": 306,
+  "public_routes_pending": 630,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5634,14 +5634,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/tra-cuu-van-don-duong-bien": {},
-    "/blogs/goc-tu-van/tra-ve-tau-mat-bao-nhieu-phan-tram": {},
-    "/blogs/goc-tu-van/trong-tai-va-tai-trong": {},
-    "/blogs/goc-tu-van/trong-tai-xe-la-gi": {},
-    "/blogs/goc-tu-van/tu-tp-ho-chi-minh-di-bac-lieu-bao-nhieu-km": {},
-    "/blogs/goc-tu-van/tuoi-hoi-chuyen-nha-ngay-nao-tot": {},
-    "/blogs/goc-tu-van/tuoi-ky-mui-don-nha-ngay-nao-tot": {},
-    "/blogs/goc-tu-van/tuoi-thin-don-nha-ngay-nao-tot": {},
+    "/blogs/goc-tu-van/tra-cuu-van-don-duong-bien": {
+      "fingerprint": "536c4415faa886c6",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:52:59.929942+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The latest update sea line search guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "最新的海线搜索指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tra-ve-tau-mat-bao-nhieu-phan-tram": {
+      "fingerprint": "485327e074308a4e",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:06.814213+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[Detailed guide] What percentage of a train ticket is lost when requesting a refund?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "【详细解答】火车票退票手续费是多少？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/trong-tai-va-tai-trong": {
+      "fingerprint": "d3bca2e0b5457031",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:14.062012+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's the difference between load and load? Driver Load Rules"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "负载与负载有何区别? 驱动程序加载规则"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/trong-tai-xe-la-gi": {
+      "fingerprint": "73565c7c1e6c50d1",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:20.978816+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's a truck load? The penalty for overhauling trucks?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "卡车载的是什么? 对整车的处罚?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tu-tp-ho-chi-minh-di-bac-lieu-bao-nhieu-km": {
+      "fingerprint": "b757eaa143237467",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:27.764244+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[FAQ] How many kilometres from Ho Chi Minh City to Bạc Liêu?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "【常见问题】胡志明市到薄辽有多少公里？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tuoi-hoi-chuyen-nha-ngay-nao-tot": {
+      "fingerprint": "036b6b9f011d3182",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:34.571156+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Good moving dates in 2025 for people born in the Year of the Pig"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "2025年属猪的人哪天搬家好？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tuoi-ky-mui-don-nha-ngay-nao-tot": {
+      "fingerprint": "073922ad1676f8b0",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:41.012657+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Best moving dates for people born in the Year of the Goat (Kỷ Mùi) – A guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "己未羊年出生者哪天搬家好？择吉日指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tuoi-thin-don-nha-ngay-nao-tot": {
+      "fingerprint": "94288a7bc4e38d83",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:53:47.630653+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What are good moving dates for people born in the Year of the Dragon? – Detailed guide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "属龙的人哪天搬家吉利？详细解答"
+        }
+      }
+    },
     "/blogs/goc-tu-van/uu-va-nhuoc-diem-cua-hinh-thuc-van-tai-duong-thuy": {},
     "/blogs/goc-tu-van/van-chuyen-container-noi-dia": {},
     "/blogs/goc-tu-van/van-chuyen-door-to-door": {},
@@ -6260,7 +6404,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T03:30:30.266868+00:00",
+      "checked_at": "2026-11-15T03:52:40.657205+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6280,7 +6424,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T03:30:41.892178+00:00",
+      "checked_at": "2026-11-15T03:52:53.271265+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6312,7 +6456,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T03:30:36.332143+00:00",
+      "checked_at": "2026-11-15T03:52:47.512858+00:00",
       "languages": {
         "en": {
           "ok": true,
