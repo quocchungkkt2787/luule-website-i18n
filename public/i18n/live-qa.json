@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T09:28:25.273262+00:00",
+  "tested_at": "2026-11-15T09:52:11.884750+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 426,
-  "public_routes_pending": 510,
+  "public_routes_verified": 434,
+  "public_routes_pending": 502,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -8066,14 +8066,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-cau-tram": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-dnn-tan-phu": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-dong-nam-a": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-duc-hoa": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-hai-son": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-hoa-binh": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-long-hau": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-nam-thuan-dai-loc": {},
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-cau-tram": {
+      "fingerprint": "a4d3230562b13493",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:51:21.829405+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Select the trusted transport unit to send the Hanoi-KN Bridge"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "选择发送河内- KN 桥的可信任的运输单元"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-dnn-tan-phu": {
+      "fingerprint": "c088adf4de5e10fe",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:51:30.114238+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hanoi's Row – KNN DNN New Funky most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内之行 — KNN DNN New Funky最有名气"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-dong-nam-a": {
+      "fingerprint": "10464013d7bb6249",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:51:37.615188+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Note when sending Hanoi-KN Southeast Asia"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送河内-KN 东南亚时注意"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-duc-hoa": {
+      "fingerprint": "d9b73affa34513d4",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:51:44.079933+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi Row Division – German Republic, III Fame, low prices"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内分局-德意志共和国第三 名人,低价货"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-hai-son": {
+      "fingerprint": "4f2aedfa3f479b62",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:51:50.422890+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Han Tuan – KCN Haishan most convenient"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派韩通来 – KCN 海山最方便的,我说海山"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-hoa-binh": {
+      "fingerprint": "fdc43075c48e0269",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:51:57.409335+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Enable mims how to select the sending unit Hanoi – KCN Peace's most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "启用 mims 如何选择发送单位河内 – KCN Peace 最有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-long-hau": {
+      "fingerprint": "ebb5ea72bd56682d",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:52:04.861807+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Tips to Hanoi – KNN Long Queen"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "给河内的小费 – KNN Long Queen"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-nam-thuan-dai-loc": {
+      "fingerprint": "296f2dcd852693ce",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:52:11.848122+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi Rowing Experience - KNN Nam Shun (Đại)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内行走经验-克南顺 (Đại)."
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-nhut-chanh": {},
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-phu-an-thanh": {},
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-phuc-long": {},
@@ -8564,7 +8708,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T09:27:21.458812+00:00",
+      "checked_at": "2026-11-15T09:51:02.341333+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8584,7 +8728,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T09:27:33.554696+00:00",
+      "checked_at": "2026-11-15T09:51:15.309130+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8616,7 +8760,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T09:27:27.875209+00:00",
+      "checked_at": "2026-11-15T09:51:09.277234+00:00",
       "languages": {
         "en": {
           "ok": true,
