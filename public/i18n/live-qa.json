@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T20:31:22.908071+00:00",
+  "tested_at": "2026-11-15T20:53:56.263466+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 665,
-  "public_routes_pending": 271,
+  "public_routes_verified": 673,
+  "public_routes_pending": 263,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -12607,14 +12607,158 @@
         }
       }
     },
-    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-kon-tum": {},
-    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-lam-dong": {},
-    "/blogs/gui-hang-tn-mien-bac": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-bac-giang": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-bac-ninh": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-ha-nam": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-ha-noi": {},
-    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hai-duong": {},
+    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-kon-tum": {
+      "fingerprint": "84a950240afa1e22",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:09.346665+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation from Saigon (TpHCM) to Kon Tum Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡(TpHCM)到Kon Tum名人的交通"
+        }
+      }
+    },
+    "/blogs/gui-hang-sg-tay-nguyen/chuyen-hang-sai-gon-lam-dong": {
+      "fingerprint": "7c12d223e42d9983",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:15.886290+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Saigon (TpHCM) goes to Lin Good Price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡(TpHCM)的快递服务到林好价"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac": {
+      "fingerprint": "2e42a55645095171",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:22.875879+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Western Ning Transport Northern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西宁交通 北方省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-bac-giang": {
+      "fingerprint": "6bfd2c10ac7aeccc",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:29.485857+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from Western Europe to North Jiang [intelligence price]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从西欧送到北江去[来电价格]"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-bac-ninh": {
+      "fingerprint": "df636e966f0ed702",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:36.105410+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Western Europe to the prestigious North Ning, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧到著名的北宁的送货服务 安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-ha-nam": {
+      "fingerprint": "80fc306d2f6a109c",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:43.142732+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from Western Europe to Hannan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧发送到汉南的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-ha-noi": {
+      "fingerprint": "4a39379a2b2840b7",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:49.748795+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings are deposited from Western Europe to low-cost Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率由西欧存入低成本河内"
+        }
+      }
+    },
+    "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hai-duong": {
+      "fingerprint": "09883be66cb50091",
+      "status": "pass",
+      "checked_at": "2026-11-15T20:53:56.222926+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The sending unit from Western Europe to the prestigious Ocean, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西欧到著名海洋的派遣单位 廉价"
+        }
+      }
+    },
     "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hai-phong": {},
     "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-hung-yen": {},
     "/blogs/gui-hang-tn-mien-bac/chuyen-hang-tay-ninh-nam-dinh": {},
@@ -12866,7 +13010,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T20:30:13.873536+00:00",
+      "checked_at": "2026-11-15T20:52:49.910263+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12886,7 +13030,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T20:30:26.499351+00:00",
+      "checked_at": "2026-11-15T20:53:02.766919+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12918,7 +13062,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T20:30:20.449842+00:00",
+      "checked_at": "2026-11-15T20:52:56.784308+00:00",
       "languages": {
         "en": {
           "ok": true,
