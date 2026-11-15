@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T00:58:39.378996+00:00",
+  "tested_at": "2026-11-15T01:18:50.387553+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 243,
-  "public_routes_pending": 693,
+  "public_routes_verified": 251,
+  "public_routes_pending": 685,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -4570,14 +4570,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/gui-xe-may-qua-dem-o-ga-sai-gon-nhu-the-nao": {},
-    "/blogs/goc-tu-van/hang-de-vo-xin-nhe-tay": {},
-    "/blogs/goc-tu-van/hang-fake-la-hang-gi": {},
-    "/blogs/goc-tu-van/hang-loai-1-la-gi": {},
-    "/blogs/goc-tu-van/he-thong-van-tai-duong-sat": {},
-    "/blogs/goc-tu-van/huong-dan-chuyen-tien-qua-buu-dien": {},
-    "/blogs/goc-tu-van/huong-dan-dong-goi-cac-loai-hang-hoa-de-vo-khi-van-chuyen": {},
-    "/blogs/goc-tu-van/icon-shipper": {},
+    "/blogs/goc-tu-van/gui-xe-may-qua-dem-o-ga-sai-gon-nhu-the-nao": {
+      "fingerprint": "b882fc2b7c39a2d7",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:07.829017+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How to park a motorcycle overnight at Sài Gòn Railway Station"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "如何在西贡火车站过夜停放摩托车"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/hang-de-vo-xin-nhe-tay": {
+      "fingerprint": "347647705625f296",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:13.762589+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What does “Fragile – Handle with Care” mean? Safe shipping tips"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "“易碎品，请轻拿轻放”是什么意思？安全运输提示"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/hang-fake-la-hang-gi": {
+      "fingerprint": "8eccd43459233e06",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:20.058145+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What's the package? The simplest way to identify goods"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "包裹是什么? 最简单的货物识别方法"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/hang-loai-1-la-gi": {
+      "fingerprint": "629125a9130de608",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:26.030302+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[ Turn on the eyelids] What's Type 1 and how to select quality Guangzhou"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[打开眼皮] 何谓1型,如何选择优质广州"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/he-thong-van-tai-duong-sat": {
+      "fingerprint": "236d4bca33922446",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:31.745667+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transit shipping system in Vietnam"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "越南的过境运输系统"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/huong-dan-chuyen-tien-qua-buu-dien": {
+      "fingerprint": "fc69fd1e912d42f5",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:37.716587+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Guide to transfer money into bank accounts via post office"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "通过邮局将资金转入银行账户的指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/huong-dan-dong-goi-cac-loai-hang-hoa-de-vo-khi-van-chuyen": {
+      "fingerprint": "4976fedf26971203",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:43.821857+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Guide to package easily broken goods when transporting"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "运输容易损坏货物的包装指南"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/icon-shipper": {
+      "fingerprint": "673cf08ba623b297",
+      "status": "pass",
+      "checked_at": "2026-11-15T01:18:50.351339+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Fine Icon Shipper Template & Category shipper Active on Market"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "精细图标托运人模板和类别托运人"
+        }
+      }
+    },
     "/blogs/goc-tu-van/kho-nam-ninh-o-dau": {},
     "/blogs/goc-tu-van/kho-trung-chuyen-ha-noi-02": {},
     "/blogs/goc-tu-van/khoang-cach-giua-cac-tinh-thanh-pho-tren-ca-nuoc": {},
@@ -5252,7 +5396,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T00:57:35.773486+00:00",
+      "checked_at": "2026-11-15T01:17:49.732323+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5272,7 +5416,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T00:57:47.474475+00:00",
+      "checked_at": "2026-11-15T01:18:01.646459+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5304,7 +5448,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T00:57:42.132334+00:00",
+      "checked_at": "2026-11-15T01:17:56.275364+00:00",
       "languages": {
         "en": {
           "ok": true,
