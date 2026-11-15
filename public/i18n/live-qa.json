@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T23:22:22.249365+00:00",
+  "tested_at": "2026-11-15T23:44:29.531324+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 729,
-  "public_routes_pending": 207,
+  "public_routes_verified": 737,
+  "public_routes_pending": 199,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -13823,14 +13823,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-thang-long": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-cam-dien-luong-dien": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-cong-hoa": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-dai-an-mo-rong": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-dai-an": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-ky-thuat-cao-an-phat": {},
-    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-lai-cach": {},
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-thang-long": {
+      "fingerprint": "985ce97ee401b3b8",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:43:41.849011+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Row Service - KNC The Fame Dragon & Things to Know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡行服务 - KNC 要知道的名龙和事物"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong": {
+      "fingerprint": "2a1a5a8618547752",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:43:48.741241+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Industrial Zone at the Ocean"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海洋西贡运输工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-cam-dien-luong-dien": {
+      "fingerprint": "886dcf27048f33d6",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:43:55.384469+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon-KNCININIAL - Liangtin"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡-克钦尼塔尔-梁廷"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-cong-hoa": {
+      "fingerprint": "c2e644260bc78943",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:44:02.397480+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Letter Experience - Republic"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡语文字经验 - 共和国"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-dai-an-mo-rong": {
+      "fingerprint": "723cd8440fbc65b6",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:44:15.875049+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Enabled Experience Sends Saigon - KNC Great An Extended"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "启用体验发送西贡 - KNC Great An扩展"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-dai-an": {
+      "fingerprint": "c6e563c0b79eb11e",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:44:08.991651+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Good experience in sending Saigon - KNC Great An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出西贡的好经验-KNC Great An"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-ky-thuat-cao-an-phat": {
+      "fingerprint": "44b22f76fd9e256b",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:44:22.584800+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - TechN High Engineering"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - TechN 高级工程"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-lai-cach": {
+      "fingerprint": "4571f526efdeae6b",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:44:29.495232+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN Lai Famed, Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派西贡 - KNN Lai Famed,专业"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-lai-vu": {},
     "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-nam-sach": {},
     "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-phu-thai": {},
@@ -14018,7 +14162,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T23:21:17.108561+00:00",
+      "checked_at": "2026-11-15T23:43:21.954864+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14038,7 +14182,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T23:21:29.711187+00:00",
+      "checked_at": "2026-11-15T23:43:35.058456+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14070,7 +14214,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T23:21:23.788618+00:00",
+      "checked_at": "2026-11-15T23:43:29.009044+00:00",
       "languages": {
         "en": {
           "ok": true,
