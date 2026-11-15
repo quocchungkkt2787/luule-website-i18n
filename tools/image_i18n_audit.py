@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 from PIL import Image,ImageOps
 from image_i18n import OUT,read,write
-DIACRITICS=re.compile('[ăâđêôơưĂÂĐÊÔƠƯàáạảãằắặẳẵầấậẩẫèéẹẻẽềếệểễìíịỉĩòóọỏõồốộổỗờớợởỡùúụủũừứựửữỳýỵỷỹ]')
+DIACRITICS=re.compile('[ăâđêôơưĂÂĐÊÔƠƯàáạảãằắặẳẵầấậẩẫèéẹẻẽềếệểễìíịỉĩòóọỏõồốộổỗờớợởỡùúụủũừứựửữỳýỵỷỹ]',re.I)
 MAX_BYTES=9*1024*1024
 
 def ocr(image):
