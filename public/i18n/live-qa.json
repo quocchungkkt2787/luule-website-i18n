@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T18:45:32.716816+00:00",
+  "tested_at": "2026-11-15T19:07:53.125768+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 625,
-  "public_routes_pending": 311,
+  "public_routes_verified": 633,
+  "public_routes_pending": 303,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -11847,14 +11847,158 @@
         }
       }
     },
-    "/blogs/gui-hang-pt-mien-nam": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-duong": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-phuoc": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-dong-nai": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-long-an": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-sai-gon": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-tay-ninh": {},
-    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-vung-tau": {},
+    "/blogs/gui-hang-pt-mien-nam": {
+      "fingerprint": "bbd85b2905fbc1fd",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:04.435734+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Presidential Transportation of Futuristics\" Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"未来的总统交通\" 南方省份"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-duong": {
+      "fingerprint": "e9e504ffb2159321",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:11.261882+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from Fuji T They go to Pacific Professional, low"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从富士T寄包裹 他们去太平洋专业,低"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-phuoc": {
+      "fingerprint": "42c3a9570a7789ac",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:18.635471+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from Fuji T they went to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "富士T寄来的服务费 他们去了幸运"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-dong-nai": {
+      "fingerprint": "db7100e5b7f05fff",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:25.392593+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Fuji T They went to the Koo Nai details A-40 Z"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "富士T的送货服务 他们去了高奈号 详细介绍A -40 Z"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-long-an": {
+      "fingerprint": "e158e2c2be1d12b6",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:32.187991+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service bill sent from Fuji T They went Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "富士T寄来的服务费 他们去了长安"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-sai-gon": {
+      "fingerprint": "858a52cec805f83d",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:39.339354+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Billings sent from Fuji T They go to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "富士T寄来的帐单 他们去了西贡(TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-tay-ninh": {
+      "fingerprint": "9ffc0ff63d2f3b3a",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:46.274874+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings deposit from Funky T they go to Western Ninh cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Funky T的收视率押金 他们去西宁便宜"
+        }
+      }
+    },
+    "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-vung-tau": {
+      "fingerprint": "f591d4cf85d8a93c",
+      "status": "pass",
+      "checked_at": "2026-11-15T19:07:53.095256+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from Fuji T they went to China"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从富士T寄来的服务图 他们去了中国"
+        }
+      }
+    },
     "/blogs/gui-hang-qn-mien-nam": {},
     "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-binh-duong": {},
     "/blogs/gui-hang-qn-mien-nam/chuyen-hang-quang-ninh-binh-phuoc": {},
@@ -12146,7 +12290,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T18:44:26.939049+00:00",
+      "checked_at": "2026-11-15T19:06:44.581113+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12166,7 +12310,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T18:44:39.750107+00:00",
+      "checked_at": "2026-11-15T19:06:57.641404+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -12198,7 +12342,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T18:44:33.961024+00:00",
+      "checked_at": "2026-11-15T19:06:51.489766+00:00",
       "languages": {
         "en": {
           "ok": true,
