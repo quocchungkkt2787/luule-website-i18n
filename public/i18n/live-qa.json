@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T23:00:12.446887+00:00",
+  "tested_at": "2026-11-15T23:22:22.249365+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 721,
-  "public_routes_pending": 215,
+  "public_routes_verified": 729,
+  "public_routes_pending": 207,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -13671,14 +13671,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-minh-khai-vinh-tuy": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-nam-thang-long": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-noi-bai": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-phu-nghia": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-quang-minh": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-sai-dong": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-soc-son": {},
-    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-thach-that-quoc-oai": {},
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-minh-khai-vinh-tuy": {
+      "fingerprint": "105678fbea2b9979",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:21:36.279529+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transport Unit - KNNIN JEW - Famed though"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输队(KNIN JEW)"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-nam-thang-long": {
+      "fingerprint": "ab8b52373d35497a",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:21:42.863331+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN South Wing of Fame, Safety, Good Price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNN 南翼名人、安全、好价格"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-noi-bai": {
+      "fingerprint": "5dd8cc84ab0a9433",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:21:49.779714+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Saigon - KNN Cards"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡卡的经验 - KNN 卡"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-phu-nghia": {
+      "fingerprint": "b8695f9e0896fa58",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:21:56.209201+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division Sends Saigon - KNN Fujis the most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "师出西贡-克南. 富士最有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-quang-minh": {
+      "fingerprint": "e1d10b5da6365162",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:22:02.717112+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division sends Saigon - the most prestigious KNWN"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "组织派西贡 - 最有名的KNWN"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-sai-dong": {
+      "fingerprint": "d84a0830abce6400",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:22:09.249587+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Division Sends Saigon - KNN Saigon A, B Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "分局派西贡 - KNN西贡 A, B出名"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-soc-son": {
+      "fingerprint": "7f4ce1bda12e67a7",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:22:15.773112+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Rowing Experience - KNN Mui Mountain & Centage Division"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡行走经验 - KNN Mui 山地和百人分部"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-thach-that-quoc-oai": {
+      "fingerprint": "c1facb472b715e0b",
+      "status": "pass",
+      "checked_at": "2026-11-15T23:22:22.217068+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Saigon - KNK WALL OF THE FAIRIES"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出西贡的经验 -- -- 仙女之剑"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-ha-noi/chuyen-hang-sai-gon-kcn-thang-long": {},
     "/blogs/gui-hang-tphcm-kcn-hai-duong": {},
     "/blogs/gui-hang-tphcm-kcn-hai-duong/chuyen-hang-sai-gon-kcn-cam-dien-luong-dien": {},
@@ -13874,7 +14018,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T22:59:13.508674+00:00",
+      "checked_at": "2026-11-15T23:21:17.108561+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13894,7 +14038,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T22:59:24.539202+00:00",
+      "checked_at": "2026-11-15T23:21:29.711187+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -13926,7 +14070,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T22:59:19.343298+00:00",
+      "checked_at": "2026-11-15T23:21:23.788618+00:00",
       "languages": {
         "en": {
           "ok": true,
