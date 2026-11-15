@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T15:09:12.980290+00:00",
+  "tested_at": "2026-11-15T15:30:39.334879+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 545,
-  "public_routes_pending": 391,
+  "public_routes_verified": 553,
+  "public_routes_pending": 383,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -10327,14 +10327,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-vinh-long": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-an-giang": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-bac-lieu": {},
-    "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-ben-tre": {},
-    "/blogs/gui-hang-hn-tay-nguyen": {},
-    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-dak-lak": {},
-    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-dak-nong": {},
-    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-gia-lai": {},
+    "/blogs/gui-hang-hn-tay-nam-bo/chuyen-hang-ha-noi-vinh-long": {
+      "fingerprint": "6e897353f20e2418",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:29:56.657906+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Hin Tian Long Business Service Saves, Reputations\""
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"兴天长通商务服务储蓄,信誉\"."
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-an-giang": {
+      "fingerprint": "620080beaba59328",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:02.393621+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery services from Hanoi go to the prestigious, save"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到大名鼎鼎的送货服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-bac-lieu": {
+      "fingerprint": "88daae669dbced64",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:08.634757+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping services from Hanoi travel silver and silver are cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内来的运输服务 白银和白银都是便宜的"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nam-bo/van-chuyen-hang-ha-noi-ben-tre": {
+      "fingerprint": "a484403c32a9dbd4",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:14.928132+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping service - prestigious Tre Ben, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运服务 - 有名的Tre Ben,廉价"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nguyen": {
+      "fingerprint": "afbf0501760aca4f",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:20.745297+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Western Yuan provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运(10)西元省."
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-dak-lak": {
+      "fingerprint": "45669b117b168ea5",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:27.135440+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send me the Conveyables, the prestigious services"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送我可乐者,有声望的服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-dak-nong": {
+      "fingerprint": "136e3cbaa60000e5",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:33.402754+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hanoi's good-looking, professional, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派河内帅、专业、安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-gia-lai": {
+      "fingerprint": "ff8de5f6cc304edc",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:30:39.302883+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The prestigious, cheap, safe, and safe delivery of the Hanoi Family"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内家庭的名声高扬、廉价、安全、安全"
+        }
+      }
+    },
     "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-kon-tum": {},
     "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-lam-dong": {},
     "/blogs/gui-hang-hoa-phan-theo-hinh-thuc": {},
@@ -10706,7 +10850,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T15:08:07.150305+00:00",
+      "checked_at": "2026-11-15T15:29:38.712251+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10726,7 +10870,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T15:08:19.629859+00:00",
+      "checked_at": "2026-11-15T15:29:50.216269+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10758,7 +10902,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T15:08:14.132875+00:00",
+      "checked_at": "2026-11-15T15:29:44.820424+00:00",
       "languages": {
         "en": {
           "ok": true,
