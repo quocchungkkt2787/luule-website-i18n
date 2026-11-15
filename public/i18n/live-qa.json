@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T03:11:05.681108+00:00",
+  "tested_at": "2026-11-15T03:31:35.160400+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 290,
-  "public_routes_pending": 646,
+  "public_routes_verified": 298,
+  "public_routes_pending": 638,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5482,14 +5482,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/tau-tu-vinh-ha-noi": {},
-    "/blogs/goc-tu-van/thanh-tra-giao-thong-co-duoc-dung-xe-khong": {},
-    "/blogs/goc-tu-van/thu-tuc-chuyen-vung-xe-may": {},
-    "/blogs/goc-tu-van/thu-tuc-di-tau-hoa": {},
-    "/blogs/goc-tu-van/thu-tuc-van-chuyen-go-thanh-pham": {},
-    "/blogs/goc-tu-van/tien-cod-la-gi-phi-ship-cod-gia-bao-nhieu": {},
-    "/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam": {},
-    "/blogs/goc-tu-van/tra-cuu-phuong-tien-giao-thong-qua-hinh-anh": {},
+    "/blogs/goc-tu-van/tau-tu-vinh-ha-noi": {
+      "fingerprint": "f98e5b487aa91356",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:30:48.412818+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[FAQ] How long does the train from Vinh to Hanoi take?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "【常见问题】从荣市乘火车到河内需要多久？"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/thanh-tra-giao-thong-co-duoc-dung-xe-khong": {
+      "fingerprint": "de8dd32f7bbe771f",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:30:55.368307+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[States] Is the traffic inspector allowed to stop?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "[国 交通巡视员可以停下来吗?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/thu-tuc-chuyen-vung-xe-may": {
+      "fingerprint": "e54effc5d11a58f4",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:31:01.908221+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Motorcycle registration transfer procedures explained"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "摩托车跨地区登记转移手续详解"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/thu-tuc-di-tau-hoa": {
+      "fingerprint": "6f74042177b956b0",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:31:08.728902+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Train travel procedures and regulations you should know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "乘坐火车应了解的手续及规定"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/thu-tuc-van-chuyen-go-thanh-pham": {
+      "fingerprint": "3ece5d5b109db24c",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:31:14.950928+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The transport of wood into items by Northern Railroad"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北方铁路将木材运入物品"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tien-cod-la-gi-phi-ship-cod-gia-bao-nhieu": {
+      "fingerprint": "3567f92ed2612b05",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:31:21.672901+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is COD money? How much is the CODship?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是COD钱? 这艘COD船多少钱?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam": {
+      "fingerprint": "6fba1c0a38468030",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:31:28.330911+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "About the Vietnam Railroad Company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "关于越南铁路公司"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/tra-cuu-phuong-tien-giao-thong-qua-hinh-anh": {
+      "fingerprint": "abbff13738fbe8c9",
+      "status": "pass",
+      "checked_at": "2026-11-15T03:31:35.128364+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Media search guide through image"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "通过图像搜索媒体指南"
+        }
+      }
+    },
     "/blogs/goc-tu-van/tra-cuu-van-don-duong-bien": {},
     "/blogs/goc-tu-van/tra-ve-tau-mat-bao-nhieu-phan-tram": {},
     "/blogs/goc-tu-van/trong-tai-va-tai-trong": {},
@@ -6116,7 +6260,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T03:09:54.714914+00:00",
+      "checked_at": "2026-11-15T03:30:30.266868+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6136,7 +6280,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T03:10:07.408149+00:00",
+      "checked_at": "2026-11-15T03:30:41.892178+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6168,7 +6312,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T03:10:01.484947+00:00",
+      "checked_at": "2026-11-15T03:30:36.332143+00:00",
       "languages": {
         "en": {
           "ok": true,
