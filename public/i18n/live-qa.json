@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T09:05:42.013652+00:00",
+  "tested_at": "2026-11-15T09:28:25.273262+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 418,
-  "public_routes_pending": 518,
+  "public_routes_verified": 426,
+  "public_routes_pending": 510,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -7914,14 +7914,158 @@
         }
       }
     },
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-suoi-tre": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-tam-phuoc": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-tan-phu": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-thanh-phu": {},
-    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-xuan-loc": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-an-nhut-tan": {},
-    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-cau-cang-phuoc-dong": {},
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-suoi-tre": {
+      "fingerprint": "9cf95a44d90c58a1",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:27:39.648631+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Notes when sending Hanoi - KCN TR Tre"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送河内- KCN TR Tre时的说明"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-tam-phuoc": {
+      "fingerprint": "663b8e5bbcf4186a",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:27:46.250935+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The experience of sending Hanoi - KNN 3 Gold must know"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内的经验 KNN 3 Gold必须知道"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-tan-phu": {
+      "fingerprint": "1d521ad74e45908c",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:27:53.263608+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Hanoi - KNN New Fuji, Plain Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送出河内的经验 -- -- KNN 新富士,平原"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-thanh-phu": {
+      "fingerprint": "0e7b53349a382a26",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:27:59.401991+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Hanoi shipping experience - KCN TVision"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内航运经验-KCN TVivision"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-dong-nai/chuyen-hang-ha-noi-kcn-xuan-loc": {
+      "fingerprint": "ca45b3ff67b50a04",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:28:05.600642+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why Liu should be selected to send Hanoi Line - KNN TYC"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为何选择刘 to送河内线 - KNN TYC"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an": {
+      "fingerprint": "8311d57395fd0a39",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:28:12.125091+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi (10) Industrial Zone at Long An"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内运输(10)长安工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-an-nhut-tan": {
+      "fingerprint": "7fcc01acef7be0e7",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:28:18.322610+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the Hanoit – KNN AnKKAT NEWS most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发自河内 — — KNN AnKAT NEWS 最有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-cau-cang-phuoc-dong": {
+      "fingerprint": "097bdc139eab598d",
+      "status": "pass",
+      "checked_at": "2026-11-15T09:28:25.241922+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Hoi Savings - KCN Port Bridge East"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "送合一储蓄-朝中会港桥东站"
+        }
+      }
+    },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-cau-tram": {},
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-dnn-tan-phu": {},
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-dong-nam-a": {},
@@ -8420,7 +8564,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T09:04:39.636063+00:00",
+      "checked_at": "2026-11-15T09:27:21.458812+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8440,7 +8584,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T09:04:51.844236+00:00",
+      "checked_at": "2026-11-15T09:27:33.554696+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8472,7 +8616,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T09:04:46.102682+00:00",
+      "checked_at": "2026-11-15T09:27:27.875209+00:00",
       "languages": {
         "en": {
           "ok": true,
