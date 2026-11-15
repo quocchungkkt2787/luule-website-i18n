@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T15:30:39.334879+00:00",
+  "tested_at": "2026-11-15T15:52:48.481631+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 553,
-  "public_routes_pending": 383,
+  "public_routes_verified": 561,
+  "public_routes_pending": 375,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -10479,14 +10479,158 @@
         }
       }
     },
-    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-kon-tum": {},
-    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-lam-dong": {},
-    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc": {},
-    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/chuyen-hang-tu-kho-den-ga": {},
-    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/chuyen-hang-tu-kho-den-kho": {},
-    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/van-chuyen-hang-tu-ga-den-ga": {},
-    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/van-chuyen-hang-tu-ga-den-kho": {},
-    "/blogs/gui-hang-hp-mien-nam": {},
+    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-kon-tum": {
+      "fingerprint": "c10c7316d9d345e6",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:06.563317+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Hanan Tum shipping service saves, is safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "汉南通运服务省钱,安全了"
+        }
+      }
+    },
+    "/blogs/gui-hang-hn-tay-nguyen/chuyen-hang-ha-noi-lam-dong": {
+      "fingerprint": "84db488693336a80",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:12.399929+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Hanoi to Lin Plains 900 mph/kg"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到林平原的运输服务 900 mph/kg"
+        }
+      }
+    },
+    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc": {
+      "fingerprint": "2e21683bb840d611",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:18.220083+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The freight service in the form of service packages"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "一揽子服务形式的货运服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/chuyen-hang-tu-kho-den-ga": {
+      "fingerprint": "6308a464d158af4f",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:24.762371+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Kho to Fast Station, Save"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从Kho到快站的运输服务,保存"
+        }
+      }
+    },
+    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/chuyen-hang-tu-kho-den-kho": {
+      "fingerprint": "39e9c71caa3da416",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:30.517101+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Khort to Cheap, prestigious Archive"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从霍特到廉价的运输服务,著名档案馆"
+        }
+      }
+    },
+    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/van-chuyen-hang-tu-ga-den-ga": {
+      "fingerprint": "dabd63b5f3ee576e",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:36.614383+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Ga to Fast Ga - Safety - Saving"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从Ga到Fast Ga的运输服务-安全-储蓄"
+        }
+      }
+    },
+    "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/van-chuyen-hang-tu-ga-den-kho": {
+      "fingerprint": "f090507ff140ddc0",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:42.418513+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services from Ga to Safety Archive - Quick"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从Ga到安全档案的运输服务-快"
+        }
+      }
+    },
+    "/blogs/gui-hang-hp-mien-nam": {
+      "fingerprint": "29212f00166c0644",
+      "status": "pass",
+      "checked_at": "2026-11-15T15:52:48.444388+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Sea Hall Transportation (10) Southern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "海堂运输(10) 南方各省"
+        }
+      }
+    },
     "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-binh-duong": {},
     "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-binh-phuoc": {},
     "/blogs/gui-hang-hp-mien-nam/chuyen-hang-hai-phong-dong-nai": {},
@@ -10850,7 +10994,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T15:29:38.712251+00:00",
+      "checked_at": "2026-11-15T15:51:47.811582+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10870,7 +11014,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T15:29:50.216269+00:00",
+      "checked_at": "2026-11-15T15:51:59.509548+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -10902,7 +11046,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T15:29:44.820424+00:00",
+      "checked_at": "2026-11-15T15:51:54.409059+00:00",
       "languages": {
         "en": {
           "ok": true,
