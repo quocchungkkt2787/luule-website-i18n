@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-15T02:25:23.282941+00:00",
+  "tested_at": "2026-11-15T02:47:27.385212+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 274,
-  "public_routes_pending": 662,
+  "public_routes_verified": 282,
+  "public_routes_pending": 654,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -5178,14 +5178,158 @@
         }
       }
     },
-    "/blogs/goc-tu-van/nhung-dieu-can-biet-khi-mua-xe-may-moi": {},
-    "/blogs/goc-tu-van/nhung-thu-khong-duoc-gui-qua-buu-dien": {},
-    "/blogs/goc-tu-van/nluu-y-khi-cung-ve-nha-moi": {},
-    "/blogs/goc-tu-van/phi-bao-tri-duong-bo": {},
-    "/blogs/goc-tu-van/phi-chuyen-hang-tu-anh-ve-viet-nam-tron-goi": {},
-    "/blogs/goc-tu-van/phi-mau-dich-tieng-anh-la-gi": {},
-    "/blogs/goc-tu-van/phuong-tien-gia-thong-duong-thuy": {},
-    "/blogs/goc-tu-van/qua-trinh-phat-trien-cua-loai-hinh-van-tai-hang-hoa-bang-container": {},
+    "/blogs/goc-tu-van/nhung-dieu-can-biet-khi-mua-xe-may-moi": {
+      "fingerprint": "dfe2d16a078e02e5",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:46:38.587700+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is needed when buying a new motorcycle that you should know?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "买辆新的摩托车需要什么?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/nhung-thu-khong-duoc-gui-qua-buu-dien": {
+      "fingerprint": "60e3b826241febba",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:46:45.158163+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "List of things not sent through the post office"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "未通过邮局发送的事项列表"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/nluu-y-khi-cung-ve-nha-moi": {
+      "fingerprint": "b7297a7df946f209",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:46:52.924803+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What to know about housewarming offerings and rituals"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "关于新居入宅祭拜习俗的注意事项"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/phi-bao-tri-duong-bo": {
+      "fingerprint": "24301b1ac689e396",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:46:59.700847+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Where and what's the cost of road maintenance?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "修路费在哪里?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/phi-chuyen-hang-tu-anh-ve-viet-nam-tron-goi": {
+      "fingerprint": "7dedb4bee4732643",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:47:06.488044+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping fee from the UK goes back to Vietnam in the package and note!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从英国到越南的运费在包裹和便条中回溯!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/phi-mau-dich-tieng-anh-la-gi": {
+      "fingerprint": "306a7b94d6cd2b5a",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:47:13.483913+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the English trade?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "什么是英国贸易?"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/phuong-tien-gia-thong-duong-thuy": {
+      "fingerprint": "11e23da70e63a8a3",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:47:20.712925+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Top 5 The most common water traffic ever!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "前5类 有史以来最常见的水上交通!"
+        }
+      }
+    },
+    "/blogs/goc-tu-van/qua-trinh-phat-trien-cua-loai-hinh-van-tai-hang-hoa-bang-container": {
+      "fingerprint": "377b6808807ca045",
+      "status": "pass",
+      "checked_at": "2026-11-15T02:47:27.350437+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The development of container-based transportation."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发展集装箱运输."
+        }
+      }
+    },
     "/blogs/goc-tu-van/quoc-lo-1a-dai-bao-nhieu-km": {},
     "/blogs/goc-tu-van/rut-tien-bang-chung-minh-thu-agribank": {},
     "/blogs/goc-tu-van/so-dien-thoai-ben-xe-khach-thai-nguyen": {},
@@ -5828,7 +5972,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-15T02:23:37.236552+00:00",
+      "checked_at": "2026-11-15T02:46:18.717478+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5848,7 +5992,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-15T02:23:50.986116+00:00",
+      "checked_at": "2026-11-15T02:46:31.631842+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5880,7 +6024,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-15T02:23:45.080553+00:00",
+      "checked_at": "2026-11-15T02:46:25.666576+00:00",
       "languages": {
         "en": {
           "ok": true,
