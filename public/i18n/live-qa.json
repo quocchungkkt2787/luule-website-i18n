@@ -1,21 +1,19 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T02:19:34.953620+00:00",
+  "tested_at": "2026-11-16T03:02:49.302832+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 792,
-  "public_routes_pending": 144,
-  "public_routes_failed": 1,
-  "failed_examples": [
-    "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
-  ],
+  "public_routes_verified": 181,
+  "public_routes_pending": 755,
+  "public_routes_failed": 0,
+  "failed_examples": [],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
-      "fingerprint": "f6b42a27217d5054",
+      "fingerprint": "2f214f6624e1c93e",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:07.535285+00:00",
+      "checked_at": "2026-11-16T03:02:03.064313+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -32,9 +30,9 @@
       }
     },
     "/blogs/bao-chi": {
-      "fingerprint": "df3bcc1b853adf74",
+      "fingerprint": "8ca2dbdd3e4b573c",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:13.652493+00:00",
+      "checked_at": "2026-11-16T03:02:09.461595+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -51,9 +49,9 @@
       }
     },
     "/blogs/bao-chi/bo-mat-cua-van-tai-duong-sat": {
-      "fingerprint": "8a5bcfe6284f2da9",
+      "fingerprint": "32d085058a4a2070",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:24.548209+00:00",
+      "checked_at": "2026-11-16T03:02:16.459303+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -70,9 +68,9 @@
       }
     },
     "/blogs/bao-chi/giai-phap-van-chuyen-thong-minh": {
-      "fingerprint": "849a698a5ac34b9c",
+      "fingerprint": "86b21980eb1491ff",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:31.500444+00:00",
+      "checked_at": "2026-11-16T03:02:23.009416+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -89,9 +87,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty": {
-      "fingerprint": "29bf2acdb718e40a",
+      "fingerprint": "db408eabf29021ba",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:38.280725+00:00",
+      "checked_at": "2026-11-16T03:02:29.663580+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -108,9 +106,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/bao-mat-thong-tin": {
-      "fingerprint": "ba64660db07c46a6",
+      "fingerprint": "4fb4ced68bfd9be5",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:44.569997+00:00",
+      "checked_at": "2026-11-16T03:02:36.064233+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -127,9 +125,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/cam-ket-cua-chung-toi": {
-      "fingerprint": "a0d0ffbbf80cf82e",
+      "fingerprint": "af2bbc050ba40c6c",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:50.735029+00:00",
+      "checked_at": "2026-11-16T03:02:42.420389+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -146,9 +144,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/cau-hoi-thuong-gap": {
-      "fingerprint": "e005316a4317609d",
+      "fingerprint": "471c7b7c7ee48db7",
       "status": "pass",
-      "checked_at": "2026-11-14T14:50:57.029277+00:00",
+      "checked_at": "2026-11-16T03:02:49.275324+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,9 +15148,9 @@
     "/collections/hot-products": {},
     "/collections/onsale": {},
     "/": {
-      "fingerprint": "7a6c013c1b0dadce",
+      "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T02:18:36.861080+00:00",
+      "checked_at": "2026-11-16T03:01:42.454282+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T02:18:48.433929+00:00",
+      "checked_at": "2026-11-16T03:01:55.698777+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,9 +15200,9 @@
     "/pages/van-chuyen-hang-tu-tphcm-di-cac-mien": {},
     "/pages/xe-tai-cho-hang": {},
     "/search": {
-      "fingerprint": "f603cef2297dc282",
+      "fingerprint": "54f4e08030bfa2e5",
       "status": "pass",
-      "checked_at": "2026-11-16T02:18:43.332264+00:00",
+      "checked_at": "2026-11-16T03:01:49.674184+00:00",
       "languages": {
         "en": {
           "ok": true,
