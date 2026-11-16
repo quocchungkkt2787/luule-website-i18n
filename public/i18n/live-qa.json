@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T04:12:19.227420+00:00",
+  "tested_at": "2026-11-16T04:34:36.765358+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 18,
-  "public_routes_pending": 918,
+  "public_routes_verified": 26,
+  "public_routes_pending": 910,
   "public_routes_failed": 1,
   "failed_examples": [
     "/search"
@@ -317,9 +317,9 @@
       }
     },
     "/blogs/chuyen-cua-hang/chuyen-cua-hang-sai-gon-ha-noi": {
-      "fingerprint": "82f58e878dfc94d5",
+      "fingerprint": "614ae45ee8cdb9d2",
       "status": "pass",
-      "checked_at": "2026-11-16T03:25:26.785641+00:00",
+      "checked_at": "2026-11-16T04:33:49.082536+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -336,9 +336,9 @@
       }
     },
     "/blogs/chuyen-kho-xuong": {
-      "fingerprint": "1f3ad94721cf730d",
+      "fingerprint": "2717ce29749d0bee",
       "status": "pass",
-      "checked_at": "2026-11-14T15:35:34.808500+00:00",
+      "checked_at": "2026-11-16T04:33:57.309190+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -355,9 +355,9 @@
       }
     },
     "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-ha-noi-sai-gon": {
-      "fingerprint": "2efb51c99dbb5c4a",
+      "fingerprint": "ec16db10a5bd01e9",
       "status": "pass",
-      "checked_at": "2026-11-14T15:35:41.935235+00:00",
+      "checked_at": "2026-11-16T04:34:03.951581+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -374,9 +374,9 @@
       }
     },
     "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-sai-gon-ha-noi": {
-      "fingerprint": "39c25088917ba343",
+      "fingerprint": "12a767e3c22a621b",
       "status": "pass",
-      "checked_at": "2026-11-14T15:35:49.850735+00:00",
+      "checked_at": "2026-11-16T04:34:10.946982+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -393,9 +393,9 @@
       }
     },
     "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-tphcm": {
-      "fingerprint": "7ea544a518121333",
+      "fingerprint": "634cdedef128aa36",
       "status": "pass",
-      "checked_at": "2026-11-14T15:35:56.598236+00:00",
+      "checked_at": "2026-11-16T04:34:17.446554+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -412,9 +412,9 @@
       }
     },
     "/blogs/chuyen-nha-hn-mien-nam": {
-      "fingerprint": "a72eed020ae260e7",
+      "fingerprint": "c81e4f16fe54231c",
       "status": "pass",
-      "checked_at": "2026-11-14T15:36:03.226032+00:00",
+      "checked_at": "2026-11-16T04:34:24.480524+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -431,9 +431,9 @@
       }
     },
     "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-binh-duong": {
-      "fingerprint": "af8ddf98a082eef9",
+      "fingerprint": "d81dae6c324ee7c5",
       "status": "pass",
-      "checked_at": "2026-11-14T15:36:10.532082+00:00",
+      "checked_at": "2026-11-16T04:34:30.572930+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -450,9 +450,9 @@
       }
     },
     "/blogs/chuyen-nha-hn-mien-nam/chuyen-nha-ha-noi-binh-phuoc": {
-      "fingerprint": "dbd1645dd9245999",
+      "fingerprint": "cfdf6d7fe8dc95a0",
       "status": "pass",
-      "checked_at": "2026-11-14T15:36:19.037503+00:00",
+      "checked_at": "2026-11-16T04:34:36.733759+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T04:11:12.611665+00:00",
+      "checked_at": "2026-11-16T04:33:26.691662+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T04:11:26.640704+00:00",
+      "checked_at": "2026-11-16T04:33:39.469184+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "fail",
-      "checked_at": "2026-11-16T04:11:20.654051+00:00",
+      "checked_at": "2026-11-16T04:33:33.654368+00:00",
       "languages": {
         "en": {
           "ok": false,
