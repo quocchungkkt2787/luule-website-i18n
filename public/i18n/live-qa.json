@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T17:27:35.090800+00:00",
+  "tested_at": "2026-11-16T17:48:21.157521+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 298,
-  "public_routes_pending": 638,
+  "public_routes_verified": 306,
+  "public_routes_pending": 630,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -5616,9 +5616,9 @@
       }
     },
     "/blogs/goc-tu-van/tra-cuu-phuong-tien-giao-thong-qua-hinh-anh": {
-      "fingerprint": "abbff13738fbe8c9",
+      "fingerprint": "7c336eeb413ab986",
       "status": "pass",
-      "checked_at": "2026-11-15T03:31:35.128364+00:00",
+      "checked_at": "2026-11-16T17:47:36.789095+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5635,9 +5635,9 @@
       }
     },
     "/blogs/goc-tu-van/tra-cuu-van-don-duong-bien": {
-      "fingerprint": "536c4415faa886c6",
+      "fingerprint": "1527b94aec1affef",
       "status": "pass",
-      "checked_at": "2026-11-15T03:52:59.929942+00:00",
+      "checked_at": "2026-11-16T17:47:43.139430+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5654,9 +5654,9 @@
       }
     },
     "/blogs/goc-tu-van/tra-ve-tau-mat-bao-nhieu-phan-tram": {
-      "fingerprint": "485327e074308a4e",
+      "fingerprint": "1ed558905a8139f6",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:06.814213+00:00",
+      "checked_at": "2026-11-16T17:47:49.244562+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5673,9 +5673,9 @@
       }
     },
     "/blogs/goc-tu-van/trong-tai-va-tai-trong": {
-      "fingerprint": "d3bca2e0b5457031",
+      "fingerprint": "a81e4e1edfb963f6",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:14.062012+00:00",
+      "checked_at": "2026-11-16T17:47:55.603774+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5692,9 +5692,9 @@
       }
     },
     "/blogs/goc-tu-van/trong-tai-xe-la-gi": {
-      "fingerprint": "73565c7c1e6c50d1",
+      "fingerprint": "df3f870289c14802",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:20.978816+00:00",
+      "checked_at": "2026-11-16T17:48:01.888232+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5711,9 +5711,9 @@
       }
     },
     "/blogs/goc-tu-van/tu-tp-ho-chi-minh-di-bac-lieu-bao-nhieu-km": {
-      "fingerprint": "dadf2b017839430f",
+      "fingerprint": "48e9a689f7ba6b0c",
       "status": "pass",
-      "checked_at": "2026-11-15T15:08:26.342835+00:00",
+      "checked_at": "2026-11-16T17:48:08.379802+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5730,9 +5730,9 @@
       }
     },
     "/blogs/goc-tu-van/tuoi-hoi-chuyen-nha-ngay-nao-tot": {
-      "fingerprint": "036b6b9f011d3182",
+      "fingerprint": "c5f8cc3aae6aa7d2",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:34.571156+00:00",
+      "checked_at": "2026-11-16T17:48:14.982445+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5749,9 +5749,9 @@
       }
     },
     "/blogs/goc-tu-van/tuoi-ky-mui-don-nha-ngay-nao-tot": {
-      "fingerprint": "073922ad1676f8b0",
+      "fingerprint": "aaa990a523b42e5d",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:41.012657+00:00",
+      "checked_at": "2026-11-16T17:48:21.119213+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T17:26:27.537470+00:00",
+      "checked_at": "2026-11-16T17:47:18.467462+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T17:26:40.314610+00:00",
+      "checked_at": "2026-11-16T17:47:30.056910+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T17:26:34.645198+00:00",
+      "checked_at": "2026-11-16T17:47:24.816366+00:00",
       "languages": {
         "en": {
           "ok": true,
