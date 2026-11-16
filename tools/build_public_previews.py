@@ -66,7 +66,7 @@ def fallback_sources(route, entries, limit=6):
 def compact_preview_key(source):
     """Match the browser's public excerpt normalization without ambiguous regex escapes."""
     text=unicodedata.normalize('NFC', str(source)).casefold()
-    punctuation=set('.,;:!?…' + chr(39) + chr(34) + '“”‘’-–—()[]{}')
+    punctuation=set('.,;:!?…' + chr(39) + chr(34) + '“”‘’' + '-–—()[]{}')
     return ''.join(char for char in text
         if not char.isspace() and char not in punctuation and
         ord(char) not in (47,92,0x200b,0x200c,0x200d,0x2060,0xfeff))
