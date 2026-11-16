@@ -1,14 +1,12 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T12:35:49.741482+00:00",
+  "tested_at": "2026-11-16T12:58:14.820290+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 193,
-  "public_routes_pending": 743,
-  "public_routes_failed": 1,
-  "failed_examples": [
-    "/search"
-  ],
+  "public_routes_verified": 202,
+  "public_routes_pending": 734,
+  "public_routes_failed": 0,
+  "failed_examples": [],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
@@ -3642,9 +3640,9 @@
       }
     },
     "/blogs/goc-tu-van/chuyen-phat-nhanh-buu-dien-mat-bao-lau": {
-      "fingerprint": "2bd3a69110bd6f4c",
+      "fingerprint": "6546f4229b3e1156",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:52.670658+00:00",
+      "checked_at": "2026-11-16T12:57:24.596926+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3661,9 +3659,9 @@
       }
     },
     "/blogs/goc-tu-van/chuyen-phat-nhanh-mat-may-ngay": {
-      "fingerprint": "be696e3b167f13fa",
+      "fingerprint": "45bc45e6652f453f",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:29.206771+00:00",
+      "checked_at": "2026-11-16T12:57:31.692939+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3680,9 +3678,9 @@
       }
     },
     "/blogs/goc-tu-van/chuyen-phat-thuong-mat-bao-lau": {
-      "fingerprint": "6c9e4adfaffbe99d",
+      "fingerprint": "b9ecc05699fd485e",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:36.243113+00:00",
+      "checked_at": "2026-11-16T12:57:38.624190+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3699,9 +3697,9 @@
       }
     },
     "/blogs/goc-tu-van/cip-la-gi": {
-      "fingerprint": "9d9c885ef220ff58",
+      "fingerprint": "674ebd733ae28254",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:43.307542+00:00",
+      "checked_at": "2026-11-16T12:57:45.631839+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3718,9 +3716,9 @@
       }
     },
     "/blogs/goc-tu-van/co-nen-gui-hang-de-vo-qua-buu-dien": {
-      "fingerprint": "566a62290ba35ab1",
+      "fingerprint": "c8d4548d7cae5871",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:50.871845+00:00",
+      "checked_at": "2026-11-16T12:57:53.686617+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3737,9 +3735,9 @@
       }
     },
     "/blogs/goc-tu-van/con-an-xa-co-quyen-bat-xe-khong": {
-      "fingerprint": "5c60db1db5867cdf",
+      "fingerprint": "dcc2a77684f7466c",
       "status": "pass",
-      "checked_at": "2026-11-14T23:12:57.797730+00:00",
+      "checked_at": "2026-11-16T12:58:01.281144+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3756,9 +3754,9 @@
       }
     },
     "/blogs/goc-tu-van/cong-thuc-tinh-so-khoi-trong-van-chuyen": {
-      "fingerprint": "86e9b9f6bd63fb33",
+      "fingerprint": "4940c643a4c5da42",
       "status": "pass",
-      "checked_at": "2026-11-14T23:13:04.811759+00:00",
+      "checked_at": "2026-11-16T12:58:08.110508+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3775,9 +3773,9 @@
       }
     },
     "/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-ha-noi": {
-      "fingerprint": "ad922b645e6d6f97",
+      "fingerprint": "09dc3c7cbd33af84",
       "status": "pass",
-      "checked_at": "2026-11-14T23:13:11.547381+00:00",
+      "checked_at": "2026-11-16T12:58:14.796859+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T12:34:38.165316+00:00",
+      "checked_at": "2026-11-16T12:57:04.784352+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T12:34:49.843307+00:00",
+      "checked_at": "2026-11-16T12:57:17.868573+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15203,19 +15201,13 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
-      "status": "fail",
-      "checked_at": "2026-11-16T12:34:44.681645+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-16T12:57:11.921838+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
-            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
-            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
