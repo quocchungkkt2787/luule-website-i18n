@@ -63,11 +63,47 @@ def fallback_sources(route, entries, limit=6):
     return [source for _,_,source in candidates[:limit]]
 
 
+def compact_preview_key(source):
+    """Match the existing Haravan llExcerptKey() canonicalization."""
+    text=unicodedata.normalize('NFC', str(source)).casefold()
+    for mark in ('\\u200b','\\u200c','\\u200d','\\u2060','\\ufeff'):
+        text=text.replace(mark,'')
+    return re.sub(r"""[\\s.,;:!?…'"“”‘’\\-–—()\\[\\]{}\\/\\\\]+""",'',text)
+
+
+def choose_visible_variant(group):
+    """Equivalent HTML spacing variants must not conflict in the browser.
+
+    The rendered visitor text normally has spaces around strong/inline tags.
+    Keep the more legible, naturally spaced Vietnamese source for translation.
+    Do not merge NON-equivalent strings, even from the same article.
+    """
+    return max(group,key=lambda pair:(
+        len(pair[0].split()),
+        sum(c.isspace() for c in pair[0]),
+        len(pair[0])
+    ))
+
+
+def dedupe_preview_rows(rows):
+    groups={}
+    for key,row in rows.items():
+        groups.setdefault(compact_preview_key(key),[]).append((key,row))
+    result={}
+    removed=0
+    for group in groups.values():
+        source,translated=choose_visible_variant(group)
+        result[source]=translated
+        removed+=len(group)-1
+    return result,removed
+
+
 def build(directory=PUBLIC):
     # Keep published routes between batches when a page cannot be crawled.
     previous = read(directory / 'previews.json', {})
     routes = dict(previous.get('routes') or {}) if isinstance(previous, dict) else {}
     count = 0
+    removed = 0
     for path in directory.glob('blogs__*.json'):
         pack = read(path, {})
         route = pack.get('route')
@@ -92,9 +128,20 @@ def build(directory=PUBLIC):
         if result:
             routes[route] = result
             count += 1
+    # Existing preview routes from earlier builds can already contain the
+    # same source with/without HTML inline spaces. Clean ALL routes, not only
+    # those refreshed during this particular crawler batch.
+    for route,rows in list(routes.items()):
+        if not ARTICLE.fullmatch(route) or not isinstance(rows,dict):
+            del routes[route]
+            continue
+        unique,pruned=dedupe_preview_rows(rows)
+        routes[route]=unique
+        removed+=pruned
     return {'version':3, 'route':'*previews', 'routes':routes,
             'route_count':len(routes), 'refreshed_route_count':count,
-            'note':'Only PUBLIC first paragraphs/SEO descriptions, not search input or customer data.'}
+            'equivalent_duplicates_removed':removed,
+            'note':'Only PUBLIC first paragraphs/SEO descriptions. Equivalent HTML spacing variants are deduplicated; no private data.'}
 
 def self_test():
     from tempfile import TemporaryDirectory
@@ -122,7 +169,15 @@ def self_test():
                      {'en':'Rail demand is increasing in Vietnam.','zh':'越南铁路需求不断增长。'}}
         }, ensure_ascii=False), encoding='utf-8')
         assert build(dest)['route_count']==2
-    print('PASS: public previews indexed from metadata or existing public article copy')
+        clean='Bạn có biết rằng vận chuyển đường sắt là phương thức vận chuyển hàng hóa tiết kiệm và an toàn cho doanh nghiệp.'
+        joined='Bạn có biết rằngvận chuyển đường sắtlà phương thức vận chuyển hàng hóa tiết kiệm và an toàn cho doanh nghiệp.'
+        assert compact_preview_key(clean)==compact_preview_key(joined)
+        kept,pruned=dedupe_preview_rows({
+            joined:{'en':'Badly joined rail translation.','zh':'错误译文。'},
+            clean:{'en':'Rail freight is efficient.','zh':'铁路货运高效。'}
+        })
+        assert pruned==1 and list(kept)==[clean]
+    print('PASS: public previews and equivalent inline-HTML variants deduplicated')
 
 if __name__ == '__main__':
     import sys
@@ -135,4 +190,5 @@ if __name__ == '__main__':
                        encoding='utf-8')
         tmp.replace(DEST)
         print('Public translated article preview index:',value['route_count'],
-              'routes, refreshed:',value['refreshed_route_count'])
+              'routes, refreshed:',value['refreshed_route_count'],
+              'conflicting HTML variants removed:',value['equivalent_duplicates_removed'])
