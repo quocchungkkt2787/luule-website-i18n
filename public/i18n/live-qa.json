@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T08:50:06.805925+00:00",
+  "tested_at": "2026-11-16T09:12:29.377389+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 115,
-  "public_routes_pending": 821,
+  "public_routes_verified": 123,
+  "public_routes_pending": 813,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2139,9 +2139,9 @@
       }
     },
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-quan-thu-duc": {
-      "fingerprint": "facc0016c43a79d5",
+      "fingerprint": "f74bc4cea0e16d0c",
       "status": "pass",
-      "checked_at": "2026-11-14T19:45:44.441509+00:00",
+      "checked_at": "2026-11-16T09:11:41.869277+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2158,9 +2158,9 @@
       }
     },
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-tan-binh": {
-      "fingerprint": "920fd83776670872",
+      "fingerprint": "7b3812ce28e81153",
       "status": "pass",
-      "checked_at": "2026-11-14T19:45:51.021544+00:00",
+      "checked_at": "2026-11-16T09:11:48.327239+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2177,9 +2177,9 @@
       }
     },
     "/blogs/chuyen-nha-tphcm/chuyen-nha-tai-tan-phu": {
-      "fingerprint": "2f24cc9304745b0b",
+      "fingerprint": "dd95905ca57a280f",
       "status": "pass",
-      "checked_at": "2026-11-14T19:45:57.574452+00:00",
+      "checked_at": "2026-11-16T09:11:54.230431+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2196,9 +2196,9 @@
       }
     },
     "/blogs/chuyen-van-phong": {
-      "fingerprint": "fa69d85fdc48627e",
+      "fingerprint": "30cc9923265411ab",
       "status": "pass",
-      "checked_at": "2026-11-14T19:46:05.408095+00:00",
+      "checked_at": "2026-11-16T09:12:02.113739+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2215,9 +2215,9 @@
       }
     },
     "/blogs/chuyen-van-phong/chuyen-van-phong-ha-noi-sai-gon": {
-      "fingerprint": "4172f338d085904b",
+      "fingerprint": "caa6a8b6554fe72f",
       "status": "pass",
-      "checked_at": "2026-11-14T19:46:12.749914+00:00",
+      "checked_at": "2026-11-16T09:12:08.964243+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2234,9 +2234,9 @@
       }
     },
     "/blogs/chuyen-van-phong/chuyen-van-phong-sai-gon-ha-noi": {
-      "fingerprint": "e551323f5702c288",
+      "fingerprint": "0a5c331ae1d9ecc7",
       "status": "pass",
-      "checked_at": "2026-11-14T19:46:20.210294+00:00",
+      "checked_at": "2026-11-16T09:12:15.878624+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2253,9 +2253,9 @@
       }
     },
     "/blogs/chuyen-van-phong/dich-vu-chuyen-van-phong-tphcm": {
-      "fingerprint": "2296bb74e62c38b2",
+      "fingerprint": "69a68adddca23bbc",
       "status": "pass",
-      "checked_at": "2026-11-14T19:46:28.124621+00:00",
+      "checked_at": "2026-11-16T09:12:23.413118+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2272,9 +2272,9 @@
       }
     },
     "/blogs/gia-cuoc-xe-tai-cho-hang": {
-      "fingerprint": "3f8c8240e4205f77",
+      "fingerprint": "24e73ef754153186",
       "status": "pass",
-      "checked_at": "2026-11-14T19:46:36.040480+00:00",
+      "checked_at": "2026-11-16T09:12:29.349568+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T08:49:05.736780+00:00",
+      "checked_at": "2026-11-16T09:11:23.748329+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T08:49:17.387404+00:00",
+      "checked_at": "2026-11-16T09:11:35.899455+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T08:49:11.961871+00:00",
+      "checked_at": "2026-11-16T09:11:30.299594+00:00",
       "languages": {
         "en": {
           "ok": true,
