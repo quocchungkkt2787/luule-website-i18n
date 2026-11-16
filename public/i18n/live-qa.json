@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T09:35:21.205522+00:00",
+  "tested_at": "2026-11-16T09:57:44.585248+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 131,
-  "public_routes_pending": 805,
+  "public_routes_verified": 138,
+  "public_routes_pending": 798,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -1227,9 +1227,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-trung/chuyen-nha-sai-gon-ninh-thuan": {
-      "fingerprint": "c8864e8b0319c0a8",
+      "fingerprint": "8f4a9ad021ace3ff",
       "status": "pass",
-      "checked_at": "2026-11-16T06:50:10.969545+00:00",
+      "checked_at": "2026-11-16T09:56:57.992816+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2443,9 +2443,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/tiet-kiem-toi-da-chi-phi": {
-      "fingerprint": "bf08cf39cba6cc50",
+      "fingerprint": "679778ec73f8bc03",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:08.199767+00:00",
+      "checked_at": "2026-11-16T09:57:03.942559+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2462,9 +2462,9 @@
       }
     },
     "/blogs/goc-tu-van": {
-      "fingerprint": "699f95c7dacc5705",
+      "fingerprint": "adf2b4d0779b94fe",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:14.649051+00:00",
+      "checked_at": "2026-11-16T09:57:09.940035+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2481,9 +2481,9 @@
       }
     },
     "/blogs/goc-tu-van/1-van-tien-dai-loan-bang-bao-nhieu-tien-viet": {
-      "fingerprint": "5b6940a6dcd2f9f0",
+      "fingerprint": "cb1b16871c7be2c6",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:21.353570+00:00",
+      "checked_at": "2026-11-16T09:57:16.156082+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2500,9 +2500,9 @@
       }
     },
     "/blogs/goc-tu-van/17-la-o-dau": {
-      "fingerprint": "ca4edba8d3911103",
+      "fingerprint": "5e1047a59e02fb03",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:28.198259+00:00",
+      "checked_at": "2026-11-16T09:57:22.586203+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2519,9 +2519,9 @@
       }
     },
     "/blogs/goc-tu-van/65-la-tinh-nao": {
-      "fingerprint": "fef3bee61306adaa",
+      "fingerprint": "489b386ccbfdd13f",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:37.011232+00:00",
+      "checked_at": "2026-11-16T09:57:29.639475+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2538,9 +2538,9 @@
       }
     },
     "/blogs/goc-tu-van/69-la-tinh-nao": {
-      "fingerprint": "863aa828e5655df8",
+      "fingerprint": "9e64f88af42e7a71",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:44.802993+00:00",
+      "checked_at": "2026-11-16T09:57:37.362839+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2557,9 +2557,9 @@
       }
     },
     "/blogs/goc-tu-van/bang-gia-cuoc-van-chuyen-container-duong-bien": {
-      "fingerprint": "513ad6f58e38d904",
+      "fingerprint": "df0631e444d5bd78",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:52.471803+00:00",
+      "checked_at": "2026-11-16T09:57:44.557009+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T09:34:20.681218+00:00",
+      "checked_at": "2026-11-16T09:56:39.930910+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T09:34:32.301256+00:00",
+      "checked_at": "2026-11-16T09:56:51.619442+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T09:34:27.027652+00:00",
+      "checked_at": "2026-11-16T09:56:46.348217+00:00",
       "languages": {
         "en": {
           "ok": true,
