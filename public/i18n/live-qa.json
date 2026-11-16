@@ -1,12 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T14:31:01.309100+00:00",
+  "tested_at": "2026-11-16T14:54:45.501642+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 234,
-  "public_routes_pending": 702,
-  "public_routes_failed": 0,
-  "failed_examples": [],
+  "public_routes_verified": 241,
+  "public_routes_pending": 695,
+  "public_routes_failed": 1,
+  "failed_examples": [
+    "/search"
+  ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
@@ -4400,9 +4402,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-cod-la-gi-va-kinh-nghiem-ship-cod": {
-      "fingerprint": "2724fdd924c36a36",
+      "fingerprint": "f8e18afb9972adba",
       "status": "pass",
-      "checked_at": "2026-11-15T00:38:26.010737+00:00",
+      "checked_at": "2026-11-16T14:53:46.027719+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4419,9 +4421,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-giay-to-qua-buu-dien": {
-      "fingerprint": "5e652897b81efe77",
+      "fingerprint": "c49f77ff7f575790",
       "status": "pass",
-      "checked_at": "2026-11-15T00:57:54.713662+00:00",
+      "checked_at": "2026-11-16T14:53:54.558830+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4438,9 +4440,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-hang-ha-noi-hai-phong": {
-      "fingerprint": "7cffb168038b602d",
+      "fingerprint": "233c05946297c7e1",
       "status": "pass",
-      "checked_at": "2026-11-15T00:58:01.058285+00:00",
+      "checked_at": "2026-11-16T14:54:04.346202+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4457,9 +4459,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-hang-nhanh-ha-noi-sai-gon": {
-      "fingerprint": "fdaee569e66811b1",
+      "fingerprint": "965d5fa371580b2d",
       "status": "pass",
-      "checked_at": "2026-11-15T00:58:07.324679+00:00",
+      "checked_at": "2026-11-16T14:54:12.507624+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4476,9 +4478,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-hang-tu-anh-ve-viet-nam-mat-bao-lau": {
-      "fingerprint": "e0e21c71795526da",
+      "fingerprint": "5226a99cd3d39c15",
       "status": "pass",
-      "checked_at": "2026-11-15T00:58:13.714304+00:00",
+      "checked_at": "2026-11-16T14:54:19.760165+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4495,9 +4497,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-hang-xe-phuong-trang-mat-bao-lau": {
-      "fingerprint": "dced2cc7e276d16b",
+      "fingerprint": "d013c6e15c7dc3ce",
       "status": "pass",
-      "checked_at": "2026-11-15T00:58:19.998776+00:00",
+      "checked_at": "2026-11-16T14:54:27.720876+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4514,9 +4516,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-laptop-qua-buu-dien": {
-      "fingerprint": "3a268f18322bf9ff",
+      "fingerprint": "27884a61169a7a85",
       "status": "pass",
-      "checked_at": "2026-11-15T00:58:26.320650+00:00",
+      "checked_at": "2026-11-16T14:54:35.393477+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -4533,9 +4535,9 @@
       }
     },
     "/blogs/goc-tu-van/gui-xe-may-o-ben-xe-mien-dong": {
-      "fingerprint": "bbc00de7179d2aac",
+      "fingerprint": "d0200587671ce191",
       "status": "pass",
-      "checked_at": "2026-11-15T00:58:33.185124+00:00",
+      "checked_at": "2026-11-16T14:54:45.468610+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T14:29:51.525973+00:00",
+      "checked_at": "2026-11-16T14:53:01.287831+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T14:30:04.004305+00:00",
+      "checked_at": "2026-11-16T14:53:38.048368+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15201,8 +15203,8 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
-      "status": "pass",
-      "checked_at": "2026-11-16T14:29:58.158187+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-16T14:53:29.802737+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15211,9 +15213,15 @@
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }
