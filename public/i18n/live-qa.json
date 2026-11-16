@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T10:43:33.947802+00:00",
+  "tested_at": "2026-11-16T11:06:10.560642+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 154,
-  "public_routes_pending": 782,
+  "public_routes_verified": 162,
+  "public_routes_pending": 774,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2880,9 +2880,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-89-o-dau": {
-      "fingerprint": "e42763e2f7000f1d",
+      "fingerprint": "ec0a1d00c0c2abfc",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:39.001844+00:00",
+      "checked_at": "2026-11-16T11:05:20.855932+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2899,9 +2899,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-97-o-dau": {
-      "fingerprint": "7ec125a6b0b4658e",
+      "fingerprint": "3af53156c1698c8b",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:01.014636+00:00",
+      "checked_at": "2026-11-16T11:05:28.223077+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2918,9 +2918,9 @@
       }
     },
     "/blogs/goc-tu-van/bill-of-lading-mau": {
-      "fingerprint": "5013f32dc1ac4213",
+      "fingerprint": "10c44f5b88fccca3",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:08.269396+00:00",
+      "checked_at": "2026-11-16T11:05:34.941138+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2937,9 +2937,9 @@
       }
     },
     "/blogs/goc-tu-van/boc-xe-may-gui-xe-khach": {
-      "fingerprint": "497a23509dd85ba1",
+      "fingerprint": "268d9362a8a1b05d",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:15.531410+00:00",
+      "checked_at": "2026-11-16T11:05:41.881303+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2956,9 +2956,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-don-vi-van-chuyen-hang-hoa-uy-tin-hien-nay": {
-      "fingerprint": "1c5e76a4d4261e5c",
+      "fingerprint": "1c80d75ad1187eff",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:22.827897+00:00",
+      "checked_at": "2026-11-16T11:05:49.510206+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2975,9 +2975,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-hang-tau-lon-o-tai-viet-nam": {
-      "fingerprint": "78156744ea173fdc",
+      "fingerprint": "225dfcaa5b7b07ee",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:31.252744+00:00",
+      "checked_at": "2026-11-16T11:05:56.773869+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2994,9 +2994,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-loai-cont": {
-      "fingerprint": "30ce967b45c1f1ee",
+      "fingerprint": "90b1c415ac352f01",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:39.301225+00:00",
+      "checked_at": "2026-11-16T11:06:04.076827+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3013,9 +3013,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-loai-hinh-van-tai": {
-      "fingerprint": "5f4aa1c8e86945c8",
+      "fingerprint": "5f4f1d3c6c0a8b5e",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:46.666774+00:00",
+      "checked_at": "2026-11-16T11:06:10.524769+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T10:42:26.387425+00:00",
+      "checked_at": "2026-11-16T11:05:01.329200+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T10:42:39.771861+00:00",
+      "checked_at": "2026-11-16T11:05:14.247489+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T10:42:33.943713+00:00",
+      "checked_at": "2026-11-16T11:05:08.813851+00:00",
       "languages": {
         "en": {
           "ok": true,
