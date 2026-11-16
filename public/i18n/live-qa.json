@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T00:27:06.109854+00:00",
+  "tested_at": "2026-11-16T00:49:38.619294+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 752,
-  "public_routes_pending": 184,
+  "public_routes_verified": 760,
+  "public_routes_pending": 176,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -14260,14 +14260,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-hung-yen": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-det-may-pho-noi": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-kim-dong": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-ly-thuong-kiet": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-minh-duc": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-minh-quang": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-pho-noi-a": {},
-    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-tan-dan": {},
+    "/blogs/gui-hang-tphcm-kcn-hung-yen": {
+      "fingerprint": "9cf7918f6c04d025",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:48:55.141348+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Industrial Zone at thengyan Village"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡交通工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-det-may-pho-noi": {
+      "fingerprint": "e5b8a4c0722ef665",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:01.310169+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon delivery process - Buccard Route Quick"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡送货过程 - Buccard Route Quick"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-kim-dong": {
+      "fingerprint": "c6b980460a8dd0fc",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:07.549578+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN Kim Fame Quick"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNN 金名快"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-ly-thuong-kiet": {
+      "fingerprint": "2f2c700f827c14e3",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:13.658146+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon delivery service - KNC General Justice"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡送货服务 -- -- KNC 普通法官"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-minh-duc": {
+      "fingerprint": "870ac694a3c9b133",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:19.963973+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Row Service - KNN Minh German good, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡列车服务 - KNN明德好,有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-minh-quang": {
+      "fingerprint": "ba00a812cc13d038",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:26.142295+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon delivery service - KNNN Ming Saving, Quick"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡快递服务 - KNNN明救活快递"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-pho-noi-a": {
+      "fingerprint": "7691d4d5b3fa1fb9",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:32.381264+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Row Service - KNN Connect A Best Service"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡行服务 - KNN 连接一个最佳服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-tan-dan": {
+      "fingerprint": "a95d34e01768d8e9",
+      "status": "pass",
+      "checked_at": "2026-11-16T00:49:38.579815+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - Best New NWN New People Now"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - 最佳新人NWN New People Now"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-hung-yen/chuyen-hang-sai-gon-kcn-thang-long": {},
     "/blogs/gui-hang-tphcm-kcn-hung-yen/gui-hang-sai-gon-kcn-yen-my": {},
     "/blogs/gui-hang-tphcm-kcn-nam-dinh": {},
@@ -14432,7 +14576,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-16T00:26:02.343610+00:00",
+      "checked_at": "2026-11-16T00:48:36.344838+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14452,7 +14596,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T00:26:15.371368+00:00",
+      "checked_at": "2026-11-16T00:48:48.600392+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14484,7 +14628,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-16T00:26:09.576091+00:00",
+      "checked_at": "2026-11-16T00:48:43.010605+00:00",
       "languages": {
         "en": {
           "ok": true,
