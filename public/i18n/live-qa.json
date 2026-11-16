@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T01:12:57.712450+00:00",
+  "tested_at": "2026-11-16T01:35:40.080083+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 768,
-  "public_routes_pending": 168,
+  "public_routes_verified": 776,
+  "public_routes_pending": 160,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -14564,14 +14564,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-nam-dinh/chuyen-hang-sai-gon-toi-kcn-hong-tien": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-cam-khe": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-ha-hoa": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-phu-ha": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-phu-ninh": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-tam-nong": {},
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-thuy-van": {},
+    "/blogs/gui-hang-tphcm-kcn-nam-dinh/chuyen-hang-sai-gon-toi-kcn-hong-tien": {
+      "fingerprint": "ffb4815d2565fa54",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:34:53.392738+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience needs to know when sending Saigon - KNN Red Advance"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "经验需要知道,当发送西贡 - KNN红色前进"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho": {
+      "fingerprint": "e168f2aaaf665e8b",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:34:59.918437+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Industry at Funcm"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输工业公司"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-cam-khe": {
+      "fingerprint": "0145335abd7c59d2",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:35:06.398181+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Why Send Saigon - KNN XI at Liu Li"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "为什么要派西贡 - KNN XI去刘力"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-ha-hoa": {
+      "fingerprint": "ded6ef9b59f9be99",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:35:12.859842+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Send Service - KNC Lower Republic at Liu Li"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡发送服务 - KNC 下共和国驻刘力."
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-phu-ha": {
+      "fingerprint": "52b430d4fbe5595f",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:35:19.741162+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Line Service - KNN FujiC Fame, Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡线服务 - KNN Fujic名人,专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-phu-ninh": {
+      "fingerprint": "b0dd124f4969ec44",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:35:26.536975+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Posting Services - UTC Fame, Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡邮政服务 -- -- UTC名人,专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-tam-nong": {
+      "fingerprint": "b7d66dcfd0e10414",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:35:33.523134+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Send Service - CN Tam Famed, Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡发送服务----CN Tam Famed,专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-thuy-van": {
+      "fingerprint": "aa5e13eede879784",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:35:40.046387+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - Swedish KNN Yuan cheap, quick"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - 瑞典 KNN 袁便宜,快点"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-trung-ha": {},
     "/blogs/gui-hang-tphcm-kcn-quang-ninh": {},
     "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-cai-lan": {},
@@ -14720,7 +14864,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-16T01:11:43.869900+00:00",
+      "checked_at": "2026-11-16T01:34:33.310737+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14740,7 +14884,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T01:12:02.079184+00:00",
+      "checked_at": "2026-11-16T01:34:46.288965+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14772,7 +14916,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-16T01:11:56.247282+00:00",
+      "checked_at": "2026-11-16T01:34:40.219382+00:00",
       "languages": {
         "en": {
           "ok": true,
