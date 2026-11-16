@@ -9,6 +9,7 @@ No online AI calls, no private account data, no image edits.
 """
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -22,6 +23,46 @@ def read(path, default):
     except (OSError, ValueError):
         return default
 
+def normalize_search(value):
+    value=unicodedata.normalize('NFKD',str(value).lower())
+    return re.sub(r'[^a-z0-9]+',' ',''.join(c for c in value if not unicodedata.combining(c))).strip()
+
+
+def fallback_sources(route, entries, limit=6):
+    """Use existing PUBLIC long paragraphs while the live crawl is queued.
+
+    Limit each blog route to a handful of likely introductory prose segments,
+    to avoid downloading entire article dictionaries on every mobile page.
+    """
+    slug_tokens=set(normalize_search(route.rsplit('/',1)[-1]).split())
+    slug_tokens={w for w in slug_tokens if len(w)>3 and w not in
+                 {'chuyen','hang','gui','dich','vu','cong','ty','van','tai','sai','gon','trong','giao'}}
+    intros=('hiện nay','nằm trong','để đáp ứng','nếu quý khách',
+            'bạn đang','công ty','dịch vụ','với','ga ','nhu cầu',
+            'dưới đây','khi ','trong những năm','đối với','vận tải')
+    candidates=[]
+    for source,row in entries.items():
+        if not isinstance(source,str) or not 110<=len(source)<=1250:
+            continue
+        if not isinstance(row,dict) or not all(
+            isinstance(row.get(lang),str) and row[lang].strip()
+            for lang in ('en','zh')):
+            continue
+        leading=source.strip().lower()
+        if source.count('\n')>2 or '<' in source or '>' in source:
+            continue
+        words=set(normalize_search(source).split())
+        overlap=len(slug_tokens & words)
+        score=min(overlap,5)*7
+        if leading.startswith(intros):score+=12
+        if 170<=len(source)<=600:score+=7
+        if any(p in source for p in ('. ', '? ', '! ')):score+=4
+        if source.endswith(('...', '…')):score-=3
+        candidates.append((score, -abs(len(source)-360), source))
+    candidates.sort(reverse=True)
+    return [source for _,_,source in candidates[:limit]]
+
+
 def build(directory=PUBLIC):
     # Keep published routes between batches when a page cannot be crawled.
     previous = read(directory / 'previews.json', {})
@@ -33,7 +74,7 @@ def build(directory=PUBLIC):
         if not isinstance(route, str) or not ARTICLE.fullmatch(route):
             continue
         entries = pack.get('texts') or {}
-        sources = pack.get('preview_sources') or []
+        sources = pack.get('preview_sources') or fallback_sources(route, entries)
         if not isinstance(entries, dict) or not isinstance(sources, list):
             continue
         # Preview variants are stored by the public article crawler; this is
@@ -74,7 +115,14 @@ def self_test():
             'texts':{source:{'en':'private','zh':'private'}}
         },ensure_ascii=False),encoding='utf-8')
         assert build(dest)['route_count']==1
-    print('PASS: public route-keyed preview index and private exclusion')
+        (dest / 'blogs__a__old.json').write_text(json.dumps({
+            'route':'/blogs/a/old',
+            'texts':{'Hiện nay, nhu cầu vận chuyển hàng hóa đường sắt qua Việt Nam đang tăng nhanh. '+
+                     'Vận tải đường sắt là giải pháp chi phí hợp lý cho các doanh nghiệp.':
+                     {'en':'Rail demand is increasing in Vietnam.','zh':'越南铁路需求不断增长。'}}
+        }, ensure_ascii=False), encoding='utf-8')
+        assert build(dest)['route_count']==2
+    print('PASS: public previews indexed from metadata or existing public article copy')
 
 if __name__ == '__main__':
     import sys
