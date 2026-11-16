@@ -1,0 +1,32 @@
+name: Diagnose public search and related-card excerpts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/diagnose_live_snippets.py'
+      - '.github/workflows/diagnose-public-snippets.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: luule-public-snippet-diagnostic
+  cancel-in-progress: false
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install free public browser tool
+        run: |
+          python -m pip install 'playwright>=1.52,<2'
+          python -m playwright install --with-deps chromium
+      - name: Check EN state, public excerpt card matching and CDN data
+        run: python tools/diagnose_live_snippets.py
