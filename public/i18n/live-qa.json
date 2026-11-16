@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T12:14:10.548444+00:00",
+  "tested_at": "2026-11-16T12:35:49.741482+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 185,
-  "public_routes_pending": 751,
+  "public_routes_verified": 193,
+  "public_routes_pending": 743,
   "public_routes_failed": 1,
   "failed_examples": [
     "/search"
@@ -3490,9 +3490,9 @@
       }
     },
     "/blogs/goc-tu-van/chanh-xe-la-gi": {
-      "fingerprint": "7e8f14f71dad4833",
+      "fingerprint": "c60b47a73e04fb14",
       "status": "pass",
-      "checked_at": "2026-11-14T22:32:10.840742+00:00",
+      "checked_at": "2026-11-16T12:35:00.957290+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3509,9 +3509,9 @@
       }
     },
     "/blogs/goc-tu-van/chanh-xe-to-chau": {
-      "fingerprint": "7095a74d0b9e1fe7",
+      "fingerprint": "e24fc5f4d416b534",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:01.958461+00:00",
+      "checked_at": "2026-11-16T12:35:06.997995+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3528,9 +3528,9 @@
       }
     },
     "/blogs/goc-tu-van/chi-phi-van-chuyen-hang-hoa": {
-      "fingerprint": "fd5f33e915f2b186",
+      "fingerprint": "9b95987ccad0b575",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:09.087798+00:00",
+      "checked_at": "2026-11-16T12:35:13.823230+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3547,9 +3547,9 @@
       }
     },
     "/blogs/goc-tu-van/chieu-cao-xe-container-40-feet": {
-      "fingerprint": "e57860cefe44c6eb",
+      "fingerprint": "0cb4b3ae66583848",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:23.727461+00:00",
+      "checked_at": "2026-11-16T12:35:28.903854+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3566,9 +3566,9 @@
       }
     },
     "/blogs/goc-tu-van/chieu-cao-xe-container": {
-      "fingerprint": "1d1a6e55dcf5eda8",
+      "fingerprint": "8df3617daf20b075",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:16.870222+00:00",
+      "checked_at": "2026-11-16T12:35:22.682562+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3585,9 +3585,9 @@
       }
     },
     "/blogs/goc-tu-van/chuyen-dan-piano": {
-      "fingerprint": "a747f25ae09bd54e",
+      "fingerprint": "76e29733726eabb7",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:30.561733+00:00",
+      "checked_at": "2026-11-16T12:35:35.946662+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3604,9 +3604,9 @@
       }
     },
     "/blogs/goc-tu-van/chuyen-nha-duong-dai": {
-      "fingerprint": "e565ebdee10475a9",
+      "fingerprint": "f431b0889107a24d",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:39.110085+00:00",
+      "checked_at": "2026-11-16T12:35:43.297428+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3623,9 +3623,9 @@
       }
     },
     "/blogs/goc-tu-van/chuyen-nha-nen-mang-gi-vao-truoc": {
-      "fingerprint": "958a01a42c754e4c",
+      "fingerprint": "540d29855a20f0bd",
       "status": "pass",
-      "checked_at": "2026-11-14T22:52:46.082999+00:00",
+      "checked_at": "2026-11-16T12:35:49.706493+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T12:12:58.377789+00:00",
+      "checked_at": "2026-11-16T12:34:38.165316+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T12:13:11.991461+00:00",
+      "checked_at": "2026-11-16T12:34:49.843307+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "fail",
-      "checked_at": "2026-11-16T12:13:05.988351+00:00",
+      "checked_at": "2026-11-16T12:34:44.681645+00:00",
       "languages": {
         "en": {
           "ok": false,
