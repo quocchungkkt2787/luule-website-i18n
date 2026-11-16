@@ -1,0 +1,67 @@
+name: Publish public blog preview translations (fast)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/build_public_previews.py'
+      - '.github/workflows/build-previews-fast.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Separate from the long 933-page translation crawl queue.
+concurrency:
+  group: luule-public-previews-fast
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test and build existing public article previews
+        run: |
+          python tools/build_public_previews.py --self-test
+          python tools/build_public_previews.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          x=json.loads(Path('public/i18n/previews.json').read_text(encoding='utf-8'))
+          n=len(x.get('routes',{}))
+          print('PUBLIC ARTICLE ROUTES WITH PREVIEWS:',n)
+          assert n > 10, 'Fast preview index did not discover enough public routes'
+          PY
+      - name: Publish without overwriting current translation progress
+        run: |
+          set -euo pipefail
+          git config user.name 'LuuLe-i18n-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add public/i18n/previews.json
+          if git diff --cached --quiet; then
+            echo 'Public previews already up to date'
+            exit 0
+          fi
+          git commit -m 'chore(i18n): publish translated blog preview index'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo '::warning::Preview index changed concurrently; full crawler will publish the next revision.'
+              exit 0
+            fi
+            if git push origin HEAD:main; then
+              echo 'Public article preview index published'
+              exit 0
+            fi
+            sleep "$((attempt * 3))"
+          done
+          exit 1
