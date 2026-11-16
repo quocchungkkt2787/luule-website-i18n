@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T03:48:23.530631+00:00",
+  "tested_at": "2026-11-16T04:12:19.227420+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 10,
-  "public_routes_pending": 926,
+  "public_routes_verified": 18,
+  "public_routes_pending": 918,
   "public_routes_failed": 1,
   "failed_examples": [
     "/search"
@@ -165,9 +165,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/den-bu-thiet-hai": {
-      "fingerprint": "9b4b98604f3da19c",
+      "fingerprint": "1fc6c18fd05c658e",
       "status": "pass",
-      "checked_at": "2026-11-16T03:24:43.754405+00:00",
+      "checked_at": "2026-11-16T04:11:33.291409+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -184,9 +184,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/dieu-khoan-chung": {
-      "fingerprint": "5d084f45bb9a3aed",
+      "fingerprint": "6d2d13e977be6b75",
       "status": "pass",
-      "checked_at": "2026-11-16T03:24:50.318419+00:00",
+      "checked_at": "2026-11-16T04:11:39.758410+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -203,9 +203,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay": {
-      "fingerprint": "ee21079ac6119c8a",
+      "fingerprint": "7c82e0103509a0f1",
       "status": "pass",
-      "checked_at": "2026-11-16T03:24:55.949930+00:00",
+      "checked_at": "2026-11-16T04:11:46.710348+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -222,9 +222,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/nhung-luu-y-chung": {
-      "fingerprint": "dff3ecd0d2df49c5",
+      "fingerprint": "07f0e2624b24529a",
       "status": "pass",
-      "checked_at": "2026-11-16T03:25:01.559463+00:00",
+      "checked_at": "2026-11-16T04:11:53.110674+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -241,9 +241,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/quy-trinh-giao-nhan-hang-hoa": {
-      "fingerprint": "ed06383b7d0f9a19",
+      "fingerprint": "22e05e7b4dc2e802",
       "status": "pass",
-      "checked_at": "2026-11-16T03:25:08.169891+00:00",
+      "checked_at": "2026-11-16T04:11:59.469714+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -260,9 +260,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/thanh-toan": {
-      "fingerprint": "1bd09dc065b7b42c",
+      "fingerprint": "7d10265649dd35ed",
       "status": "pass",
-      "checked_at": "2026-11-16T03:25:13.885597+00:00",
+      "checked_at": "2026-11-16T04:12:05.933393+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -279,9 +279,9 @@
       }
     },
     "/blogs/chuyen-cua-hang": {
-      "fingerprint": "be3a4ca3cdad97b9",
+      "fingerprint": "e15eb31d6efafb95",
       "status": "pass",
-      "checked_at": "2026-11-14T15:13:21.919180+00:00",
+      "checked_at": "2026-11-16T04:12:12.402550+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -298,9 +298,9 @@
       }
     },
     "/blogs/chuyen-cua-hang/chuyen-cua-hang-ha-noi-sai-gon": {
-      "fingerprint": "03896c7cfa3d7de5",
+      "fingerprint": "515d4a8be1337f0d",
       "status": "pass",
-      "checked_at": "2026-11-16T03:25:20.147304+00:00",
+      "checked_at": "2026-11-16T04:12:19.204574+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T03:47:20.195045+00:00",
+      "checked_at": "2026-11-16T04:11:12.611665+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T03:47:33.795935+00:00",
+      "checked_at": "2026-11-16T04:11:26.640704+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "fail",
-      "checked_at": "2026-11-16T03:47:27.202157+00:00",
+      "checked_at": "2026-11-16T04:11:20.654051+00:00",
       "languages": {
         "en": {
           "ok": false,
