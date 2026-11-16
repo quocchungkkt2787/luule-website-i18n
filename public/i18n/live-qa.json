@@ -1,12 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T03:02:49.302832+00:00",
+  "tested_at": "2026-11-16T03:25:26.815385+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 181,
-  "public_routes_pending": 755,
-  "public_routes_failed": 0,
-  "failed_examples": [],
+  "public_routes_verified": 187,
+  "public_routes_pending": 749,
+  "public_routes_failed": 1,
+  "failed_examples": [
+    "/search"
+  ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
@@ -163,9 +165,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/den-bu-thiet-hai": {
-      "fingerprint": "d7f0039b3898a76f",
+      "fingerprint": "9b4b98604f3da19c",
       "status": "pass",
-      "checked_at": "2026-11-14T15:12:39.854922+00:00",
+      "checked_at": "2026-11-16T03:24:43.754405+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -182,9 +184,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/dieu-khoan-chung": {
-      "fingerprint": "2926e6636eb2650c",
+      "fingerprint": "5d084f45bb9a3aed",
       "status": "pass",
-      "checked_at": "2026-11-14T15:12:47.857638+00:00",
+      "checked_at": "2026-11-16T03:24:50.318419+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -201,9 +203,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/lich-trinh-tau-chay": {
-      "fingerprint": "45736a7f8507b82a",
+      "fingerprint": "ee21079ac6119c8a",
       "status": "pass",
-      "checked_at": "2026-11-14T15:12:54.342639+00:00",
+      "checked_at": "2026-11-16T03:24:55.949930+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -220,9 +222,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/nhung-luu-y-chung": {
-      "fingerprint": "2fc04d53f3aba714",
+      "fingerprint": "dff3ecd0d2df49c5",
       "status": "pass",
-      "checked_at": "2026-11-14T15:13:01.002982+00:00",
+      "checked_at": "2026-11-16T03:25:01.559463+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -239,9 +241,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/quy-trinh-giao-nhan-hang-hoa": {
-      "fingerprint": "0ce680abe86828e5",
+      "fingerprint": "ed06383b7d0f9a19",
       "status": "pass",
-      "checked_at": "2026-11-14T15:13:07.620980+00:00",
+      "checked_at": "2026-11-16T03:25:08.169891+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -258,9 +260,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty/thanh-toan": {
-      "fingerprint": "5b1edec22b9dc45c",
+      "fingerprint": "1bd09dc065b7b42c",
       "status": "pass",
-      "checked_at": "2026-11-14T15:13:15.009399+00:00",
+      "checked_at": "2026-11-16T03:25:13.885597+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -296,9 +298,9 @@
       }
     },
     "/blogs/chuyen-cua-hang/chuyen-cua-hang-ha-noi-sai-gon": {
-      "fingerprint": "be70e753c7faef31",
+      "fingerprint": "03896c7cfa3d7de5",
       "status": "pass",
-      "checked_at": "2026-11-14T15:13:29.770733+00:00",
+      "checked_at": "2026-11-16T03:25:20.147304+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -315,9 +317,9 @@
       }
     },
     "/blogs/chuyen-cua-hang/chuyen-cua-hang-sai-gon-ha-noi": {
-      "fingerprint": "065cd58c70e55f4a",
+      "fingerprint": "82f58e878dfc94d5",
       "status": "pass",
-      "checked_at": "2026-11-14T15:35:25.851540+00:00",
+      "checked_at": "2026-11-16T03:25:26.785641+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T03:01:42.454282+00:00",
+      "checked_at": "2026-11-16T03:24:25.067172+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T03:01:55.698777+00:00",
+      "checked_at": "2026-11-16T03:24:37.110746+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15201,19 +15203,31 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "54f4e08030bfa2e5",
-      "status": "pass",
-      "checked_at": "2026-11-16T03:01:49.674184+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-16T03:24:31.746415+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }
