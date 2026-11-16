@@ -13597,6 +13597,126 @@
       "ocr_excerpt": "DỊCH VU GUI HÀNG HAI DUONG TAY NINH",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/article/hai-duong-vt_b6a560cd175d4a46b7e71578e099304c_large.png": {
+      "confident_word_count": 14,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "ce DICH VU VAN CHUYEN HAI DUONG VONG TAU CHUYEN NGHIEP GIA TOT `.",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/article/hang_tu_ga_den_kho_an_toan_-_nhanh_chong__800___400_px___600___450_px__23dc4ac1fc1946e6af4e738af88de2c7_large.jpg": {
+      "confident_word_count": 26,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "LL VAN TAIL ‘a VIỆT NAM GA PB ich vu Vận chuyển hàng từ ga Giáp Bát đi vào ga Sóng Thần uy tín, giá rẻ",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/hoa-binh__1__98f586e967dd42cb86b23f52144c2f80_large.png": {
+      "confident_word_count": 12,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "=e It CHUYEN NHA SAI GON HOA BINH UY TIN, CHUYEN NGHIỆP.",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/hoc_mon_e45f56c0720a4df98f808c4964d9b8a0_large.png": {
+      "confident_word_count": 14,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "CCA co VAN TẢI LƯU LE DICH VU CHUYEN NHA TAI HOC MON `4",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/hung-yen-binh-duong__1__21db21bd4fc94ce5b80f83ce6d303faf_large.png": {
+      "confident_word_count": 14,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "DICH VU GUT HANG HUNG YEN BINH DƯƠNG UY TIN CHUYEN NGHIEP GIA RE",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/hung-yen-dong-nai_5bd9853540fd4e72b1e0759dd871793b_large.png": {
+      "confident_word_count": 15,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "xơ ƯU LÊ GUI HANG HUNG YEN DONG NAI UY TÍN AN TOAN TIẾT KIỆM",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/hung-yen-long-an_2a0837610be14eec85275d74c5b0c50d_large.png": {
+      "confident_word_count": 13,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "'VẬN CHUYỂN HÀNG HÓA. HƯNG YÊN LONG AN UY TÍN, CHUYÊN NGHIỆP. Lưu",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/hung-yen-vung-tau_1aa95599c9564ad3b676729450447640_large.png": {
+      "confident_word_count": 13,
+      "dimensions": [
+        480,
+        420
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "LL Gửi Hang HUNG YEN VUNG TAU Giá rẻ Uy tín Chat lượng",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/ich_vu_van_chuyen_hang_tu_ga_den_ga_nhanh_gon_-_an_toan__600___450_px__8a0d210449b94288b175523f2e896348_large.jpg": {
+      "confident_word_count": 14,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Dịch vụ Vận chuyển hàng từ ga đến ga nhanh gọn an toàn \\\\",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/ieu_de_phu__800___400_px___600___450_px___800___400_px___600___450_px__509dcb50fe3542d996c455a738bf6b57_large.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "SS SS",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/article/kcn_bourbon_an_hoa_chuyen_hang_aa8101a1c7f64043a4dc34f5dafebccc_large.png": {
+      "confident_word_count": 17,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "The Gui hang đường dài với chi phí hợp lý tại Hà Nội KCN Bourbon An Hòa",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/kho-nam-ninh-o-dau_9b12a4fcd9d44aa3979e1bb4fb00560a_large.jpg": {
+      "confident_word_count": 6,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "KHO NAM NINH BAU? Lid VN",
+      "status": "no_vietnamese_detected"
+    },
     "https://file.hstatic.net/1000191021/file/1-bang-gia-ve-tau-lua-sai-gon-ha-noi_903a08893df54d889e12ffb432ba6b81_grande.png": {
       "confident_word_count": 60,
       "dimensions": [
@@ -13658,11 +13778,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 1368,
-  "images_unscanned": 1722,
+  "images_scanned": 1380,
+  "images_unscanned": 1710,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 3,
-  "possibly_vietnamese": 1256,
+  "possibly_vietnamese": 1265,
   "unique_public_images": 3090,
   "version": 1
 }
