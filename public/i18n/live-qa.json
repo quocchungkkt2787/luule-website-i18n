@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T17:48:21.157521+00:00",
+  "tested_at": "2026-11-16T18:09:42.786848+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 306,
-  "public_routes_pending": 630,
+  "public_routes_verified": 314,
+  "public_routes_pending": 622,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -5768,9 +5768,9 @@
       }
     },
     "/blogs/goc-tu-van/tuoi-thin-don-nha-ngay-nao-tot": {
-      "fingerprint": "94288a7bc4e38d83",
+      "fingerprint": "62750b9a81a0d208",
       "status": "pass",
-      "checked_at": "2026-11-15T03:53:47.630653+00:00",
+      "checked_at": "2026-11-16T18:08:57.654594+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5787,9 +5787,9 @@
       }
     },
     "/blogs/goc-tu-van/uu-va-nhuoc-diem-cua-hinh-thuc-van-tai-duong-thuy": {
-      "fingerprint": "c494ca9d12289120",
+      "fingerprint": "8756fb8c714d96a5",
       "status": "pass",
-      "checked_at": "2026-11-15T04:17:49.954413+00:00",
+      "checked_at": "2026-11-16T18:09:03.907365+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5806,9 +5806,9 @@
       }
     },
     "/blogs/goc-tu-van/van-chuyen-container-noi-dia": {
-      "fingerprint": "1fc859fac6381b32",
+      "fingerprint": "e4251ed327baf701",
       "status": "pass",
-      "checked_at": "2026-11-15T04:17:58.122020+00:00",
+      "checked_at": "2026-11-16T18:09:10.242548+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5825,9 +5825,9 @@
       }
     },
     "/blogs/goc-tu-van/van-chuyen-door-to-door": {
-      "fingerprint": "e60983c962d78a19",
+      "fingerprint": "e948a7f510db4055",
       "status": "pass",
-      "checked_at": "2026-11-15T04:18:06.145560+00:00",
+      "checked_at": "2026-11-16T18:09:17.041863+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5844,9 +5844,9 @@
       }
     },
     "/blogs/goc-tu-van/van-chuyen-duong-bien": {
-      "fingerprint": "5bb08b013b1e66a6",
+      "fingerprint": "38298e3dbb670c2b",
       "status": "pass",
-      "checked_at": "2026-11-15T04:18:14.122526+00:00",
+      "checked_at": "2026-11-16T18:09:23.975661+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5863,9 +5863,9 @@
       }
     },
     "/blogs/goc-tu-van/van-chuyen-duong-sat-va-o-to": {
-      "fingerprint": "dd07949362b68dad",
+      "fingerprint": "5a6c1fe1cda5886e",
       "status": "pass",
-      "checked_at": "2026-11-15T04:18:22.116752+00:00",
+      "checked_at": "2026-11-16T18:09:30.266363+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5882,9 +5882,9 @@
       }
     },
     "/blogs/goc-tu-van/van-chuyen-hang-di-thai-lan-bang-duong-bo": {
-      "fingerprint": "54362b6e2ca38875",
+      "fingerprint": "47a883714c205bfd",
       "status": "pass",
-      "checked_at": "2026-11-15T04:18:29.336585+00:00",
+      "checked_at": "2026-11-16T18:09:36.357726+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5901,9 +5901,9 @@
       }
     },
     "/blogs/goc-tu-van/van-chuyen-hang-hoa-bang-sa-lan-va-nhung-dieu-ban-nen-biet": {
-      "fingerprint": "50f467acd5c94532",
+      "fingerprint": "deee2ed3a333b009",
       "status": "pass",
-      "checked_at": "2026-11-15T04:18:36.594633+00:00",
+      "checked_at": "2026-11-16T18:09:42.759493+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T17:47:18.467462+00:00",
+      "checked_at": "2026-11-16T18:08:39.560270+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T17:47:30.056910+00:00",
+      "checked_at": "2026-11-16T18:08:51.230769+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T17:47:24.816366+00:00",
+      "checked_at": "2026-11-16T18:08:45.891128+00:00",
       "languages": {
         "en": {
           "ok": true,
