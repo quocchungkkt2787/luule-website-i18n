@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T05:43:33.476101+00:00",
+  "tested_at": "2026-11-16T06:05:09.603591+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 50,
-  "public_routes_pending": 886,
+  "public_routes_verified": 58,
+  "public_routes_pending": 878,
   "public_routes_failed": 1,
   "failed_examples": [
     "/search"
@@ -925,9 +925,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-ninh-binh": {
-      "fingerprint": "b2b1af669d5debe1",
+      "fingerprint": "53d8f544c401b081",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:11.781117+00:00",
+      "checked_at": "2026-11-16T06:04:26.550869+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -944,9 +944,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-phu-tho": {
-      "fingerprint": "acdd99fb0dace521",
+      "fingerprint": "9922e940a960308d",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:18.321327+00:00",
+      "checked_at": "2026-11-16T06:04:32.780535+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -963,9 +963,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-quang-ninh": {
-      "fingerprint": "07d7cf72f3878265",
+      "fingerprint": "eee36426c17a43e1",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:25.089821+00:00",
+      "checked_at": "2026-11-16T06:04:38.834686+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -982,9 +982,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-son-la": {
-      "fingerprint": "637701341c9fcb43",
+      "fingerprint": "ef165249dc8a1649",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:32.016779+00:00",
+      "checked_at": "2026-11-16T06:04:44.794508+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1001,9 +1001,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-thai-binh": {
-      "fingerprint": "aaf7d53e936ee755",
+      "fingerprint": "2af9173a3937de29",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:38.627834+00:00",
+      "checked_at": "2026-11-16T06:04:50.978411+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1020,9 +1020,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-thai-nguyen": {
-      "fingerprint": "fa4a32077afc5603",
+      "fingerprint": "9feeea83a203f82f",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:45.183810+00:00",
+      "checked_at": "2026-11-16T06:04:57.073528+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1039,9 +1039,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-tuyen-quang": {
-      "fingerprint": "aca57b7187c80885",
+      "fingerprint": "123eb1a799bea24f",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:52.980530+00:00",
+      "checked_at": "2026-11-16T06:05:03.290876+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -1058,9 +1058,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-vinh-phuc": {
-      "fingerprint": "c5746040fb1e1394",
+      "fingerprint": "c7cf572b491a5011",
       "status": "pass",
-      "checked_at": "2026-11-14T17:00:59.836780+00:00",
+      "checked_at": "2026-11-16T06:05:09.574103+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T05:42:27.980090+00:00",
+      "checked_at": "2026-11-16T06:04:07.273216+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T05:42:40.787030+00:00",
+      "checked_at": "2026-11-16T06:04:19.164629+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "fail",
-      "checked_at": "2026-11-16T05:42:35.287834+00:00",
+      "checked_at": "2026-11-16T06:04:13.596501+00:00",
       "languages": {
         "en": {
           "ok": false,
