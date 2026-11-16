@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T12:58:14.820290+00:00",
+  "tested_at": "2026-11-16T13:22:42.698596+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 202,
-  "public_routes_pending": 734,
+  "public_routes_verified": 210,
+  "public_routes_pending": 726,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3792,9 +3792,9 @@
       }
     },
     "/blogs/goc-tu-van/cong-ty-co-phan-van-tai-duong-sat-sai-gon": {
-      "fingerprint": "af0c25e6e6b3db4c",
+      "fingerprint": "ca9f758b38aa19e6",
       "status": "pass",
-      "checked_at": "2026-11-14T23:13:18.248890+00:00",
+      "checked_at": "2026-11-16T13:21:51.498624+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3811,9 +3811,9 @@
       }
     },
     "/blogs/goc-tu-van/cont-40hc": {
-      "fingerprint": "127780919e0e01e4",
+      "fingerprint": "ff3c6b936e24d29f",
       "status": "pass",
-      "checked_at": "2026-11-14T23:31:48.177035+00:00",
+      "checked_at": "2026-11-16T13:21:58.848068+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3830,9 +3830,9 @@
       }
     },
     "/blogs/goc-tu-van/cuc-canh-sat-dkql-cu-tru-va-dlqg-ve-dan-cu": {
-      "fingerprint": "cefd6d9891ad2b37",
+      "fingerprint": "2deca54d3528cd21",
       "status": "pass",
-      "checked_at": "2026-11-14T23:31:55.741138+00:00",
+      "checked_at": "2026-11-16T13:22:06.377909+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3849,9 +3849,9 @@
       }
     },
     "/blogs/goc-tu-van/cuoc-phi-gui-buu-dien-1kg-bao-nhieu-tien": {
-      "fingerprint": "c35f5d008e0ca293",
+      "fingerprint": "b7ca95aa8039fa15",
       "status": "pass",
-      "checked_at": "2026-11-14T23:32:02.202637+00:00",
+      "checked_at": "2026-11-16T13:22:13.857511+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3868,9 +3868,9 @@
       }
     },
     "/blogs/goc-tu-van/cuoc-van-chuyen-hang-hoa-bang-o-to": {
-      "fingerprint": "4fd36d1e7f20fcb4",
+      "fingerprint": "ba776b7f7e46988a",
       "status": "pass",
-      "checked_at": "2026-11-14T23:32:08.824682+00:00",
+      "checked_at": "2026-11-16T13:22:21.382190+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3887,9 +3887,9 @@
       }
     },
     "/blogs/goc-tu-van/cuoc-van-tai-hang-hoa-bang-oto": {
-      "fingerprint": "b9b2e80c15fbcb4c",
+      "fingerprint": "7c089f36096cf86e",
       "status": "pass",
-      "checked_at": "2026-11-14T23:32:15.320763+00:00",
+      "checked_at": "2026-11-16T13:22:28.399205+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3906,9 +3906,9 @@
       }
     },
     "/blogs/goc-tu-van/danh-muc-hang-hoa-cam-luu-thong": {
-      "fingerprint": "e2c59688cbd4d730",
+      "fingerprint": "d7e327cd8de6238d",
       "status": "pass",
-      "checked_at": "2026-11-14T23:32:22.476909+00:00",
+      "checked_at": "2026-11-16T13:22:35.659273+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3925,9 +3925,9 @@
       }
     },
     "/blogs/goc-tu-van/danh-sach-63-tinh-thanh-tren-ca-nuoc": {
-      "fingerprint": "79755112ff6edffc",
+      "fingerprint": "1ae6f016f53e8f3c",
       "status": "pass",
-      "checked_at": "2026-11-14T23:32:28.894814+00:00",
+      "checked_at": "2026-11-16T13:22:42.662320+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T12:57:04.784352+00:00",
+      "checked_at": "2026-11-16T13:21:29.710500+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T12:57:17.868573+00:00",
+      "checked_at": "2026-11-16T13:21:43.234180+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T12:57:11.921838+00:00",
+      "checked_at": "2026-11-16T13:21:37.197450+00:00",
       "languages": {
         "en": {
           "ok": true,

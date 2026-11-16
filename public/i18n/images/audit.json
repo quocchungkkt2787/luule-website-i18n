@@ -10603,6 +10603,120 @@
       "ocr_excerpt": "DICH VU VAN CHUYEN HANG HÓA. HAI PHONG LONG AN",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-hai-phong-sai-gon_42d06a32c19f4e84bb4600ed9c4f321b_large.png": {
+      "confident_word_count": 11,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Dịch Vụ CHUYỂN HÀNG HOA PHÒNG SAIGON website 0909 Hottine we",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-hai-phong-tay-ninh_6aca6df377be46bf854b420c6f60c923_large.png": {
+      "confident_word_count": 8,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN TÀI LƯU LÊ ÀÀi HON AY 'WWW.VANT/",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-hai-phong-vung-tau_773689414f994d588a3d28f81e98af4e_large.png": {
+      "reason": "404 Client Error: Not Found for url: https://file.hstatic.net/1000191021/article/chuyen-hang-hai-phong-vung-tau_773689414f994d588a",
+      "status": "check_failed"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-hung-yen-binh-phuoc_906d880836774cfd922a2523432b47b6_large.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "ie",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-hung-yen-sai-gon_1037d38736904820b136badf5f9e29e3_large.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "HUNG -S Al GON",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-hung-yen-tay-ninh_92549200b6284fc2bce4e3a93fdd3cff_large.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "NG NG HOA HUNG YEN Sed",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-long-an-bac-giang_9676179f7b05436884460eee9e319c16_large.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "IEE í( SS VA NG HO cv ONG AI ĐỊ",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-long-an-bac-ninh-1_e3411f730d1f45b19c1140b125ecd632_large.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "DICH VU VẬN CHUYEN LONG AN BAC NINH VANTAILUULE.COM",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-long-an-ha-noi_2364a742c2de4899ba452bbbe722fd1a_large.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "DỊCH VỤ LL",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-long-an-ninh-binh_a8bf5a0a740e4455ab4a71d04d4c5afb_large.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "DICH VỤ VẬN CHUYỂN HÀNG HÓA. LONG AN NINH BINH",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-long-an-phu-tho_3c6898273f164df89f9cfc6daabb3b62_large.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "F1 LONG AN PHU THO",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/article/chuyen-hang-long-an-vinh-phuc_24356e7da5b7454db68d07875eceefa1_large.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        480,
+        360
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
     "https://file.hstatic.net/1000191021/file/1-bang-gia-ve-tau-lua-sai-gon-ha-noi_903a08893df54d889e12ffb432ba6b81_grande.png": {
       "confident_word_count": 60,
       "dimensions": [
@@ -10664,11 +10778,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 1068,
-  "images_unscanned": 2022,
+  "images_scanned": 1080,
+  "images_unscanned": 2010,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
-  "ocr_failures": 2,
-  "possibly_vietnamese": 989,
+  "ocr_failures": 3,
+  "possibly_vietnamese": 995,
   "unique_public_images": 3090,
   "version": 1
 }
