@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T11:28:06.926465+00:00",
+  "tested_at": "2026-11-16T11:50:57.648545+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 170,
-  "public_routes_pending": 766,
+  "public_routes_verified": 178,
+  "public_routes_pending": 758,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3184,9 +3184,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-gui-giao-hang-tiet-kiem": {
-      "fingerprint": "e060244861130b06",
+      "fingerprint": "cb2e8f4d5a4c66ff",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:53.944807+00:00",
+      "checked_at": "2026-11-16T11:50:06.971026+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3203,9 +3203,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-gui-hang-buu-dien-thu-ho": {
-      "fingerprint": "3102ecefd8c7b447",
+      "fingerprint": "15c4691c88688f3b",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:36.455254+00:00",
+      "checked_at": "2026-11-16T11:50:14.025859+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3222,9 +3222,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-mua-ve-tau-qua-mang": {
-      "fingerprint": "f504730e146488f6",
+      "fingerprint": "64f9331c01b3aaa4",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:43.061588+00:00",
+      "checked_at": "2026-11-16T11:50:20.740300+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3241,9 +3241,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-nhap-hang-tu-han-quoc-ve-viet-nam": {
-      "fingerprint": "d06077a4361b43ca",
+      "fingerprint": "a8ba87b59953a183",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:49.885745+00:00",
+      "checked_at": "2026-11-16T11:50:27.525446+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3260,9 +3260,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-sap-xep-va-quan-ly-hang-hoa-trong-kho-hieu-qua": {
-      "fingerprint": "9654b3abb44f8b64",
+      "fingerprint": "9dd7a321cb8a866e",
       "status": "pass",
-      "checked_at": "2026-11-14T22:10:56.393913+00:00",
+      "checked_at": "2026-11-16T11:50:34.503858+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3279,9 +3279,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-ship-hang-di-tinh": {
-      "fingerprint": "dceae41bf8814084",
+      "fingerprint": "f431271d61eb1a36",
       "status": "pass",
-      "checked_at": "2026-11-14T22:11:03.317426+00:00",
+      "checked_at": "2026-11-16T11:50:41.995486+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3298,9 +3298,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-tim-dia-chi-buu-cuc-giao-hang-nhanh-ha-noi": {
-      "fingerprint": "263f78721932481b",
+      "fingerprint": "fc41f5a6a3031b63",
       "status": "pass",
-      "checked_at": "2026-11-14T22:11:09.817078+00:00",
+      "checked_at": "2026-11-16T11:50:48.973319+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3317,9 +3317,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-tim-ten-chu-xe-qua-bien-so": {
-      "fingerprint": "2539ac67619febbf",
+      "fingerprint": "e23b95a37b1ec6d3",
       "status": "pass",
-      "checked_at": "2026-11-14T22:11:18.706539+00:00",
+      "checked_at": "2026-11-16T11:50:57.625407+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T11:27:03.026644+00:00",
+      "checked_at": "2026-11-16T11:49:46.042702+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T11:27:15.148794+00:00",
+      "checked_at": "2026-11-16T11:49:59.803989+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T11:27:09.657800+00:00",
+      "checked_at": "2026-11-16T11:49:52.989836+00:00",
       "languages": {
         "en": {
           "ok": true,
