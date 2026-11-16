@@ -202,6 +202,16 @@ def get_sitemap_urls(session, max_depth=3):
     return found
 
 
+def remember_public_excerpt(text, destination=None):
+    """Remember whole public card excerpts in both HTML text-join variants."""
+    value=norm(text)
+    if not (40<=len(value)<=1400 and translatable(value)):
+        return
+    for variant in (value,re.sub(r'\\s+([.,!?;:])',r'\\1',value)):
+        SHARED_RELATED_SNIPPETS.add(variant)
+        if destination is not None:destination.add(variant)
+
+
 def collect_text_from_html(content, route=None):
     if route is not None:
         image_i18n.capture(SHARED_IMAGE_ASSETS, image_i18n.extract(content,route))
@@ -236,6 +246,9 @@ def collect_text_from_html(content, route=None):
                     if compact != snippet and 60 <= len(compact) <= 1400:
                         SHARED_RELATED_SNIPPETS.add(compact)
                         article_search_intros.add(compact)
+                # Haravan strip_html may join inline <strong>/<a> fragments
+                # without whitespace; this version can differ from get_text(' ').
+                remember_public_excerpt(para.get_text('',strip=True),article_search_intros)
     for q in root.select(SKIP_SELECTOR):q.decompose()
     for q in root.find_all(SKIP_TAGS):q.decompose()
     strings=set(article_search_intros)
@@ -279,6 +292,13 @@ def collect_text_from_html(content, route=None):
             label=norm(str(n))
             if 2 < len(label) <= 450 and translatable(label):
                 SHARED_RELATED_SNIPPETS.add(label)
+        for elem in block.select(
+            'p,[class*="excerpt" i],[class*="summary" i],'
+            '[class*="descrip" i],[class*="desc" i]'
+        )[:18]:
+            if elem.find_parent(attrs={'data-ll-private':True}):continue
+            remember_public_excerpt(elem.get_text(' ',strip=True))
+            remember_public_excerpt(elem.get_text('',strip=True))
     # Templates can call their carousel "list-article", "blog-item",
     # "owl-item" etc., rather than "related". Include visible excerpts from
     # PUBLIC article cards identified by a blog link plus a thumbnail.
@@ -300,6 +320,14 @@ def collect_text_from_html(content, route=None):
             snippet=norm(str(text))
             if 35<=len(snippet)<=500 and translatable(snippet):
                 SHARED_RELATED_SNIPPETS.add(snippet)
+        # A <p> preview can contain many child text nodes. Without joining
+        # them, no single dictionary key matches what Haravan displays.
+        for elem in card.select(
+            'p,[class*="excerpt" i],[class*="summary" i],'
+            '[class*="descrip" i],[class*="desc" i]'
+        )[:12]:
+            remember_public_excerpt(elem.get_text(' ',strip=True))
+            remember_public_excerpt(elem.get_text('',strip=True))
     for n in root.find_all(string=True):
         if isinstance(n, Comment):continue
         if n.parent and n.parent.name not in {'script','style','textarea'} and translatable(str(n)):
@@ -647,6 +675,10 @@ def main():
         no_related_class='<html><body><div class="blog-item"><a href="/blogs/goc-tu-van/mau"><img src="/a.jpg"/>Tieu de</a><p>Đây là đoạn giới thiệu đầy đủ về dịch vụ vận chuyển đường sắt cho khách hàng.</p></div></body></html>'
         collect_text_from_html(no_related_class)
         assert 'Đây là đoạn giới thiệu đầy đủ về dịch vụ vận chuyển đường sắt cho khách hàng.' in SHARED_RELATED_SNIPPETS
+        joined_excerpt='<html><body><div class="related-articles"><a href="/blogs/goc-tu-van/abc"><img src="/banner.jpg"></a><p>Dưới đây là những câu hỏi thường gặp của <strong>Vận Tải Lưu Lê</strong>.Nếu cần hãy liên hệ.</p></div></body></html>'
+        collect_text_from_html(joined_excerpt,route='/blogs/chinh-sach-cong-ty/thanh-toan')
+        assert any(x.startswith('Dưới đây là những câu hỏi thường gặp') and 'Lê.Nếu' in x
+                   for x in SHARED_RELATED_SNIPPETS)
         sample_meta='<html><head><meta name="description" content="Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí."></head><body><article><p>Nội dung minh họa.</p></article></body></html>'
         collect_text_from_html(sample_meta,route='/blogs/van-chuyen/mau')
         assert 'Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí.' in SHARED_RELATED_SNIPPETS
