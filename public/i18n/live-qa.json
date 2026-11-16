@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T09:12:29.377389+00:00",
+  "tested_at": "2026-11-16T09:35:21.205522+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 123,
-  "public_routes_pending": 813,
+  "public_routes_verified": 131,
+  "public_routes_pending": 805,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2291,9 +2291,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh": {
-      "fingerprint": "3edc6bcb647684c1",
+      "fingerprint": "248b9d08b1c8a658",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:35.086867+00:00",
+      "checked_at": "2026-11-16T09:34:38.671618+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2310,9 +2310,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/cam-ket-dung-tien-do": {
-      "fingerprint": "eb36af1cb382e22d",
+      "fingerprint": "3633a5808f934525",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:41.394230+00:00",
+      "checked_at": "2026-11-16T09:34:44.615261+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2329,9 +2329,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/cam-ket-van-chuyen-an-toan": {
-      "fingerprint": "8856dedd2acf8c46",
+      "fingerprint": "82933acb9e0244a1",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:47.904520+00:00",
+      "checked_at": "2026-11-16T09:34:50.506386+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2348,9 +2348,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/cap-nhat-tien-do": {
-      "fingerprint": "7eac808e66a84ce0",
+      "fingerprint": "fc11ec20724b8501",
       "status": "pass",
-      "checked_at": "2026-11-14T20:06:54.988861+00:00",
+      "checked_at": "2026-11-16T09:34:56.955535+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2367,9 +2367,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/cung-cap-9-toa-tau-va-40-xe-tai-moi-ngay": {
-      "fingerprint": "a3ee1d1b31ad479a",
+      "fingerprint": "862bdb5ca3199cd6",
       "status": "pass",
-      "checked_at": "2026-11-14T20:07:01.276329+00:00",
+      "checked_at": "2026-11-16T09:35:02.897076+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2386,9 +2386,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/giam-sat-chat-che": {
-      "fingerprint": "b36c9f48d5cee8ba",
+      "fingerprint": "225e464e87bf7b2f",
       "status": "pass",
-      "checked_at": "2026-11-14T20:07:07.865184+00:00",
+      "checked_at": "2026-11-16T09:35:08.857464+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2405,9 +2405,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/ho-tro-24-7": {
-      "fingerprint": "dc5d29976efeff29",
+      "fingerprint": "e086069feb193568",
       "status": "pass",
-      "checked_at": "2026-11-14T20:07:14.361987+00:00",
+      "checked_at": "2026-11-16T09:35:14.823434+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2424,9 +2424,9 @@
       }
     },
     "/blogs/giai-phap-kinh-doanh/mien-phi-boc-xep": {
-      "fingerprint": "3b91848ba261efe3",
+      "fingerprint": "c7600a7930c02f47",
       "status": "pass",
-      "checked_at": "2026-11-14T20:07:21.164413+00:00",
+      "checked_at": "2026-11-16T09:35:21.176155+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T09:11:23.748329+00:00",
+      "checked_at": "2026-11-16T09:34:20.681218+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T09:11:35.899455+00:00",
+      "checked_at": "2026-11-16T09:34:32.301256+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T09:11:30.299594+00:00",
+      "checked_at": "2026-11-16T09:34:27.027652+00:00",
       "languages": {
         "en": {
           "ok": true,
