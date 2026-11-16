@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T10:20:27.514312+00:00",
+  "tested_at": "2026-11-16T10:43:33.947802+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 146,
-  "public_routes_pending": 790,
+  "public_routes_verified": 154,
+  "public_routes_pending": 782,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2728,9 +2728,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-76-la-tinh-nao": {
-      "fingerprint": "dae191e1325e039d",
+      "fingerprint": "e1144d3a6fba0845",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:49.166936+00:00",
+      "checked_at": "2026-11-16T10:42:46.389611+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2747,9 +2747,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-83-tinh-nao": {
-      "fingerprint": "a124bc150ead508b",
+      "fingerprint": "ec138d60615336e7",
       "status": "pass",
-      "checked_at": "2026-11-14T21:08:50.834528+00:00",
+      "checked_at": "2026-11-16T10:42:52.964460+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2766,9 +2766,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-26-o-dau": {
-      "fingerprint": "25a7c763db11c194",
+      "fingerprint": "f08fa1f594fa8627",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:00.490021+00:00",
+      "checked_at": "2026-11-16T10:42:59.523112+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2785,9 +2785,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-37-o-dau": {
-      "fingerprint": "baa8032ba6abd86a",
+      "fingerprint": "921b81dade91a7e1",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:07.238782+00:00",
+      "checked_at": "2026-11-16T10:43:07.852663+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2804,9 +2804,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-47-o-dau": {
-      "fingerprint": "222c05f203a0a1a5",
+      "fingerprint": "6ac673ba4f21d679",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:13.586095+00:00",
+      "checked_at": "2026-11-16T10:43:14.264348+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2823,9 +2823,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-59-o-dau": {
-      "fingerprint": "7630d1a10dbf7e1b",
+      "fingerprint": "c91bd5dd33f22b73",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:20.515707+00:00",
+      "checked_at": "2026-11-16T10:43:20.770755+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2842,9 +2842,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-60-o-dau": {
-      "fingerprint": "8caad81e8df2d561",
+      "fingerprint": "87bce850f750f284",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:26.555476+00:00",
+      "checked_at": "2026-11-16T10:43:27.262694+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2861,9 +2861,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-xe-88-o-dau": {
-      "fingerprint": "4426423a8a9df7f8",
+      "fingerprint": "1d944ac8de53fad2",
       "status": "pass",
-      "checked_at": "2026-11-14T21:09:32.886630+00:00",
+      "checked_at": "2026-11-16T10:43:33.914247+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T10:19:20.248316+00:00",
+      "checked_at": "2026-11-16T10:42:26.387425+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T10:19:32.848286+00:00",
+      "checked_at": "2026-11-16T10:42:39.771861+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T10:19:27.142697+00:00",
+      "checked_at": "2026-11-16T10:42:33.943713+00:00",
       "languages": {
         "en": {
           "ok": true,
