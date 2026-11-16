@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T17:06:05.580751+00:00",
+  "tested_at": "2026-11-16T17:27:35.090800+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 290,
-  "public_routes_pending": 646,
+  "public_routes_verified": 298,
+  "public_routes_pending": 638,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -5464,9 +5464,9 @@
       }
     },
     "/blogs/goc-tu-van/tau-nhanh-sai-gon-ha-noi": {
-      "fingerprint": "539c3902b9253753",
+      "fingerprint": "9dd44fd96be724a5",
       "status": "pass",
-      "checked_at": "2026-11-15T03:11:05.650837+00:00",
+      "checked_at": "2026-11-16T17:26:46.892921+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5483,9 +5483,9 @@
       }
     },
     "/blogs/goc-tu-van/tau-tu-vinh-ha-noi": {
-      "fingerprint": "f98e5b487aa91356",
+      "fingerprint": "b60906dde216ffc4",
       "status": "pass",
-      "checked_at": "2026-11-15T03:30:48.412818+00:00",
+      "checked_at": "2026-11-16T17:26:54.376651+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5502,9 +5502,9 @@
       }
     },
     "/blogs/goc-tu-van/thanh-tra-giao-thong-co-duoc-dung-xe-khong": {
-      "fingerprint": "de8dd32f7bbe771f",
+      "fingerprint": "430fcd3c00d14ca7",
       "status": "pass",
-      "checked_at": "2026-11-15T03:30:55.368307+00:00",
+      "checked_at": "2026-11-16T17:27:01.574651+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5521,9 +5521,9 @@
       }
     },
     "/blogs/goc-tu-van/thu-tuc-chuyen-vung-xe-may": {
-      "fingerprint": "e54effc5d11a58f4",
+      "fingerprint": "ad814415f115b251",
       "status": "pass",
-      "checked_at": "2026-11-15T03:31:01.908221+00:00",
+      "checked_at": "2026-11-16T17:27:08.404698+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5540,9 +5540,9 @@
       }
     },
     "/blogs/goc-tu-van/thu-tuc-di-tau-hoa": {
-      "fingerprint": "6f74042177b956b0",
+      "fingerprint": "7f04c9bde1e4f52e",
       "status": "pass",
-      "checked_at": "2026-11-15T03:31:08.728902+00:00",
+      "checked_at": "2026-11-16T17:27:15.714654+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5559,9 +5559,9 @@
       }
     },
     "/blogs/goc-tu-van/thu-tuc-van-chuyen-go-thanh-pham": {
-      "fingerprint": "3ece5d5b109db24c",
+      "fingerprint": "6f435a47564e9ce4",
       "status": "pass",
-      "checked_at": "2026-11-15T03:31:14.950928+00:00",
+      "checked_at": "2026-11-16T17:27:21.948645+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5578,9 +5578,9 @@
       }
     },
     "/blogs/goc-tu-van/tien-cod-la-gi-phi-ship-cod-gia-bao-nhieu": {
-      "fingerprint": "3567f92ed2612b05",
+      "fingerprint": "337a62a69bc5637c",
       "status": "pass",
-      "checked_at": "2026-11-15T03:31:21.672901+00:00",
+      "checked_at": "2026-11-16T17:27:28.562320+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5597,9 +5597,9 @@
       }
     },
     "/blogs/goc-tu-van/tong-cong-ty-duong-sat-viet-nam": {
-      "fingerprint": "6fba1c0a38468030",
+      "fingerprint": "e21126a1323d6a19",
       "status": "pass",
-      "checked_at": "2026-11-15T03:31:28.330911+00:00",
+      "checked_at": "2026-11-16T17:27:35.057318+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T17:04:55.047726+00:00",
+      "checked_at": "2026-11-16T17:26:27.537470+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T17:05:07.089395+00:00",
+      "checked_at": "2026-11-16T17:26:40.314610+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T17:05:01.524271+00:00",
+      "checked_at": "2026-11-16T17:26:34.645198+00:00",
       "languages": {
         "en": {
           "ok": true,
