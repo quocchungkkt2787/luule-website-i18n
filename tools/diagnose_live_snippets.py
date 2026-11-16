@@ -30,7 +30,7 @@ GET_STATE = """async ({needles,routes})=>{
       if(response.ok){
         const data=await response.json();
         previewData=data;
-        pack={status:response.status,version:data.version,routeCount:Object.keys(data.routes||{}).length,
+        pack={status:response.status,version:data.version,duplicatesRemoved:data.equivalent_duplicates_removed||0,routeCount:Object.keys(data.routes||{}).length,
           selected:routes.map(route=>({route,found:!!(data.routes||{})[route],
             count:Object.keys((data.routes||{})[route]||{}).length}))};
       }else pack={status:response.status};
