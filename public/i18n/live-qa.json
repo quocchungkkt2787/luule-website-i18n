@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T04:58:57.742596+00:00",
+  "tested_at": "2026-11-16T05:20:54.068169+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 34,
-  "public_routes_pending": 902,
+  "public_routes_verified": 42,
+  "public_routes_pending": 894,
   "public_routes_failed": 1,
   "failed_examples": [
     "/search"
@@ -621,9 +621,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-dong-nam-bo/chuyen-nha-sai-gon-tay-ninh": {
-      "fingerprint": "acaa06a37fa6bb71",
+      "fingerprint": "3a399f2f423ec714",
       "status": "pass",
-      "checked_at": "2026-11-14T16:17:26.340794+00:00",
+      "checked_at": "2026-11-16T05:20:10.763593+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -640,9 +640,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-dong-nam-bo/chuyen-nha-sai-gon-vung-tau": {
-      "fingerprint": "46ff9e0492d2f679",
+      "fingerprint": "35616b4274bbb62f",
       "status": "pass",
-      "checked_at": "2026-11-14T16:17:32.748081+00:00",
+      "checked_at": "2026-11-16T05:20:17.666498+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -659,9 +659,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac": {
-      "fingerprint": "de2b1179de4086e8",
+      "fingerprint": "66696187f0e9c8df",
       "status": "pass",
-      "checked_at": "2026-11-14T16:17:39.814960+00:00",
+      "checked_at": "2026-11-16T05:20:23.839050+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -678,9 +678,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-bac-kan": {
-      "fingerprint": "b5a50ad697b9d2f8",
+      "fingerprint": "ab08269906946557",
       "status": "pass",
-      "checked_at": "2026-11-14T16:17:46.262843+00:00",
+      "checked_at": "2026-11-16T05:20:29.781115+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -697,9 +697,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-bac-ninh": {
-      "fingerprint": "1c8bbd7ce2c0e6c6",
+      "fingerprint": "566117179e4db6ef",
       "status": "pass",
-      "checked_at": "2026-11-14T16:17:52.648016+00:00",
+      "checked_at": "2026-11-16T05:20:35.605286+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -716,9 +716,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-cao-bang": {
-      "fingerprint": "3c477763f147a556",
+      "fingerprint": "26a5865911ea0a1f",
       "status": "pass",
-      "checked_at": "2026-11-14T16:17:59.651731+00:00",
+      "checked_at": "2026-11-16T05:20:41.539220+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -735,9 +735,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-dien-bien": {
-      "fingerprint": "8427109d7c9bb67b",
+      "fingerprint": "78ec1124ef803a6b",
       "status": "pass",
-      "checked_at": "2026-11-14T16:18:06.066520+00:00",
+      "checked_at": "2026-11-16T05:20:48.119522+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -754,9 +754,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac/chuyen-nha-sai-gon-ha-giang": {
-      "fingerprint": "74ac3c7860db3814",
+      "fingerprint": "d1a0a00f48292981",
       "status": "pass",
-      "checked_at": "2026-11-14T16:18:12.435438+00:00",
+      "checked_at": "2026-11-16T05:20:54.046474+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T04:57:53.735201+00:00",
+      "checked_at": "2026-11-16T05:19:52.509870+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T04:58:07.005122+00:00",
+      "checked_at": "2026-11-16T05:20:04.726309+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "fail",
-      "checked_at": "2026-11-16T04:58:01.241645+00:00",
+      "checked_at": "2026-11-16T05:19:59.279379+00:00",
       "languages": {
         "en": {
           "ok": false,
