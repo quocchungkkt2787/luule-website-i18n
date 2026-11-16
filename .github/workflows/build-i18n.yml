@@ -11,6 +11,7 @@ on:
       - 'tools/live_audit_i18n.py'
       - 'tools/image_i18n.py'
       - 'tools/image_i18n_audit.py'
+      - 'tools/build_public_previews.py'
   workflow_dispatch:
     inputs:
       chain_depth:
@@ -117,6 +118,7 @@ jobs:
           python tools/build_translations.py --self-test
           python -m py_compile tools/live_audit_i18n.py tools/image_i18n.py tools/image_i18n_audit.py
           python tools/image_i18n.py --self-test
+          python tools/build_public_previews.py --self-test
 
       - name: Verify language switcher in simulated browser
         if: steps.gate.outputs.build == 'true'
@@ -132,6 +134,10 @@ jobs:
       - name: Apply reviewed homepage and terminology translations
         if: steps.gate.outputs.build == 'true'
         run: python tools/apply_reviewed_translations.py
+
+      - name: Publish complete public blog preview index
+        if: steps.gate.outputs.build == 'true'
+        run: python tools/build_public_previews.py
 
       - name: Verify English and Chinese on anonymous public pages
         if: steps.gate.outputs.build == 'true'
