@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T15:59:28.537262+00:00",
+  "tested_at": "2026-11-16T16:21:16.335087+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 266,
-  "public_routes_pending": 670,
+  "public_routes_verified": 274,
+  "public_routes_pending": 662,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -5008,9 +5008,9 @@
       }
     },
     "/blogs/goc-tu-van/mat-chung-minh-thu-co-rut-tien-duoc-khong": {
-      "fingerprint": "e00132b370911d9d",
+      "fingerprint": "ec1e2413ddfc6c69",
       "status": "pass",
-      "checked_at": "2026-11-15T02:02:35.994799+00:00",
+      "checked_at": "2026-11-16T16:20:24.223759+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5027,9 +5027,9 @@
       }
     },
     "/blogs/goc-tu-van/mau-bao-gia-van-chuyen-xe-tai": {
-      "fingerprint": "2597b95d872e3f62",
+      "fingerprint": "8e24a850d0ee6550",
       "status": "pass",
-      "checked_at": "2026-11-15T02:23:57.893700+00:00",
+      "checked_at": "2026-11-16T16:20:31.257822+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5046,9 +5046,9 @@
       }
     },
     "/blogs/goc-tu-van/mau-logo-duong-sat-viet-nam": {
-      "fingerprint": "5a0187f791a320a2",
+      "fingerprint": "a9e0032ee8ded171",
       "status": "pass",
-      "checked_at": "2026-11-15T02:24:04.718669+00:00",
+      "checked_at": "2026-11-16T16:20:38.107584+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5065,9 +5065,9 @@
       }
     },
     "/blogs/goc-tu-van/mau-van-khan-cau-binh-an-suc-khoe-cau-tai-loc-tai-nha": {
-      "fingerprint": "5326771f958a388a",
+      "fingerprint": "bfb08bf97eb0e609",
       "status": "pass",
-      "checked_at": "2026-11-15T02:24:12.113120+00:00",
+      "checked_at": "2026-11-16T16:20:44.984239+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5084,13 +5084,15 @@
       }
     },
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi": {
-      "fingerprint": "7c23b0be3164d8a5",
-      "status": "fail",
-      "checked_at": "2026-11-15T02:24:55.540419+00:00",
+      "fingerprint": "f79ae556d3b76d83",
+      "status": "pass",
+      "checked_at": "2026-11-16T16:20:53.519868+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Page.goto: Timeout 40000ms exceeded.\nCall log:\n  - navigating to \"https://vantailuule.vn/blogs/goc-tu-van/mua-xe-can-giay-to-gi\", waiting until \"domcontentloaded\"\n"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What papers do you need for a car? What you need to know when you buy a new motorcycle"
         },
         "zh": {
           "ok": true,
@@ -5101,9 +5103,9 @@
       }
     },
     "/blogs/goc-tu-van/muc-phat-qua-tai": {
-      "fingerprint": "65a081d824548696",
+      "fingerprint": "36ecaeb1ceef7bbb",
       "status": "pass",
-      "checked_at": "2026-11-15T02:25:02.343845+00:00",
+      "checked_at": "2026-11-16T16:21:01.528110+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5120,9 +5122,9 @@
       }
     },
     "/blogs/goc-tu-van/nhan-biet-dich-vu-van-chuyen-hang-uy-tin-chat-luong": {
-      "fingerprint": "1c63fdd85649a668",
+      "fingerprint": "0fe8e1a9f2065215",
       "status": "pass",
-      "checked_at": "2026-11-15T02:25:09.179875+00:00",
+      "checked_at": "2026-11-16T16:21:08.387175+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -5139,9 +5141,9 @@
       }
     },
     "/blogs/goc-tu-van/nhap-khau-hang-hoa-duong-tieu-ngach-la-gi": {
-      "fingerprint": "2b83a98dcb76de5e",
+      "fingerprint": "139ae6cd4789c6cc",
       "status": "pass",
-      "checked_at": "2026-11-15T02:25:16.053635+00:00",
+      "checked_at": "2026-11-16T16:21:16.268585+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T15:58:22.128709+00:00",
+      "checked_at": "2026-11-16T16:20:05.084891+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T15:58:33.370717+00:00",
+      "checked_at": "2026-11-16T16:20:17.614720+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T15:58:28.230371+00:00",
+      "checked_at": "2026-11-16T16:20:11.932933+00:00",
       "languages": {
         "en": {
           "ok": true,
