@@ -1,6 +1,11 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Bạn đã ký giấy bán xe nhưng chưa biết làm sao để chuyển xe đến người mua. Tại bài viết này Lưu Lê sẽ hướng dẫn đầy đủ từ giấy tờ đến chi phí",
+    "Chuyển vùng xe máy hay còn gọi là thực hiện thủ tục di chuyển xe đi tỉnh, thành phố trực thuộc trung ương khác. Đây là thủ tục chỉ được thực hiện khi hai bên thực hiện việc mua bán xe máy không trong cùng tỉnh, thành phố trực thuộc trung ương.",
+    "Để thực hiện thủ tục sang tên xe máy, trước hết hai bên cần làm thủ tục mua bán xe máy, bên bán và bên mua đều cần chuẩn bị sẵn một số giấy tờ:"
+  ],
   "route": "/blogs/goc-tu-van/thu-tuc-chuyen-vung-xe-may",
   "texts": {
     "29 Tháng 7 2022": {
@@ -54,6 +59,10 @@
     "Bạn cần tìm gì?": {
       "en": "What are you looking for?",
       "zh": "你们在找什么?"
+    },
+    "Bạn đã ký giấy bán xe nhưng chưa biết làm sao để chuyển xe đến người mua. Tại bài viết này Lưu Lê sẽ hướng dẫn đầy đủ từ giấy tờ đến chi phí": {
+      "en": "You have signed a license to sell your car, but you do not yet know how to move your car to the buyer. At this article Liu Liu will provide adequate guidance from paper to cost",
+      "zh": "你签了卖车的执照 但你还不知道怎么把车搬到买家那里 刘少奇会从纸面到成本 提供适当的指导"
     },
     "BẢNG GIÁ": {
       "en": "Shipping Rates",

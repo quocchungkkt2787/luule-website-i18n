@@ -1,6 +1,12 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Dịch vụ gửi, vận chuyển hàng từ TpHCM đi Bắc Ninh cho hàng công nghiệp, linh kiện, máy móc, hàng ghép. Nhận tại TpHCM, giao tận kho, nhà máy.",
+    "Nhu cầu gửi hàng từ TpHCM đi Bắc Ninh tập trung nhiều ở nhóm doanh nghiệp sản xuất, nhà cung cấp linh kiện, đơn vị thương mại và các công ty có nhà máy, kho hàng tại khu vực phía Bắc. Đặc điểm của tuyến này là tỷ lệ hàng công nghiệp, máy móc, linh kiện và vật tư sản xuất tương đối cao, vì vậy phương án vận chuyển cần được tính toán không chỉ theo trọng lượng mà còn theo cách đóng gói, điều kiện giao vào nhà máy và phương tiện trung chuyển cuối tuyến.",
+    "Nhu cầugửi hàng từ TpHCM đi Bắc Ninhtập trung nhiều ở nhóm doanh nghiệp sản xuất, nhà cung cấp linh kiện, đơn vị thương mại và các công ty có nhà máy, kho hàng tại khu vực phía Bắc. Đặc điểm của tuyến này là tỷ lệ hàng công nghiệp, máy móc, linh kiện và vật tư sản xuất tương đối cao, vì vậy phương án vận chuyển cần được tính toán không chỉ theo trọng lượng mà còn theo cách đóng gói, điều kiện giao vào nhà máy và phương tiện trung chuyển cuối tuyến.",
+    "Vận Tải Lưu Lê cung cấp dịch vụ nhận hàng tại TpHCM, tổ chức vận chuyển Bắc – Nam và giao tới kho, nhà máy hoặc địa chỉ người nhận tại khu vực Bắc Ninh. Với hàng phù hợp, phương án kết hợp đường sắt và xe tải giúp doanh nghiệp tối ưu chi phí trên hành trình dài nhưng vẫn duy trì khả năng lấy – giao tận nơi."
+  ],
   "route": "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-ninh",
   "texts": {
     ", đặc biệt là linh kiện, máy móc, vật tư và hàng giao nhà máy, nên cung cấp đầy đủ thông tin ngay từ đầu để lựa chọn phương án phù hợp nhất.": {
@@ -346,6 +352,10 @@
     "Dịch vụ gửi hàng từ TpHCM đi Bắc Ninh": {
       "en": "The delivery service from TpHCM goes to Northern Europe",
       "zh": "从TpHCM到北欧的送货服务"
+    },
+    "Dịch vụ gửi, vận chuyển hàng từ TpHCM đi Bắc Ninh cho hàng công nghiệp, linh kiện, máy móc, hàng ghép. Nhận tại TpHCM, giao tận kho, nhà máy.": {
+      "en": "The delivery service, freight from TpHCM to North Europe for industrial goods, parts, machines, pieces. Get it at TpHCM, deliver it to the warehouse, plant.",
+      "zh": "送货服务,从TpHCM到北欧的工业品,零件,机器,部件的货运. 到TpHCM去,送到仓库,工厂"
     },
     "Dịch vụ vận chuyển chính": {
       "en": "Main Transport Service",

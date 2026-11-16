@@ -1,6 +1,11 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Dịch vụ vận chuyển hàng hóa door to door là gì? Lợi ích khi sử dụng dịch vụ này ra sao? Hãy cùng chúng tôi tham khảo về dịch vụ vận chuyển này nhé!",
+    "Lợi ích của dịch vụ vận chuyển đường sắt door to door là gì?",
+    "Vận Tải Lưu Lê sẽ cùng quý khách hàng tìm hiểu dịch vụ vận tải này để có thể biết rõ đâu là điểm mạnh, đâu là điểm yếu để từ đó đưa ra quyết định đúng đắn hơn khi đã đang và sẽ có nhu cầu vận chuyển hàng hóa."
+  ],
   "route": "/blogs/goc-tu-van/van-chuyen-door-to-door",
   "texts": {
     "05 Tháng 3 2018": {
@@ -226,6 +231,10 @@
     "Dịch vụ vận chuyển hàng hóa": {
       "en": "Freight Transportation Services",
       "zh": "货物运输服务"
+    },
+    "Dịch vụ vận chuyển hàng hóa door to door là gì? Lợi ích khi sử dụng dịch vụ này ra sao? Hãy cùng chúng tôi tham khảo về dịch vụ vận chuyển này nhé!": {
+      "en": "What is the door to door freight service? How is the use of this service beneficial? Join us on this transport service.",
+      "zh": "门货运服务门是什么? 使用这种服务有何益处? 加入我们的运输服务。"
     },
     "EMAIL": {
       "en": "Email",

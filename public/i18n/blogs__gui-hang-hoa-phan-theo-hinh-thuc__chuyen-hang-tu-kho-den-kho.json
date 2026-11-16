@@ -1,6 +1,13 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Có nhiều hình thức để vận chuyển hàng từ kho đến kho, nhưng đường sắt luôn là lựa chọn ưu tiên đầu tiên được nhắc đến. Vận chuyển hàng bằng đường sắt có những ưu điểm vượt trội:",
+    "Vận chuyển hàng hoá giữa các kho hàng đặt ra những yêu cầu nhất định về dịch vụ hay vận chuyển từ kho đến kho (door to door). Theo dõi chia sẻ dưới đây để chuẩn bị cho quá trình vận chuyển hàng từ kho đến kho hiệu quả bạn nhé!",
+    "Vận chuyển hàng hoá giữa các kho hàng đặt ra những yêu cầu nhất định về dịch vụ, cần thực hiện đúng quy trình nghiệp vụ và lưu ý những thông tin cần thiết. Theo dõi chia sẻ dưới đây để chuẩn bị cho quá trình vận chuyển hàng hóa từ Kho đến Kho hiệu quả bạn nhé!",
+    "Vận chuyển hàng hoá giữa các kho hàng đặt ra những yêu cầu nhất định về dịch vụ, cần thực hiện đúng quy trình nghiệp vụ và lưu ý những thông tin cần thiết. Theo dõi chia sẻ dưới đây để chuẩn bị cho quá trìnhvận chuyển hàng hóa từ Kho đến Khohiệu quả bạn nhé!",
+    "Vận chuyển hàng từ kho đến kho được xem như một dịch vụ trọn gói. Đơn vị vận tải nhận hàng tại kho này, vận chuyển hàng theo các hình thức khác nhau, làm thủ tục liên quan và trả hàng tại kho khác."
+  ],
   "route": "/blogs/gui-hang-hoa-phan-theo-hinh-thuc/chuyen-hang-tu-kho-den-kho",
   "texts": {
     "(hàng nhẹ) + xe lấy": {
@@ -722,6 +729,10 @@
     "Vận chuyển hàng TPHCM → Tây Nguyên": {
       "en": "Ho Chi Minh City → Central Highlands",
       "zh": "胡志明市 → 越南西原地区"
+    },
+    "Vận chuyển hàng hoá giữa các kho hàng đặt ra những yêu cầu nhất định về dịch vụ hay vận chuyển từ kho đến kho (door to door). Theo dõi chia sẻ dưới đây để chuẩn bị cho quá trình vận chuyển hàng từ kho đến kho hiệu quả bạn nhé!": {
+      "en": "Transportation between depots sets certain requirements for services or transportation from warehouses to warehouses (door to door). Monitor the share below to prepare for the delivery process from the depot to your effective warehouse!",
+      "zh": "仓库之间的运输规定了某些服务要求或从仓库到仓库(门到门)的运输。 监控以下份额,准备从仓库到有效仓库的交货过程!"
     },
     "Vận chuyển hàng hoá giữa các kho hàng đặt ra những yêu cầu nhất định về dịch vụ, cần thực hiện đúng quy trình nghiệp vụ và lưu ý những thông tin cần thiết. Theo dõi chia sẻ dưới đây để chuẩn bị cho quá trình": {
       "en": "Transportation between the depots sets certain requirements for services, needs to be followed properly by the service process and noting the information required. Sharer track below to prepare for process",

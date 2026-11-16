@@ -1,6 +1,12 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    ">>> Xem ngay: Vận chuyển hàng hóa bằng container an toàn, giá rẻ, bồi hoàn 100% nếu xảy ra lỗi!",
+    ">>> Xem ngay:Vận chuyển hàng hóa bằng containeran toàn, giá rẻ, bồi hoàn 100% nếu xảy ra lỗi!",
+    "Lỗi quá tải là lỗi rất phổ biến ở xe tải, đặc biệt là khi nhu cầu tiêu thụ hàng hóa của con người ngày càng tăng cao. Theo đó, để đảm bảo an toàn cho quá trình vận chuyển, pháp luật hiện hành đã đặt ra mức phạt lỗi này rất cao. Vậy xe tải được phép chở quá tải bao nhiêu phần trăm? Và mức xử phạt quá tải sẽ như thế nào? Hãy tham khảo bài viết sau ngay nhé.",
+    "Xe tải được phép chở quá tải bao nhiêu phần trăm? Cách tính % xe quá tải như thế nào? Và mức xử phạt quá tải sẽ bị xử lý ra sao? Hãy tham khảo bài viết sau ngay nhé."
+  ],
   "route": "/blogs/goc-tu-van/xe-tai-duoc-phep-cho-qua-tai-bao-nhieu-phan-tram",
   "texts": {
     "% Quá tải = Khối lượng quá tải : Khối lượng chuyên chở x 100%.": {
@@ -774,6 +780,10 @@
     "Xe tải được phép chở quá tải bao nhiêu phần trăm?": {
       "en": "What percentage of load transport is allowed?",
       "zh": "允许载荷运输的百分比是多少?"
+    },
+    "Xe tải được phép chở quá tải bao nhiêu phần trăm? Cách tính % xe quá tải như thế nào? Và mức xử phạt quá tải sẽ bị xử lý ra sao? Hãy tham khảo bài viết sau ngay nhé.": {
+      "en": "What percentage of load transport is allowed? How do you calculate overload cars? And what will the level of excessive punishment be dealt with? Please refer to the article in a moment.",
+      "zh": "允许载重运输的百分比为多少? 你怎么计算超载汽车? 过度惩罚的程度会如何? 请稍候参考文章."
     },
     "Xe tải được phép chở quá tải bao nhiêu phần trăm? Cách tính quá tải": {
       "en": "What percentage of load transport is allowed? Organisation",

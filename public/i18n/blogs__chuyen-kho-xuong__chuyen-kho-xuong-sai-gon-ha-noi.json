@@ -1,6 +1,12 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Dịch vụ chuyển kho xưởng từ Sài Gòn ra Hà Nội phù hợp với doanh nghiệp cần di dời kho hàng, dây chuyền, máy móc hoặc một phần hoạt động sản xuất từ khu vực phía Nam ra phía Bắc.",
+    "Dịch vụ chuyển kho xưởng từ Sài Gòn ra Hà Nộiphù hợp với doanh nghiệp cần di dời kho hàng, dây chuyền, máy móc hoặc một phần hoạt động sản xuất từ khu vực phía Nam ra phía Bắc.",
+    "Vận Tải Lưu Lê nhận chuyển kho xưởng từ Sài Gòn ra Hà Nội, vận chuyển máy móc, hàng tồn kho, kệ và thiết bị bằng xe tải hoặc đường sắt.",
+    "Đây không phải chuyến vận chuyển thông thường. Quãng đường dài khiến mọi sai sót trong khâu kiểm kê, đóng gói hoặc bố trí phương tiện đều có thể gây phát sinh chi phí và kéo dài thời gian bàn giao."
+  ],
   "route": "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-sai-gon-ha-noi",
   "texts": {
     ", không chỉ cước tàu.": {
@@ -946,6 +952,10 @@
     "Vận Tải Lưu Lê có thể tư vấn hai hướng chính.": {
       "en": "Liu Transport can advise two main directions.",
       "zh": "刘运可以建议两个主要方向."
+    },
+    "Vận Tải Lưu Lê nhận chuyển kho xưởng từ Sài Gòn ra Hà Nội, vận chuyển máy móc, hàng tồn kho, kệ và thiết bị bằng xe tải hoặc đường sắt.": {
+      "en": "Liu Download received the depot from Saigon to Hanoi, carrying machinery, inventory, shelves, and equipment by truck or railway.",
+      "zh": "刘下下载接收了从西贡到河内的仓库,用卡车或铁路运送机械,库存,货架和设备."
     },
     "Vận Tải Lưu Lê tổ chức chuyến đi theo hướng": {
       "en": "Liu Downloads hold the trip in a direction",

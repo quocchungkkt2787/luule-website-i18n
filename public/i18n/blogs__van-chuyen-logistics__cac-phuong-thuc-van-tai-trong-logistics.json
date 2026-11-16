@@ -1,6 +1,13 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Một lô linh kiện cần giao gấp có thể phù hợp với hàng không, trong khi vài chục tấn máy móc đi Bắc Nam lại có thể hiệu quả hơn khi sử dụng đường sắt hoặc kết hợp đường bộ – đường sắt.",
+    "Phân tích ưu nhược điểm các phương thức vận tải trong Logistics gồm đường bộ, đường sắt, đường biển, hàng không và đa phương thức để lựa chọn phù hợp.",
+    "Trong Logistics, lựa chọn phương thức vận tải không đơn giản là tìm cách đưa hàng từ điểm A đến điểm B. Mỗi phương thức có lợi thế khác nhau về chi phí, tốc độ, tải trọng, tính linh hoạt và khả năng kết nối .",
+    "Trong Logistics, lựa chọn phương thức vận tải không đơn giản là tìm cách đưa hàng từ điểm A đến điểm B. Mỗi phương thức có lợi thế khác nhau về chi phí, tốc độ, tải trọng, tính linh hoạt và khả năng kết nối.",
+    "Trong Logistics, lựa chọn phương thức vận tải không đơn giản là tìm cách đưa hàng từ điểm A đến điểm B. Mỗi phương thức có lợi thế khác nhau vềchi phí, tốc độ, tải trọng, tính linh hoạt và khả năng kết nối."
+  ],
   "route": "/blogs/van-chuyen-logistics/cac-phuong-thuc-van-tai-trong-logistics",
   "texts": {
     ", đặc biệt trên các tuyến Bắc Nam.": {
@@ -730,6 +737,10 @@
     "NỘI BỘ": {
       "en": "Internal Portal",
       "zh": "内部管理"
+    },
+    "Phân tích ưu nhược điểm các phương thức vận tải trong Logistics gồm đường bộ, đường sắt, đường biển, hàng không và đa phương thức để lựa chọn phù hợp.": {
+      "en": "Analysing the strengths of the transport methods in Logistics consists of road, railroad, seaways, airlines and multiple methods of choosing the right choice.",
+      "zh": "分析物流运输方法的优点包括道路、铁路、出海道、航空公司和选择正确选择的多种方法。"
     },
     "Phù hợp": {
       "en": "Matches",

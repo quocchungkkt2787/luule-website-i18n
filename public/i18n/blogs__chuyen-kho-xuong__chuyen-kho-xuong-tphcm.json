@@ -1,6 +1,12 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Dịch vụ chuyển kho xưởng TP.HCM của Vận Tải Lưu Lê: khảo sát, máy móc, kệ kho, bốc xếp, xe tải, nâng hạ và giao tận nơi theo nhu cầu.",
+    "Dịch vụ chuyển kho xưởng TP.HCM dành cho doanh nghiệp cần chuyển kho hàng, máy móc hoặc nhà xưởng giữa các địa điểm trong thành phố và khu vực lân cận.",
+    "Dịch vụ chuyển kho xưởng TP.HCMdành cho doanh nghiệp cần chuyển kho hàng, máy móc hoặc nhà xưởng giữa các địa điểm trong thành phố và khu vực lân cận.",
+    "Quãng đường có thể chỉ vài kilomet hoặc vài chục kilomet nhưng chuyển xưởng nội thành không hẳn đơn giản hơn chuyển Bắc Nam."
+  ],
   "route": "/blogs/chuyen-kho-xuong/chuyen-kho-xuong-tphcm",
   "texts": {
     ", khoảng cách không phải yếu tố duy nhất quyết định độ khó.": {
@@ -346,6 +352,10 @@
     "Dịch vụ chuyển kho xưởng TP.HCM": {
       "en": "TP.HCM warehouse transfer service",
       "zh": "TP.HCM 仓库转移服务"
+    },
+    "Dịch vụ chuyển kho xưởng TP.HCM của Vận Tải Lưu Lê: khảo sát, máy móc, kệ kho, bốc xếp, xe tải, nâng hạ và giao tận nơi theo nhu cầu.": {
+      "en": "The TP.HCM warehouse services of the Archives: Survey, Machines, Archives, Packing, Trucks, Lift and Delivered Places As Needed.",
+      "zh": "档案馆的TP.HCM仓库服务:调查、机器、档案、包装、卡车、起重和按需要交付的地方。"
     },
     "Dịch vụ chuyển kho xưởng TP.HCM dành cho doanh nghiệp cần chuyển kho hàng, máy móc hoặc nhà xưởng giữa các địa điểm trong thành phố và khu vực lân cận.": {
       "en": "The TP.HCM warehouse services for businesses need to be transferred to warehouses, machinery, or workshops between locations in the city and the vicinity.",

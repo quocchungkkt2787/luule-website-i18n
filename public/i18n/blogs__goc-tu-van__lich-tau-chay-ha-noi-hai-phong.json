@@ -1,6 +1,12 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Biểu giờ tàu chạy Hà Nội - Hải Phòng hôm nay. Cập nhật lịch tàu chạy Hà Nội - Hải Phòng và chuyến ngược lại mới nhất. Đặt vé tàu Hà Nội - Hải Phòng như thế nào?",
+    "Tuyến đường sắt Hà Nội Hải Phòng có 17 ga với tổng chiều dài 102km, đi qua 4 tỉnh thành phố: Hà Nội, Hưng Yên, Hải Dương và Hải Phòng. Đây là một trong những tuyến đường sắt chính của miền Bắc. Vì nó nối liền hai trong ba trọng điểm phát triển kinh tế của miền Bắc: Hà Nội Hải Phòng Quảng Ninh.",
+    "Tuyến đường sắt Hà Nội Hải Phòng hiện nay chủ yếu để phục vụ sinh viên, người lao động và khách du lịch muốn trải nghiệm đường sắt khi đi du lịch Hải Phòng. Cùng với đó là phục vụ vận tải hàng hóa đến các ga trên tuyến đường sắt từ Hà Nội đến Hải Phòng và ngược lại.",
+    "Tuyến đường sắt Hà Nội Hải Phòng vốn là một trong số những tuyến đường sắt khá nhộn nhịp. Lịch tàu chạy Hà Nội Hải Phòng trước khi đại dịch Covid-19 diễn ra thường khá dày đặc. Tần suất các chuyến Hà Nội Hải Phòng và ngược lại là rất lớn."
+  ],
   "route": "/blogs/goc-tu-van/lich-tau-chay-ha-noi-hai-phong",
   "texts": {
     "26 Tháng 4 2021": {
@@ -22,6 +28,10 @@
     "Biểu giờ Lịch tàu chạy Hà Nội - Hải Phòng, ngày hôm nay !!!": {
       "en": "Set a schedule for the Hanoi-Sea Chamber, today! Get out!",
       "zh": "确定河内-海庭的日程,今天! 滚出去!"
+    },
+    "Biểu giờ tàu chạy Hà Nội - Hải Phòng hôm nay. Cập nhật lịch tàu chạy Hà Nội - Hải Phòng và chuyến ngược lại mới nhất. Đặt vé tàu Hà Nội - Hải Phòng như thế nào?": {
+      "en": "Showing the time for the ship running Hanoi-Sea Hall today. Update the Hanoi-Sea Chamber Launch schedule and the latest reverse. How do you book a ticket to the Hanoi-Seam?",
+      "zh": "展示今日\"河内-海会馆\"运营之船时间. 更新河内-出海舱发射时间表及最新倒数. 你怎么订一张去河内-塞姆的机票?"
     },
     "Breadcrumb": {
       "en": "Breadcrubb",

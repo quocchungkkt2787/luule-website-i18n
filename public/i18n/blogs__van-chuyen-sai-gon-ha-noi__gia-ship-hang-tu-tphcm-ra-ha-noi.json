@@ -1,6 +1,12 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Bạn đang có nhu cầu gửi hàng Sài Gòn Hà Nội, tuy nhiên điều bạn đang quan tâm chính là giá cước vận chuyển như thế nào? Chi phí gửi hàng bao gồm những gì? Có phát sinh gì đi kèm hay không? Công ty Lưu Lê xin gửi tới quý khách",
+    "Chào bạn! Bạn đang có nhu cầu vận chuyển hàng hóa từ Sài Gòn ra Hà Nội, tuy nhiên điều bạn đang quan tâm chính là giá cước vận chuyển như thế nào? Chi phí gửi hàng bao gồm những gì? Có phát sinh gì đi kèm hay không? Hiểu rõ được điều này, công ty Vận Tải Lưu Lê xin gửi tới quý khách \"Tất tần tật\" về \" Giá ship hàng từ TpHCM ra Hà Nội\" bằng tàu hỏa để quý khách tham khảo, hãy cùng đi tìm hiểu chi tiết giá cước nhé!",
+    "Chào bạn! Bạn đang có nhu cầu vận chuyển hàng hóa từ Sài Gòn ra Hà Nội, tuy nhiên điều bạn đang quan tâm chính là giá cước vận chuyển như thế nào? Chi phí gửi hàng bao gồm những gì? Có phát sinh gì đi kèm hay không? Hiểu rõ được điều này, công ty Vận Tải Lưu Lê xin gửi tới quý khách \"Tất tần tật\" về \"Giá ship hàng từ TpHCM ra Hà Nội\"bằng tàu hỏa để quý khách tham khảo, hãy cùng đi tìm hiểu chi tiết giá cước nhé!",
+    "Giá cước vận chuyển hàng hóa từ Sài Gòn đi Hà Nội bằng tàu hỏa sẽ phụ thuộc vào nhiều yếu tố như loại hàng hóa là gì, khối lượng hoặc thể tích chiếm chỗ của hàng như thế nào, điểm lấy hàng và giao hàng ở đâu, v.v... mà giá cước về tổng thể sẽ khác nhau. Bạn có thể liên hệ ngay cho công ty Lưu Lê để được báo giá chính xác nhất."
+  ],
   "route": "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi",
   "texts": {
     "(cước trọn gói)": {
@@ -158,6 +164,10 @@
     "Bạn cần tìm gì?": {
       "en": "What are you looking for?",
       "zh": "你们在找什么?"
+    },
+    "Bạn đang có nhu cầu gửi hàng Sài Gòn Hà Nội, tuy nhiên điều bạn đang quan tâm chính là giá cước vận chuyển như thế nào? Chi phí gửi hàng bao gồm những gì? Có phát sinh gì đi kèm hay không? Công ty Lưu Lê xin gửi tới quý khách": {
+      "en": "You're in need of sending Saigon to Hanoi, but what you're interested in is how much is the cost of transportation? The deposit costs include what? Any leads? Liu Li's company sends you",
+      "zh": "你们需要派西贡去河内,但你们感兴趣的是交通费多少? 押金费用包括什么? 有线索吗? 刘力公司派你来的"
     },
     "BẢNG GIÁ": {
       "en": "Shipping Rates",

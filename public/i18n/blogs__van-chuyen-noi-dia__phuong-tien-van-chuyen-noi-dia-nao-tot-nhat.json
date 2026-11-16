@@ -1,6 +1,15 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Khi cần gửi hàng từ tỉnh này sang tỉnh khác, đặc biệt trên những tuyến dài như TP.HCM – Hà Nội, nhiều khách hàng thường đặt câu hỏi: Phương tiện vận chuyển nội địa nào tốt nhất hiện nay?",
+    "Khi cần gửi hàng từ tỉnh này sang tỉnh khác, đặc biệt trên những tuyến dài như TP.HCM – Hà Nội, nhiều khách hàng thường đặt câu hỏi:Phương tiện vận chuyển nội địa nào tốt nhất hiện nay?",
+    "Nếu chỉ cần một câu trả lời ngắn thì: không có một phương tiện tốt nhất cho mọi loại hàng .",
+    "Nếu chỉ cần một câu trả lời ngắn thì: không có một phương tiện tốt nhất cho mọi loại hàng.",
+    "Nếu chỉ cần một câu trả lời ngắn thì:không có một phương tiện tốt nhất cho mọi loại hàng.",
+    "Phương tiện vận chuyển nội địa nào tốt nhất? So sánh xe tải, đường sắt, đường biển và hàng không để chọn phương án phù hợp từng loại hàng.",
+    "Xe tải có lợi thế về tính linh hoạt. Đường sắt phù hợp với nhiều lô hàng khối lượng lớn và tuyến đường dài. Hàng không có ưu thế về tốc độ, trong khi đường biển có thể phù hợp với hàng container hoặc khối lượng rất lớn."
+  ],
   "route": "/blogs/van-chuyen-noi-dia/phuong-tien-van-chuyen-noi-dia-nao-tot-nhat",
   "texts": {
     ", Vận Tải Lưu Lê định hướng phương án dựa trên đặc điểm thực tế của từng lô hàng thay vì áp dụng một cách vận chuyển cố định.": {
@@ -890,6 +899,10 @@
     "Phương tiện vận chuyển nội địa nào tốt nhất hiện nay?": {
       "en": "What is the best domestic transport available today?",
       "zh": "今天最好的国内交通是什么?"
+    },
+    "Phương tiện vận chuyển nội địa nào tốt nhất? So sánh xe tải, đường sắt, đường biển và hàng không để chọn phương án phù hợp từng loại hàng.": {
+      "en": "What's the best domestic transport? Comparison of trucks, railroads, seaways, and airlines to choose the right option for each type of cargo.",
+      "zh": "什么是最好的国内交通? 对卡车、铁路、出海道和航空公司进行比较,为每一种货物选择正确的选择。"
     },
     "Phương án này phù hợp với:": {
       "en": "The option is consistent with:",

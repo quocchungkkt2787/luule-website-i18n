@@ -1,6 +1,10 @@
 {
   "complete": true,
   "missing_count": 0,
+  "preview_sources": [
+    "Doanh nghiệp kinh doanh vận tải bị cạnh tranh không chỉ về chất lượng dịch vụ mà còn cả về giá cả. Chính vì lẽ đó, để thân thiện với khách hàng, nhiều công ty vận chuyển đã tạo ra bảng giá để khách hàng có thể tham khảo trong quá trình vận chuyển. Nhưng làm thế nào để bạn tạo một báo giá vận chuyển xe tải chi tiết? Hãy tham khảo ngay mẫu bảng báo giá sau đây nhé!",
+    "Để thân thiện với khách hàng, nhiều công ty vận chuyển đã tạo ra bảng giá để khách hàng có thể tham khảo trong quá trình vận chuyển. Nhưng làm thế nào để bạn tạo một báo giá vận chuyển xe tải chi tiết? Hãy tham khảo ngay mẫu bảng báo giá sau đây nhé."
+  ],
   "route": "/blogs/goc-tu-van/mau-bao-gia-van-chuyen-xe-tai",
   "texts": {
     ". Tại đây, bảng giá sẽ được trình bày đầy đủ, chi tiết, cụ thể và đặc biệt ít khi biến động giá mạnh nên bạn có thể hoàn toàn tin tưởng.": {
@@ -810,6 +814,10 @@
     "Đơn vị tính": {
       "en": "Computing Unit",
       "zh": "电子计算股"
+    },
+    "Để thân thiện với khách hàng, nhiều công ty vận chuyển đã tạo ra bảng giá để khách hàng có thể tham khảo trong quá trình vận chuyển. Nhưng làm thế nào để bạn tạo một báo giá vận chuyển xe tải chi tiết? Hãy tham khảo ngay mẫu bảng báo giá sau đây nhé.": {
+      "en": "To be friendly with the customers, many shipping companies created the price sheet so that customers could refer to the transport process. But how do you create a detailed transport price? Please refer to the following panel.",
+      "zh": "为了与客户友好,许多航运公司创建了价格表,以便客户可以参考运输过程. 但如何创造详细的运输价格? 请参看以下面板。"
     },
     "Đồ gia đình": {
       "en": "Household Goods",
