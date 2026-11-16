@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T01:57:52.007280+00:00",
+  "tested_at": "2026-11-16T02:19:34.953620+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 784,
-  "public_routes_pending": 152,
+  "public_routes_verified": 792,
+  "public_routes_pending": 144,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -14868,14 +14868,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-quan-trieu": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-song-khoai": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-tien-yen": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-viet-hung": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-ba-thien": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-binh-xuyen": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-chan-hung": {},
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-quan-trieu": {
+      "fingerprint": "634d48a2aa2e0bd5",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:18:54.688726+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN Quality, Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNN 质量,专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-song-khoai": {
+      "fingerprint": "9ffd2dfba1633ba6",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:00.304862+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - The current most logical price of the river"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡... 目前最符合逻辑的河道价格"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-tien-yen": {
+      "fingerprint": "868b2ec61ca7be92",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:06.138089+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Tips the unit send in Saigon - KNNN Yan's most prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "提示单位发送到西贡 - KNN 燕国最有声望"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-viet-hung": {
+      "fingerprint": "155e75d43b96c20e",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:11.909228+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - The most prestigious Vietnam"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡... 最有声望的越南"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc": {
+      "fingerprint": "7a3584c4a93bc7be",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:17.643894+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Industrial Zone at Wing Fu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡运输工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-ba-thien": {
+      "fingerprint": "fba48e7a290ecfb6",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:23.366331+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN BC I, II Professional"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派遣西贡 - KNN BC I, 二专业"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-binh-xuyen": {
+      "fingerprint": "49225fc35770a763",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:29.069359+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN Pingchuan I, II Best Now"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派西贡 - KNN平川一号 二号最佳现在"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-chan-hung": {
+      "fingerprint": "a185d22d9737f3f7",
+      "status": "pass",
+      "checked_at": "2026-11-16T02:19:34.923013+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - The most prestigious safe house"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡... 最有声望的安全屋"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-khai-quang": {},
     "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-kim-hoa": {},
     "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-lap-thach": {},
@@ -15008,7 +15152,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-16T01:56:45.265511+00:00",
+      "checked_at": "2026-11-16T02:18:36.861080+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15028,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T01:56:58.509959+00:00",
+      "checked_at": "2026-11-16T02:18:48.433929+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15060,7 +15204,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-16T01:56:52.241433+00:00",
+      "checked_at": "2026-11-16T02:18:43.332264+00:00",
       "languages": {
         "en": {
           "ok": true,
