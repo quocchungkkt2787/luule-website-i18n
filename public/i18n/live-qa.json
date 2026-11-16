@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T01:35:40.080083+00:00",
+  "tested_at": "2026-11-16T01:57:52.007280+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 776,
-  "public_routes_pending": 160,
+  "public_routes_verified": 784,
+  "public_routes_pending": 152,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/goc-tu-van/mua-xe-can-giay-to-gi"
@@ -14716,14 +14716,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-trung-ha": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-cai-lan": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-dam-nha-mac": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-dong-mai": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-hai-ha": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-hai-yen": {},
-    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-hoanh-bo": {},
+    "/blogs/gui-hang-tphcm-kcn-phu-tho/chuyen-hang-sai-gon-kcn-trung-ha": {
+      "fingerprint": "3cf9f6ee1ab44d12",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:04.957960+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - Central CBS fast, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - 中央CBS快速,安全"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh": {
+      "fingerprint": "ec69a42f9b57cf7a",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:12.574556+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Transportation Industrial Zone in Guangzhou"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "广州西贡交通工业区"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-cai-lan": {
+      "fingerprint": "ed15a2e8fe8b2dcc",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:19.289982+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon sender Service - KNN WIT at Liu Liu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡发送服务 - KNN WIT在刘刘"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-dam-nha-mac": {
+      "fingerprint": "f911fc85ebb05ae2",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:25.627187+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNNC Top Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNNC 顶级名词"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-dong-mai": {
+      "fingerprint": "e2616866573d41ab",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:32.483164+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon-KN Eastern Mail Service"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡-KN 东方邮件服务"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-hai-ha": {
+      "fingerprint": "e81eea645a5c0d49",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:39.163708+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery sequence from Saigon to KNC Sea"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡到KNC海的送货顺序"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-hai-yen": {
+      "fingerprint": "3e133c2f892c7609",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:45.619182+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Send Service - CN Navy Fame, Cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡送货服务-CN海军名人,廉价"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-hoanh-bo": {
+      "fingerprint": "41b73f6a42bf4fce",
+      "status": "pass",
+      "checked_at": "2026-11-16T01:57:51.980020+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Saigon Letter Experiences - KNNNNKIN [A] Z]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡字母体验-克南宁 [A] Z]."
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-quan-trieu": {},
     "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-song-khoai": {},
     "/blogs/gui-hang-tphcm-kcn-quang-ninh/chuyen-hang-sai-gon-kcn-tien-yen": {},
@@ -14864,7 +15008,7 @@
     "/": {
       "fingerprint": "7a6c013c1b0dadce",
       "status": "pass",
-      "checked_at": "2026-11-16T01:34:33.310737+00:00",
+      "checked_at": "2026-11-16T01:56:45.265511+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14884,7 +15028,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T01:34:46.288965+00:00",
+      "checked_at": "2026-11-16T01:56:58.509959+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -14916,7 +15060,7 @@
     "/search": {
       "fingerprint": "f603cef2297dc282",
       "status": "pass",
-      "checked_at": "2026-11-16T01:34:40.219382+00:00",
+      "checked_at": "2026-11-16T01:56:52.241433+00:00",
       "languages": {
         "en": {
           "ok": true,
