@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T09:57:44.585248+00:00",
+  "tested_at": "2026-11-16T10:20:27.514312+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 138,
-  "public_routes_pending": 798,
+  "public_routes_verified": 146,
+  "public_routes_pending": 790,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -2576,9 +2576,9 @@
       }
     },
     "/blogs/goc-tu-van/bang-gia-ve-tau-hoa-sai-gon-ha-noi": {
-      "fingerprint": "32aee864017adfaa",
+      "fingerprint": "685ecc045ca69095",
       "status": "pass",
-      "checked_at": "2026-11-14T20:28:59.186810+00:00",
+      "checked_at": "2026-11-16T10:19:39.461855+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2595,9 +2595,9 @@
       }
     },
     "/blogs/goc-tu-van/ben-xe-nuoc-ngam-o-dau": {
-      "fingerprint": "7322d1a37e681f28",
+      "fingerprint": "cbc536c47b497b0d",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:00.791506+00:00",
+      "checked_at": "2026-11-16T10:19:46.535995+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2614,9 +2614,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-35-o-dau": {
-      "fingerprint": "1044bca74f820f3e",
+      "fingerprint": "86dfa7234c5056c6",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:07.569046+00:00",
+      "checked_at": "2026-11-16T10:19:53.235370+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2633,9 +2633,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-ban-giao-nhan-hang-hoa-noi-bo": {
-      "fingerprint": "1675d59b15ad2b3c",
+      "fingerprint": "a3cbad4cfc67dd46",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:14.089769+00:00",
+      "checked_at": "2026-11-16T10:20:00.031467+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2652,9 +2652,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-cam-quay-dau-co-duoc-re-trai-khong": {
-      "fingerprint": "d8f8d0d04f68d163",
+      "fingerprint": "a1b274d55628e229",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:20.885788+00:00",
+      "checked_at": "2026-11-16T10:20:06.755587+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2671,9 +2671,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-39-o-dau": {
-      "fingerprint": "df2f8a929b4af2d7",
+      "fingerprint": "6e69357a01755d34",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:27.845061+00:00",
+      "checked_at": "2026-11-16T10:20:13.423727+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2690,9 +2690,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-48-la-tinh-nao": {
-      "fingerprint": "6f88726263efbeb8",
+      "fingerprint": "786655119b403aef",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:34.511329+00:00",
+      "checked_at": "2026-11-16T10:20:20.891739+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -2709,9 +2709,9 @@
       }
     },
     "/blogs/goc-tu-van/bien-so-50-o-dau": {
-      "fingerprint": "9c0d29a52ac3c23b",
+      "fingerprint": "757822b90904da0a",
       "status": "pass",
-      "checked_at": "2026-11-14T20:49:41.188478+00:00",
+      "checked_at": "2026-11-16T10:20:27.478876+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T09:56:39.930910+00:00",
+      "checked_at": "2026-11-16T10:19:20.248316+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T09:56:51.619442+00:00",
+      "checked_at": "2026-11-16T10:19:32.848286+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T09:56:46.348217+00:00",
+      "checked_at": "2026-11-16T10:19:27.142697+00:00",
       "languages": {
         "en": {
           "ok": true,
