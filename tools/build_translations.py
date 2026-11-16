@@ -32,6 +32,8 @@ PUBLIC = ROOT / 'public' / 'i18n'
 SHARED_NAV_LABELS = set()
 # Also share excerpts from cards showing related articles on other pages.
 SHARED_RELATED_SNIPPETS = set()
+# Route-specific public previews: never visitor-entered terms or private content.
+PUBLIC_ARTICLE_PREVIEWS = {}
 # Public images are inventoried separately; alt text is not embedded image lettering.
 SHARED_IMAGE_ASSETS = {}
 USER_AGENT = 'LuuLePublicI18NBuilder/3.0 (+https://vantailuule.vn)'
@@ -231,6 +233,7 @@ def collect_text_from_html(content, route=None):
             desc=norm(meta.get('content',''))
             if 30<=len(desc)<=1200 and translatable(desc):
                 SHARED_RELATED_SNIPPETS.add(desc)
+                remember_public_excerpt(desc,article_search_intros)
         article_root=root.select_one('article .article-content, article .content, '
                                      '.article-content, .blog-article, '
                                      '.article-body, [itemprop="articleBody"]')
@@ -249,6 +252,8 @@ def collect_text_from_html(content, route=None):
                 # Haravan strip_html may join inline <strong>/<a> fragments
                 # without whitespace; this version can differ from get_text(' ').
                 remember_public_excerpt(para.get_text('',strip=True),article_search_intros)
+        if article_search_intros and route.count('/')>=3:
+            PUBLIC_ARTICLE_PREVIEWS.setdefault(route,set()).update(article_search_intros)
     for q in root.select(SKIP_SELECTOR):q.decompose()
     for q in root.find_all(SKIP_TAGS):q.decompose()
     strings=set(article_search_intros)
@@ -608,6 +613,10 @@ def build(pages,max_new=100000,demo=False):
             out={'version':3,'route':route,'texts':mapping,
                  'complete':not bool(missing_entries),
                  'missing_count':len(missing_entries)}
+            preview_sources=set(old_pack.get('preview_sources') or []) if isinstance(old_pack,dict) else set()
+            preview_sources.update(PUBLIC_ARTICLE_PREVIEWS.get(route,set()))
+            if route.startswith('/blogs/') and route.count('/')>=3 and preview_sources:
+                out['preview_sources']=sorted(preview_sources)[:24]
             save_json(old_file,out)
             released+=1
         else:
@@ -679,6 +688,9 @@ def main():
         collect_text_from_html(joined_excerpt,route='/blogs/chinh-sach-cong-ty/thanh-toan')
         assert any(x.startswith('Dưới đây là những câu hỏi thường gặp') and 'Lê.Nếu' in x
                    for x in SHARED_RELATED_SNIPPETS)
+        article_intro='<html><head><meta name="description" content="Để đáp ứng tốt nhu cầu gửi hàng Sài Gòn - KCN Đại An Mở rộng, các đơn vị đã mở ra nhiều dịch vụ vận chuyển hàng hóa trọn gói chất lượng."></head><body><article><div class="article-content"><p>Hiện nay, nhu cầu vận chuyển hàng hóa tại các khu công nghiệp đang tăng rất nhanh. Đây là nguồn thông tin cho độc giả quan tâm đến dịch vụ.</p></div></article></body></html>'
+        collect_text_from_html(article_intro,route='/blogs/goc-tu-van/test-public-preview')
+        assert len(PUBLIC_ARTICLE_PREVIEWS['/blogs/goc-tu-van/test-public-preview'])>=2
         sample_meta='<html><head><meta name="description" content="Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí."></head><body><article><p>Nội dung minh họa.</p></article></body></html>'
         collect_text_from_html(sample_meta,route='/blogs/van-chuyen/mau')
         assert 'Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí.' in SHARED_RELATED_SNIPPETS
