@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T11:06:10.560642+00:00",
+  "tested_at": "2026-11-16T11:28:06.926465+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 162,
-  "public_routes_pending": 774,
+  "public_routes_verified": 170,
+  "public_routes_pending": 766,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -3032,9 +3032,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-loai-xe-tai": {
-      "fingerprint": "368a6d491c08af7d",
+      "fingerprint": "8cb0da93e6f07b56",
       "status": "pass",
-      "checked_at": "2026-11-14T21:31:53.890423+00:00",
+      "checked_at": "2026-11-16T11:27:21.762666+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3051,9 +3051,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-loi-thuong-gap-cua-xe-nang-dien": {
-      "fingerprint": "3d348abff0509e66",
+      "fingerprint": "2d3441442d1034fc",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:07.171828+00:00",
+      "checked_at": "2026-11-16T11:27:28.180271+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3070,9 +3070,9 @@
       }
     },
     "/blogs/goc-tu-van/cac-tuyen-duong-sat-chinh-cua-viet-nam": {
-      "fingerprint": "919cca708f0eec51",
+      "fingerprint": "3ea42aca1445ae2d",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:13.546922+00:00",
+      "checked_at": "2026-11-16T11:27:34.961073+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3089,9 +3089,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-bao-quan-vai-thieu-khi-van-chuyen": {
-      "fingerprint": "ea224fdff910fce1",
+      "fingerprint": "033051fe0f0895d0",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:20.071069+00:00",
+      "checked_at": "2026-11-16T11:27:41.478612+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3108,9 +3108,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-boc-xe-may-de-van-chuyen": {
-      "fingerprint": "cd683b5442b9ecd7",
+      "fingerprint": "90e2cd0daa931b5c",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:26.717468+00:00",
+      "checked_at": "2026-11-16T11:27:48.065765+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3127,9 +3127,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-chinh-kim-xang-xe-may-khi-bi-hong": {
-      "fingerprint": "586bdff00be6784a",
+      "fingerprint": "9126cc36a24b7775",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:34.049345+00:00",
+      "checked_at": "2026-11-16T11:27:54.290801+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3146,9 +3146,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-dang-ky-giao-hang-tiet-kiem-nhanh-chi-1-phut": {
-      "fingerprint": "f0dcb659999ebec9",
+      "fingerprint": "3e898081a5711aca",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:40.979950+00:00",
+      "checked_at": "2026-11-16T11:28:00.655585+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -3165,9 +3165,9 @@
       }
     },
     "/blogs/goc-tu-van/cach-ghi-ma-van-don-giao-hang-tiet-kiem-cho-nguoi-moi-gui-hang": {
-      "fingerprint": "c89617c1d5d61c5c",
+      "fingerprint": "7083f59f59601346",
       "status": "pass",
-      "checked_at": "2026-11-14T21:51:47.345751+00:00",
+      "checked_at": "2026-11-16T11:28:06.890845+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15150,7 +15150,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T11:05:01.329200+00:00",
+      "checked_at": "2026-11-16T11:27:03.026644+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15170,7 +15170,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T11:05:14.247489+00:00",
+      "checked_at": "2026-11-16T11:27:15.148794+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,7 +15202,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-16T11:05:08.813851+00:00",
+      "checked_at": "2026-11-16T11:27:09.657800+00:00",
       "languages": {
         "en": {
           "ok": true,
