@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T23:01:23.412081+00:00",
+  "tested_at": "2026-11-17T23:23:09.013233+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 928,
-  "public_routes_pending": 8,
+  "public_routes_verified": 935,
+  "public_routes_pending": 1,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
@@ -15880,7 +15880,7 @@
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {
       "fingerprint": "ab911bf4bd15fd34",
       "status": "fail",
-      "checked_at": "2026-11-17T18:58:34.320622+00:00",
+      "checked_at": "2026-11-17T23:23:08.975746+00:00",
       "languages": {
         "en": {
           "ok": false,
@@ -17472,7 +17472,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T23:00:16.512967+00:00",
+      "checked_at": "2026-11-17T23:22:09.955970+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17510,7 +17510,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T23:00:30.057771+00:00",
+      "checked_at": "2026-11-17T23:22:22.364244+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17640,17 +17640,143 @@
         }
       }
     },
-    "/pages/lien-he": {},
-    "/pages/tra-cuu-gia-cuoc-van-chuyen": {},
-    "/pages/tra-cuu-van-don": {},
-    "/pages/trung-tam-huong-dan": {},
-    "/pages/van-chuyen-hang-hoa": {},
-    "/pages/van-chuyen-hang-tu-tphcm-di-cac-mien": {},
-    "/pages/xe-tai-cho-hang": {},
+    "/pages/lien-he": {
+      "fingerprint": "c1831250a4dd27b6",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:22:28.002368+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Contact us for backup!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "联系我们支援!"
+        }
+      }
+    },
+    "/pages/tra-cuu-gia-cuoc-van-chuyen": {
+      "fingerprint": "4eeb0b90bc907dc1",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:22:34.280837+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Look up the North Southern Transport Price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "查查南方北方运输价格"
+        }
+      }
+    },
+    "/pages/tra-cuu-van-don": {
+      "fingerprint": "c5156ec494d89ede",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:22:39.821466+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Search for Singles"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "寻找单身者"
+        }
+      }
+    },
+    "/pages/trung-tam-huong-dan": {
+      "fingerprint": "4f4f7936d5797ace",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:22:46.649055+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Presidental Path Guide\"."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"总统路径指南\"."
+        }
+      }
+    },
+    "/pages/van-chuyen-hang-hoa": {
+      "fingerprint": "ca72018a07cfb7a7",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:22:53.227440+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services nationwide"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "全国运输服务"
+        }
+      }
+    },
+    "/pages/van-chuyen-hang-tu-tphcm-di-cac-mien": {
+      "fingerprint": "628f8e4d77dc4038",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:22:59.378706+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The freight services from TP.HCM go to national domains Archive"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从TP.HCM到国家域的货运服务"
+        }
+      }
+    },
+    "/pages/xe-tai-cho-hang": {
+      "fingerprint": "fe3df6dacfb2f0fe",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:23:05.548369+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The rental of national freight trucks"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "租用国家货运卡车"
+        }
+      }
+    },
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T23:00:23.963682+00:00",
+      "checked_at": "2026-11-17T23:22:17.057880+00:00",
       "languages": {
         "en": {
           "ok": true,
