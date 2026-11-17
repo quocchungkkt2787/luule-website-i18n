@@ -17888,6 +17888,126 @@
       "ocr_excerpt": "ran ⁄⁄ lí Se",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___1__2e11eceabfb549a5acafaa4edb0bdb54_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___2__ea1bc228e1c04848a7c89ffc20f23945_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "KCN Thuan Dao",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___3__096f3b81c7354182a46a184d4d855b80_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "<4 == inp == |] Trao Đổi Hàng Hóa",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___5__64cf5af24ed64eb8998be50a4eef4ced_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "== 2z “as. KCN Đức Hòa III",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___6__4af2e8cf890143c28823444dd4dcb29c_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "SS Pa KCN Long Hau",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___7__286c71efd5534627ad6e055b7425288d_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "gì _: Chuyển Hàng",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai___9__83b8daf4f21c49699471e926799106f5_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "I> lÌ Ban do KCN Xuyén",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai__c345a1d15e8e41fb83f0d5010bd908f2_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "W4 Đóng Gói Hàng Hóa Cẩn Thận",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/anh_trong_bai__f7dbb9ea905f40f9bc0a38015109763f_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Th <2 Se KCN Biên Hòa",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/bac-can_189679ae1a144cfbbd78c984179f69b7_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Bắc Cạn quyết liệt phát triển kinh tế toàn diện",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/bac-giang_dfb967a456f448a28de331d3ea7602dc_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        366,
+        433
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "TÍ hành Lan. »-2gi ues hed",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/bac-ninh-binh-phuoc_5de105b629fb4d45a197e1f1dfc5c792_grande.png": {
+      "confident_word_count": 31,
+      "dimensions": [
+        491,
+        505
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "es Thành phố Bác. ay Phong “Hải Th IAM) 2Vi Chan UDON NI lạ Dy KHON KAEN bề) Tổ an Ngãi gi 1.410 `. B5. Nha Trang, Phnom Penh 4: hph",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://file.hstatic.net/1000191021/file/bang-gia-gui-hang-tai-buu-dien_cd48935ea227422d90b2b07056d1b15b.png": {
       "confident_word_count": 142,
       "dimensions": [
@@ -17929,11 +18049,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 1800,
-  "images_unscanned": 1290,
+  "images_scanned": 1812,
+  "images_unscanned": 1278,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 10,
-  "possibly_vietnamese": 1567,
+  "possibly_vietnamese": 1576,
   "unique_public_images": 3090,
   "version": 1
 }
