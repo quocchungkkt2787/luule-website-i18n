@@ -1,13 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T21:55:47.241886+00:00",
+  "tested_at": "2026-11-17T22:16:33.368384+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 904,
-  "public_routes_pending": 32,
-  "public_routes_failed": 1,
+  "public_routes_verified": 911,
+  "public_routes_pending": 25,
+  "public_routes_failed": 2,
   "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
+    "/search"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -17146,14 +17147,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-thanh-hoa": {},
-    "/blogs/videos": {},
-    "/blogs/videos/gioi-thieu-nganh-van-tai-duong-sat": {},
-    "/blogs/xe-tai-cho-hang-bac-nam": {},
-    "/blogs/xe-tai-cho-hang-binh-duong": {},
-    "/blogs/xe-tai-cho-hang-di-tinh": {},
-    "/blogs/xe-tai-cho-hang-dong-nai": {},
-    "/blogs/xe-tai-cho-hang-tphcm": {},
+    "/blogs/van-chuyen-tphcm-mien-trung/gui-hang-sai-gon-thanh-hoa": {
+      "fingerprint": "770e3930e38a255f",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:15:43.027688+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from TpHCM to Qingization [fast, safe, cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从TpHCM送到清化[快,安全,便宜]."
+        }
+      }
+    },
+    "/blogs/videos": {
+      "fingerprint": "4902ae1e6d73c126",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:15:49.837945+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Videos about Liu in particular and the transportation industry in general."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "视频特别介绍刘某某和一般交通行业."
+        }
+      }
+    },
+    "/blogs/videos/gioi-thieu-nganh-van-tai-duong-sat": {
+      "fingerprint": "24ee9b611ad0f0b5",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:15:57.003014+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Vietnam Railroad Transporting Video"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "越南铁路运输视频"
+        }
+      }
+    },
+    "/blogs/xe-tai-cho-hang-bac-nam": {
+      "fingerprint": "a41e26d32bd7f914",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:16:04.036728+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "North-Nanan freight truck service [United, professional]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北南货运卡车服务[联合,专业]."
+        }
+      }
+    },
+    "/blogs/xe-tai-cho-hang-binh-duong": {
+      "fingerprint": "4a8926a5929e1c40",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:16:11.882689+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Dropping Pacific cargo truck [fast, safe, cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "扔下太平洋货车[快、安全、便宜]"
+        }
+      }
+    },
+    "/blogs/xe-tai-cho-hang-di-tinh": {
+      "fingerprint": "c1e9bdff61f33058",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:16:18.511126+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Service for renting freight trucks to the province: Trust, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "向该省出租货运卡车服务:信托、廉价"
+        }
+      }
+    },
+    "/blogs/xe-tai-cho-hang-dong-nai": {
+      "fingerprint": "df8ec7d6f89b315e",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:16:26.356043+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The rental truck for cheap, prestigious bronze trucks"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "廉价、有声望的青铜卡车的租车"
+        }
+      }
+    },
+    "/blogs/xe-tai-cho-hang-tphcm": {
+      "fingerprint": "f9b1d0e53c5534bb",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:16:33.335358+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM freight truck rental [fast & cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM 货运卡车租赁[快速和便宜]"
+        }
+      }
+    },
     "/blogs/xe-tai-nho-cho-hang": {},
     "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-1-5-tan": {},
     "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-1-tan": {},
@@ -17166,7 +17311,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T21:54:35.348791+00:00",
+      "checked_at": "2026-11-17T22:15:22.231541+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17186,7 +17331,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T21:54:48.650083+00:00",
+      "checked_at": "2026-11-17T22:15:34.961085+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17217,8 +17362,8 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "4fba10d93c535f75",
-      "status": "pass",
-      "checked_at": "2026-11-17T21:54:42.573501+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-17T22:15:29.250675+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17227,9 +17372,15 @@
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }
