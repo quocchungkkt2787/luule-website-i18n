@@ -1,12 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T18:36:22.942733+00:00",
+  "tested_at": "2026-11-17T18:58:47.699213+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 833,
-  "public_routes_pending": 103,
-  "public_routes_failed": 0,
-  "failed_examples": [],
+  "public_routes_verified": 840,
+  "public_routes_pending": 96,
+  "public_routes_failed": 1,
+  "failed_examples": [
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
+  ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
@@ -15780,14 +15782,154 @@
         }
       }
     },
-    "/blogs/thong-bao": {},
-    "/blogs/thong-bao/lich-nghi-le-30-04-va-01-05-2022": {},
-    "/blogs/thong-bao/lich-nghi-le-quoc-khanh-02-09-2026": {},
-    "/blogs/thong-bao/lich-nghi-tet-duong-lich-2022": {},
-    "/blogs/thong-bao/lich-nghi-tet-nguyen-dan-2022": {},
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {},
-    "/blogs/tuyen-dung": {},
-    "/blogs/tuyen-dung/boc-xep": {},
+    "/blogs/thong-bao": {
+      "fingerprint": "b77f8eefd65d24f1",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:02.261749+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Announce"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发布"
+        }
+      }
+    },
+    "/blogs/thong-bao/lich-nghi-le-30-04-va-01-05-2022": {
+      "fingerprint": "6ff32d6457f410d8",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:09.130565+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "South 30/4 & International Labours//522"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方30/4和国际劳工"
+        }
+      }
+    },
+    "/blogs/thong-bao/lich-nghi-le-quoc-khanh-02-09-2026": {
+      "fingerprint": "fa5a1c10c5681037",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:15.727569+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Liu Transport announces the time of the National Festival 02-2026"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘运宣布02-2026国庆节时间"
+        }
+      }
+    },
+    "/blogs/thong-bao/lich-nghi-tet-duong-lich-2022": {
+      "fingerprint": "b0bb455048d9549c",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:22.417166+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Announces a New Year's Holiday 2022"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "宣布2022年放假"
+        }
+      }
+    },
+    "/blogs/thong-bao/lich-nghi-tet-nguyen-dan-2022": {
+      "fingerprint": "dc73b5280bbecb48",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:30.008698+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Announce New Year's New Year's holiday."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "宣布新年放假."
+        }
+      }
+    },
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {
+      "fingerprint": "ab911bf4bd15fd34",
+      "status": "fail",
+      "checked_at": "2026-11-17T18:58:34.320622+00:00",
+      "languages": {
+        "en": {
+          "ok": false,
+          "reason": "HTTP 404"
+        },
+        "zh": {
+          "ok": false,
+          "reason": "HTTP 404"
+        }
+      }
+    },
+    "/blogs/tuyen-dung": {
+      "fingerprint": "e611d4720f792b84",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:41.124782+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Other Organiser"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "其他联系人"
+        }
+      }
+    },
+    "/blogs/tuyen-dung/boc-xep": {
+      "fingerprint": "f1bb64c92d1e5f34",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:58:47.669815+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Synchronising folder"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "创建新文件夹"
+        }
+      }
+    },
     "/blogs/tuyen-dung/cong-tac-vien-kinh-doanh": {},
     "/blogs/tuyen-dung/nhan-vien-cham-soc-khach-hang": {},
     "/blogs/tuyen-dung/tai-xe": {},
@@ -15872,7 +16014,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T18:35:15.809055+00:00",
+      "checked_at": "2026-11-17T18:57:42.087243+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15892,7 +16034,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T18:35:28.268721+00:00",
+      "checked_at": "2026-11-17T18:57:55.197317+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15924,7 +16066,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T18:35:22.619077+00:00",
+      "checked_at": "2026-11-17T18:57:49.137013+00:00",
       "languages": {
         "en": {
           "ok": true,
