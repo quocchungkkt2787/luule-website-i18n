@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T20:27:33.162093+00:00",
+  "tested_at": "2026-11-17T20:51:22.758626+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 872,
-  "public_routes_pending": 64,
+  "public_routes_verified": 880,
+  "public_routes_pending": 56,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
@@ -16538,14 +16538,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-logistics/so-sanh-dich-vu-van-chuyen-hang-hoa-va-dich-vu-logistics": {},
-    "/blogs/van-chuyen-noi-dia": {},
-    "/blogs/van-chuyen-noi-dia/cac-luu-y-o-hop-dong-dich-vu-van-chuyen-hang-hoa-noi-dia": {},
-    "/blogs/van-chuyen-noi-dia/kinh-nghiem-van-chuyen-hang-hoa-noi-dia": {},
-    "/blogs/van-chuyen-noi-dia/phuong-tien-van-chuyen-noi-dia-nao-tot-nhat": {},
-    "/blogs/van-chuyen-noi-dia/su-thay-doi-trong-xu-huong-van-chuyen-noi-dia": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/chuyen-nha-sai-gon-ha-noi": {},
+    "/blogs/van-chuyen-logistics/so-sanh-dich-vu-van-chuyen-hang-hoa-va-dich-vu-logistics": {
+      "fingerprint": "203dd8bd0dc0e59c",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:50:25.950471+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Compare freight services and Logistics services"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "比较货运服务和后勤服务"
+        }
+      }
+    },
+    "/blogs/van-chuyen-noi-dia": {
+      "fingerprint": "30ff962441a4d25d",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:50:33.565054+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Internal Transport Service, in prestigious country, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "国内运输局,在著名的国家,廉价"
+        }
+      }
+    },
+    "/blogs/van-chuyen-noi-dia/cac-luu-y-o-hop-dong-dich-vu-van-chuyen-hang-hoa-noi-dia": {
+      "fingerprint": "7c3bb80205889131",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:50:40.991047+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Notes at the domestic freight service contract"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "国内货运合同的说明"
+        }
+      }
+    },
+    "/blogs/van-chuyen-noi-dia/kinh-nghiem-van-chuyen-hang-hoa-noi-dia": {
+      "fingerprint": "e5655bc9f2cc61db",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:50:50.437703+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Experience of Transporting Inland goods Safe, Saving"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "内陆货物运输安全、节约的经验"
+        }
+      }
+    },
+    "/blogs/van-chuyen-noi-dia/phuong-tien-van-chuyen-noi-dia-nao-tot-nhat": {
+      "fingerprint": "69bc4defb5ab5cb5",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:50:58.142217+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "What is the best domestic transport available today?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "今天最好的国内交通是什么?"
+        }
+      }
+    },
+    "/blogs/van-chuyen-noi-dia/su-thay-doi-trong-xu-huong-van-chuyen-noi-dia": {
+      "fingerprint": "de920c86c7e9807d",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:51:06.364227+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Change in the current domestic transport trend!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "当前国内交通趋势的变化!"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi": {
+      "fingerprint": "f239b77d8722deee",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:51:14.271413+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Saigon Transportation of Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内西贡运输"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/chuyen-nha-sai-gon-ha-noi": {
+      "fingerprint": "e3b8c3893eb11541",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:51:22.715126+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The move from Saigon to Hanoi package, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡到河内,便宜"
+        }
+      }
+    },
     "/blogs/van-chuyen-sai-gon-ha-noi/chuyen-phat-nhanh-sai-gon-ha-noi": {},
     "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {},
     "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-buu-dien-tu-tphcm-ra-ha-noi": {},
@@ -16590,7 +16734,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T20:26:18.982928+00:00",
+      "checked_at": "2026-11-17T20:50:03.504336+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16610,7 +16754,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T20:26:32.260591+00:00",
+      "checked_at": "2026-11-17T20:50:17.437943+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16642,7 +16786,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T20:26:26.064547+00:00",
+      "checked_at": "2026-11-17T20:50:11.053842+00:00",
       "languages": {
         "en": {
           "ok": true,
