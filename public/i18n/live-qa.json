@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T22:16:33.368384+00:00",
+  "tested_at": "2026-11-17T22:38:52.254960+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 911,
-  "public_routes_pending": 25,
+  "public_routes_verified": 919,
+  "public_routes_pending": 17,
   "public_routes_failed": 2,
   "failed_examples": [
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
@@ -17299,19 +17299,163 @@
         }
       }
     },
-    "/blogs/xe-tai-nho-cho-hang": {},
-    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-1-5-tan": {},
-    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-1-tan": {},
-    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-2-5-tan": {},
-    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-2-tan": {},
-    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-500kg": {},
-    "/collections/frontpage": {},
-    "/collections/hot-products": {},
+    "/blogs/xe-tai-nho-cho-hang": {
+      "fingerprint": "b6b724bd12db8875",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:00.558734+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Small truck rental services carry prestigious, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "小卡车租赁服务承载着有名望的廉价服务"
+        }
+      }
+    },
+    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-1-5-tan": {
+      "fingerprint": "88ccde6a0d402929",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:09.480697+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The rental of a 1.5 tonne truck [ Savings Cost]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "租用一辆1.5吨卡车[节省费用]"
+        }
+      }
+    },
+    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-1-tan": {
+      "fingerprint": "bd988975d868a10c",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:18.233087+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Car rental service 1 ton of freight [Uy Trust, Saving]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "汽车租赁服务 1吨货运 [Uy Trust, saving]"
+        }
+      }
+    },
+    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-2-5-tan": {
+      "fingerprint": "54da810687a58465",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:24.882706+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Rent truck 2.5 tons of freight: Cheap, high quality"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "2.5吨货运:廉价、优质"
+        }
+      }
+    },
+    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-2-tan": {
+      "fingerprint": "6d3c01d4a1b8ca14",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:32.610704+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Truck rental service 2 tons of cargo [ Quick, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "2吨货物[快速、廉价"
+        }
+      }
+    },
+    "/blogs/xe-tai-nho-cho-hang/thue-xe-tai-500kg": {
+      "fingerprint": "19820d8be2b04e43",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:40.438248+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Car rentals for 500 kilograms of cargo [Uy credit, cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "租车500公斤货物[Uy信用,便宜]."
+        }
+      }
+    },
+    "/collections/frontpage": {
+      "fingerprint": "8003298189c0568a",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:46.266294+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Homepage"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "主页"
+        }
+      }
+    },
+    "/collections/hot-products": {
+      "fingerprint": "2eedc5e1c1c820a6",
+      "status": "pass",
+      "checked_at": "2026-11-17T22:38:52.222568+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Highlights Product"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "突出显示产品"
+        }
+      }
+    },
     "/collections/onsale": {},
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T22:15:22.231541+00:00",
+      "checked_at": "2026-11-17T22:37:40.568522+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17331,7 +17475,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T22:15:34.961085+00:00",
+      "checked_at": "2026-11-17T22:37:53.456139+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17363,7 +17507,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "fail",
-      "checked_at": "2026-11-17T22:15:29.250675+00:00",
+      "checked_at": "2026-11-17T22:37:47.677675+00:00",
       "languages": {
         "en": {
           "ok": true,
