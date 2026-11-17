@@ -120,6 +120,31 @@ def main():
     # Explicitly include the complete list collected from the browser DOM,
     # even when the crawler did not see it because it was lazy-loaded.
     pack['texts'].update(edits)
+    # Home-page-only display wording for the narrow English mobile heading.
+    # Keep the original Vietnamese layout/DOM untouched, and do not change
+    # shared navigation terms on hundreds of other pages.
+    homepage_display = {
+        'VẬN CHUYỂN HÀNG HÓA': {
+            'en': 'FREIGHT', 'zh': '货物运输',
+        },
+        'TỐI ƯU THEO TỪNG ĐƠN HÀNG': {
+            'en': 'TAILORED TO EACH SHIPMENT', 'zh': '为每票货物优化',
+        },
+        '6 YẾU TỐ TẠO NÊN MỘT PHƯƠNG ÁN PHÙ HỢP': {
+            'en': '6 KEY SHIPPING FACTORS', 'zh': '合适运输方案的六大要素',
+        },
+        'Chỉ cần cung cấp loại hàng, khối lượng, điểm lấy và điểm giao. Vận Tải Lưu Lê sẽ tư vấn phương án phù hợp trước khi thực hiện.': {
+            'en': 'Tell us your cargo type, weight, pickup and delivery locations. Luu Le Transport will recommend a suitable plan.',
+            'zh': '请提供货物类型、重量、提货和送货地点。Luu Le 运输公司将为您推荐合适的方案。',
+        },
+        'Vận Tải Lưu Lê phân tích hàng hóa, tuyến đường, chi phí và thời gian để xây dựng phương án vận chuyển phù hợp.': {
+            'en': 'Luu Le Transport reviews cargo, routes, costs and timing to choose the right shipping solution.',
+            'zh': 'Luu Le 运输公司综合分析货物、路线、成本及时间，制定合适的运输方案。',
+        },
+    }
+    for source, translation in homepage_display.items():
+        if source in pack['texts']:
+            pack['texts'][source] = translation
     atomic_write(HOME, pack)
     home_added = len(pack['texts']) - existing
 
