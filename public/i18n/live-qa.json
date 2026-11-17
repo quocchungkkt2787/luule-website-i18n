@@ -1,12 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-16T23:56:21.953478+00:00",
+  "tested_at": "2026-11-17T00:17:53.182452+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 442,
-  "public_routes_pending": 494,
-  "public_routes_failed": 0,
-  "failed_examples": [],
+  "public_routes_verified": 449,
+  "public_routes_pending": 487,
+  "public_routes_failed": 1,
+  "failed_examples": [
+    "/search"
+  ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
@@ -8352,9 +8354,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-thinh-phat": {
-      "fingerprint": "6d8129830e203c6c",
+      "fingerprint": "fedc0702dbb4737a",
       "status": "pass",
-      "checked_at": "2026-11-15T10:13:39.916323+00:00",
+      "checked_at": "2026-11-17T00:17:05.318559+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8371,9 +8373,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-thuan-dao-mo-rong": {
-      "fingerprint": "ff4a38c2600a3132",
+      "fingerprint": "6c273d4f27de7fe7",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:37.401490+00:00",
+      "checked_at": "2026-11-17T00:17:19.609663+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8390,9 +8392,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-thuan-dao": {
-      "fingerprint": "5556cbfe29627969",
+      "fingerprint": "a6888e68aa9ddbc1",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:30.184716+00:00",
+      "checked_at": "2026-11-17T00:17:11.678491+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8409,9 +8411,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-viet-phat": {
-      "fingerprint": "4f0d6b040de7fd34",
+      "fingerprint": "6cd13b7fa0c37e8d",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:43.906590+00:00",
+      "checked_at": "2026-11-17T00:17:25.989279+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8428,9 +8430,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-vinh-loc-2": {
-      "fingerprint": "de26755e2f27200c",
+      "fingerprint": "a84e050e4f63b936",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:50.976035+00:00",
+      "checked_at": "2026-11-17T00:17:32.750968+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8447,9 +8449,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an/chuyen-hang-ha-noi-kcn-xuyen-a": {
-      "fingerprint": "d8aa0002e5d9e974",
+      "fingerprint": "aae2a41d7c56d853",
       "status": "pass",
-      "checked_at": "2026-11-15T10:36:58.553101+00:00",
+      "checked_at": "2026-11-17T00:17:40.116008+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8466,9 +8468,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh": {
-      "fingerprint": "e7c4f0c40c7fbd35",
+      "fingerprint": "2b9848ae78071d0d",
       "status": "pass",
-      "checked_at": "2026-11-15T10:37:05.143970+00:00",
+      "checked_at": "2026-11-17T00:17:46.550596+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8485,9 +8487,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-an-phu-cua-khau-moc-bai": {
-      "fingerprint": "8bda0302a418cf5c",
+      "fingerprint": "6fd949a9f02b6193",
       "status": "pass",
-      "checked_at": "2026-11-15T10:37:11.952720+00:00",
+      "checked_at": "2026-11-17T00:17:53.148685+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15154,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-16T23:55:15.320323+00:00",
+      "checked_at": "2026-11-17T00:16:46.496977+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15174,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-16T23:55:28.629156+00:00",
+      "checked_at": "2026-11-17T00:16:58.855199+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15203,13 +15205,19 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
-      "status": "pass",
-      "checked_at": "2026-11-16T23:55:22.555516+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-17T00:16:53.142646+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
