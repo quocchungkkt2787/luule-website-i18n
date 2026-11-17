@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T18:14:17.846236+00:00",
+  "tested_at": "2026-11-17T18:36:22.942733+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 825,
-  "public_routes_pending": 111,
+  "public_routes_verified": 833,
+  "public_routes_pending": 103,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -15628,14 +15628,158 @@
         }
       }
     },
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-phu-tho": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-quang-ninh": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-thai-nguyen": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-vinh-phuc": {},
-    "/blogs/hinh-anh": {},
-    "/blogs/hinh-anh/doi-ngu-xe-tai": {},
-    "/blogs/hinh-anh/hoat-dong-ben-le": {},
-    "/blogs/hinh-anh/hoat-dong-tai-cong-ty": {},
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-phu-tho": {
+      "fingerprint": "e0a8a7993f90a0a8",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:35:34.819157+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service ratings sent from the Chinese Gong to Fuji Tet"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "由\"中克\"到\"富士铁\"的服务收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-quang-ninh": {
+      "fingerprint": "85cadc2d903dc4ad",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:35:41.261060+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The ratings are deposited from the Chinese Gong to the cheap Ning"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "收视率由\"中正\"存入\"便宜\"\"宁\"\"."
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-thai-nguyen": {
+      "fingerprint": "d3375d8d7ea736ed",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:35:47.690219+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service rating sent from the Chinese to Thailand"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从中国人到泰国的服务评级"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-vinh-phuc": {
+      "fingerprint": "6603355dd2bbfc36",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:35:54.675622+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the China Gong to Wing Fu"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "中克活佛送来的服务图"
+        }
+      }
+    },
+    "/blogs/hinh-anh": {
+      "fingerprint": "1164754870596dbd",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:36:01.728157+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Active Images"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "活动图像"
+        }
+      }
+    },
+    "/blogs/hinh-anh/doi-ngu-xe-tai": {
+      "fingerprint": "c4f4726bab92cdcf",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:36:08.876995+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Visuals of the Liu Company Truck Team"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "刘连卡车队的视线"
+        }
+      }
+    },
+    "/blogs/hinh-anh/hoat-dong-ben-le": {
+      "fingerprint": "faaf81b00cf8f904",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:36:15.654242+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The side-to-side action image of the Lavian Transportation Company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "拉维安运输公司的侧向动作形象"
+        }
+      }
+    },
+    "/blogs/hinh-anh/hoat-dong-tai-cong-ty": {
+      "fingerprint": "469a203dd29f9730",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:36:22.920274+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The image operates at the Archives of the Archives of the Archives Company of Liu Transportation"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "该影像在刘公运档案公司档案馆运行."
+        }
+      }
+    },
     "/blogs/thong-bao": {},
     "/blogs/thong-bao/lich-nghi-le-30-04-va-01-05-2022": {},
     "/blogs/thong-bao/lich-nghi-le-quoc-khanh-02-09-2026": {},
@@ -15728,7 +15872,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T18:13:11.304793+00:00",
+      "checked_at": "2026-11-17T18:35:15.809055+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15748,7 +15892,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T18:13:23.838916+00:00",
+      "checked_at": "2026-11-17T18:35:28.268721+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15780,7 +15924,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T18:13:18.269758+00:00",
+      "checked_at": "2026-11-17T18:35:22.619077+00:00",
       "languages": {
         "en": {
           "ok": true,
