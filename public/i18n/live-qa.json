@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T19:43:46.681391+00:00",
+  "tested_at": "2026-11-17T20:05:25.566487+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 855,
-  "public_routes_pending": 81,
+  "public_routes_verified": 863,
+  "public_routes_pending": 73,
   "public_routes_failed": 2,
   "failed_examples": [
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
@@ -16235,14 +16235,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam": {},
-    "/blogs/van-chuyen-bac-nam/xe-khach-bac-nam": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-buu-dien-tu-ha-noi-vao-sai-gon": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-may-bay-ha-noi-sai-gon": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-tu-ha-noi-vao-sai-gon-bao-lau": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon": {},
+    "/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam": {
+      "fingerprint": "f83e271afe0ac625",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:04:38.124385+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "North Central Central Transport Service [United, Quick, Cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "中北交通局[联合,快,便宜]."
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/xe-khach-bac-nam": {
+      "fingerprint": "ccc7d12892ebe975",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:04:44.333254+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Of North South's passenger traffic [Team, car, ticket price]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "在南北客运量中[团队,车,票价]."
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon": {
+      "fingerprint": "38786cc9ebde9962",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:04:50.927965+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transporte of Hanoi Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内西贡运输公司"
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon": {
+      "fingerprint": "2ac25e42582f91c4",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:04:57.157391+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Moving from Hanoi to Saigon: Quick, Cheap, Safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到西贡:快,便宜,安全"
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-buu-dien-tu-ha-noi-vao-sai-gon": {
+      "fingerprint": "abf73b5e1ece62ed",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:05:04.568221+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long will it take to send the post from Hanoi to Saigon?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到西贡要多久?"
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-may-bay-ha-noi-sai-gon": {
+      "fingerprint": "14873445f99e3b20",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:05:11.454219+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Notes when sending a shipment of Saigon Hanoi aircraft"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发运西贡河内飞机时的说明"
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-tu-ha-noi-vao-sai-gon-bao-lau": {
+      "fingerprint": "abe1ccd94a3fb5c9",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:05:18.534914+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long does it take to transport from Hanoi to Saigon?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内到西贡需要多长时间?"
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon": {
+      "fingerprint": "32fec6f037f31f67",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:05:25.529942+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send motorcycles from Hanoi to Saigon: Safety, Saving Price"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把摩托车从河内送到西贡:安全,节省价格"
+        }
+      }
+    },
     "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-o-to-tu-ha-noi-vao-sai-gon": {},
     "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon": {},
     "/blogs/van-chuyen-lien-tinh": {},
@@ -16303,7 +16447,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T19:42:35.427982+00:00",
+      "checked_at": "2026-11-17T20:04:19.243500+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16323,7 +16467,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T19:42:48.544009+00:00",
+      "checked_at": "2026-11-17T20:04:31.168160+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16355,7 +16499,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "fail",
-      "checked_at": "2026-11-17T19:42:42.617851+00:00",
+      "checked_at": "2026-11-17T20:04:25.778082+00:00",
       "languages": {
         "en": {
           "ok": true,
