@@ -1,14 +1,13 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T22:38:52.254960+00:00",
+  "tested_at": "2026-11-17T23:01:23.412081+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 919,
-  "public_routes_pending": 17,
-  "public_routes_failed": 2,
+  "public_routes_verified": 928,
+  "public_routes_pending": 8,
+  "public_routes_failed": 1,
   "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
-    "/search"
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -17451,11 +17450,29 @@
         }
       }
     },
-    "/collections/onsale": {},
+    "/collections/onsale": {
+      "fingerprint": "d9927fa0eda178b1",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:00:36.213335+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Commendation Product"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "赞扬产品"
+        }
+      }
+    },
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T22:37:40.568522+00:00",
+      "checked_at": "2026-11-17T23:00:16.512967+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17471,11 +17488,29 @@
         }
       }
     },
-    "/pages/chuyen-nha-tron-goi": {},
+    "/pages/chuyen-nha-tron-goi": {
+      "fingerprint": "78beffb1c496f157",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:00:43.162437+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The package transfer service [United, safe, professional]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "包传输服务[联合,安全,专业]."
+        }
+      }
+    },
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T22:37:53.456139+00:00",
+      "checked_at": "2026-11-17T23:00:30.057771+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17491,12 +17526,120 @@
         }
       }
     },
-    "/pages/dich-vu-van-chuyen": {},
-    "/pages/form-dien-thong-tin": {},
-    "/pages/gioi-thieu": {},
-    "/pages/gui-hang-mien-bac-di-nam": {},
-    "/pages/gui-hang-mien-nam-di-bac": {},
-    "/pages/gui-hang-tu-ha-noi-di-cac-mien": {},
+    "/pages/dich-vu-van-chuyen": {
+      "fingerprint": "bf5243b5f32db1bc",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:00:50.424230+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation Services, Trucks, National Transportation"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "运输服务、卡车、国家运输"
+        }
+      }
+    },
+    "/pages/form-dien-thong-tin": {
+      "fingerprint": "a69623a16de4bb50",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:00:56.754265+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Form related information requires the price of cargo transport!"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "表格相关信息要求货运价格!"
+        }
+      }
+    },
+    "/pages/gioi-thieu": {
+      "fingerprint": "dfa18980e182ffa9",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:01:03.099551+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Introducing the Northern South Transportation Company"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "引进北方南方运输公司"
+        }
+      }
+    },
+    "/pages/gui-hang-mien-bac-di-nam": {
+      "fingerprint": "31eb6619bbcc64e2",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:01:09.895717+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the Northern provinces enters the South"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北方各省的送货服务进入南方"
+        }
+      }
+    },
+    "/pages/gui-hang-mien-nam-di-bac": {
+      "fingerprint": "57bad50c59bb3030",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:01:16.569956+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from the southern provinces went to the North"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从南方各省到北方的送货服务"
+        }
+      }
+    },
+    "/pages/gui-hang-tu-ha-noi-di-cac-mien": {
+      "fingerprint": "411be5ebbc40e6c1",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:01:23.382307+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from Hanoi travels nationwide."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "河内送货服务在全国范围内出行."
+        }
+      }
+    },
     "/pages/lien-he": {},
     "/pages/tra-cuu-gia-cuoc-van-chuyen": {},
     "/pages/tra-cuu-van-don": {},
@@ -17506,8 +17649,8 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "4fba10d93c535f75",
-      "status": "fail",
-      "checked_at": "2026-11-17T22:37:47.677675+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-17T23:00:23.963682+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17516,15 +17659,9 @@
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
-            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
-            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }

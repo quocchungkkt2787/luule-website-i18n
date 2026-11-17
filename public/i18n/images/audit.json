@@ -21358,6 +21358,119 @@
       "ocr_excerpt": "",
       "status": "no_vietnamese_detected"
     },
+    "https://file.hstatic.net/1000191021/file/click_here_small.jpg": {
+      "status": "unsupported_dimensions"
+    },
+    "https://file.hstatic.net/1000191021/file/co_nhieu_loai_hinh_van_tai_khac_nhau_09fee82800494b5cb59e6e81d6b1f008.jpg": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "/AN TÀI LƯU LE Có nhiều loại hình vận tải khác nhau",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/co_rat_nhieu_cac_loai_hinh_van_tai_421944b71c284ad9a27fa60c7a2acba4.jpg": {
+      "confident_word_count": 11,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VAN TAIL `... Có rất nhiều các loại hình vận tải",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/co_so_ha_tang_cua_kcn_amata_duoc_dau_tu_va_xay_dung_vo_cung_hoan_chinh_3b725f5eb94a45f9ae58e0e1ecaf78c9.jpg": {
+      "confident_word_count": 24,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN TÀI LƯU LE pMAT hin ral Cơ sở ha tang của KCN Amata được đầu tư và xây dựng vô cùng hoàn chỉnh",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/co_so_vat_chat_kcn_que_vo_1__2__3_a0d96bd8532542bf9e1edbf55ddaa1aa_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "=> Cơ Sở Vật Chat KCN Qué Võ 1, 2,",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/co_so_vat_chat_trong_kcn_tan_hung_duoc_trang_bi_vo_cung_day_du__1__b893ef08e0304fca926ec46212836eb8.jpg": {
+      "confident_word_count": 15,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Co sở vật chất trong KCN Tân Hung được trang bị vô cùng đầy đủ",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/co_the_di_chuyen_tu_tp_ho_chi_minh_di_bac_lieu_bang_xe_may_3babac463c10481db4f05d5f6bfeb8c1.jpg": {
+      "confident_word_count": 20,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "he VẬN TÀI LƯU LE Co thé di chuyén tir TP Hô Chi Minh di Bac Liéu bang xe may",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/cong-ty-dong-tau-ha-long_91940428e1da48be9e841b0f96f2faf7_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Mi LL",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/cong_an_xa_co_quyen_bat_xe_khong_7526d5f90ee34acab3b5b77ec1cd8f01_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "ae hy nxa ^¿ VỆ khong? (.",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/container-tra-cuu_1aa384441bc1484e818acd3fe5824442_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "if",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/container-tra-cuu__1__f8620f69b81e45fcad795bbedf6da40f_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "=> Cách tra cứu container trên bãi nhanh chóng",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/cu-chi_b1d98f7d14de4f6798c0920b9f86340b_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "lÍ pe Kinh nghiệm chuyển nhà tại Củ Chi cần",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -21389,11 +21502,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2148,
-  "images_unscanned": 942,
+  "images_scanned": 2160,
+  "images_unscanned": 930,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 11,
-  "possibly_vietnamese": 1860,
+  "possibly_vietnamese": 1869,
   "unique_public_images": 3090,
   "version": 1
 }

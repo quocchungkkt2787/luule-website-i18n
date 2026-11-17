@@ -2,11 +2,6 @@
   "discovered_public_urls": 987,
   "inactive_redirects_or_404": [
     {
-      "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
-      "reason": "redirect_alias",
-      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
-    },
-    {
       "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin; Browser: browser redirected to https://vantailuule.vn/blogs/chinh-sach-cong-ty/bao-mat-thong-tin",
       "reason": "redirect_alias",
       "url": "https://vantailuule.vn/pages/chinh-sach-bao-mat"
@@ -272,7 +267,7 @@
       "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
     }
   ],
-  "missing_packs_in_discovered_routes": 0,
+  "missing_packs_in_discovered_routes": 1,
   "page_budget": 1200,
   "published_pack_files_total": 938,
   "required_pages_found": [
@@ -283,7 +278,12 @@
   ],
   "required_pages_missing": [],
   "sitemap_urls": 822,
-  "skipped_or_failed": [],
+  "skipped_or_failed": [
+    {
+      "error": "HTTP: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')); Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
+      "url": "https://vantailuule.vn/pages/dich-vu-van-chuyen-xe-may-bang-tau-hoa"
+    }
+  ],
   "successful_public_pages": 933,
   "unvisited_count": 0,
   "unvisited_examples": [],
