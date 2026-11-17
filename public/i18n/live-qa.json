@@ -1,14 +1,13 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T20:05:25.566487+00:00",
+  "tested_at": "2026-11-17T20:27:33.162093+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 863,
-  "public_routes_pending": 73,
-  "public_routes_failed": 2,
+  "public_routes_verified": 872,
+  "public_routes_pending": 64,
+  "public_routes_failed": 1,
   "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
-    "/search"
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -16387,14 +16386,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-o-to-tu-ha-noi-vao-sai-gon": {},
-    "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon": {},
-    "/blogs/van-chuyen-lien-tinh": {},
-    "/blogs/van-chuyen-lien-tinh/van-chuyen-hang-cong-kenh-lien-tinh": {},
-    "/blogs/van-chuyen-lien-tinh/van-chuyen-xe-may-lien-tinh": {},
-    "/blogs/van-chuyen-logistics": {},
-    "/blogs/van-chuyen-logistics/1pl-2pl-3pl-4pl-trong-hoat-dong-logistics": {},
-    "/blogs/van-chuyen-logistics/cac-phuong-thuc-van-tai-trong-logistics": {},
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-o-to-tu-ha-noi-vao-sai-gon": {
+      "fingerprint": "9e226e38f3fcca4b",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:26:40.340374+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service sends cars from Hanoi to Saigon cheap, prestigious"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "服务从河内送车到西贡 便宜又有声望"
+        }
+      }
+    },
+    "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon": {
+      "fingerprint": "4601cbe410e62f5b",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:26:46.995791+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Bills sent from Hanoi into cheap Saigon"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从河内寄到廉价西贡的钞票"
+        }
+      }
+    },
+    "/blogs/van-chuyen-lien-tinh": {
+      "fingerprint": "0dc2ae0d231d66c1",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:26:55.183438+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Associated freight service[ Cheap, trusting..."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "相关的货运服务[便宜,信任."
+        }
+      }
+    },
+    "/blogs/van-chuyen-lien-tinh/van-chuyen-hang-cong-kenh-lien-tinh": {
+      "fingerprint": "5a2842efa1338efd",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:27:03.331424+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Commercial Transportation of Melanthius [ Safety, Saving]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "梅兰修斯商业运输[安全,保存]"
+        }
+      }
+    },
+    "/blogs/van-chuyen-lien-tinh/van-chuyen-xe-may-lien-tinh": {
+      "fingerprint": "d4733b7bac460977",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:27:11.020682+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Cheap, prestigious Convenient Machine Transport Service"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "廉价、有声望的方便机器运输处"
+        }
+      }
+    },
+    "/blogs/van-chuyen-logistics": {
+      "fingerprint": "627ec4d9afa43f0d",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:27:17.990548+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transportation of Logistics: Save CP, maximize profit"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "物流运输:节省CP,最大利润"
+        }
+      }
+    },
+    "/blogs/van-chuyen-logistics/1pl-2pl-3pl-4pl-trong-hoat-dong-logistics": {
+      "fingerprint": "a8eb7b2cd53f75fe",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:27:26.396402+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "1PL, 2PL, 3PL and 4PL in what are the Logistics operations?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "后勤业务中有哪些PL、2PL、3PL和4PL?"
+        }
+      }
+    },
+    "/blogs/van-chuyen-logistics/cac-phuong-thuc-van-tai-trong-logistics": {
+      "fingerprint": "37f253e150652af7",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:27:33.132656+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The weakness of transportation methods in Logistics"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "后勤部门运输方法薄弱"
+        }
+      }
+    },
     "/blogs/van-chuyen-logistics/so-sanh-dich-vu-van-chuyen-hang-hoa-va-dich-vu-logistics": {},
     "/blogs/van-chuyen-noi-dia": {},
     "/blogs/van-chuyen-noi-dia/cac-luu-y-o-hop-dong-dich-vu-van-chuyen-hang-hoa-noi-dia": {},
@@ -16447,7 +16590,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T20:04:19.243500+00:00",
+      "checked_at": "2026-11-17T20:26:18.982928+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16467,7 +16610,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T20:04:31.168160+00:00",
+      "checked_at": "2026-11-17T20:26:32.260591+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16498,8 +16641,8 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "4fba10d93c535f75",
-      "status": "fail",
-      "checked_at": "2026-11-17T20:04:25.778082+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-17T20:26:26.064547+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16508,15 +16651,9 @@
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
-            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
-            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }
