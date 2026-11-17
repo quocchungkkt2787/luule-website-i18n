@@ -15491,6 +15491,126 @@
       "ocr_excerpt": "=— Vẻ",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/1-cac-loai-cont_ff4f59cf49a341c3a8e8cb99f8096d91_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        328
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "to 3œ",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/1-cach-chinh-kim-xang-xe-may_f8b38fb0020c411fa8c66ebffb5cb98b_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        480,
+        312
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Cách chỉnh kim xăng xe (2 máy",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/1-cach-ghi-ma-ma-van-don-giao-hang-tiet-kiem_ff9a6a09571c490e924a8f016207dd8c_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        398
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "mm vì",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/1-cach-nhap-hang-tu-han-quoc-ve-viet-nam_b296aa57d92f49dabb2cc77943688520_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        330
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "„ÉP bs A\\S",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/1-cach-tinh-cuoc-van-chuyen-duong-sat_5fe15785c53842528e510bc66b920f55_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        276
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "as",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/1-cach-tinh-met-khoi-thung-carton_aabf90703f26445db1893a0f78b5bdba_grande.png": {
+      "confident_word_count": 22,
+      "dimensions": [
+        600,
+        401
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Biết cách tính khối lượng thùng carton sẽ tìm được phương án vận chuyển phù hợp, tiết kiệm chỉ phí tối đa",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/1-cach-van-chuyen-hang-de-vo_cf67051721c84d399c8733de02e01d91_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "CHÚ Ý! HANG DE VG le) <a m„ ve",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/1-chanh-xe-la-gi_7fbbf88a5eb444acb154001166acf524_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/1-chanh-xe-to-chau-can-tho_cebd78f4c43b477aa78b0bf88dd53106_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "f= =4 _== Chành xe Tô Châu Cần an toan",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/1-chieu-cao-xe-container_26addc69d7644795822f6a03b351523d_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        396
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "MAERSK",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/1-chuyen-nha-duong-dai_7dc7c97722534814a909fa1df27f9560_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/1-chuyen-nha-nen-chuyen-gi-vao-truoc_1b783c9ee8264132a9fbd12968f23b46_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        510
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN T. mm",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://file.hstatic.net/1000191021/file/3.quy-trinh-gui-hang-sai-gon-kcn-cai-lan-cua-cong-ty-van-tai-luu-le_5e0f01460bf3496589378bd276afd0bb_grande.jpg": {
       "confident_word_count": 20,
       "dimensions": [
@@ -15542,11 +15662,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 1560,
-  "images_unscanned": 1530,
+  "images_scanned": 1572,
+  "images_unscanned": 1518,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 9,
-  "possibly_vietnamese": 1430,
+  "possibly_vietnamese": 1437,
   "unique_public_images": 3090,
   "version": 1
 }
