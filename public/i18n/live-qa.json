@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T17:51:32.594700+00:00",
+  "tested_at": "2026-11-17T18:14:17.846236+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 817,
-  "public_routes_pending": 119,
+  "public_routes_verified": 825,
+  "public_routes_pending": 111,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -15476,14 +15476,158 @@
         }
       }
     },
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-bac-ninh": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ha-nam": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ha-noi": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-hai-duong": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-hai-phong": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-hung-yen": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-nam-dinh": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ninh-binh": {},
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-bac-ninh": {
+      "fingerprint": "cd0bcaa8f6450e8c",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:13:30.621384+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service rating sent from the Chinese Gong to North Ning"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "由\"中正\"到\"北宁\"的服役评分"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ha-nam": {
+      "fingerprint": "57ef231bd83bce24",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:13:36.902902+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the Chinese to Hannan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "中国人寄给汉南的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ha-noi": {
+      "fingerprint": "3396cfd07538c11e",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:13:44.438467+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service fee bill from the Chinese to Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "中国人到河内的服务费账单"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-hai-duong": {
+      "fingerprint": "8a0ff59aeddf65c6",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:13:51.402207+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping rating from the Pirate Bay to Ocean"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从海盗湾到海洋的航运评级"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-hai-phong": {
+      "fingerprint": "a1a8dc131b9325a8",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:13:57.666818+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The shipping ratings from the Ship to Sea Hall"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从\"船\"到\"海洋\"的航运收视率"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-hung-yen": {
+      "fingerprint": "940089e28c2e491e",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:14:04.355488+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the Chinese station to Hong Kong"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "中文站发往香港的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-nam-dinh": {
+      "fingerprint": "85848174722de48b",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:14:11.164853+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the Chinese Gong to South Korea"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从中克到韩国的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ninh-binh": {
+      "fingerprint": "5fc06fe0ecb42b8d",
+      "status": "pass",
+      "checked_at": "2026-11-17T18:14:17.790330+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from the Chinese Gong to Ninh Ping"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从中克到宁平的服务图"
+        }
+      }
+    },
     "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-phu-tho": {},
     "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-quang-ninh": {},
     "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-thai-nguyen": {},
@@ -15584,7 +15728,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T17:50:25.944624+00:00",
+      "checked_at": "2026-11-17T18:13:11.304793+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15604,7 +15748,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T17:50:38.671825+00:00",
+      "checked_at": "2026-11-17T18:13:23.838916+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15636,7 +15780,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T17:50:33.056358+00:00",
+      "checked_at": "2026-11-17T18:13:18.269758+00:00",
       "languages": {
         "en": {
           "ok": true,
