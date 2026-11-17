@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T21:11:56.906625+00:00",
+  "tested_at": "2026-11-17T21:33:04.210486+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 888,
-  "public_routes_pending": 48,
+  "public_routes_verified": 896,
+  "public_routes_pending": 40,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
@@ -16842,14 +16842,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-giang": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-ninh": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-ha-nam": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-hai-duong": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-hai-phong": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-hung-yen": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-nam-dinh": {},
-    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-ninh-binh": {},
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-giang": {
+      "fingerprint": "d62005c4a5110fac",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:16.755919+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from TpHCM to North Jiang [ Cheap, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从TpHCM到北江的送货服务[便宜,安全]"
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-ninh": {
+      "fingerprint": "732f5717c7fb536a",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:24.390903+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from TpHCM to North Ning [fast, cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从TpHCM送到北宁[快,便宜]."
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-ha-nam": {
+      "fingerprint": "f64dc8371c78dcb4",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:30.954908+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from TpHCM to Henan [Stat pack, delivered place]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从TpHCM送到河南[标本包,交付地点]."
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-hai-duong": {
+      "fingerprint": "4d2878b0ab2d528b",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:37.932497+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Package service from TpHCM to Ocean [Uy Trust, Good Price]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从TpHCM到海洋的软件包服务[Uy Trust, Good Price]"
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-hai-phong": {
+      "fingerprint": "5df52404099e7ed5",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:44.388698+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from TpHCM to Seats[fast, safe, good price]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从TpHCM送到Seats[快、安全、好价"
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-hung-yen": {
+      "fingerprint": "598c33959b97c780",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:50.792959+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from TpHCM tongs [safe, save]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM的送货服务 [安全,保存]"
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-nam-dinh": {
+      "fingerprint": "74f65226392569df",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:32:57.438567+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from TpHCM to South Korea [safe, fair price]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从TpHCM送到韩国[安全,公平的价"
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-ninh-binh": {
+      "fingerprint": "9fcbe1de4dc0135b",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:33:04.179611+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the package from TpHCM to Ninh Ping[ Cheap, on-date.]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把包裹从TpHCM送到宁平[便宜,日期]."
+        }
+      }
+    },
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-phu-tho": {},
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-quang-ninh": {},
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-thai-binh": {},
@@ -16878,7 +17022,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T21:10:48.896831+00:00",
+      "checked_at": "2026-11-17T21:31:57.085605+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16898,7 +17042,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T21:11:01.897386+00:00",
+      "checked_at": "2026-11-17T21:32:10.028208+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16930,7 +17074,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T21:10:56.219093+00:00",
+      "checked_at": "2026-11-17T21:32:04.183828+00:00",
       "languages": {
         "en": {
           "ok": true,
