@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T08:01:23.850689+00:00",
+  "tested_at": "2026-11-17T08:24:41.602506+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 609,
-  "public_routes_pending": 327,
+  "public_routes_verified": 617,
+  "public_routes_pending": 319,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -11525,9 +11525,9 @@
       }
     },
     "/blogs/gui-hang-mien-nam-di-trung/chuyen-hang-vung-tau-vinh-nghe-an": {
-      "fingerprint": "f50659b871422c4c",
+      "fingerprint": "7d64ca021df0d372",
       "status": "pass",
-      "checked_at": "2026-11-15T18:03:29.606957+00:00",
+      "checked_at": "2026-11-17T08:23:53.212428+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11544,9 +11544,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam": {
-      "fingerprint": "4b6fbec958d903ab",
+      "fingerprint": "b43028489f361dc2",
       "status": "pass",
-      "checked_at": "2026-11-15T18:23:43.099518+00:00",
+      "checked_at": "2026-11-17T08:23:59.843988+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11563,9 +11563,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-duong": {
-      "fingerprint": "d21700b8c091cfa1",
+      "fingerprint": "77b8fe39e6f144ca",
       "status": "pass",
-      "checked_at": "2026-11-15T18:23:49.566860+00:00",
+      "checked_at": "2026-11-17T08:24:06.199335+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11582,9 +11582,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-binh-phuoc": {
-      "fingerprint": "8f9c5b7db31af7c8",
+      "fingerprint": "399ae94c7dbf726a",
       "status": "pass",
-      "checked_at": "2026-11-15T18:23:55.835083+00:00",
+      "checked_at": "2026-11-17T08:24:12.560122+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11601,9 +11601,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-dong-nai": {
-      "fingerprint": "d21a7f99345ddbca",
+      "fingerprint": "c86a829fbb8333c1",
       "status": "pass",
-      "checked_at": "2026-11-15T18:24:02.056695+00:00",
+      "checked_at": "2026-11-17T08:24:18.915151+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11620,9 +11620,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-long-an": {
-      "fingerprint": "352f50090fa38598",
+      "fingerprint": "07e2a6d070c4ad3e",
       "status": "pass",
-      "checked_at": "2026-11-15T18:24:08.434583+00:00",
+      "checked_at": "2026-11-17T08:24:27.400011+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11639,9 +11639,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-sai-gon": {
-      "fingerprint": "0f34d446c48818a5",
+      "fingerprint": "5f5216f05c94d717",
       "status": "pass",
-      "checked_at": "2026-11-15T18:24:15.256522+00:00",
+      "checked_at": "2026-11-17T08:24:33.996913+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11658,9 +11658,9 @@
       }
     },
     "/blogs/gui-hang-nb-mien-nam/chuyen-hang-ninh-binh-tay-ninh": {
-      "fingerprint": "a6ea83331be14a2d",
+      "fingerprint": "05d3c81d8f615fe8",
       "status": "pass",
-      "checked_at": "2026-11-15T18:24:22.779324+00:00",
+      "checked_at": "2026-11-17T08:24:41.568018+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-17T08:00:15.238950+00:00",
+      "checked_at": "2026-11-17T08:23:33.832375+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T08:00:29.034086+00:00",
+      "checked_at": "2026-11-17T08:23:46.675317+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15202,9 +15202,9 @@
     "/pages/van-chuyen-hang-tu-tphcm-di-cac-mien": {},
     "/pages/xe-tai-cho-hang": {},
     "/search": {
-      "fingerprint": "75fd0a1ba58d0e36",
+      "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T08:00:23.674378+00:00",
+      "checked_at": "2026-11-17T08:23:41.055613+00:00",
       "languages": {
         "en": {
           "ok": true,

@@ -20,6 +20,10 @@
       "en": "(do not count the day of the delivery, the holiday, the holiday, or the inevitability cases such as natural disasters, epidemics...). However, specific time may vary depending on the starting point, destination, and type of goods.",
       "zh": "(不计算送货日期,节假日,节假日,或者自然灾害,流行病等不可避免的情况. ). 然而,具体时间可能因货物的起点、目的地和类型而异。"
     },
+    "(trên 350 kg/m³ là hàng nặng; từ 350 kg/m³ trở xuống là hàng nhẹ).": {
+      "en": "(on 350 kg/m3 is heavy; from 350 kg/m3 to down is light row).",
+      "zh": "(350公斤/立方米为重型;从350公斤/立方米到下行为轻排)."
+    },
     "(trọn gói)": {
       "en": "(full package)",
       "zh": "(整套资料)"
@@ -31,6 +35,10 @@
     "0Bình luận": {
       "en": "0 Comments",
       "zh": "0条评论"
+    },
+    "1 m³ = 350 kg": {
+      "en": "1 m3 = 350 kg",
+      "zh": "1立方米=350公斤"
     },
     "1.000đ/kg": {
       "en": "1,000 mph/kg",
@@ -668,6 +676,26 @@
       "en": "The default train is",
       "zh": "默认列车是"
     },
+    "Cước và phụ phí phụ thuộc địa chỉ thực tế, kg/m³, loại hàng, quy cách đóng gói và dịch vụ bổ sung;": {
+      "en": "AisleRiot and subdivision of real address, kilogram/m3, row type, regular way of packing and additional service;",
+      "zh": "实际地址、公斤/立方米、行型、常规包装方式和额外服务等的AisleRiot和分区;"
+    },
+    "Cước vận chuyển hàng nhẹ/cồng kềnh Hà Nội đi Sài Gòn:": {
+      "en": "Mohammad shipping light/song of Hanoi to Saigon:",
+      "zh": "默罕默德将河内灯光/歌曲运送到西贡:"
+    },
+    "Cước vận chuyển hàng nhẹ/cồng kềnh Sài Gòn đi Hà Nội:": {
+      "en": "Mohammad shipping light/song of Saigon to Hanoi:",
+      "zh": "穆罕默德将西贡的轻型/歌曲运至河内:"
+    },
+    "Cước vận chuyển hàng nặng Hà Nội đi Sài Gòn:": {
+      "en": "Vivian's heavy shipment to Saigon:",
+      "zh": "薇薇安到西贡的重货:"
+    },
+    "Cước vận chuyển hàng nặng Sài Gòn đi Hà Nội:": {
+      "en": "The Saigon Heavy Transportation to Hanoi:",
+      "zh": "西贡重运至河内:"
+    },
     "Cước xe lấy và xe giao mỗi đầu từ": {
       "en": "Cars and cars delivered each end from",
       "zh": "车厢和车厢每端都从"
@@ -795,6 +823,10 @@
     "Giao nhận tân nơi:": {
       "en": "New assignment:",
       "zh": "新任务 :"
+    },
+    "Giá cước = cước vận chuyển chính + phí lấy hàng và giao hàng theo phương án đã chọn.": {
+      "en": "The bill = the main shipping rate + the fee for the purchase and delivery as selected.",
+      "zh": "账单=主运价+选购交货费."
     },
     "Giá cước cạnh tranh:": {
       "en": "The competing rating:",
@@ -951,6 +983,14 @@
     "Gửi xe máy Bắc Nam": {
       "en": "North–South Motorcycle Shipping",
       "zh": "南北摩托车托运"
+    },
+    "Gửi xe máy bằng tàu hỏa Bắc–Nam:": {
+      "en": "Send a Northern–Nam train car:",
+      "zh": "发送北-南列车:"
+    },
+    "Gửi ô tô bằng đường sắt Bắc–Nam:": {
+      "en": "Send cars by North–Nam Railroad:",
+      "zh": "通过北南铁路发送车辆:"
     },
     "HOTLINE": {
       "en": "Hotline",
@@ -1515,6 +1555,10 @@
     "Tra cước vận chuyển": {
       "en": "Freight Rate Lookup",
       "zh": "运费查询"
+    },
+    "Tra cứu cước vận chuyển đường sắt trực tuyến": {
+      "en": "Look up online rail transfers",
+      "zh": "查询网上铁路转账"
     },
     "Tra cứu vận đơn": {
       "en": "Search for Singles",
@@ -2132,6 +2176,10 @@
       "en": "Safe, prestigious, super cheap!",
       "zh": "安全,有声望,超便宜!"
     },
+    "chi phí cần xác nhận theo loại xe, kích thước, phương án và địa điểm giao nhận. Vui lòng": {
+      "en": "The costs need to be confirmed according to the type of car, size, method, and location of the transfer. Please.",
+      "zh": "有关费用需要根据车辆的类型、大小、方法和转移地点加以确认。 请"
+    },
     "chất lượng cao, đáp ứng mọi nhu cầu vận chuyển. Hãy cùng Lưu Lê đi khám phá chi tiết dịch vụ nhé!": {
       "en": "High quality, meeting all transportation demands. Let Liu go explore the service details",
       "zh": "高质量,能满足所有交通需求. 让刘少奇去探究服务细节"
@@ -2160,6 +2208,14 @@
       "en": "g (based on site)",
       "zh": "g(按现场计算)"
     },
+    "giá dự kiến phụ thuộc loại xe, số lượng, bọc bảo vệ và cách giao nhận.": {
+      "en": "The price is intended to depend on the type of car, quantity, protection and delivery.",
+      "zh": "价格取决于车型,数量,保护和交付."
+    },
+    "giá được tính theo địa điểm nhận/giao, hình thức giao nhận, trọng lượng, thể tích và dịch vụ phát sinh. Quy ước phân loại": {
+      "en": "The price is calculated according to the receiver/office site, form of protocol, weight, volume, and service. Organisation",
+      "zh": "价格按接收/办公地点、协议形式、重量、体积和服务计算。 日历"
+    },
     "gửi hàng tàu Bắc Nam": {
       "en": "Send North South ships",
       "zh": "派遣南北舰艇"
@@ -2167,6 +2223,10 @@
     "gửi hàng đường sắt": {
       "en": "Send the railroad",
       "zh": "送出铁路"
+    },
+    "hoặc gọi": {
+      "en": "or call",
+      "zh": "或打电话"
     },
     "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển khác,": {
       "en": "is one of today's most efficient and cost-effective transport methods? Compared with other options,",
@@ -2200,6 +2260,10 @@
       "en": "vantailule.vn",
       "zh": "vantailule.vn (英语)."
     },
+    "và chọn loại xe để xem mức cước đang áp dụng.": {
+      "en": "and choose the type of car to see the level of ID being applied.",
+      "zh": "并选择车型,以查看应用的ID级别。"
+    },
     "vận chuyển đường sắt": {
       "en": "railway transport",
       "zh": "铁路运输"
@@ -2219,6 +2283,10 @@
     "xe lấy +": {
       "en": "car get +",
       "zh": "汽车得到+"
+    },
+    "yêu cầu báo giá vận chuyển ô tô": {
+      "en": "Requesting car transport prices",
+      "zh": "申请汽车运输价格"
     },
     "© Vận Tải Lưu Lê · Dịch vụ vận chuyển hàng hóa toàn quốc": {
       "en": "© Vận Tải Lưu Lê · Nationwide Freight Transport",
@@ -2335,6 +2403,18 @@
     "đến": {
       "en": "Forward",
       "zh": "前进"
+    },
+    "để nhận tư vấn.": {
+      "en": "to receive counsel.",
+      "zh": "接受律师。"
+    },
+    "để xem chi tiết.": {
+      "en": "For details.",
+      "zh": "详曰."
+    },
+    "để xem cước dự kiến và phụ phí theo lô hàng. Cước được xác nhận lại trước khi gửi.": {
+      "en": "To see the expected and subsistence rate according to the shipment. Colombo was confirmed before sending.",
+      "zh": "根据装运情况看预期和生活津贴率。 科伦坡在发送前得到确认."
     },
     "để được tư vấn chi tiết nhất nhé!": {
       "en": "Let's get some details.",

@@ -2,6 +2,8 @@
   "complete": true,
   "missing_count": 0,
   "preview_sources": [
+    "Cước vận chuyển Hà Nội đi Sài Gòn không áp dụng một mức cố định cho mọi đơn hàng. Vui lòng nhập tuyến đường, thông tin hàng và phương thức giao nhận tại Tra cứu giá cước vận chuyển trực tuyến để tham khảo cước dự kiến. Giá cuối cùng được xác nhận theo điều kiện giao nhận thực tế.",
+    "Cước vận chuyển Hà Nội đi Sài Gòn không áp dụng một mức cố định cho mọi đơn hàng. Vui lòng nhập tuyến đường, thông tin hàng và phương thức giao nhận tạiTra cứu giá cước vận chuyển trực tuyếnđể tham khảo cước dự kiến. Giá cuối cùng được xác nhận theo điều kiện giao nhận thực tế.",
     "Dưới đây là bảng giá cơ bản để chuyển đồ từ Hà Nội vào Sài Gòn giá rẻ của công ty Vận Tải Lưu Lê, quý khách có thể tham khảo.",
     "Dưới đây là bảng giá cơ bản đểchuyển đồ từ Hà Nội vào Sài Gòngiá rẻ của công ty Vận Tải Lưu Lê, quý khách có thể tham khảo.",
     "Hiểu được điều này, Công ty Vận Tải Lưu Lê xin gửi tới quý khách hàng giá cước phí gửi hàng Hà Nội Sài Gòn bằng phương thức bằng tàu hỏa giá rẻ, chỉ từ 1.000đ/kg (hàng nặng) hoặc 360.000đ/m3 (hàng nhẹ) là quý khách đã có thể gửi hàng từ Hà Nội đi vào Sài Gòn.",
@@ -13,6 +15,10 @@
   ],
   "route": "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon",
   "texts": {
+    "1 m³ = 350 kg": {
+      "en": "1 m3 = 350 kg",
+      "zh": "1立方米=350公斤"
+    },
     "1,450,000đ": {
       "en": "1.40,000.",
       "zh": "1.40,000美元 (韩语)."
@@ -128,6 +134,10 @@
     "9.500.000đ": {
       "en": "9 MHz",
       "zh": "9兆赫"
+    },
+    "; trên 350 kg/m³ là hàng nặng, từ 350 kg/m³ trở xuống là hàng nhẹ. Tùy theo lô hàng có thể phát sinh bốc xếp, xe nâng, lưu kho và các dịch vụ bổ sung.": {
+      "en": "; over 350 kg/m3 is heavy, from 350 kg/m3 to down is light. Depending on the shipments that may arise in alignments, lifts, storage, and additional services.",
+      "zh": ";350千克/立方米以上为重型,从350千克/立方米到下游为轻型. 取决于在对齐、升降、储存和额外服务方面可能出现的货运情况。"
     },
     ">>> Xem đầy đủ chi tiết về dịch vụ:": {
       "en": "> DS view full details of service:",
@@ -317,6 +327,30 @@
       "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
       "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
     },
+    "Cước dự kiến dựa vào điểm nhận và giao, phương thức giao nhận, loại hàng, số kiện, khối lượng và thể tích. Quy ước phân loại:": {
+      "en": "The plan is based on the receiver and intersection, the protocol of the transfer, the type of row, the number of cases, mass and volume. Classification Convention:",
+      "zh": "计划以接收器和交接器,转接协议,行类型,案件数量,质量和体积为基础. 《分类公约》:"
+    },
+    "Cước dự kiến sẽ được Lưu Lê kiểm tra, xác nhận trước khi vận chuyển.": {
+      "en": "Lugo is expected to be examined by Liu, confirming before transport.",
+      "zh": "卢果有望接受刘某的检查,在运输前确认."
+    },
+    "Cước vận chuyển Hà Nội đi Sài Gòn không áp dụng một mức cố định cho mọi đơn hàng. Vui lòng nhập tuyến đường, thông tin hàng và phương thức giao nhận tại": {
+      "en": "Hanoi transport to Saigon does not apply a fixed level to every single order. Please enter route, shipping information and protocol at",
+      "zh": "河内至西贡的运输并不对每个单项订单适用固定等级. 请输入路由、 运输信息和协议 。"
+    },
+    "Cước vận chuyển Hà Nội đi Sài Gòn không áp dụng một mức cố định cho mọi đơn hàng. Vui lòng nhập tuyến đường, thông tin hàng và phương thức giao nhận tại Tra cứu giá cước vận chuyển trực tuyến để tham khảo cước dự kiến. Giá cuối cùng được xác nhận theo điều kiện giao nhận thực tế.": {
+      "en": "Hanoi transport to Saigon does not apply a fixed level to every single order. Please enter the route, delivery information and protocol at the Online Transporting Billing to refer to the expected bill. The final bid is confirmed in terms of actual delivery.",
+      "zh": "河内至西贡的运输并不对每个单项订单适用固定等级. 请在在线运输账单中输入路线,发送信息和协议,以提及预期的账单. 最终出价按实际交货情况确认."
+    },
+    "Cước vận chuyển Hà Nội đi Sài Gòn không áp dụng một mức cố định cho mọi đơn hàng. Vui lòng nhập tuyến đường, thông tin hàng và phương thức giao nhận tạiTra cứu giá cước vận chuyển trực tuyếnđể tham khảo cước dự kiến. Giá cuối cùng được xác nhận theo điều kiện giao nhận thực tế.": {
+      "en": "Hanoi transport to Saigon does not apply a fixed level to every single order. Please enter the route, delivery information, and protocol at Tra save the online transport rate for the expected slide. The final bid is confirmed in terms of actual delivery.",
+      "zh": "河内至西贡的运输并不对每个单项订单适用固定等级. 请输入路线,发送信息和协议 Tra 为预期的幻灯片保存在线传输率. 最终出价按实际交货情况确认."
+    },
+    "Cước vận chuyển hàng Hà Nội đi Sài Gòn được cập nhật theo công cụ tính cước của Vận Tải Lưu Lê.": {
+      "en": "Vivian shipping of Hanoi to Saigon is updated according to the post-regulation tool of the Media Archive.",
+      "zh": "Vivian航运河内至西贡 根据媒体档案的监管后工具更新."
+    },
     "DMCA.com Protection Status": {
       "en": "DMCA.com Protection UTC",
       "zh": "DMCA.com 保护世界协调世界时"
@@ -400,6 +434,18 @@
     "Ga Sóng Thần": {
       "en": "\"Pression of the Gods\"",
       "zh": "\"众神的预言\""
+    },
+    "Giá gửi xe máy Hà Nội đi Sài Gòn:": {
+      "en": "The price of the Hanoi motorcycle to Saigon:",
+      "zh": "河内摩托车到西贡的价格:"
+    },
+    "Giá vận chuyển ô tô Hà Nội đi Sài Gòn:": {
+      "en": "The cost of shipping the Hanoi car to Saigon:",
+      "zh": "河内汽车运往西贡的费用:"
+    },
+    "Giá vận chuyển đồ gia đình, văn phòng, kho xưởng Hà Nội đi Sài Gòn:": {
+      "en": "The price of family goods, offices, Hanoi workshops to Saigon:",
+      "zh": "家用物品的价格,办公室,河内车间到西贡:"
     },
     "Go": {
       "en": "Go",
@@ -701,6 +747,10 @@
       "en": "Freight Rate Lookup",
       "zh": "运费查询"
     },
+    "Tra cứu giá cước vận chuyển trực tuyến": {
+      "en": "Look up online shipping prices",
+      "zh": "在线航运价格上升"
+    },
     "Tra cứu vận đơn": {
       "en": "Search for Singles",
       "zh": "寻找单身者"
@@ -925,6 +975,18 @@
       "en": "moving things from Hanoi to Saigon",
       "zh": "把东西从河内搬到西贡"
     },
+    "cước phụ thuộc loại xe (xe số, xe ga, xe côn tay, xe điện, xe phân khối lớn), số lượng, địa chỉ gửi/nhận, cách giao nhận và nhu cầu bọc bảo vệ.": {
+      "en": "Subdivisions of car type (regulation, gas, handcars, trams, large blockcars), numbers, address/regulation, delivery, and protection needs.",
+      "zh": "车型细分(规范,燃气,手车,有轨电车,大块车),编号,地址/规范,交付,以及保护需求."
+    },
+    "cước tùy thuộc tổng khối lượng, thể tích, số kiện, dịch vụ đóng gói/bốc xếp và địa chỉ nhận giao.": {
+      "en": "The rating depends on the total mass, volume, number of lawsuits, package service/ordered service and the given address.",
+      "zh": "评分取决于总质量,量,诉讼次数,包裹服务/订单服务以及给定地址."
+    },
+    "cần biết dòng xe, kích thước, số lượng, lịch nhận giao và phương án vận chuyển. Vui lòng": {
+      "en": "needed car lines, sizes, numbers, delivery schedules and transport options. Please.",
+      "zh": "需要的汽车线路、尺寸、数量、交货时间表和运输选项。 请"
+    },
     "giá cước gửi hàng hà nội sài gòn": {
       "en": "The rate of sending death row",
       "zh": "送死率"
@@ -937,6 +999,10 @@
       "en": "Sent from Hanoi to cheap Saigon",
       "zh": "从河内送到廉价西贡"
     },
+    "gửi yêu cầu báo giá vận chuyển ô tô": {
+      "en": "Send a request to report car transport prices",
+      "zh": "发送一个报告汽车运输价格的请求"
+    },
     "hoặc": {
       "en": "either",
       "zh": "无论是"
@@ -945,6 +1011,10 @@
       "en": "or email:",
       "zh": "或电子邮件:"
     },
+    "hoặc gọi": {
+      "en": "or call",
+      "zh": "或打电话"
+    },
     "hết bao nhiêu tiền? Chi phí bao gồm những gì? Có phát sinh gì không? v.v...": {
       "en": "How much? What does the cost include? Did anything happen?",
       "zh": "多少钱? 费用包括什么? 发生什么事了吗?"
@@ -952,6 +1022,10 @@
     "là quý khách đã có thể gửi hàng từ Hà Nội đi vào Sài Gòn.": {
       "en": "is that you can send the package from Hanoi into Saigon.",
       "zh": "你可以把包裹从河内送到西贡"
+    },
+    "nếu cần khảo sát và báo giá trọn gói.": {
+      "en": "If you need to survey and report a full price.",
+      "zh": "如果需要调查并报告全价."
     },
     "phí": {
       "en": "fee",
@@ -973,6 +1047,10 @@
       "en": "vantailule@www.com for price-reviewing advice.",
       "zh": "vantailule@www.com 价格审查咨询。"
     },
+    "và chọn đúng loại xe để xem cước dự kiến và phụ phí.": {
+      "en": "and select the right car to view the expected and extras.",
+      "zh": "并选择查看预期值和额外值的正确车。"
+    },
     "Điều khoản công ty": {
       "en": "Company Terms",
       "zh": "公司条款"
@@ -988,6 +1066,22 @@
     "Đồ gia đình": {
       "en": "Household Goods",
       "zh": "家居物品"
+    },
+    "để tham khảo cước dự kiến cho hàng phù hợp, hoặc gọi": {
+      "en": "to refer to the expected referendum for suitable goods, or call",
+      "zh": "提及预期对合适货物进行的全民投票,或"
+    },
+    "để tham khảo cước dự kiến. Giá cuối cùng được xác nhận theo điều kiện giao nhận thực tế.": {
+      "en": "To referendum. The final bid is confirmed in terms of actual delivery.",
+      "zh": "敬全民公决 最终出价按实际交货情况确认."
+    },
+    "để xem cước, phụ phí và VAT theo thông tin đã nhập.": {
+      "en": "to view footnotes, fees, and VAT according to input information.",
+      "zh": "根据输入信息查看脚注、收费和增值税。"
+    },
+    "để xác nhận mức giá và điều kiện vận chuyển; không sử dụng bảng cước cố định cũ để báo giá.": {
+      "en": "to confirm the price and condition of transportation; do not use the old fixed card to report the price.",
+      "zh": "确认运输价格和条件; 不使用旧的固定卡报告价格。"
     },
     "™ Bảng giá cước phí gửi hàng từ Hà Nội vào Sài Gòn đối với hàng hóa là xe máy": {
       "en": "TM Bills Bills deposits from Hanoi into Saigon for the goods are motorcycles",

@@ -34,6 +34,10 @@
       "en": "(load) or",
       "zh": "(载)或"
     },
+    "1 m³ = 350 kg": {
+      "en": "1 m3 = 350 kg",
+      "zh": "1立方米=350公斤"
+    },
     "1.000 đ/kg": {
       "en": "1,000 km/kg",
       "zh": "1 000公里/千克"
@@ -141,6 +145,10 @@
     "9.500.000 VNĐ": {
       "en": "9 MINUTE",
       "zh": "9分钟"
+    },
+    "; trên 350 kg/m³ là hàng nặng, từ 350 kg/m³ trở xuống là hàng nhẹ. Tùy theo lô hàng có thể phát sinh bốc xếp, xe nâng, lưu kho và các dịch vụ bổ sung.": {
+      "en": "; over 350 kg/m3 is heavy, from 350 kg/m3 to down is light. Depending on the shipments that may arise in alignments, lifts, storage, and additional services.",
+      "zh": ";350千克/立方米以上为重型,从350千克/立方米到下游为轻型. 取决于在对齐、升降、储存和额外服务方面可能出现的货运情况。"
     },
     ">>> Xem thêm dịch vụ:": {
       "en": "> DSV See extra service:",
@@ -350,6 +358,22 @@
       "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
       "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
     },
+    "Cước dự kiến dựa vào điểm nhận và giao, phương thức giao nhận, loại hàng, số kiện, khối lượng và thể tích. Quy ước phân loại:": {
+      "en": "The plan is based on the receiver and intersection, the protocol of the transfer, the type of row, the number of cases, mass and volume. Classification Convention:",
+      "zh": "计划以接收器和交接器,转接协议,行类型,案件数量,质量和体积为基础. 《分类公约》:"
+    },
+    "Cước dự kiến sẽ được Lưu Lê kiểm tra, xác nhận trước khi vận chuyển.": {
+      "en": "Lugo is expected to be examined by Liu, confirming before transport.",
+      "zh": "卢果有望接受刘某的检查,在运输前确认."
+    },
+    "Cước vận chuyển Sài Gòn đi Hà Nội không áp dụng một mức cố định cho mọi đơn hàng. Vui lòng nhập tuyến đường, thông tin hàng và phương thức giao nhận tại": {
+      "en": "Mohammad transport Saigon to Hanoi does not apply a fixed level to every single order. Please enter route, shipping information and protocol at",
+      "zh": "默罕默德将西贡运至河内并不对每一个订单适用固定等级. 请输入路由、 运输信息和协议 。"
+    },
+    "Cước vận chuyển hàng Sài Gòn đi Hà Nội được cập nhật theo công cụ tính cước của Vận Tải Lưu Lê.": {
+      "en": "The Saigon freight transport to Hanoi is updated according to the ID tool of the Media Media.",
+      "zh": "西贡至河内货运根据媒体的ID工具更新."
+    },
     "DMCA.com Protection Status": {
       "en": "DMCA.com Protection UTC",
       "zh": "DMCA.com 保护世界协调世界时"
@@ -430,6 +454,10 @@
       "en": "The rate of shipping goods from Saigon to Hanoi by train will depend on many factors such as what kind of goods, how mass or volume occupys the goods, where the pick-up and delivery points are, etc. that the price of the overall will be different. You can contact Liu Li immediately to get the most accurate notice.",
       "zh": "列车从西贡到河内的货物运价取决于多种因素,例如货物种类,质量或体积如何占据货物,取货和交货点在哪里等,总体价格会有所不同. 你可以立刻联系刘力,得到最准确的通知."
     },
+    "Giá gửi xe máy Sài Gòn đi Hà Nội:": {
+      "en": "The cost of sending the Saigon motorcycle to Hanoi:",
+      "zh": "将西贡摩托车送往河内的费用:"
+    },
     "Giá ship hàng từ TpHCM ra Hà Nội đối với hàng hóa là xe máy": {
       "en": "The amount of cargo from TpHCM out of Hanoi for the goods is a motorcycle",
       "zh": "运出河内TpHCM的货物是摩托车"
@@ -449,6 +477,14 @@
     "Giá ship hàng từ TpHCM ra Hà Nội\"": {
       "en": "The amount of cargo from TpHCM out of Hanoi\"",
       "zh": "TpHCM运出河内的货物量\"."
+    },
+    "Giá vận chuyển ô tô Sài Gòn đi Hà Nội:": {
+      "en": "The cost of traveling Saigon cars to Hanoi:",
+      "zh": "西贡汽车前往河内的费用:"
+    },
+    "Giá vận chuyển đồ gia đình, văn phòng, kho xưởng Sài Gòn đi Hà Nội:": {
+      "en": "The price of family goods, offices, Saigon warehouses to Hanoi:",
+      "zh": "家用物品,办公室,西贡仓库到河内的价格:"
     },
     "Go": {
       "en": "Go",
@@ -670,6 +706,10 @@
       "en": "Internal Portal",
       "zh": "内部管理"
     },
+    "Phí bọc xe tùy loại xe, số lượng và dịch vụ đã chọn; hãy xem mức phí hiện hành trong": {
+      "en": "The car cover depends on the car type, number and service selected; see the current fee in",
+      "zh": "车盖取决于所选择的车型、车次和服务;参见当前收费"
+    },
     "Số lượng hàng < 10m3": {
       "en": "Number of goods [10 m3]",
       "zh": "货物数量 [10立方米]"
@@ -721,6 +761,10 @@
     "Tra cước vận chuyển": {
       "en": "Freight Rate Lookup",
       "zh": "运费查询"
+    },
+    "Tra cứu giá cước vận chuyển trực tuyến": {
+      "en": "Look up online shipping prices",
+      "zh": "在线航运价格上升"
     },
     "Tra cứu vận đơn": {
       "en": "Search for Singles",
@@ -958,6 +1002,18 @@
       "en": "by train for your referendum, let's find out what the rate is.",
       "zh": "列车进行全民公决 我们来查查费率"
     },
+    "cước phụ thuộc loại xe (xe số, xe ga, xe côn tay, xe điện, xe phân khối lớn), số lượng, địa chỉ gửi/nhận, cách giao nhận và nhu cầu bọc bảo vệ.": {
+      "en": "Subdivisions of car type (regulation, gas, handcars, trams, large blockcars), numbers, address/regulation, delivery, and protection needs.",
+      "zh": "车型细分(规范,燃气,手车,有轨电车,大块车),编号,地址/规范,交付,以及保护需求."
+    },
+    "cước tùy thuộc tổng khối lượng, thể tích, số kiện, dịch vụ đóng gói/bốc xếp và địa chỉ nhận giao.": {
+      "en": "The rating depends on the total mass, volume, number of lawsuits, package service/ordered service and the given address.",
+      "zh": "评分取决于总质量,量,诉讼次数,包裹服务/订单服务以及给定地址."
+    },
+    "cần biết dòng xe, kích thước, số lượng, lịch nhận giao và phương án vận chuyển. Vui lòng": {
+      "en": "needed car lines, sizes, numbers, delivery schedules and transport options. Please.",
+      "zh": "需要的汽车线路、尺寸、数量、交货时间表和运输选项。 请"
+    },
     "giá cước gửi hàng sài gòn hà nội": {
       "en": "The price of the bill sent to me.",
       "zh": "寄给我的账单的价格"
@@ -966,13 +1022,33 @@
       "en": "Cheap, safe, prestigious!",
       "zh": "便宜,安全,有声望!"
     },
+    "gửi yêu cầu báo giá vận chuyển ô tô": {
+      "en": "Send a request to report car transport prices",
+      "zh": "发送一个报告汽车运输价格的请求"
+    },
     "hoặc email:": {
       "en": "or email:",
       "zh": "或电子邮件:"
     },
+    "hoặc gọi": {
+      "en": "or call",
+      "zh": "或打电话"
+    },
+    "hoặc liên hệ": {
+      "en": "either contact",
+      "zh": "或联系人"
+    },
+    "nếu cần khảo sát và báo giá trọn gói.": {
+      "en": "If you need to survey and report a full price.",
+      "zh": "如果需要调查并报告全价."
+    },
     "vantailuule.vn": {
       "en": "vantailule.vn",
       "zh": "vantailule.vn (英语)."
+    },
+    "và chọn đúng loại xe để xem cước dự kiến và phụ phí.": {
+      "en": "and select the right car to view the expected and extras.",
+      "zh": "并选择查看预期值和额外值的正确车。"
     },
     "xe giao": {
       "en": "delivery car",
@@ -1002,6 +1078,10 @@
       "en": "For details of the cost of freight costs in general, would you please provide the required information and goods to be transported to the Media via the telephone",
       "zh": "有关一般运费的详细情况,请提供所需信息和货物,以便通过电话运送给媒体。"
     },
+    "Đối với chuyển nhà Sài Gòn đi Hà Nội, chi phí được báo theo khối lượng đồ, thể tích, yêu cầu đóng gói/bốc xếp và nơi lấy giao thực tế. Không áp dụng mức giá cố định từ bảng cũ;": {
+      "en": "For the Saigon move to Hanoi, the cost was reported according to mass, volume, requiring package/ordering and where the real delivery was taken. No fixed price application from the former table;",
+      "zh": "就西贡迁至河内而言,费用是根据质量、体积、需要包件/订货以及实际交货地点报告。 前表没有采用固定价格;"
+    },
     "Đồ gia đình": {
       "en": "Household Goods",
       "zh": "家居物品"
@@ -1010,9 +1090,29 @@
       "en": "Forward",
       "zh": "前进"
     },
+    "để tham khảo cước dự kiến cho hàng phù hợp, hoặc gọi": {
+      "en": "to refer to the expected referendum for suitable goods, or call",
+      "zh": "提及预期对合适货物进行的全民投票,或"
+    },
+    "để tham khảo cước dự kiến. Giá cuối cùng được xác nhận theo điều kiện giao nhận thực tế.": {
+      "en": "To referendum. The final bid is confirmed in terms of actual delivery.",
+      "zh": "敬全民公决 最终出价按实际交货情况确认."
+    },
+    "để xem cước, phụ phí và VAT theo thông tin đã nhập.": {
+      "en": "to view footnotes, fees, and VAT according to input information.",
+      "zh": "根据输入信息查看脚注、收费和增值税。"
+    },
+    "để xác nhận mức giá và điều kiện vận chuyển; không sử dụng bảng cước cố định cũ để báo giá.": {
+      "en": "to confirm the price and condition of transportation; do not use the old fixed card to report the price.",
+      "zh": "确认运输价格和条件; 不使用旧的固定卡报告价格。"
+    },
     "để được hỗ trợ.": {
       "en": "To be supported.",
       "zh": "受供养."
+    },
+    "để được tư vấn.": {
+      "en": "to be consulted.",
+      "zh": "待咨询。"
     },
     "√ Ga": {
       "en": "Ga",
