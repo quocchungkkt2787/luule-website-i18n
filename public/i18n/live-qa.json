@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T17:30:26.309336+00:00",
+  "tested_at": "2026-11-17T17:51:32.594700+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 809,
-  "public_routes_pending": 127,
+  "public_routes_verified": 817,
+  "public_routes_pending": 119,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -15324,14 +15324,158 @@
         }
       }
     },
-    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-binh-phuoc": {},
-    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-dong-nai": {},
-    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-long-an": {},
-    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-sai-gon": {},
-    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-tay-ninh": {},
-    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-vung-tau": {},
-    "/blogs/gui-hang-vt-mien-bac": {},
-    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-bac-giang": {},
+    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-binh-phuoc": {
+      "fingerprint": "ed9ca57c2e8b9653",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:50:45.874849+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from Wing Fu to Lucky"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从荣福寄到幸运的存款单"
+        }
+      }
+    },
+    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-dong-nai": {
+      "fingerprint": "e395769e69acb2a6",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:50:52.035362+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The bill of deposits sent from Wing Fu to Plain Nai"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从永福寄到平原的汇票"
+        }
+      }
+    },
+    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-long-an": {
+      "fingerprint": "6d52f023a288cfee",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:50:58.256584+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Please send a package from Wing Fu."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "请从荣福寄来包裹."
+        }
+      }
+    },
+    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-sai-gon": {
+      "fingerprint": "79917aa2512c6a66",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:51:05.082089+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Billings from Wing Fu to Saigon (TpHCM)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从任福到西贡的比林斯 (TpHCM)"
+        }
+      }
+    },
+    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-tay-ninh": {
+      "fingerprint": "c2da3fe994197a94",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:51:11.469898+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"Presidents of Services Sent From Wing Fu to Western Europe\""
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "\"从永福到西欧的服务主席\""
+        }
+      }
+    },
+    "/blogs/gui-hang-vp-mien-nam/chuyen-hang-vinh-phuc-vung-tau": {
+      "fingerprint": "9ec1cb3548fb72f2",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:51:17.902655+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service chart sent from Wing Fu to China"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "永福送来中国的服务图"
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac": {
+      "fingerprint": "411af2157fd2fa70",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:51:25.381964+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transported China (10) Northern provinces"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "运输中国(10)北方省份."
+        }
+      }
+    },
+    "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-bac-giang": {
+      "fingerprint": "a0ae3436ca78db89",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:51:32.569395+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The service rating sent from the Chinese Gong to North Jiang"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从中相到北江的服役评分"
+        }
+      }
+    },
     "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-bac-ninh": {},
     "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ha-nam": {},
     "/blogs/gui-hang-vt-mien-bac/chuyen-hang-vung-tau-ha-noi": {},
@@ -15440,7 +15584,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T17:29:20.695126+00:00",
+      "checked_at": "2026-11-17T17:50:25.944624+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15460,7 +15604,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T17:29:33.185301+00:00",
+      "checked_at": "2026-11-17T17:50:38.671825+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15492,7 +15636,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T17:29:27.397178+00:00",
+      "checked_at": "2026-11-17T17:50:33.056358+00:00",
       "languages": {
         "en": {
           "ok": true,
