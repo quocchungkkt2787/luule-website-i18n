@@ -1,13 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T19:21:35.784838+00:00",
+  "tested_at": "2026-11-17T19:43:46.681391+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 848,
-  "public_routes_pending": 88,
-  "public_routes_failed": 1,
+  "public_routes_verified": 855,
+  "public_routes_pending": 81,
+  "public_routes_failed": 2,
   "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
+    "/search"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -16082,14 +16083,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam": {},
-    "/blogs/van-chuyen-bac-nam/nha-xe-bac-nam": {},
-    "/blogs/van-chuyen-bac-nam/van-chuyen-bac-nam-duong-bo": {},
-    "/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam": {},
-    "/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam": {},
-    "/blogs/van-chuyen-bac-nam/van-chuyen-hang-de-vo-bac-nam": {},
-    "/blogs/van-chuyen-bac-nam/van-chuyen-hang-le-bac-nam": {},
-    "/blogs/van-chuyen-bac-nam/van-chuyen-o-to-bac-nam": {},
+    "/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam": {
+      "fingerprint": "b9ade9c6501f5439",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:42:55.394829+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "North-south motor service with cheap, safe train"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南北间有廉价安全列车的汽车服务"
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/nha-xe-bac-nam": {
+      "fingerprint": "d8d538f4f0b137e3",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:04.175981+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "List of North South Carhouse (CREWS & Guests)"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北南车行列表 (CREWS & guests)"
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/van-chuyen-bac-nam-duong-bo": {
+      "fingerprint": "3f3da8c97961e6d6",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:11.376153+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "North Southern Transport Service Route [fast, cheap]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南北交通服务路线[快,便宜]."
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/van-chuyen-container-bac-nam": {
+      "fingerprint": "026375f65b2a912d",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:18.184187+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Northern South container shipping service [ Cheap, trusting..."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方北方集装箱航运服务[便宜,信任."
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam": {
+      "fingerprint": "212e2b0d29f33b52",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:25.308796+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Transported by the Northern Southern Railroad"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "由北方南方铁路运输"
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/van-chuyen-hang-de-vo-bac-nam": {
+      "fingerprint": "3ed1413fe832d6ed",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:32.377914+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The easily broken Northern South Transport Service [ 100% Insurance]"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "容易被破坏的北方南方运输服务[100%保险]"
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/van-chuyen-hang-le-bac-nam": {
+      "fingerprint": "b18d3098c3441fe1",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:39.421360+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Small Northern South Transport: Fast, Safe, Cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "南方小型运输:快速、安全、廉价"
+        }
+      }
+    },
+    "/blogs/van-chuyen-bac-nam/van-chuyen-o-to-bac-nam": {
+      "fingerprint": "29e55f46ff44e9b2",
+      "status": "pass",
+      "checked_at": "2026-11-17T19:43:46.647226+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Northern South Car Transport Service [ Cheap, safe"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "北部南车运输服务[便宜、安全]"
+        }
+      }
+    },
     "/blogs/van-chuyen-bac-nam/van-tai-bac-trung-nam": {},
     "/blogs/van-chuyen-bac-nam/xe-khach-bac-nam": {},
     "/blogs/van-chuyen-ha-noi-sai-gon": {},
@@ -16158,7 +16303,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T19:20:19.799063+00:00",
+      "checked_at": "2026-11-17T19:42:35.427982+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16178,7 +16323,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T19:20:34.260460+00:00",
+      "checked_at": "2026-11-17T19:42:48.544009+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16209,8 +16354,8 @@
     "/pages/xe-tai-cho-hang": {},
     "/search": {
       "fingerprint": "4fba10d93c535f75",
-      "status": "pass",
-      "checked_at": "2026-11-17T19:20:27.335104+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-17T19:42:42.617851+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16219,9 +16364,15 @@
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }
