@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T00:38:52.431180+00:00",
+  "tested_at": "2026-11-17T01:01:19.259376+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 458,
-  "public_routes_pending": 478,
+  "public_routes_verified": 466,
+  "public_routes_pending": 470,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -8656,9 +8656,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-linh-trung-iii": {
-      "fingerprint": "b41a9fbd6f45e17b",
+      "fingerprint": "dbc23b3435e1d6e7",
       "status": "pass",
-      "checked_at": "2026-11-15T11:00:51.289169+00:00",
+      "checked_at": "2026-11-17T01:00:30.816276+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8675,9 +8675,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-phuoc-dong": {
-      "fingerprint": "659c92134b55be91",
+      "fingerprint": "1a952cfe913ee489",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:29.278478+00:00",
+      "checked_at": "2026-11-17T01:00:38.888194+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8694,9 +8694,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tan-binh": {
-      "fingerprint": "b12334e13d6d4f8d",
+      "fingerprint": "5108db8a188c6e8e",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:35.507918+00:00",
+      "checked_at": "2026-11-17T01:00:45.857557+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8713,9 +8713,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-dien": {
-      "fingerprint": "a08214a5d67e9d46",
+      "fingerprint": "a32ac9ebb4e34b87",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:41.453617+00:00",
+      "checked_at": "2026-11-17T01:00:52.456408+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8732,9 +8732,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-thanh-tan": {
-      "fingerprint": "88cac9d7a3b8e6a3",
+      "fingerprint": "c79eaa347a620d8c",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:49.167018+00:00",
+      "checked_at": "2026-11-17T01:00:58.964905+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8751,9 +8751,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-tram-vang": {
-      "fingerprint": "a3fd453057f6ec70",
+      "fingerprint": "1c0321a79591e828",
       "status": "pass",
-      "checked_at": "2026-11-15T11:21:56.953107+00:00",
+      "checked_at": "2026-11-17T01:01:05.580532+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8770,9 +8770,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-trang-bang": {
-      "fingerprint": "0e68a22e3d2cbf1f",
+      "fingerprint": "2eba9eda3d4ef4ad",
       "status": "pass",
-      "checked_at": "2026-11-15T11:22:02.760507+00:00",
+      "checked_at": "2026-11-17T01:01:12.685483+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8789,9 +8789,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh/chuyen-hang-ha-noi-kcn-truong-hoa": {
-      "fingerprint": "4ce26d2273e7aea6",
+      "fingerprint": "943b4169df3ec6fb",
       "status": "pass",
-      "checked_at": "2026-11-15T11:22:08.654274+00:00",
+      "checked_at": "2026-11-17T01:01:19.225314+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "b516884b369ea7c4",
       "status": "pass",
-      "checked_at": "2026-11-17T00:37:50.712612+00:00",
+      "checked_at": "2026-11-17T01:00:11.156280+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T00:38:03.432592+00:00",
+      "checked_at": "2026-11-17T01:00:24.284202+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "2f4c7d76960925d8",
       "status": "pass",
-      "checked_at": "2026-11-17T00:37:57.624538+00:00",
+      "checked_at": "2026-11-17T01:00:18.472537+00:00",
       "languages": {
         "en": {
           "ok": true,
