@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T16:45:28.462958+00:00",
+  "tested_at": "2026-11-17T17:08:59.591605+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 793,
-  "public_routes_pending": 143,
+  "public_routes_verified": 801,
+  "public_routes_pending": 135,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -15020,14 +15020,158 @@
         }
       }
     },
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-khai-quang": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-kim-hoa": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-lap-thach": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-nam-binh-xuyen": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-phuc-yen": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-son-loi": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-song-lo": {},
-    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-tam-duong": {},
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-khai-quang": {
+      "fingerprint": "545bfa810b43f27c",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:07.087821+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN the most prestigious opening on the market"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "让西贡成为市场上最有名气的KNN"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-kim-hoa": {
+      "fingerprint": "bf0aa99b37e646a2",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:13.924529+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN Kim Hua Professional Fame"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "发送西贡 - KNN 金花职业名人"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-lap-thach": {
+      "fingerprint": "0d640d2507ea184f",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:21.518032+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send the long line from Saigon to KNN Star I, II"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把长线从西贡送到克南星一号,二号"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-nam-binh-xuyen": {
+      "fingerprint": "84919f868f3a6ce4",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:29.168957+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Select the safety delivery unit from Saigon to KNN Nam Pingchuan"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "选择从西贡到KNN南平川的安全运送装置"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-phuc-yen": {
+      "fingerprint": "fc8d7f1f8616294d",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:36.719315+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The Experience of Sending Saigon - KNC Jason"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派遣西贡的经验-KNC Jason"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-son-loi": {
+      "fingerprint": "ee5bfdc476bb61f8",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:44.163256+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The unit sends quality cargo from Saigon to KNN Shan Lei"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "部队将优质货物从西贡运往克南山雷"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-song-lo": {
+      "fingerprint": "fbded3fd94e438d6",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:51.183538+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Select which services to send safely from Saigon - KNN River Lo I, II"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "选择从西贡安全发送哪些服务 - KNN River Lo I, II"
+        }
+      }
+    },
+    "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-tam-duong": {
+      "fingerprint": "5f80e5633df7aa24",
+      "status": "pass",
+      "checked_at": "2026-11-17T17:08:59.554901+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send Saigon - KNN Tam Yang I, II is easier"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "派西贡 - KNN Tam Yang一, 二比较容易"
+        }
+      }
+    },
     "/blogs/gui-hang-tphcm-kcn-vinh-phuc/chuyen-hang-sai-gon-kcn-thang-long": {},
     "/blogs/gui-hang-tu-ga-den-ga": {},
     "/blogs/gui-hang-tu-ga-den-ga/chuyen-hang-ga-giap-bat-di-ga-song-than": {},
@@ -15152,7 +15296,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T16:44:19.138403+00:00",
+      "checked_at": "2026-11-17T17:07:45.409589+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15316,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T16:44:32.877001+00:00",
+      "checked_at": "2026-11-17T17:08:00.110773+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15348,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T16:44:26.170090+00:00",
+      "checked_at": "2026-11-17T17:07:53.615804+00:00",
       "languages": {
         "en": {
           "ok": true,
