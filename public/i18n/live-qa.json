@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T20:51:22.758626+00:00",
+  "tested_at": "2026-11-17T21:11:56.906625+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 880,
-  "public_routes_pending": 56,
+  "public_routes_verified": 888,
+  "public_routes_pending": 48,
   "public_routes_failed": 1,
   "failed_examples": [
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
@@ -16690,14 +16690,158 @@
         }
       }
     },
-    "/blogs/van-chuyen-sai-gon-ha-noi/chuyen-phat-nhanh-sai-gon-ha-noi": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-buu-dien-tu-tphcm-ra-ha-noi": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-tu-tphcm-di-ha-noi-mat-bao-lau": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-xe-khach-sai-gon-ha-noi": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-may-tu-sai-gon-ra-ha-noi": {},
-    "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-o-to-tu-sai-gon-ra-ha-noi": {},
-    "/blogs/van-chuyen-tphcm-mien-bac": {},
+    "/blogs/van-chuyen-sai-gon-ha-noi/chuyen-phat-nhanh-sai-gon-ha-noi": {
+      "fingerprint": "074d2e9791bca20a",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:08.706180+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "List of Saigon fast-transmission companies"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "西贡快递公司列表"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {
+      "fingerprint": "2152bd2f510eb8b8",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:14.803253+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Stock price sheet from TpHCM to low-cost Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从TpHCM到低成本河内股价表"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-buu-dien-tu-tphcm-ra-ha-noi": {
+      "fingerprint": "77e770cda33307f7",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:22.428619+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Postal guide from TpHCM to Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM至河内邮政指南"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-tu-tphcm-di-ha-noi-mat-bao-lau": {
+      "fingerprint": "1666dc5c5f072ece",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:28.713158+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "How long will it take the delivery time from TpHCM to Hanoi?"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM到河内送货需要多长时间?."
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/gui-hang-xe-khach-sai-gon-ha-noi": {
+      "fingerprint": "b41264beaf0a38fe",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:35.269220+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Top 4 Units to send tours of the country's prestigious Saigon."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "前4名的单位 派遣参观 国家著名的西贡。"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-may-tu-sai-gon-ra-ha-noi": {
+      "fingerprint": "dcbeb0dfc0315b6c",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:41.702293+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Send motorcycles from Saigon to Hanoi is safe, fast, cheap"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "把摩托车从西贡送到河内很安全,又快又便宜"
+        }
+      }
+    },
+    "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-o-to-tu-sai-gon-ra-ha-noi": {
+      "fingerprint": "119b7312723abc38",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:49.603124+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Cars sent from Saigon to low, safe Hanoi"
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "从西贡往下,安全的河内"
+        }
+      }
+    },
+    "/blogs/van-chuyen-tphcm-mien-bac": {
+      "fingerprint": "63c29b92a6a1e433",
+      "status": "pass",
+      "checked_at": "2026-11-17T21:11:56.875611+00:00",
+      "languages": {
+        "en": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "The delivery service from TpHCM goes out to the Northern provinces."
+        },
+        "zh": {
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "TpHCM的送货服务到北方各省。"
+        }
+      }
+    },
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-giang": {},
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-ninh": {},
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-ha-nam": {},
@@ -16734,7 +16878,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T20:50:03.504336+00:00",
+      "checked_at": "2026-11-17T21:10:48.896831+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16754,7 +16898,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T20:50:17.437943+00:00",
+      "checked_at": "2026-11-17T21:11:01.897386+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16786,7 +16930,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T20:50:11.053842+00:00",
+      "checked_at": "2026-11-17T21:10:56.219093+00:00",
       "languages": {
         "en": {
           "ok": true,
