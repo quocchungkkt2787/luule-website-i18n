@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-17T08:48:01.084525+00:00",
+  "tested_at": "2026-11-17T09:11:53.212247+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 625,
-  "public_routes_pending": 311,
+  "public_routes_verified": 633,
+  "public_routes_pending": 303,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -11829,9 +11829,9 @@
       }
     },
     "/blogs/gui-hang-nd-mien-nam/chuyen-hang-nam-dinh-vung-tau": {
-      "fingerprint": "43b923ecec24601d",
+      "fingerprint": "05fbb6ebe51affb6",
       "status": "pass",
-      "checked_at": "2026-11-15T18:45:32.688042+00:00",
+      "checked_at": "2026-11-17T09:11:06.799110+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11848,9 +11848,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam": {
-      "fingerprint": "bbd85b2905fbc1fd",
+      "fingerprint": "dfbe04826ce1718e",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:04.435734+00:00",
+      "checked_at": "2026-11-17T09:11:13.467202+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11867,9 +11867,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-duong": {
-      "fingerprint": "e9e504ffb2159321",
+      "fingerprint": "b2ff235df15bab9e",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:11.261882+00:00",
+      "checked_at": "2026-11-17T09:11:20.019082+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11886,9 +11886,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-binh-phuoc": {
-      "fingerprint": "42c3a9570a7789ac",
+      "fingerprint": "2e94d5f94acd44c0",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:18.635471+00:00",
+      "checked_at": "2026-11-17T09:11:26.656327+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11905,9 +11905,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-dong-nai": {
-      "fingerprint": "db7100e5b7f05fff",
+      "fingerprint": "547d1a6d3e66c9a1",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:25.392593+00:00",
+      "checked_at": "2026-11-17T09:11:33.394563+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11924,9 +11924,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-long-an": {
-      "fingerprint": "e158e2c2be1d12b6",
+      "fingerprint": "2641b6849826cac0",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:32.187991+00:00",
+      "checked_at": "2026-11-17T09:11:39.931722+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11943,9 +11943,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-sai-gon": {
-      "fingerprint": "858a52cec805f83d",
+      "fingerprint": "2ed1af91d16365bd",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:39.339354+00:00",
+      "checked_at": "2026-11-17T09:11:46.471914+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -11962,9 +11962,9 @@
       }
     },
     "/blogs/gui-hang-pt-mien-nam/chuyen-hang-phu-tho-tay-ninh": {
-      "fingerprint": "9ffc0ff63d2f3b3a",
+      "fingerprint": "053321de751bc446",
       "status": "pass",
-      "checked_at": "2026-11-15T19:07:46.274874+00:00",
+      "checked_at": "2026-11-17T09:11:53.178757+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15152,7 +15152,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-17T08:46:56.987224+00:00",
+      "checked_at": "2026-11-17T09:10:46.782613+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15172,7 +15172,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-17T08:47:09.354727+00:00",
+      "checked_at": "2026-11-17T09:11:00.209499+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15204,7 +15204,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-17T08:47:04.192192+00:00",
+      "checked_at": "2026-11-17T09:10:54.068454+00:00",
       "languages": {
         "en": {
           "ok": true,
