@@ -28669,13 +28669,133 @@
       "has_possible_vietnamese_text": false,
       "ocr_excerpt": "“3 200",
       "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/tien-giang_921e9c664fca4234add7a9ccbb62b8fe_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Th Tiền Giang Thủ\n5\t1\t10\t1\t1\t5\t244\t365\t30\t19\t97.003807\tphủ\n5\t1\t10\t1\t1\t6\t282\t366\t36\t14\t96.309349\tmới của khu vực miền Tay",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tien_giay_singapore_ab3a64b42c244aa8a5e4b9c316d8d668_grande.jpg": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "2) We sing ca) ơi ay",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tien_xu_nhat_ban_512676b06c7d4e32b03d9d2707fb8fdc_grande.jpg": {
+      "confident_word_count": 15,
+      "dimensions": [
+        600,
+        392
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "1Yen 50 Yen 60 5Yen 100 Yen ®© ®® 10 Yen 500 Yen ®® vO",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/tien_xu_singapore_ee33f56b82b14464a334da107abee101_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        302
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/tieu_chi_lua_chon_don_vi_van_chuyen_5bcdd31795c445d09a3da7fe54416b95_grande.png": {
+      "confident_word_count": 17,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Tiêu chí lựa chọn đơn vị vận chuyển Thông tin đơn vị Hop đồng minh bach mm\n2\t1\t9\t0\t0\t0\t410\t262\t53\t12\t-1\t\n3\t1\t9\t1\t0\t0\t410\t262\t53\t12\t-1\t\n4\t1\t9\t1\t1\t0\t410\t262\t53\t12\t-1\t\n5\t1\t9\t1\t1\t1\t410\t262\t53\t12\t52.492374\t=\n2\t1\t10\t0\t0\t0\t174\t295\t255\t43\t-1\t\n3\t1\t10\t1\t0\t0\t174\t295\t255\t43\t-1\t\n4\t1\t10\t1\t1\t0\t174\t295\t255\t43\t-1\t\n5",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tim_hieu_cac_buoc_doi_tien_yen_nhat_sang_tien_viet_nhanh_chong_ad9e5deec4ac4a80b7fb850166f7f784_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        500,
+        375
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "pe L@ AG",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/tinh_vinh_phuc_dang_rat_phat_trien__93a49122cc834a7a95d41dfcef520463.jpg": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "cons nor 15006 66 Tinh Vinh Phuc dang rat phat —Š triển",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tips_dong_goi_hang_hoa_la_my_pham_4bace8b9e5e94b6b9fef8585d6b319f0.jpg": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN TÀI LƯU LE. Tips đóng gói hàng hóa là mỹ phẩm",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tn-v_64386af6bd2b4810a08bd84245f2eafd_grande.png": {
+      "confident_word_count": 25,
+      "dimensions": [
+        442,
+        462
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Lào Nghệ Chan au; UDOI bề) KHON KAEN «4 RAT Viet Ni Qui Nhơn. 23 giờ 20 phút 1270km le a) HỆ Thanh phố Ta",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/to_10.000_yen_nhat_ban_f2a5556bbb8a4b66959ac03286ead513_grande.jpg": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        285
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "E:",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/to_1000_yen_cua_nhat_ban_f6def90908dc41dfa5f31f921fe27a14_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        579,
+        287
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/to_5.000_yen_cua_nhat_ban_0cf3c78eda57413b8148f3c84e1bb35c_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        298
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "97254N RR ae",
+      "status": "no_vietnamese_detected"
     }
   },
-  "images_scanned": 2880,
-  "images_unscanned": 210,
+  "images_scanned": 2892,
+  "images_unscanned": 198,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2439,
+  "possibly_vietnamese": 2445,
   "unique_public_images": 3090,
   "version": 1
 }
