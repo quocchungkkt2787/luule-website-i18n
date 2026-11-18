@@ -25779,6 +25779,126 @@
       "ocr_excerpt": "Xác Nhận Và Đóng Gói Kĩ Càng",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/kcn_gia_binh_1__2_d1403d865c934f30a57ada0162108e6d_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "ưng) >—— _— KCN Gia Bin h1,2",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_ha_hoa_ec4c07190dc34c488ebf489907b42e8b_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": ">~ _- vAN",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hai_ha_9e847240f6c94a47b42fbe87210fc6db_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "th AAA",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hai_yen_920b2dafcb7b4f48a36a679866f85959_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hanaka_4d8551007d794accbcd178d0f6b95bca_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "ii ANAK KCN Hanaka",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_ho_nai_co_dien_tich_la_497ha_7e363088794c47528afda0ed84e03255.jpg": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN TÀI LƯU LE HO xe ——= KCN Ho Nai ich 97h",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hoa_mac_duoc_xay_dung_day_du_va_hien_dai.__1__a20798b11cf046fc85f7def98568bdb5.jpg": {
+      "confident_word_count": 17,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VAN TAI LƯU LE ~t —_ KCN Hòa Mac được xây dựng day đủ va hiện đại.",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hoa_xa_2a6cdc5bba3a48db91e119e53d5841ac_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Ca",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hoang_dong_duoc_xay_dung_va_trang_bi_day_du_co_so_vat_chat_de6cdbdda8dc480ca415c381de75cad5.jpg": {
+      "confident_word_count": 22,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VAN TAI LƯU LE st Se „$È KCN Hoàng Đông được xây dung và trang bị day đủ cơ sở vật chất",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hoanh_bo_hon_phat_trien_da_nganh_nghe_9b71419a4c89468e95301354c6c9ad4d.jpg": {
+      "confident_word_count": 13,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VAN TAI LƯU LE KCN Hoanh Bồ Hòn phát triển đa ngành nghề",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_hong_tien_f59b05b32a4e473a815b423e1179bdd8_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Hồng Tiến",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_itahan__1__bccdc684a8244894a109a1c1e6f49da9_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Yay",
+      "status": "no_vietnamese_detected"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -25810,11 +25930,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2592,
-  "images_unscanned": 498,
+  "images_scanned": 2604,
+  "images_unscanned": 486,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 13,
-  "possibly_vietnamese": 2226,
+  "possibly_vietnamese": 2232,
   "unique_public_images": 3090,
   "version": 1
 }
