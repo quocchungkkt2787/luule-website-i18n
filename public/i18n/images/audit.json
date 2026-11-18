@@ -25899,6 +25899,126 @@
       "ocr_excerpt": "Yay",
       "status": "no_vietnamese_detected"
     },
+    "https://file.hstatic.net/1000191021/file/kcn_khai_quang_thuoc_tinh_vinh_phuc__73a1cca86c004f00a1fd6231fe832489.jpg": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN TÀI LƯU LE",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_kim_dong_thuoc_tinh_thanh_dang_phat_trien_la_hung_yen_2fbf45d775f14c52adcad51a406250c5.jpg": {
+      "confident_word_count": 19,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "THỊ YEN /ÂN TÀI LƯU LE The KCN Kim Dong thuộc tỉnh thành đang phát triển là Hưng Yên",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_kim_hoa_a65f9ec80490466ea5e5889a83866be9.jpg": {
+      "confident_word_count": 8,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "ket VẬN TÀI LƯU LE KCN Kim Hoa",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_ky_thuat_cao_an_phat_46afeb10a30e4bf7b54cbc29f77ccdeb_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "ry KCN Ky Thuat cao An Phat",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_lai_cach_016c3691ed5a45e58962925fc8cb0ad5_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "\\\\ —- Cach",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_lap_thach_i__ii_4d470a2c01894bab883b8c3b089222a6_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Lap Thạch I,",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_long_binh_0664795494f1415fa4ebfd738b23419a_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_long_duc_162f6e724cb84128bb14de906b3c56f7_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Th Ab KCN Long Đức",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_long_thanh_f2a0fd21d0bd40a68dbd6174ce98ecde_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Th —— cw KCN Long Thành",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_my_trung_cc138ebcaf4041cd9be8278edc4cb122_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "ZZ Lb BY man Mỹ Tr ung",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_my_xuan_1_-_tien_hung_d0caf6d6200740169665f42e3376333d_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Mỹ Xuân Tiến Hùng",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_my_xuan_ha_noi_dfb0f5f6e253470ab2cf59ca37a7cc4f_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "ex KCN Mỹ Xuân Hà Nội",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -25930,11 +26050,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2604,
-  "images_unscanned": 486,
+  "images_scanned": 2616,
+  "images_unscanned": 474,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 13,
-  "possibly_vietnamese": 2232,
+  "possibly_vietnamese": 2241,
   "unique_public_images": 3090,
   "version": 1
 }
