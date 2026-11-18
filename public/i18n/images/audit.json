@@ -23271,6 +23271,120 @@
       "ocr_excerpt": "gH về VÌ wr Thái Lan",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/gui-hang-ha-noi-kcn-thinh-phat-1_03eacfd0e0ce419aa50796707405e978_grande.jpg": {
+      "confident_word_count": 13,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "tr. —Y Nhu cầu vận chuyển hàng hóa tại Thịnh Phat rất lớn",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-ha-noi-kcn-thinh-phat-2_fb58525a400043ec80d13053c849fd5e_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "L} ==",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-ha-noi-kcn-viet-phat-1_668a424e362d4862804e795bcdc4a38d_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Khu nghiệp Việt",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-kcn_d36d63e76c6448bda6a9eb11043d172d_grande.jpg": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "VAN TAI LUU LE",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-phu-tho__1__31de123a504f4936b5909017f748bb47_grande.png": {
+      "confident_word_count": 18,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN L2 Gửi hàng đường sắt Bình Dương Phú Thọ uy tín nhất tại Vận Tải Lưu Lê",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-an-duong-1_7c59f5b185cd424abeb85e022577f1ef_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "L5 'VẬN TAI LƯU LE Khu công nghiệp An Dương",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-bac-thang-long-1_d4aba9a2506c452cb842ca103847d2c2_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Khu công nghiệp Bắc Thăng Long",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-bac-thuong-tin-1_733b18d25dea4763be176be64ef3777a_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-dai-tu-1_f616e88dad7b497faa16c24c8ab2eb36_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "UP. Khu công nghiệp Đài Tư",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-det-may-pho-noi-1_cb2587951d484c2db272bd340fcd6b9d_grande.png": {
+      "confident_word_count": 8,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "|_| vn Khu ig ni Dét may Phi",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-do-son-1_f0cfcd2b2f174c64847f30b2b8044f15_grande.png": {
+      "reason": "404 Client Error: Not Found for url: https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-do-son-1_f0cfcd2b2f174c64847f30",
+      "status": "check_failed"
+    },
+    "https://file.hstatic.net/1000191021/file/gui-hang-sai-gon-kcn-dong-anh-1_c44c5ab71b0543d9b4da801453159df5_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -23302,11 +23416,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2340,
-  "images_unscanned": 750,
+  "images_scanned": 2352,
+  "images_unscanned": 738,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
-  "ocr_failures": 11,
-  "possibly_vietnamese": 2004,
+  "ocr_failures": 12,
+  "possibly_vietnamese": 2011,
   "unique_public_images": 3090,
   "version": 1
 }
