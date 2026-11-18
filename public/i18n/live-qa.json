@@ -1,13 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-18T01:58:57.162504+00:00",
+  "tested_at": "2026-11-18T02:22:32.286737+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 935,
-  "public_routes_pending": 1,
-  "public_routes_failed": 1,
+  "public_routes_verified": 934,
+  "public_routes_pending": 2,
+  "public_routes_failed": 2,
   "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
+    "/search"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -15880,7 +15881,7 @@
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {
       "fingerprint": "ab911bf4bd15fd34",
       "status": "fail",
-      "checked_at": "2026-11-18T01:58:57.131148+00:00",
+      "checked_at": "2026-11-18T02:22:32.256581+00:00",
       "languages": {
         "en": {
           "ok": false,
@@ -17472,7 +17473,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-18T01:58:40.197926+00:00",
+      "checked_at": "2026-11-18T02:22:14.081285+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17510,7 +17511,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-18T01:58:53.146522+00:00",
+      "checked_at": "2026-11-18T02:22:28.018062+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17775,8 +17776,8 @@
     },
     "/search": {
       "fingerprint": "4fba10d93c535f75",
-      "status": "pass",
-      "checked_at": "2026-11-18T01:58:47.215926+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-18T02:22:21.578015+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17785,9 +17786,15 @@
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         }
       }
