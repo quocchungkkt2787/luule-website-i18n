@@ -29149,13 +29149,133 @@
       "has_possible_vietnamese_text": true,
       "ocr_excerpt": "An Giang Vùng đất đặc biệt nhất của Đồng bằng sông Cửu Long",
       "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-an-giang_c026e106a6744b4c9446a51adc327cc0_grande.jpg": {
+      "confident_word_count": 19,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Van tai Luu Lé nhan chuyén moi loai hang héa trừ các loại hàng có trong danh mục cấm",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-bac-lieu-1_1f58ba3a993541268dc9cd53dfa07685_grande.jpg": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VAN TÀI LƯU LÊ",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-bac-lieu-2_149be18aef384c1aa0fd4b9432e5500f_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "+1 at",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-bac-lieu-3_8932fe6884dc40118dfefa0e1121a62f_grande.jpg": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-bac-lieu-4_0d9c9813278d4d3c97d5e4b680a3978a_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN TAL LƯU",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-bac-lieu-5_df6def0478bd4027b08d94e37c1af096_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "<= == ==",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-ben-tre-1_e9fcfdc0a27d48cc903f1488d5687400_grande.jpg": {
+      "confident_word_count": 14,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "ae lề Te Bến Tre Vùng đất cù lao được thiên nhiên ưu ái",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-ben-tre-2_9e2f0b05807b4cc0b123192afe82f56c_grande.jpg": {
+      "confident_word_count": 18,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Vận nhà đường sat ít bị phụ thuộc vào thời tiết, giá rẻ, chuyển được số lượng lớn",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-ben-tre-3_581e4fee6f584bfa86cdf94ca5576068_grande.jpg": {
+      "confident_word_count": 16,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "TA Mat khoang 3-4 ngay néu ban chon vận chuyển đường bộ Hà Nội Bến Tre",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-ben-tre-4_06c28274404749c39ecd33ba16133102_grande.jpg": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Vận chuyển hàng bằng đường hàng kh có thời gian nhanh nhất",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-ben-tre-7_6a7839738e824aeca20c75bd54765a9a_grande.jpeg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        512,
+        341
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "IE ==",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-ha-noi-binh-dinh-02_6a9e9b71b75d48a791db4199b26fb91c_grande.jpg": {
+      "confident_word_count": 13,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "it E8 —— Ohm Về chuy Lưu Li on ƠI yng er nghiép",
+      "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2928,
-  "images_unscanned": 162,
+  "images_scanned": 2940,
+  "images_unscanned": 150,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2476,
+  "possibly_vietnamese": 2484,
   "unique_public_images": 3090,
   "version": 1
 }
