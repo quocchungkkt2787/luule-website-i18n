@@ -28549,13 +28549,133 @@
       "has_possible_vietnamese_text": false,
       "ocr_excerpt": "——— RE",
       "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/thiet_ke_khong_ten_a3809bd7839c4785a417043de6d3c7fe_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        569,
+        600
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "2\t1\t3\t0\t0\t0\t105\t60\t14\t4\t-1\t\n3\t1\t3\t1\t0\t0\t105\t60\t14\t4\t-1\t\n4\t1\t3\t1\t1\t0\t105\t60\t14\t4\t-1\t\n5\t1\t3\t1\t1\t1\t105\t60\t14\t4\t79.828743\tphụ\n2\t1\t4\t0\t0\t0\t308\t65\t73\t12\t-1\t\n3\t1\t4\t1\t0\t0\t308\t65\t73\t12\t-1\t\n4\t1\t4\t1\t1\t0\t308\t65\t73\t12\t-1\t\n5\t1\t4\t1\t1\t1\t308\t65\t73\t12\t50.801804\t29001234)\n2\t1\t5\t0\t0\t0\t538\t68\t8\t8\t-1\t\n3\t1\t5\t1\t0\t0\t538\t68\t",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/thnah-hoa_d5162dc25ffa44dc84349a10f96b9eaa_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Be 2Š",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/thong_bao_lich_nghi_le_3042022_e8b2d6356756481881c45f37c9344c11_grande.png": {
+      "confident_word_count": 136,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "CONG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM rs :04/1L. TP.HCM, ngày 25 thing 04 năm 2022 THONG BAO (V/v Nghỉ lễ chiến thắng 30/04 và ngày Quốc tế lao động 01/05) Kính gửi: Quý Khách hàng. Dé thuận tiện cho việc giao nhận trong trong dip lễ chiến thắng. aru Lê xin thông báo với Quý khách hàng lich 30/04 và ng",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/thu-tu-chieu-dai-quoc-lo-1-a-qua-cac-tinh_05236a56276948218af967c90a9eb51a_grande.png": {
+      "confident_word_count": 53,
+      "dimensions": [
+        518,
+        600
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "THỨ TỰ. PHÓ. KM SỐ CHIEU DAI (KM) THU HANG Lang Son 942 Bắc Giang 119 382 Bắc Ninh 139 210 23 Hà Nội 170 553 20 Ha Nam 29 361 Ninh Binh 263 38 “Thanh Hóa 323 986 Nghệ An 46t 855 Ha Tĩnh 510 1250 10 ‘Quang Binh 688 1210 2\t1\t44\t0\t0\t0\t78\t324\t48\t12\t-1\t\n3\t1\t44\t1\t0\t0\t78\t324\t48\t12\t-1\t\n4\t1\t44\t1\t1\t0\t78\t324\t4",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/thu_do_ha_noi_7c01a903d06a4f508961d79136f7e438.jpg": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "v.. VANT at Thu do Ha",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/thu_tuc_van_chuyen_go_thanh_pham_c1bd4533a35a42498dc420a3465b977f_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "““ pL VAN LE",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/thue-gui-hang-nuoc-ngoai-1_dcae8e21d9124425a9378ed1878f8319_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Ea E3",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/thue-gui-hang-nuoc-ngoai-2_1aa91f985d244470bc87cd1b63334863_grande.jpg": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "si x, P, 7O hey ey T%",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/thue-gui-hang-nuoc-ngoai-3_4170989d25094c46a6de106a7f657ae1_grande.jpg": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        390
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "a>",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/tien-dai-loan-1_60b8c01a5b5349468e028be009af4a0a_grande.jpg": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "á\\",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tien-dai-loan-2_3dcabecd197641da896f4c5e455807b8_grande.jpg": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        375
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "(2< Lối /O 24 #ZI Sỹ)",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/tien-dai-loan-3_1ad8fca32cee4a0f87642fc958f435d2_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        338
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "“3 200",
+      "status": "no_vietnamese_detected"
     }
   },
-  "images_scanned": 2868,
-  "images_unscanned": 222,
+  "images_scanned": 2880,
+  "images_unscanned": 210,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2434,
+  "possibly_vietnamese": 2439,
   "unique_public_images": 3090,
   "version": 1
 }
