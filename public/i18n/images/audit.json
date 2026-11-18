@@ -22911,6 +22911,126 @@
       "ocr_excerpt": "<2",
       "status": "no_vietnamese_detected"
     },
+    "https://file.hstatic.net/1000191021/file/giap_thuong_tai_kcn_dong_nam_1b1855d81b5a4a35ba6b3bdddb5b24de_grande.png": {
+      "confident_word_count": 11,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Lư TE SS =_ <a Giao. Thương Tại ga Đông Nam",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gio_tau_chay_ha_noi_hai_phong__1__4a2ce2e2024f4a4985575c5baa3ade68_grande.png": {
+      "confident_word_count": 19,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "BANG GIỜ TAU KHÁCH TUYẾN HAI PHÒNG HÀ NỘI HẢI PHÒNG ĐI HÀ NỘI HÀ NỘI VỀ PHÒNG cuối",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gio_tau_chay_ha_noi_hai_phong__2__9963b67d159145f792855029f788f343_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/gio_tau_chay_ha_noi_hai_phong__3__e2456221e25d4c2f90c0da6ffb5dc9aa_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "tí",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gioi_thieu_tong_quat_ve_ga_sai_gon_47befb50d00e4e1eae00f9c3a778b1ea_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "al Giới thiệu tổng quát về ga Sài Gòn",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gioi_thieu_tong_quat_ve_ga_sai_gon__2__34b664b8f21a477e81604db922080bed_grande.png": {
+      "confident_word_count": 14,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Ht Quy trình vận chuyển. hàng hóa tuyến ga Sài Gòn ga Hà Nội",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gioi_thieu_tong_quat_ve_ga_sai_gon__3__8008262a17674588b603b057184f5e30_grande.png": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Thời gian vận chuyển hàng tuyến ga Sài Gòn ga Hà Nội",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/gioi_thieu_ve_cty_cp_vtds_sai_gon_67b0b769a92348d08892f64733b1154c_grande.png": {
+      "confident_word_count": 8,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "(CONG TY VAN TAI DUONG SAT SAI GON",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/gioi_thieu_ve_van_tai_duong_sat_ha_noi_305cccc3c54b4bbb87e3071fc2de498c_grande.png": {
+      "confident_word_count": 11,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "GONG MAN DUONG DUONG SAT HÀ NỘI. HÀ NỘI ll arta",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/giuong_nam_khoang_4_dieu_hoa_09d58cc960cc457a91448188a11db84b_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        512,
+        369
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "cả off",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/giuong_nam_khoang_6_dieu_hoa_14aa428cc234438ba638cbe1375fefcd_grande.jpg": {
+      "confident_word_count": 0,
+      "dimensions": [
+        352,
+        512
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/giuong_nam_khoang_dieu_hoa_b7c4d14d056d4ecf9169aa1cbb5a3767_grande.jpg": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        407
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -22942,11 +23062,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2304,
-  "images_unscanned": 786,
+  "images_scanned": 2316,
+  "images_unscanned": 774,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 11,
-  "possibly_vietnamese": 1976,
+  "possibly_vietnamese": 1984,
   "unique_public_images": 3090,
   "version": 1
 }
