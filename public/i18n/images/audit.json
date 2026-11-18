@@ -26019,6 +26019,120 @@
       "ocr_excerpt": "ex KCN Mỹ Xuân Hà Nội",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/kcn_nam_chau_son_d5a31034e6d84094b28583d99342c5d8_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Sunjin",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_nam_sach_074db4a247724801a29c4b26926850e8_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "se SG KCN Nam Sách",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_nghia_an_e7b79534131d4bd1902232e91bbe8cbe_grande.png": {
+      "reason": "404 Client Error: Not Found for url: https://file.hstatic.net/1000191021/file/kcn_nghia_an_e7b79534131d4bd1902232e91bbe8cbe_grande",
+      "status": "check_failed"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_nhon_trach_i__ii__iii_3ce46498361845e3b82befcf1095c0be_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "~t KCN Nhơn Trạch I, II, V,VI",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_nomura_1cb9b59743124b65bf62ec226965063e_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "te KCN Nomura",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_ong_keo_gui_hang_ha_noi_-_kcn_ong_keo_6800f878e3e04cc3bc7fbf207122771f.jpg": {
+      "confident_word_count": 16,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "The VẬN TÀI LƯU LE si KCN Ong Kèo gửi hàng Hà Nội KCN Ong Keo",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_pho_noi_a_89b8833acd594f59bb8a14248dd4397c_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "—= 1S",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_phong_phu_5ffe9379bb794aaa84b2013002d1c943_grande.png": {
+      "confident_word_count": 14,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "SS .^ Joint Sự Phu sỹ KHU CÔNG NGHIỆP. KH PHO KCN Phong Phú",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_phu_ha_1bdb4d1e7162406fa24b0c163956cdc8_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "NGHỊ! <4 :\n2\t1\t11\t0\t0\t0\t146\t285\t22\t12\t-1\t\n3\t1\t11\t1\t0\t0\t146\t285\t22\t12\t-1\t\n4\t1\t11\t1\t1\t0\t146\t285\t22\t12\t-1\t\n5\t1\t11\t1\t1\t1\t146\t285\t22\t12\t4.371519\tca\n2\t1\t12\t0\t0\t0\t146\t292\t37\t30\t-1\t\n3\t1\t12\t1\t0\t0\t146\t292\t37\t30\t-1\t\n4\t1\t12\t1\t1\t0\t146\t292\t37\t30\t-1\t\n5\t1\t12\t1\t1\t1\t146\t292\t37\t30\t26.912556\tvệ\n2\t1\t13\t0\t0\t0\t543\t306\t35\t",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_phu_ha__1__41887d738c3f497491b446459ebe4d64_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "SS NGỘ",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_phuc_long_099c9cf8406d4ba094933198ec4ce091_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "e, ore KCN Phúc Long",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_phuc_yen_co_quy_mo_rong_lon_ca85b20dde4e48b5b8fa6081ae060042.jpg": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "=> KCN Phúc Yên có quy mô rộng lớn",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -26050,11 +26164,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2616,
-  "images_unscanned": 474,
+  "images_scanned": 2628,
+  "images_unscanned": 462,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
-  "ocr_failures": 13,
-  "possibly_vietnamese": 2241,
+  "ocr_failures": 14,
+  "possibly_vietnamese": 2249,
   "unique_public_images": 3090,
   "version": 1
 }
