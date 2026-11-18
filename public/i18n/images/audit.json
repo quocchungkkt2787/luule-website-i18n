@@ -26253,6 +26253,126 @@
       "ocr_excerpt": "c2 KCN Thuận Thành 1,2,3",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/kcn_tien_yen_c4adbd69617b4ce981bc6c27fbc382d7_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "oH",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_toa_lac_tai_tinh_vinh_phuc_c11efd476a9e4a4ba833e9e1e9222506.jpg": {
+      "confident_word_count": 14,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "s11! TẾ ape || —- VẬN. =——— KCN tọa lạc tại tỉnh Vĩnh Phúc",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_trung_thanh_8f44f9f6ef4e40bd92cc542a755158da_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "_= KCN Trung Thành",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_viet_han_co_dien_tich_la_238ha_1ff751f1f1be45a5987e54c9ccd81061.jpg": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Kẻ KCN Việt Han có diện tích là 238ha",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_viet_my_2_f41bf573fa7a4942a1dfd4a5ae21a934_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "as KCN Việt Mỹ II",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_viet_nam_-_singapore_79b88a9172aa4b9286077055f9aa99fe.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "—- it",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_vinh_loc_2_65bf4efcd3404d72bdeed49f8e77844c_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Vĩnh Lộc",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_visip2b_4303e5ba3ea748778ee5fa60f6e28d13_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "SIP Il BINH DUONG KCN Visip 2B",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_yen_phong_1__2_b09e60bed2e0414b86f22288b8ec37f6_grande.png": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Yên Phong 1,2",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kho-nam-ninh-o-dau-1_d0c7ca8e2e3e437882b76cdfce8ad14d_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        395
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "số Ge E2 k>",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kho-trung-chuyen-ha-noi-02-1_b470d64d9d12418890ea1abec09f7356_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "3) Kl NOI",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kho-trung-chuyen-ha-noi-02-2_0ed9cf32a3dd4e1e9afa454ec1063e9a_grande.jpg": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "=a",
+      "status": "no_vietnamese_detected"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -26284,11 +26404,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2640,
-  "images_unscanned": 450,
+  "images_scanned": 2652,
+  "images_unscanned": 438,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 14,
-  "possibly_vietnamese": 2258,
+  "possibly_vietnamese": 2265,
   "unique_public_images": 3090,
   "version": 1
 }
