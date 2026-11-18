@@ -26133,6 +26133,126 @@
       "ocr_excerpt": "=> KCN Phúc Yên có quy mô rộng lớn",
       "status": "possibly_contains_vietnamese"
     },
+    "https://file.hstatic.net/1000191021/file/kcn_phuoc_dong_va_xu_huong_phat_trien_afa404a3950846c5a2e14ce80981b0c3.jpg": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VĂN TÀI LUO LE PRE ĐO] KCN Phước Di xu phat triển",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_que_vo_1__2__3_8cb646ac6b9b449bba0d5a3cf49b4907_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Quế Võ 1, 2,",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_song_lo_i__ii_cd0a9c3c25934cc99b585e850f0766ea_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Sông Lô I, II",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_song_may_53e95e2ec93a4133a31578cc503c3903_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "J} %- `. KCN Sông May",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_tam_phuoc_4c040652dac5449b9aecd43575c2b980_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "bà KCN Tam Phước",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_tan_dan_449211a1b100482fbd6bbbc1c3f0da58_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "pe 2271",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_tan_kim_b66a6850b44a458f8283d25acd08b8e8_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "LL Khu Nghiép Tan Kim",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_tan_truong_5422a3ce65b24e2ab7613e0435d454e5_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_thanh_an_dc7ea53a69cb4309bb00878e8df3af37_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "_=",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_thanh_binh_voi_vi_tri_thuan_loi_d958e243d0fd4d4f8a6800b0b61ade3c.jpg": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VẬN. KCN Thanh Bình với vị trí thuận lợi",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_thuan_dao_mo_rong_de82cd5311fb482bbc8909efc4fd8ecb_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "KCN Thuận Đạo Mở Rộng",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/kcn_thuan_thanh_1_2_3_64cfa0e73ae040e3831fa9709f28390f.jpg": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "c2 KCN Thuận Thành 1,2,3",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://file.hstatic.net/1000191021/file/quy-trinh-chuyen-nha_076b355e22f84673b746d6f533d168e3_grande.png": {
       "confident_word_count": 55,
       "dimensions": [
@@ -26164,11 +26284,11 @@
       "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 2628,
-  "images_unscanned": 462,
+  "images_scanned": 2640,
+  "images_unscanned": 450,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 14,
-  "possibly_vietnamese": 2249,
+  "possibly_vietnamese": 2258,
   "unique_public_images": 3090,
   "version": 1
 }
