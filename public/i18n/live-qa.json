@@ -1,7 +1,7 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-18T17:58:00.664541+00:00",
+  "tested_at": "2026-11-18T18:18:58.872289+00:00",
   "public_routes_total": 936,
   "public_routes_verified": 935,
   "public_routes_pending": 1,
@@ -15880,7 +15880,7 @@
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {
       "fingerprint": "ab911bf4bd15fd34",
       "status": "fail",
-      "checked_at": "2026-11-18T17:58:00.641824+00:00",
+      "checked_at": "2026-11-18T18:18:58.843257+00:00",
       "languages": {
         "en": {
           "ok": false,
@@ -17472,7 +17472,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-18T17:57:45.482250+00:00",
+      "checked_at": "2026-11-18T18:18:44.186049+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17510,7 +17510,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-18T17:57:57.186977+00:00",
+      "checked_at": "2026-11-18T18:18:55.569293+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17776,7 +17776,7 @@
     "/search": {
       "fingerprint": "4fba10d93c535f75",
       "status": "pass",
-      "checked_at": "2026-11-18T17:57:51.856780+00:00",
+      "checked_at": "2026-11-18T18:18:50.461452+00:00",
       "languages": {
         "en": {
           "ok": true,
