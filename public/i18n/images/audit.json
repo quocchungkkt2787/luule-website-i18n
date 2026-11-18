@@ -28429,13 +28429,133 @@
     "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__18__9e31a29349c74d619d9ff98c0ac3be87.jpg": {
       "reason": "404 Client Error: Not Found for url: https://file.hstatic.net/1000191021/file/them_tieu_de_phu__18__9e31a29349c74d619d9ff98c0ac3be",
       "status": "check_failed"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__20__6a93e3fb83134be6a4af3808a04e6d1a.jpg": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "TAI LƯU LẺ ^Á Dich vụ vận chuyển là gì?",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__21__2feb900dd0d045a59042fde6ba659610.jpg": {
+      "confident_word_count": 21,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "VĂN TÀI LƯU LE LL —— Lựa chọn công ty tải uy tín, chất lượng có mức giá cạnh tranh nhất.",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___1__40b9d11b3b574c00b24335fd12361d7c_grande.png": {
+      "confident_word_count": 17,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "DUONG SẮT VIỆT N, GA LÁ Giới thiệu tổng quát về Ga Giáp Bát VẬN TÀI LƯU",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___2__43433847ffb8448a8f0eef1ec79074ad_grande.png": {
+      "confident_word_count": 16,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "we. Z1 cE Vận chuyển hang từ Ha Nội di Dak Lắk như thé nao? VẬN",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___3__4dc3059804ce4ea59dc8e06212f9763d_grande.png": {
+      "confident_word_count": 11,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "—— di Dak Lak Dich vu van chuyén hang tir Ha",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___4__1e58714aa6ef4fc2b46c95210e9534c2_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Giới thiệu sơ lược về tuyến Hà Nội Đắk Lắk",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___600___450_px___800___400_px__3b8b60c60e9d4e8eb1b71ea812de0801_grande.png": {
+      "confident_word_count": 16,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Thời gian vận chuyển hàng tuyến ga VAN TAI LƯU LE} Sóng Thần ga Giáp Bát",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___600___450_px___800___400_px___2__7a896879329e4d82ad554f4bf58d2a0b_grande.png": {
+      "confident_word_count": 13,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "he Van chuyén hang từ Hà Nội đi Gia Lai như thế nào?",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___600___450_px___800___400_px___3__2ec9d2559f5b4a198f79ef558ab93dde_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "lE Sơ lược về Gia Lai Db ps ae",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px___600___450_px___800___400_px___4__977b773adf744036b4dd9052e950e928_grande.png": {
+      "confident_word_count": 8,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "LÊ Chi phí vận chuyển như thế nào",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/them_tieu_de_phu__800___400_px__a74baa846b1948e393aa0e1e0abc4004_grande.png": {
+      "confident_word_count": 9,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "GA R' HARE, Gidi thiéu quát về Ga Than",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/thiet_ke_chua_co_ten__2__5d60306611fc4303b1f32e430c3ed0b0_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "——— RE",
+      "status": "no_vietnamese_detected"
     }
   },
-  "images_scanned": 2856,
-  "images_unscanned": 234,
+  "images_scanned": 2868,
+  "images_unscanned": 222,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2423,
+  "possibly_vietnamese": 2434,
   "unique_public_images": 3090,
   "version": 1
 }
