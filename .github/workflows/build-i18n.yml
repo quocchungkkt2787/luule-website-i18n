@@ -78,8 +78,10 @@ jobs:
           stalls = int(state.get('no_progress_runs', 0))
           fast = (os.getenv('EVENT_NAME') == 'schedule' and
                   os.getenv('EVENT_SCHEDULE') == '47 */4 * * *')
+          # Live browser QA must not restart the expensive translation builder.
+          # It still runs during normal daily/public-content checks.
           unfinished = any((pending_packs, partial_pages, missing_texts,
-                            uncrawled_without_pack, fetch_errors, live_pending))
+                            uncrawled_without_pack, fetch_errors))
           # Every manual/push/daily run scans for NEW pages. The 4-hour backup
           # also retries unfinished work even after a previously stalled chain.
           do_build = (not fast) or unfinished
@@ -192,7 +194,9 @@ jobs:
           total_packs = int(manifest.get('published_pack_files_total', 0))
           failures = len(coverage.get('skipped_or_failed', []))
           unvisited_missing = int(coverage.get('unvisited_without_existing_pack', 0))
-          unfinished = any((pending, partial, missing_texts, failures, unvisited_missing, live_pending))
+          # Count only untranslated public content as build backlog.
+          # Unverified live routes are a separate QA issue, not a translation backlog.
+          unfinished = any((pending, partial, missing_texts, failures, unvisited_missing))
           progressed = (count > int(os.getenv('BEFORE_COUNT', 0)) or
                         total_packs > int(os.getenv('BEFORE_PACKS_TOTAL', 0)) or
                         pending < int(os.getenv('BEFORE_PENDING', pending)) or
@@ -371,21 +375,22 @@ jobs:
               out.write(f'- EN/ZH live verified: {live_verified}; live pending: {live_pending}\n')
               out.write(f'- Chain index: {depth} (no fixed batch limit)\n')
 
-          # The 933/933 static JSON-pack count is NOT proof of full
-          # website translation. Continue one queued batch at a time until
-          # BOTH static coverage and rolling anonymous EN/ZH live checks pass.
-          # Stagnation is reported but is not a silent termination condition.
+          # Static text translation and live-browser QA have separate lifecycles.
+          # A broken/404 URL can never be repaired by translating all pages again.
+          # Daily discovery and scheduled retries remain active for future SEO edits.
           if conflict:
               reason = 'Conflicting generated JSON; rebuild from fresh main'
           elif not unfinished:
-              print('Static packs and currently discovered anonymous public '
-                    'routes passed EN/ZH checks. Daily discovery stays active.')
+              print(f'Public translation packs complete. Live EN/ZH QA still pending: '
+                    f'{live_pending}. No immediate build restart; daily discovery stays active.')
+              reason = None
+          elif stalls >= 3:
+              print('::warning::Static text translation has stalled for three '
+                    'batches. Stopping immediate re-dispatch; scheduled maintenance '
+                    'will retry and report the unresolved backlog.')
               reason = None
           else:
-              if stalls >= 3:
-                  print('::warning::Repeated no-progress runs; inspect live-qa.json '
-                        'and unblock source-data, CDN or browser errors.')
-              reason = 'Unverified public EN/ZH page content remains'
+              reason = 'Static public translation packs/text remain unfinished'
 
           if reason:
               repo = os.environ['GITHUB_REPOSITORY']
