@@ -29749,13 +29749,133 @@
       "has_possible_vietnamese_text": true,
       "ocr_excerpt": "VẬN CHUYỂN HÀNG SAI GON NAM ĐỊNH",
       "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-sai-gon-ninh-binh-1_6e4b5cb5a5674e56a8be781fb5ad8dd3_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "l: >.- đi",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-hang-sai-gon-thai-binh_4d0c348a37d543cb989af0b95bf9f690_grande.jpg": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "L& VẬN TAI LƯU LE on",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-nha_ecbdcdb2e8004ef8a1ee76c59dddb38b_grande.png": {
+      "confident_word_count": 14,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "2] DỊCH VỤ VẬN CHUYỂN NHÀ BẰNG ĐƯỜNG SẮT Uy tin chuyén nghiép —,",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-nhasg-db_a1c283c9f46e4298a92e9b1ebd03e493_grande.png": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "IN",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-nhasg-lc_7413350826f044e197d3570ef62e9c5a_grande.png": {
+      "confident_word_count": 7,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "if lưu quai ng k\\ chuyển Lai",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-noi-dia_large.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        480,
+        282
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen-thai-nguyen-binh-duong-an-toan_5bceb0f2637e456ea2318a4440d3da8c_grande.png": {
+      "confident_word_count": 15,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "TÀI LƯU LE lu. Vận Binh Dương đi Thái an toan chuyén nghiép gia ré",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen_642a0d7594134e64ba9eed5313025411_grande.png": {
+      "confident_word_count": 12,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "QO “4 Giá cước dịch vụ vận chuyển Sài Gòn Hà Nội",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-chuyen_a6f15124e5304539b5cf0f735bb59112_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "Globetrotter x,",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-tai-da-phuong-thuc-nhieu-doanh-nghiep-lua-chon_0fbf819bebdf467d83021e7605299e7a_grande.jpg": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Mũ TRANSPORTATION",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van-tai-hang-hoa-bang-oto1_ae55678d12f54b91930ab3c9e26c113e_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        363
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "=> mii. me",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van-tai-hang-hoa-duong-bien_6475e335e82446429ae57bf93f53e3d3_grande.jpg": {
+      "confident_word_count": 1,
+      "dimensions": [
+        600,
+        399
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "GIVEN",
+      "status": "no_vietnamese_detected"
     }
   },
-  "images_scanned": 2988,
-  "images_unscanned": 102,
+  "images_scanned": 3000,
+  "images_unscanned": 90,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2526,
+  "possibly_vietnamese": 2533,
   "unique_public_images": 3090,
   "version": 1
 }
