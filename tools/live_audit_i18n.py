@@ -6,7 +6,7 @@ import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -77,7 +77,24 @@ def inspect(page, route, lang, entries):
             'examples': remaining, 'title': title[:140]}
 
 def main():
-    catalog = packs()
+    # Only check accessible public pages. The crawler confirms deleted legacy
+    # routes and redirects separately in coverage.json; their obsolete packs
+    # should not permanently block live EN/ZH completion.
+    coverage = read(PUBLIC / 'coverage.json', {})
+    inactive = set()
+    for entry in coverage.get('inactive_redirects_or_404', []):
+        if not isinstance(entry, dict):
+            continue
+        if entry.get('reason') not in ('not_found', 'redirect_alias'):
+            continue
+        url = entry.get('url', '')
+        if isinstance(url, str) and urlsplit(url).netloc.lower() in ('vantailuule.vn', 'www.vantailuule.vn'):
+            inactive.add(urlsplit(url).path.rstrip('/') or '/')
+    catalog = {route: pack for route, pack in packs().items()
+               if route not in inactive}
+    if inactive:
+        print(f'Excluding {len(inactive)} verified inactive/redirected legacy URLs '
+              f'from live QA (kept in crawl coverage report).', flush=True)
     old = read(AUDIT, {}).get('routes', {})
     if not isinstance(old, dict):
         old = {}
