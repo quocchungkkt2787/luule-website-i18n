@@ -1,17 +1,13 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-19T03:06:35.639759+00:00",
-  "public_routes_total": 936,
-  "public_routes_verified": 933,
-  "public_routes_pending": 3,
-  "public_routes_failed": 3,
-  "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
-    "/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam",
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon"
-  ],
-  "full_live_coverage_verified": false,
+  "tested_at": "2026-11-19T03:28:23.378724+00:00",
+  "public_routes_total": 935,
+  "public_routes_verified": 935,
+  "public_routes_pending": 0,
+  "public_routes_failed": 0,
+  "failed_examples": [],
+  "full_live_coverage_verified": true,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
@@ -15879,21 +15875,6 @@
         }
       }
     },
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {
-      "fingerprint": "ab911bf4bd15fd34",
-      "status": "fail",
-      "checked_at": "2026-11-19T03:06:35.610775+00:00",
-      "languages": {
-        "en": {
-          "ok": false,
-          "reason": "HTTP 404"
-        },
-        "zh": {
-          "ok": false,
-          "reason": "HTTP 404"
-        }
-      }
-    },
     "/blogs/tuyen-dung": {
       "fingerprint": "e611d4720f792b84",
       "status": "pass",
@@ -16162,23 +16143,19 @@
     },
     "/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam": {
       "fingerprint": "ce542071fd76d418",
-      "status": "fail",
-      "checked_at": "2026-11-19T03:06:15.221350+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-19T03:28:17.370900+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chịu trách nhiệm về thiệt hại xảy ra (nếu có)."
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Transported by the Northern Southern Railroad"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chịu trách nhiệm về thiệt hại xảy ra (nếu có)."
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "由北方南方铁路运输"
         }
       }
@@ -16375,25 +16352,19 @@
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon": {
       "fingerprint": "e57f7b1ed7bff378",
-      "status": "fail",
-      "checked_at": "2026-11-19T03:06:21.822843+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-19T03:28:23.345265+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            ". Đối với xe tay ga đắt tiền từ cước phí sẽ cao hơn tuỳ thuộc cách thức gửi của từng khách hàng.",
-            "đối với xe phân khối (Tùy theo yêu cầu của khách hàng);"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Send motorcycles from Hanoi to Saigon: Safety, Saving Price"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            ". Đối với xe tay ga đắt tiền từ cước phí sẽ cao hơn tuỳ thuộc cách thức gửi của từng khách hàng.",
-            "đối với xe phân khối (Tùy theo yêu cầu của khách hàng);"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "把摩托车从河内送到西贡:安全,节省价格"
         }
       }
@@ -17484,7 +17455,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-19T03:05:48.338622+00:00",
+      "checked_at": "2026-11-19T03:27:59.570653+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17522,7 +17493,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-19T03:06:01.701568+00:00",
+      "checked_at": "2026-11-19T03:28:11.461473+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17788,7 +17759,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-19T03:05:55.624983+00:00",
+      "checked_at": "2026-11-19T03:28:06.313296+00:00",
       "languages": {
         "en": {
           "ok": true,
