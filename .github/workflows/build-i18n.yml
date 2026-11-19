@@ -32,7 +32,8 @@ permissions:
 concurrency:
   group: luule-i18n-static
   cancel-in-progress: false
-  queue: max
+  # Keep only the newest pending run; never build a backlog of 100 runs.
+  queue: single
 
 jobs:
   build:
@@ -323,20 +324,12 @@ jobs:
           echo '::error::Push rejected three times; check branch protection and repository permission.'
           exit 1
 
-      - name: Automatically continue translation backlog
-        # Explicit workflow_dispatch works with GITHUB_TOKEN (unlike a push
-        # made by GITHUB_TOKEN). One queued successor at a time.
-        if: steps.gate.outputs.build == 'true' && (steps.persist.outputs.result == 'published' || steps.persist.outputs.result == 'conflict')
-        env:
-          PERSIST_RESULT: ${{ steps.persist.outputs.result }}
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-          CHAIN_DEPTH: ${{ inputs.chain_depth || '0' }}
+      - name: Report remaining translation backlog (scheduled retry only)
+        if: steps.gate.outputs.build == 'true'
         run: |
           python - <<'PY'
-          import json, os
+          import json
           from pathlib import Path
-          from urllib.request import Request, urlopen
 
           def load(path):
               try:
@@ -347,65 +340,30 @@ jobs:
           manifest = load('public/i18n/manifest.json')
           audit = load('public/i18n/audit.json')
           coverage = load('public/i18n/coverage.json')
-          state = load('.ll-i18n-state.json')
           qa = load('public/i18n/live-qa.json')
-          live_pending = int(qa.get('public_routes_pending', 1))
-          live_verified = int(qa.get('public_routes_verified', 0))
-          pending = int(manifest.get('pages_pending', 0))
-          partial = int(audit.get('pages_pending', 0))
-          missing_texts = int(audit.get('missing_unique_texts', 0))
-          unvisited_missing = int(coverage.get('unvisited_without_existing_pack', 0))
-          failures = len(coverage.get('skipped_or_failed', []))
-          stalls = int(state.get('no_progress_runs', 0))
-          conflict = os.getenv('PERSIST_RESULT') == 'conflict'
-          try:
-              depth = max(0, int(os.getenv('CHAIN_DEPTH', '0')))
-          except ValueError:
-              depth = 0
-          # Live QA failures are tracked, but cannot trigger full translation reruns.
-          unfinished = any((pending, partial, missing_texts, unvisited_missing, failures))
-          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
-              out.write('### Luu Le translation coverage and continuation\n\n')
-              out.write(f'- Pending JSON packs: {pending}\n')
-              out.write(f'- Incomplete translated pages: {partial}\n')
-              out.write(f'- Missing unique strings: {missing_texts}\n')
-              out.write(f'- Unvisited URLs without packs: {unvisited_missing}\n')
-              out.write(f'- Failed page fetches needing retry: {failures}\n')
-              out.write(f'- Redirected/deleted legacy URL aliases: {len(coverage.get("inactive_redirects_or_404", []))}\n')
-              out.write(f'- No-progress runs: {stalls}\n')
-              out.write(f'- EN/ZH live verified: {live_verified}; live pending: {live_pending}\n')
-              out.write(f'- Chain index: {depth} (no fixed batch limit)\n')
-
-          # Static text translation and live-browser QA have separate lifecycles.
-          # A broken/404 URL can never be repaired by translating all pages again.
-          # Daily discovery and scheduled retries remain active for future SEO edits.
-          if conflict:
-              reason = 'Conflicting generated JSON; rebuild from fresh main'
-          elif not unfinished:
-              print(f'Public translation packs complete. Live EN/ZH QA still pending: '
-                    f'{live_pending}. No immediate build restart; daily discovery stays active.')
-              reason = None
-          elif stalls >= 3:
-              print('::warning::Static text translation has stalled for three '
-                    'batches. Stopping immediate re-dispatch; scheduled maintenance '
-                    'will retry and report the unresolved backlog.')
-              reason = None
+          backlog = {
+              'Incomplete packs': int(manifest.get('pages_pending', 0)),
+              'Incomplete pages': int(audit.get('pages_pending', 0)),
+              'Missing unique text segments': int(audit.get('missing_unique_texts', 0)),
+              'Unvisited URLs without packs': int(coverage.get('unvisited_without_existing_pack', 0)),
+              'Failed public fetches': len(coverage.get('skipped_or_failed', [])),
+          }
+          remaining = sum(backlog.values())
+          print('Public text translation remaining:', backlog)
+          print('Live EN/ZH QA pending (separate from text backlog):',
+                int(qa.get('public_routes_pending', 0)))
+          if remaining:
+              print('::warning::Text backlog remains. Next scheduled maintenance '
+                    'will retry; no recursive workflow dispatch.')
           else:
-              reason = 'Static public translation packs/text remain unfinished'
-
-          if reason:
-              repo = os.environ['GITHUB_REPOSITORY']
-              request = Request(
-                  f'https://api.github.com/repos/{repo}/actions/workflows/build-i18n.yml/dispatches',
-                  data=json.dumps({'ref': 'main',
-                                   'inputs': {'chain_depth': str(depth+1)}}).encode('utf-8'),
-                  method='POST',
-                  headers={'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'],
-                           'Accept': 'application/vnd.github+json',
-                           'X-GitHub-Api-Version': '2022-11-28',
-                           'User-Agent': 'LuuLePublicTranslationBot'})
-              with urlopen(request, timeout=30) as response:
-                  if response.status != 204:
-                      raise RuntimeError('Unexpected dispatch status ' + str(response.status))
-              print(f'Queued next GitHub Actions batch #{depth+1}: {reason}.')
+              print('Text translation packs are complete. No additional '
+                    'workflow dispatch needed; daily checks remain active.')
+          with open(__import__('os').environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
+              out.write('### Translation completion / next scheduled maintenance\\n\\n')
+              for label, value in backlog.items():
+                  out.write(f'- {label}: {value}\\n')
+              out.write(f'- Live EN/ZH checks still pending (independent QA): '
+                        f'{qa.get("public_routes_pending", "unknown")}\\n')
+              out.write('- Recursive dispatch: disabled. Daily discovery and '
+                        'scheduled retry remain enabled.\\n')
           PY
