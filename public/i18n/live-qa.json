@@ -1,13 +1,16 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-19T03:51:59.796844+00:00",
+  "tested_at": "2026-11-19T12:14:59.447033+00:00",
   "public_routes_total": 935,
-  "public_routes_verified": 935,
-  "public_routes_pending": 0,
-  "public_routes_failed": 0,
-  "failed_examples": [],
-  "full_live_coverage_verified": true,
+  "public_routes_verified": 933,
+  "public_routes_pending": 2,
+  "public_routes_failed": 2,
+  "failed_examples": [
+    "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon",
+    "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi"
+  ],
+  "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
@@ -16389,20 +16392,28 @@
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon": {
-      "fingerprint": "4601cbe410e62f5b",
-      "status": "pass",
-      "checked_at": "2026-11-17T20:26:46.995791+00:00",
+      "fingerprint": "c367b51246178e7c",
+      "status": "fail",
+      "checked_at": "2026-11-19T12:14:53.034001+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chuẩn bị dữ liệu để nhận báo giá vận chuyển Hà Nội – Sài Gòn",
+            "Với hàng gửi từ Hà Nội vào TP.HCM, cần nêu rõ nơi nhận và giao, số kiện, loại hàng, tổng khối lượng, thể tích ",
+            "Đối với hàng trên pallet, hàng cần nâng hạ hoặc giao tại nhiều địa chỉ, vui lòng bổ sung yêu cầu thao tác để p"
+          ],
           "title": "Bills sent from Hanoi into cheap Saigon"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chuẩn bị dữ liệu để nhận báo giá vận chuyển Hà Nội – Sài Gòn",
+            "Với hàng gửi từ Hà Nội vào TP.HCM, cần nêu rõ nơi nhận và giao, số kiện, loại hàng, tổng khối lượng, thể tích ",
+            "Đối với hàng trên pallet, hàng cần nâng hạ hoặc giao tại nhiều địa chỉ, vui lòng bổ sung yêu cầu thao tác để p"
+          ],
           "title": "从河内寄到廉价西贡的钞票"
         }
       }
@@ -16693,20 +16704,28 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {
-      "fingerprint": "2152bd2f510eb8b8",
-      "status": "pass",
-      "checked_at": "2026-11-17T21:11:14.803253+00:00",
+      "fingerprint": "00ad9cd2e08630c6",
+      "status": "fail",
+      "checked_at": "2026-11-19T12:14:59.410063+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Nếu hàng cần xe nâng, bốc xếp, đóng gói hoặc giao tại nhiều điểm, nên ghi rõ ngay trong yêu cầu để được xác nh",
+            "Thông tin cần cung cấp khi yêu cầu báo giá Sài Gòn – Hà Nội",
+            "Để nhận báo giá phù hợp với lô hàng, hãy cung cấp địa chỉ lấy hàng tại TP.HCM, địa chỉ giao tại Hà Nội, loại h"
+          ],
           "title": "Stock price sheet from TpHCM to low-cost Hanoi"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Nếu hàng cần xe nâng, bốc xếp, đóng gói hoặc giao tại nhiều điểm, nên ghi rõ ngay trong yêu cầu để được xác nh",
+            "Thông tin cần cung cấp khi yêu cầu báo giá Sài Gòn – Hà Nội",
+            "Để nhận báo giá phù hợp với lô hàng, hãy cung cấp địa chỉ lấy hàng tại TP.HCM, địa chỉ giao tại Hà Nội, loại h"
+          ],
           "title": "从TpHCM到低成本河内股价表"
         }
       }
@@ -17455,7 +17474,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-19T03:51:46.263242+00:00",
+      "checked_at": "2026-11-19T12:14:31.309229+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17493,7 +17512,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-19T03:51:59.766791+00:00",
+      "checked_at": "2026-11-19T12:14:46.651103+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17759,7 +17778,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-19T03:51:53.582842+00:00",
+      "checked_at": "2026-11-19T12:14:38.725386+00:00",
       "languages": {
         "en": {
           "ok": true,
