@@ -362,7 +362,8 @@ jobs:
               depth = max(0, int(os.getenv('CHAIN_DEPTH', '0')))
           except ValueError:
               depth = 0
-          unfinished = any((pending, partial, missing_texts, unvisited_missing, failures, live_pending))
+          # Live QA failures are tracked, but cannot trigger full translation reruns.
+          unfinished = any((pending, partial, missing_texts, unvisited_missing, failures))
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
               out.write('### Luu Le translation coverage and continuation\n\n')
               out.write(f'- Pending JSON packs: {pending}\n')
