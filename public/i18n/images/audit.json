@@ -762,6 +762,16 @@
       "ocr_excerpt": "[TA",
       "status": "no_vietnamese_detected"
     },
+    "https://cdn.hstatic.net/files/1000191021/article/chinh_sach_bao_mat_ll-seo-gsc-ga4_25c2c414f2b74ed3a6fd9dbbc4ecdbbe_large.png": {
+      "confident_word_count": 37,
+      "dimensions": [
+        480,
+        320
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Chính sách bảo mật ứng dụng Google SÁCH Cam kết bảo vệ và giữ an toàn dữ liệu E2 Pham vi, mục đích và cách sử dụng dữ Quyển của người dùng và liên hệ hỗ trợ",
+      "status": "possibly_contains_vietnamese"
+    },
     "https://cdn.hstatic.net/files/1000191021/article/ddf72165-4a1a-4913-a461-6544548aabf6_72abcc66bcd54bd5818ee567d937ce96_large.png": {
       "confident_word_count": 5,
       "dimensions": [
@@ -770,6 +780,16 @@
       ],
       "has_possible_vietnamese_text": true,
       "ocr_excerpt": "VẬN 1E LÊ BẮC NAM",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://cdn.hstatic.net/files/1000191021/article/dieu_khoan_su_dung_ll-seo-gsc-ga4_9b577b0b034840d6babbd0db22df2a9e_large.png": {
+      "confident_word_count": 44,
+      "dimensions": [
+        480,
+        320
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Điều khoản sử dụng ứng dụng EO-GSC-GA4 ll Analytics Sheets ĐIỀU KHOẢN. SỬDỤNG Quy định phạm vì và cách sử dung ứng dụng và trách nhiệm của người dùng Nguyên tắc bảo vệ và sử dụng dữ liệu Tuan thủ chính sách của Google",
       "status": "possibly_contains_vietnamese"
     },
     "https://cdn.hstatic.net/files/1000191021/article/f93db633-1b38-4549-a67e-0463b89e871c_e9384e564dad431ebc874499bdb69f4b_large.png": {
@@ -781,6 +801,16 @@
       "has_possible_vietnamese_text": false,
       "ocr_excerpt": "“VAN VAN CHuYi Dy CONTAINER BAC NAM",
       "status": "no_vietnamese_detected"
+    },
+    "https://cdn.hstatic.net/files/1000191021/article/gioi_thieu_ung_dung_ll-seo-gsc-ga4__1__f515e2105a734a0f8aaafeceb93d11b0_large.png": {
+      "confident_word_count": 36,
+      "dimensions": [
+        480,
+        320
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "[25 Giới thiệu ứng dụng —= VAN TAI LƯU LE, Vận Tải Lưu Lê Thu thập di igu SEO (GSC) Phân tích hiệu quả website (GA4) J€ all Téng hợp va báo cáo trên Google Sheets",
+      "status": "possibly_contains_vietnamese"
     },
     "https://cdn.hstatic.net/files/1000191021/article/gui_xe_may_ha_noi_sai_gon_co_hotline_786d9676fc7a46499c8783261e6db9a4_large.png": {
       "confident_word_count": 10,
@@ -30589,13 +30619,103 @@
       "has_possible_vietnamese_text": false,
       "ocr_excerpt": "",
       "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vinh-nghe-an_843e738af0ef4589821213af17d23273_grande_2b40d518ba1b44b686749898fa4fe345_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vinh-nghe-an_843e738af0ef4589821213af17d23273_grande_58d8580b9b414d1582416eed92c93d68_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vinh-nghe-an_843e738af0ef4589821213af17d23273_grande_73887dcc270a46f59af8d010bd107778_grande.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vinh-phuc-binh-phuoc_86f4fc04a4744fb8950192ef77982953_grande.png": {
+      "confident_word_count": 16,
+      "dimensions": [
+        383,
+        513
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "nòng Hải “Than NẠI Chan UDON THANI Khi RATCHATHAKI Nam lên: của Campt uchia ey Trang)",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/vinh-phuc_069ee59eb3c74508a0815c883f14a813_grande.png": {
+      "confident_word_count": 8,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "`. Tay Vĩnh Phúc tiềm phát triển mạnh",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/vinh-phuc__1__5dae25f557654bc6887607d0b4142435_grande.png": {
+      "confident_word_count": 10,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Th CLL Kinh nghi: huyển nhà Sài Gòr Vĩnh Phúc",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/vtds_viet_nam_9ce460ff4fb948298412b8d643d51a9c_grande.png": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "=5 DUONG SAT VIỆT NAM",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/vung-tau-ha-nam_37ab13761fed476fa86679794e6ab391_grande.png": {
+      "confident_word_count": 19,
+      "dimensions": [
+        407,
+        536
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "xếi bà) HAD Chan NỈ .* AKON NAKHON KHON NS ae 28 giờ km `. Campuchia Penh Minh ing",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/vung-tau-hai-duong_effae811f08b4a05aafc322d5c5f0b14_grande.png": {
+      "confident_word_count": 28,
+      "dimensions": [
+        518,
+        560
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Giang HaN hịphố Hải Duon lải Khẩu by HAI NAM: Tama A, UDON lạ LOK Lan 33 giờ masgi km Tp aya Phi Tp Đà Lat ne Ta",
+      "status": "possibly_contains_vietnamese"
     }
   },
-  "images_scanned": 3072,
-  "images_unscanned": 18,
+  "images_scanned": 3084,
+  "images_unscanned": 9,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2583,
-  "unique_public_images": 3090,
+  "possibly_vietnamese": 2592,
+  "unique_public_images": 3093,
   "version": 1
 }

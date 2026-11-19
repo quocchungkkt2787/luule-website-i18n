@@ -1,0 +1,738 @@
+{
+  "complete": true,
+  "missing_count": 0,
+  "preview_sources": [
+    "LL-SEO-GSC-GA4 là ứng dụng phân tích dữ liệu website phục vụ hoạt động quản trị và tối ưu SEO nội bộ của Công ty TNHH Vận Tải Lưu Lê.",
+    "Thu thập và tổng hợp dữ liệu hiệu quả tìm kiếm từ Google Search Console.",
+    "Tìm hiểu ứng dụng LL-SEO-GSC-GA4 của Vận Tải Lưu Lê, sử dụng Google Search Console, GA4 và Google Sheets để phân tích dữ liệu và lập báo cáo SEO nội bộ.",
+    "Đơn vị quản lý:Công ty TNHH Vận Tải Lưu Lê"
+  ],
+  "route": "/blogs/ll-seo-gsc-ga4/gioi-thieu-ung-dung",
+  "texts": {
+    "19 Tháng 11 2026": {
+      "en": "19 November 2026",
+      "zh": "2026年11月19日 (中文(简体) )."
+    },
+    "BLOG": {
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "Breadcrumb": {
+      "en": "Breadcrubb",
+      "zh": "布莱克鲁布"
+    },
+    "BÁO CHÍ": {
+      "en": "Press",
+      "zh": "媒体报道"
+    },
+    "Bạn cần tìm gì?": {
+      "en": "What are you looking for?",
+      "zh": "你们在找什么?"
+    },
+    "BẢNG GIÁ": {
+      "en": "Shipping Rates",
+      "zh": "运费价格表"
+    },
+    "BẢNG GIÁ CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "Full-Service Moving Rates",
+      "zh": "一站式搬家价格表"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN BẮC NAM": {
+      "en": "North–South Freight Rates",
+      "zh": "南北货物运输价格表"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN HÀ NỘI SÀI GÒN": {
+      "en": "Hanoi–Saigon Freight Rates",
+      "zh": "河内至西贡货运价格表"
+    },
+    "BẢNG GIÁ VẬN CHUYỂN SÀI GÒN HÀ NỘI": {
+      "en": "Saigon–Hanoi Freight Rates",
+      "zh": "西贡至河内货运价格表"
+    },
+    "BẢNG GIÁ XE TẢI CHỞ HÀNG": {
+      "en": "Truck Freight Rates",
+      "zh": "货车运输价格表"
+    },
+    "Bắt đầu tư vấn": {
+      "en": "Start consulting",
+      "zh": "开始咨询"
+    },
+    "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
+      "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
+      "zh": "C94 KNO for AN,\"私人讲座线\",\"三街\"和\"AN\",TpHCM."
+    },
+    "CHUYỂN KHO XƯỞNG": {
+      "en": "Warehouse & Factory Relocation",
+      "zh": "仓库与工厂搬迁"
+    },
+    "CHUYỂN NHÀ": {
+      "en": "Moving Services",
+      "zh": "搬家服务"
+    },
+    "CHUYỂN NHÀ TRỌN GÓI": {
+      "en": "Full-Service Moving",
+      "zh": "一站式搬家服务"
+    },
+    "CHUYỂN VĂN PHÒNG": {
+      "en": "Office Relocation",
+      "zh": "办公室搬迁"
+    },
+    "CHÍNH SÁCH": {
+      "en": "POLICIES",
+      "zh": "政策"
+    },
+    "Cam kết của chúng tôi": {
+      "en": "Our Commitments",
+      "zh": "我们的承诺"
+    },
+    "Chat Zalo Vận Tải Lưu Lê": {
+      "en": "Chat with Luu Le Transport on Zalo",
+      "zh": "通过 Zalo 联系 Luu Le 运输公司"
+    },
+    "Chuyển kho xưởng Hà Nội → Sài Gòn": {
+      "en": "Warehouse & Factory Relocation from Hanoi to Saigon",
+      "zh": "从河内搬迁仓库与工厂至西贡"
+    },
+    "Chuyển kho xưởng Sài Gòn → Hà Nội": {
+      "en": "Warehouse & Factory Relocation from Saigon to Hanoi",
+      "zh": "从西贡搬迁仓库与工厂至河内"
+    },
+    "Chuyển kho xưởng TpHCM": {
+      "en": "Warehouse & Factory Relocation in Ho Chi Minh City",
+      "zh": "胡志明市仓库与工厂搬迁"
+    },
+    "Chuyển nhà Bắc Nam": {
+      "en": "North–South Moving Services",
+      "zh": "南北搬家服务"
+    },
+    "Chuyển nhà Hà Nội → Sài Gòn": {
+      "en": "Moving from Hanoi to Saigon",
+      "zh": "从河内搬家至西贡"
+    },
+    "Chuyển nhà Sài Gòn → Hà Nội": {
+      "en": "Moving from Saigon to Hanoi",
+      "zh": "从西贡搬家至河内"
+    },
+    "Chuyển nhà Sài Gòn → Miền Bắc": {
+      "en": "Moving from Saigon to Northern Vietnam",
+      "zh": "从西贡搬家至越南北部"
+    },
+    "Chuyển nhà Sài Gòn → Miền Trung": {
+      "en": "Moving from Saigon to Central Vietnam",
+      "zh": "从西贡搬家至越南中部"
+    },
+    "Chuyển nhà Sài Gòn → Miền Tây Nam Bộ": {
+      "en": "Moving from Saigon to Southwest Vietnam",
+      "zh": "从西贡搬家至越南西南部"
+    },
+    "Chuyển nhà Sài Gòn → Tây Nguyên": {
+      "en": "Republic of Saigon",
+      "zh": "西贡共和国"
+    },
+    "Chuyển nhà TpHCM": {
+      "en": "Moving Services in Ho Chi Minh City",
+      "zh": "胡志明市搬家服务"
+    },
+    "Chuyển văn phòng Hà Nội → Sài Gòn": {
+      "en": "Office Relocation from Hanoi to Saigon",
+      "zh": "从河内搬迁办公室至西贡"
+    },
+    "Chuyển văn phòng Sài Gòn → Hà Nội": {
+      "en": "Office Relocation from Saigon to Hanoi",
+      "zh": "从西贡搬迁办公室至河内"
+    },
+    "Chuyển văn phòng TpHCM": {
+      "en": "Office Relocation in Ho Chi Minh City",
+      "zh": "胡志明市办公室搬迁"
+    },
+    "Chát AI Vận Tải Lưu Lê": {
+      "en": "Ale Media Media",
+      "zh": "Ale 媒体"
+    },
+    "Chát Zalo Vận Tải Lưu Lê": {
+      "en": "Chat with Luu Le Transport on Zalo",
+      "zh": "通过 Zalo 联系 Luu Le 运输公司"
+    },
+    "Chính sách bảo mật thông tin": {
+      "en": "Privacy Policy",
+      "zh": "隐私政策"
+    },
+    "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4": {
+      "en": "LL-SEO-GGSC-GA4 Application Security Policy",
+      "zh": "LL-SEO-GGSC-GA4 应用安全政策"
+    },
+    "Chính sách công ty": {
+      "en": "Company Policy",
+      "zh": "公司政策"
+    },
+    "Chính sách thanh toán": {
+      "en": "Payment Policy",
+      "zh": "付款政策"
+    },
+    "Chính sách và điều khoản": {
+      "en": "Policy and Terms",
+      "zh": "政策和条款"
+    },
+    "Chính sách đền bù thiệt hại": {
+      "en": "Damage Compensation Policy",
+      "zh": "货损赔偿政策"
+    },
+    "Chức năng chính": {
+      "en": "Main Function",
+      "zh": "主要函数"
+    },
+    "Copyright 2026 © Vận Tải Lưu Lê": {
+      "en": "Copyright 2026 © Media",
+      "zh": "版权 2026 © 媒体"
+    },
+    "Cám ơn bạn đã gửi thông tin. Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất!": {
+      "en": "Thank you for sending the information. We'll be in touch as soon as we can!",
+      "zh": "谢谢你送来情报 我们会尽快保持联系的!"
+    },
+    "Công Ty TNHH Vận Tải Lưu Lê | Người ĐDPL: Lê Quốc Chung | GPKD số: 0313 728 647 | Ngày cấp: 31 - 03 - 2016 | Nơi cấp: Sở Kế Hoạch và Đầu Tư TpHCM.": {
+      "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
+      "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
+    },
+    "Công ty TNHH Vận Tải Lưu Lê": {
+      "en": "Archived Transport Company",
+      "zh": "存档运输公司"
+    },
+    "DMCA.com Protection Status": {
+      "en": "DMCA.com Protection UTC",
+      "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "DỊCH VỤ CHÍNH": {
+      "en": "MAIN SERVICES",
+      "zh": "主要服务"
+    },
+    "Dịch vụ vận chuyển chính": {
+      "en": "Main Transport Service",
+      "zh": "主要运输事务处"
+    },
+    "Dịch vụ vận chuyển hàng hóa": {
+      "en": "Freight Transportation Services",
+      "zh": "货物运输服务"
+    },
+    "Dữ liệu được sử dụng phục vụ phân tích và báo cáo SEO của website vantailuule.vn, không nhằm mục đích quảng cáo cá nhân hóa hoặc bán dữ liệu người dùng.": {
+      "en": "Data is used to serve analysis and report GHP of the vantailule website.vn, not intended to promote personalization or sell user data.",
+      "zh": "数据用于服务分析和报告vantailule网站.vn的GHP,目的不是促进个性化或销售用户数据."
+    },
+    "EMAIL": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "Email Vận Tải Lưu Lê": {
+      "en": "Archived Transport",
+      "zh": "存档运输"
+    },
+    "Email: vantailuule@gmail.com": {
+      "en": "Email: vantailule@translate.com",
+      "zh": "电子邮件:vantailule@translate.com"
+    },
+    "Facebook": {
+      "en": "Facebook",
+      "zh": "脸书"
+    },
+    "Facebook Vận Tải Lưu Lê": {
+      "en": "Archived Download Facebook",
+      "zh": "已存档下载 Facebook"
+    },
+    "GIẢI PHÁP": {
+      "en": "Solutions",
+      "zh": "解决方案"
+    },
+    "GIỚI THIỆU": {
+      "en": "PORTUGUESE",
+      "zh": "葡萄牙"
+    },
+    "Giới thiệu LL-SEO-GSC-GA4 | Vận Tải Lưu Lê": {
+      "en": "About LL-Shix-GSC-GA4 | Archived Transport",
+      "zh": "关于LL-Shix-GSC-GA4 存档运输"
+    },
+    "Go": {
+      "en": "Go",
+      "zh": "走开"
+    },
+    "GÓC TƯ VẤN": {
+      "en": "Advice & Guides",
+      "zh": "咨询与指南"
+    },
+    "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
+      "en": "Call Hotline Media 0909 81 6625",
+      "zh": "拨打热线"
+    },
+    "Gửi": {
+      "en": "Send",
+      "zh": "发送"
+    },
+    "Gửi hàng Bình Dương → Miền Bắc": {
+      "en": "\"Presidents of the Pacific\" — North",
+      "zh": "\"太平洋主席\"——北方"
+    },
+    "Gửi hàng Bình Phước → Miền Bắc": {
+      "en": "\"Presidents of Peace\" — North",
+      "zh": "\"和平总统\"——北方."
+    },
+    "Gửi hàng Bắc Giang → Miền Nam": {
+      "en": "Send North Jiang River South",
+      "zh": "南送北江河去 南送北江河去"
+    },
+    "Gửi hàng Bắc Ninh → Miền Nam": {
+      "en": "Send North Ning No. South",
+      "zh": "派北宁号南去"
+    },
+    "Gửi hàng Hà Nam → Miền Nam": {
+      "en": "Send Han Nam South",
+      "zh": "派汉南南去"
+    },
+    "Gửi hàng Hà Nội – Sài Gòn": {
+      "en": "Ship from Hanoi to Saigon",
+      "zh": "从河内寄货至西贡"
+    },
+    "Gửi hàng Hưng Yên → Miền Nam": {
+      "en": "Send the Peace Line",
+      "zh": "发送和平线"
+    },
+    "Gửi hàng Hải Dương → Miền Nam": {
+      "en": "Send Ocean- > Southern",
+      "zh": "发送海洋 - > 南部"
+    },
+    "Gửi hàng Hải Phòng → Miền Nam": {
+      "en": "Send Customer Room- > Southern",
+      "zh": "发送客户室 -- > 南部"
+    },
+    "Gửi hàng Long An → Miền Bắc": {
+      "en": "Send Long An- > North",
+      "zh": "发送长安 -- > 北区"
+    },
+    "Gửi hàng Nam Định → Miền Nam": {
+      "en": "Send South Korea",
+      "zh": "发送韩国"
+    },
+    "Gửi hàng Ninh Bình → Miền Nam": {
+      "en": "\"September New York\".",
+      "zh": "\"9月纽约\"."
+    },
+    "Gửi hàng Phú Thọ → Miền Nam": {
+      "en": "Send Funky T-Bian",
+      "zh": "发送 Funky T-Bian"
+    },
+    "Gửi hàng Quảng Ninh → Miền Nam": {
+      "en": "Send Ningu Line",
+      "zh": "发送宁古行"
+    },
+    "Gửi hàng Sài Gòn – Hà Nội": {
+      "en": "Ship from Saigon to Hanoi",
+      "zh": "从西贡寄货至河内"
+    },
+    "Gửi hàng Thái Nguyên → Miền Nam": {
+      "en": "Send Thai Yuan 06 South",
+      "zh": "南送泰元06号"
+    },
+    "Gửi hàng Tây Ninh → Miền Bắc": {
+      "en": "Send Western Ning",
+      "zh": "送西宁来"
+    },
+    "Gửi hàng Vĩnh Phúc → Miền Nam": {
+      "en": "\"Meet of the Wings\" — Southern",
+      "zh": "\"翼相会\"-南方."
+    },
+    "Gửi hàng Vũng Tàu → Miền Bắc": {
+      "en": "Send Chinese Row- > North",
+      "zh": "发送中文行 - > 北区"
+    },
+    "Gửi hàng Đồng Nai → Miền Bắc": {
+      "en": "Send bronze Nai : North",
+      "zh": "送出青铜乃:北去."
+    },
+    "Gửi xe máy Bắc Nam": {
+      "en": "North–South Motorcycle Shipping",
+      "zh": "南北摩托车托运"
+    },
+    "HOTLINE": {
+      "en": "Hotline",
+      "zh": "服务热线"
+    },
+    "Hotline:": {
+      "en": "Hotline:",
+      "zh": "热线 :"
+    },
+    "HÌNH ẢNH": {
+      "en": "Photo Gallery",
+      "zh": "图片库"
+    },
+    "Hàng hóa thông thường": {
+      "en": "General Cargo",
+      "zh": "普通货物"
+    },
+    "HƯỚNG DẪN": {
+      "en": "Guides",
+      "zh": "指南"
+    },
+    "Hỗ trợ theo dõi thứ hạng từ khóa, hiệu quả trang đích và xu hướng truy cập.": {
+      "en": "Support tracks the class of key words, effective home page and access trends.",
+      "zh": "支持跟踪关键词的类,有效的主页和访问趋势."
+    },
+    "Hỗ trợ tự động hóa báo cáo SEO khi các kết nối được cấu hình và kiểm thử hoàn tất.": {
+      "en": "Support automated the FS report when the connections are configured and tested.",
+      "zh": "当连接配置和测试时, 支持 FS 报告自动化 。"
+    },
+    "KHÁCH HÀNG": {
+      "en": "BIRTHER",
+      "zh": "比尔"
+    },
+    "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
+      "en": "Connect with Luu Le Transport through our official channels.",
+      "zh": "通过官方渠道联系 Luu Le 运输公司。"
+    },
+    "LIÊN HỆ": {
+      "en": "GREEW",
+      "zh": "希腊"
+    },
+    "LIÊN KẾT": {
+      "en": "CONNECT WITH US",
+      "zh": "联系我们"
+    },
+    "LL-SEO-GSC-GA4 là ứng dụng phân tích dữ liệu website phục vụ hoạt động quản trị và tối ưu SEO nội bộ của Công ty TNHH Vận Tải Lưu Lê.": {
+      "en": "LL-SOE-GSC-GA4 is the site data analysis application that serves administrative and internal optimum of the Archived Transport Company.",
+      "zh": "LL-SOE-GSC-GA4是现场数据分析应用软件,为档案运输公司的行政和内部优化服务。"
+    },
+    "LL-SEO-GSC-GA4 – Ứng dụng phân tích SEO Vận Tải Lưu Lê": {
+      "en": "LL-SOE-GGSC-GA4 – CVI Media Analysis Application",
+      "zh": "LL-SOE-GGSC-GA4 – CVI 媒体分析应用"
+    },
+    "Liên hệ Vận Tải Lưu Lê": {
+      "en": "Media Media Contact",
+      "zh": "媒体联系人"
+    },
+    "Liên hệ:": {
+      "en": "Contact:",
+      "zh": "联系人 :"
+    },
+    "Logo Vận Tải Lưu Lê": {
+      "en": "Archived Transportation",
+      "zh": "存档运输"
+    },
+    "Máy móc, thiết bị": {
+      "en": "Machinery & Equipment",
+      "zh": "机械设备"
+    },
+    "Mạng xã hội Vận Tải Lưu Lê": {
+      "en": "Archived Social Network",
+      "zh": "存档社会网络"
+    },
+    "Mỗi Chuyến Hàng": {
+      "en": "Every Shipment",
+      "zh": "每一票货物"
+    },
+    "Một Niềm Tin": {
+      "en": "A Promise of Trust",
+      "zh": "一份信任"
+    },
+    "Mở menu": {
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "Mở tư vấn AI": {
+      "en": "Open Advisory AI",
+      "zh": "开放咨询AI"
+    },
+    "Nhập nội dung cần tìm...": {
+      "en": "Import Contents to Find...",
+      "zh": "导入要查找的内容..."
+    },
+    "Những lưu ý chung": {
+      "en": "General Information",
+      "zh": "一般须知"
+    },
+    "NỘI BỘ": {
+      "en": "Internal Portal",
+      "zh": "内部管理"
+    },
+    "Phân tích lượt truy cập và các sự kiện website qua Google Analytics 4.": {
+      "en": "Accessal Analysis and website events via Google Analytics 4.",
+      "zh": "通过Google Analytics 4. 访问分析和网站活动."
+    },
+    "Quyền truy cập Google": {
+      "en": "Google Access Rights",
+      "zh": "谷歌访问权限"
+    },
+    "THÔNG BÁO": {
+      "en": "Announcements",
+      "zh": "公告"
+    },
+    "THÔNG TIN": {
+      "en": "INFORMATION",
+      "zh": "公司信息"
+    },
+    "TRA CỨU GIÁ CƯỚC": {
+      "en": "CENTRAL",
+      "zh": "中央"
+    },
+    "TRA CỨU VẬN ĐƠN": {
+      "en": "TRACK SHIPMENT",
+      "zh": "查询运单"
+    },
+    "TRANG CHỦ": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "TUYỂN DỤNG": {
+      "en": "Careers",
+      "zh": "招聘"
+    },
+    "Thu thập và tổng hợp dữ liệu hiệu quả tìm kiếm từ Google Search Console.": {
+      "en": "Retrieved and synthesized effective search data from Google Search Cartel.",
+      "zh": "从Google搜索卡特尔中检索并合成了有效的搜索数据."
+    },
+    "Tra cước vận chuyển": {
+      "en": "Freight Rate Lookup",
+      "zh": "运费查询"
+    },
+    "Tra cứu vận đơn": {
+      "en": "Search for Singles",
+      "zh": "寻找单身者"
+    },
+    "Trang chủ": {
+      "en": "Homepage",
+      "zh": "主页"
+    },
+    "Trung tâm hướng dẫn": {
+      "en": "Guide Center",
+      "zh": "引导中心"
+    },
+    "Trợ lý AI Vận Tải Lưu Lê": {
+      "en": "AI Media Assistant",
+      "zh": "AI 媒体助理"
+    },
+    "Twitter": {
+      "en": "Twitter",
+      "zh": "微博"
+    },
+    "Twitter Vận Tải Lưu Lê": {
+      "en": "Twitter Media",
+      "zh": "推特媒体"
+    },
+    "TÀI KHOẢN": {
+      "en": "Account",
+      "zh": "账户"
+    },
+    "Tìm": {
+      "en": "Find",
+      "zh": "查找"
+    },
+    "Tìm hiểu ứng dụng LL-SEO-GSC-GA4 của Vận Tải Lưu Lê, sử dụng Google Search Console, GA4 và Google Sheets để phân tích dữ liệu và lập báo cáo SEO nội bộ.": {
+      "en": "Find out about LL-Sport-GGSC-GA4 applications of the Archived Transport, using Google Search Carts, GA4 and Google Sheets to analyze the data and set up internal FM report.",
+      "zh": "了解Archived Transport的LL-Sport-GGSC-GA4应用,使用Google搜索卡,GA4和Google Sheets来分析数据并设置内部调频报告."
+    },
+    "Tìm kiếm": {
+      "en": "Search",
+      "zh": "搜索"
+    },
+    "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
+      "en": "Advisor - IQ - Take the Single 24/7",
+      "zh": "顾问 - 智商 - 24/7采取单人制"
+    },
+    "Tư vấn AI Vận Tải Lưu Lê": {
+      "en": "Consulting AI Media",
+      "zh": "咨询AI媒体"
+    },
+    "VIDEOS": {
+      "en": "LIS",
+      "zh": "利比里亚"
+    },
+    "Vui lòng xem": {
+      "en": "Please see.",
+      "zh": "请见."
+    },
+    "VẬN CHUYỂN HÀNG BẮC NAM": {
+      "en": "THE FINAL BEST",
+      "zh": "最后的最好成绩"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → CÁC MIỀN": {
+      "en": "Hanoi → Other Regions Freight",
+      "zh": "河内 → 越南各地区货运"
+    },
+    "VẬN CHUYỂN HÀNG HÀ NỘI → TPHCM": {
+      "en": "Hanoi → Ho Chi Minh City Freight",
+      "zh": "河内 → 胡志明市货物运输"
+    },
+    "VẬN CHUYỂN HÀNG HÓA": {
+      "en": "Freight Transport",
+      "zh": "货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LIÊN TỈNH": {
+      "en": "Interprovincial Freight Transport",
+      "zh": "跨省货物运输"
+    },
+    "VẬN CHUYỂN HÀNG LOGISTICS": {
+      "en": "LOGISTICS",
+      "zh": "语言"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN BẮC → NAM": {
+      "en": "Northern → Southern Vietnam Freight",
+      "zh": "越南北部 → 南部货物运输"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → BẮC": {
+      "en": "Southern → Northern Vietnam Freight",
+      "zh": "越南南部 → 北部货物运输"
+    },
+    "VẬN CHUYỂN HÀNG MIỀN NAM → TRUNG": {
+      "en": "Southern → Central Vietnam Freight",
+      "zh": "越南南部 → 中部货物运输"
+    },
+    "VẬN CHUYỂN HÀNG NỘI ĐỊA": {
+      "en": "THE BEST OF A BITCH",
+      "zh": "一个婊子的最好"
+    },
+    "VẬN CHUYỂN HÀNG TPHCM → HÀ NỘI": {
+      "en": "Ho Chi Minh City → Hanoi Freight",
+      "zh": "胡志明市 → 河内货物运输"
+    },
+    "VẬN CHUYỂN HÀNG TỪ TPHCM → CÁC MIỀN": {
+      "en": "Ho Chi Minh City → Other Regions Freight",
+      "zh": "胡志明市 → 越南各地区货运"
+    },
+    "Vận Tải Lưu Lê đã thông báo Bộ Công Thương": {
+      "en": "Liu Load announced the Ministry of Commerce",
+      "zh": "刘负载宣布商务部"
+    },
+    "Vận chuyển hàng Bắc Nam": {
+      "en": "North–South Freight Transport",
+      "zh": "南北货物运输"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nam Bộ": {
+      "en": "Hanoi → Southwest Vietnam",
+      "zh": "河内 → 越南西南部"
+    },
+    "Vận chuyển hàng Hà Nội → Tây Nguyên": {
+      "en": "Transporte of Hanoi (10) Yuan",
+      "zh": "河内运输(10)"
+    },
+    "Vận chuyển hàng Hà Nội → Đông Nam Bộ": {
+      "en": "Transporting Hanoi (10 Southeast Ministry)",
+      "zh": "运河内(10个东南部)"
+    },
+    "Vận chuyển hàng TPHCM → Miền Bắc": {
+      "en": "Ho Chi Minh City → Northern Vietnam",
+      "zh": "胡志明市 → 越南北部"
+    },
+    "Vận chuyển hàng TPHCM → Miền Trung": {
+      "en": "Ho Chi Minh City → Central Vietnam",
+      "zh": "胡志明市 → 越南中部"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nam Bộ": {
+      "en": "Ho Chi Minh City → Southwest Vietnam",
+      "zh": "胡志明市 → 越南西南部"
+    },
+    "Vận chuyển hàng TPHCM → Tây Nguyên": {
+      "en": "Ho Chi Minh City → Central Highlands",
+      "zh": "胡志明市 → 越南西原地区"
+    },
+    "Vận chuyển đường sắt Bắc Nam": {
+      "en": "North–South Rail Freight",
+      "zh": "南北铁路货运"
+    },
+    "VỀ CHÚNG TÔI": {
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "WEBSITE": {
+      "en": "Website",
+      "zh": "网站"
+    },
+    "XE TẢI CHỞ HÀNG": {
+      "en": "Truck Transport",
+      "zh": "卡车运输"
+    },
+    "XE TẢI CHỞ HÀNG BÌNH DƯƠNG": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG BẮC NAM": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI CHỞ HÀNG TPHCM": {
+      "en": "TPHCM INTERNATION",
+      "zh": "TPHCM 通讯"
+    },
+    "XE TẢI CHỞ HÀNG ĐI TỈNH": {
+      "en": "AWAY INTEREST",
+      "zh": "远离兴趣"
+    },
+    "XE TẢI CHỞ HÀNG ĐỒNG NAI": {
+      "en": "I'm in the middle of something.",
+      "zh": "I二释中."
+    },
+    "XE TẢI NHỎ CHỞ HÀNG": {
+      "en": "I'm not going anywhere.",
+      "zh": "我哪儿也不会去"
+    },
+    "Xe máy": {
+      "en": "Motorcycles",
+      "zh": "摩托车"
+    },
+    "Xem thông tin": {
+      "en": "View Information",
+      "zh": "查看信息"
+    },
+    "YouTube Vận Tải Lưu Lê": {
+      "en": "Archived YouTube",
+      "zh": "存档 YouTube"
+    },
+    "vantailuule.vn": {
+      "en": "vantailule.vn",
+      "zh": "vantailule.vn (英语)."
+    },
+    "và": {
+      "en": "and",
+      "zh": "和"
+    },
+    "Điều khoản công ty": {
+      "en": "Company Terms",
+      "zh": "公司条款"
+    },
+    "Điều khoản sử dụng ứng dụng": {
+      "en": "Application term",
+      "zh": "应用术语"
+    },
+    "Đóng": {
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "Đơn mới": {
+      "en": "New Single",
+      "zh": "新单人"
+    },
+    "Đơn vị quản lý:": {
+      "en": "Manager unit:",
+      "zh": "管理单位:"
+    },
+    "Đơn vị quản lý:Công ty TNHH Vận Tải Lưu Lê": {
+      "en": "Manager Division: CNHL Media Company",
+      "zh": "经理司:CNHL传媒公司"
+    },
+    "Đồ gia đình": {
+      "en": "Household Goods",
+      "zh": "家居物品"
+    },
+    "Đồng bộ dữ liệu báo cáo với Google Sheets.": {
+      "en": "Synced data report with Google Sheets.",
+      "zh": "与 Google 工作表同步的数据报告."
+    },
+    "để tìm hiểu cách dữ liệu được truy cập, xử lý và bảo vệ.": {
+      "en": "To find out how data is accessed, processed and protected.",
+      "zh": "了解如何获取、处理和保护数据。"
+    },
+    "Ứng dụng sử dụng cơ chế xác thực OAuth 2.0 của Google. Người dùng được thông báo và có thể xem xét các quyền truy cập trước khi cấp phép.": {
+      "en": "The application uses the Google OAuth 2.0 authentication mechanism. Users are notified and can be considered access rights prior to license.",
+      "zh": "该应用程序使用Google OAuth 2.0认证机制. 用户在获得许可前被通知并可以被视为访问权."
+    },
+    "✓ Chốt đơn theo báo giá": {
+      "en": "The form according to the price notice",
+      "zh": "根据价格通知提交的表格"
+    }
+  },
+  "version": 3
+}

@@ -1,14 +1,16 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-19T12:14:59.447033+00:00",
-  "public_routes_total": 935,
-  "public_routes_verified": 933,
-  "public_routes_pending": 2,
-  "public_routes_failed": 2,
+  "tested_at": "2026-11-19T14:15:40.540419+00:00",
+  "public_routes_total": 939,
+  "public_routes_verified": 935,
+  "public_routes_pending": 4,
+  "public_routes_failed": 4,
   "failed_examples": [
-    "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon",
-    "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi"
+    "/blogs/ll-seo-gsc-ga4",
+    "/blogs/ll-seo-gsc-ga4/chinh-sach-bao-mat",
+    "/blogs/ll-seo-gsc-ga4/dieu-khoan-su-dung",
+    "/blogs/ll-seo-gsc-ga4/gioi-thieu-ung-dung"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -15783,6 +15785,130 @@
         }
       }
     },
+    "/blogs/ll-seo-gsc-ga4": {
+      "fingerprint": "89af4b28d1ad6103",
+      "status": "fail",
+      "checked_at": "2026-11-19T14:15:09.186568+00:00",
+      "languages": {
+        "en": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            ", được sử dụng trong công tác quản trị nội bộ của",
+            "Chính sách bảo mật và xử lý dữ liệu Google.",
+            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
+            "Danh mục này cung cấp các thông tin chính thức về ứng dụng, bao gồm:",
+            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải"
+          ],
+          "title": "Ứng dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        },
+        "zh": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            ", được sử dụng trong công tác quản trị nội bộ của",
+            "Chính sách bảo mật và xử lý dữ liệu Google.",
+            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
+            "Danh mục này cung cấp các thông tin chính thức về ứng dụng, bao gồm:",
+            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải"
+          ],
+          "title": "Ứng dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        }
+      }
+    },
+    "/blogs/ll-seo-gsc-ga4/chinh-sach-bao-mat": {
+      "fingerprint": "ccab3c9cce9f03c7",
+      "status": "fail",
+      "checked_at": "2026-11-19T14:15:15.723031+00:00",
+      "languages": {
+        "en": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
+            "Các báo cáo được lưu tại Google Sheets và các hệ thống nội bộ được Công ty cho phép sử dụng.",
+            "Các dịch vụ Google được sử dụng để xác thực, xử lý và lưu trữ dữ liệu theo cấu hình tương ứng.",
+            "Dữ liệu Google Analytics 4: lượt truy cập, nguồn truy cập, lượt xem trang và các sự kiện phân tích website.",
+            "Dữ liệu Google Search Console: lượt nhấp, lượt hiển thị, CTR, vị trí trung bình, từ khóa và trang đích."
+          ],
+          "title": "Chính sách bảo mật LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        },
+        "zh": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
+            "Các báo cáo được lưu tại Google Sheets và các hệ thống nội bộ được Công ty cho phép sử dụng.",
+            "Các dịch vụ Google được sử dụng để xác thực, xử lý và lưu trữ dữ liệu theo cấu hình tương ứng.",
+            "Dữ liệu Google Analytics 4: lượt truy cập, nguồn truy cập, lượt xem trang và các sự kiện phân tích website.",
+            "Dữ liệu Google Search Console: lượt nhấp, lượt hiển thị, CTR, vị trí trung bình, từ khóa và trang đích."
+          ],
+          "title": "Chính sách bảo mật LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        }
+      }
+    },
+    "/blogs/ll-seo-gsc-ga4/dieu-khoan-su-dung": {
+      "fingerprint": "73d2564dfcb4598e",
+      "status": "fail",
+      "checked_at": "2026-11-19T14:15:22.099235+00:00",
+      "languages": {
+        "en": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải",
+            "Người dùng có thể thu hồi quyền truy cập đã cấp cho ứng dụng thông qua cài đặt Tài khoản Google.",
+            "Người dùng có trách nhiệm bảo vệ thông tin đăng nhập, không chia sẻ dữ liệu và quyền truy cập trái phép.",
+            "Thông tin về xử lý dữ liệu được công bố tại trang Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4.",
+            "Việc kết nối Google Search Console, Google Analytics 4 và Google Sheets chỉ được thực hiện theo các quyền ngườ"
+          ],
+          "title": "Điều khoản sử dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        },
+        "zh": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải",
+            "Người dùng có thể thu hồi quyền truy cập đã cấp cho ứng dụng thông qua cài đặt Tài khoản Google.",
+            "Người dùng có trách nhiệm bảo vệ thông tin đăng nhập, không chia sẻ dữ liệu và quyền truy cập trái phép.",
+            "Thông tin về xử lý dữ liệu được công bố tại trang Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4.",
+            "Việc kết nối Google Search Console, Google Analytics 4 và Google Sheets chỉ được thực hiện theo các quyền ngườ"
+          ],
+          "title": "Điều khoản sử dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        }
+      }
+    },
+    "/blogs/ll-seo-gsc-ga4/gioi-thieu-ung-dung": {
+      "fingerprint": "5572d993d2850420",
+      "status": "fail",
+      "checked_at": "2026-11-19T14:15:28.323754+00:00",
+      "languages": {
+        "en": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
+            "Dữ liệu được sử dụng phục vụ phân tích và báo cáo SEO của website vantailuule.vn, không nhằm mục đích quảng cá",
+            "Hỗ trợ theo dõi thứ hạng từ khóa, hiệu quả trang đích và xu hướng truy cập.",
+            "Hỗ trợ tự động hóa báo cáo SEO khi các kết nối được cấu hình và kiểm thử hoàn tất.",
+            "LL-SEO-GSC-GA4 là ứng dụng phân tích dữ liệu website phục vụ hoạt động quản trị và tối ưu SEO nội bộ của Công "
+          ],
+          "title": "Giới thiệu LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        },
+        "zh": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
+            "Dữ liệu được sử dụng phục vụ phân tích và báo cáo SEO của website vantailuule.vn, không nhằm mục đích quảng cá",
+            "Hỗ trợ theo dõi thứ hạng từ khóa, hiệu quả trang đích và xu hướng truy cập.",
+            "Hỗ trợ tự động hóa báo cáo SEO khi các kết nối được cấu hình và kiểm thử hoàn tất.",
+            "LL-SEO-GSC-GA4 là ứng dụng phân tích dữ liệu website phục vụ hoạt động quản trị và tối ưu SEO nội bộ của Công "
+          ],
+          "title": "Giới thiệu LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+        }
+      }
+    },
     "/blogs/thong-bao": {
       "fingerprint": "b77f8eefd65d24f1",
       "status": "pass",
@@ -16393,27 +16519,19 @@
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon": {
       "fingerprint": "c367b51246178e7c",
-      "status": "fail",
-      "checked_at": "2026-11-19T12:14:53.034001+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-19T14:15:34.398712+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chuẩn bị dữ liệu để nhận báo giá vận chuyển Hà Nội – Sài Gòn",
-            "Với hàng gửi từ Hà Nội vào TP.HCM, cần nêu rõ nơi nhận và giao, số kiện, loại hàng, tổng khối lượng, thể tích ",
-            "Đối với hàng trên pallet, hàng cần nâng hạ hoặc giao tại nhiều địa chỉ, vui lòng bổ sung yêu cầu thao tác để p"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Bills sent from Hanoi into cheap Saigon"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chuẩn bị dữ liệu để nhận báo giá vận chuyển Hà Nội – Sài Gòn",
-            "Với hàng gửi từ Hà Nội vào TP.HCM, cần nêu rõ nơi nhận và giao, số kiện, loại hàng, tổng khối lượng, thể tích ",
-            "Đối với hàng trên pallet, hàng cần nâng hạ hoặc giao tại nhiều địa chỉ, vui lòng bổ sung yêu cầu thao tác để p"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "从河内寄到廉价西贡的钞票"
         }
       }
@@ -16705,27 +16823,19 @@
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {
       "fingerprint": "00ad9cd2e08630c6",
-      "status": "fail",
-      "checked_at": "2026-11-19T12:14:59.410063+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-19T14:15:40.505191+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Nếu hàng cần xe nâng, bốc xếp, đóng gói hoặc giao tại nhiều điểm, nên ghi rõ ngay trong yêu cầu để được xác nh",
-            "Thông tin cần cung cấp khi yêu cầu báo giá Sài Gòn – Hà Nội",
-            "Để nhận báo giá phù hợp với lô hàng, hãy cung cấp địa chỉ lấy hàng tại TP.HCM, địa chỉ giao tại Hà Nội, loại h"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Stock price sheet from TpHCM to low-cost Hanoi"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Nếu hàng cần xe nâng, bốc xếp, đóng gói hoặc giao tại nhiều điểm, nên ghi rõ ngay trong yêu cầu để được xác nh",
-            "Thông tin cần cung cấp khi yêu cầu báo giá Sài Gòn – Hà Nội",
-            "Để nhận báo giá phù hợp với lô hàng, hãy cung cấp địa chỉ lấy hàng tại TP.HCM, địa chỉ giao tại Hà Nội, loại h"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "从TpHCM到低成本河内股价表"
         }
       }
@@ -17474,7 +17584,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-19T12:14:31.309229+00:00",
+      "checked_at": "2026-11-19T14:14:50.663233+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17512,7 +17622,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-19T12:14:46.651103+00:00",
+      "checked_at": "2026-11-19T14:15:02.735823+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17778,7 +17888,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-19T12:14:38.725386+00:00",
+      "checked_at": "2026-11-19T14:14:57.122486+00:00",
       "languages": {
         "en": {
           "ok": true,
