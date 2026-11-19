@@ -667,9 +667,17 @@
     "en": "+ For the row going south:",
     "zh": "+ 向南行:"
   },
+  ", 150.000đ": {
+    "en": "Fuck.",
+    "zh": "他妈的。"
+  },
   ", 1m = 100cm = 1000mm).": {
     "en": ", 1m = 100 cm = 1000 mm).",
     "zh": ", 1米=100厘米=1000毫米)."
+  },
+  ", 250,000đ": {
+    "en": "Twenty thousand.",
+    "zh": "两万"
   },
   ", 366 Giải Phóng, Hoàng Mai, Hà Nội.": {
     "en": ", 366 Liberal, Huang Mai, Hanoi.",
@@ -4055,6 +4063,10 @@
     "en": "Yeah. For the light item the level is going to be",
     "zh": "对 对于光线项目, 电平将是"
   },
+  ". Đối với xe tay ga đắt tiền từ cước phí sẽ cao hơn tuỳ thuộc cách thức gửi của từng khách hàng.": {
+    "en": "Yeah. For expensive handcars from the bill will be higher depending on how each customer sends.",
+    "zh": "对 对于账单中昂贵的手车,视每个客户发送的方式而定,会更高."
+  },
   ". Đồng hành cùng chúng tôi để biết cụ thể hơn bạn nhé!": {
     "en": "Yeah. Join us to know more specifically than you.",
     "zh": "对 加入我们 比你更具体一点"
@@ -6679,9 +6691,17 @@
     "en": "1,250 mph/kg",
     "zh": "1,250 mph/kg (单位:公斤)"
   },
+  "1.300.000đ": {
+    "en": "1,30,000.",
+    "zh": "13万块"
+  },
   "1.300đ/kg": {
     "en": "Gim/kg",
     "zh": "吉姆/千克(千兆吨)"
+  },
+  "1.400.000đ": {
+    "en": "US$40,000",
+    "zh": "4万美元"
   },
   "1.400đ/kg": {
     "en": "Gim/kg",
@@ -6775,6 +6795,10 @@
     "en": "1,750 copper/kg",
     "zh": "1 750个铜/千克"
   },
+  "1.800.000đ": {
+    "en": "US$80,000",
+    "zh": "80,000美元"
+  },
   "1.800.000đ – 4.000.000đ.": {
     "en": "1,80,000 .4,000,000 .",
     "zh": "1,80,000,400,000美元。"
@@ -6790,6 +6814,10 @@
   "1.850.000đ": {
     "en": "US$80,000",
     "zh": "80 000美元"
+  },
+  "1.900.000đ": {
+    "en": "US$90,000",
+    "zh": "9万美元"
   },
   "1.950.000đ": {
     "en": "US$9.50,000",
@@ -7966,6 +7994,10 @@
   "2.300/ 500gram": {
     "en": "2.300/500gram",
     "zh": "230克/500克(每克)"
+  },
+  "2.450.000đ": {
+    "en": "US$2.40,000",
+    "zh": "240 000美元"
   },
   "2.500.000 VNĐ - 4.500.000 VNĐ": {
     "en": "2 MINUTE - 4 MINUTE",
@@ -10363,6 +10395,10 @@
     "en": "85,000 copper/kg",
     "zh": "85,000铜/千克"
   },
+  "850,000đ": {
+    "en": "Eighty thousand.",
+    "zh": "八万 thousand."
+  },
   "850km": {
     "en": "850 km",
     "zh": "850公里"
@@ -10466,6 +10502,10 @@
   "900.000 – 1.500.000đ": {
     "en": "900,000 – 1750",
     "zh": "90万 - 1750年"
+  },
+  "900.000đ": {
+    "en": "900,000 p.",
+    "zh": "900,000页."
   },
   "900N/ tấn": {
     "en": "900N/ton",
@@ -35922,6 +35962,10 @@
   "Chịu trách nhiệm về mọi rủi ro đối với hàng hóa của khách hàng.": {
     "en": "Taking responsibility for every risk to the customers' goods.",
     "zh": "承担客户商品的每一项风险。"
+  },
+  "Chịu trách nhiệm về thiệt hại xảy ra (nếu có).": {
+    "en": "Accountable for Damages (if any).",
+    "zh": "赔偿损失(如有)。"
   },
   "Chịu trách nhiệm đền bù 100% cho khách hàng nếu xảy ra lỗi do công ty.": {
     "en": "Responsibilities 100% for customers if a company error occurs.",
@@ -86094,6 +86138,10 @@
   "Liên hệ:": {
     "en": "Contact:",
     "zh": "联系人 :"
+  },
+  "Liên hệ: 0909 81 6625": {
+    "en": "Contact: 0909 81 6625",
+    "zh": "联系人:0909 81 6625"
   },
   "Liên hệ: 0909 81 6625 - 0987 172 477": {
     "en": "Contact: 0909 81 6625 - 0987 177",
@@ -190558,6 +190606,18 @@
   "đối với từng loại xe!": {
     "en": "To every car!",
     "zh": "每辆车!"
+  },
+  "đối với xe ga": {
+    "en": "For the train.",
+    "zh": "为火车."
+  },
+  "đối với xe phân khối (Tùy theo yêu cầu của khách hàng);": {
+    "en": "for block cars (as required by customer);",
+    "zh": "(一) 挡车(按客户要求);"
+  },
+  "đối với xe số": {
+    "en": "to the digital car",
+    "zh": "到数码汽车"
   },
   "đồ dùng gia đình": {
     "en": "family items",

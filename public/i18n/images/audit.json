@@ -30229,13 +30229,133 @@
       "has_possible_vietnamese_text": false,
       "ocr_excerpt": "ie oes eX == Ce KCN Gia Binh",
       "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van_chuyen_tu_ga_toi_ga_fecf8e981bd345f891eb193f04fa7903_grande.jpg": {
+      "confident_word_count": 3,
+      "dimensions": [
+        600,
+        300
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "i} ¿1 2\t1\t6\t0\t0\t0\t10\t198\t97\t53\t-1\t\n3\t1\t6\t1\t0\t0\t10\t198\t97\t53\t-1\t\n4\t1\t6\t1\t1\t0\t10\t198\t97\t53\t-1\t\n5\t1\t6\t1\t1\t1\t10\t198\t97\t53\t26.896614\tnh\n2\t1\t7\t0\t0\t0\t574\t206\t26\t21\t-1\t\n3\t1\t7\t1\t0\t0\t574\t206\t26\t21\t-1\t\n4\t1\t7\t1\t1\t0\t574\t206\t26\t21\t-1\t\n5\t1\t7\t1\t1\t1\t574\t206\t26\t21\t32.485970\tXà",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_duong_ong_0b488aa6f1bc42ad96ab4ac3ca191fbd_grande.png": {
+      "confident_word_count": 6,
+      "dimensions": [
+        600,
+        503
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "—— Vận tải dường ống vantailuule.vn",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_duong_sat_2340c408f8e04c9eaaf3dbc68ce6681e_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "|- oe",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_duong_sat_96d4db0a90ba4ad2b4973c2c668413d4_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "|- oe",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_duong_sat__2__34f82799b16a48cf9628e47b2af965db.jpg": {
+      "confident_word_count": 5,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "it Van tai đường sat",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_hang_hoa_tai_ha_noi_ba9cd178bcd244e59b033217f2616665_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        386
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "|| kì",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_luu_le_8058c0fe68874c3d827c0b17fd408c1d_grande.png": {
+      "confident_word_count": 4,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": true,
+      "ocr_excerpt": "Van Tai Luu Lé",
+      "status": "possibly_contains_vietnamese"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_luu_le__1__931ce57c8a9c44f4bdbea64de10362cd_grande.png": {
+      "confident_word_count": 2,
+      "dimensions": [
+        600,
+        400
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "=== -_",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/van_tai_luu_le_uy_tin_chat_luong_69a8d057d32b4e4682c8c50d35b76fc6.jpg": {
+      "confident_word_count": 0,
+      "dimensions": [
+        600,
+        450
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vantailuule119.1_large.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        480,
+        439
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vantailuule119_large.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        480,
+        480
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
+    },
+    "https://file.hstatic.net/1000191021/file/vantailuule151_large.png": {
+      "confident_word_count": 0,
+      "dimensions": [
+        480,
+        320
+      ],
+      "has_possible_vietnamese_text": false,
+      "ocr_excerpt": "",
+      "status": "no_vietnamese_detected"
     }
   },
-  "images_scanned": 3036,
-  "images_unscanned": 54,
+  "images_scanned": 3048,
+  "images_unscanned": 42,
   "note": "OCR misses some text. No original images modified; approval of translated variants is required.",
   "ocr_failures": 15,
-  "possibly_vietnamese": 2561,
+  "possibly_vietnamese": 2566,
   "unique_public_images": 3090,
   "version": 1
 }

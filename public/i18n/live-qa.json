@@ -1,13 +1,15 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-19T02:43:15.181680+00:00",
+  "tested_at": "2026-11-19T03:06:35.639759+00:00",
   "public_routes_total": 936,
-  "public_routes_verified": 935,
-  "public_routes_pending": 1,
-  "public_routes_failed": 1,
+  "public_routes_verified": 933,
+  "public_routes_pending": 3,
+  "public_routes_failed": 3,
   "failed_examples": [
-    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm"
+    "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm",
+    "/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam",
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -15880,7 +15882,7 @@
     "/blogs/tin-tuc/dich-vu-van-chuyen-hang-hoa-tphcm": {
       "fingerprint": "ab911bf4bd15fd34",
       "status": "fail",
-      "checked_at": "2026-11-19T02:43:15.147590+00:00",
+      "checked_at": "2026-11-19T03:06:35.610775+00:00",
       "languages": {
         "en": {
           "ok": false,
@@ -16083,9 +16085,9 @@
       }
     },
     "/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam": {
-      "fingerprint": "b9ade9c6501f5439",
+      "fingerprint": "3cf17e45b7838e08",
       "status": "pass",
-      "checked_at": "2026-11-17T19:42:55.394829+00:00",
+      "checked_at": "2026-11-19T03:06:08.568826+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16159,20 +16161,24 @@
       }
     },
     "/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam": {
-      "fingerprint": "212e2b0d29f33b52",
-      "status": "pass",
-      "checked_at": "2026-11-17T19:43:25.308796+00:00",
+      "fingerprint": "ce542071fd76d418",
+      "status": "fail",
+      "checked_at": "2026-11-19T03:06:15.221350+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chịu trách nhiệm về thiệt hại xảy ra (nếu có)."
+          ],
           "title": "Transported by the Northern Southern Railroad"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Chịu trách nhiệm về thiệt hại xảy ra (nếu có)."
+          ],
           "title": "由北方南方铁路运输"
         }
       }
@@ -16368,20 +16374,26 @@
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon": {
-      "fingerprint": "32fec6f037f31f67",
-      "status": "pass",
-      "checked_at": "2026-11-17T20:05:25.529942+00:00",
+      "fingerprint": "e57f7b1ed7bff378",
+      "status": "fail",
+      "checked_at": "2026-11-19T03:06:21.822843+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            ". Đối với xe tay ga đắt tiền từ cước phí sẽ cao hơn tuỳ thuộc cách thức gửi của từng khách hàng.",
+            "đối với xe phân khối (Tùy theo yêu cầu của khách hàng);"
+          ],
           "title": "Send motorcycles from Hanoi to Saigon: Safety, Saving Price"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            ". Đối với xe tay ga đắt tiền từ cước phí sẽ cao hơn tuỳ thuộc cách thức gửi của từng khách hàng.",
+            "đối với xe phân khối (Tùy theo yêu cầu của khách hàng);"
+          ],
           "title": "把摩托车从河内送到西贡:安全,节省价格"
         }
       }
@@ -16862,9 +16874,9 @@
       }
     },
     "/blogs/van-chuyen-tphcm-mien-bac/gui-hang-sai-gon-bac-ninh": {
-      "fingerprint": "732f5717c7fb536a",
+      "fingerprint": "47c9c17d789c01c7",
       "status": "pass",
-      "checked_at": "2026-11-17T21:32:24.390903+00:00",
+      "checked_at": "2026-11-19T03:06:28.535851+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17472,7 +17484,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-19T02:42:54.599568+00:00",
+      "checked_at": "2026-11-19T03:05:48.338622+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17510,7 +17522,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-19T02:43:09.826655+00:00",
+      "checked_at": "2026-11-19T03:06:01.701568+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17774,9 +17786,9 @@
       }
     },
     "/search": {
-      "fingerprint": "4fba10d93c535f75",
+      "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-19T02:43:01.775710+00:00",
+      "checked_at": "2026-11-19T03:05:55.624983+00:00",
       "languages": {
         "en": {
           "ok": true,
