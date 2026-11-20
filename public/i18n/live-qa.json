@@ -1,18 +1,13 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-19T14:15:40.540419+00:00",
+  "tested_at": "2026-11-20T12:13:45.819699+00:00",
   "public_routes_total": 939,
-  "public_routes_verified": 935,
-  "public_routes_pending": 4,
-  "public_routes_failed": 4,
-  "failed_examples": [
-    "/blogs/ll-seo-gsc-ga4",
-    "/blogs/ll-seo-gsc-ga4/chinh-sach-bao-mat",
-    "/blogs/ll-seo-gsc-ga4/dieu-khoan-su-dung",
-    "/blogs/ll-seo-gsc-ga4/gioi-thieu-ung-dung"
-  ],
-  "full_live_coverage_verified": false,
+  "public_routes_verified": 939,
+  "public_routes_pending": 0,
+  "public_routes_failed": 0,
+  "failed_examples": [],
+  "full_live_coverage_verified": true,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
@@ -15787,125 +15782,77 @@
     },
     "/blogs/ll-seo-gsc-ga4": {
       "fingerprint": "89af4b28d1ad6103",
-      "status": "fail",
-      "checked_at": "2026-11-19T14:15:09.186568+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-20T12:13:25.417536+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            ", được sử dụng trong công tác quản trị nội bộ của",
-            "Chính sách bảo mật và xử lý dữ liệu Google.",
-            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
-            "Danh mục này cung cấp các thông tin chính thức về ứng dụng, bao gồm:",
-            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải"
-          ],
-          "title": "Ứng dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "LL-Shix-GGSC-GA4 | Archived Transport"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            ", được sử dụng trong công tác quản trị nội bộ của",
-            "Chính sách bảo mật và xử lý dữ liệu Google.",
-            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
-            "Danh mục này cung cấp các thông tin chính thức về ứng dụng, bao gồm:",
-            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải"
-          ],
-          "title": "Ứng dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "LL-Shix-GGSC-GA4 存档运输"
         }
       }
     },
     "/blogs/ll-seo-gsc-ga4/chinh-sach-bao-mat": {
       "fingerprint": "ccab3c9cce9f03c7",
-      "status": "fail",
-      "checked_at": "2026-11-19T14:15:15.723031+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-20T12:13:32.252916+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
-            "Các báo cáo được lưu tại Google Sheets và các hệ thống nội bộ được Công ty cho phép sử dụng.",
-            "Các dịch vụ Google được sử dụng để xác thực, xử lý và lưu trữ dữ liệu theo cấu hình tương ứng.",
-            "Dữ liệu Google Analytics 4: lượt truy cập, nguồn truy cập, lượt xem trang và các sự kiện phân tích website.",
-            "Dữ liệu Google Search Console: lượt nhấp, lượt hiển thị, CTR, vị trí trung bình, từ khóa và trang đích."
-          ],
-          "title": "Chính sách bảo mật LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "LL-Shive-GSC-GA4 Security Policy"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
-            "Các báo cáo được lưu tại Google Sheets và các hệ thống nội bộ được Công ty cho phép sử dụng.",
-            "Các dịch vụ Google được sử dụng để xác thực, xử lý và lưu trữ dữ liệu theo cấu hình tương ứng.",
-            "Dữ liệu Google Analytics 4: lượt truy cập, nguồn truy cập, lượt xem trang và các sự kiện phân tích website.",
-            "Dữ liệu Google Search Console: lượt nhấp, lượt hiển thị, CTR, vị trí trung bình, từ khóa và trang đích."
-          ],
-          "title": "Chính sách bảo mật LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "LL-Shive-GSC-GA4 安全政策"
         }
       }
     },
     "/blogs/ll-seo-gsc-ga4/dieu-khoan-su-dung": {
       "fingerprint": "73d2564dfcb4598e",
-      "status": "fail",
-      "checked_at": "2026-11-19T14:15:22.099235+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-20T12:13:39.031064+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải",
-            "Người dùng có thể thu hồi quyền truy cập đã cấp cho ứng dụng thông qua cài đặt Tài khoản Google.",
-            "Người dùng có trách nhiệm bảo vệ thông tin đăng nhập, không chia sẻ dữ liệu và quyền truy cập trái phép.",
-            "Thông tin về xử lý dữ liệu được công bố tại trang Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4.",
-            "Việc kết nối Google Search Console, Google Analytics 4 và Google Sheets chỉ được thực hiện theo các quyền ngườ"
-          ],
-          "title": "Điều khoản sử dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "LL-Shix-GGSC-GA4 | Archived Transport"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "LL-SEO-GSC-GA4 là ứng dụng hỗ trợ phân tích dữ liệu SEO và hiệu quả hoạt động website của Công ty TNHH Vận Tải",
-            "Người dùng có thể thu hồi quyền truy cập đã cấp cho ứng dụng thông qua cài đặt Tài khoản Google.",
-            "Người dùng có trách nhiệm bảo vệ thông tin đăng nhập, không chia sẻ dữ liệu và quyền truy cập trái phép.",
-            "Thông tin về xử lý dữ liệu được công bố tại trang Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4.",
-            "Việc kết nối Google Search Console, Google Analytics 4 và Google Sheets chỉ được thực hiện theo các quyền ngườ"
-          ],
-          "title": "Điều khoản sử dụng LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "LL-Shix-GGSC-GA4 存档运输"
         }
       }
     },
     "/blogs/ll-seo-gsc-ga4/gioi-thieu-ung-dung": {
       "fingerprint": "5572d993d2850420",
-      "status": "fail",
-      "checked_at": "2026-11-19T14:15:28.323754+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-20T12:13:45.787710+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
-            "Dữ liệu được sử dụng phục vụ phân tích và báo cáo SEO của website vantailuule.vn, không nhằm mục đích quảng cá",
-            "Hỗ trợ theo dõi thứ hạng từ khóa, hiệu quả trang đích và xu hướng truy cập.",
-            "Hỗ trợ tự động hóa báo cáo SEO khi các kết nối được cấu hình và kiểm thử hoàn tất.",
-            "LL-SEO-GSC-GA4 là ứng dụng phân tích dữ liệu website phục vụ hoạt động quản trị và tối ưu SEO nội bộ của Công "
-          ],
-          "title": "Giới thiệu LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "About LL-Shix-GSC-GA4 | Archived Transport"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Chính sách bảo mật ứng dụng LL-SEO-GSC-GA4",
-            "Dữ liệu được sử dụng phục vụ phân tích và báo cáo SEO của website vantailuule.vn, không nhằm mục đích quảng cá",
-            "Hỗ trợ theo dõi thứ hạng từ khóa, hiệu quả trang đích và xu hướng truy cập.",
-            "Hỗ trợ tự động hóa báo cáo SEO khi các kết nối được cấu hình và kiểm thử hoàn tất.",
-            "LL-SEO-GSC-GA4 là ứng dụng phân tích dữ liệu website phục vụ hoạt động quản trị và tối ưu SEO nội bộ của Công "
-          ],
-          "title": "Giới thiệu LL-SEO-GSC-GA4 | Vận Tải Lưu Lê"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "关于LL-Shix-GSC-GA4 存档运输"
         }
       }
     },
@@ -16176,9 +16123,9 @@
       }
     },
     "/blogs/van-chuyen-bac-nam/gia-cuoc-van-chuyen-hang-hoa-bac-nam": {
-      "fingerprint": "efb5a653d7db065e",
+      "fingerprint": "9ee410a76534dde9",
       "status": "pass",
-      "checked_at": "2026-11-17T19:21:35.751768+00:00",
+      "checked_at": "2026-11-20T12:13:10.745829+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16898,9 +16845,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-may-tu-sai-gon-ra-ha-noi": {
-      "fingerprint": "dcbeb0dfc0315b6c",
+      "fingerprint": "5a8be519fd664f7c",
       "status": "pass",
-      "checked_at": "2026-11-17T21:11:41.702293+00:00",
+      "checked_at": "2026-11-20T12:13:18.496111+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17584,7 +17531,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-19T14:14:50.663233+00:00",
+      "checked_at": "2026-11-20T12:12:49.014694+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17622,7 +17569,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-19T14:15:02.735823+00:00",
+      "checked_at": "2026-11-20T12:13:02.999515+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17888,7 +17835,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-19T14:14:57.122486+00:00",
+      "checked_at": "2026-11-20T12:12:56.864022+00:00",
       "languages": {
         "en": {
           "ok": true,
