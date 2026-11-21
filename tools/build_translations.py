@@ -720,8 +720,11 @@ def main():
         assert crawl_priority(BASE+'/blogs/van-chuyen-tphcm-mien-trung')[0] == 0
         # Every existing public pack must eventually be revisited even when
         # public route count grows beyond the bounded crawl budget.
-        old_blog=BASE+'/blogs/van-chuyen-bac-nam'
-        if (PUBLIC/(route_id('/blogs/van-chuyen-bac-nam')+'.json')).is_file():
+        # Choose an actual article, not a required /blogs/ collection:
+        # REQUIRED_PUBLIC_ROUTES are always priority 0 even if cached.
+        old_route='/blogs/van-chuyen-bac-nam/van-chuyen-duong-sat-bac-nam'
+        old_blog=BASE+old_route
+        if (PUBLIC/(route_id(old_route)+'.json')).is_file():
             assert crawl_priority(old_blog)[0] == 2
             assert revisit_priority(old_blog,{old_blog})[0] == 1
         assert valid_url(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen')
