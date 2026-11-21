@@ -166,6 +166,11 @@ def update_report(snapshot, state, checked, rebuilt, failed, old_manifest, new_p
         'pages_seen': total_published,
         'pages_published': total_published,
         'pages_pending': len(pending),
+        # The old full-crawl global vocabulary count is retained as a baseline.
+        # A delta cannot compute the exact site-wide unique-text count without
+        # downloading every old article again.
+        'unique_public_texts': int(old_manifest.get('unique_public_texts', 0)),
+        'unique_public_texts_is_baseline': True,
         'discovered_public_urls': len(snapshot),
         'site_coverage_complete': not pending and not failed,
         'incremental_scan': True,
