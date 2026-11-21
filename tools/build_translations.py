@@ -161,6 +161,19 @@ def crawl_priority(url):
     return (2 if existing else 1, tier, route)
 
 
+def revisit_priority(url, previous_unvisited):
+    """Rotate unvisited existing routes ahead of already-checked pages.
+
+    When the site grows past the per-run budget, daily scans must eventually
+    revisit *all* public articles, including older SEO articles that were edited.
+    Newly discovered pages with missing packs retain their own high priority.
+    """
+    current = crawl_priority(url)
+    if url in previous_unvisited and current[0] == 2:
+        return (1, current[1], current[2])
+    return current
+
+
 def page_key(url):
     return (urlsplit(url).path.rstrip('/') or '/')
 
@@ -368,13 +381,16 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
     # public routes collected by previous successful crawling.
     previous=cached_json(PUBLIC/'coverage.json', {})
     known_unvisited=set()
-    for path in previous.get('unvisited_examples', []):
+    # The full safe public-path list prevents starvation past 1,200 pages.
+    for path in previous.get('unvisited_routes', previous.get('unvisited_examples', [])):
         url=canonical(BASE+str(path))
         if valid_url(url):known_unvisited.add(url)
     initial={BASE+'/'} | seeds | required_urls | known_unvisited
+    def active_priority(url):
+        return revisit_priority(url, known_unvisited)
     # A priority heap matters: newly discovered *missing* links must jump
     # ahead of already-published URLs, not wait at the end of a 940-URL queue.
-    queue=[(crawl_priority(url),url) for url in initial]
+    queue=[(active_priority(url),url) for url in initial]
     heapq.heapify(queue)
     queued=set(initial)
     visited=set(); result={}; errors=[]; inactive=[]
@@ -443,9 +459,9 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
                 print(f'{len(result):>3} {route}: {len(texts)} public segments'+
                       (' (browser fallback)' if browser_ok and not request_ok else ''),
                       flush=True)
-                for link in sorted(links,key=crawl_priority):
+                for link in sorted(links,key=active_priority):
                     if link not in visited and link not in queued and valid_url(link):
-                        heapq.heappush(queue,(crawl_priority(link),link))
+                        heapq.heappush(queue,(active_priority(link),link))
                         queued.add(link)
                 # Log degraded collection separately without marking a public
                 # page as missing when its browser fallback succeeded.
@@ -474,6 +490,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
         'inactive_redirects_or_404':inactive,
         'unvisited_count':len(unvisited),
         'unvisited_examples':[urlsplit(u).path for u in unvisited[:40]],
+        'unvisited_routes':[urlsplit(u).path for u in unvisited],
         'required_pages_missing':missing_required,
         'required_pages_found':[r for r in REQUIRED_PUBLIC_ROUTES if r in result],
         'page_budget':budget,
@@ -701,6 +718,12 @@ def main():
         missing_blog=BASE+'/blogs/ll-i18n-missing-pack-selftest-never-published'
         assert crawl_priority(missing_blog)[0] == 1
         assert crawl_priority(BASE+'/blogs/van-chuyen-tphcm-mien-trung')[0] == 0
+        # Every existing public pack must eventually be revisited even when
+        # public route count grows beyond the bounded crawl budget.
+        old_blog=BASE+'/blogs/van-chuyen-bac-nam'
+        if (PUBLIC/(route_id('/blogs/van-chuyen-bac-nam')+'.json')).is_file():
+            assert crawl_priority(old_blog)[0] == 2
+            assert revisit_priority(old_blog,{old_blog})[0] == 1
         assert valid_url(BASE+'/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert not valid_url(BASE+'/pages/customer')
         assert all(y in {'en','zh'} for y in ('en','zh'))
@@ -748,6 +771,7 @@ def main():
     manifest['pages_pending']=missing_count
     audit=cached_json(PUBLIC/'audit.json',{})
     manifest['site_coverage_complete']=(missing_count==0 and
+        int(stats.get('unvisited_count',0))==0 and
         int(audit.get('missing_unique_texts',1))==0)
     save_json(PUBLIC/'manifest.json',manifest)
     print(f'Done. Full-language pages: {released}; incomplete pages held: {pending}.')
