@@ -1,19 +1,21 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-20T12:13:45.819699+00:00",
+  "tested_at": "2026-11-21T08:58:07.287602+00:00",
   "public_routes_total": 939,
-  "public_routes_verified": 939,
-  "public_routes_pending": 0,
-  "public_routes_failed": 0,
-  "failed_examples": [],
-  "full_live_coverage_verified": true,
+  "public_routes_verified": 862,
+  "public_routes_pending": 77,
+  "public_routes_failed": 1,
+  "failed_examples": [
+    "/search"
+  ],
+  "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
-      "fingerprint": "98db32681af2a3e6",
+      "fingerprint": "a1f4255bc2bce648",
       "status": "pass",
-      "checked_at": "2026-11-16T03:47:39.973713+00:00",
+      "checked_at": "2026-11-21T08:57:20.771110+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -30,9 +32,9 @@
       }
     },
     "/blogs/bao-chi": {
-      "fingerprint": "eb13a1d19309a569",
+      "fingerprint": "ce162fead40ee039",
       "status": "pass",
-      "checked_at": "2026-11-16T03:47:45.960506+00:00",
+      "checked_at": "2026-11-21T08:57:27.222718+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -87,9 +89,9 @@
       }
     },
     "/blogs/chinh-sach-cong-ty": {
-      "fingerprint": "b6d8654a976eba8d",
+      "fingerprint": "95dff3ff3ba6b51d",
       "status": "pass",
-      "checked_at": "2026-11-16T03:48:05.643746+00:00",
+      "checked_at": "2026-11-21T08:57:33.533256+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -277,9 +279,9 @@
       }
     },
     "/blogs/chuyen-cua-hang": {
-      "fingerprint": "832c2d3deb97725b",
+      "fingerprint": "3a40ae1f43ec0323",
       "status": "pass",
-      "checked_at": "2026-11-18T16:05:16.808590+00:00",
+      "checked_at": "2026-11-21T08:57:39.579439+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -334,9 +336,9 @@
       }
     },
     "/blogs/chuyen-kho-xuong": {
-      "fingerprint": "2717ce29749d0bee",
+      "fingerprint": "099366c2359aa018",
       "status": "pass",
-      "checked_at": "2026-11-16T04:33:57.309190+00:00",
+      "checked_at": "2026-11-21T08:57:47.072798+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -410,9 +412,9 @@
       }
     },
     "/blogs/chuyen-nha-hn-mien-nam": {
-      "fingerprint": "c81e4f16fe54231c",
+      "fingerprint": "54951bf45c8984ea",
       "status": "pass",
-      "checked_at": "2026-11-16T04:34:24.480524+00:00",
+      "checked_at": "2026-11-21T08:57:53.995670+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -543,9 +545,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-dong-nam-bo": {
-      "fingerprint": "e75a684dca6f8c60",
+      "fingerprint": "f8bfd8a18f078381",
       "status": "pass",
-      "checked_at": "2026-11-16T04:58:38.547427+00:00",
+      "checked_at": "2026-11-21T08:58:00.392103+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -657,9 +659,9 @@
       }
     },
     "/blogs/chuyen-nha-sg-mien-bac": {
-      "fingerprint": "66696187f0e9c8df",
+      "fingerprint": "1d4b987aaea02695",
       "status": "pass",
-      "checked_at": "2026-11-16T05:20:23.839050+00:00",
+      "checked_at": "2026-11-21T08:58:07.247150+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17531,7 +17533,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-20T12:12:49.014694+00:00",
+      "checked_at": "2026-11-21T08:57:00.203712+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17569,7 +17571,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-20T12:13:02.999515+00:00",
+      "checked_at": "2026-11-21T08:57:13.773518+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17834,13 +17836,19 @@
     },
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
-      "status": "pass",
-      "checked_at": "2026-11-20T12:12:56.864022+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-21T08:57:07.679301+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {

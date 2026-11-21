@@ -167,6 +167,10 @@
     "en": "Do not miss the following article.",
     "zh": "请勿错过以下文章。"
   },
+  "(Bọc xe tùy theo yêu cầu của khách hàng);": {
+    "en": "(Carking according to customer requirements);",
+    "zh": "(按客户要求行车);"
+  },
   "(Cước bọc xe: 100,000đ - 150,000đ tùy từng loại xe).": {
     "en": "(PDF covers: 100,000 m. - 150,000 car-based).",
     "zh": "(PDF覆盖范围:10万米 - 15万辆汽车)."
@@ -4067,6 +4071,10 @@
     "en": "Yeah. For the light item the level is going to be",
     "zh": "对 对于光线项目, 电平将是"
   },
+  ". Đối với xe tay ga và các dòng xe phân khối lớn giá trị cao thì cước phí sẽ cao hơn, ngoài ra còn tuỳ thuộc vào cách thức gửi của từng khách hàng.": {
+    "en": "Yeah. For handcars and high-value mass car lines, costs will be higher, and also depending on how each customer sends them.",
+    "zh": "对 对于手车和高值大众汽车线路,成本会更高,也取决于每个客户如何发送."
+  },
   ". Đối với xe tay ga đắt tiền từ cước phí sẽ cao hơn tuỳ thuộc cách thức gửi của từng khách hàng.": {
     "en": "Yeah. For expensive handcars from the bill will be higher depending on how each customer sends.",
     "zh": "对 对于账单中昂贵的手车,视每个客户发送的方式而定,会更高."
@@ -6691,9 +6699,33 @@
     "en": "1,200 mph/kg",
     "zh": "1,200 mh/kg (单位:公斤)"
   },
+  "1.250.000đ": {
+    "en": "US$ 1.20,000",
+    "zh": "120,000美元"
+  },
   "1.250đ/kg": {
     "en": "1,250 mph/kg",
     "zh": "1,250 mph/kg (单位:公斤)"
+  },
+  "1.250đ/kg (cước tàu)": {
+    "en": "1.250 mph/kg (boat mount)",
+    "zh": "1.250 mph/kg(船载)"
+  },
+  "1.250đ/kg (cước tàu) + 500.000đ xe giao": {
+    "en": "1,250 mph/kg (dept) + 500,000 car transfers",
+    "zh": "1 250 mph/kg(dept)+50万辆汽车转让"
+  },
+  "1.250đ/kg (cước tàu) + 600.000đ xe lấy": {
+    "en": "1,250 mph/kg (board) + car",
+    "zh": "1,250 mph/kg(板)+汽车"
+  },
+  "1.250đ/kg (cước tàu) + 600.000đ xe lấy + 500.000đ xe giao": {
+    "en": "1,250 mph/kg (dept) + 4000 car for plus 500,000 bikes",
+    "zh": "1 250 mph/kg (dept) + 4 000辆汽车,用于外加50万辆自行车"
+  },
+  "1.250đ/kg (hàng nặng)": {
+    "en": "1,250 mph/kg (load)",
+    "zh": "1,250 mph/kg(载重)"
   },
   "1.300.000đ": {
     "en": "1,30,000.",
@@ -6702,6 +6734,10 @@
   "1.300đ/kg": {
     "en": "Gim/kg",
     "zh": "吉姆/千克(千兆吨)"
+  },
+  "1.350.000đ": {
+    "en": "1,30,000.",
+    "zh": "13万块"
   },
   "1.400.000đ": {
     "en": "US$40,000",
@@ -6718,6 +6754,10 @@
   "1.450.000 VNĐ/xe": {
     "en": "1,4750,000 VN/cycle",
     "zh": "1 475万瓦尼/循环"
+  },
+  "1.450.000 đồng": {
+    "en": "$1.40,000.",
+    "zh": "14万块"
   },
   "1.450.000đ": {
     "en": "1.40,000.",
@@ -6790,6 +6830,10 @@
   "1.700.000 – 2.500.000đ": {
     "en": "1.70,000 – 2.00",
     "zh": "1.70 000 - 2.00"
+  },
+  "1.700.000đ": {
+    "en": "US$70,000",
+    "zh": "7万美元"
   },
   "1.700đ/kg": {
     "en": "GHD/kg",
@@ -6986,6 +7030,10 @@
   "100.000đ - 200.000đ": {
     "en": "100,000.",
     "zh": "十万.."
+  },
+  "100.000đ đối với xe số, 150.000đ đối với xe ga, 250.000đ đối với xe phân khối lớn": {
+    "en": "100,000 n's for the digital car, to the station car, 250,000 for the big block car.",
+    "zh": "10万n's为数字车,去站车,25万为大块车."
   },
   "100.000đ → 150.000 đ/xe": {
     "en": "100,000 dollars per car.",
@@ -8002,6 +8050,10 @@
   "2.300/ 500gram": {
     "en": "2.300/500gram",
     "zh": "230克/500克(每克)"
+  },
+  "2.350.000đ": {
+    "en": "US$3.30,000",
+    "zh": "330 000美元"
   },
   "2.450.000đ": {
     "en": "US$2.40,000",
@@ -9331,6 +9383,22 @@
     "en": "450,000 dm/m3",
     "zh": "450 000 dm/m3 数据"
   },
+  "450.000đ/m3 (cước tàu)": {
+    "en": "450,000 dm/m3 (boat mount)",
+    "zh": "45万 dm/m3(船载)"
+  },
+  "450.000đ/m3 (cước tàu) + 500.000đ xe giao": {
+    "en": "450,000 dm/m3 (disaven) + 500,000 transports",
+    "zh": "450 000 dm/m3(损坏)+500 000个运输工具"
+  },
+  "450.000đ/m3 (cước tàu) + 600.000đ xe lấy": {
+    "en": "450,000 dm/m3 (the ship) + 4000 car take",
+    "zh": "450 000 dm/m3(船舶)+4 000辆汽车"
+  },
+  "450.000đ/m3 (hàng nhẹ)": {
+    "en": "450,000 dm/m3 (light row)",
+    "zh": "450 000 dm/m3(轻行)"
+  },
   "450.000đ/m³": {
     "en": "450,000 dm/m3",
     "zh": "450 000 dm/m3 (英语:"
@@ -9378,6 +9446,10 @@
   "463km": {
     "en": "463 km",
     "zh": "463公里处"
+  },
+  "470.000đ/m3": {
+    "en": "4DMD/m3",
+    "zh": "4DMD/立方米"
   },
   "490.000đ/m³": {
     "en": "490.000 x/m3",
@@ -9639,6 +9711,10 @@
     "en": "500,000 dm",
     "zh": "50万纳米"
   },
+  "500.000đ/m3": {
+    "en": "500,000 x/m3",
+    "zh": "500 000克/立方米"
+  },
   "500.000đ/m³": {
     "en": "500,000 x/m3",
     "zh": "500 000克/立方米"
@@ -9687,6 +9763,10 @@
     "en": "51 (10 mi)",
     "zh": "51 (10米) (中文(简体) )."
   },
+  "510.000đ/m3": {
+    "en": "5 GD/m3",
+    "zh": "5个GD/m3"
+  },
   "511km": {
     "en": "511 km",
     "zh": "511公里处"
@@ -9718,6 +9798,10 @@
   "56.000.000 - 64.000.000 đồng": {
     "en": "56,000,000 - 64,000,000 coppers",
     "zh": "56 000 000-64 000 000铜"
+  },
+  "560.000đ/m3": {
+    "en": "5GMD/m3",
+    "zh": "5GMD/立方米"
   },
   "568km": {
     "en": "568 km",
@@ -9862,6 +9946,10 @@
   "600.000 - 900.000 VNĐ/vé": {
     "en": "Midland - 90,000 NRA/GUI",
     "zh": "Midland - 90,000挪威里亚尔/圭亚那"
+  },
+  "600.000đ": {
+    "en": "CREW",
+    "zh": "(简体中文)"
   },
   "600N/khối": {
     "en": "600N/Local",
@@ -10354,6 +10442,10 @@
   "800.000 VNĐ/xe": {
     "en": "VISION/cycle",
     "zh": "展望/周期"
+  },
+  "800.000 đồng": {
+    "en": "US$80,000.",
+    "zh": "8万美元。"
   },
   "800.000 – 2.000.000 VNĐ": {
     "en": "Vickers – 2,000,000 VISI",
@@ -58734,6 +58826,10 @@
   "Giá gửi xe máy từ Sài Gòn ra Hà Nội sẽ dao động khoảng từ": {
     "en": "The price of sending the motorcycle from Saigon to Hanoi will fluctuate from the word",
     "zh": "把摩托车从西贡送到河内的价格会从这个词波动"
+  },
+  "Giá gửi xe máy từ Sài Gòn ra Hà Nội sẽ dao động tối thiểu khoảng từ": {
+    "en": "The price of sending the motorcycle from Saigon to Hanoi will be the minimum range from",
+    "zh": "从西贡将摩托车送到河内的价格是最低的幅度:"
   },
   "Giá gửi xe ô tô Bắc Nam chưa bao gồm chi phí VAT.": {
     "en": "The cost of the North South Car doesn't include VAT costs.",
@@ -118171,6 +118267,18 @@
     "en": "The number of goods / 2 tonnes (the ship + car get + car delivered)",
     "zh": "货物数量/ 2吨(船舶+汽车获得+交付的汽车)"
   },
+  "Số lượng hàng <= 10m3": {
+    "en": "Number of goods=10 m3",
+    "zh": "货物数量=10立方米"
+  },
+  "Số lượng hàng <= 2 tấn": {
+    "en": "Rows=2 tons",
+    "zh": "行数=2吨"
+  },
+  "Số lượng hàng <= 2 tấn (cước tàu + xe lấy + xe giao)": {
+    "en": "The number of goods=2 tons (the ship + car grabs + car transfer)",
+    "zh": "货物数量=2吨(船舶+抓车+汽车转移)"
+  },
   "Số lượng hàng > 10m3": {
     "en": "Row count > 10 m3",
     "zh": "行数 > 10立方米"
@@ -136110,6 +136218,10 @@
   "Tính cước và xem kết quả": {
     "en": "Properties & View Results",
     "zh": "属性查看结果( V)"
+  },
+  "Tính cước vận chuyển hàng hóa Bắc Nam": {
+    "en": "Identity Transportation of North South",
+    "zh": "南北运输"
   },
   "Tính dễ vỡ:": {
     "en": "Breakability:",
@@ -159827,6 +159939,10 @@
     "en": "[States] Is the traffic inspector allowed to stop?",
     "zh": "[国 交通巡视员可以停下来吗?"
   },
+  "[TINH_CUOC]": {
+    "en": "[MUTTERING]",
+    "zh": "[毛牙]"
+  },
   "[Tổng hợp] Kinh nghiệm chuyển nhà Sài Gòn - Thanh Hóa từ A → Z": {
     "en": "[Presidential] Saigon move experience - Qingization from A-2010 Z",
     "zh": "[总统 西贡移动体验 - A-2010 Z的清化"
@@ -160358,6 +160474,10 @@
   "bằng tàu hoả chỉ khoảng thấp là": {
     "en": "By train only low",
     "zh": "通过火车只低"
+  },
+  "bằng tàu hoả chỉ khoảng thấp nhất là": {
+    "en": "By train only at lowest",
+    "zh": "只有最低的火车"
   },
   "bằng tàu hoả hay ô tô": {
     "en": "by train or car",
@@ -183511,6 +183631,10 @@
     "en": "To be convenient, when there is a demand for shipping through the airway, you can choose the services of multiple units. In addition, you can choose the freight service by rail of the freight company - the Media Media. You won't have to worry, worrying about the problems that might arise. With the professional service, the prestige of the North Southern freight company - Liu Transport will surely satisfy even the most difficult customers.",
     "zh": "为了方便起见,当有需要通过航空道运输时,可以选择多个单位的服务. 此外,您还可以通过铁路选择货运公司-Media Media的货运服务. 你不必担心 担心可能出现的问题 凭借专业服务,北方南方货运公司的威望——刘运肯定会满足甚至最困难的客户."
   },
+  "Để thuận tiện, quý khách có thể nhập thông tin hàng hóa và tuyến vận chuyển vào công cụ dưới đây để ước tính chi phí nhanh chóng.": {
+    "en": "For convenience, you can enter freight information and transport routes into the following tool to estimate the cost quickly.",
+    "zh": "为了方便,您可以将货运信息和运输线路输入以下工具来快速估算成本."
+  },
   "Để thân thiện với khách hàng, nhiều công ty vận chuyển đã tạo ra bảng giá để khách hàng có thể tham khảo trong quá trình vận chuyển. Nhưng làm thế nào để bạn tạo một báo giá vận chuyển xe tải chi tiết? Hãy tham khảo ngay mẫu bảng báo giá sau đây nhé.": {
     "en": "To be friendly with the customers, many shipping companies created the price sheet so that customers could refer to the transport process. But how do you create a detailed transport price? Please refer to the following panel.",
     "zh": "为了与客户友好,许多航运公司创建了价格表,以便客户可以参考运输过程. 但如何创造详细的运输价格? 请参看以下面板。"
@@ -185498,6 +185622,10 @@
   "ĐỐI VỚI HÀNG SỐ LƯỢNG < 2 TẤN": {
     "en": "CONTRIBUTIONS",
     "zh": "捐款"
+  },
+  "ĐỐI VỚI HÀNG SỐ LƯỢNG <= 2 TẤN": {
+    "en": "CONTINUTIONS",
+    "zh": "继续"
   },
   "ĐỐI VỚI HÀNG SỐ LƯỢNG > 10M3": {
     "en": "CONTINUTIONS > 10M3",
@@ -192843,6 +192971,10 @@
     "en": "TM Deal",
     "zh": "TM 协议"
   },
+  "™ Giá cước chi tiết gửi hàng Sài Gòn Hà Nội": {
+    "en": "The detailed TM value of sending Saigon",
+    "zh": "发送西贡的详细 TM 值"
+  },
   "™ Giá cước gửi hàng đường sắt từ Hà Nội vào Sài Gòn": {
     "en": "TM Bills send railroads from Hanoi to Saigon",
     "zh": "TM Bills将河内至西贡的铁路"
@@ -193430,6 +193562,10 @@
   "™ Tích hợp vào chuỗi cung ứng toàn cầu": {
     "en": "TM Mixing in Global supply chain",
     "zh": "TM 全球供应链中的混合"
+  },
+  "™ Tính cước": {
+    "en": "TM Computation",
+    "zh": "TM 计算"
   },
   "™ Tại sao cùng số kilogram nhưng giá vận chuyển lại khác nhau?": {
     "en": "TM Why the same number 588 but the price of transportation is different?",
@@ -199271,6 +199407,10 @@
     "en": "How much does the package office cost?",
     "zh": "这包办公室要多少钱?"
   },
+  "► Giá cước chi tiết": {
+    "en": "Synchronising folder",
+    "zh": "创建新文件夹"
+  },
   "► Giá cước cho dịch vụ vận chuyển hàng hóa Bắc Nam là bao nhiêu?": {
     "en": "What's the rate for North South freight service?",
     "zh": "南北货运服务收费多少."
@@ -203466,6 +203606,10 @@
   "► Tính chất hàng hóa": {
     "en": "EDI Properties",
     "zh": "EDI 属性"
+  },
+  "► Tính cước gửi hàng Hà Nội Sài Gòn": {
+    "en": "INTERVIEW TRIVING TRIVAIVAIVAIVAIVING HIVANIVAI",
+    "zh": "影响艾滋病毒/艾滋病感染者的"
   },
   "► Tính khối lượng, kích thước và tình trạng gói hàng": {
     "en": "FIGN Volume, Size and Package Status",

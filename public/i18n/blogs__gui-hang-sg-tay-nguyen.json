@@ -3,6 +3,18 @@
   "missing_count": 0,
   "route": "/blogs/gui-hang-sg-tay-nguyen",
   "texts": {
+    "(Đã bao gồm VAT 8%)": {
+      "en": "(including VAT 8)",
+      "zh": "(包括增值税8)"
+    },
+    "* 4 – 5 ngày": {
+      "en": "* 4 – 5 days",
+      "zh": "* 4 -- -- 5天"
+    },
+    "+ THÊM LOẠI HÀNG": {
+      "en": "+ MINUTE",
+      "zh": "+分钟"
+    },
     ", hướng đến phương án vận chuyển rõ ràng, phù hợp với đặc điểm hàng hóa và điểm giao nhận thực tế.": {
       "en": ", toward the clear transport solution, consistent with the cargo features and the actual intersection.",
       "zh": ",走向清晰的运输解决方案,符合货物特征和实际的交叉点."
@@ -30,6 +42,14 @@
     "07 Tháng 4 2022": {
       "en": "07 April 2022",
       "zh": "2022年4月07日 (中文(简体) )."
+    },
+    "0đ": {
+      "en": "0D",
+      "zh": "零点"
+    },
+    "500.000đ/m³": {
+      "en": "500,000 x/m3",
+      "zh": "500 000克/立方米"
     },
     ">>> Có thể bạn quan tâm:": {
       "en": "> DSTOR Can You Care:",
@@ -107,9 +127,33 @@
       "en": "Truck Freight Rates",
       "zh": "货车运输价格表"
     },
+    "Bảng vùng cước đã sẵn sàng. Kết quả xuất hiện ngay khi bấm tính cước.": {
+      "en": "Placeboard is ready. The results came out as soon as you hit the card.",
+      "zh": "板子准备好了 你一打出牌,结果就出来了"
+    },
+    "Bắt buộc xác nhận phương án bọc bảo vệ xe": {
+      "en": "Forced to confirm plan to secure the vehicle",
+      "zh": "被迫确认保护车辆的计划"
+    },
     "Bắt đầu tư vấn": {
       "en": "Start consulting",
       "zh": "开始咨询"
+    },
+    "Bọc bảo vệ xe": {
+      "en": "Car Guard",
+      "zh": "车警"
+    },
+    "Bọc bảo vệ xe gửi kèm": {
+      "en": "car security attached",
+      "zh": "汽车安全"
+    },
+    "Bốc xếp đầu giao": {
+      "en": "Bulk head off.",
+      "zh": "散头去."
+    },
+    "Bốc xếp đầu lấy": {
+      "en": "Get your head up",
+      "zh": "抬起头来"
     },
     "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
       "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
@@ -146,6 +190,26 @@
     "Chi phí": {
       "en": "Costs",
       "zh": "费用"
+    },
+    "Chi phí chờ hàng: thỏa thuận theo thời gian và điều kiện thực tế.": {
+      "en": "Supplies costs: deal over time and actual conditions.",
+      "zh": "用品费用:随时间和实际条件处理。"
+    },
+    "Chi tiết dự tính": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Chiều cao/kiện": {
+      "en": "Height per Package",
+      "zh": "每件高度"
+    },
+    "Chiều dài/kiện": {
+      "en": "Length per Package",
+      "zh": "每件长度"
+    },
+    "Chiều rộng/kiện": {
+      "en": "Width per Package",
+      "zh": "每件宽度"
     },
     "Chuyển kho xưởng Hà Nội → Sài Gòn": {
       "en": "Warehouse & Factory Relocation from Hanoi to Saigon",
@@ -227,9 +291,73 @@
       "en": "Damage Compensation Policy",
       "zh": "货损赔偿政策"
     },
+    "Chọn Ga Gửi": {
+      "en": "Select Origin Rail Station",
+      "zh": "请选择始发站"
+    },
+    "Chọn Ga Nhận": {
+      "en": "Select Destination Rail Station",
+      "zh": "请选择到达站"
+    },
+    "Chọn Hãng và dòng xe để hệ thống tự phân loại": {
+      "en": "Select the Constance and Line of the car to classification system",
+      "zh": "选择车厢的 Constance 和线路到分类系统"
+    },
+    "Chọn Phường/Xã": {
+      "en": "Select Ward/Commune",
+      "zh": "请选择坊／社"
+    },
+    "Chọn Phường/Xã mới": {
+      "en": "New",
+      "zh": "新设"
+    },
+    "Chọn Quận/Huyện": {
+      "en": "Select District",
+      "zh": "请选择区／县"
+    },
+    "Chọn Tỉnh/Thành phố mới": {
+      "en": "Select Province/ New City",
+      "zh": "选择省/ 新城"
+    },
+    "Chọn hãng và dòng xe": {
+      "en": "Select a company and line of vehicles",
+      "zh": "选择公司和车辆线路"
+    },
+    "Chọn loại hàng": {
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
+    },
+    "Chọn loại xe": {
+      "en": "Select a car type",
+      "zh": "选择车型"
+    },
+    "Chọn phương thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
+    "Chọn tình trạng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Chọn vị trí bốc xếp": {
+      "en": "Select the ranking position",
+      "zh": "选择排名位置"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
+    },
+    "CÔNG CỤ TRỰC TUYẾN": {
+      "en": "ONLINE TOOLS",
+      "zh": "在线工具"
+    },
+    "Các kiện hàng cùng một loại": {
+      "en": "Packages of the same type",
+      "zh": "同类软件包"
+    },
+    "Các kiện hàng gồm nhiều loại": {
+      "en": "Packages of various types",
+      "zh": "各类包件"
     },
     "Các loại hàng nhận gửi từ TP.HCM đi Tây Nguyên": {
       "en": "Orders sent from TP.HCM to West Yuan",
@@ -247,6 +375,18 @@
       "en": "The question is common when sending the package from TP.HCM to the West Plain",
       "zh": "这个问题从TP.HCM发送到西平原时很常见."
     },
+    "Có bọc": {
+      "en": "Covered",
+      "zh": "覆盖"
+    },
+    "Có thang máy": {
+      "en": "There's an elevator.",
+      "zh": "有电梯"
+    },
+    "Có thể nhập bằng dấu phẩy, dấu chấm phẩy hoặc xuống dòng.": {
+      "en": "Enterable with commas, semicolons, or downstreams.",
+      "zh": "有逗号、分号或下游可以输入。"
+    },
     "Có thể tiếp nhận hàng lẻ, hàng ghép tùy tính chất và tuyến giao nhận.": {
       "en": "Single goods can be received, rows are customized, and routes received.",
       "zh": "单项货物可以接收,各行货物可以定制,路线可以接收."
@@ -259,9 +399,21 @@
       "en": "NHHH Media Media CBS CBS CENTER: Common National Archives GPKD Digital: 0313 728 647 01 Level Day: 31-3-1601 Places: Department of Staff and Investment TpHCM.",
       "zh": "NHH Media Media CBS CBS CENTER:通用国家档案 GPKD Digital:0313 728 647 01 Level Day:31-3-1601 地点:人事和投资部 TpHCM."
     },
+    "CƯỚC DỰ KIẾN CỦA BẠN": {
+      "en": "YOUR ESTIMATED SHIPPING COST",
+      "zh": "您的预估运费"
+    },
+    "CƯỚC VẬN CHUYỂN DỰ KIẾN": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
     "DMCA.com Protection Status": {
       "en": "DMCA.com Protection UTC",
       "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Danh sách đồ gia đình": {
+      "en": "List of family items",
+      "zh": "家庭物品清单"
     },
     "Do đó, để nhận": {
       "en": "So to receive",
@@ -274,6 +426,10 @@
     "Dịch vụ": {
       "en": "Services",
       "zh": "服务"
+    },
+    "Dịch vụ bổ sung": {
+      "en": "Plugin Services",
+      "zh": "插件服务"
     },
     "Dịch vụ gửi hàng từ Sài Gòn (TpHCM) đi Lâm Đồng giá tốt": {
       "en": "The delivery service from Saigon (TpHCM) goes to Lin Good Price",
@@ -343,6 +499,18 @@
       "en": "Archived Download Facebook",
       "zh": "已存档下载 Facebook"
     },
+    "GA GỬI": {
+      "en": "ORIGIN RAIL STATION",
+      "zh": "始发站"
+    },
+    "GA NHẬN": {
+      "en": "DESTINATION RAIL STATION",
+      "zh": "到达站"
+    },
+    "GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "SHIPPING RATES",
+      "zh": "运输费率"
+    },
     "GIẢI PHÁP": {
       "en": "Solutions",
       "zh": "解决方案"
@@ -351,9 +519,25 @@
       "en": "PORTUGUESE",
       "zh": "葡萄牙"
     },
+    "Ga đến Ga": {
+      "en": "Station-to-Station",
+      "zh": "站到站"
+    },
+    "Ga đến Nhà": {
+      "en": "Station-to-Door",
+      "zh": "站到门"
+    },
+    "Ghi chú vị trí khác": {
+      "en": "Note Location Other",
+      "zh": "其他地点"
+    },
     "Gia Lai là một trong những điểm đến có nhu cầu vận chuyển hàng hóa lớn trên tuyến Tây Nguyên. Các đơn hàng thường gồm máy móc, hàng tiêu dùng, vật tư, thiết bị, hàng phục vụ sản xuất, hàng nông nghiệp và hàng phân phối cho đại lý.": {
       "en": "Gia Lai is one of the destinations with a great demand for freight on the West Plain Line. The orders typically include machinery, consumer goods, supplies, equipment, production goods, agricultural goods and distributions for the agent.",
       "zh": "佳莱是西平原线货运需求巨大的目的地之一. 订单一般包括机械,消费品,用品,设备,生产商品,农产品和代理人的配送."
+    },
+    "Giao hàng ban đêm": {
+      "en": "Night Delivery",
+      "zh": "夜间配送"
     },
     "Giao tại trung tâm và giao tại khu vực xa tuyến chính có chi phí tổ chức khác nhau.": {
       "en": "The delivery at the center and assigned at the main route distance area had different organizational costs.",
@@ -371,9 +555,17 @@
       "en": "Advice & Guides",
       "zh": "咨询与指南"
     },
+    "Gọi 0909 81 6625": {
+      "en": "Calling 0909 81 6625",
+      "zh": "呼叫0909 81 6625"
+    },
     "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
       "en": "Call Hotline Media 0909 81 6625",
       "zh": "拨打热线"
+    },
+    "GỬI KÈM XE MÁY": {
+      "en": "TRIGUIMENT",
+      "zh": "捐款"
     },
     "Gửi": {
       "en": "Send",
@@ -479,6 +671,10 @@
       "en": "Hotline: 0909 81 6625",
       "zh": "热线:0909 81 6625"
     },
+    "Hoặc tính m³ theo kích thước kiện hàng: nhập số lượng và kích thước bên dưới, hệ thống sẽ tự tính tổng m³.": {
+      "en": "Or do the m3 in the package size: enter the number and size below, the system will calculate the total m3.",
+      "zh": "或做包大小的m3:输入下面的数字和大小,系统会计算出总的m3."
+    },
     "HÌNH ẢNH": {
       "en": "Photo Gallery",
       "zh": "图片库"
@@ -527,9 +723,21 @@
       "en": "Heavy cargo is usually calculated in accordance with plymouth or in terms of actual load options.",
       "zh": "重载货物通常按照普利茅斯或实际装载选项计算."
     },
+    "Hàng đóng pallet": {
+      "en": "Packer pallet",
+      "zh": "包装托盘"
+    },
+    "Hàng đóng tank": {
+      "en": "Supplies",
+      "zh": "用品"
+    },
     "Hàng được sắp xếp lên phương tiện phù hợp và vận chuyển theo tuyến đường bộ đến Tây Nguyên.": {
       "en": "The package is arranged for suitable vehicles and shipped on a road route to the West Plain.",
       "zh": "包裹安排为合适的车辆,并按一条通往西平原的公路运输."
+    },
+    "Hãng và dòng xe": {
+      "en": "The Company and the Car Line",
+      "zh": "公司和汽车线路"
     },
     "Hình thức gửi hàng từ TP.HCM đi Tây Nguyên": {
       "en": "The delivery form from TP.HCM to the West Plain",
@@ -543,9 +751,25 @@
       "en": "Guides",
       "zh": "指南"
     },
+    "Hệ thống phân loại:": {
+      "en": "Category system:",
+      "zh": "类别系统:"
+    },
+    "Hệ thống tự áp dụng mức phí theo loại xe": {
+      "en": "The system applies its own cost to the type of car.",
+      "zh": "该系统将自身成本应用于车型."
+    },
+    "Hệ thống tự áp dụng mức phí theo từng loại xe": {
+      "en": "The system applies its own cost to each car.",
+      "zh": "该系统将自己的成本用于每辆车."
+    },
     "KHÁCH HÀNG": {
       "en": "BIRTHER",
       "zh": "比尔"
+    },
+    "KIỆN >= 200KG": {
+      "en": "GPL >=200G",
+      "zh": "GPL QQ200G 导弹"
     },
     "Khi khối lượng tăng, phương án vận chuyển sẽ được tính toán dựa trên trọng lượng, thể tích và đặc điểm thực tế của lô hàng.": {
       "en": "As the mass increases, the transportation solution will be calculated based on the weight, volume and actual characteristics of the shipment.",
@@ -567,6 +791,18 @@
       "en": "Customers are well informed about the delivery plan before delivery.",
       "zh": "客户在交货前充分了解交货计划。"
     },
+    "Không biết loại xe?": {
+      "en": "Don't know the car?",
+      "zh": "不认识那辆车?"
+    },
+    "Không bọc": {
+      "en": "No Cover",
+      "zh": "无封面"
+    },
+    "Không có thang máy": {
+      "en": "No elevator.",
+      "zh": "没有电梯。"
+    },
     "Không nên chỉ cung cấp tổng trọng lượng mà bỏ qua kích thước.": {
       "en": "The total weight should not be provided but ignore the size.",
       "zh": "不应提供总重量,而应忽略其大小。"
@@ -579,6 +815,18 @@
       "en": "Nope. The TP.HCM Line – The West Plains of Media are held by",
       "zh": "没有 TP.HCM线 – 媒体的西平原 由"
     },
+    "Khối lượng tổng": {
+      "en": "Total Weight",
+      "zh": "总重量"
+    },
+    "Khối lượng/kiện": {
+      "en": "Weight per Package",
+      "zh": "每件重量"
+    },
+    "Kiện nặng": {
+      "en": "Heavy case",
+      "zh": "重型案件"
+    },
     "Kích thước.": {
       "en": "Size.",
       "zh": "尺寸。"
@@ -587,6 +835,10 @@
       "en": "Connect with Luu Le Transport through our official channels.",
       "zh": "通过官方渠道联系 Luu Le 运输公司。"
     },
+    "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
+      "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+      "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
+    },
     "LIÊN HỆ": {
       "en": "GREEW",
       "zh": "希腊"
@@ -594,6 +846,46 @@
     "LIÊN KẾT": {
       "en": "CONNECT WITH US",
       "zh": "联系我们"
+    },
+    "LOẠI 1": {
+      "en": "JSTOR 1",
+      "zh": "JSTOR 1号卫星"
+    },
+    "LOẠI 10": {
+      "en": "JSTOR 10",
+      "zh": "JSTOR 10号卫星"
+    },
+    "LOẠI 2": {
+      "en": "JSTOR 2",
+      "zh": "第2号"
+    },
+    "LOẠI 3": {
+      "en": "JSTOR 3",
+      "zh": "JSTOR 3号"
+    },
+    "LOẠI 4": {
+      "en": "JSTOR 4",
+      "zh": "第4号"
+    },
+    "LOẠI 5": {
+      "en": "JSTOR 5",
+      "zh": "约瑟5号"
+    },
+    "LOẠI 6": {
+      "en": "JSTOR 6",
+      "zh": "JSTOR 6号"
+    },
+    "LOẠI 7": {
+      "en": "JSTOR 7",
+      "zh": "JSTOR 7号"
+    },
+    "LOẠI 8": {
+      "en": "JSTOR 8",
+      "zh": "JSTOR 8号"
+    },
+    "LOẠI 9": {
+      "en": "JSTOR 9",
+      "zh": "第9号"
     },
     "Liên hệ Vận Tải Lưu Lê": {
       "en": "Media Media Contact",
@@ -607,9 +899,25 @@
       "en": "Archived Transportation",
       "zh": "存档运输"
     },
+    "Loại xe": {
+      "en": "Car Type",
+      "zh": "车型"
+    },
+    "Loại xe là thông tin bắt buộc. Nếu không xác định được, hãy chọn Hãng và dòng xe để hệ thống tự phân loại.": {
+      "en": "The type of car is mandatory information. If it is not determined, select the Company and the line for the self-classification system.",
+      "zh": "车型为强制信息. 如果未确定,则选择公司和自分类系统线。"
+    },
     "Lô hàng lớn.": {
       "en": "Big shipment.",
       "zh": "大货"
+    },
+    "Lưu kho": {
+      "en": "Storage",
+      "zh": "仓储"
+    },
+    "Lưu ý:": {
+      "en": "Note:",
+      "zh": "说明:"
     },
     "Máy móc có chi tiết dễ hư hỏng nên được cố định hoặc đóng kiện khi cần thiết.": {
       "en": "Machines with perishable details should be fixed or closed when required.",
@@ -626,6 +934,14 @@
     "Máy sản xuất, máy công nghiệp, thiết bị cơ khí, linh kiện, dụng cụ và nhiều loại máy móc phục vụ doanh nghiệp.": {
       "en": "Producers, industrial machines, mechanical equipment, components, equipment, and various types of machinery that serve business.",
       "zh": "生产者,工业机器,机械设备,部件,设备,以及各种为企业服务的机械."
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu giao": {
+      "en": "Short description of the intersection position",
+      "zh": "交叉位置简介."
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu lấy": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
     },
     "Mạng xã hội Vận Tải Lưu Lê": {
       "en": "Archived Social Network",
@@ -671,9 +987,29 @@
       "en": "The demand for supplies from TP.HCM to the West is increasing with the development of commercial activity, production, construction, and distribution of goods between TP.HCM with the Jalai Regions, Dák Lürk, Linsong, Rák Farm and Kon Tum. The relative distance, the terrain of many steep areas and the distribution point of delivery made the option for the move-off unit of the Western Line experience important.",
       "zh": "随着TP.HCM与Jalai地区、Dák Lürk、Linsong、Rák农场和Kon Tum之间的商业活动、生产、建筑和货物分配的发展,TP.HCM向西方的供应需求正在增加。 相对距离,许多陡峭地区的地形和送货的分布点,使得西线体验的动车组的选择很重要."
     },
+    "Nhà đến Ga": {
+      "en": "Door-to-Station",
+      "zh": "门到站"
+    },
+    "Nhà đến Nhà": {
+      "en": "Door-to-Door",
+      "zh": "门到门"
+    },
+    "Nhận báo giá chính xác": {
+      "en": "Receive the correct price",
+      "zh": "接收正确的价格"
+    },
     "Nhập nội dung cần tìm...": {
       "en": "Import Contents to Find...",
       "zh": "导入要查找的内容..."
+    },
+    "Nhập tên hàng và số lượng tổng để hệ thống tự cập nhật kg và m³ theo bộ nhận diện hiện có.": {
+      "en": "Enter the row name and total number for the self-update system and m3 in the current identification system.",
+      "zh": "输入自更新系统的行名和总数,以及当前识别系统中的m3。"
+    },
+    "Nhập tên máy/thiết bị và số lượng tổng; kg và m³ sẽ tự cập nhật theo bộ nhận diện, có thể sửa bằng số liệu thực tế.": {
+      "en": "Enter the host name/set and total number; kilograms and m3 will self-update by identification, which can be modified by actual figures.",
+      "zh": "输入主机名称/设置和总数;kug和m3会通过识别自我更新,可以通过实际数字修改."
     },
     "Những lưu ý chung": {
       "en": "General Information",
@@ -695,13 +1031,57 @@
       "en": "If the cargo needs workers, lifts, or support equipment, the cost is calculated in practice and agreement.",
       "zh": "如果货物需要工人、起重机或辅助设备,费用按惯例和协议计算。"
     },
+    "Nếu không nắm rõ tên mặt hàng, khối lượng tổng, thể tích tổng? Hoặc hàng gồm nhiều loại khác nhau? Vui lòng nhập các thông tin chi tiết vào mục bên dưới, hệ thống sẽ tự động tính ra cho bạn!": {
+      "en": "If you don't know the name of the package, the total mass, the total volume? Or are the lines varied? Please enter detailed information into the item below, the system will automatically calculate it for you!",
+      "zh": "如果你不知道包裹的名称,总质量,总体积? 还是台词不同? 请在下面的项目中输入详细资料,系统会自动为您计算!"
+    },
     "NỘI BỘ": {
       "en": "Internal Portal",
       "zh": "内部管理"
     },
+    "Pallet": {
+      "en": "Pallet",
+      "zh": "圆盘"
+    },
+    "Pallet, tank và kiện hàng trên 200kg bắt buộc sử dụng xe nâng tại 2 đầu ga tàu và có phát sinh phí xe nâng. Tại 2 đầu kho, khách hàng hỗ trợ đưa hàng lên và xuống xe.": {
+      "en": "Pallet, tank and package over 200 kilograms forced to use the lift car at 2 end of the train station and there was a lift fee. At two end of the warehouse, the client assists to load up and down.",
+      "zh": "托盘,坦克和包裹超过200公斤被迫在火车站两端使用升降车,并收取升降费. 在仓库两端,客户协助上下加载."
+    },
+    "Phân loại": {
+      "en": "Category",
+      "zh": "类别"
+    },
+    "Phân loại hàng tự động": {
+      "en": "Automatic Cargo Classification",
+      "zh": "自动识别货物类别"
+    },
+    "Phí lưu kho 200.000đ/ngày": {
+      "en": "US$200/day archive",
+      "zh": "每日200美元档案费"
+    },
+    "Phương thức": {
+      "en": "Mode",
+      "zh": "模式"
+    },
+    "Phương thức giao nhận": {
+      "en": "Protocol",
+      "zh": "议定书"
+    },
     "Phương án này giúp doanh nghiệp kiểm soát lịch giao hàng tốt hơn.": {
       "en": "This option helps businesses control better delivery schedules.",
       "zh": "这个选项帮助企业控制更好的交付时间表."
+    },
+    "Phường/Xã": {
+      "en": "Ward/Commune",
+      "zh": "坊／社"
+    },
+    "Phụ phí 900.000đ/lần": {
+      "en": "$900,000 apiece",
+      "zh": "每人90万美元"
+    },
+    "QUY CÁCH ĐÓNG HÀNG": {
+      "en": "REVIECTION",
+      "zh": "修订"
     },
     "Quy cách hàng.": {
       "en": "Line up.",
@@ -711,17 +1091,73 @@
       "en": "The delivery process from the TP.HCM to the West Plains at the Archives",
       "zh": "从TP.HCM到档案馆西平原的交付过程"
     },
+    "Quy ước 1 m³ = 350 kg: trên 350 kg/m³ tính hàng nặng; từ 350 kg/m³ trở xuống tính hàng nhẹ.": {
+      "en": "Rule 1 m3 = 350 kg: over 350 kg/m3 weights; from 350 kg/m3 to down the light row.",
+      "zh": "规则1m3=350公斤:超过350公斤/立方米体重;从350公斤/立方米到下行轻排."
+    },
+    "Quận/Huyện": {
+      "en": "District",
+      "zh": "区／县"
+    },
+    "Sảnh / tầng trệt": {
+      "en": "Bottom/floor",
+      "zh": "底楼/底楼"
+    },
+    "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
+      "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
+      "zh": "MLIZER:轻度50000 mph/m3;重度bleh/dm. 法规增加的带有电梯的地板/地点"
+    },
+    "Số kiện tổng": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
     "Số kiện.": {
       "en": "Facts.",
       "zh": "事实"
+    },
+    "Số liệu thực tế khách nhập luôn được ưu tiên hơn số liệu ước tính.": {
+      "en": "In fact the entry is always preferred over the estimates.",
+      "zh": "事实上,该条目总是比估计数更可取。"
+    },
+    "Số lượng": {
+      "en": "Count",
+      "zh": "计数"
     },
     "Số lượng thực tế.": {
       "en": "Real number.",
       "zh": "真实数."
     },
+    "Số lượng tổng": {
+      "en": "Total Number",
+      "zh": "总数"
+    },
+    "Số lượng xe": {
+      "en": "Number of cars",
+      "zh": "汽车数量"
+    },
     "Số lượng.": {
       "en": "Number.",
       "zh": "号码"
+    },
+    "Số ngày lưu kho": {
+      "en": "Number of Archived Days",
+      "zh": "归档天数"
+    },
+    "Số ngày lưu kho xe máy": {
+      "en": "Number of days of motorcycle Archives",
+      "zh": "摩托车档案馆的天数"
+    },
+    "Sử dụng địa danh mới sau sáp nhập": {
+      "en": "Use updated administrative place names",
+      "zh": "使用行政区划调整后的新地名"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ gửi": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ nhận": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
     },
     "THÔNG BÁO": {
       "en": "Announcements",
@@ -755,6 +1191,10 @@
       "en": "TP.HCM goes to the Lörk.",
       "zh": "TP.HCM去罗克."
     },
+    "TRA CỨU": {
+      "en": "CHECK",
+      "zh": "查询"
+    },
     "TRA CỨU GIÁ CƯỚC": {
       "en": "CENTRAL",
       "zh": "中央"
@@ -771,9 +1211,33 @@
       "en": "Careers",
       "zh": "招聘"
     },
+    "Tank": {
+      "en": "Tank",
+      "zh": "坦克"
+    },
+    "Thang máy": {
+      "en": "Elevator",
+      "zh": "电梯"
+    },
+    "Thôn/Xóm/Ấp, đường và số nhà": {
+      "en": "Hamlet, street and house number",
+      "zh": "村／组、街道及门牌号"
+    },
     "Thông tin càng đầy đủ thì phương án báo giá càng sát thực tế.": {
       "en": "The more information, the more realistic the price plan is.",
       "zh": "信息越多,价格计划就越现实."
+    },
+    "Thông tin hàng hóa": {
+      "en": "Row Information",
+      "zh": "行信息"
+    },
+    "Thể tích tổng": {
+      "en": "Total Volume",
+      "zh": "总体积"
+    },
+    "Thời gian": {
+      "en": "Time",
+      "zh": "时间"
     },
     "Thời gian mong muốn.": {
       "en": "Time desired.",
@@ -795,6 +1259,10 @@
       "en": "Guide Center",
       "zh": "引导中心"
     },
+    "Trên tầng/lầu": {
+      "en": "Upstairs.",
+      "zh": "楼上"
+    },
     "Trọng lượng.": {
       "en": "Load.",
       "zh": "装弹"
@@ -815,6 +1283,14 @@
       "en": "The delivery line.",
       "zh": "送货线."
     },
+    "Tuyến vận chuyển": {
+      "en": "Shipping Route",
+      "zh": "运输路线"
+    },
+    "Tuyến đường sắt": {
+      "en": "Railway",
+      "zh": "铁路"
+    },
     "Twitter Vận Tải Lưu Lê": {
       "en": "Twitter Media",
       "zh": "推特媒体"
@@ -823,9 +1299,21 @@
       "en": "Account",
       "zh": "账户"
     },
+    "Tách rõ cước và phụ phí": {
+      "en": "Itemized Shipping Charges and Surcharges",
+      "zh": "运费与附加费分项列明"
+    },
+    "Tên hàng": {
+      "en": "Cargo Description",
+      "zh": "货物名称"
+    },
     "Tên hàng.": {
       "en": "The row name.",
       "zh": "行名相会."
+    },
+    "Tên máy/thiết bị": {
+      "en": "Hostname/ Device",
+      "zh": "主机名/ 设备"
     },
     "Tên, số điện thoại và địa chỉ giao cần đầy đủ để hạn chế thời gian xác minh khi xe đến nơi.": {
       "en": "Names, phone numbers and delivery addresses need to be sufficient to limit the time of confirmation when vehicles arrive.",
@@ -838,6 +1326,14 @@
     "Tìm kiếm": {
       "en": "Search",
       "zh": "搜索"
+    },
+    "Tích chọn nếu lô đồ gia đình có xe máy đi cùng": {
+      "en": "Select if a family shipment has a motorcycle with it",
+      "zh": "选择家用货有没有摩托车"
+    },
+    "Tính cước ngay": {
+      "en": "Calculate Shipping Cost",
+      "zh": "立即计算运费"
     },
     "Tùy quy mô đơn hàng, Vận Tải Lưu Lê có thể tư vấn hình thức phù hợp.": {
       "en": "Depending on the size of the single row, Liu Media can advise the appropriate form.",
@@ -859,9 +1355,49 @@
       "en": "Consulting AI Media",
       "zh": "咨询AI媒体"
     },
+    "Tạm tính trước VAT": {
+      "en": "Publishing VAT",
+      "zh": "公布增值税"
+    },
+    "Tầng hầm": {
+      "en": "The basement.",
+      "zh": "地下室 地下室"
+    },
+    "Tầng/lầu hoặc hầm": {
+      "en": "Level/Land or vault",
+      "zh": "级别/地盘或金库"
+    },
+    "Tỉnh/Thành phố": {
+      "en": "Province/City",
+      "zh": "省／直辖市"
+    },
+    "Tổng số kiện": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
+    "Tổng số kiện hàng": {
+      "en": "Total Packages",
+      "zh": "软件包共计"
+    },
+    "Tổng số kiện máy": {
+      "en": "Total machine lawsuit",
+      "zh": "机器诉讼共计"
+    },
     "Từ đó đề xuất phương tiện và cách tổ chức vận chuyển phù hợp.": {
       "en": "It offers the right means and means of transport organization.",
       "zh": "它提供了正确的运输手段和手段。"
+    },
+    "TỰ NHẬN DIỆN & TÍNH M³": {
+      "en": "IDENTIFY CARGO & CALCULATE VOLUME",
+      "zh": "自动识别货物并计算体积"
+    },
+    "VAT 8%": {
+      "en": "VAT 8",
+      "zh": "增值税8"
+    },
+    "VAT 8% là mặc định": {
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
     },
     "VIDEOS": {
       "en": "LIS",
@@ -871,6 +1407,14 @@
       "en": "Organisation",
       "zh": "日历"
     },
+    "Vui lòng chọn một phương án": {
+      "en": "Please choose a solution",
+      "zh": "请选择一个解决方案"
+    },
+    "Vui lòng nhập tên và số lượng các đồ dùng cần vận chuyển. Ví dụ: 1 tủ lạnh, 1 tivi, 2 ghế, 5 thùng đồ… Hệ thống sẽ hỗ trợ ước tính tổng thể tích để tính cước.": {
+      "en": "Please enter the name and number of items to transport. For example: 1 refrigerator, 1 TV, 2 seats, 5 barrels...the system will support an overall estimate of the volume to calculate the ID.",
+      "zh": "请输入要运输的物品名称和编号 。 例如: 1个冰箱, 1个电视, 2个座位, 5个桶... 系统将支持对容量的总体估计 来计算ID。"
+    },
     "Vì sao chọn Vận Tải Lưu Lê gửi hàng đi Tây Nguyên?": {
       "en": "Why did you choose to send Liu Li to West Yuan?",
       "zh": "为何选择派刘立到西元?."
@@ -878,6 +1422,58 @@
     "Vì sao tuyến TP.HCM đi Tây Nguyên sử dụng đường bộ?": {
       "en": "Why does the TP.HCM route go to the West Plain using the road?",
       "zh": "为什么TP.HCM的路线要用这条路去西平原?."
+    },
+    "Ví dụ: 10": {
+      "en": "Examples: 10",
+      "zh": "实例:10"
+    },
+    "Ví dụ: 1200": {
+      "en": "Examples: 1200",
+      "zh": "实例:1200"
+    },
+    "Ví dụ: 20": {
+      "en": "Examples: 20",
+      "zh": "实例:20"
+    },
+    "Ví dụ: 2000": {
+      "en": "Examples: 2000",
+      "zh": "实例:2000年"
+    },
+    "Ví dụ: 25": {
+      "en": "Examples: 25",
+      "zh": "实例:25"
+    },
+    "Ví dụ: 3.5": {
+      "en": "Examples: 3.5",
+      "zh": "实例:3.5"
+    },
+    "Ví dụ: 30": {
+      "en": "Examples: 30",
+      "zh": "实例:30"
+    },
+    "Ví dụ: 4": {
+      "en": "Examples: 4",
+      "zh": "实例:4"
+    },
+    "Ví dụ: 40": {
+      "en": "Examples: 40",
+      "zh": "实例:40"
+    },
+    "Ví dụ: 60": {
+      "en": "Examples: 60",
+      "zh": "实例:60"
+    },
+    "Ví dụ: 8": {
+      "en": "Examples: 8",
+      "zh": "实例:8"
+    },
+    "Ví dụ: tầng 3 hoặc B1": {
+      "en": "Examples: Level 3 or B1",
+      "zh": "例如:三级或B1级"
+    },
+    "Ví dụ: tầng 5 hoặc B2": {
+      "en": "Examples: Level 5 or B2",
+      "zh": "例如:5级或B2级"
     },
     "VẬN CHUYỂN HÀNG BẮC NAM": {
       "en": "THE FINAL BEST",
@@ -1023,6 +1619,18 @@
       "en": "About Us",
       "zh": "关于我们"
     },
+    "Vị trí bốc xếp đầu giao": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Vị trí bốc xếp đầu lấy": {
+      "en": "Headup position take",
+      "zh": "头部位置"
+    },
+    "Vị trí khác": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
     "Với mong muốn phủ sóng đầy đủ các tuyến vận tải trên cả nước nên Lưu Lê đã cung cấp dịch vụ gửi hàng từ Sài Gòn đi Lâm Đồng. Tìm hiểu bài viết sau đây để hiểu rõ hơn về giá cá, phương tiện và giá trị mà Lưu Lê mang đến khách hàng.Giới thiệu sơ lược về mảnh...": {
       "en": "Desiring to cover the entire country's freight routes, Liu La has provided the delivery services from Saigon to Lamin. Find out the following article for a better understanding of the price of fish, means, and values that Liu Li brings to the customer.",
       "zh": "为了覆盖全国的货运路线,刘拉提供了从西贡到拉明的货运服务. 找出以下文章,以更好地理解刘力给顾客带来的鱼价,手段和价值."
@@ -1063,13 +1671,33 @@
       "en": "Cars can pick up supplies at warehouses, factories, shops, or guests' locations at TP.HCM and continue to deliver to the requested address in the West Plain.",
       "zh": "汽车可以在TP.HCM的仓库,工厂,商店或宾客所在地取货,并继续运送到西平原上要求的地址."
     },
+    "Xe côn tay": {
+      "en": "Handwheel",
+      "zh": "手轮"
+    },
+    "Xe ga": {
+      "en": "Train",
+      "zh": "火车"
+    },
     "Xe máy": {
       "en": "Motorcycles",
       "zh": "摩托车"
     },
+    "Xe máy điện": {
+      "en": "Electrical Car",
+      "zh": "电动车"
+    },
     "Xe nguyên chuyến phù hợp với:": {
       "en": "The whole car fits with:",
       "zh": "全车符合:"
+    },
+    "Xe phân khối lớn": {
+      "en": "Large block car",
+      "zh": "大块车"
+    },
+    "Xe số": {
+      "en": "Digital Car",
+      "zh": "数字车"
     },
     "Xe thực hiện giao hàng tại điểm đã thống nhất và hoàn tất quá trình giao nhận.": {
       "en": "Cars perform delivery at the unification point and complete delivery process.",
@@ -1095,6 +1723,10 @@
       "en": "deposits from TP.HCM to West Yuan",
       "zh": "从TP.HCM到西元的存款"
     },
+    "chiếc": {
+      "en": "car",
+      "zh": "汽车"
+    },
     "cho khách hàng kinh doanh nhỏ, đại lý hoặc doanh nghiệp có lượng hàng không cố định.": {
       "en": "For small business customers, agent or business with fixed air traffic.",
       "zh": "适用于小企业客户,代理人或有固定空中交通业务."
@@ -1102,6 +1734,10 @@
     "chính xác, khách hàng nên gửi đầy đủ quy cách hàng hóa và hai địa chỉ giao nhận.": {
       "en": "Exactly, the customer should send the full regulations on how the goods and two receiving addresses.",
       "zh": "确切地说,客户应发出关于货物和两个收货地址的全面规定。"
+    },
+    "cm": {
+      "en": "cm",
+      "zh": "厘米"
     },
     "của Vận Tải Lưu Lê phù hợp với nhiều nhóm hàng thông thường.": {
       "en": "of Liu Lui's Loads is consistent with many conventional divisions.",
@@ -1127,13 +1763,37 @@
       "en": "Delivered from TP.HCM to the West Plain by land.",
       "zh": "由TP.HCM陆路运至西平原."
     },
+    "kg": {
+      "en": "kg",
+      "zh": "千克( K)"
+    },
+    "kiện": {
+      "en": "lawsuit",
+      "zh": "诉讼"
+    },
+    "m³": {
+      "en": "m3",
+      "zh": "立方米"
+    },
+    "ngày": {
+      "en": "Chile",
+      "zh": "地址"
+    },
     "ngày càng tăng cùng sự phát triển của hoạt động thương mại, sản xuất, xây dựng và phân phối hàng hóa giữa TP.HCM với các khu vực Gia Lai, Đắk Lắk, Lâm Đồng, Đắk Nông và Kon Tum. Khoảng cách tương đối xa, địa hình nhiều khu vực đồi dốc và điểm giao hàng phân tán khiến việc lựa chọn đơn vị vận chuyển có kinh nghiệm tuyến Tây Nguyên trở thành yếu tố quan trọng.": {
       "en": "The growing growth of commercial activity, production, construction and distribution of goods between TP.HCM and the Gialai Regions, the Dárk Lörk, Linsong, the Dák Farm and Kon Tum. The relative distance, the terrain of many steeper areas and the intersection point of the delivery made the choice of the Western Line Experience unit important.",
       "zh": "TP.HCM和Gialai地区、Dárk Lörk、Linsong、Dák农场和Kon Tum之间的商业活动、生产、建筑和货物分销的增长。 相对距离,许多陡峭地区的地形和交汇点使得西线体验单元的选择非常重要."
     },
+    "pallet": {
+      "en": "pallet",
+      "zh": "托盘"
+    },
     "phụ thuộc vào đặc điểm từng đơn.": {
       "en": "Well, depending on the specifics.",
       "zh": "嗯,取决于细节。"
+    },
+    "tank": {
+      "en": "tank",
+      "zh": "罐头"
     },
     "vantailuule.vn": {
       "en": "vantailule.vn",
@@ -1142,6 +1802,22 @@
     "vận chuyển hàng từ TP.HCM đi Tây Nguyên": {
       "en": "Transportation from TP.HCM to West Plain",
       "zh": "从TP.HCM到西平原的运输"
+    },
+    "xe": {
+      "en": "car",
+      "zh": "汽车"
+    },
+    "Áp dụng khi xe đã tới nơi và thông báo khách nhận nhưng khách chưa nhận được, hoặc khi đi giao mà khách không có mặt.": {
+      "en": "Apply when the car has arrived and informs the guests but the guests do not receive it, or when the delivery is not present.",
+      "zh": "乘车到达后通知客人,但客人不接受,或送货不在场。"
+    },
+    "Đang tải dữ liệu…": {
+      "en": "Downloading data...",
+      "zh": "正在下载数据..."
+    },
+    "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
     },
     "Điều khoản công ty": {
       "en": "Company Terms",
@@ -1155,6 +1831,10 @@
       "en": "Close",
       "zh": "关闭"
     },
+    "Đóng gói đồ gia đình": {
+      "en": "Pack your bags",
+      "zh": "收拾东西"
+    },
     "Đơn hàng cần chủ động lịch xuất phát.": {
       "en": "The order needs to take the initiative to leave.",
       "zh": "命令需要主动离开。"
@@ -1162,6 +1842,10 @@
     "Đơn mới": {
       "en": "New Single",
       "zh": "新单人"
+    },
+    "Đường sắt + đường bộ": {
+      "en": "Railroad + Route",
+      "zh": "铁路+路线"
     },
     "Đắk Lắk là khu vực giao thương lớn với TP.HCM, đặc biệt tại Buôn Ma Thuột và những vùng sản xuất nông nghiệp.": {
       "en": "LEWK is a large trading area with TP.HCM, especially at the Métak and agricultural production areas.",
@@ -1174,6 +1858,18 @@
     "Đặc biệt với các điểm giao không nằm ngay trung tâm, khả năng linh hoạt của xe tải giúp giảm các khâu trung chuyển không cần thiết.": {
       "en": "Especially with the intersections not located in the centre, the flexible capacity of the truck helps reduce unnecessary medium-transmission stitches.",
       "zh": "特别是在不位于中心的十字路口,卡车的灵活能力有助于减少不必要的中传缝."
+    },
+    "ĐỊA CHỈ GỬI": {
+      "en": "PICKUP ADDRESS",
+      "zh": "取货地址"
+    },
+    "ĐỊA CHỈ NHẬN": {
+      "en": "DELIVERY ADDRESS",
+      "zh": "收货地址"
+    },
+    "Địa chỉ chi tiết": {
+      "en": "Street Address",
+      "zh": "详细地址"
     },
     "Địa chỉ giao hàng.": {
       "en": "The delivery address.",
@@ -1203,6 +1899,10 @@
       "en": "Household Goods",
       "zh": "家居物品"
     },
+    "Đổi chiều vận chuyển": {
+      "en": "Change Transportation",
+      "zh": "改变运输"
+    },
     "đường bộ": {
       "en": "footpath",
       "zh": "路径"
@@ -1218,6 +1918,10 @@
     "đến các khu vực chính như:": {
       "en": "To major areas such as:",
       "zh": "主要领域,例如:"
+    },
+    "Ước tính chi phí vận chuyển đường sắt kết hợp đường bộ.": {
+      "en": "The cost of rail transport combined the road.",
+      "zh": "铁路运输成本相加."
     },
     "► Báo trước đối với hàng đặc biệt": {
       "en": "EDRA for Specials",

@@ -3,6 +3,18 @@
   "missing_count": 0,
   "route": "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi",
   "texts": {
+    "(Đã bao gồm VAT 8%)": {
+      "en": "(including VAT 8)",
+      "zh": "(包括增值税8)"
+    },
+    "* 4 – 5 ngày": {
+      "en": "* 4 – 5 days",
+      "zh": "* 4 -- -- 5天"
+    },
+    "+ THÊM LOẠI HÀNG": {
+      "en": "+ MINUTE",
+      "zh": "+分钟"
+    },
     ", trong khi những căn nhà lớn cần khảo sát thực tế trước khi báo giá.": {
       "en": "While large houses need real-time surveys before the price notice.",
       "zh": "虽然大型房屋在价格通知前需要实时调查."
@@ -26,6 +38,10 @@
     ". Nếu khách hàng sử dụng dịch vụ chuyển nhà trọn gói tận nơi, báo giá cuối cùng sẽ tính thêm các hạng mục cần thiết như đóng gói, bốc xếp, tháo lắp và trung chuyển nếu có.": {
       "en": "Yeah. If the customer uses full-packing services as a place, the price will eventually calculate additional items such as packing, folding, installation, and medium if available.",
       "zh": "对 如果客户使用全包装服务作为场所,价格最终会计算出更多的项目,如包装,折叠,安装,如果有介质的话."
+    },
+    "0đ": {
+      "en": "0D",
+      "zh": "零点"
     },
     "1,5 – 2 tấn": {
       "en": "1.5 – 2 tons",
@@ -190,6 +206,10 @@
     "500.000 – 700.000đ": {
       "en": "500,000 – 700,000.",
       "zh": "50万 — 70万个."
+    },
+    "500.000đ/m³": {
+      "en": "500,000 x/m3",
+      "zh": "500 000克/立方米"
     },
     "5m³ × 390.000đ =": {
       "en": "5 m3°390.000 =",
@@ -399,9 +419,25 @@
       "en": "Package Table of Materials",
       "zh": "成套材料表"
     },
+    "Bảng vùng cước đã sẵn sàng. Kết quả xuất hiện ngay khi bấm tính cước.": {
+      "en": "Placeboard is ready. The results came out as soon as you hit the card.",
+      "zh": "板子准备好了 你一打出牌,结果就出来了"
+    },
+    "Bắt buộc xác nhận phương án bọc bảo vệ xe": {
+      "en": "Forced to confirm plan to secure the vehicle",
+      "zh": "被迫确认保护车辆的计划"
+    },
     "Bắt đầu tư vấn": {
       "en": "Start consulting",
       "zh": "开始咨询"
+    },
+    "Bọc bảo vệ xe": {
+      "en": "Car Guard",
+      "zh": "车警"
+    },
+    "Bọc bảo vệ xe gửi kèm": {
+      "en": "car security attached",
+      "zh": "汽车安全"
     },
     "Bốc dỡ – lắp đặt – bàn giao": {
       "en": "Crash – Install – Handover",
@@ -418,6 +454,14 @@
     "Bốc xếp số lượng lớn": {
       "en": "Large numbers stack",
       "zh": "大数堆栈"
+    },
+    "Bốc xếp đầu giao": {
+      "en": "Bulk head off.",
+      "zh": "散头去."
+    },
+    "Bốc xếp đầu lấy": {
+      "en": "Get your head up",
+      "zh": "抬起头来"
     },
     "Bổ sung gas": {
       "en": "Gas Plugin",
@@ -463,9 +507,29 @@
       "en": "The cost of moving the house usually depends on the following factors:",
       "zh": "搬迁房屋的费用通常取决于以下因素:"
     },
+    "Chi phí chờ hàng: thỏa thuận theo thời gian và điều kiện thực tế.": {
+      "en": "Supplies costs: deal over time and actual conditions.",
+      "zh": "用品费用:随时间和实际条件处理。"
+    },
     "Chi phí thường gồm:": {
       "en": "Common costs include:",
       "zh": "共同费用包括:"
+    },
+    "Chi tiết dự tính": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Chiều cao/kiện": {
+      "en": "Height per Package",
+      "zh": "每件高度"
+    },
+    "Chiều dài/kiện": {
+      "en": "Length per Package",
+      "zh": "每件长度"
+    },
+    "Chiều rộng/kiện": {
+      "en": "Width per Package",
+      "zh": "每件宽度"
     },
     "Chuyển bằng xe tải đường bộ": {
       "en": "Move in a road truck",
@@ -631,9 +695,65 @@
       "en": "Not yet.",
       "zh": "还没有"
     },
+    "Chọn Ga Gửi": {
+      "en": "Select Origin Rail Station",
+      "zh": "请选择始发站"
+    },
+    "Chọn Ga Nhận": {
+      "en": "Select Destination Rail Station",
+      "zh": "请选择到达站"
+    },
+    "Chọn Hãng và dòng xe để hệ thống tự phân loại": {
+      "en": "Select the Constance and Line of the car to classification system",
+      "zh": "选择车厢的 Constance 和线路到分类系统"
+    },
+    "Chọn Phường/Xã": {
+      "en": "Select Ward/Commune",
+      "zh": "请选择坊／社"
+    },
+    "Chọn Phường/Xã mới": {
+      "en": "New",
+      "zh": "新设"
+    },
+    "Chọn Quận/Huyện": {
+      "en": "Select District",
+      "zh": "请选择区／县"
+    },
+    "Chọn Tỉnh/Thành phố mới": {
+      "en": "Select Province/ New City",
+      "zh": "选择省/ 新城"
+    },
+    "Chọn hãng và dòng xe": {
+      "en": "Select a company and line of vehicles",
+      "zh": "选择公司和车辆线路"
+    },
+    "Chọn loại hàng": {
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
+    },
+    "Chọn loại xe": {
+      "en": "Select a car type",
+      "zh": "选择车型"
+    },
+    "Chọn phương thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
+    "Chọn tình trạng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Chọn vị trí bốc xếp": {
+      "en": "Select the ranking position",
+      "zh": "选择排名位置"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
+    },
+    "CÔNG CỤ TRỰC TUYẾN": {
+      "en": "ONLINE TOOLS",
+      "zh": "在线工具"
     },
     "Các hạng mục cần tháo lắp": {
       "en": "Sections to unmount",
@@ -642,6 +762,14 @@
     "Các khoản này sẽ được kiểm tra và báo giá trước khi thực hiện.": {
       "en": "These amounts will be examined and told the price before the execution.",
       "zh": "这些金额将在执行前审查并告知价格。"
+    },
+    "Các kiện hàng cùng một loại": {
+      "en": "Packages of the same type",
+      "zh": "同类软件包"
+    },
+    "Các kiện hàng gồm nhiều loại": {
+      "en": "Packages of various types",
+      "zh": "各类包件"
     },
     "Các vật tư thường sử dụng khi chuyển nhà gồm:": {
       "en": "Materials commonly used when moving houses include:",
@@ -659,6 +787,10 @@
       "en": "n",
       "zh": "无"
     },
+    "Có bọc": {
+      "en": "Covered",
+      "zh": "覆盖"
+    },
     "Có cần khảo sát tận nhà không?": {
       "en": "Do you need a home survey?",
       "zh": "你需要家庭调查吗?"
@@ -667,6 +799,10 @@
       "en": "Did you pick up the motorcycle with the family stuff?",
       "zh": "你有没有拿起摩托车 与家庭的东西?"
     },
+    "Có thang máy": {
+      "en": "There's an elevator.",
+      "zh": "有电梯"
+    },
     "Có thang máy hay không": {
       "en": "Is there an elevator or not?",
       "zh": "有没有电梯?"
@@ -674,6 +810,10 @@
     "Có thể chuyển vài thùng đồ Sài Gòn – Hà Nội không?": {
       "en": "Can you move a few cases of Saigon – Hanoi?",
       "zh": "你能把西贡的几件案子移一下吗 河内?"
+    },
+    "Có thể nhập bằng dấu phẩy, dấu chấm phẩy hoặc xuống dòng.": {
+      "en": "Enterable with commas, semicolons, or downstreams.",
+      "zh": "有逗号、分号或下游可以输入。"
     },
     "Có thể vận chuyển nhiều loại đồ gia đình như:": {
       "en": "You can transport a lot of family items like:",
@@ -707,6 +847,14 @@
       "en": "The apartment, a lot of stuff.",
       "zh": "公寓,很多东西。"
     },
+    "CƯỚC DỰ KIẾN CỦA BẠN": {
+      "en": "YOUR ESTIMATED SHIPPING COST",
+      "zh": "您的预估运费"
+    },
+    "CƯỚC VẬN CHUYỂN DỰ KIẾN": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
     "Cước vận chuyển Bắc Nam + xe lấy tại TP.HCM + xe giao tại Hà Nội + bốc xếp + đóng gói/tháo lắp nếu có.": {
       "en": "The North Southern Transportation + Car Retrieved at TP.HCM + delivered car at Hanoi + facilitated + packed/mounted if available.",
       "zh": "北南交通+车辆检索在TP.HCM+河内交付的汽车+便利+包装/挂载(如果有的话)."
@@ -731,6 +879,10 @@
       "en": "DMCA.com Protection UTC",
       "zh": "DMCA.com 保护世界协调世界时"
     },
+    "Danh sách đồ gia đình": {
+      "en": "List of family items",
+      "zh": "家庭物品清单"
+    },
     "Dây điện": {
       "en": "Electric wire",
       "zh": "电线"
@@ -742,6 +894,10 @@
     "DỊCH VỤ CHÍNH": {
       "en": "MAIN SERVICES",
       "zh": "主要服务"
+    },
+    "Dịch vụ bổ sung": {
+      "en": "Plugin Services",
+      "zh": "插件服务"
     },
     "Dịch vụ có thể được tổ chức theo quy trình:": {
       "en": "The service may be organised according to procedure:",
@@ -767,6 +923,18 @@
       "en": "Archived Download Facebook",
       "zh": "已存档下载 Facebook"
     },
+    "GA GỬI": {
+      "en": "ORIGIN RAIL STATION",
+      "zh": "始发站"
+    },
+    "GA NHẬN": {
+      "en": "DESTINATION RAIL STATION",
+      "zh": "到达站"
+    },
+    "GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "SHIPPING RATES",
+      "zh": "运输费率"
+    },
     "GIẢI PHÁP": {
       "en": "Solutions",
       "zh": "解决方案"
@@ -783,6 +951,18 @@
       "en": "The Gods Waves . . .",
       "zh": "神风波."
     },
+    "Ga đến Ga": {
+      "en": "Station-to-Station",
+      "zh": "站到站"
+    },
+    "Ga đến Nhà": {
+      "en": "Station-to-Door",
+      "zh": "站到门"
+    },
+    "Ghi chú vị trí khác": {
+      "en": "Note Location Other",
+      "zh": "其他地点"
+    },
     "Ghép hàng": {
       "en": "Rows",
       "zh": "行数"
@@ -790,6 +970,10 @@
     "Ghép hàng bằng đường sắt giúp tận dụng không gian vận chuyển và chia sẻ chi phí tuyến dài.": {
       "en": "Training helps to make use of the transport space and share the cost of long routes.",
       "zh": "培训有助于利用运输空间并分担长途运输的费用。"
+    },
+    "Giao hàng ban đêm": {
+      "en": "Night Delivery",
+      "zh": "夜间配送"
     },
     "Giao đến nhà mới": {
       "en": "Send to the New Home",
@@ -835,9 +1019,17 @@
       "en": "Advice & Guides",
       "zh": "咨询与指南"
     },
+    "Gọi 0909 81 6625": {
+      "en": "Calling 0909 81 6625",
+      "zh": "呼叫0909 81 6625"
+    },
     "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
       "en": "Call Hotline Media 0909 81 6625",
       "zh": "拨打热线"
+    },
+    "GỬI KÈM XE MÁY": {
+      "en": "TRIGUIMENT",
+      "zh": "捐款"
     },
     "Gửi": {
       "en": "Send",
@@ -943,6 +1135,10 @@
       "en": "Hotline: 0909 81 6625",
       "zh": "热线:0909 81 6625"
     },
+    "Hoặc tính m³ theo kích thước kiện hàng: nhập số lượng và kích thước bên dưới, hệ thống sẽ tự tính tổng m³.": {
+      "en": "Or do the m3 in the package size: enter the number and size below, the system will calculate the total m3.",
+      "zh": "或做包大小的m3:输入下面的数字和大小,系统会计算出总的m3."
+    },
     "HÌNH ẢNH": {
       "en": "Photo Gallery",
       "zh": "图片库"
@@ -950,6 +1146,18 @@
     "Hàng hóa thông thường": {
       "en": "General Cargo",
       "zh": "普通货物"
+    },
+    "Hàng đóng pallet": {
+      "en": "Packer pallet",
+      "zh": "包装托盘"
+    },
+    "Hàng đóng tank": {
+      "en": "Supplies",
+      "zh": "用品"
+    },
+    "Hãng và dòng xe": {
+      "en": "The Company and the Car Line",
+      "zh": "公司和汽车线路"
     },
     "Hãy gửi": {
       "en": "Send",
@@ -983,9 +1191,25 @@
       "en": "The depth must move",
       "zh": "深度必须移动"
     },
+    "Hệ thống phân loại:": {
+      "en": "Category system:",
+      "zh": "类别系统:"
+    },
+    "Hệ thống tự áp dụng mức phí theo loại xe": {
+      "en": "The system applies its own cost to the type of car.",
+      "zh": "该系统将自身成本应用于车型."
+    },
+    "Hệ thống tự áp dụng mức phí theo từng loại xe": {
+      "en": "The system applies its own cost to each car.",
+      "zh": "该系统将自己的成本用于每辆车."
+    },
     "KHÁCH HÀNG": {
       "en": "BIRTHER",
       "zh": "比尔"
+    },
+    "KIỆN >= 200KG": {
+      "en": "GPL >=200G",
+      "zh": "GPL QQ200G 导弹"
     },
     "Kho TP.HCM → Ga Giáp Bát": {
       "en": "Archive TP.HCM (10) Jab Eight Station",
@@ -1035,9 +1259,21 @@
       "en": "Customers don't have to take their own things to the station.",
       "zh": "顾客不用带自己的东西去车站"
     },
+    "Không biết loại xe?": {
+      "en": "Don't know the car?",
+      "zh": "不认识那辆车?"
+    },
+    "Không bọc": {
+      "en": "No Cover",
+      "zh": "无封面"
+    },
     "Không có một mức giá cố định áp dụng cho mọi gia đình.": {
       "en": "There is no fixed price that applies to every family.",
       "zh": "没有固定的价格适用于每个家庭。"
+    },
+    "Không có thang máy": {
+      "en": "No elevator.",
+      "zh": "没有电梯。"
     },
     "Không phải trường hợp nào cũng cần.": {
       "en": "Not all situations are necessary.",
@@ -1047,9 +1283,21 @@
       "en": "Price Survey",
       "zh": "价格调查"
     },
+    "Khối lượng tổng": {
+      "en": "Total Weight",
+      "zh": "总重量"
+    },
     "Khối lượng đồ": {
       "en": "Volume",
       "zh": "音量"
+    },
+    "Khối lượng/kiện": {
+      "en": "Weight per Package",
+      "zh": "每件重量"
+    },
+    "Kiện nặng": {
+      "en": "Heavy case",
+      "zh": "重型案件"
     },
     "Két sắt": {
       "en": "Ironbolt",
@@ -1063,6 +1311,10 @@
       "en": "Connect with Luu Le Transport through our official channels.",
       "zh": "通过官方渠道联系 Luu Le 运输公司。"
     },
+    "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
+      "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+      "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
+    },
     "LIÊN HỆ": {
       "en": "GREEW",
       "zh": "希腊"
@@ -1070,6 +1322,46 @@
     "LIÊN KẾT": {
       "en": "CONNECT WITH US",
       "zh": "联系我们"
+    },
+    "LOẠI 1": {
+      "en": "JSTOR 1",
+      "zh": "JSTOR 1号卫星"
+    },
+    "LOẠI 10": {
+      "en": "JSTOR 10",
+      "zh": "JSTOR 10号卫星"
+    },
+    "LOẠI 2": {
+      "en": "JSTOR 2",
+      "zh": "第2号"
+    },
+    "LOẠI 3": {
+      "en": "JSTOR 3",
+      "zh": "JSTOR 3号"
+    },
+    "LOẠI 4": {
+      "en": "JSTOR 4",
+      "zh": "第4号"
+    },
+    "LOẠI 5": {
+      "en": "JSTOR 5",
+      "zh": "约瑟5号"
+    },
+    "LOẠI 6": {
+      "en": "JSTOR 6",
+      "zh": "JSTOR 6号"
+    },
+    "LOẠI 7": {
+      "en": "JSTOR 7",
+      "zh": "JSTOR 7号"
+    },
+    "LOẠI 8": {
+      "en": "JSTOR 8",
+      "zh": "JSTOR 8号"
+    },
+    "LOẠI 9": {
+      "en": "JSTOR 9",
+      "zh": "第9号"
     },
     "Liên hệ Vận Tải Lưu Lê": {
       "en": "Media Media Contact",
@@ -1091,9 +1383,21 @@
       "en": "Car Type",
       "zh": "车型"
     },
+    "Loại xe là thông tin bắt buộc. Nếu không xác định được, hãy chọn Hãng và dòng xe để hệ thống tự phân loại.": {
+      "en": "The type of car is mandatory information. If it is not determined, select the Company and the line for the self-classification system.",
+      "zh": "车型为强制信息. 如果未确定,则选择公司和自分类系统线。"
+    },
     "Loại xe tải": {
       "en": "The Kind of Truck",
       "zh": "卡车"
+    },
+    "Lưu kho": {
+      "en": "Storage",
+      "zh": "仓储"
+    },
+    "Lưu ý:": {
+      "en": "Note:",
+      "zh": "说明:"
     },
     "Lấy và giao tận nhà hai đầu": {
       "en": "Take and deliver the two ends",
@@ -1122,6 +1426,14 @@
     "Máy móc, thiết bị": {
       "en": "Machinery & Equipment",
       "zh": "机械设备"
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu giao": {
+      "en": "Short description of the intersection position",
+      "zh": "交叉位置简介."
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu lấy": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
     },
     "Mạng xã hội Vận Tải Lưu Lê": {
       "en": "Archived Social Network",
@@ -1203,6 +1515,14 @@
       "en": "Streethouse",
       "zh": "街道住房"
     },
+    "Nhà đến Ga": {
+      "en": "Door-to-Station",
+      "zh": "门到站"
+    },
+    "Nhà đến Nhà": {
+      "en": "Door-to-Door",
+      "zh": "门到门"
+    },
     "Nhân công bốc xếp": {
       "en": "The workers are hot",
       "zh": "工人们很热"
@@ -1215,9 +1535,21 @@
       "en": "Workers arranged, packed and installed",
       "zh": "安排、包装和安装工人"
     },
+    "Nhận báo giá chính xác": {
+      "en": "Receive the correct price",
+      "zh": "接收正确的价格"
+    },
     "Nhập nội dung cần tìm...": {
       "en": "Import Contents to Find...",
       "zh": "导入要查找的内容..."
+    },
+    "Nhập tên hàng và số lượng tổng để hệ thống tự cập nhật kg và m³ theo bộ nhận diện hiện có.": {
+      "en": "Enter the row name and total number for the self-update system and m3 in the current identification system.",
+      "zh": "输入自更新系统的行名和总数,以及当前识别系统中的m3。"
+    },
+    "Nhập tên máy/thiết bị và số lượng tổng; kg và m³ sẽ tự cập nhật theo bộ nhận diện, có thể sửa bằng số liệu thực tế.": {
+      "en": "Enter the host name/set and total number; kilograms and m3 will self-update by identification, which can be modified by actual figures.",
+      "zh": "输入主机名称/设置和总数;kug和m3会通过识别自我更新,可以通过实际数字修改."
     },
     "Những lưu ý chung": {
       "en": "General Information",
@@ -1230,6 +1562,10 @@
     "Nếu khách hàng đã tự đóng gói và có người bốc xếp, có thể lựa chọn": {
       "en": "If the customer has packed himself and there is a facilitator, there is a choice.",
       "zh": "如果顾客已经收拾好行李,并且有调解人,就有一个选择。"
+    },
+    "Nếu không nắm rõ tên mặt hàng, khối lượng tổng, thể tích tổng? Hoặc hàng gồm nhiều loại khác nhau? Vui lòng nhập các thông tin chi tiết vào mục bên dưới, hệ thống sẽ tự động tính ra cho bạn!": {
+      "en": "If you don't know the name of the package, the total mass, the total volume? Or are the lines varied? Please enter detailed information into the item below, the system will automatically calculate it for you!",
+      "zh": "如果你不知道包裹的名称,总质量,总体积? 还是台词不同? 请在下面的项目中输入详细资料,系统会自动为您计算!"
     },
     "Nếu một gia đình chỉ có vài mét khối đến vài chục mét khối đồ thì thuê nguyên một xe tải chạy xuyên Bắc Nam có thể không phải phương án kinh tế nhất.": {
       "en": "If a family had only a few cubic metres of mass to a few tens of cubic feet of furniture, it would not be the most economic option for a truck to run through the South.",
@@ -1251,9 +1587,29 @@
       "en": "Internal Portal",
       "zh": "内部管理"
     },
+    "Pallet": {
+      "en": "Pallet",
+      "zh": "圆盘"
+    },
+    "Pallet, tank và kiện hàng trên 200kg bắt buộc sử dụng xe nâng tại 2 đầu ga tàu và có phát sinh phí xe nâng. Tại 2 đầu kho, khách hàng hỗ trợ đưa hàng lên và xuống xe.": {
+      "en": "Pallet, tank and package over 200 kilograms forced to use the lift car at 2 end of the train station and there was a lift fee. At two end of the warehouse, the client assists to load up and down.",
+      "zh": "托盘,坦克和包裹超过200公斤被迫在火车站两端使用升降车,并收取升降费. 在仓库两端,客户协助上下加载."
+    },
+    "Phân loại": {
+      "en": "Category",
+      "zh": "类别"
+    },
+    "Phân loại hàng tự động": {
+      "en": "Automatic Cargo Classification",
+      "zh": "自动识别货物类别"
+    },
     "Phân loại – đóng gói": {
       "en": "Category – Packing",
       "zh": "类别 - 包装"
+    },
+    "Phí lưu kho 200.000đ/ngày": {
+      "en": "US$200/day archive",
+      "zh": "每日200美元档案费"
     },
     "Phòng trọ / nhà nhỏ": {
       "en": "Hotel/ Small House",
@@ -1271,9 +1627,33 @@
       "en": "A little closet:",
       "zh": "一个小衣柜:"
     },
+    "Phương thức": {
+      "en": "Mode",
+      "zh": "模式"
+    },
+    "Phương thức giao nhận": {
+      "en": "Protocol",
+      "zh": "议定书"
+    },
+    "Phường/Xã": {
+      "en": "Ward/Commune",
+      "zh": "坊／社"
+    },
+    "Phụ phí 900.000đ/lần": {
+      "en": "$900,000 apiece",
+      "zh": "每人90万美元"
+    },
     "Piano": {
       "en": "Piano",
       "zh": "钢琴"
+    },
+    "QUY CÁCH ĐÓNG HÀNG": {
+      "en": "REVIECTION",
+      "zh": "修订"
+    },
+    "Quy ước 1 m³ = 350 kg: trên 350 kg/m³ tính hàng nặng; từ 350 kg/m³ trở xuống tính hàng nhẹ.": {
+      "en": "Rule 1 m3 = 350 kg: over 350 kg/m3 weights; from 350 kg/m3 to down the light row.",
+      "zh": "规则1m3=350公斤:超过350公斤/立方米体重;从350公斤/立方米到下行轻排."
     },
     "Quãng đường:": {
       "en": "Road:",
@@ -1282,6 +1662,10 @@
     "Quần áo": {
       "en": "Clothes",
       "zh": "服装"
+    },
+    "Quận/Huyện": {
+      "en": "District",
+      "zh": "区／县"
     },
     "Riêng những trường hợp sau nên khảo sát hoặc cung cấp hình ảnh chi tiết:": {
       "en": "The following cases alone should survey or provide detailed images:",
@@ -1311,9 +1695,45 @@
       "en": "Books",
       "zh": "书籍"
     },
+    "Sảnh / tầng trệt": {
+      "en": "Bottom/floor",
+      "zh": "底楼/底楼"
+    },
+    "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
+      "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
+      "zh": "MLIZER:轻度50000 mph/m3;重度bleh/dm. 法规增加的带有电梯的地板/地点"
+    },
+    "Số kiện tổng": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
+    "Số liệu thực tế khách nhập luôn được ưu tiên hơn số liệu ước tính.": {
+      "en": "In fact the entry is always preferred over the estimates.",
+      "zh": "事实上,该条目总是比估计数更可取。"
+    },
+    "Số lượng": {
+      "en": "Count",
+      "zh": "计数"
+    },
+    "Số lượng tổng": {
+      "en": "Total Number",
+      "zh": "总数"
+    },
+    "Số lượng xe": {
+      "en": "Number of cars",
+      "zh": "汽车数量"
+    },
     "Số lượng đồ": {
       "en": "Number of items",
       "zh": "项目数"
+    },
+    "Số ngày lưu kho": {
+      "en": "Number of Archived Days",
+      "zh": "归档天数"
+    },
+    "Số ngày lưu kho xe máy": {
+      "en": "Number of days of motorcycle Archives",
+      "zh": "摩托车档案馆的天数"
     },
     "Số nhân công": {
       "en": "Number of workers",
@@ -1323,6 +1743,18 @@
       "en": "Levels",
       "zh": "职等"
     },
+    "Sử dụng địa danh mới sau sáp nhập": {
+      "en": "Use updated administrative place names",
+      "zh": "使用行政区划调整后的新地名"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ gửi": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ nhận": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
+    },
     "THÔNG BÁO": {
       "en": "Announcements",
       "zh": "公告"
@@ -1330,6 +1762,10 @@
     "THÔNG TIN": {
       "en": "INFORMATION",
       "zh": "公司信息"
+    },
+    "TRA CỨU": {
+      "en": "CHECK",
+      "zh": "查询"
     },
     "TRA CỨU GIÁ CƯỚC": {
       "en": "CENTRAL",
@@ -1346,6 +1782,14 @@
     "TUYỂN DỤNG": {
       "en": "Careers",
       "zh": "招聘"
+    },
+    "Tank": {
+      "en": "Tank",
+      "zh": "坦克"
+    },
+    "Thang máy": {
+      "en": "Elevator",
+      "zh": "电梯"
     },
     "Theo bảng giá tuyến Sài Gòn – Hà Nội đang công khai trên website Vận Tải Lưu Lê, hàng nhẹ dưới ngưỡng 350kg/m³ có mức cước tàu tham khảo": {
       "en": "According to the Saigon Line Price – Hanoi is publicly on the Archived Transport website, light row under the 350 kg/m3 threshold has a level of train reference",
@@ -1411,9 +1855,17 @@
       "en": "Unmount the closet",
       "zh": "卸下衣橱"
     },
+    "Thôn/Xóm/Ấp, đường và số nhà": {
+      "en": "Hamlet, street and house number",
+      "zh": "村／组、街道及门牌号"
+    },
     "Thông tin càng đầy đủ thì báo giá càng sát với chi phí thực tế.": {
       "en": "The more complete the information, the closer the price is to the actual cost.",
       "zh": "信息越完整,价格就越接近实际成本."
+    },
+    "Thông tin hàng hóa": {
+      "en": "Row Information",
+      "zh": "行信息"
     },
     "Thùng carton": {
       "en": "Cabton Bin",
@@ -1423,6 +1875,10 @@
       "en": "The carton specialised on the current market has a range of reference",
       "zh": "目前市场上的专卖箱有一系列参考文献"
     },
+    "Thể tích tổng": {
+      "en": "Total Volume",
+      "zh": "总体积"
+    },
     "Thỏa thuận theo khối lượng": {
       "en": "Deal by mass",
       "zh": "按质量处理"
@@ -1430,6 +1886,10 @@
     "Thỏa thuận trước": {
       "en": "Previous Deal",
       "zh": "上一个交易"
+    },
+    "Thời gian": {
+      "en": "Time",
+      "zh": "时间"
     },
     "Thời gian chờ phát sinh": {
       "en": "Time for the outbreak",
@@ -1463,6 +1923,10 @@
       "en": "On 10 m3",
       "zh": "10立方米时"
     },
+    "Trên tầng/lầu": {
+      "en": "Upstairs.",
+      "zh": "楼上"
+    },
     "Trường hợp 2: Chuyển khoảng 5m³ đồ": {
       "en": "Scene 2: Move around 5 m3",
       "zh": "第2场:移动5立方米左右"
@@ -1479,6 +1943,14 @@
       "en": "AI Media Assistant",
       "zh": "AI 媒体助理"
     },
+    "Tuyến vận chuyển": {
+      "en": "Shipping Route",
+      "zh": "运输路线"
+    },
+    "Tuyến đường sắt": {
+      "en": "Railway",
+      "zh": "铁路"
+    },
     "Twitter Vận Tải Lưu Lê": {
       "en": "Twitter Media",
       "zh": "推特媒体"
@@ -1487,6 +1959,18 @@
       "en": "Account",
       "zh": "账户"
     },
+    "Tách rõ cước và phụ phí": {
+      "en": "Itemized Shipping Charges and Surcharges",
+      "zh": "运费与附加费分项列明"
+    },
+    "Tên hàng": {
+      "en": "Cargo Description",
+      "zh": "货物名称"
+    },
+    "Tên máy/thiết bị": {
+      "en": "Hostname/ Device",
+      "zh": "主机名/ 设备"
+    },
     "Tìm": {
       "en": "Find",
       "zh": "查找"
@@ -1494,6 +1978,14 @@
     "Tìm kiếm": {
       "en": "Search",
       "zh": "搜索"
+    },
+    "Tích chọn nếu lô đồ gia đình có xe máy đi cùng": {
+      "en": "Select if a family shipment has a motorcycle with it",
+      "zh": "选择家用货有没有摩托车"
+    },
+    "Tính cước ngay": {
+      "en": "Calculate Shipping Cost",
+      "zh": "立即计算运费"
     },
     "Tư vấn - Tính cước - Ghi nhận đơn 24/7": {
       "en": "Advisor - IQ - Take the Single 24/7",
@@ -1507,9 +1999,37 @@
       "en": "Similarly, three-story streets have many cabinets, beds that need construction will require more workers and more time than level 4 houses with the same amount of furniture.",
       "zh": "同样,三层楼的街道也有许多柜子,需要建造的床需要更多的工人和时间,比4级房屋需要同样数量的家具."
     },
+    "Tạm tính trước VAT": {
+      "en": "Publishing VAT",
+      "zh": "公布增值税"
+    },
+    "Tầng hầm": {
+      "en": "The basement.",
+      "zh": "地下室 地下室"
+    },
     "Tầng lấy và tầng giao": {
       "en": "The floor and the floor.",
       "zh": "地与地."
+    },
+    "Tầng/lầu hoặc hầm": {
+      "en": "Level/Land or vault",
+      "zh": "级别/地盘或金库"
+    },
+    "Tỉnh/Thành phố": {
+      "en": "Province/City",
+      "zh": "省／直辖市"
+    },
+    "Tổng số kiện": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
+    "Tổng số kiện hàng": {
+      "en": "Total Packages",
+      "zh": "软件包共计"
+    },
+    "Tổng số kiện máy": {
+      "en": "Total machine lawsuit",
+      "zh": "机器诉讼共计"
     },
     "Tủ": {
       "en": "Cover",
@@ -1547,6 +2067,18 @@
       "en": "From the next km, the score is calculated by the car load and the actual distance.",
       "zh": "从下一公里开始,分数由车载量和实际距离计算."
     },
+    "TỰ NHẬN DIỆN & TÍNH M³": {
+      "en": "IDENTIFY CARGO & CALCULATE VOLUME",
+      "zh": "自动识别货物并计算体积"
+    },
+    "VAT 8%": {
+      "en": "VAT 8",
+      "zh": "增值税8"
+    },
+    "VAT 8% là mặc định": {
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
+    },
     "VIDEOS": {
       "en": "LIS",
       "zh": "利比里亚"
@@ -1554,6 +2086,14 @@
     "Việc xác định trước các hạng mục này giúp khách hàng biết rõ tổng chi phí và hạn chế phát sinh trong ngày chuyển nhà.": {
       "en": "Pretermination of these categories helps the customer to know the total cost and restrictions that arise during the move date.",
       "zh": "这些类别的终止有助于客户了解移动日期期间产生的总成本和限制。"
+    },
+    "Vui lòng chọn một phương án": {
+      "en": "Please choose a solution",
+      "zh": "请选择一个解决方案"
+    },
+    "Vui lòng nhập tên và số lượng các đồ dùng cần vận chuyển. Ví dụ: 1 tủ lạnh, 1 tivi, 2 ghế, 5 thùng đồ… Hệ thống sẽ hỗ trợ ước tính tổng thể tích để tính cước.": {
+      "en": "Please enter the name and number of items to transport. For example: 1 refrigerator, 1 TV, 2 seats, 5 barrels...the system will support an overall estimate of the volume to calculate the ID.",
+      "zh": "请输入要运输的物品名称和编号 。 例如: 1个冰箱, 1个电视, 2个座位, 5个桶... 系统将支持对容量的总体估计 来计算ID。"
     },
     "Vì sao nên chuyển đồ gia đình Sài Gòn – Hà Nội bằng đường sắt?": {
       "en": "Why move Saigon's family – Hanoi by railway?",
@@ -1574,6 +2114,58 @@
     "Ví dụ:": {
       "en": "Examples:",
       "zh": "实例:"
+    },
+    "Ví dụ: 10": {
+      "en": "Examples: 10",
+      "zh": "实例:10"
+    },
+    "Ví dụ: 1200": {
+      "en": "Examples: 1200",
+      "zh": "实例:1200"
+    },
+    "Ví dụ: 20": {
+      "en": "Examples: 20",
+      "zh": "实例:20"
+    },
+    "Ví dụ: 2000": {
+      "en": "Examples: 2000",
+      "zh": "实例:2000年"
+    },
+    "Ví dụ: 25": {
+      "en": "Examples: 25",
+      "zh": "实例:25"
+    },
+    "Ví dụ: 3.5": {
+      "en": "Examples: 3.5",
+      "zh": "实例:3.5"
+    },
+    "Ví dụ: 30": {
+      "en": "Examples: 30",
+      "zh": "实例:30"
+    },
+    "Ví dụ: 4": {
+      "en": "Examples: 4",
+      "zh": "实例:4"
+    },
+    "Ví dụ: 40": {
+      "en": "Examples: 40",
+      "zh": "实例:40"
+    },
+    "Ví dụ: 60": {
+      "en": "Examples: 60",
+      "zh": "实例:60"
+    },
+    "Ví dụ: 8": {
+      "en": "Examples: 8",
+      "zh": "实例:8"
+    },
+    "Ví dụ: tầng 3 hoặc B1": {
+      "en": "Examples: Level 3 or B1",
+      "zh": "例如:三级或B1级"
+    },
+    "Ví dụ: tầng 5 hoặc B2": {
+      "en": "Examples: Level 5 or B2",
+      "zh": "例如:5级或B2级"
     },
     "VẬN CHUYỂN HÀNG BẮC NAM": {
       "en": "THE FINAL BEST",
@@ -1683,6 +2275,18 @@
       "en": "About Us",
       "zh": "关于我们"
     },
+    "Vị trí bốc xếp đầu giao": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Vị trí bốc xếp đầu lấy": {
+      "en": "Headup position take",
+      "zh": "头部位置"
+    },
+    "Vị trí khác": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
     "Với các loại đồ thông thường như giường, tủ, bàn ghế, khách hàng chỉ cần gửi hình ảnh hoặc video để được ước tính chi phí.": {
       "en": "With common items such as beds, cabinets, furniture, customers simply send pictures or videos to be estimated the cost.",
       "zh": "有床、柜子、家具等常见物品,顾客只需发送图片或录像即可估算成本。"
@@ -1755,6 +2359,14 @@
       "en": "I'm not going anywhere.",
       "zh": "我哪儿也不会去"
     },
+    "Xe côn tay": {
+      "en": "Handwheel",
+      "zh": "手轮"
+    },
+    "Xe ga": {
+      "en": "Train",
+      "zh": "火车"
+    },
     "Xe giao tại Hà Nội": {
       "en": "Transportation at Hanoi",
       "zh": "河内交通"
@@ -1771,9 +2383,21 @@
       "en": "Motorcycles",
       "zh": "摩托车"
     },
+    "Xe máy điện": {
+      "en": "Electrical Car",
+      "zh": "电动车"
+    },
     "Xe nhận hàng tại Hà Nội": {
       "en": "The pick-up car at Hanoi",
       "zh": "河内小车"
+    },
+    "Xe phân khối lớn": {
+      "en": "Large block car",
+      "zh": "大块车"
+    },
+    "Xe số": {
+      "en": "Digital Car",
+      "zh": "数字车"
     },
     "Xe tải 1 – 1,5 tấn": {
       "en": "Truck 1 – 1.5 tons",
@@ -1807,6 +2431,10 @@
       "en": "package move rate",
       "zh": "软件包移动率"
     },
+    "chiếc": {
+      "en": "car",
+      "zh": "汽车"
+    },
     "cho 10km đầu đối với xe": {
       "en": "10 km head for the car",
       "zh": "车头10公里"
@@ -1818,6 +2446,10 @@
     "chỉ thuê xe tải": {
       "en": "Only rental trucks",
       "zh": "只有租用的卡车"
+    },
+    "cm": {
+      "en": "cm",
+      "zh": "厘米"
     },
     "cước vận chuyển cơ bản": {
       "en": "Basic Transportation ID",
@@ -1831,6 +2463,10 @@
       "en": "Images or video items to be moved and information below",
       "zh": "需要移动的图像或视频项目以及下面的信息"
     },
+    "kg": {
+      "en": "kg",
+      "zh": "千克( K)"
+    },
     "khoảng": {
       "en": "range",
       "zh": "范围"
@@ -1839,9 +2475,29 @@
       "en": "Unlike the moving of the interior of the city because of the transport distance of nearly 2,000 km (2,000 km) and the amount of household items that are usually quite good.",
       "zh": "与城市内部迁移不同,因为交通距离近2000公里(2,000公里),家庭物品数量通常相当好."
     },
+    "kiện": {
+      "en": "lawsuit",
+      "zh": "诉讼"
+    },
     "là một phương án đáng cân nhắc.": {
       "en": "is a worth considering.",
       "zh": "值得考虑。"
+    },
+    "m³": {
+      "en": "m3",
+      "zh": "立方米"
+    },
+    "ngày": {
+      "en": "Chile",
+      "zh": "地址"
+    },
+    "pallet": {
+      "en": "pallet",
+      "zh": "托盘"
+    },
+    "tank": {
+      "en": "tank",
+      "zh": "罐头"
     },
     "thay vì sử dụng toàn bộ dịch vụ chuyển nhà trọn gói.": {
       "en": "instead of using the entire package move service.",
@@ -1863,6 +2519,10 @@
       "en": "Because the two houses have the same area but the amount of items, number and transportation conditions can be completely different.",
       "zh": "因为两所房屋面积相同,但物品数量,数量和运输条件可能完全不同."
     },
+    "xe": {
+      "en": "car",
+      "zh": "汽车"
+    },
     "xe 1,5 tấn – 2 tấn hoặc bố trí nhiều chuyến.": {
       "en": "car 1.5 tonnes – 2 tonnes or set many trips.",
       "zh": "汽车1.5吨 — 2吨或设置许多行程。"
@@ -1874,6 +2534,18 @@
     "xe 750kg – 1,5 tấn.": {
       "en": "750 kg – 1.5 tons.",
       "zh": "750公斤 – 1.5吨."
+    },
+    "Áp dụng khi xe đã tới nơi và thông báo khách nhận nhưng khách chưa nhận được, hoặc khi đi giao mà khách không có mặt.": {
+      "en": "Apply when the car has arrived and informs the guests but the guests do not receive it, or when the delivery is not present.",
+      "zh": "乘车到达后通知客人,但客人不接受,或送货不在场。"
+    },
+    "Đang tải dữ liệu…": {
+      "en": "Downloading data...",
+      "zh": "正在下载数据..."
+    },
+    "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
     },
     "Điều khoản công ty": {
       "en": "Company Terms",
@@ -1895,6 +2567,10 @@
       "en": "Package if needed",
       "zh": "需要时的软件包"
     },
+    "Đóng gói đồ gia đình": {
+      "en": "Pack your bags",
+      "zh": "收拾东西"
+    },
     "Đơn mới": {
       "en": "New Single",
       "zh": "新单人"
@@ -1902,6 +2578,10 @@
     "Đơn vị": {
       "en": "Unit",
       "zh": "单位"
+    },
+    "Đường sắt + đường bộ": {
+      "en": "Railroad + Route",
+      "zh": "铁路+路线"
     },
     "Để khách hàng dễ dự toán trước chi phí,": {
       "en": "In order to make it easy for customers to plan ahead of the cost,",
@@ -1918,6 +2598,18 @@
     "Để nhận báo giá nhanh, khách hàng chỉ cần gửi các thông tin đầy đủ như dưới:": {
       "en": "To get a quick price, customers just send the full information as below:",
       "zh": "为了获得快速的价格,客户只需发送以下全部信息: 互联网档案馆的存檔,存档日期2013-03-02."
+    },
+    "ĐỊA CHỈ GỬI": {
+      "en": "PICKUP ADDRESS",
+      "zh": "取货地址"
+    },
+    "ĐỊA CHỈ NHẬN": {
+      "en": "DELIVERY ADDRESS",
+      "zh": "收货地址"
+    },
+    "Địa chỉ chi tiết": {
+      "en": "Street Address",
+      "zh": "详细地址"
     },
     "Địa chỉ chuyển đi": {
       "en": "Address to move.",
@@ -2015,6 +2707,10 @@
       "en": "Special suit:",
       "zh": "特殊服装:"
     },
+    "Đổi chiều vận chuyển": {
+      "en": "Change Transportation",
+      "zh": "改变运输"
+    },
     "đường sắt kết hợp xe tải lấy – giao hai đầu": {
       "en": "Railroads combine trucks take – deliver two ends",
       "zh": "铁路将卡车合用,交付两端"
@@ -2026,6 +2722,10 @@
     "đồng mỗi đầu.": {
       "en": "It's the same thing.",
       "zh": "亦复如是."
+    },
+    "Ước tính chi phí vận chuyển đường sắt kết hợp đường bộ.": {
+      "en": "The cost of rail transport combined the road.",
+      "zh": "铁路运输成本相加."
     },
     "Ống thoát nước": {
       "en": "The drain",

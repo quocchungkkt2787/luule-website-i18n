@@ -3,9 +3,29 @@
   "missing_count": 0,
   "route": "/blogs/xe-tai-cho-hang-dong-nai",
   "texts": {
+    "(Đã bao gồm VAT 8%)": {
+      "en": "(including VAT 8)",
+      "zh": "(包括增值税8)"
+    },
+    "* 4 – 5 ngày": {
+      "en": "* 4 – 5 days",
+      "zh": "* 4 -- -- 5天"
+    },
+    "+ THÊM LOẠI HÀNG": {
+      "en": "+ MINUTE",
+      "zh": "+分钟"
+    },
     ", với vị trí địa lý thuận lợi ở miền Đông Nam Bộ và sự phát triển mạnh mẽ của các khu công nghiệp, đã tạo tiền đề và điều kiện cho thị trường cho thuê xe tải chở hàng ngày càng sôi động. Nhu cầu vận chuyển hàng hóa ngày càng tăng, đặc biệt là trong các KCN lớn, đã thúc đẩy sự phát triển của dịch vụ này.": {
       "en": ", With a favourable geographical position in the Southeastern Ministry and the strong development of industrial areas, which created pre-subscriptions and conditions for the market for the daily rental of transport trucks. The demand for freight was increasing, especially in large KNCs, which prompted the development of this service.",
       "zh": ",在东南部地理位置有利,产业区发展强劲,为日租运货车创造了预订市场和条件. 货运需求正在增加,特别是在大型的KNC,这促使这一服务的发展。"
+    },
+    "0đ": {
+      "en": "0D",
+      "zh": "零点"
+    },
+    "500.000đ/m³": {
+      "en": "500,000 x/m3",
+      "zh": "500 000克/立方米"
     },
     ">>> Có thể bạn quan tâm dịch vụ:": {
       "en": "> DSTOR You may be interested in services:",
@@ -87,6 +107,10 @@
       "en": "Truck Freight Rates",
       "zh": "货车运输价格表"
     },
+    "Bảng vùng cước đã sẵn sàng. Kết quả xuất hiện ngay khi bấm tính cước.": {
+      "en": "Placeboard is ready. The results came out as soon as you hit the card.",
+      "zh": "板子准备好了 你一打出牌,结果就出来了"
+    },
     "Bảo dưỡng định kỳ:": {
       "en": "Periodic maintenance:",
       "zh": "定期维护:"
@@ -99,9 +123,29 @@
       "en": "Environmental Protection:",
       "zh": "环境保护:"
     },
+    "Bắt buộc xác nhận phương án bọc bảo vệ xe": {
+      "en": "Forced to confirm plan to secure the vehicle",
+      "zh": "被迫确认保护车辆的计划"
+    },
     "Bắt đầu tư vấn": {
       "en": "Start consulting",
       "zh": "开始咨询"
+    },
+    "Bọc bảo vệ xe": {
+      "en": "Car Guard",
+      "zh": "车警"
+    },
+    "Bọc bảo vệ xe gửi kèm": {
+      "en": "car security attached",
+      "zh": "汽车安全"
+    },
+    "Bốc xếp đầu giao": {
+      "en": "Bulk head off.",
+      "zh": "散头去."
+    },
+    "Bốc xếp đầu lấy": {
+      "en": "Get your head up",
+      "zh": "抬起头来"
     },
     "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
       "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
@@ -135,6 +179,10 @@
       "en": "Chat with Luu Le Transport on Zalo",
       "zh": "通过 Zalo 联系 Luu Le 运输公司"
     },
+    "Chi phí chờ hàng: thỏa thuận theo thời gian và điều kiện thực tế.": {
+      "en": "Supplies costs: deal over time and actual conditions.",
+      "zh": "用品费用:随时间和实际条件处理。"
+    },
     "Chi phí nhiên liệu, bảo dưỡng xe, lương nhân viên tăng cao, ảnh hưởng đến lợi nhuận của doanh nghiệp.": {
       "en": "Fuel costs, car maintenance, high wage workers, affect business profits.",
       "zh": "燃料成本,汽车维修,高工资工人,影响企业利润."
@@ -142,6 +190,22 @@
     "Chi phí vận hành:": {
       "en": "Active costs:",
       "zh": "现行费用:"
+    },
+    "Chi tiết dự tính": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
+    "Chiều cao/kiện": {
+      "en": "Height per Package",
+      "zh": "每件高度"
+    },
+    "Chiều dài/kiện": {
+      "en": "Length per Package",
+      "zh": "每件长度"
+    },
+    "Chiều rộng/kiện": {
+      "en": "Width per Package",
+      "zh": "每件宽度"
     },
     "Chuyển kho xưởng Hà Nội → Sài Gòn": {
       "en": "Warehouse & Factory Relocation from Hanoi to Saigon",
@@ -247,6 +311,58 @@
       "en": "Car Team Quality",
       "zh": "车组质量"
     },
+    "Chọn Ga Gửi": {
+      "en": "Select Origin Rail Station",
+      "zh": "请选择始发站"
+    },
+    "Chọn Ga Nhận": {
+      "en": "Select Destination Rail Station",
+      "zh": "请选择到达站"
+    },
+    "Chọn Hãng và dòng xe để hệ thống tự phân loại": {
+      "en": "Select the Constance and Line of the car to classification system",
+      "zh": "选择车厢的 Constance 和线路到分类系统"
+    },
+    "Chọn Phường/Xã": {
+      "en": "Select Ward/Commune",
+      "zh": "请选择坊／社"
+    },
+    "Chọn Phường/Xã mới": {
+      "en": "New",
+      "zh": "新设"
+    },
+    "Chọn Quận/Huyện": {
+      "en": "Select District",
+      "zh": "请选择区／县"
+    },
+    "Chọn Tỉnh/Thành phố mới": {
+      "en": "Select Province/ New City",
+      "zh": "选择省/ 新城"
+    },
+    "Chọn hãng và dòng xe": {
+      "en": "Select a company and line of vehicles",
+      "zh": "选择公司和车辆线路"
+    },
+    "Chọn loại hàng": {
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
+    },
+    "Chọn loại xe": {
+      "en": "Select a car type",
+      "zh": "选择车型"
+    },
+    "Chọn phương thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
+    "Chọn tình trạng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Chọn vị trí bốc xếp": {
+      "en": "Select the ranking position",
+      "zh": "选择排名位置"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
@@ -263,6 +379,10 @@
       "en": "Provides a variety of trucks with heavy load to meet the client's diverse needs.",
       "zh": "提供各种重载卡车,以满足客户的不同需求."
     },
+    "CÔNG CỤ TRỰC TUYẾN": {
+      "en": "ONLINE TOOLS",
+      "zh": "在线工具"
+    },
     "Các cửa hàng, siêu thị thường xuyên có nhu cầu vận chuyển hàng hóa từ nhà cung cấp về kho hoặc cửa hàng.": {
       "en": "Stores, supermarkets regularly have the need for freight from vendors to warehouses or shops.",
       "zh": "商店、超市经常需要从供应商到仓库或商店的运费。"
@@ -274,6 +394,14 @@
     "Các khu công nghiệp lớn như Biên Hòa, Long Thành, Nhơn Trạch thu hút nhiều nhà đầu tư, dẫn đến nhu cầu vận chuyển nguyên vật liệu và sản phẩm ngày càng tăng.": {
       "en": "The major industrial districts such as the Borders, the Dragon City, as the Twilight attracts many investors, lead to the growing demand for materials and products.",
       "zh": "边疆,龙城等主要工业区,由于潮light吸引了许多投资者,导致对材料和产品的需求不断增长."
+    },
+    "Các kiện hàng cùng một loại": {
+      "en": "Packages of the same type",
+      "zh": "同类软件包"
+    },
+    "Các kiện hàng gồm nhiều loại": {
+      "en": "Packages of various types",
+      "zh": "各类包件"
     },
     "Các loại máy móc, thiết bị xây dựng nặng thường được vận chuyển bằng xe tải.": {
       "en": "The type of machinery, heavy construction equipment, is often transported by trucks.",
@@ -307,9 +435,21 @@
       "en": "Is there any cost?",
       "zh": "有代价吗?"
     },
+    "Có bọc": {
+      "en": "Covered",
+      "zh": "覆盖"
+    },
     "Có nhiều loại xe tải với tải trọng và kích thước khác nhau để bạn lựa chọn, phù hợp với mọi nhu cầu vận chuyển.": {
       "en": "There are many types of trucks with different weights and sizes for you to choose, suitable for all transportation needs.",
       "zh": "有许多种类的卡车,重量和大小不同,可供你选择,适合所有运输需要."
+    },
+    "Có thang máy": {
+      "en": "There's an elevator.",
+      "zh": "有电梯"
+    },
+    "Có thể nhập bằng dấu phẩy, dấu chấm phẩy hoặc xuống dòng.": {
+      "en": "Enterable with commas, semicolons, or downstreams.",
+      "zh": "有逗号、分号或下游可以输入。"
     },
     "Có tải trọng từ 2.5 tấn đến 8 tấn, kích thước lớn hơn xe tải nhẹ, phù hợp với việc vận chuyển hàng hóa có khối lượng lớn hơn.": {
       "en": "Loaded from 2.5 to 8 tonnes, the size is greater than the light truck, which is consistent with shipping of larger mass.",
@@ -335,6 +475,14 @@
       "en": "The Chance of Growth",
       "zh": "增长的机会"
     },
+    "CƯỚC DỰ KIẾN CỦA BẠN": {
+      "en": "YOUR ESTIMATED SHIPPING COST",
+      "zh": "您的预估运费"
+    },
+    "CƯỚC VẬN CHUYỂN DỰ KIẾN": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
     "Cạnh tranh gay gắt:": {
       "en": "The edge of the competition:",
       "zh": "比赛的边缘:"
@@ -342,6 +490,10 @@
     "DMCA.com Protection Status": {
       "en": "DMCA.com Protection UTC",
       "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Danh sách đồ gia đình": {
+      "en": "List of family items",
+      "zh": "家庭物品清单"
     },
     "Doanh nghiệp có thể tập trung vào hoạt động sản xuất kinh doanh cốt lõi, không phải lo lắng về vấn đề vận chuyển.": {
       "en": "The business can focus on core business production, not worrying about transportation.",
@@ -354,6 +506,10 @@
     "DỊCH VỤ CHÍNH": {
       "en": "MAIN SERVICES",
       "zh": "主要服务"
+    },
+    "Dịch vụ bổ sung": {
+      "en": "Plugin Services",
+      "zh": "插件服务"
     },
     "Dịch vụ cho thuê xe tải chở hàng tại Đồng Nai có rất nhiều ứng dụng trong cuộc sống và sản xuất kinh doanh, góp phần vào sự phát triển kinh tế của địa phương. Dưới đây là một số ứng dụng điển hình:": {
       "en": "The service for renting truckloads at the Nai Plain has numerous applications in life and business production, contributing to local economic growth. Below are some typical applications:",
@@ -415,6 +571,18 @@
       "en": "Archived Download Facebook",
       "zh": "已存档下载 Facebook"
     },
+    "GA GỬI": {
+      "en": "ORIGIN RAIL STATION",
+      "zh": "始发站"
+    },
+    "GA NHẬN": {
+      "en": "DESTINATION RAIL STATION",
+      "zh": "到达站"
+    },
+    "GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "SHIPPING RATES",
+      "zh": "运输费率"
+    },
     "GIẢI PHÁP": {
       "en": "Solutions",
       "zh": "解决方案"
@@ -422,6 +590,22 @@
     "GIỚI THIỆU": {
       "en": "PORTUGUESE",
       "zh": "葡萄牙"
+    },
+    "Ga đến Ga": {
+      "en": "Station-to-Station",
+      "zh": "站到站"
+    },
+    "Ga đến Nhà": {
+      "en": "Station-to-Door",
+      "zh": "站到门"
+    },
+    "Ghi chú vị trí khác": {
+      "en": "Note Location Other",
+      "zh": "其他地点"
+    },
+    "Giao hàng ban đêm": {
+      "en": "Night Delivery",
+      "zh": "夜间配送"
     },
     "Giá cả cạnh tranh:": {
       "en": "The price of competition:",
@@ -475,9 +659,17 @@
       "en": "Bricks, sand, cement, steel iron,... delivered from factories, warehouses to construction.",
       "zh": "砖块 沙子 水泥 钢铁 从工厂 仓库送到建筑"
     },
+    "Gọi 0909 81 6625": {
+      "en": "Calling 0909 81 6625",
+      "zh": "呼叫0909 81 6625"
+    },
     "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
       "en": "Call Hotline Media 0909 81 6625",
       "zh": "拨打热线"
+    },
+    "GỬI KÈM XE MÁY": {
+      "en": "TRIGUIMENT",
+      "zh": "捐款"
     },
     "Gửi": {
       "en": "Send",
@@ -579,6 +771,10 @@
       "en": "Hotline: 0909 81 6625",
       "zh": "热线:0909 81 6625"
     },
+    "Hoặc tính m³ theo kích thước kiện hàng: nhập số lượng và kích thước bên dưới, hệ thống sẽ tự tính tổng m³.": {
+      "en": "Or do the m3 in the package size: enter the number and size below, the system will calculate the total m3.",
+      "zh": "或做包大小的m3:输入下面的数字和大小,系统会计算出总的m3."
+    },
     "HÌNH ẢNH": {
       "en": "Photo Gallery",
       "zh": "图片库"
@@ -586,6 +782,18 @@
     "Hàng hóa thông thường": {
       "en": "General Cargo",
       "zh": "普通货物"
+    },
+    "Hàng đóng pallet": {
+      "en": "Packer pallet",
+      "zh": "包装托盘"
+    },
+    "Hàng đóng tank": {
+      "en": "Supplies",
+      "zh": "用品"
+    },
+    "Hãng và dòng xe": {
+      "en": "The Company and the Car Line",
+      "zh": "公司和汽车线路"
     },
     "HƯỚNG DẪN": {
       "en": "Guides",
@@ -599,9 +807,21 @@
       "en": "Surveillance System:",
       "zh": "监测系统:"
     },
+    "Hệ thống phân loại:": {
+      "en": "Category system:",
+      "zh": "类别系统:"
+    },
     "Hệ thống quản lý hiện đại:": {
       "en": "Modern administration system:",
       "zh": "现代行政管理系统:"
+    },
+    "Hệ thống tự áp dụng mức phí theo loại xe": {
+      "en": "The system applies its own cost to the type of car.",
+      "zh": "该系统将自身成本应用于车型."
+    },
+    "Hệ thống tự áp dụng mức phí theo từng loại xe": {
+      "en": "The system applies its own cost to each car.",
+      "zh": "该系统将自己的成本用于每辆车."
     },
     "Hệ thống đường bộ, quốc lộ ngày càng được nâng cấp, tạo điều kiện thuận lợi cho việc vận chuyển hàng hóa.": {
       "en": "The road system, the highway is increasingly upgraded, facilitated for freight.",
@@ -631,6 +851,10 @@
       "en": "BIRTHER",
       "zh": "比尔"
     },
+    "KIỆN >= 200KG": {
+      "en": "GPL >=200G",
+      "zh": "GPL QQ200G 导弹"
+    },
     "Khi chuyển nhà hoặc văn phòng, khách hàng thường thuê xe tải để vận chuyển đồ đạc.": {
       "en": "When moving homes or offices, customers typically rent trucks to transport items.",
       "zh": "在搬家或搬办公室时,顾客通常租用卡车运送物品。"
@@ -651,13 +875,41 @@
       "en": "Customers are increasingly demanding high quality service, quick and transparent.",
       "zh": "客户越来越要求迅速和透明的高质量服务。"
     },
+    "Không biết loại xe?": {
+      "en": "Don't know the car?",
+      "zh": "不认识那辆车?"
+    },
+    "Không bọc": {
+      "en": "No Cover",
+      "zh": "无封面"
+    },
+    "Không có thang máy": {
+      "en": "No elevator.",
+      "zh": "没有电梯。"
+    },
+    "Khối lượng tổng": {
+      "en": "Total Weight",
+      "zh": "总重量"
+    },
+    "Khối lượng/kiện": {
+      "en": "Weight per Package",
+      "zh": "每件重量"
+    },
     "Kiểm tra xem đơn vị có đầy đủ giấy phép kinh doanh và các giấy tờ liên quan đến hoạt động vận tải hay không.": {
       "en": "Check the unit for full business licenses and documents related to transportation activity.",
       "zh": "检查有关运输活动的营业执照和文件。"
     },
+    "Kiện nặng": {
+      "en": "Heavy case",
+      "zh": "重型案件"
+    },
     "Kết nối với Vận Tải Lưu Lê qua các kênh chính thức.": {
       "en": "Connect with Luu Le Transport through our official channels.",
       "zh": "通过官方渠道联系 Luu Le 运输公司。"
+    },
+    "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
+      "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+      "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
     },
     "LIÊN HỆ": {
       "en": "GREEW",
@@ -666,6 +918,46 @@
     "LIÊN KẾT": {
       "en": "CONNECT WITH US",
       "zh": "联系我们"
+    },
+    "LOẠI 1": {
+      "en": "JSTOR 1",
+      "zh": "JSTOR 1号卫星"
+    },
+    "LOẠI 10": {
+      "en": "JSTOR 10",
+      "zh": "JSTOR 10号卫星"
+    },
+    "LOẠI 2": {
+      "en": "JSTOR 2",
+      "zh": "第2号"
+    },
+    "LOẠI 3": {
+      "en": "JSTOR 3",
+      "zh": "JSTOR 3号"
+    },
+    "LOẠI 4": {
+      "en": "JSTOR 4",
+      "zh": "第4号"
+    },
+    "LOẠI 5": {
+      "en": "JSTOR 5",
+      "zh": "约瑟5号"
+    },
+    "LOẠI 6": {
+      "en": "JSTOR 6",
+      "zh": "JSTOR 6号"
+    },
+    "LOẠI 7": {
+      "en": "JSTOR 7",
+      "zh": "JSTOR 7号"
+    },
+    "LOẠI 8": {
+      "en": "JSTOR 8",
+      "zh": "JSTOR 8号"
+    },
+    "LOẠI 9": {
+      "en": "JSTOR 9",
+      "zh": "第9号"
     },
     "Linh hoạt:": {
       "en": "Animated:",
@@ -678,6 +970,14 @@
     "Logo Vận Tải Lưu Lê": {
       "en": "Archived Transportation",
       "zh": "存档运输"
+    },
+    "Loại xe": {
+      "en": "Car Type",
+      "zh": "车型"
+    },
+    "Loại xe là thông tin bắt buộc. Nếu không xác định được, hãy chọn Hãng và dòng xe để hệ thống tự phân loại.": {
+      "en": "The type of car is mandatory information. If it is not determined, select the Company and the line for the self-classification system.",
+      "zh": "车型为强制信息. 如果未确定,则选择公司和自分类系统线。"
     },
     "Là loại xe có công suất lớn, dùng để kéo các rơ-moóc hoặc container.": {
       "en": "It's the kind of car that has great capacity, used to pull the relays or container.",
@@ -695,6 +995,10 @@
       "en": "Liu Liu provided transportation services not only in the province of Nai but also throughout the country.",
       "zh": "刘 Liu不仅在直隶省提供交通服务,而且在全国各地提供交通服务."
     },
+    "Lưu kho": {
+      "en": "Storage",
+      "zh": "仓储"
+    },
     "Lưu ý:": {
       "en": "Note:",
       "zh": "说明:"
@@ -710,6 +1014,14 @@
     "Máy móc, thiết bị": {
       "en": "Machinery & Equipment",
       "zh": "机械设备"
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu giao": {
+      "en": "Short description of the intersection position",
+      "zh": "交叉位置简介."
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu lấy": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
     },
     "Mạng xã hội Vận Tải Lưu Lê": {
       "en": "Archived Social Network",
@@ -751,9 +1063,21 @@
       "en": "Increase consumer demand:",
       "zh": "增加消费者需求:"
     },
+    "Nhà đến Ga": {
+      "en": "Door-to-Station",
+      "zh": "门到站"
+    },
+    "Nhà đến Nhà": {
+      "en": "Door-to-Door",
+      "zh": "门到门"
+    },
     "Nhân viên tư vấn nhiệt tình, lái xe có kinh nghiệm, đội ngũ bốc xếp làm việc cẩn thận.": {
       "en": "The enthusiastic counselor, the experienced driver, the team arranged to work carefully.",
       "zh": "热情的顾问,经验丰富的司机,团队安排了认真的工作."
+    },
+    "Nhận báo giá chính xác": {
+      "en": "Receive the correct price",
+      "zh": "接收正确的价格"
     },
     "Nhận hàng tại nhà và giao hàng tận nơi.": {
       "en": "Take it at home and deliver it all the way.",
@@ -762,6 +1086,14 @@
     "Nhập nội dung cần tìm...": {
       "en": "Import Contents to Find...",
       "zh": "导入要查找的内容..."
+    },
+    "Nhập tên hàng và số lượng tổng để hệ thống tự cập nhật kg và m³ theo bộ nhận diện hiện có.": {
+      "en": "Enter the row name and total number for the self-update system and m3 in the current identification system.",
+      "zh": "输入自更新系统的行名和总数,以及当前识别系统中的m3。"
+    },
+    "Nhập tên máy/thiết bị và số lượng tổng; kg và m³ sẽ tự cập nhật theo bộ nhận diện, có thể sửa bằng số liệu thực tế.": {
+      "en": "Enter the host name/set and total number; kilograms and m3 will self-update by identification, which can be modified by actual figures.",
+      "zh": "输入主机名称/设置和总数;kug和m3会通过识别自我更新,可以通过实际数字修改."
     },
     "Những lưu ý chung": {
       "en": "General Information",
@@ -775,6 +1107,10 @@
       "en": "You should find out more about the unit for rental cars before deciding your options. You can refer to various sources such as relatives, friends, search information on forums, blogs, social networks, etc.",
       "zh": "在决定选择之前,你应该了解更多租车单位的情况。 可以指: 亲属,朋友,论坛搜索信息,博客,社交网络等多种来源."
     },
+    "Nếu không nắm rõ tên mặt hàng, khối lượng tổng, thể tích tổng? Hoặc hàng gồm nhiều loại khác nhau? Vui lòng nhập các thông tin chi tiết vào mục bên dưới, hệ thống sẽ tự động tính ra cho bạn!": {
+      "en": "If you don't know the name of the package, the total mass, the total volume? Or are the lines varied? Please enter detailed information into the item below, the system will automatically calculate it for you!",
+      "zh": "如果你不知道包裹的名称,总质量,总体积? 还是台词不同? 请在下面的项目中输入详细资料,系统会自动为您计算!"
+    },
     "Nếu quý khách đang có nhu cầu cần vận chuyển hàng hóa tại tỉnh Đồng Nai hoặc từ Đồng Nai đi các tỉnh. Vui lòng liên hệ với Vận Tải Lưu Lê để được tư vấn báo giá và cung cấp dịch vụ cho thuê xe tải chở hàng Đồng Nai nhé.": {
       "en": "If you are in need of freight in the province of Nai or from the Plains of Nai to the provinces, Please contact Liu Transport to be informed of the price and provide a service to rent the bronze truck Nai.",
       "zh": "有直隶省或从直隶平原到各省需要货运的,请联系刘运了解价格,并提供服务租取铜牌货车."
@@ -782,6 +1118,38 @@
     "NỘI BỘ": {
       "en": "Internal Portal",
       "zh": "内部管理"
+    },
+    "Pallet": {
+      "en": "Pallet",
+      "zh": "圆盘"
+    },
+    "Pallet, tank và kiện hàng trên 200kg bắt buộc sử dụng xe nâng tại 2 đầu ga tàu và có phát sinh phí xe nâng. Tại 2 đầu kho, khách hàng hỗ trợ đưa hàng lên và xuống xe.": {
+      "en": "Pallet, tank and package over 200 kilograms forced to use the lift car at 2 end of the train station and there was a lift fee. At two end of the warehouse, the client assists to load up and down.",
+      "zh": "托盘,坦克和包裹超过200公斤被迫在火车站两端使用升降车,并收取升降费. 在仓库两端,客户协助上下加载."
+    },
+    "Phân loại": {
+      "en": "Category",
+      "zh": "类别"
+    },
+    "Phân loại hàng tự động": {
+      "en": "Automatic Cargo Classification",
+      "zh": "自动识别货物类别"
+    },
+    "Phí lưu kho 200.000đ/ngày": {
+      "en": "US$200/day archive",
+      "zh": "每日200美元档案费"
+    },
+    "Phương thức": {
+      "en": "Mode",
+      "zh": "模式"
+    },
+    "Phương thức giao nhận": {
+      "en": "Protocol",
+      "zh": "议定书"
+    },
+    "Phường/Xã": {
+      "en": "Ward/Commune",
+      "zh": "坊／社"
     },
     "Phạm vi hoạt động rộng:": {
       "en": "Range of operations:",
@@ -791,9 +1159,17 @@
       "en": "Client feedback:",
       "zh": "客户反馈 :"
     },
+    "Phụ phí 900.000đ/lần": {
+      "en": "$900,000 apiece",
+      "zh": "每人90万美元"
+    },
     "Phục vụ đa dạng nhu cầu:": {
       "en": "Serving multiple needs:",
       "zh": "满足多种需要:"
+    },
+    "QUY CÁCH ĐÓNG HÀNG": {
+      "en": "REVIECTION",
+      "zh": "修订"
     },
     "Quy trình thuê xe nhanh gọn, không rườm rà.": {
       "en": "The car rental process is quick, uninterrupted.",
@@ -802,6 +1178,14 @@
     "Quy định pháp luật:": {
       "en": "Law rule:",
       "zh": "法治:"
+    },
+    "Quy ước 1 m³ = 350 kg: trên 350 kg/m³ tính hàng nặng; từ 350 kg/m³ trở xuống tính hàng nhẹ.": {
+      "en": "Rule 1 m3 = 350 kg: over 350 kg/m3 weights; from 350 kg/m3 to down the light row.",
+      "zh": "规则1m3=350公斤:超过350公斤/立方米体重;从350公斤/立方米到下行轻排."
+    },
+    "Quận/Huyện": {
+      "en": "District",
+      "zh": "区／县"
     },
     "Sau khi sản xuất, hàng hóa cần được vận chuyển đến các kho hàng, đại lý hoặc trực tiếp đến tay người tiêu dùng.": {
       "en": "After production, goods needed to be transported to warehouses, agents, or directly to consumers.",
@@ -814,6 +1198,54 @@
     "So sánh giá cả:": {
       "en": "Price comparison:",
       "zh": "价格比较:"
+    },
+    "Sảnh / tầng trệt": {
+      "en": "Bottom/floor",
+      "zh": "底楼/底楼"
+    },
+    "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
+      "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
+      "zh": "MLIZER:轻度50000 mph/m3;重度bleh/dm. 法规增加的带有电梯的地板/地点"
+    },
+    "Số kiện tổng": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
+    "Số liệu thực tế khách nhập luôn được ưu tiên hơn số liệu ước tính.": {
+      "en": "In fact the entry is always preferred over the estimates.",
+      "zh": "事实上,该条目总是比估计数更可取。"
+    },
+    "Số lượng": {
+      "en": "Count",
+      "zh": "计数"
+    },
+    "Số lượng tổng": {
+      "en": "Total Number",
+      "zh": "总数"
+    },
+    "Số lượng xe": {
+      "en": "Number of cars",
+      "zh": "汽车数量"
+    },
+    "Số ngày lưu kho": {
+      "en": "Number of Archived Days",
+      "zh": "归档天数"
+    },
+    "Số ngày lưu kho xe máy": {
+      "en": "Number of days of motorcycle Archives",
+      "zh": "摩托车档案馆的天数"
+    },
+    "Sử dụng địa danh mới sau sáp nhập": {
+      "en": "Use updated administrative place names",
+      "zh": "使用行政区划调整后的新地名"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ gửi": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ nhận": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
     },
     "Sự bùng nổ của thương mại điện tử tạo ra nhu cầu vận chuyển hàng hóa nhỏ lẻ, thường xuyên.": {
       "en": "The boom of electronic trade creates the need for small, frequent freight.",
@@ -839,6 +1271,10 @@
       "en": "INFORMATION",
       "zh": "公司信息"
     },
+    "TRA CỨU": {
+      "en": "CHECK",
+      "zh": "查询"
+    },
     "TRA CỨU GIÁ CƯỚC": {
       "en": "CENTRAL",
       "zh": "中央"
@@ -855,6 +1291,14 @@
       "en": "Careers",
       "zh": "招聘"
     },
+    "Tank": {
+      "en": "Tank",
+      "zh": "坦克"
+    },
+    "Thang máy": {
+      "en": "Elevator",
+      "zh": "电梯"
+    },
     "Thay vì phải mua xe, bảo dưỡng, sửa chữa, bạn chỉ cần trả phí thuê xe theo thời gian sử dụng, giúp tiết kiệm một khoản chi phí lớn.": {
       "en": "Instead of having to buy cars, maintenance, repair, you just pay the car rental fee by the time you use it, helping save a large cost.",
       "zh": "与其买车,维修,修车,不如在使用时支付汽车租金,帮助节省大量费用."
@@ -867,9 +1311,21 @@
       "en": "The Challenge to Overcome",
       "zh": "战胜的挑战"
     },
+    "Thôn/Xóm/Ấp, đường và số nhà": {
+      "en": "Hamlet, street and house number",
+      "zh": "村／组、街道及门牌号"
+    },
+    "Thông tin hàng hóa": {
+      "en": "Row Information",
+      "zh": "行信息"
+    },
     "Thường được sử dụng để vận chuyển hàng hóa trong nội thành, chuyển nhà, chuyển văn phòng, hoặc vận chuyển hàng hóa có khối lượng nhỏ.": {
       "en": "Often used to transport goods within the city, move homes, move offices, or transport small amounts of cargo.",
       "zh": "常用于城内运输货物,搬家,搬办公室,或运送少量货物."
+    },
+    "Thể tích tổng": {
+      "en": "Total Volume",
+      "zh": "总体积"
     },
     "Thị trường cho thuê xe tải tại Đồng Nai vô cùng đa dạng, đáp ứng nhu cầu gửi hàng của nhiều đối tượng KH khác nhau. Dưới đây là một số loại xe tải cho thuê phổ biến nhất:": {
       "en": "The market for rental trucks at the Bay of Nai was extremely diverse, meeting the demand for delivery of various KH objects. Below are some of the most common rental trucks:",
@@ -878,6 +1334,10 @@
     "Thị trường có nhiều đơn vị cung cấp dịch vụ, cạnh tranh về giá cả và chất lượng.": {
       "en": "The market has many units providing services, competing price and quality.",
       "zh": "市场有许多单位提供服务,价格和质量相竞争."
+    },
+    "Thời gian": {
+      "en": "Time",
+      "zh": "时间"
     },
     "Thời gian giao hàng dự kiến là bao lâu?": {
       "en": "How long is the delivery time expected?",
@@ -927,9 +1387,21 @@
       "en": "Guide Center",
       "zh": "引导中心"
     },
+    "Trên tầng/lầu": {
+      "en": "Upstairs.",
+      "zh": "楼上"
+    },
     "Trợ lý AI Vận Tải Lưu Lê": {
       "en": "AI Media Assistant",
       "zh": "AI 媒体助理"
+    },
+    "Tuyến vận chuyển": {
+      "en": "Shipping Route",
+      "zh": "运输路线"
+    },
+    "Tuyến đường sắt": {
+      "en": "Railway",
+      "zh": "铁路"
     },
     "Twitter Vận Tải Lưu Lê": {
       "en": "Twitter Media",
@@ -938,6 +1410,18 @@
     "TÀI KHOẢN": {
       "en": "Account",
       "zh": "账户"
+    },
+    "Tách rõ cước và phụ phí": {
+      "en": "Itemized Shipping Charges and Surcharges",
+      "zh": "运费与附加费分项列明"
+    },
+    "Tên hàng": {
+      "en": "Cargo Description",
+      "zh": "货物名称"
+    },
+    "Tên máy/thiết bị": {
+      "en": "Hostname/ Device",
+      "zh": "主机名/ 设备"
     },
     "Tìm": {
       "en": "Find",
@@ -954,6 +1438,14 @@
     "Tìm kiếm": {
       "en": "Search",
       "zh": "搜索"
+    },
+    "Tích chọn nếu lô đồ gia đình có xe máy đi cùng": {
+      "en": "Select if a family shipment has a motorcycle with it",
+      "zh": "选择家用货有没有摩托车"
+    },
+    "Tính cước ngay": {
+      "en": "Calculate Shipping Cost",
+      "zh": "立即计算运费"
     },
     "Tóm lại,": {
       "en": "In short,",
@@ -975,13 +1467,53 @@
       "en": "Consulting AI Media",
       "zh": "咨询AI媒体"
     },
+    "Tạm tính trước VAT": {
+      "en": "Publishing VAT",
+      "zh": "公布增值税"
+    },
+    "Tầng hầm": {
+      "en": "The basement.",
+      "zh": "地下室 地下室"
+    },
+    "Tầng/lầu hoặc hầm": {
+      "en": "Level/Land or vault",
+      "zh": "级别/地盘或金库"
+    },
     "Tập trung vào hoạt động cốt lõi:": {
       "en": "Focus on core activity:",
       "zh": "注重核心活动:"
     },
+    "Tỉnh/Thành phố": {
+      "en": "Province/City",
+      "zh": "省／直辖市"
+    },
+    "Tổng số kiện": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
+    "Tổng số kiện hàng": {
+      "en": "Total Packages",
+      "zh": "软件包共计"
+    },
+    "Tổng số kiện máy": {
+      "en": "Total machine lawsuit",
+      "zh": "机器诉讼共计"
+    },
+    "TỰ NHẬN DIỆN & TÍNH M³": {
+      "en": "IDENTIFY CARGO & CALCULATE VOLUME",
+      "zh": "自动识别货物并计算体积"
+    },
     "Uy tín và kinh nghiệm": {
       "en": "Trust and Experience",
       "zh": "信任和经验"
+    },
+    "VAT 8%": {
+      "en": "VAT 8",
+      "zh": "增值税8"
+    },
+    "VAT 8% là mặc định": {
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
     },
     "VIDEOS": {
       "en": "LIS",
@@ -998,6 +1530,66 @@
     "Việc sử dụng dịch vụ cho thuê xe tải giúp đảm bảo hàng hóa được vận chuyển nhanh chóng, an toàn, góp phần nâng cao hiệu quả hoạt động của doanh nghiệp.": {
       "en": "The use of truck rental services helps ensure that the goods are delivered quickly, safely, contributing to the efficiency of the business.",
       "zh": "使用卡车租赁服务有助于确保迅速、安全地交付货物,有助于提高业务效率。"
+    },
+    "Vui lòng chọn một phương án": {
+      "en": "Please choose a solution",
+      "zh": "请选择一个解决方案"
+    },
+    "Vui lòng nhập tên và số lượng các đồ dùng cần vận chuyển. Ví dụ: 1 tủ lạnh, 1 tivi, 2 ghế, 5 thùng đồ… Hệ thống sẽ hỗ trợ ước tính tổng thể tích để tính cước.": {
+      "en": "Please enter the name and number of items to transport. For example: 1 refrigerator, 1 TV, 2 seats, 5 barrels...the system will support an overall estimate of the volume to calculate the ID.",
+      "zh": "请输入要运输的物品名称和编号 。 例如: 1个冰箱, 1个电视, 2个座位, 5个桶... 系统将支持对容量的总体估计 来计算ID。"
+    },
+    "Ví dụ: 10": {
+      "en": "Examples: 10",
+      "zh": "实例:10"
+    },
+    "Ví dụ: 1200": {
+      "en": "Examples: 1200",
+      "zh": "实例:1200"
+    },
+    "Ví dụ: 20": {
+      "en": "Examples: 20",
+      "zh": "实例:20"
+    },
+    "Ví dụ: 2000": {
+      "en": "Examples: 2000",
+      "zh": "实例:2000年"
+    },
+    "Ví dụ: 25": {
+      "en": "Examples: 25",
+      "zh": "实例:25"
+    },
+    "Ví dụ: 3.5": {
+      "en": "Examples: 3.5",
+      "zh": "实例:3.5"
+    },
+    "Ví dụ: 30": {
+      "en": "Examples: 30",
+      "zh": "实例:30"
+    },
+    "Ví dụ: 4": {
+      "en": "Examples: 4",
+      "zh": "实例:4"
+    },
+    "Ví dụ: 40": {
+      "en": "Examples: 40",
+      "zh": "实例:40"
+    },
+    "Ví dụ: 60": {
+      "en": "Examples: 60",
+      "zh": "实例:60"
+    },
+    "Ví dụ: 8": {
+      "en": "Examples: 8",
+      "zh": "实例:8"
+    },
+    "Ví dụ: tầng 3 hoặc B1": {
+      "en": "Examples: Level 3 or B1",
+      "zh": "例如:三级或B1级"
+    },
+    "Ví dụ: tầng 5 hoặc B2": {
+      "en": "Examples: Level 5 or B2",
+      "zh": "例如:5级或B2级"
     },
     "VẬN CHUYỂN HÀNG BẮC NAM": {
       "en": "THE FINAL BEST",
@@ -1163,6 +1755,18 @@
       "en": "About Us",
       "zh": "关于我们"
     },
+    "Vị trí bốc xếp đầu giao": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Vị trí bốc xếp đầu lấy": {
+      "en": "Headup position take",
+      "zh": "头部位置"
+    },
+    "Vị trí khác": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
     "Với sự phát triển không ngừng của nền kinh tế, nhu cầu vận chuyển hàng hóa ngày càng tăng cao. Ngành vận tải tại Đồng Nai cũng không nằm ngoài xu hướng đó. Nhờ sự đầu tư và nâng cấp không ngừng, các đơn vị vận tải đã cung cấp dịch vụ ngày càng chất lượng và chuyên nghiệp hơn, góp phần chung thúc đẩy về sự phát triển kinh tế và xã hội của địa phương.": {
       "en": "With the ongoing growth of the economy, the demand for freight grew. The shipping industry at the Plain of Nai is not beyond that trend. As a result of constant investment and upgrade, shipping units have provided increasing quality and professional services, contributing to the general motivation for local economic and social development.",
       "zh": "随着经济的持续增长,货运需求增长. 奈河平原的航运业没有超过这一趋势. 由于不断投入和升级,航运单位提供质量和专业服务不断提高,促进了地方经济社会发展的总体动力."
@@ -1215,9 +1819,29 @@
       "en": "Carlift:",
       "zh": "电梯:"
     },
+    "Xe côn tay": {
+      "en": "Handwheel",
+      "zh": "手轮"
+    },
+    "Xe ga": {
+      "en": "Train",
+      "zh": "火车"
+    },
     "Xe máy": {
       "en": "Motorcycles",
       "zh": "摩托车"
+    },
+    "Xe máy điện": {
+      "en": "Electrical Car",
+      "zh": "电动车"
+    },
+    "Xe phân khối lớn": {
+      "en": "Large block car",
+      "zh": "大块车"
+    },
+    "Xe số": {
+      "en": "Digital Car",
+      "zh": "数字车"
     },
     "Xe thùng đông lạnh:": {
       "en": "Coolbox car:",
@@ -1283,6 +1907,14 @@
       "en": "Archived YouTube",
       "zh": "存档 YouTube"
     },
+    "chiếc": {
+      "en": "car",
+      "zh": "汽车"
+    },
+    "cm": {
+      "en": "cm",
+      "zh": "厘米"
+    },
     "dịch vụ cho thuê xe tải chở hàng tại Đồng Nai đóng vai trò quan trọng trong việc thúc đẩy kinh tế địa phương, đáp ứng nhu cầu vận chuyển của các doanh nghiệp và người dân. Nhờ có dịch vụ này, hàng hóa được vận chuyển nhanh chóng, an toàn và hiệu quả đến đúng địa điểm.": {
       "en": "The delivery truck rental service at the Nai Plains played a significant role in promoting local economy, meeting the transportation needs of businesses and people. Thanks to this service, the goods were delivered quickly, safely, and effectively to the right place.",
       "zh": "奈平原的送货卡车租赁服务在促进当地经济,满足企业和人民的交通需求方面发挥了重要作用. 由于这项服务,货物被迅速、安全和有效地送到正确的地点。"
@@ -1291,9 +1923,33 @@
       "en": "The most prestigious truck rental service at the Council of Nai",
       "zh": "奈理事会最著名的卡车租赁服务"
     },
+    "kg": {
+      "en": "kg",
+      "zh": "千克( K)"
+    },
+    "kiện": {
+      "en": "lawsuit",
+      "zh": "诉讼"
+    },
     "là một trong những đơn vị cung cấp dịch vụ cho thuê xe tải chở hàng uy tín tại Đồng Nai và các tỉnh lân cận. Để có cái nhìn tổng quan và chi tiết hơn về dịch vụ của chúng tôi, bạn có thể tham khảo những thông tin sau:": {
       "en": "is one of the units that provides services for luxury truck rentals in Plain Nai and neighboring provinces. To take a more general and detailed view of our service, you can refer to the following information:",
       "zh": "在Plain Nai和邻近省份提供豪华卡车租赁服务的单位之一。 为了更概括,更详细地了解我们的服务,请参考以下信息:"
+    },
+    "m³": {
+      "en": "m3",
+      "zh": "立方米"
+    },
+    "ngày": {
+      "en": "Chile",
+      "zh": "地址"
+    },
+    "pallet": {
+      "en": "pallet",
+      "zh": "托盘"
+    },
+    "tank": {
+      "en": "tank",
+      "zh": "罐头"
     },
     "thị trường dịch vụ cho thuê xe tải chở hàng tại tỉnh Đồng Nai đang có rất nhiều tiềm năng để phát triển. Tuy nhiên, các DN cần nỗ lực không ngừng để nâng cao chất lượng dịch vụ, đổi mới công nghệ 4.0 và XD mối quan hệ tốt đẹp với KH để có thể tồn tại và phát triển bền vững hơn nữa trong môi trường cạnh tranh cao.": {
       "en": "The service market for trucking trucks in the province of Nai is having a lot of potential for development. However, the DN needs constant effort to enhance the quality of services, innovation of technology 0-4 and XD good relations with KH to be more sustainable and sustainable in the high competitive environment.",
@@ -1311,6 +1967,10 @@
       "en": "The use of trucking services at the Nai Plains brought many benefits, including many areas such as economics, environment, and society. This is a smart and efficient solution for individuals and businesses whose demand is for freight.",
       "zh": "在奈平原使用卡车服务带来了许多好处,包括经济,环境和社会等许多领域. 对于需求为货运的个人和企业来说,这是一个明智而有效的解决方案。"
     },
+    "xe": {
+      "en": "car",
+      "zh": "汽车"
+    },
     "xe tải chở hàng Đồng Nai": {
       "en": "đồngi bronze truck",
       "zh": "铜牌卡车"
@@ -1323,9 +1983,21 @@
       "en": "Applying technology to transport management, helping track the journey, reducing costs.",
       "zh": "应用技术进行运输管理,帮助跟踪行程,降低成本."
     },
+    "Áp dụng khi xe đã tới nơi và thông báo khách nhận nhưng khách chưa nhận được, hoặc khi đi giao mà khách không có mặt.": {
+      "en": "Apply when the car has arrived and informs the guests but the guests do not receive it, or when the delivery is not present.",
+      "zh": "乘车到达后通知客人,但客人不接受,或送货不在场。"
+    },
     "Đa dạng loại xe:": {
       "en": "Multiple car types:",
       "zh": "多种车型:"
+    },
+    "Đang tải dữ liệu…": {
+      "en": "Downloading data...",
+      "zh": "正在下载数据..."
+    },
+    "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
     },
     "Điều khoản công ty": {
       "en": "Company Terms",
@@ -1342,6 +2014,10 @@
     "Đóng": {
       "en": "Close",
       "zh": "关闭"
+    },
+    "Đóng gói đồ gia đình": {
+      "en": "Pack your bags",
+      "zh": "收拾东西"
     },
     "Đơn mới": {
       "en": "New Single",
@@ -1370,6 +2046,10 @@
     "Đơn vị nên có nhiều loại xe tải với tải trọng và kích thước khác nhau để đáp ứng nhu cầu đa dạng của khách hàng.": {
       "en": "The unit should have a variety of trucks with different weights and sizes to meet the client's diverse needs.",
       "zh": "单位应当有各种车型,车型重量和车型不同,以满足客户的不同需求."
+    },
+    "Đường sắt + đường bộ": {
+      "en": "Railroad + Route",
+      "zh": "铁路+路线"
     },
     "Được sử dụng rộng rãi để vận chuyển hàng hóa đi các tỉnh lân cận, vận chuyển hàng hóa cho các công ty sản xuất nhỏ và vừa.": {
       "en": "Used extensively to transport goods across neighboring provinces, shipping goods for small and moderate production companies.",
@@ -1411,6 +2091,18 @@
       "en": "For the most accurate and updated information, you should be directly involved with the Media.",
       "zh": "对于最准确和最新的信息,您应当直接参与媒体。"
     },
+    "ĐỊA CHỈ GỬI": {
+      "en": "PICKUP ADDRESS",
+      "zh": "取货地址"
+    },
+    "ĐỊA CHỈ NHẬN": {
+      "en": "DELIVERY ADDRESS",
+      "zh": "收货地址"
+    },
+    "Địa chỉ chi tiết": {
+      "en": "Street Address",
+      "zh": "详细地址"
+    },
     "Đối với cá nhân": {
       "en": "For Individuals",
       "zh": "个人"
@@ -1435,6 +2127,10 @@
       "en": "Coal Nai, with a strong geographical position and industrial development, facilitated the increasingly dynamic truck rental market.",
       "zh": "煤炭Nai具有很强的地理位置和工业发展,促进了日益活跃的卡车租赁市场。"
     },
+    "Đổi chiều vận chuyển": {
+      "en": "Change Transportation",
+      "zh": "改变运输"
+    },
     "Độ an toàn của hàng hóa": {
       "en": "The Safety of Communities",
       "zh": "社区安全"
@@ -1458,6 +2154,10 @@
     "Ưu đãi:": {
       "en": "Advantage:",
       "zh": "优点:"
+    },
+    "Ước tính chi phí vận chuyển đường sắt kết hợp đường bộ.": {
+      "en": "The cost of rail transport combined the road.",
+      "zh": "铁路运输成本相加."
     },
     "Ứng dụng của dịch vụ cho thuê xe tải chở hàng tại Đồng Nai": {
       "en": "Applications for the rental truck freight at the Plain Nai",

@@ -10,6 +10,10 @@
   ],
   "route": "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-may-tu-sai-gon-ra-ha-noi",
   "texts": {
+    "(Bọc xe tùy theo yêu cầu của khách hàng);": {
+      "en": "(Carking according to customer requirements);",
+      "zh": "(按客户要求行车);"
+    },
     "(Tùy theo yêu cầu của khách hàng);": {
       "en": "(President to customer requirements);",
       "zh": "(主席对客户的要求);"
@@ -46,6 +50,18 @@
       "en": "US$ 1.20,000",
       "zh": "120,000美元"
     },
+    "1.250.000đ": {
+      "en": "US$ 1.20,000",
+      "zh": "120,000美元"
+    },
+    "1.350.000đ": {
+      "en": "1,30,000.",
+      "zh": "13万块"
+    },
+    "1.450.000 đồng": {
+      "en": "$1.40,000.",
+      "zh": "14万块"
+    },
     "1.450.000đ": {
       "en": "1.40,000.",
       "zh": "1.40,000美元 (韩语)."
@@ -58,13 +74,29 @@
       "en": "- Yeah.",
       "zh": "- 对"
     },
+    "1.700.000đ": {
+      "en": "US$70,000",
+      "zh": "7万美元"
+    },
+    "1.800.000đ": {
+      "en": "US$80,000",
+      "zh": "80,000美元"
+    },
     "1.850.000đ": {
       "en": "US$80,000",
       "zh": "80 000美元"
     },
+    "1.900.000đ": {
+      "en": "US$90,000",
+      "zh": "9万美元"
+    },
     "100.000đ - 200.000đ": {
       "en": "100,000.",
       "zh": "十万.."
+    },
+    "100.000đ đối với xe số, 150.000đ đối với xe ga, 250.000đ đối với xe phân khối lớn": {
+      "en": "100,000 n's for the digital car, to the station car, 250,000 for the big block car.",
+      "zh": "10万n's为数字车,去站车,25万为大块车."
     },
     "16 Tháng 6 2024": {
       "en": "June 16, 2024",
@@ -78,6 +110,10 @@
       "en": "US$20,000",
       "zh": "20 000美元"
     },
+    "2.350.000đ": {
+      "en": "US$3.30,000",
+      "zh": "330 000美元"
+    },
     "500.000đ/m³": {
       "en": "500,000 x/m3",
       "zh": "500 000克/立方米"
@@ -90,9 +126,17 @@
       "en": "700,000 pm",
       "zh": "70万点"
     },
+    "800.000 đồng": {
+      "en": "US$80,000.",
+      "zh": "8万美元。"
+    },
     "800.000đ": {
       "en": "DUE",
       "zh": "杜伊语"
+    },
+    "900.000đ": {
+      "en": "900,000 p.",
+      "zh": "900,000页."
     },
     ": An toàn, nhanh chóng, phù hợp với nhu cầu vận chuyển xe máy cao cấp.": {
       "en": ": Safe, quick, in accordance with the need for high-level motor vehicles.",
@@ -713,6 +757,10 @@
     "Giá gửi xe máy từ Sài Gòn ra Hà Nội sẽ dao động khoảng từ": {
       "en": "The price of sending the motorcycle from Saigon to Hanoi will fluctuate from the word",
       "zh": "把摩托车从西贡送到河内的价格会从这个词波动"
+    },
+    "Giá gửi xe máy từ Sài Gòn ra Hà Nội sẽ dao động tối thiểu khoảng từ": {
+      "en": "The price of sending the motorcycle from Saigon to Hanoi will be the minimum range from",
+      "zh": "从西贡将摩托车送到河内的价格是最低的幅度:"
     },
     "Giá trị cốt lõi:": {
       "en": "Core value:",
