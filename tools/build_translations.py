@@ -388,7 +388,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False,only_urls=None):
     for path in previous.get('unvisited_routes', previous.get('unvisited_examples', [])):
         url=canonical(BASE+str(path))
         if valid_url(url):known_unvisited.add(url)
-    initial={BASE+'/'} | seeds | required_urls | known_unvisited
+    initial=({BASE+'/'} if only_urls is None else set()) | seeds | required_urls | known_unvisited
     def active_priority(url):
         return revisit_priority(url, known_unvisited)
     # A priority heap matters: newly discovered *missing* links must jump
