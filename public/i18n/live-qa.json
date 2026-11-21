@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-21T09:03:41.885291+00:00",
+  "tested_at": "2026-11-21T11:23:21.472334+00:00",
   "public_routes_total": 939,
-  "public_routes_verified": 871,
-  "public_routes_pending": 68,
+  "public_routes_verified": 877,
+  "public_routes_pending": 62,
   "public_routes_failed": 0,
   "failed_examples": [],
   "full_live_coverage_verified": false,
@@ -6072,9 +6072,9 @@
       }
     },
     "/blogs/gui-hang-bd-mien-bac": {
-      "fingerprint": "33248fd016bc697a",
+      "fingerprint": "7091367d9a5842fc",
       "status": "pass",
-      "checked_at": "2026-11-16T18:54:57.971021+00:00",
+      "checked_at": "2026-11-21T11:21:55.961733+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6338,9 +6338,9 @@
       }
     },
     "/blogs/gui-hang-bg-mien-nam": {
-      "fingerprint": "0848a174255dda59",
+      "fingerprint": "4cc6a059f4c0d3c6",
       "status": "pass",
-      "checked_at": "2026-11-16T19:18:45.488581+00:00",
+      "checked_at": "2026-11-21T11:22:05.725084+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6490,9 +6490,9 @@
       }
     },
     "/blogs/gui-hang-bn-mien-nam": {
-      "fingerprint": "a2d5fb6e74ca0fd6",
+      "fingerprint": "90289bb856e5ad09",
       "status": "pass",
-      "checked_at": "2026-11-16T19:39:59.147385+00:00",
+      "checked_at": "2026-11-21T11:22:13.957760+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6642,9 +6642,9 @@
       }
     },
     "/blogs/gui-hang-bp-mien-bac": {
-      "fingerprint": "2b549bda6d75d8c1",
+      "fingerprint": "5c3f1c5b142aff39",
       "status": "pass",
-      "checked_at": "2026-11-16T20:02:10.396565+00:00",
+      "checked_at": "2026-11-21T11:22:23.000272+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -6908,9 +6908,9 @@
       }
     },
     "/blogs/gui-hang-dn-mien-bac": {
-      "fingerprint": "4afffc586227e6e8",
+      "fingerprint": "facee04b8aef477f",
       "status": "pass",
-      "checked_at": "2026-11-16T20:42:58.882027+00:00",
+      "checked_at": "2026-11-21T11:22:35.679445+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7174,9 +7174,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-binh-duong": {
-      "fingerprint": "37a8e9950124bedc",
+      "fingerprint": "1609450e0714867b",
       "status": "pass",
-      "checked_at": "2026-11-16T21:26:07.626474+00:00",
+      "checked_at": "2026-11-21T11:22:46.579824+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7326,9 +7326,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-binh-phuoc": {
-      "fingerprint": "b0d4dc9bbab2251d",
+      "fingerprint": "f67a034520e3f09e",
       "status": "pass",
-      "checked_at": "2026-11-16T21:46:58.277861+00:00",
+      "checked_at": "2026-11-21T11:22:58.296904+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -7535,9 +7535,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-dong-nai": {
-      "fingerprint": "c67963b205086eb7",
+      "fingerprint": "ef90f6766619467d",
       "status": "pass",
-      "checked_at": "2026-11-16T22:09:02.576672+00:00",
+      "checked_at": "2026-11-21T11:23:21.446694+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17531,7 +17531,7 @@
     "/": {
       "fingerprint": "987a47b121a864a8",
       "status": "pass",
-      "checked_at": "2026-11-21T09:02:38.289255+00:00",
+      "checked_at": "2026-11-21T11:21:20.157793+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17569,7 +17569,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-21T09:02:50.812949+00:00",
+      "checked_at": "2026-11-21T11:21:47.055309+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17835,7 +17835,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-21T09:02:45.236375+00:00",
+      "checked_at": "2026-11-21T11:21:36.870152+00:00",
       "languages": {
         "en": {
           "ok": true,

@@ -283,6 +283,10 @@
     "en": "(In it the train is fixed and the bike pick-up and pick-up costs depend on each customer's requirements that will differ.)",
     "zh": "(其中列车是固定的,而自行车的取车和取车费用取决于每个顾客的不同要求. )"
   },
+  "(Tùy theo yêu cầu bọc xe của khách hàng).": {
+    "en": "(December on customer vehicle requirements).",
+    "zh": "(12月关于客户车辆要求)。"
+  },
   "(Tùy theo yêu cầu của khách hàng).": {
     "en": "(President at customer request).",
     "zh": "(主席应客户要求)。"
@@ -7030,6 +7034,10 @@
   "100.000đ - 200.000đ": {
     "en": "100,000.",
     "zh": "十万.."
+  },
+  "100.000đ đối với xe số, 150,000đ đối với xe ga, 250.000đ đối với xe phân khối lớn": {
+    "en": "100,000 for digital cars, 150,000 for railways, 250,000 for large block cars.",
+    "zh": "数字车10万辆,铁路15万辆,大块车25万辆."
   },
   "100.000đ đối với xe số, 150.000đ đối với xe ga, 250.000đ đối với xe phân khối lớn": {
     "en": "100,000 n's for the digital car, to the station car, 250,000 for the big block car.",
@@ -104507,6 +104515,10 @@
     "en": "Elements to Note as Long Line Transport",
     "zh": "长线运输"
   },
+  "Những yếu tố ảnh hưởng thời gian gửi hàng Hà Nội – Sài Gòn": {
+    "en": "Influence elements time sending Hanoi – Saigon",
+    "zh": "影响元素发送河内-西贡时间"
+  },
   "Những yếu tố ảnh hưởng đến giá vận chuyển hàng hóa": {
     "en": "Elements That Affect the Transport Price",
     "zh": "要件 影响运输价格"
@@ -127090,6 +127102,10 @@
   "Thời gian nhận hàng siêu nhanh chỉ 4 - 5 ngày.": {
     "en": "The time to pick up super fast was just four to five days.",
     "zh": "接超快车的时间只有四到五天."
+  },
+  "Thời gian nhận hàng thực tế có thể thay đổi theo lịch nhận hàng, phương thức vận chuyển, nơi lấy – giao và các yêu cầu xử lý lô hàng. Vì vậy, mốc thời gian trong bài chỉ nên dùng để tham khảo.": {
+    "en": "The actual delivery time may vary according to the delivery schedule, the transportation method, where the take – the delivery and the delivery requirements are handled. Thus, the timeline in this article should be used solely for reference.",
+    "zh": "实际交货时间可能因交货时间表、运输方法、收货方式——交货和交货要求——的不同而不同。 因此,该条的时限应仅供参考。"
   },
   "Thời gian nhận hàng trước giờ tàu chạy": {
     "en": "The time for the pick-up before the time of the train.",
@@ -183635,6 +183651,10 @@
     "en": "For convenience, you can enter freight information and transport routes into the following tool to estimate the cost quickly.",
     "zh": "为了方便,您可以将货运信息和运输线路输入以下工具来快速估算成本."
   },
+  "Để thuận tiện, quý khách có thể nhập thông tin hàng hóa và tuyến vận chuyển vào công cụ dưới đây để ước tính chi phí nhanh chóng. Nếu chỉ gửi xe máy thì chọn loại hàng hóa là xe máy và tuyến gửi hàng xe.": {
+    "en": "To be convenient, you can enter freight information and shipping routes into the tool below to estimate the cost quickly. If you send a motorcycle only, you can choose the type of goods that are motorcycles and the car route.",
+    "zh": "为了方便,您可以将货运信息和货运线路输入下面的工具,以快速估算成本. 仅发送摩托车的,可以选择属于摩托车的商品种类和汽车路线."
+  },
   "Để thân thiện với khách hàng, nhiều công ty vận chuyển đã tạo ra bảng giá để khách hàng có thể tham khảo trong quá trình vận chuyển. Nhưng làm thế nào để bạn tạo một báo giá vận chuyển xe tải chi tiết? Hãy tham khảo ngay mẫu bảng báo giá sau đây nhé.": {
     "en": "To be friendly with the customers, many shipping companies created the price sheet so that customers could refer to the transport process. But how do you create a detailed transport price? Please refer to the following panel.",
     "zh": "为了与客户友好,许多航运公司创建了价格表,以便客户可以参考运输过程. 但如何创造详细的运输价格? 请参看以下面板。"
@@ -183870,6 +183890,10 @@
   "Để xem tổng thể các dịch vụ địa phương và Bắc Nam, khách hàng có thể tham khảo": {
     "en": "To see the overall local and North South services, customers may refer to",
     "zh": "为了了解当地和南北服务的总体情况,客户可参考"
+  },
+  "Để xác nhận lịch phù hợp, hãy gửi thông tin loại hàng, khối lượng, điểm nhận và địa điểm giao cụ thể, cùng thời điểm cần nhận hàng. Thời gian dự kiến nên được thống nhất khi tiếp nhận yêu cầu.": {
+    "en": "To confirm the appropriate schedule, send information on the type of row, volume, destination, and specific delivery locations, at the same time to receive the package. The scheduled time should be unanimous upon receiving the request.",
+    "zh": "为确认适当的时间表,应同时发送关于行型、体积、目的地和具体交货地点的信息,以接收包裹。 在收到请求时,应一致同意预定时间。"
   },
   "Để xác định hướng Bắc – Nam bạn chỉ căn cứ vào hướng Đông và Tây theo quy luật hướng Nam kế tiếp hướng Đông theo chiều kim đồng hồ, và hướng Bắc kếp tiếp phương Tây.": {
     "en": "To locate the North – The South you base only on the East and West according to the following south-west law in clockwise, and north-west direction.",
