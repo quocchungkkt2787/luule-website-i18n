@@ -62,6 +62,22 @@ def sitemap_snapshot(session):
     return routes
 
 
+def include_known_public_routes(snapshot):
+    """Previously discovered live pages may be absent from Haravan sitemap."""
+    merged = dict(snapshot)
+    for path in base.PUBLIC.glob('*.json'):
+        # Skip metadata, shared dictionaries and special public search shell.
+        if path.name in ('audit.json', 'manifest.json', 'coverage.json',
+                         'live-qa.json', 'shared.json', 'previews.json',
+                         'search.json'):
+            continue
+        data = base.cached_json(path, {})
+        route = data.get('route')
+        if isinstance(route, str) and base.valid_url(base.BASE + route):
+            merged.setdefault(route, '')
+    return merged
+
+
 def pack_path(route):
     return base.PUBLIC / (base.route_id(route) + '.json')
 
@@ -103,13 +119,25 @@ def select_routes(snapshot, state, sample=SAMPLE, cap=MAX_PAGES):
     important = sorted(set(important), key=lambda x: (pack_path(x).is_file(), x))
     remaining = [r for r in sorted(snapshot) if r not in important and
                  pack_path(r).is_file()]
+    # Audit sitemap-less and no-lastmod URLs sooner; do not repeatedly scan
+    # every public page merely to catch small SEO edits.
+    no_marker = [r for r in remaining if not snapshot.get(r)]
+    with_marker = [r for r in remaining if snapshot.get(r)]
     cursor = int(state.get('cursor') or 0)
-    candidates = ([remaining[(cursor + i) % len(remaining)]
-                   for i in range(min(sample, len(remaining)))] if remaining else [])
+    no_cursor = int(state.get('no_marker_cursor') or 0)
+    no_take = min(len(no_marker), max(1, sample * 2 // 3)) if no_marker else 0
+    yes_take = max(0, sample - no_take)
+    candidates = []
+    if no_marker:
+        candidates += [no_marker[(no_cursor + i) % len(no_marker)]
+                       for i in range(no_take)]
+    if with_marker:
+        candidates += [with_marker[(cursor + i) % len(with_marker)]
+                       for i in range(min(yes_take, len(with_marker)))]
     chosen = list(dict.fromkeys(important + candidates))[:cap]
-    advance = min(sample, len(remaining))
-    next_cursor = (cursor + advance) % len(remaining) if remaining else 0
-    return chosen, next_cursor, previous, important
+    next_cursor = (cursor + yes_take) % len(with_marker) if with_marker else 0
+    next_no_cursor = (no_cursor + no_take) % len(no_marker) if no_marker else 0
+    return chosen, next_cursor, next_no_cursor, previous, important
 
 
 def update_report(snapshot, state, checked, rebuilt, failed, old_manifest, new_packs):
@@ -171,7 +199,7 @@ def main():
         return
     session = requests.Session()
     session.headers['User-Agent'] = 'LuuLePublicI18NDelta/1.0'
-    snapshot = sitemap_snapshot(session)
+    snapshot = include_known_public_routes(sitemap_snapshot(session))
     # Legacy full audits already identified deleted/redirected alias URLs.
     # Ignore those known aliases; they are not current articles to translate.
     legacy_coverage = base.cached_json(base.PUBLIC / 'coverage.json', {})
@@ -183,7 +211,7 @@ def main():
     snapshot = {route: mark for route, mark in snapshot.items()
                 if route not in inactive}
     state = base.cached_json(INDEX, {})
-    selected, cursor, baseline, important = select_routes(snapshot, state)
+    selected, cursor, no_cursor, baseline, important = select_routes(snapshot, state)
     print('Sitemap:', len(snapshot), 'new/updated/incomplete:', len(important),
           'selected this run:', len(selected), 'safety sample:', SAMPLE, flush=True)
     if not selected:
@@ -224,7 +252,7 @@ def main():
     state = {
         'version': 1, 'initialized': True, 'lastmods': lastmods,
         'fingerprints': fingerprints, 'pending': sorted(pending),
-        'cursor': cursor,
+        'cursor': cursor, 'no_marker_cursor': no_cursor,
         'last_run': datetime.now(timezone.utc).isoformat(),
     }
     update_report(snapshot, state, pages, to_build, failures, old_manifest, new_packs)
