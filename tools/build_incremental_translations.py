@@ -112,7 +112,7 @@ def select_routes(snapshot, state, sample=SAMPLE, cap=MAX_PAGES):
     return chosen, next_cursor, previous, important
 
 
-def update_report(snapshot, state, checked, rebuilt, failed):
+def update_report(snapshot, state, checked, rebuilt, failed, old_manifest, new_packs):
     """Restore global counts: base.build() processes only a DELTA of all pages."""
     manifest_path = base.PUBLIC / 'manifest.json'
     audit_path = base.PUBLIC / 'audit.json'
@@ -133,9 +133,10 @@ def update_report(snapshot, state, checked, rebuilt, failed):
                 count = int(pack.get('missing_count') or 0)
                 pending.append({'route': route, 'missing_count': count})
                 missing_strings += count
+    total_published = max(int(old_manifest.get('pages_published', 0)) + new_packs, published)
     manifest.update({
-        'pages_seen': published,
-        'pages_published': published,
+        'pages_seen': total_published,
+        'pages_published': total_published,
         'pages_pending': len(pending),
         'discovered_public_urls': len(snapshot),
         'site_coverage_complete': not pending and not failed,
@@ -144,7 +145,7 @@ def update_report(snapshot, state, checked, rebuilt, failed):
         'last_incremental_checked_routes': len(checked),
         'last_incremental_rebuilt_routes': len(rebuilt),
     })
-    audit.update({'pages_seen': published, 'pages_published': published,
+    audit.update({'pages_seen': total_published, 'pages_published': total_published,
                   'pages_pending': len(pending), 'missing_unique_texts': missing_strings,
                   'pending_pages': pending[:250]})
     coverage.update({'discovered_public_urls': len(snapshot),
@@ -171,6 +172,16 @@ def main():
     session = requests.Session()
     session.headers['User-Agent'] = 'LuuLePublicI18NDelta/1.0'
     snapshot = sitemap_snapshot(session)
+    # Legacy full audits already identified deleted/redirected alias URLs.
+    # Ignore those known aliases; they are not current articles to translate.
+    legacy_coverage = base.cached_json(base.PUBLIC / 'coverage.json', {})
+    inactive = {base.page_key(row.get('url')) for row in
+                legacy_coverage.get('inactive_redirects_or_404', [])
+                if isinstance(row, dict) and
+                row.get('reason') in ('not_found', 'redirect_alias') and
+                isinstance(row.get('url'), str)}
+    snapshot = {route: mark for route, mark in snapshot.items()
+                if route not in inactive}
     state = base.cached_json(INDEX, {})
     selected, cursor, baseline, important = select_routes(snapshot, state)
     print('Sitemap:', len(snapshot), 'new/updated/incomplete:', len(important),
@@ -196,6 +207,8 @@ def main():
         pending.discard(route)
     failures = sorted(set(selected) - set(pages))
     pending.update(failures)
+    old_manifest = base.cached_json(base.PUBLIC / 'manifest.json', {})
+    new_packs = sum(pack_info(route) is None for route in to_build)
     if to_build:
         base.build(to_build, max_new=MAX_NEW)
         # Preserve pending items if translation quota was hit or a phrase failed.
@@ -214,7 +227,7 @@ def main():
         'cursor': cursor,
         'last_run': datetime.now(timezone.utc).isoformat(),
     }
-    update_report(snapshot, state, pages, to_build, failures)
+    update_report(snapshot, state, pages, to_build, failures, old_manifest, new_packs)
     base.save_json(INDEX, state)
     print('DELTA DONE:', len(pages), 'fetched,', len(to_build),
           'updated packs,', len(pending), 'retry routes', flush=True)
