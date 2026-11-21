@@ -364,10 +364,13 @@ def collect_text_from_html(content, route=None):
     return strings,links
 
 
-def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
-    seeds=get_sitemap_urls(session)
-    print('Public URLs in sitemap:',len(seeds), flush=True)
-    required_urls={canonical(BASE+path) for path in REQUIRED_PUBLIC_ROUTES}
+def crawl_pages(session,max_pages,rate=0.3,use_browser=False,only_urls=None):
+    # Delta mode processes only explicitly detected changed/new public URLs.
+    # The legacy full-crawl mode remains available for manual disaster recovery.
+    seeds=get_sitemap_urls(session) if only_urls is None else set(only_urls)
+    print('Public URLs selected:',len(seeds), 'delta mode:',only_urls is not None,flush=True)
+    required_urls=({canonical(BASE+path) for path in REQUIRED_PUBLIC_ROUTES}
+                   if only_urls is None else set())
     for url in required_urls:
         if not valid_url(url):
             raise ValueError('Unsafe required URL: '+url)
@@ -379,7 +382,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
     # Carry over previously discovered but unvisited routes, including
     # linked blog pages absent from the sitemap. coverage.json contains only
     # public routes collected by previous successful crawling.
-    previous=cached_json(PUBLIC/'coverage.json', {})
+    previous=cached_json(PUBLIC/'coverage.json', {}) if only_urls is None else {}
     known_unvisited=set()
     # The full safe public-path list prevents starvation past 1,200 pages.
     for path in previous.get('unvisited_routes', previous.get('unvisited_examples', [])):
@@ -459,7 +462,7 @@ def crawl_pages(session,max_pages,rate=0.3,use_browser=False):
                 print(f'{len(result):>3} {route}: {len(texts)} public segments'+
                       (' (browser fallback)' if browser_ok and not request_ok else ''),
                       flush=True)
-                for link in sorted(links,key=active_priority):
+                for link in (sorted(links,key=active_priority) if only_urls is None else ()):
                     if link not in visited and link not in queued and valid_url(link):
                         heapq.heappush(queue,(active_priority(link),link))
                         queued.add(link)
