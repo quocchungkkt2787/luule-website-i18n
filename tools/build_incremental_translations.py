@@ -165,25 +165,16 @@ def select_routes(snapshot, state, sample=SAMPLE, cap=MAX_PAGES):
     important = sorted(set(important), key=lambda x: (pack_path(x).is_file(), x))
     remaining = [r for r in sorted(snapshot) if r not in important and
                  pack_path(r).is_file()]
-    # Audit sitemap-less and no-lastmod URLs sooner; do not repeatedly scan
-    # every public page merely to catch small SEO edits.
-    no_marker = [r for r in remaining if not snapshot.get(r)]
-    with_marker = [r for r in remaining if snapshot.get(r)]
+    # Haravan may leave <lastmod> unchanged after an editor updates body_html.
+    # Therefore rotate fairly through ALL cached public routes, not just
+    # routes with no lastmod. Each scheduled run checks a bounded slice.
     cursor = int(state.get('cursor') or 0)
-    no_cursor = int(state.get('no_marker_cursor') or 0)
-    no_take = min(len(no_marker), max(1, sample * 2 // 3)) if no_marker else 0
-    yes_take = max(0, sample - no_take)
-    candidates = []
-    if no_marker:
-        candidates += [no_marker[(no_cursor + i) % len(no_marker)]
-                       for i in range(no_take)]
-    if with_marker:
-        candidates += [with_marker[(cursor + i) % len(with_marker)]
-                       for i in range(min(yes_take, len(with_marker)))]
+    candidates = ([remaining[(cursor + i) % len(remaining)]
+                   for i in range(min(sample, len(remaining)))] if remaining else [])
     chosen = list(dict.fromkeys(important + candidates))[:cap]
-    next_cursor = (cursor + yes_take) % len(with_marker) if with_marker else 0
-    next_no_cursor = (no_cursor + no_take) % len(no_marker) if no_marker else 0
-    return chosen, next_cursor, next_no_cursor, previous, important
+    advance = min(sample, len(remaining))
+    next_cursor = (cursor + advance) % len(remaining) if remaining else 0
+    return chosen, next_cursor, cursor, previous, important
 
 
 def update_report(snapshot, state, checked, rebuilt, failed, old_manifest, new_packs):
