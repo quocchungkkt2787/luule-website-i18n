@@ -209,7 +209,11 @@ def update_report(snapshot, state, checked, rebuilt, failed, old_manifest, new_p
         'unique_public_texts': int(old_manifest.get('unique_public_texts', 0)),
         'unique_public_texts_is_baseline': True,
         'discovered_public_urls': len(snapshot),
-        'site_coverage_complete': not pending and not failed,
+        # Pack inventory and current-content verification are different:
+        # a "complete" OLD pack may not contain edits made yesterday.
+        'site_coverage_complete': (not pending and not failed and
+                                   len(state.get('fingerprints', {})) >= len(snapshot)),
+        'freshness_verified_routes': len(state.get('fingerprints', {})),
         'incremental_scan': True,
         'last_incremental_check': datetime.now(timezone.utc).isoformat(),
         'last_incremental_checked_routes': len(checked),
@@ -217,6 +221,8 @@ def update_report(snapshot, state, checked, rebuilt, failed, old_manifest, new_p
     })
     audit.update({'pages_seen': total_published, 'pages_published': total_published,
                   'pages_pending': len(pending), 'missing_unique_texts': missing_strings,
+                  'freshness_verified_routes': len(state.get('fingerprints', {})),
+                  'freshness_routes_total': len(snapshot),
                   'pending_pages': pending[:250]})
     coverage.update({'discovered_public_urls': len(snapshot),
                      'unvisited_without_existing_pack': sum(pack_info(r) is None for r in snapshot),
@@ -237,6 +243,15 @@ def main():
         assert child_text(next(iter(test_xml)), 'lastmod') == '2026-11-21T08:00:00Z'
         assert source_fingerprint({'x', 'y'}) == source_fingerprint({'y', 'x'})
         assert 'only_urls' in __import__('inspect').signature(base.crawl_pages).parameters
+        # A broken public sitemap (404 on Haravan) must not abort the task.
+        original_fetch = base.fetch
+        def simulate_missing_sitemap(*args, **kwargs):
+            raise requests.HTTPError('404 sitemap unavailable')
+        try:
+            base.fetch = simulate_missing_sitemap
+            assert sitemap_snapshot(object()) == {}
+        finally:
+            base.fetch = original_fetch
         print('PASS: incremental sitemap parsing, stable fingerprints, bounded crawl mode')
         return
     session = requests.Session()
