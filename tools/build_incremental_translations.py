@@ -45,8 +45,15 @@ def sitemap_snapshot(session):
         if url in seen or depth > 3:
             continue
         seen.add(url)
-        xml, final = base.fetch(session, url)
-        root = ET.fromstring(xml)
+        try:
+            xml, final = base.fetch(session, url)
+            root = ET.fromstring(xml)
+        except (requests.RequestException, ET.ParseError, ValueError) as exc:
+            # Haravan currently returns HTTP 404 for /sitemap.xml.
+            # An unavailable sitemap MUST NOT stop all new-content checks.
+            print('SITEMAP_UNAVAILABLE:', url, str(exc)[:160],
+                  '- using known routes + blog listings', flush=True)
+            continue
         if tag(root) == 'sitemapindex':
             for entry in root:
                 loc = child_text(entry, 'loc')
@@ -58,7 +65,8 @@ def sitemap_snapshot(session):
                 if base.valid_url(loc):
                     routes[base.page_key(base.canonical(loc))] = child_text(entry, 'lastmod')
     if not routes:
-        raise RuntimeError('No public sitemap routes; preserve previous translations and retry later')
+        print('Sitemap has no usable URLs; continuing with known public '
+              'translation routes and blog category discovery.', flush=True)
     return routes
 
 
@@ -76,6 +84,44 @@ def include_known_public_routes(snapshot):
         if isinstance(route, str) and base.valid_url(base.BASE + route):
             merged.setdefault(route, '')
     return merged
+
+
+def discover_recent_blog_routes(session, snapshot, state, limit=12):
+    """Find newly published public articles from blog listing pages.
+
+    No Haravan admin/API access is required. Only a bounded number of public
+    category pages is fetched per run. Existing article pages are not crawled.
+    """
+    from bs4 import BeautifulSoup
+    from urllib.parse import urljoin
+    categories = sorted({('/' + '/'.join(route.split('/')[1:3]))
+                         for route in snapshot if route.startswith('/blogs/')
+                         and route.count('/') >= 3})
+    if not categories:
+        return {}, 0
+    cursor = int(state.get('blog_cursor') or 0)
+    selected = [categories[(cursor + i) % len(categories)]
+                for i in range(min(limit, len(categories)))]
+    discovered = {}
+    for category in selected:
+        try:
+            resp = session.get(base.BASE + category, timeout=18)
+            resp.raise_for_status()
+            if base.page_key(resp.url) != category:
+                continue
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            for link in soup.select('a[href]'):
+                url = base.canonical(urljoin(base.BASE, link.get('href', '')))
+                if not base.valid_url(url):
+                    continue
+                route = base.page_key(url)
+                if (route.startswith(category + '/') and route.count('/') == 3):
+                    discovered[route] = ''
+        except requests.RequestException as exc:
+            print('Blog listing discovery warning:', category, str(exc)[:120],
+                  flush=True)
+    next_cursor = (cursor + len(selected)) % len(categories)
+    return discovered, next_cursor
 
 
 def pack_path(route):
@@ -216,6 +262,9 @@ def main():
     snapshot = {route: mark for route, mark in snapshot.items()
                 if route not in inactive}
     state = base.cached_json(INDEX, {})
+    newly_seen, blog_cursor = discover_recent_blog_routes(session, snapshot, state)
+    snapshot.update({route: value for route, value in newly_seen.items()
+                     if route not in snapshot})
     selected, cursor, no_cursor, baseline, important = select_routes(snapshot, state)
     print('Sitemap:', len(snapshot), 'new/updated/incomplete:', len(important),
           'selected this run:', len(selected), 'safety sample:', SAMPLE, flush=True)
@@ -258,6 +307,7 @@ def main():
         'version': 1, 'initialized': True, 'lastmods': lastmods,
         'fingerprints': fingerprints, 'pending': sorted(pending),
         'cursor': cursor, 'no_marker_cursor': no_cursor,
+        'blog_cursor': blog_cursor,
         'last_run': datetime.now(timezone.utc).isoformat(),
     }
     update_report(snapshot, state, pages, to_build, failures, old_manifest, new_packs)
