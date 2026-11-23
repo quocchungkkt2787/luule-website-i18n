@@ -58,6 +58,18 @@ def norm(value):
     return ' '.join(unicodedata.normalize('NFC', value or '').split())
 
 
+PRICE_RANGE = re.compile(r'^(\d{1,3}(?:\.\d{3})+)\s*VNĐ\s*[→–-]\s*(\d{1,3}(?:\.\d{3})+)\s*VNĐ$', re.I)
+
+
+def preserve_vnd_price_range(source):
+    """Keep VND prices exact; machine translation may hallucinate USD or MINUTES."""
+    match = PRICE_RANGE.fullmatch(norm(source))
+    if not match:
+        return None
+    low, high = (amount.replace('.', ',') for amount in match.groups())
+    return {'en': f'{low}–{high} VND', 'zh': f'{low}–{high} 越南盾'}
+
+
 def translatable(s):
     v = norm(s)
     # Internal URL paths and asset paths are identifiers, not translatable copy.
@@ -545,6 +557,11 @@ def build(pages,max_new=100000,demo=False):
             if (isinstance(row, dict) and all(isinstance(row.get(k), str)
                     and row[k].strip() for k in ('en', 'zh'))):
                 cache[source] = {'en':row['en'], 'zh':row['zh']}
+    # Do not let Argos corrupt price numbers or VND currency in future pages.
+    for source in all_candidates:
+        price_value = preserve_vnd_price_range(source)
+        if price_value is not None:
+            cache[source] = price_value
     missing_set={s for s in all_candidates if s not in cache or
                  not isinstance(cache[s],dict) or
                  not all(cache[s].get(k) for k in ('en','zh'))}
@@ -714,6 +731,9 @@ def main():
         sample_meta='<html><head><meta name="description" content="Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí."></head><body><article><p>Nội dung minh họa.</p></article></body></html>'
         collect_text_from_html(sample_meta,route='/blogs/van-chuyen/mau')
         assert 'Bài viết hướng dẫn vận chuyển hàng hóa an toàn từ Hà Nội vào Sài Gòn theo quy trình rõ ràng và tiết kiệm chi phí.' in SHARED_RELATED_SNIPPETS
+        assert preserve_vnd_price_range('2.500.000 VNĐ → 4.500.000 VNĐ')['en'] == '2,500,000–4,500,000 VND'
+        assert preserve_vnd_price_range('2.500.000 VNĐ → 4.500.000 VNĐ')['zh'] == '2,500,000–4,500,000 越南盾'
+        assert preserve_vnd_price_range('Chuyển nhà Bắc Nam') is None
         assert translatable('Vận chuyển hàng hóa Bắc Nam')
         key=route_id('/pages/tra-cuu-gia-cuoc-van-chuyen')
         assert key=='pages__tra-cuu-gia-cuoc-van-chuyen', key
