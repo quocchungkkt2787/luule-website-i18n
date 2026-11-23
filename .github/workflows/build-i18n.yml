@@ -23,7 +23,7 @@ on:
   schedule:
     # Daily maintenance: detect new or edited public pages.
     - cron: '17 3 * * *'
-    # Backup retry every 4 hours while translations remain (even after stall).
+    # Bounded change discovery every 4 hours, regardless of old pack totals.
     - cron: '47 */4 * * *'
 
 permissions:
@@ -84,9 +84,10 @@ jobs:
           # It still runs during normal daily/public-content checks.
           unfinished = any((pending_packs, partial_pages, missing_texts,
                             uncrawled_without_pack, fetch_errors))
-          # Every manual/push/daily run scans for NEW pages. The 4-hour backup
-          # also retries unfinished work even after a previously stalled chain.
-          do_build = (not fast) or unfinished
+          # The translation pack count can be 100% while a Haravan editor has
+          # just changed a page. Skip-free, bounded DELTA checks run every 4h
+          # and daily; they never trigger a recursive full-site build.
+          do_build = True
 
           print(f'Pending packs: {pending_packs}; partial pages: {partial_pages}; '
                 f'missing strings: {missing_texts}; unvisited missing packs: '
@@ -132,8 +133,8 @@ jobs:
       - name: Detect new or edited public pages and update only changed translations
         if: steps.gate.outputs.build == 'true'
         env:
-          LL_DELTA_MAX_PAGES: '150'
-          LL_DELTA_SAMPLE: '30'
+          LL_DELTA_MAX_PAGES: '160'
+          LL_DELTA_SAMPLE: '150'
           LL_MAX_NEW: '12000'
         run: python tools/build_incremental_translations.py
 
