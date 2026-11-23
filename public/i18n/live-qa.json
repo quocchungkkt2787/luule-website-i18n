@@ -1,12 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-21T11:23:21.472334+00:00",
+  "tested_at": "2026-11-23T04:05:10.861869+00:00",
   "public_routes_total": 939,
-  "public_routes_verified": 877,
-  "public_routes_pending": 62,
-  "public_routes_failed": 0,
-  "failed_examples": [],
+  "public_routes_verified": 878,
+  "public_routes_pending": 61,
+  "public_routes_failed": 1,
+  "failed_examples": [
+    "/search"
+  ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
@@ -8010,9 +8012,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-long-an": {
-      "fingerprint": "e55a83daeb8c73ed",
+      "fingerprint": "e45543a5662b9647",
       "status": "pass",
-      "checked_at": "2026-11-16T23:13:42.709092+00:00",
+      "checked_at": "2026-11-23T04:04:29.105054+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8466,9 +8468,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tay-ninh": {
-      "fingerprint": "2b9848ae78071d0d",
+      "fingerprint": "cda7c3c36c9aae55",
       "status": "pass",
-      "checked_at": "2026-11-17T00:17:46.550596+00:00",
+      "checked_at": "2026-11-23T04:04:35.001324+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -8808,9 +8810,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-tphcm": {
-      "fingerprint": "610d99db170776ef",
+      "fingerprint": "51e4f9fa611192b1",
       "status": "pass",
-      "checked_at": "2026-11-17T01:22:09.248851+00:00",
+      "checked_at": "2026-11-23T04:04:40.898469+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9188,9 +9190,9 @@
       }
     },
     "/blogs/gui-hang-ha-noi-kcn-vung-tau": {
-      "fingerprint": "5e485aee3a577e7b",
+      "fingerprint": "c40c282f3872ff1e",
       "status": "pass",
-      "checked_at": "2026-11-17T02:06:57.872489+00:00",
+      "checked_at": "2026-11-23T04:04:46.778193+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9416,9 +9418,9 @@
       }
     },
     "/blogs/gui-hang-hd-mien-nam": {
-      "fingerprint": "d20a985f108c7cd9",
+      "fingerprint": "d27e7237c4e9c1b1",
       "status": "pass",
-      "checked_at": "2026-11-17T02:54:09.191443+00:00",
+      "checked_at": "2026-11-23T04:04:52.553083+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9568,9 +9570,9 @@
       }
     },
     "/blogs/gui-hang-hn-bac-trung-bo": {
-      "fingerprint": "f3de1bee519fae0c",
+      "fingerprint": "8421fbab0fc83575",
       "status": "pass",
-      "checked_at": "2026-11-17T03:18:16.757973+00:00",
+      "checked_at": "2026-11-23T04:04:58.163004+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9701,9 +9703,9 @@
       }
     },
     "/blogs/gui-hang-hn-dong-nam-bo": {
-      "fingerprint": "d4fa8df1009acd5c",
+      "fingerprint": "3b81fc0e16de897b",
       "status": "pass",
-      "checked_at": "2026-11-17T03:19:05.547960+00:00",
+      "checked_at": "2026-11-23T04:05:04.185258+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -9815,9 +9817,9 @@
       }
     },
     "/blogs/gui-hang-hn-mien-nam": {
-      "fingerprint": "19bf0087f0d93094",
+      "fingerprint": "b49726a585826e63",
       "status": "pass",
-      "checked_at": "2026-11-17T03:44:43.715884+00:00",
+      "checked_at": "2026-11-23T04:05:10.822878+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17529,9 +17531,9 @@
       }
     },
     "/": {
-      "fingerprint": "987a47b121a864a8",
+      "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-21T11:21:20.157793+00:00",
+      "checked_at": "2026-11-23T04:04:10.844673+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17569,7 +17571,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-21T11:21:47.055309+00:00",
+      "checked_at": "2026-11-23T04:04:23.207646+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17834,13 +17836,19 @@
     },
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
-      "status": "pass",
-      "checked_at": "2026-11-21T11:21:36.870152+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-23T04:04:17.777833+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
