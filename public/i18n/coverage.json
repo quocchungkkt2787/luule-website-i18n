@@ -1,5 +1,5 @@
 {
-  "discovered_public_urls": 937,
+  "discovered_public_urls": 938,
   "inactive_redirects_or_404": [
     {
       "evidence": "HTTP: HTTP redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam; Browser: browser redirected to https://vantailuule.vn/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam",
@@ -272,7 +272,7 @@
       "url": "https://vantailuule.vn/blogs/tin-tuc/cach-boc-xe-may-de-van-chuyen"
     }
   ],
-  "last_delta_checked": 100,
+  "last_delta_checked": 101,
   "last_delta_failed": [],
   "missing_packs_in_discovered_routes": 0,
   "page_budget": 1200,

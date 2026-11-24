@@ -1,12 +1,13 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-24T05:04:09.470096+00:00",
-  "public_routes_total": 939,
-  "public_routes_verified": 910,
-  "public_routes_pending": 29,
-  "public_routes_failed": 1,
+  "tested_at": "2026-11-24T13:58:22.076759+00:00",
+  "public_routes_total": 940,
+  "public_routes_verified": 917,
+  "public_routes_pending": 23,
+  "public_routes_failed": 2,
   "failed_examples": [
+    "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026",
     "/search"
   ],
   "full_live_coverage_verified": false,
@@ -15783,9 +15784,9 @@
       }
     },
     "/blogs/ll-seo-gsc-ga4": {
-      "fingerprint": "89af4b28d1ad6103",
+      "fingerprint": "c78462d4549f1301",
       "status": "pass",
-      "checked_at": "2026-11-20T12:13:25.417536+00:00",
+      "checked_at": "2026-11-24T13:57:32.373336+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15859,9 +15860,9 @@
       }
     },
     "/blogs/thong-bao": {
-      "fingerprint": "b77f8eefd65d24f1",
+      "fingerprint": "d85ae9da0a67c869",
       "status": "pass",
-      "checked_at": "2026-11-17T18:58:02.261749+00:00",
+      "checked_at": "2026-11-24T13:57:38.668242+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -15915,6 +15916,37 @@
         }
       }
     },
+    "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026": {
+      "fingerprint": "1fa81be9db771c2c",
+      "status": "fail",
+      "checked_at": "2026-11-24T13:57:44.630011+00:00",
+      "languages": {
+        "en": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            ", công ty làm việc và tiếp nhận hàng hóa trở lại bình thường.",
+            ", người lao động được nghỉ làm việc và hưởng nguyên lương.",
+            "Công ty TNHH Vận Tải Lưu Lê chân thành cảm ơn Quý khách hàng và Quý đối tác đã luôn tin tưởng, đồng hành và sử",
+            "Công ty sẽ tiếp nhận và hỗ trợ theo điều kiện thực tế trong thời gian nghỉ lễ.",
+            "Công ty tiếp nhận và xử lý yêu cầu vận chuyển theo lịch làm việc bình thường đến hết ngày"
+          ],
+          "title": "Thông báo lịch nghỉ lễ Văn hoá Việt Nam 24/11/2026"
+        },
+        "zh": {
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            ", công ty làm việc và tiếp nhận hàng hóa trở lại bình thường.",
+            ", người lao động được nghỉ làm việc và hưởng nguyên lương.",
+            "Công ty TNHH Vận Tải Lưu Lê chân thành cảm ơn Quý khách hàng và Quý đối tác đã luôn tin tưởng, đồng hành và sử",
+            "Công ty sẽ tiếp nhận và hỗ trợ theo điều kiện thực tế trong thời gian nghỉ lễ.",
+            "Công ty tiếp nhận và xử lý yêu cầu vận chuyển theo lịch làm việc bình thường đến hết ngày"
+          ],
+          "title": "Thông báo lịch nghỉ lễ Văn hoá Việt Nam 24/11/2026"
+        }
+      }
+    },
     "/blogs/thong-bao/lich-nghi-tet-duong-lich-2022": {
       "fingerprint": "b0bb455048d9549c",
       "status": "pass",
@@ -15954,9 +15986,9 @@
       }
     },
     "/blogs/tuyen-dung": {
-      "fingerprint": "e611d4720f792b84",
+      "fingerprint": "80792849f8b1bb2b",
       "status": "pass",
-      "checked_at": "2026-11-17T18:58:41.124782+00:00",
+      "checked_at": "2026-11-24T13:57:51.281475+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16049,9 +16081,9 @@
       }
     },
     "/blogs/van-chuyen-bac-nam": {
-      "fingerprint": "886b29deaf7e7190",
+      "fingerprint": "dd32c474a4e9089b",
       "status": "pass",
-      "checked_at": "2026-11-17T19:21:05.339646+00:00",
+      "checked_at": "2026-11-24T13:57:59.450782+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16087,9 +16119,9 @@
       }
     },
     "/blogs/van-chuyen-bac-nam/chuyen-nha-bac-nam": {
-      "fingerprint": "b3801a1435b551e8",
+      "fingerprint": "b5e0ac7bbc4f4049",
       "status": "pass",
-      "checked_at": "2026-11-17T19:21:21.177661+00:00",
+      "checked_at": "2026-11-24T13:58:07.209955+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16125,9 +16157,9 @@
       }
     },
     "/blogs/van-chuyen-bac-nam/gia-cuoc-van-chuyen-hang-hoa-bac-nam": {
-      "fingerprint": "9ee410a76534dde9",
+      "fingerprint": "6a621fbe9d1baec5",
       "status": "pass",
-      "checked_at": "2026-11-20T12:13:10.745829+00:00",
+      "checked_at": "2026-11-24T13:58:14.546801+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16144,9 +16176,9 @@
       }
     },
     "/blogs/van-chuyen-bac-nam/gui-xe-may-bac-nam": {
-      "fingerprint": "3cf17e45b7838e08",
+      "fingerprint": "9d1567b06e70f114",
       "status": "pass",
-      "checked_at": "2026-11-19T03:06:08.568826+00:00",
+      "checked_at": "2026-11-24T13:58:22.042098+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17533,7 +17565,7 @@
     "/": {
       "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-24T05:02:57.127552+00:00",
+      "checked_at": "2026-11-24T13:57:13.323384+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17571,7 +17603,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-24T05:03:11.763313+00:00",
+      "checked_at": "2026-11-24T13:57:26.219700+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17837,7 +17869,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "fail",
-      "checked_at": "2026-11-24T05:03:05.191143+00:00",
+      "checked_at": "2026-11-24T13:57:20.694925+00:00",
       "languages": {
         "en": {
           "ok": false,
