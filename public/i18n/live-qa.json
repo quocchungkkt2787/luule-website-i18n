@@ -1,14 +1,14 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-24T13:58:22.076759+00:00",
+  "tested_at": "2026-11-24T19:47:05.697667+00:00",
   "public_routes_total": 940,
-  "public_routes_verified": 917,
-  "public_routes_pending": 23,
+  "public_routes_verified": 925,
+  "public_routes_pending": 15,
   "public_routes_failed": 2,
   "failed_examples": [
     "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026",
-    "/search"
+    "/blogs/van-chuyen-ha-noi-sai-gon"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
@@ -16366,28 +16366,32 @@
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon": {
-      "fingerprint": "38786cc9ebde9962",
-      "status": "pass",
-      "checked_at": "2026-11-17T20:04:50.927965+00:00",
+      "fingerprint": "22052807f2148b5e",
+      "status": "fail",
+      "checked_at": "2026-11-24T19:46:11.755390+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "450.000đ/m3 (cước tàu) + 600.000đ xe lấy"
+          ],
           "title": "Transporte of Hanoi Saigon"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "450.000đ/m3 (cước tàu) + 600.000đ xe lấy"
+          ],
           "title": "河内西贡运输公司"
         }
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/chuyen-nha-ha-noi-sai-gon": {
-      "fingerprint": "2ac25e42582f91c4",
+      "fingerprint": "8465cce2a94a3006",
       "status": "pass",
-      "checked_at": "2026-11-17T20:04:57.157391+00:00",
+      "checked_at": "2026-11-24T19:46:19.701056+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16442,9 +16446,9 @@
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/gui-hang-tu-ha-noi-vao-sai-gon-bao-lau": {
-      "fingerprint": "abe1ccd94a3fb5c9",
+      "fingerprint": "6d78b722d7259331",
       "status": "pass",
-      "checked_at": "2026-11-17T20:05:18.534914+00:00",
+      "checked_at": "2026-11-24T19:46:26.676403+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16461,9 +16465,9 @@
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon": {
-      "fingerprint": "e57f7b1ed7bff378",
+      "fingerprint": "57986855c193d970",
       "status": "pass",
-      "checked_at": "2026-11-19T03:28:23.345265+00:00",
+      "checked_at": "2026-11-24T19:46:34.803009+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16499,9 +16503,9 @@
       }
     },
     "/blogs/van-chuyen-ha-noi-sai-gon/phi-gui-hang-tu-ha-noi-vao-sai-gon": {
-      "fingerprint": "c367b51246178e7c",
+      "fingerprint": "5635ccadcf4212a3",
       "status": "pass",
-      "checked_at": "2026-11-19T14:15:34.398712+00:00",
+      "checked_at": "2026-11-24T19:46:42.305402+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16518,9 +16522,9 @@
       }
     },
     "/blogs/van-chuyen-lien-tinh": {
-      "fingerprint": "0dc2ae0d231d66c1",
+      "fingerprint": "bcafaa37b514af88",
       "status": "pass",
-      "checked_at": "2026-11-17T20:26:55.183438+00:00",
+      "checked_at": "2026-11-24T19:46:50.021180+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16575,9 +16579,9 @@
       }
     },
     "/blogs/van-chuyen-logistics": {
-      "fingerprint": "627ec4d9afa43f0d",
+      "fingerprint": "23e5d0715e405724",
       "status": "pass",
-      "checked_at": "2026-11-17T20:27:17.990548+00:00",
+      "checked_at": "2026-11-24T19:46:57.405469+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16651,9 +16655,9 @@
       }
     },
     "/blogs/van-chuyen-noi-dia": {
-      "fingerprint": "30ff962441a4d25d",
+      "fingerprint": "3c9defe51c4ee861",
       "status": "pass",
-      "checked_at": "2026-11-17T20:50:33.565054+00:00",
+      "checked_at": "2026-11-24T19:47:05.658572+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17565,7 +17569,7 @@
     "/": {
       "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-24T13:57:13.323384+00:00",
+      "checked_at": "2026-11-24T19:45:47.729499+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17603,7 +17607,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-24T13:57:26.219700+00:00",
+      "checked_at": "2026-11-24T19:46:01.899374+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17868,19 +17872,13 @@
     },
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
-      "status": "fail",
-      "checked_at": "2026-11-24T13:57:20.694925+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-24T19:45:55.646143+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
-            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
-            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
-            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
