@@ -179,6 +179,10 @@
       "en": "450,000 dm/m3 (the ship) + 4000 car take",
       "zh": "450 000 dm/m3(船舶)+4 000辆汽车"
     },
+    "450.000đ/m3 (cước tàu) + 600.000đ xe lấy + 500.000đ xe giao": {
+      "en": "450,000 dt/m3 (the train board) +4000 car for plus 500,000 bikes",
+      "zh": "450 000 dt/m3(火车板)+4 000辆汽车,用于增加50万辆自行车"
+    },
     "450.000đ/m3 (hàng nhẹ)": {
       "en": "450,000 dm/m3 (light row)",
       "zh": "450 000 dm/m3(轻行)"
@@ -1650,6 +1654,10 @@
     "Số lượng hàng < 2 tấn (cước tàu + xe lấy + xe giao)": {
       "en": "The number of goods / 2 tonnes (the ship + car get + car delivered)",
       "zh": "货物数量/ 2吨(船舶+汽车获得+交付的汽车)"
+    },
+    "Số lượng hàng <= 10m3 (cước tàu + xe lấy + xe giao)": {
+      "en": "The number of goods=10 m3 (the vessel + car grabs + car delivery)",
+      "zh": "货物数量=10立方米(船只+抓车+送车)"
     },
     "Số lượng hàng <= 2 tấn (cước tàu + xe lấy + xe giao)": {
       "en": "The number of goods=2 tons (the ship + car grabs + car transfer)",
