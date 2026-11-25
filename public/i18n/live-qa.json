@@ -1,10 +1,10 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-24T19:47:05.697667+00:00",
+  "tested_at": "2026-11-25T03:49:49.099945+00:00",
   "public_routes_total": 940,
-  "public_routes_verified": 925,
-  "public_routes_pending": 15,
+  "public_routes_verified": 933,
+  "public_routes_pending": 7,
   "public_routes_failed": 2,
   "failed_examples": [
     "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026",
@@ -16750,9 +16750,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi": {
-      "fingerprint": "f239b77d8722deee",
+      "fingerprint": "6b56e9cd22c31924",
       "status": "pass",
-      "checked_at": "2026-11-17T20:51:14.271413+00:00",
+      "checked_at": "2026-11-25T03:49:01.085241+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16769,9 +16769,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/chuyen-nha-sai-gon-ha-noi": {
-      "fingerprint": "e3b8c3893eb11541",
+      "fingerprint": "c5903aed87c011fe",
       "status": "pass",
-      "checked_at": "2026-11-17T20:51:22.715126+00:00",
+      "checked_at": "2026-11-25T03:49:07.856878+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16807,9 +16807,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {
-      "fingerprint": "00ad9cd2e08630c6",
+      "fingerprint": "f51a8b3012e093e3",
       "status": "pass",
-      "checked_at": "2026-11-19T14:15:40.505191+00:00",
+      "checked_at": "2026-11-25T03:49:14.878401+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16883,9 +16883,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-may-tu-sai-gon-ra-ha-noi": {
-      "fingerprint": "5a8be519fd664f7c",
+      "fingerprint": "d205f1c24b453f8a",
       "status": "pass",
-      "checked_at": "2026-11-20T12:13:18.496111+00:00",
+      "checked_at": "2026-11-25T03:49:21.868283+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16921,9 +16921,9 @@
       }
     },
     "/blogs/van-chuyen-tphcm-mien-bac": {
-      "fingerprint": "63c29b92a6a1e433",
+      "fingerprint": "36cac1e194898256",
       "status": "pass",
-      "checked_at": "2026-11-17T21:11:56.875611+00:00",
+      "checked_at": "2026-11-25T03:49:29.336878+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17206,9 +17206,9 @@
       }
     },
     "/blogs/van-chuyen-tphcm-mien-trung": {
-      "fingerprint": "5e2127400858eca5",
+      "fingerprint": "3895bd2b495bd762",
       "status": "pass",
-      "checked_at": "2026-11-17T21:55:40.213881+00:00",
+      "checked_at": "2026-11-25T03:49:35.930371+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17263,9 +17263,9 @@
       }
     },
     "/blogs/videos": {
-      "fingerprint": "4902ae1e6d73c126",
+      "fingerprint": "ec0f0ca1e41c7385",
       "status": "pass",
-      "checked_at": "2026-11-17T22:15:49.837945+00:00",
+      "checked_at": "2026-11-25T03:49:42.153157+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17301,9 +17301,9 @@
       }
     },
     "/blogs/xe-tai-cho-hang-bac-nam": {
-      "fingerprint": "a41e26d32bd7f914",
+      "fingerprint": "0400f4bc7550e5ff",
       "status": "pass",
-      "checked_at": "2026-11-17T22:16:04.036728+00:00",
+      "checked_at": "2026-11-25T03:49:49.064499+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17569,7 +17569,7 @@
     "/": {
       "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-24T19:45:47.729499+00:00",
+      "checked_at": "2026-11-25T03:48:40.813291+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17607,7 +17607,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-24T19:46:01.899374+00:00",
+      "checked_at": "2026-11-25T03:48:53.319956+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17873,7 +17873,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-24T19:45:55.646143+00:00",
+      "checked_at": "2026-11-25T03:48:47.629189+00:00",
       "languages": {
         "en": {
           "ok": true,
