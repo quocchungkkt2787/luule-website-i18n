@@ -1,12 +1,13 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-25T13:11:31.774853+00:00",
+  "tested_at": "2026-11-25T15:06:57.420428+00:00",
   "public_routes_total": 940,
-  "public_routes_verified": 929,
-  "public_routes_pending": 11,
-  "public_routes_failed": 4,
+  "public_routes_verified": 931,
+  "public_routes_pending": 9,
+  "public_routes_failed": 5,
   "failed_examples": [
+    "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi",
     "/blogs/thong-bao",
     "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026",
     "/blogs/van-chuyen-ha-noi-sai-gon",
@@ -16,20 +17,24 @@
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
-      "fingerprint": "a1f4255bc2bce648",
-      "status": "pass",
-      "checked_at": "2026-11-21T08:57:20.771110+00:00",
+      "fingerprint": "b69b47a79ea3e09b",
+      "status": "fail",
+      "checked_at": "2026-11-25T15:06:02.067688+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Ngoài ra. Để biết chính xác giá cước chuyển nhà, quý khách vui lòng điền thông tin đầy đủ vào bảng tính cước b"
+          ],
           "title": "House Transfer Table 2026 MEDI TP.HCM & North South"
         },
         "zh": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Ngoài ra. Để biết chính xác giá cước chuyển nhà, quý khách vui lòng điền thông tin đầy đủ vào bảng tính cước b"
+          ],
           "title": "表2026 MEDI TP.HCM 和 南北"
         }
       }
@@ -16827,9 +16832,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gia-ship-hang-tu-tphcm-ra-ha-noi": {
-      "fingerprint": "f51a8b3012e093e3",
+      "fingerprint": "fd58ff5e45632ec4",
       "status": "pass",
-      "checked_at": "2026-11-25T03:49:14.878401+00:00",
+      "checked_at": "2026-11-25T15:06:09.355155+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -16903,9 +16908,9 @@
       }
     },
     "/blogs/van-chuyen-sai-gon-ha-noi/gui-xe-may-tu-sai-gon-ra-ha-noi": {
-      "fingerprint": "d205f1c24b453f8a",
+      "fingerprint": "cab0b0a17a91a204",
       "status": "pass",
-      "checked_at": "2026-11-25T03:49:21.868283+00:00",
+      "checked_at": "2026-11-25T15:06:16.894218+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17340,9 +17345,9 @@
       }
     },
     "/blogs/xe-tai-cho-hang-binh-duong": {
-      "fingerprint": "4a8926a5929e1c40",
+      "fingerprint": "2511b03c76a5c116",
       "status": "pass",
-      "checked_at": "2026-11-17T22:16:11.882689+00:00",
+      "checked_at": "2026-11-25T15:06:24.335843+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17359,9 +17364,9 @@
       }
     },
     "/blogs/xe-tai-cho-hang-di-tinh": {
-      "fingerprint": "c1e9bdff61f33058",
+      "fingerprint": "36d6b6affc3fb1b4",
       "status": "pass",
-      "checked_at": "2026-11-17T22:16:18.511126+00:00",
+      "checked_at": "2026-11-25T15:06:31.913750+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17378,9 +17383,9 @@
       }
     },
     "/blogs/xe-tai-cho-hang-dong-nai": {
-      "fingerprint": "df8ec7d6f89b315e",
+      "fingerprint": "f7c9429a90468246",
       "status": "pass",
-      "checked_at": "2026-11-17T22:16:26.356043+00:00",
+      "checked_at": "2026-11-25T15:06:42.199281+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17397,9 +17402,9 @@
       }
     },
     "/blogs/xe-tai-cho-hang-tphcm": {
-      "fingerprint": "f9b1d0e53c5534bb",
+      "fingerprint": "9b29db9752ebe306",
       "status": "pass",
-      "checked_at": "2026-11-17T22:16:33.335358+00:00",
+      "checked_at": "2026-11-25T15:06:49.666376+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17416,9 +17421,9 @@
       }
     },
     "/blogs/xe-tai-nho-cho-hang": {
-      "fingerprint": "b6b724bd12db8875",
+      "fingerprint": "7ee094b234b5d501",
       "status": "pass",
-      "checked_at": "2026-11-17T22:38:00.558734+00:00",
+      "checked_at": "2026-11-25T15:06:57.382555+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17589,7 +17594,7 @@
     "/": {
       "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-25T13:10:23.016145+00:00",
+      "checked_at": "2026-11-25T15:05:39.279343+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17627,7 +17632,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-25T13:10:35.799749+00:00",
+      "checked_at": "2026-11-25T15:05:53.358591+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17893,7 +17898,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-25T13:10:29.878554+00:00",
+      "checked_at": "2026-11-25T15:05:47.220744+00:00",
       "languages": {
         "en": {
           "ok": true,

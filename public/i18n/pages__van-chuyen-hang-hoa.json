@@ -3,6 +3,18 @@
   "missing_count": 0,
   "route": "/pages/van-chuyen-hang-hoa",
   "texts": {
+    "(Đã bao gồm VAT 8%)": {
+      "en": "(including VAT 8)",
+      "zh": "(包括增值税8)"
+    },
+    "* 4 – 5 ngày": {
+      "en": "* 4 – 5 days",
+      "zh": "* 4 -- -- 5天"
+    },
+    "+ THÊM LOẠI HÀNG": {
+      "en": "+ MINUTE",
+      "zh": "+分钟"
+    },
     ", chẳng hạn:": {
       "en": "For example:",
       "zh": "例如:"
@@ -19,6 +31,10 @@
       "en": "Yeah. This is a line of interest in many businesses, agents, and distributors when it is necessary to bring the goods from the North into the West Plain region to serve production, business and consumption.",
       "zh": "对 这是许多企业、代理商和经销商在有必要将北方货物运入西平原地区为生产、商业和消费服务时所关心的问题。"
     },
+    "0đ": {
+      "en": "0D",
+      "zh": "零点"
+    },
     "1 tấn.": {
       "en": "One ton.",
       "zh": "一个吨。"
@@ -30,6 +46,10 @@
     "500 kg.": {
       "en": "500 kg.",
       "zh": "五百公斤(约一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一等一"
+    },
+    "500.000đ/m³": {
+      "en": "500,000 x/m3",
+      "zh": "500 000克/立方米"
     },
     ">>> Xem chi tiết:": {
       "en": "> DSV See Details:",
@@ -46,6 +66,10 @@
     "BLOG": {
       "en": "Blog",
       "zh": "博客"
+    },
+    "BMW Motorrad": {
+      "en": "Bentley Motorrad",
+      "zh": "宾特利摩托拉德"
     },
     "Bao bì cần đủ chắc chắn cho toàn bộ hành trình.": {
       "en": "The envelope needs to be solid enough for the entire journey.",
@@ -131,6 +155,10 @@
       "en": "Truck Freight Rates",
       "zh": "货车运输价格表"
     },
+    "Bảng vùng cước đã sẵn sàng. Kết quả xuất hiện ngay khi bấm tính cước.": {
+      "en": "Placeboard is ready. The results came out as soon as you hit the card.",
+      "zh": "板子准备好了 你一打出牌,结果就出来了"
+    },
     "Bắc Giang.": {
       "en": "North Jiang.",
       "zh": "北江报."
@@ -147,9 +175,29 @@
       "en": "North – Middle.",
       "zh": "北–中区."
     },
+    "Bắt buộc xác nhận phương án bọc bảo vệ xe": {
+      "en": "Forced to confirm plan to secure the vehicle",
+      "zh": "被迫确认保护车辆的计划"
+    },
     "Bắt đầu tư vấn": {
       "en": "Start consulting",
       "zh": "开始咨询"
+    },
+    "Bọc bảo vệ xe": {
+      "en": "Car Guard",
+      "zh": "车警"
+    },
+    "Bọc bảo vệ xe gửi kèm": {
+      "en": "car security attached",
+      "zh": "汽车安全"
+    },
+    "Bốc xếp đầu giao": {
+      "en": "Bulk head off.",
+      "zh": "散头去."
+    },
+    "Bốc xếp đầu lấy": {
+      "en": "Get your head up",
+      "zh": "抬起头来"
     },
     "C94 KNO Thới An, Đường Lê Thị Riêng, Khu Phố 3, Phường Thới An, TpHCM.": {
       "en": "C94 KNO FOR AN, The Private Lecture Line, 3rd Street, AND AN, TpHCM.",
@@ -175,6 +223,14 @@
       "en": "POLICIES",
       "zh": "政策"
     },
+    "CHỐT ĐƠN NGAY": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "CHỐT ĐƠN VẬN CHUYỂN": {
+      "en": "I'll be there.",
+      "zh": "我会在那里。"
+    },
     "Cam kết của chúng tôi": {
       "en": "Our Commitments",
       "zh": "我们的承诺"
@@ -182,6 +238,10 @@
     "Chat Zalo Vận Tải Lưu Lê": {
       "en": "Chat with Luu Le Transport on Zalo",
       "zh": "通过 Zalo 联系 Luu Le 运输公司"
+    },
+    "Chi phí chờ hàng: thỏa thuận theo thời gian và điều kiện thực tế.": {
+      "en": "Supplies costs: deal over time and actual conditions.",
+      "zh": "用品费用:随时间和实际条件处理。"
     },
     "Chi phí giao hàng.": {
       "en": "The delivery costs.",
@@ -199,6 +259,10 @@
       "en": "Cost.",
       "zh": "费用。"
     },
+    "Chi tiết dự tính": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
+    },
     "Chiều": {
       "en": "Evening",
       "zh": "晚间"
@@ -207,9 +271,21 @@
       "en": "Height.",
       "zh": "身高较高."
     },
+    "Chiều cao/kiện": {
+      "en": "Height per Package",
+      "zh": "每件高度"
+    },
+    "Chiều dài/kiện": {
+      "en": "Length per Package",
+      "zh": "每件长度"
+    },
     "Chiều ngược lại từ Hà Nội vào TP.HCM cũng là tuyến vận chuyển thường xuyên.": {
       "en": "The opposite from Hanoi to TP.HCM is also a regular transport route.",
       "zh": "从河内到TP.HCM的相反也是一条常规运输路线."
+    },
+    "Chiều rộng/kiện": {
+      "en": "Width per Package",
+      "zh": "每件宽度"
     },
     "Chuyển kho xưởng Hà Nội → Sài Gòn": {
       "en": "Warehouse & Factory Relocation from Hanoi to Saigon",
@@ -263,6 +339,10 @@
       "en": "Moving the package house is the solution to the family, individuals, and businesses moving the entire package from the old venue or new venue to a unified process, rather than having to rent their own car, looking for someone who stirs, buying things packed and handling individual jobs. For the move to take a favorable course, it is necessary to coordinate several steps: Surveyive (10-10- > sorting (10-packs) (10-10-11) Transportation (10-11). With trips in TP.HCM, critical elements are often car time frames, apartments, elevators, and set-up conditions. With the move of North Vietnam, the shipping business has to include long distances, vehicles, mediums, and protections throughout the journey. Packed. Bedsteads, cabinets, desks. TVs, refrigerators, washing machines.Bic. If you have packed your own package, you can only rent car + for transport. Thus, “all packages should be understood as a plan to be fully organized according to the needs of the customers, not a fixed package similar to all families. They need different ways of handling things. Embern needs to fight dams. The refrigeration needs to be fixed. The break-up suit needs to be closed separately. The table screw should be collected and marked. This helps reduce lost and shortened the time re-established at the new home.Quy's full-home transfer program at the CVMMMS 1: Retrieves the supply information: The IP only delivers. The date is intended. the amount of items. http://://www.g.g.g.g. There's an elevator or not. Do you need a package? Do you need to unmount it? Step 2: Surveyed or assessed through small-house images, photos and videos can be sufficient for preliminary evaluations. With many items, villas, or a wide variety of items, a practical survey helps determine: m3 (10.10.1.1.1. Step 3: Classifications Can Be Divided: The Electronics – The Inductives – Personal Stuff – Common Bins. This helps layout the order to pack and organize cars.MMMM Step 4: The price of moving a full package should be made clear: Caro. Workers. Packing. Get your stuff upstairs. Step 5: Pack and unmount Tavi, screen, breakable items are privately protected. p.g., cabinet, or table can be removed if a volume is needed.MMMM Step 6: Putting on the heavy car and probably placing below. Step 7: Transit Transport Line, Media Lavey can use trucks or combine railroads to the North South.TM Step 8: What's the deal with the Transition of the Bins, Large Things and Important Propertys Before the Dealing Table. How's the Packing House? The package move is subject to multiple factors: The Elements Elements of the Issues, M3, the weight of Car Types, the number of Interior Roads, the United States, the North Human Resources, the time of the elevators, the time of the elevators or non-constructionion of the Resolved Buildings, the Cens should compare the total cost from the old house to the new house to the new house, instead of just asking for the price. View Details: The move of the full home package number of TP.HCM With the move of the TP.HCM house, the difficulty is not usually at the distance in which the delivery conditions are made. Examples: The residence must register. The load is limited time. the LM does not close to the hall. The limit has a height limit. Thang machine must schedule. >> Detailed View: Move the TP.HCMTCCCCTC home package of North South North South need to be better prepared because of the long travel time. Possible use: Live transport or carloading (6-carcars). Electronics, woodware, and fragile items need to be better packed than internal conversions.] >> See the details: Move North South Korea Houses Saigon provinces This is a very broad group of demand groups. View details: Move the Saigon residence to the U.S. Department of Family and Business Offices with different needs. With the transfer of the package office, focus is usually located in: Computer.gt.1.140 seats.time delay.com.com.com.com.com.com.com. Detailed view: Move full-size warehouse with warehouses, higher complexity due to existing: Machines.Pallet. https://www.golvel.consistencies.composed. >> View Details: Move Full Store Archives How can you move less expensive package houses? Three most important things: Tell enough items – confirm the service range – check the initial two conditions. If you first report 20 barrels but in fact 50 barrels, notice the price is very easy to change. The CBS also needs to be asked: Is the set up already included? Has the installation already been included? Does the installation already included? Move North South. Motors. Metal.Bic stack..gt.mount as needed.commodation of motorcycles and items. https://www.god is built on: Stuff (\"M3\") Address- > Media - > Time Range. The value of moving the package house should be sent to: The Is only taken. The Is only delivered. http://www://www.godical list.day transfer.selection, package-packing, unmounting.the question is usually about moving the whole package Move the full-packing house including packages? http://www.gods.gov Do you accept the move to the North South? Is there any transport of the same motor vehicle? Can you pack your things and rent your cars? yes. The argument is: Moving the package house needs a plan that suits each family. An effective package transfer must be resolved at the same time: Packing – Packing – Media – Time – Delivering. Without a single package suitable for all clients. http://www.golaunch Archives build plans based on actual shipments and routes.Hotline: 0909 81 6625",
       "zh": "搬走包裹屋是解决家庭,个人,企业将整个包裹从旧会所或新会所转移到统一过程,而不是不得不自己租车,寻找打搅,购买包装物品和处理个人工作的人. 为了采取有利的行动,有必要协调几个步骤:调查(10-10- > 排序(10-包)(10-10-11) 运输(10-11)。 随着TP.HCM的出行,关键元素往往有汽车时间框架,公寓,电梯,以及设置条件等. 随着北越的迁入,通航业务必须包括长途,车辆,中道,以及全程的保护. 包装。 床垫 柜子 桌子 电视机 冰箱 洗衣机 毕克. 如果你已经打包了,只能租车+运输. 因此,“所有包裹应被理解为根据顾客的需要充分安排的计划,而不是类似于所有家庭的固定包裹。 他们需要不同的处理方式 Embern需要与水坝战斗。 冷藏室需要修复。 分相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相 台螺应当采集并作标记. 这有助于减少损失并缩短在新住宅重建的时间。 Quy在CVMMS 1的全家转会计划:检索供应信息:IP只提供. 日期是预定的。 数量。 http://www.g.g.g.g. (中文(简体) ). 还有电梯么. 你需要包裹吗? 你需要卸载吗? 步骤2:通过小屋图像、相片和录像进行调查或评估,足以进行初步评价。 利用许多物品,别墅,或多种物品,实际调查有助于确定:m3(10.10.1.1.1. 第3步:分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分 这有助于排出车厢包装和组织秩序. MMM 第4步:移动一整包的价格应明确:卡罗. 工人们 包装 把东西拿上楼 第5步:包装和卸载Tavi,屏幕,可拆卸物品受到私人保护. p.g.,柜子,或者如果需要一卷,可以去掉表格. MMM 第6步:放入重车并可能放入下方. 第7步:过境运输线,Media Lawey可以使用卡车或将铁路合并到南北. TM 第8步:在交易表之前,与宾人,大事和重要地产的过渡有什么关系. 包装所怎么样? 包裹移动有多种因素:\"问题元素\",M3,\"车型\"的重量,\"内地道路\",\"美国\",\"北方人力资源\",\"电梯时间\",\"电梯时间\"或\"解楼\"的\"非建造时间\",\"君子\"应把从旧房到新房的总成本比作\"新房\",而不是仅仅要求价格. 查看细节 : TP.HCM全家用包号的移动 随着TP.HCM住宅的移动,困难通常不在于交货条件的形成距离. 例如:住所必须登记。 载荷有限. LM不靠近大厅。 限有高限. 汤格机器必须安排好时间 >> 详细视图:移动北南南的TP.HCMTCCCTC家庭套餐,由于出行时间长需要更好的准备. 可能用途:活地运输或装车(6辆). 电子、木器和易碎物品需要比内部转换更好的包装。 ] 详情参见:移走朝鲜的西贡府. 这是一个非常广泛的需求群体。 取景细节:将西贡官邸迁至需求不同的美国家庭与商务局. 随着软件包办公室的转移,焦点通常位于: Computer.gt 1.140 sits.time delay.com.com.com.com.com.com.com.com. 详细视图:将全尺寸仓库与仓库一起移动,因有:机器而更复杂. 帕莱特 https://www.golvel.consistencies.composed. [永久失效連結] (中文(简体) ). 查看细节: 移动完整存储归档 你怎能搬走比较便宜的套房? 三个最重要的事情: 告诉足够的项目 – 确认服务范围 – 请检查初始的两个条件 。 如果你首先报告20桶,但实际上50桶,注意价格很容易改变。 需要问CBS: 设定是否已经包含在内? 安装是否已经包括在内? 安装是否已经包括在内? 迁北南. 汽车。 金属 Bic sack.gt.mount as need. 摩托车和物品的通配. https://www.god是建立在:Stuff (\"M3\")地址- > Media- > Time Range上. 移动包房的值应发送到: The Is only taken. 才送来了 http://www.godical list.day transfer.selection, package-packing, unmounting. (原始内容存档于2018-09-27). 克克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克. 问题通常是要移动整个包 移动包括包在内的全包屋? http://www.gods.gov (中文(简体) ). 你接受南迁吗? 有没有运输同一辆机动车? 你能收拾好东西租车吗? 对 理由是:搬家需要一个适合每个家庭的计划。 有效的套接字传输必须同时解决: Packing – Packing – Media – Time – 交付. 没有适合所有客户的单一包. http://www.golaunch (英语). 档案馆根据实际发货和路线制定计划. 热线:0909 81 6625"
     },
+    "Chuyển nhà trọn gói là giải pháp giúp gia đình, cá nhân và doanh nghiệp di chuyển toàn bộ đồ đạc từ địa điểm cũ đến nơi ở hoặc địa điểm mới theo một quy trình thống nhất, thay vì phải tự thuê xe, tìm người bốc xếp, mua vật tư đóng gói và xử lý từng công việc riêng lẻ.Một chuyến chuyển nhà thực tế không chỉ có “xe chở đồ”. Để việc di dời diễn ra thuận lợi, cần phối hợp nhiều bước:Khảo sát → kiểm kê → phân loại → đóng gói → tháo lắp → bốc xếp → vận chuyển → giao nhận → sắp xếp.Với những chuyến trong TP.HCM, yếu tố quan trọng thường là khung giờ xe, chung cư, thang máy và điều kiện bốc xếp. Với chuyển nhà Bắc Nam, doanh nghiệp vận chuyển còn phải tính tới quãng đường dài, phương tiện, trung chuyển và cách bảo vệ đồ trong suốt hành trình.Vận Tải Lưu Lê triển khai dịch vụ theo từng nhu cầu thực tế, từ chuyển nhà TP.HCM, chuyển nhà Sài Gòn đi các tỉnh, đến những tuyến dài như Sài Gòn – Hà Nội và Hà Nội – Sài Gòn.Chuyển nhà trọn gói là gì?Dịch vụ chuyển nhà trọn gói có thể bao gồm:Khảo sát lượng đồ.Tư vấn phương tiện.Cung cấp thùng carton.Đóng gói.Tháo giường, tủ, bàn.Bọc tivi, tủ lạnh, máy giặt.Bốc xếp.Bố trí xe.Vận chuyển.Giao tận nơi.Đưa đồ lên tầng.Hỗ trợ sắp xếp theo thỏa thuận.Khách hàng không bắt buộc phải sử dụng toàn bộ các hạng mục. Nếu đã tự đóng gói, có thể chỉ thuê xe + bốc xếp + vận chuyển.Vì vậy, “trọn gói” nên được hiểu là một phương án được tổ chức đầy đủ theo phạm vi khách hàng cần, không phải một gói cố định giống nhau cho mọi gia đình.Chuyển nhà trọn gói thường vận chuyển những loại đồ nào?Các nhóm đồ phổ biến gồm:Giường.Tủ quần áo.Sofa.Bàn ăn.Ghế.Tivi.Tủ lạnh.Máy giặt.Máy lạnh.Đồ bếp.Quần áo.Sách.Hồ sơ.Xe máy.Đồ trang trí.Thùng carton.Đồ dễ vỡ.Mỗi nhóm cần cách xử lý khác nhau.Tivi cần chống va đập.Tủ lạnh cần được cố định.Đồ dễ vỡ cần đóng riêng.Ốc vít của bàn tủ nên được gom và đánh dấu.Điều này giúp giảm thất lạc và rút ngắn thời gian lắp lại tại nhà mới.Quy trình chuyển nhà trọn gói tại Vận Tải Lưu Lê™ Bước 1: Tiếp nhận thông tin chuyển nhàKhách hàng cung cấp:Địa chỉ lấy.Địa chỉ giao.Ngày dự kiến.Số lượng đồ.Hình ảnh.Tầng lấy.Tầng giao.Có thang máy hay không.Có cần đóng gói không.Có cần tháo lắp không.™ Bước 2: Khảo sát hoặc đánh giá qua hình ảnhVới nhà nhỏ, ảnh và video có thể đủ để đánh giá sơ bộ.Với nhà nhiều đồ, biệt thự hoặc có nhiều đồ cồng kềnh, khảo sát thực tế giúp xác định chính xác hơn:m³ → loại xe → số chuyến → nhân công → vật tư.™ Bước 3: Phân loại đồCó thể chia thành:Đồ điện tử – nội thất – đồ dễ vỡ – đồ cá nhân – thùng thông thường.Việc này giúp bố trí thứ tự đóng gói và xếp xe hợp lý.™ Bước 4: Báo giá chuyển nhà trọn góiBáo giá nên thể hiện rõ:Xe.Nhân công.Đóng gói.Vật tư.Tháo lắp.Nâng hạ.Đưa đồ lên tầng.VAT nếu có.™ Bước 5: Đóng gói và tháo lắpTivi, màn hình, đồ dễ vỡ được bảo vệ riêng.Giường, tủ hoặc bàn có thể tháo nếu cần giảm thể tích.™ Bước 6: Bốc xếp lên xeĐồ nặng và chắc thường đặt phía dưới.Đồ dễ vỡ và đồ điện tử phải được bố trí vị trí phù hợp.™ Bước 7: Vận chuyểnTùy tuyến, Vận Tải Lưu Lê có thể sử dụng xe tải hoặc kết hợp đường sắt đối với hành trình Bắc Nam.™ Bước 8: Giao và kiểm kêKhách hàng đối chiếu số thùng, đồ lớn và các tài sản quan trọng trước khi hoàn tất bàn giao.Giá chuyển nhà trọn gói được tính như thế nào?Giá chuyển nhà trọn gói phụ thuộc nhiều yếu tố: Hạng mục Yếu tố ảnh hưởng Đồ đạc Số lượng, m³, trọng lượng Xe Loại xe, số chuyến Quãng đường Nội thành, liên tỉnh, Bắc Nam Nhân công Số người, thời gian Tầng Có thang máy hay không Đóng gói Loại vật tư Tháo lắp Số lượng nội thất Nâng hạ Đồ nặng, cồng kềnh Khách hàng nên so sánh tổng chi phí từ nhà cũ đến nhà mới, thay vì chỉ hỏi giá xe.Để có giá chính xác, khách hàng nên cung cấp đầy đủ thông tin hàng trước khi yêu cầu báo giá. Hoặc sử dụng công cụ tính cước nhanh dưới đây của chúng tôi để tra cứu giá cước. Trong bảng tính cước nhanh, thì đối với dịch vụ chuyển nhà bạn chọn loại hàng hóa: \"Đồ gia đình\", sau đó điền các thông tin đầy đủ ở các bước tiếp theo.[TINH_CUOC]>>> Xem chi tiết: Giá chuyển nhà trọn góiChuyển nhà trọn gói TP.HCMVới chuyển nhà TP.HCM, khó khăn thường không nằm ở quãng đường mà ở điều kiện giao nhận.Ví dụ:Chung cư phải đăng ký chuyển đồ.Xe tải bị giới hạn giờ.Xe không đỗ sát sảnh.Hầm có giới hạn chiều cao.Thang máy phải đặt lịch.Do đó, cần chọn loại xe và thời điểm phù hợp.>>> Xem chi tiết: Chuyển nhà TP.HCMChuyển nhà trọn gói Bắc NamTuyến Bắc Nam cần chuẩn bị kỹ hơn vì thời gian vận chuyển dài.Có thể sử dụng:Xe tải trực tiếphoặcXe lấy → đường sắt → xe giao.Đồ điện tử, đồ gỗ và đồ dễ vỡ cần được đóng gói kỹ hơn so với chuyển nội thành.>>> Xem chi tiết: Chuyển nhà Bắc NamChuyển nhà Sài Gòn đi các tỉnhĐây là nhóm nhu cầu rất rộng.Khách hàng có thể chuyển từ TP.HCM đi:Đồng Nai.Bình Dương.Tây Ninh.Long An.miền Tây.miền Trung.Tây Nguyên.miền Bắc.Phương án phụ thuộc quãng đường và lượng đồ.>>> Xem chi tiết: Chuyển nhà Sài Gòn đi các tỉnhChuyển văn phòng trọn góiGia đình và doanh nghiệp có nhu cầu khác nhau.Với chuyển văn phòng trọn gói, trọng tâm thường nằm ở:Máy tính.Hồ sơ.Bàn ghế.Thời gian gián đoạn.Phòng ban.Hệ thống IT.Đây là nhánh dịch vụ nên được triển khai thành một cụm nội dung riêng.>>> Xem chi tiết: Chuyển văn phòng trọn góiChuyển kho xưởng trọn góiVới kho xưởng, độ phức tạp cao hơn do có:Máy móc.Pallet.Kệ.Xe nâng.Hàng tồn kho.Thiết bị công nghiệp.Vì vậy cần khảo sát kỹ trước khi thực hiện.>>> Xem chi tiết: Chuyển kho xưởng trọn góiLàm sao chuyển nhà trọn gói ít phát sinh chi phí?Ba việc quan trọng nhất:Kê khai đủ đồ – xác nhận phạm vi dịch vụ – kiểm tra điều kiện hai đầu.Nếu ban đầu báo 20 thùng nhưng thực tế 50 thùng, báo giá rất dễ thay đổi.Khách hàng cũng cần hỏi rõ:Bốc xếp đã gồm chưa?Tháo lắp đã gồm chưa?Có đưa lên tầng không?Vật tư có tính riêng không?Vì sao lựa chọn dịch vụ chuyển nhà trọn gói của Vận Tải Lưu Lê?Vận Tải Lưu Lê có thể tổ chức nhiều loại hình:Chuyển nhà TP.HCM.Chuyển nhà liên tỉnh.Chuyển nhà Bắc Nam.Xe tải.Đường sắt.Bốc xếp.Đóng gói.Tháo lắp theo nhu cầu.Vận chuyển xe máy cùng đồ.Phương án được xây dựng dựa trên:đồ đạc → m³ → địa chỉ → phương tiện → thời gian → phạm vi dịch vụ.Cách nhận báo giá chuyển nhà trọn gói từ Vận Tải Lưu LêKhách hàng nên gửi:Địa chỉ lấy.Địa chỉ giao.Hình ảnh đồ.Danh sách đồ lớn.Ngày chuyển.Yêu cầu bốc xếp, đóng gói, tháo lắp.Câu hỏi thường gặp về chuyển nhà trọn gói► Chuyển nhà trọn gói có bao gồm đóng gói không?Tùy phạm vi dịch vụ được xác nhận trong báo giá.► Có nhận chuyển nhà Bắc Nam không?Có thể xây dựng phương án xe tải hoặc kết hợp đường sắt.► Có vận chuyển xe máy cùng đồ không?Có thể bố trí tùy tuyến và lượng hàng.► Có thể tự đóng đồ rồi thuê xe không?Có.Kết luận: Chuyển nhà trọn gói cần một kế hoạch phù hợp với từng gia đìnhMột chuyến chuyển nhà trọn gói hiệu quả phải giải quyết đồng thời:đóng gói – bốc xếp – phương tiện – thời gian – giao nhận.Không có một gói duy nhất phù hợp cho mọi khách hàng.Vận Tải Lưu Lê xây dựng phương án dựa trên lượng đồ và tuyến vận chuyển thực tế.Hotline: 0909 81 6625": {
+      "en": "Moving the package house is the solution to the family, individuals, and businesses moving the entire package from the old venue or new venue to a unified process, rather than having to rent their own car, looking for someone who stirs, buying things packed and handling individual jobs. For the move to take a favorable course, it is necessary to coordinate several steps: Surveyive (10-10- > sorting (10-packs) (10-10-11) Transportation (10-11). With trips in TP.HCM, critical elements are often car time frames, apartments, elevators, and set-up conditions. With the move of North Vietnam, the shipping business has to include long distances, vehicles, mediums, and protections throughout the journey. Packed. Bedsteads, cabinets, desks. TVs, refrigerators, washing machines.Bic. If you have packed your own package, you can only rent car + for transport. Thus, “all packages should be understood as a plan to be fully organized according to the needs of the customers, not a fixed package similar to all families. They need different ways of handling things. Embern needs to fight dams. The refrigeration needs to be fixed. The break-up suit needs to be closed separately. The table screw should be collected and marked. This helps reduce lost and shortened the time re-established at the new home.Quy's full-home transfer program at the CVMMMS 1: Retrieves the supply information: The IP only delivers. The date is intended. the amount of items. http://://www.g.g.g.g. There's an elevator or not. Do you need a package? Do you need to unmount it? Step 2: Surveyed or assessed through small-house images, photos and videos can be sufficient for preliminary evaluations. With many items, villas, or a wide variety of items, a practical survey helps determine: m3 (10.10.1.1.1. Step 3: Classifications Can Be Divided: The Electronics – The Inductives – Personal Stuff – Common Bins. This helps layout the order to pack and organize cars.MMMM Step 4: The price of moving a full package should be made clear: Caro. Workers. Packing. Get your stuff upstairs. Step 5: Pack and unmount Tavi, screen, breakable items are privately protected. p.g., cabinet, or table can be removed if a volume is needed.MMMM Step 6: Putting on the heavy car and probably placing below. Step 7: Transit Transport Line, Media Lavey can use trucks or combine railroads to the North South.TM Step 8: What's the deal with the Transition of the Bins, Larges and Important Propertys Before the Dealing Table. How's the Package House? The package move is counted? The full package is subject to many factors: The Elements Section of the Counting Number, M3, the weight of Car Types, the number of Internal Roads, the number of U.S.I., the number of U.S.C.I., the number of times the North Workers, the number of elevators with which have an elevators, should be compared to the total price of new homes, rather than just asking for the exact price, for the exact price of the customer's to provide the full price required price. Or use our short-lived under-examine tool to look up the rate. In the quick Billsheet, then for the move service you select the type of goods you select: \"Families\", then fill the full information at the following steps. extrant: Viewing the details: The transfer rate of the full-home package of the TP.HCM With the move of the TP.HCM., the difficulty is often not at the point of the route but at the given conditions. For example: The mover has to be limited. The download is time. The terminal has a high limit. hm. the machine has to set the schedule. >> Detailed View: Move the TP.HCMTCCCCTC home package of North South North South need to be better prepared because of the long travel time. Possible use: Live transport or carloading (6-carcars). Electronics, woodware, and fragile items need to be better packed than internal conversions.] >> See the details: Move North South Korea Houses Saigon provinces This is a very broad group of demand groups. View details: Move the Saigon residence to the U.S. Department of Family and Business Offices with different needs. With the transfer of the package office, focus is usually located in: Computer.gt.1.140 seats.time delay.com.com.com.com.com.com.com. Detailed view: Move full-size warehouse with warehouses, higher complexity due to existing: Machines.Pallet. https://www.golvel.consistencies.composed. >> View Details: Move Full Store Archives How can you move less expensive package houses? Three most important things: Tell enough items – confirm the service range – check the initial two conditions. If you first report 20 barrels but in fact 50 barrels, notice the price is very easy to change. The CBS also needs to be asked: Is the set up already included? Has the installation already been included? Does the installation already included? Move North South. Motors. Metal.Bic stack..gt.mount as needed.commodation of motorcycles and items. https://www.god is built on: Stuff (\"M3\") Address- > Media - > Time Range. The value of moving the package house should be sent to: The Is only taken. The Is only delivered. http://www://www.godical list.day transfer.selection, package-packing, unmounting.the question is usually about moving the whole package Move the full-packing house including packages? http://www.gods.gov Do you accept the move to the North South? Is there any transport of the same motor vehicle? Can you pack your things and rent your cars? yes. The argument is: Moving the package house needs a plan that suits each family. An effective package transfer must be resolved at the same time: Packing – Packing – Media – Time – Delivering. Without a single package suitable for all clients. http://www.golaunch Archives build plans based on actual shipments and routes.Hotline: 0909 81 6625",
+      "zh": "搬走包裹屋是解决家庭,个人,企业将整个包裹从旧会所或新会所转移到统一过程,而不是不得不自己租车,寻找打搅,购买包装物品和处理个人工作的人. 为了采取有利的行动,有必要协调几个步骤:调查(10-10- > 排序(10-包)(10-10-11) 运输(10-11)。 随着TP.HCM的出行,关键元素往往有汽车时间框架,公寓,电梯,以及设置条件等. 随着北越的迁入,通航业务必须包括长途,车辆,中道,以及全程的保护. 包装。 床垫 柜子 桌子 电视机 冰箱 洗衣机 毕克. 如果你已经打包了,只能租车+运输. 因此,“所有包裹应被理解为根据顾客的需要充分安排的计划,而不是类似于所有家庭的固定包裹。 他们需要不同的处理方式 Embern需要与水坝战斗。 冷藏室需要修复. 分相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相 台螺应当采集并作标记. 这有助于减少损失并缩短在新住宅重建的时间。 Quy在CVMMS 1的全家转会计划:检索供应信息:IP只提供. 日期是预定的。 数量。 http://www.g.g.g.g. (中文(简体) ). 还有电梯么. 你需要包裹吗? 你需要卸载吗? 步骤2:通过小屋图像、相片和录像进行调查或评估,足以进行初步评价。 利用许多物品,别墅,或多种物品,实际调查有助于确定:m3(10.10.1.1.1. 第3步:分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分出分 这有助于排出车厢包装和组织秩序. MMM 第4步:移动一整包的价格应明确:卡罗. 工人们 包装 把东西拿上楼 第5步:包装和卸载Tavi,屏幕,可拆卸物品受到私人保护. p.g.,柜子,或者如果需要一卷,可以去掉表格. MMM 第6步:放入重车并可能放入下方. 第7步:过境运输线,Media Lawey可以使用卡车或将铁路合并到南北. TM 第8步:在交易表之前,宾人,大人和重要地产的过渡有什么交易. 包裹店怎么样? 套件移动算数吗? 全包有多种因素: 计数号码的元件科 M3,车型的重量,内出行道的数量,美联社的编号,美联社的编号,北工的出行次数,搭有电梯的电梯的数量,应该与新房的总价格进行比较,而不是仅仅要求准确的价格,以顾客的准确价格来提供所需的全部价格. 或者用我们短命的潜质工具 来查查速率 在快速的 Billsheet 中,然后为移动服务选择您选择的商品类型:\"Familys\",然后在以下步骤中填充全部信息. 外出: 查看细节 : TP.HCM全家用包的转移率 随着TP.HCM的移动,难度往往不是在去向点,而是在特定条件下. 例如: 移动器必须受到限制. 下载时间到了 航站楼有很高的极限. 对 机器必须设定时间表。 >> 详细视图:移动北南南的TP.HCMTCCCTC家庭套餐,由于出行时间长需要更好的准备. 可能用途:活地运输或装车(6辆). 电子、木器和易碎物品需要比内部转换更好的包装。 ] 详情参见:移走朝鲜的西贡府. 这是一个非常广泛的需求群体。 取景细节:将西贡官邸迁至需求不同的美国家庭与商务局. 随着软件包办公室的转移,焦点通常位于: Computer.gt 1.140 sits.time delay.com.com.com.com.com.com.com.com. 详细视图:将全尺寸仓库与仓库一起移动,因有:机器而更复杂. 帕莱特 https://www.golvel.consistencies.composed. [永久失效連結] (中文(简体) ). 查看细节: 移动完整存储归档 你怎能搬走比较便宜的套房? 三个最重要的事情: 告诉足够的项目 – 确认服务范围 – 请检查初始的两个条件 。 如果你首先报告20桶,但实际上50桶,注意价格很容易改变。 需要问CBS: 设定是否已经包含在内? 安装是否已经包括在内? 安装是否已经包括在内? 迁北南. 汽车。 金属 Bic sack.gt.mount as need. 摩托车和物品的通配. https://www.god是建立在:Stuff (\"M3\")地址- > Media- > Time Range上. 移动包房的值应发送到: The Is only taken. 才送来了 http://www.godical list.day transfer.selection, package-packing, unmounting. (原始内容存档于2018-09-27). 克克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克·克多克. 问题通常是要移动整个包 移动包括包在内的全包屋? http://www.gods.gov (中文(简体) ). 你接受南迁吗? 有没有运输同一辆机动车? 你能收拾好东西租车吗? 对 理由是:搬家需要一个适合每个家庭的计划。 有效的套接字传输必须同时解决: Packing – Packing – Media – Time – 交付. 没有适合所有客户的单一包. http://www.golaunch (英语). 档案馆根据实际发货和路线制定计划. 热线:0909 81 6625"
+    },
     "Chuyển văn phòng Hà Nội → Sài Gòn": {
       "en": "Office Relocation from Hanoi to Saigon",
       "zh": "从河内搬迁办公室至西贡"
@@ -299,13 +379,77 @@
       "en": "Damage Compensation Policy",
       "zh": "货损赔偿政策"
     },
+    "Chỉ còn một bước để hoàn tất đơn vận chuyển. Quý khách vui lòng để lại thông tin liên hệ, Vận Tải Lưu Lê sẽ chủ động xác nhận và sắp xếp lịch vận chuyển.": {
+      "en": "Only one step to complete the transfer. Ladies and gentlemen, please leave your contact information, Liu Load will take the initiative to confirm and schedule the transport.",
+      "zh": "只有一步完成转移. 女士们,先生们,请留下联系信息 刘洛德会主动确认并安排运输"
+    },
+    "Chọn Ga Gửi": {
+      "en": "Select Origin Rail Station",
+      "zh": "请选择始发站"
+    },
+    "Chọn Ga Nhận": {
+      "en": "Select Destination Rail Station",
+      "zh": "请选择到达站"
+    },
+    "Chọn Hãng và dòng xe để hệ thống tự phân loại": {
+      "en": "Select the Constance and Line of the car to classification system",
+      "zh": "选择车厢的 Constance 和线路到分类系统"
+    },
+    "Chọn Phường/Xã": {
+      "en": "Select Ward/Commune",
+      "zh": "请选择坊／社"
+    },
+    "Chọn Phường/Xã mới": {
+      "en": "New",
+      "zh": "新设"
+    },
+    "Chọn Quận/Huyện": {
+      "en": "Select District",
+      "zh": "请选择区／县"
+    },
+    "Chọn Tỉnh/Thành phố": {
+      "en": "Select Province/City",
+      "zh": "请选择省／直辖市"
+    },
+    "Chọn Tỉnh/Thành phố mới": {
+      "en": "Select Province/ New City",
+      "zh": "选择省/ 新城"
+    },
+    "Chọn hãng và dòng xe": {
+      "en": "Select a company and line of vehicles",
+      "zh": "选择公司和车辆线路"
+    },
+    "Chọn loại hàng": {
+      "en": "Select Cargo Type",
+      "zh": "请选择货物类型"
+    },
+    "Chọn loại xe": {
+      "en": "Select a car type",
+      "zh": "选择车型"
+    },
     "Chọn một phương án:": {
       "en": "Select one option:",
       "zh": "选择一个选项 :"
     },
+    "Chọn phương thức giao nhận": {
+      "en": "Select Pickup & Delivery Method",
+      "zh": "请选择收发货方式"
+    },
+    "Chọn tình trạng": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Chọn vị trí bốc xếp": {
+      "en": "Select the ranking position",
+      "zh": "选择排名位置"
+    },
     "Copyright 2026 © Vận Tải Lưu Lê": {
       "en": "Copyright 2026 © Media",
       "zh": "版权 2026 © 媒体"
+    },
+    "CÔNG CỤ TRỰC TUYẾN": {
+      "en": "ONLINE TOOLS",
+      "zh": "在线工具"
     },
     "Càng đầy đủ thông tin, việc tư vấn phương án và báo giá càng nhanh.": {
       "en": "The more information we have, the faster we're going to advise the options and notice the prices.",
@@ -322,6 +466,14 @@
     "Các khu công nghiệp ở Bình Dương, Đồng Nai, Long An, Bắc Ninh, Hưng Yên, Hải Phòng và nhiều tỉnh khác có nhu cầu vận chuyển hàng liên tục.": {
       "en": "Industrial districts in the Pacific, the Plains of Nai, Long An, North Ning, Yeung, Guangzhou, and many other provinces have a constant demand for freight.",
       "zh": "太平洋的工业区有直隶平原,长安,北宁,益阳,广州等多省,货运需求不断."
+    },
+    "Các kiện hàng cùng một loại": {
+      "en": "Packages of the same type",
+      "zh": "同类软件包"
+    },
+    "Các kiện hàng gồm nhiều loại": {
+      "en": "Packages of various types",
+      "zh": "各类包件"
     },
     "Các loại hàng thường gặp gồm:": {
       "en": "Common goods include:",
@@ -379,6 +531,10 @@
       "en": "Common question about freight services",
       "zh": "关于货运服务的共同问题"
     },
+    "Có bọc": {
+      "en": "Covered",
+      "zh": "覆盖"
+    },
     "Có chứng từ.": {
       "en": "There's evidence.",
       "zh": "有相证相."
@@ -403,9 +559,17 @@
       "en": "Got the right medium.",
       "zh": "找到对的媒介了"
     },
+    "Có thang máy": {
+      "en": "There's an elevator.",
+      "zh": "有电梯"
+    },
     "Có thể bố trí xe lấy hàng tận nơi tùy địa chỉ, loại hàng và số lượng.": {
       "en": "Cars can be loaded for goods in place of address, type, and quantity.",
       "zh": "汽车可以装入货物,以代替地址、类型和数量。"
+    },
+    "Có thể nhập bằng dấu phẩy, dấu chấm phẩy hoặc xuống dòng.": {
+      "en": "Enterable with commas, semicolons, or downstreams.",
+      "zh": "有逗号、分号或下游可以输入。"
     },
     "Có xe nâng hay không.": {
       "en": "There's a lift or not.",
@@ -439,6 +603,14 @@
       "en": "Basic Formula:",
       "zh": "基本公式 :"
     },
+    "CƯỚC DỰ KIẾN CỦA BẠN": {
+      "en": "YOUR ESTIMATED SHIPPING COST",
+      "zh": "您的预估运费"
+    },
+    "CƯỚC VẬN CHUYỂN DỰ KIẾN": {
+      "en": "GREATIVE",
+      "zh": "伟大"
+    },
     "Cước vận chuyển chính.": {
       "en": "Main transport.",
       "zh": "主运."
@@ -450,6 +622,10 @@
     "DMCA.com Protection Status": {
       "en": "DMCA.com Protection UTC",
       "zh": "DMCA.com 保护世界协调世界时"
+    },
+    "Danh sách đồ gia đình": {
+      "en": "List of family items",
+      "zh": "家庭物品清单"
     },
     "Do khoảng cách xa và đặc thù địa hình nhiều tuyến cần trung chuyển sâu về tỉnh, việc lựa chọn đơn vị vận tải có kinh nghiệm là rất quan trọng. Vận Tải Lưu Lê hỗ trợ nhận hàng tại Hà Nội, sau đó tổ chức vận chuyển đường dài kết hợp giao hàng về các tỉnh Tây Nam Bộ một cách an toàn, đúng tiến độ và tối ưu chi phí.": {
       "en": "Due to the long distance and topography of many routes that need to travel deep into the province, it is important to select experienced transportation units. Liu transport supported receiving supplies in Hanoi, then the Longway Transports combined delivery of the South West Ministry provinces safely, properly and optimumly.",
@@ -463,6 +639,30 @@
       "en": "The goal, therefore, is not just to find the lowest level but to build a stable option.",
       "zh": "因此,目标不仅仅是找到最低水平,而是建立一个稳定的选择。"
     },
+    "Ducati": {
+      "en": "Ducati",
+      "zh": "杜卡蒂语Name"
+    },
+    "Dòng xe côn tay khác": {
+      "en": "Other wheelcar lines",
+      "zh": "其他轮车线路"
+    },
+    "Dòng xe ga khác": {
+      "en": "Other Train Line",
+      "zh": "其他列车线路"
+    },
+    "Dòng xe máy điện khác": {
+      "en": "Other Electric Engine Line",
+      "zh": "其他电动发动机线"
+    },
+    "Dòng xe phân khối lớn khác": {
+      "en": "Other Large Block Car Line",
+      "zh": "其他大块车线"
+    },
+    "Dòng xe số khác": {
+      "en": "Number line",
+      "zh": "数字行"
+    },
     "Dễ đối soát.": {
       "en": "Easy to control.",
       "zh": "易于控制。"
@@ -474,6 +674,10 @@
     "Dịch vụ": {
       "en": "Services",
       "zh": "服务"
+    },
+    "Dịch vụ bổ sung": {
+      "en": "Plugin Services",
+      "zh": "插件服务"
     },
     "Dịch vụ có thể bao gồm vận chuyển:": {
       "en": "Services can include transportation:",
@@ -591,6 +795,18 @@
       "en": "Archived Download Facebook",
       "zh": "已存档下载 Facebook"
     },
+    "GA GỬI": {
+      "en": "ORIGIN RAIL STATION",
+      "zh": "始发站"
+    },
+    "GA NHẬN": {
+      "en": "DESTINATION RAIL STATION",
+      "zh": "到达站"
+    },
+    "GIÁ CƯỚC VẬN CHUYỂN": {
+      "en": "SHIPPING RATES",
+      "zh": "运输费率"
+    },
     "GIẢI PHÁP": {
       "en": "Solutions",
       "zh": "解决方案"
@@ -599,9 +815,29 @@
       "en": "PORTUGUESE",
       "zh": "葡萄牙"
     },
+    "Ga đến Ga": {
+      "en": "Station-to-Station",
+      "zh": "站到站"
+    },
+    "Ga đến Nhà": {
+      "en": "Station-to-Door",
+      "zh": "站到门"
+    },
+    "Ghi chú": {
+      "en": "Comment",
+      "zh": "注释"
+    },
+    "Ghi chú vị trí khác": {
+      "en": "Note Location Other",
+      "zh": "其他地点"
+    },
     "Ghép hoặc phân loại hàng.": {
       "en": "Accompany or classification.",
       "zh": "相随或分等."
+    },
+    "Giao hàng ban đêm": {
+      "en": "Night Delivery",
+      "zh": "夜间配送"
     },
     "Giao tận nơi.": {
       "en": "It's delivered.",
@@ -643,9 +879,17 @@
       "en": "Advice & Guides",
       "zh": "咨询与指南"
     },
+    "Gọi 0909 81 6625": {
+      "en": "Calling 0909 81 6625",
+      "zh": "呼叫0909 81 6625"
+    },
     "Gọi Hotline Vận Tải Lưu Lê 0909 81 6625": {
       "en": "Call Hotline Media 0909 81 6625",
       "zh": "拨打热线"
+    },
+    "GỬI KÈM XE MÁY": {
+      "en": "TRIGUIMENT",
+      "zh": "捐款"
     },
     "Gửi": {
       "en": "Send",
@@ -739,6 +983,10 @@
       "en": "Hotline",
       "zh": "服务热线"
     },
+    "Harley-Davidson": {
+      "en": "Harley-Davidson",
+      "zh": "哈雷 - 戴维森"
+    },
     "Hotline Vận Tải Lưu Lê: 0909 81 6625": {
       "en": "Hotline Media: 0909 81 6625",
       "zh": "热线媒体:0909 81 6625"
@@ -750,6 +998,98 @@
     "Hotline: 0909 81 6625": {
       "en": "Hotline: 0909 81 6625",
       "zh": "热线:0909 81 6625"
+    },
+    "Hoặc tính m³ theo kích thước kiện hàng: nhập số lượng và kích thước bên dưới, hệ thống sẽ tự tính tổng m³.": {
+      "en": "Or do the m3 in the package size: enter the number and size below, the system will calculate the total m3.",
+      "zh": "或做包大小的m3:输入下面的数字和大小,系统会计算出总的m3."
+    },
+    "Huyện Ba Vì": {
+      "en": "Ba because",
+      "zh": "巴因为"
+    },
+    "Huyện Bình Chánh": {
+      "en": "Chief Fox",
+      "zh": "福克斯局长"
+    },
+    "Huyện Chương Mỹ": {
+      "en": "US Chapter",
+      "zh": "美国章节"
+    },
+    "Huyện Cần Giờ": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Huyện Củ Chi": {
+      "en": "Chithoku",
+      "zh": "千户"
+    },
+    "Huyện Gia Lâm": {
+      "en": "Lamia",
+      "zh": "拉米亚"
+    },
+    "Huyện Hoài Đức": {
+      "en": "Germany",
+      "zh": "德国"
+    },
+    "Huyện Hóc Môn": {
+      "en": "The Gate",
+      "zh": "门"
+    },
+    "Huyện Mê Linh": {
+      "en": "\"Meo-Tunes\"",
+      "zh": "\"美图恩斯\""
+    },
+    "Huyện Mỹ Đức": {
+      "en": "German American",
+      "zh": "德裔美国人"
+    },
+    "Huyện Nhà Bè": {
+      "en": "House",
+      "zh": "房间"
+    },
+    "Huyện Phú Xuyên": {
+      "en": "xhichuan",
+      "zh": "hi川"
+    },
+    "Huyện Phúc Thọ": {
+      "en": "They're happy",
+      "zh": "他们很高兴"
+    },
+    "Huyện Quốc Oai": {
+      "en": "Ooou",
+      "zh": "呜呜"
+    },
+    "Huyện Sóc Sơn": {
+      "en": "\"Movie Mountain\"",
+      "zh": "\"电影山\""
+    },
+    "Huyện Thanh Oai": {
+      "en": "I'm sorry.",
+      "zh": "对不起"
+    },
+    "Huyện Thanh Trì": {
+      "en": "Qingqing",
+      "zh": "庆青"
+    },
+    "Huyện Thường Tín": {
+      "en": "Octophone",
+      "zh": "八音响"
+    },
+    "Huyện Thạch Thất": {
+      "en": "Stone Stone.",
+      "zh": "石头石."
+    },
+    "Huyện Đan Phượng": {
+      "en": "Shan Phoenix",
+      "zh": "山凤凰"
+    },
+    "Huyện Đông Anh": {
+      "en": "East UK Antiquities",
+      "zh": "英国东部文物"
+    },
+    "Huyện Ứng Hòa": {
+      "en": "Compatibility",
+      "zh": "兼容性"
     },
     "Huế.": {
       "en": "Dirty.",
@@ -871,6 +1211,14 @@
       "en": "Styrofoam.",
       "zh": "斯ty罗花."
     },
+    "Hàng đóng pallet": {
+      "en": "Packer pallet",
+      "zh": "包装托盘"
+    },
+    "Hàng đóng tank": {
+      "en": "Supplies",
+      "zh": "用品"
+    },
     "Hàng đóng thùng.": {
       "en": "Binned goods.",
       "zh": "宾客货."
@@ -886,6 +1234,10 @@
     "Hàng được đưa lên tuyến vận chuyển phù hợp.": {
       "en": "The shipment is loaded onto the appropriate transport route.",
       "zh": "货物被装入适当的运输路线。"
+    },
+    "Hãng và dòng xe": {
+      "en": "The Company and the Car Line",
+      "zh": "公司和汽车线路"
     },
     "Hình ảnh hàng nếu cần.": {
       "en": "A package image if necessary.",
@@ -911,9 +1263,33 @@
       "en": "Sea Hall.",
       "zh": "海会所."
     },
+    "Hệ thống phân loại:": {
+      "en": "Category system:",
+      "zh": "类别系统:"
+    },
+    "Hệ thống tự áp dụng mức phí theo loại xe": {
+      "en": "The system applies its own cost to the type of car.",
+      "zh": "该系统将自身成本应用于车型."
+    },
+    "Hệ thống tự áp dụng mức phí theo từng loại xe": {
+      "en": "The system applies its own cost to each car.",
+      "zh": "该系统将自己的成本用于每辆车."
+    },
+    "Họ và tên": {
+      "en": "Name",
+      "zh": "名称"
+    },
     "KHÁCH HÀNG": {
       "en": "BIRTHER",
       "zh": "比尔"
+    },
+    "KIỆN >= 200KG": {
+      "en": "GPL >=200G",
+      "zh": "GPL QQ200G 导弹"
+    },
+    "KTM": {
+      "en": "KTM",
+      "zh": "KTM 机车"
     },
     "Khi báo giá, khách hàng nên cung cấp:": {
       "en": "When the price is announced, customers should provide:",
@@ -975,9 +1351,21 @@
       "en": "Qing-Hu.",
       "zh": "清来胡同."
     },
+    "Không biết loại xe?": {
+      "en": "Don't know the car?",
+      "zh": "不认识那辆车?"
+    },
+    "Không bọc": {
+      "en": "No Cover",
+      "zh": "无封面"
+    },
     "Không có một phương thức nào phù hợp với mọi loại hàng.": {
       "en": "There is no method that fits all kinds of rows.",
       "zh": "一切行相相相无相相相相相相."
+    },
+    "Không có thang máy": {
+      "en": "No elevator.",
+      "zh": "没有电梯。"
     },
     "Không muốn ghép hàng.": {
       "en": "Don't want the package.",
@@ -1011,9 +1399,21 @@
       "en": "The use of a lift.",
       "zh": "使用起重机."
     },
+    "Khối lượng tổng": {
+      "en": "Total Weight",
+      "zh": "总重量"
+    },
+    "Khối lượng/kiện": {
+      "en": "Weight per Package",
+      "zh": "每件重量"
+    },
     "Kim loại.": {
       "en": "Metal.",
       "zh": "金属"
+    },
+    "Kiện nặng": {
+      "en": "Heavy case",
+      "zh": "重型案件"
     },
     "Kích thước kiện hàng.": {
       "en": "The size of the package.",
@@ -1035,6 +1435,10 @@
       "en": "Connect with Luu Le Transport through our official channels.",
       "zh": "通过官方渠道联系 Luu Le 运输公司。"
     },
+    "Kết quả là cước dự kiến. Vận Tải Lưu Lê sẽ kiểm tra và xác nhận lại mức cước trước khi vận chuyển.": {
+      "en": "The displayed amount is an estimate. Luu Le Transport will verify and confirm the final shipping rate before transport.",
+      "zh": "显示金额仅为预估运费。Luu Le 运输公司将在发货前核实并确认最终运费。"
+    },
     "LIÊN HỆ": {
       "en": "GREEW",
       "zh": "希腊"
@@ -1042,6 +1446,46 @@
     "LIÊN KẾT": {
       "en": "CONNECT WITH US",
       "zh": "联系我们"
+    },
+    "LOẠI 1": {
+      "en": "JSTOR 1",
+      "zh": "JSTOR 1号卫星"
+    },
+    "LOẠI 10": {
+      "en": "JSTOR 10",
+      "zh": "JSTOR 10号卫星"
+    },
+    "LOẠI 2": {
+      "en": "JSTOR 2",
+      "zh": "第2号"
+    },
+    "LOẠI 3": {
+      "en": "JSTOR 3",
+      "zh": "JSTOR 3号"
+    },
+    "LOẠI 4": {
+      "en": "JSTOR 4",
+      "zh": "第4号"
+    },
+    "LOẠI 5": {
+      "en": "JSTOR 5",
+      "zh": "约瑟5号"
+    },
+    "LOẠI 6": {
+      "en": "JSTOR 6",
+      "zh": "JSTOR 6号"
+    },
+    "LOẠI 7": {
+      "en": "JSTOR 7",
+      "zh": "JSTOR 7号"
+    },
+    "LOẠI 8": {
+      "en": "JSTOR 8",
+      "zh": "JSTOR 8号"
+    },
+    "LOẠI 9": {
+      "en": "JSTOR 9",
+      "zh": "第9号"
     },
     "Linh kiện cơ khí.": {
       "en": "Engineering.",
@@ -1079,9 +1523,25 @@
       "en": "Long An.",
       "zh": "长安人."
     },
+    "Loại xe": {
+      "en": "Car Type",
+      "zh": "车型"
+    },
+    "Loại xe là thông tin bắt buộc. Nếu không xác định được, hãy chọn Hãng và dòng xe để hệ thống tự phân loại.": {
+      "en": "The type of car is mandatory information. If it is not determined, select the Company and the line for the self-classification system.",
+      "zh": "车型为强制信息. 如果未确定,则选择公司和自分类系统线。"
+    },
     "Làm sao để tiết kiệm chi phí vận chuyển hàng hóa?": {
       "en": "How do I save my transportation costs?",
       "zh": "我怎么节省交通费?"
+    },
+    "Lưu kho": {
+      "en": "Storage",
+      "zh": "仓储"
+    },
+    "Lưu ý:": {
+      "en": "Note:",
+      "zh": "说明:"
     },
     "Lịch giao hàng.": {
       "en": "The delivery schedule.",
@@ -1114,6 +1574,14 @@
     "Mã đơn nếu có.": {
       "en": "Single code if there is.",
       "zh": "单码如果有的话。"
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu giao": {
+      "en": "Short description of the intersection position",
+      "zh": "交叉位置简介."
+    },
+    "Mô tả ngắn vị trí bốc xếp đầu lấy": {
+      "en": "Synchronising folder",
+      "zh": "创建新文件夹"
     },
     "Mạng xã hội Vận Tải Lưu Lê": {
       "en": "Archived Social Network",
@@ -1203,6 +1671,14 @@
       "en": "The demand for transportation by truck is increasingly common for the production business, factories, shops, business households as well as individual customers. From a few packages required to be delivered in TP.HCM to the machine shipments, pallet or industrial goods to carry across the province, selecting the right type of car decision directly to the cost, time and safety of the goods.referents to rental freight trucks of the Laven was built to meet various needs: small trucks of internal delivery, midfield trucks, raw trucks for businesses, North and major freight trucks.207 do not need to identify themselves from the very beginning. Just providing address for the purchase, where the delivery is, the type, weight, and size is expected, the Lever will advise the right car plan. This is especially consistent with non-regular cargo units or needs a variety of car load in singles. A shipment can simply take some of the inventory at TP.HCM and deliver it to the Pacific. But there are also orders to take at the Nani Plains plant, transport out to Hanoi, and then continue to deliver to the industrial district. So the airline truck service is simply what a car comes to pick up. The shipping unit is still required to calculate: The number of items. http://www.httml.html/rmtml.the number of items to be calculated.compositation.compossible.html.html.htmtml.htmtml.htm.httmlifiers may be allowed to allow the truck to function.compossive.aptres take and turnout.strlectively.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.comport.com.comport.com.com.com.com.com.com.com.com.com.com.com. Instead of buying more trucks, recruiting drivers, rental parking, maintenance, and vehicle management, businesses can rent transportation services as needed. This results in higher flexibility. One day the business needs only one and a half tonnes, another day it may need 5 tons or larger cars. When the order goes away, the business can rent the whole trip. When few goods are available, other options will be calculated to limit costs. For individual customers, trucks are also commonly used to: Stuff.approves. Million Machines. http://www.state.composits.compossives.CBMBMBBMWWWWWWWWW from the store to the site. From then on, rental freight trucks became suitable solutions for both small items and business regular transportation requirements. The freight truck services at the Archive Archived Media Service Department, and downloads for easy selection. The TP.HCMTP.HCM freight truck has a very large delivery density with various types from trade delivery, distributions to the production material. http://www.bmits.compositively accepts traffic in parts of TP.HCM to serve: www.TP.HCM. to the Pacific.TMMM. to the NHM.TMMM. Meanwhile, pallet goods, machines or products of large quantities may need a higher load vehicle. If the car cannot directly access the receiving address, the medium plan also needs to be calculated.> >> View service details: The TpHCMM truck to the province of KSV truck rental truck to the province often originates from the distribution truck, factory, agent, or customer to deliver between the two locals. For example:TP.HCM (10.HCM) The Pacific (10.HCM) Council of NaiTP.HCM.S.E.E.E.E.E.E.E.V.), the customer can choose the truck or other transportation of transportation to go on a special trip to the U.S.R.P.R.S.M.M.T.T.M.T.T.S.S.C.S.C.C. driver's to pick up the company's driver's driver's line for the company's job's job's position's service. >> View service details: Transportation truck to the province 1867 North South American cargo truck transport truck matches the orders for direct delivery, whole shipments or customers who want to take the high initiative on schedule. main routes can be connected:TP.HCM ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền ↔  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  miền  At the same time, the schedule has to include the distance, vacation time, and delivery conditions at two ends. For some heavy shipments or large productions do not require over-excessed delivery, the Media may also advise the plan to combine the road and the railroad to compare the cost.] >> View service details: North South 1806 freight truck carriers are high-rise truck districts due to high-level concentration of trucks, industrial areas, warehouses, and central distributions. Colonies of Pacific freight trucks match the requirements: Transportation Machines. https://www.god.edu/broad transfers of machinery. http://www.gowww.gowww.e.org >> View service details: Pacific freight truck 1843 The co-edition truck is also one of the major areas of the South Industrial Transportation. The Co-Nai truck truck is heavily concentrated at the Borders, Long City, Ascension and the production areas. The package is often included: Machines.States.States.States.Pallet. >> View service details: Lt. Naiüller Coordination truck carrying small cargo trucks are often selected when the amount of airline or intersections is available in the small road area. Some common load may include: 050.1 kg.1.1.1.5 tons.2 tonnes.1.1.1.1.1.1.1.1.5 pounds.real weights that are still dependent on each type of vehicle and traffic check. Minor downloads are suitable for:1.7.0.0.0.450.mmmmmmt. Transportation within the city. The point of this group of vehicles is flexible, more accessible to more areas and more reasonable costs if the amount of aviation is large.> >> View service details: Small Trucks carrying goods of freight trucks are typically used using the correct load selection which saves significantly the cost of transportation. (2001). A lightweight truck load matches small rows, urban affairs and short trips. Instead of renting a car too big to carry just a few lawsuits, the light truck helps to make the right use of it. This is a vehicle group suitable for shops, shops, businesses and the need for regular delivery. The medium truck matches the order with larger mass, more carton barrels, pallet or production.120 This car has a balance between transportation and flexibility.170 Large load trucks are typically used when: multiple tonnes. The large volume capture. The entire flight. http://www.god.go North.140 warehouses.in the case the cargo uses most of the car's capacity, renting the whole trip is usually more reasonable than subsisting many times.170 The closed barrel truck helps limit the impact from rain, dust and external environment.170 This car is consistent with: MD carton. OS. Electrical. Consumption. Some items need better protection on the journey. The borough-car truck has a more convenient advantage when mounted from the side or above side side side.170 This car is consistent with many types of machinery, supplies and industry. http://www.golegis receive what kind of goods?composing for freight truck rentals can meet many common groups. Machines and machinery may have large weights whether the size is not too large. Before the car is moved, the customer should provide: The amount.kmm. http://www.impossessed.com.com.com.com. There's pallet or not. There's a lifter. With large machinery, pre-reviewing pre-surface conditions help prevent ►. Industrials the factories typically use trucks to deliver: Consumption.citation.consumption.inspection.Pallet goods.160 points of this type are often required to receive relative transfer time. The consumer goods typically close to carton and can occupy many possible volume although the weight is not high. When placing the car, outside the total of the car, the customer should provide the number of barrels and sizes.170. The furniture and furniture of Gimbo, chairs, cabinets, household equipment, and furniture need to be properly arranged to limit collisions. Some products are light but large sizes should be selected instead of just looking at weight. The supplies and row of private constructions, accessories and construction equipment typically have special requests for the delivery site.770 should check: Enter.BJO rotation. Now, the car is allowed to enter. The palletPallet item is very convenient for truck transport because it is easy to use a lift truck. Information needs to be made up of: The pallet.DDDD is wide-size.1.480g (0.0.460). The entire ride of the Transition Transition is the vehicle that serves the customer's main shipment on that trip. The case is appropriate when: Most of the time. Reaches out of all vehicles. Mounting if the row only takes a small portion of the medium, the assembly can help reduce costs. However, this option is best suited when the delivery time is not overfolded. The Liu load will base the route and the amount of goods to advise customers for the appropriate form rather than default the client has to rent the entire car.Quy the freight truck at the Media A simple process helps the customer to save time when setting the car. Step 1: Provides supplies information ENCOM supplies: row names, numbers, weights, sizes and images if needed. Step 2: Provides pickpoints and handovers The IBM is only as specific as possible. For the factory or industrial district, it is important to add time to the purchase. Step 3: Liu Download Consulting Cars and Routes, Transport Unit determining the appropriate load.170 Step 4: The Price of the Costs is determined on the basis of real needs.170 should verify the price already included or have not included any.170 Step 5: Move the car line to the scheduled address. Step 6: The move is arranged and transported to the intersection. Step 7: Deliver the receiver to the audit and complete delivery. There's not a single price that applies to every ride. The price of the freight truck depends on multiple factors. This is the most direct distance. Large car load usually has higher operating costs than small cars. However, the choice of cars is too small and has to run more trips sometimes costs more than a large car. The row volume A shipment of only 500 kilograms but the total capacity of the car can still have to use large vehicles. So you need to see both 560 and a cubic meter. Small picks and intersections, areas that limit the means or position that are difficult to reach may affect the car plan. The timeout if the car has to wait hours to unload or unload, it could be expensive. The shipping and folding costs should be determined separately. If the client already has a lift and workers, the price plan will be different. The special request Example: the crane required. http://www.shift.waiting for extratime.go on a special road. These factors should be traded first.> >> See details: The price of the MTV freight truck receiving the price of fast cargo trucks can be prepared six pieces of information: Places – where delivery – the amount – the load – the weight – the size. For example: “Get in the Pacific, deliver the Hanoi, 4 pallet machines, a total of 3 tonnes, each pallet 1.1.0.000 m. ” Such information would be much more accurate than simply asking: ‘ How much does a car go to Hanoi? If the item is special, the customer can send more images to the Archivers for inspection.Hotline reports price: 0909 81 6625 Common errors when hiring the MHV truck Just informing weight without warning the size of 500 kilograms of metal and 500 kilograms of Styrofoam may require two completely different vehicles. Unable to check the road into the car gets the right load, but not access to the depot will cause a transfer. No delivery time announced. If the package is not ready when the car arrives, the schedule may be affected. Picking a car too small for more trips is not always cheaper. Selecting cars too large to be small but using large vehicles increases costs not necessary. Therefore, the counseling step before the car is very important. How to save truck rental costs? This is the simplest way to select the right car. If you don't have to deliver them in a hurry, business can collect many singles on the same line. Leading the forward transport schedule helps the transport unit to regulate the vehicle. The optimization is too large for the product that can significantly increase the volume. Check for pre-prepared conditions with lifts or workers helping shorten the time the car is waiting. Comparison of the entire trip and joint plan Not to default a cheaper form than the remaining form. › Each option has a different optimum point.[citation needed] Colonial Transportation of Business Odg with a personal transport, business typically has a need for repetition. For example: The factory each day has 5 – 10 pallet delivered to the customer. LHz distributed each week has many TP.HCM – Pacific.Dom the production of each month needs to be brought out to the Netherlands. In these cases, it is not only important to have the price but it is also the ability to maintain the transport capacity. Archived by week: the downloads can be coordinated by week. According to the project. According to each production.Doalm can take the initiative to provide forecast production so that the car arrangement is more efficient. The truck for the factory and the factory industry has a request for delivery different from the regular customer. LPL may have to: Signing Seas First. Just now Booking. Waiting for evidence from. Therefore, the delivery truck rental needs to focus on the executive and more than just bringing the car in. Common routes can connect between:TP.HCM – Pacific – Plain Nai – Long An – Western Air and other provinces. For the plant has a number of North Southern goods, Liu Li can also advise incorporate many forms of transportation when the cost is required. Why select the Media to rent a freight truck? BRAZIL Serving many freight routes can use services from within the city to the provinces and North South. This is convenient for businesses with various intersections.170 Multiple car options The choice of vehicles based on product specifications instead of applying a fixed type of car.121 Retrieve and deliver where Liu Download can layout vehicles at archive and deliver to address according to agreement. Fits both small and large rows from a few minor lawsuits to a lot of pallet can be considered accordingly. Consulting the car before conducting a load test, volume and route help restrict the car type. Serving the business with the regular amount of business, the shipping calendar can be held as scheduled. Assistance from the requirements for transfers, bills, and certificates are traded in singles. Information needs to be prepared before the rental of the truck for quick and limited prices to arise, the customer should be prepared: the customer. the package or pallet. The total weight.The IP only takes. The IP only delivers. The time needs the car. The conditions are set up. Love receipts. Customers can provide an address to get and deliver to check out the type of car that fits. Can you rent a truck to the province? Service serves multiple interrelation routes and lengths. Is there a truck carrying North South? The shipments that need a full-time ride can be advised to the appropriate plan. Is there a small truck? The demand and timing of the car, the customer may ask for a small load that fits the load. Did you pick up the merchandise at the Pacific and the Plain of Nai? These are areas where demand is available to transport plants and large industrial goods. Is the car whole or is it cheaper? Few items need to be compared to the combination plan, while large items that are almost full of cars can be better suited to the entire ride.170 How do you know how much to rent a car? The price of the car rental? [citation needed] Can you get the goods? Is it delivered? The intersection needed to be provided when the price was told to determine the exact method. In addition to the service for rental truckloading Lavey when it needed services for truck rentals at TP.HCM, Pacific, Koi's Coon, shipping to the province or rental truck running south, customers could be contactable to be advised. Only need to provide basic information about goods and places receiving, the Archives would support the gravity option, the standard of transportation and appropriate delivery. The customer could not be directly used, but was the right option, by which means, by means, the cost of the time, and the cost of the CVVIVWNNNNNNNWNNNL: the entire amount. Trust – Professional",
       "zh": "生产企业、工厂、商店、商业家庭以及个人客户对卡车运输的需求越来越普遍。 从需要用TP.HCM交付的几件货包到机器装运,托盘或工业品以跨省运输,选择正确的汽车决定型号直接到货物的成本,时间和安全. 建造Laven号的租用货运卡车是为了满足各种需要:小型内部运输卡车、中场卡车、供企业使用的生货卡车、北方卡车和主要货运卡车。 207号货物从一开始就不需要自我识别。 仅提供购买地址,交货地点,种类,重量,规模预计,利弗将建议正确的汽车计划. 这与非正规货运单元特别一致,或需要单车各种载货量. 发货只需将TP.HCM的一些库存货物运至太平洋。 但也有在纳尼平原工厂取货的命令,运往河内,然后继续运送到工业区. 因此,航空卡车服务只是汽车来接的东西。 货运单位仍须计算:项目数. http://www.httml.html/rmtml. compositation.composibility.html.htmtml.htm.htttml.htm.htttmliders 可以允许货车运行.compossive.aptres takes and asset.strectively.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com.com. 企业不购买更多的卡车、招聘司机、租用停车、维修和车辆管理,而是可视需要租用运输服务。 这导致更大的灵活性。 一天,企业只需要1.5吨,另一天可能需要5吨或更大的汽车。 当订单取消后,企业可以租用整个行程. 如果货物不多,将计算其他备选办法以限制成本。 对个别顾客来说,卡车也通常用于: 百万机缘. http://www.state.composits.compossives. CBMBBMWWWW 从商店到网站. 从那时起,租用的货运卡车成为满足小型物品和商业正常运输需要的合适办法。 Archived Media Service的货运卡车服务,以及方便选择的下载. TP.HCMTP.HCM货运卡车的投递密度非常大,从贸易投递,配送到生产材料,种类各异. http://www.bmits.com积极接受TP.HCM部分流量服务:www.TP.HCM.至太平洋.TMM.至NHM.TMM. 同时,托盘货物、机器或大量产品可能需要一辆更高的载货车。 如果汽车无法直接访问接收地址,还需要计算中期计划。 \" 查看服务细节:TpHCMM卡车前往省内KSV卡车出租卡车前往省内,往往发源于配送卡车,工厂,代理商,或顾客,在两地之间交运. 例如:TP.HCM (10.HCM) NaiTP.HCM(10.HCM)的太平天国理事会,客户可以选择卡车或其他运输方式前往U.R.M.M.T.T.T.T.T.C.C.C.的司机去接公司的司机线路,为公司的工作岗位服务. >> 查看服务细节:前往该省的1867年北美货运卡车运输车与直接交货,整批货物或希望按期采取高额主动的客户的订单相符. 主要线路可连接:TP.HCM ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ ↔ 同时,时刻表必须包括距离,休假时间,以及两端的交货条件. 对于一些重型货物或大型产品不需要超额交付,媒体也可建议计划将公路和铁路结合起来比较成本。 ] 观景服务详情: 1806年南北货运货车运输公司是高层货车区,因为货车高度集中,工业区,仓库,以及中央配送. 太平洋货运卡车殖民地符合要求:运输机器。 https://www.god.edu/broad 转让机器。 http://www.gowww.gowww.e.org                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        查看服务详情:1843年太平洋货运车 合编货车也是南方工业运输的主要领域之一. 联合奈货车主要集中在边境,长城,阿森松和生产区. 包件经常包括: 机器. 国家。 国家。 国家。 托盘。 查看服务细节: Naiüller中校 搭载小货车的协调卡车在小路区有航空公司或路口时经常被选中. 一些常见的负载可能包括: 0.50.1公斤 1.1.1.1.5吨 1.1.1.1.1.1.5磅 实际重量仍取决于每种车辆和交通检查。 小下载适用于:1.7.0.0.0.450.mmmmmmt. 城内交通. 这组车辆的要点是灵活的,如果航空量大,可以更方便地进入更多地区,而且成本更合理。 \" QQ 查看服务细节:运载货运卡车货物的小卡车通常使用正确的载荷选择,这大大节省了运输费用(2001年)。 轻量级货车载重与小排,城市事务和短途旅行相匹配. 轻型卡车与其租一辆太大的汽车只搭载几起诉讼,不如帮助正确使用. 这是一个适合商店,商店,企业和定期交货需要的车辆组. 中型卡车将订单与更大的质量、更多的纸桶、托盘或生产相匹配。 120号 这辆车在交通和灵活性之间保持平衡. 170 大型载货卡车通常用于:多吨。 大量捕捉. 整个航班 http://www.god.go (中文(简体) ). 北面140号仓库 如果货物使用汽车的大部分容量,则租用整趟车通常比多趟车更合理。 封闭式桶车有助于限制雨,灰尘和外部环境的影响. 170国 这辆车符合: MD卡通. 操作员 电气 消费。 一些物品在旅途中需要更好的保护. 从侧面或侧面上方挂车时,区车具有更方便的优点. 170国 这种车与许多类型的机械,用品和工业一致. http://www.golegis 接受何种商品? 货运卡车租赁的组装可以满足许多常见的组装. 机器和机械的重量可能很大,无论尺寸是否太大。 在动车前,客户应当提供:金额.kmm. http://www.imposervadate.com.com.com. (原始内容存档于2017-09-27). 有无托盘. 有举者. 有了大型机器,预先审查表面条件有助于防止...。 工厂通常使用卡车运送货物:消费、引用、消费、检查。 托盘货物. 160 此类的点往往需要获得相对的转移时间. 消费品一般接近卡通,尽管重量不高,但可能占据许多体积。 在放置汽车时,在汽车总量之外,客户应当提供桶数和尺寸. 170 (英语). 金波的家具和家具,椅子,柜子,家用设备和家具需要妥善安排,以限制碰撞. 有些产品是轻的,但应该选择大尺寸,而不是仅仅看重量。 私人建筑、配件和建筑设备的供应和排位一般都有对交货地点的特殊要求。 770应检查:Enter.BJO旋转。 现在,车被允许进入。 托盘Pallet物品对卡车运输非常方便,因为它很容易使用起重卡车. 信息需要由: 托盘组成. DDDD为宽1.480g(0.0.460). 过渡过渡的整个旅程是该次旅行中为客户的主要货物提供服务的车辆。 多数时候都是这样。 到达所有车辆。 如果列只占用一小部分介质,则组装可以帮助降低成本. 然而,在交货时间不超时,这一选择最合适。 刘负载将基于路线和货物数量,向客户建议适当的形式,而不是默认客户必须租用整辆车. 在Media查询货运卡车 简单的流程帮助客户在设定汽车时节省时间. 第1步:提供ENCOM用品:行名、数字、重量、大小和图像。 步骤2:提供挑点和移交 IBM只是尽可能具体. 对工厂或工业区,要增加收购时间. 第3步:刘下载咨询车与路线,交通 确定适当载荷的单位. 170 第4步:费用价格根据实际需要确定。 170 应核实已经列入或没有列入的价格。 170 第5步:将汽车线路移至预定地址. 步骤6:移动被安排并运至交叉路口. 步骤7:将接收人交付审计并完成交付。 每一次骑马都适用一个价格. 货运卡车的价格取决于多种因素。 这是最直接的距离。 大型汽车载荷的运营成本通常比小型汽车要高. 然而,车厢的选择量太小,必须进行更多的旅行,有时比大车要花费更多. 排行量A运量仅500公斤,但车体总容量仍可使用大型车辆. 所以,你需要看到560和一个立方表。 小挑和交叉点,限制手段或位置难以到达的区域,可能影响汽车计划. 如果车辆需要等待数小时才能卸货或卸货,则超时可能很昂贵. 运费和折叠费应当另行确定. 如果客户已经有电梯和工人,价格计划就会有所不同. 特殊请求 例:需要起重机. http://www.short. 等待外出时间. go on a special road. 这些因素应首先交易。 \" QQ 详情见: 接收快货卡车价格的MTV货运卡车的价格可以准备六条信息:地点——交货地点——货量——货载量——重量——尺寸. 例如:“进入太平洋,交付河内,4台托盘机,总共3吨,每台托盘1.10 000米。” 这种资料比简单的问:`一辆汽车去河内要多少? 如果物品是特殊的,客户可以将更多的图像发送给档案员检查. 热线报告价格:0909 81 6625 使用MHV卡车时常见的错误只是告知重量而不发出警告,500公斤金属和500公斤Styrofoam的尺寸可能需要两辆完全不同的车辆。 无法检查进车的道路得到正确的载荷,但不能进入仓库将导致转移. 没有宣布交货时间。 如果货包在汽车到达时还没有准备好,则时刻表可能会受到影响. 选车太小,不能多跑步,并不总是更便宜. 选择大到小但使用大汽车的汽车会增加不必要的成本. 因此,车前的咨询步骤非常重要. 如何节省卡车租金? 这是选择合适的车的最简单的方式. 如果你不必匆忙送来,商业界可以收集到同线的许多单曲. 引导前方运输时刻表帮助运输单位规范车辆. 优化对于能够显著增加体积的产品来说太大了. 请检查date=中的日期值 (帮助) 有升降机或工人帮助缩短汽车等候时间的预备条件. 比较整个行程和联合计划 不缺省比剩余表格便宜的表格. 每个选项都有不同的最佳点。 [引文需要] 例如:工厂每天有5–10个托盘交付给客户. 每周发行的LHz拥有许多TP.HCM – Pacific. 多姆每个月的制作需要带到荷兰. 在这些情况下,不仅要有价格,而且要有能力维持运输能力。 按周存档:下载内容可按周协调. 根据项目。 根据每次制作. 多尔姆可以主动提供预测性生产,这样汽车安排就更有效率了. 工厂和工厂工业的卡车有与普通客户不同的交货要求. LPL可能必须:先签署海. 刚刚预订。 等待证据从。 因此,快递卡车的租金需要把重点放在执行官身上,而不仅仅是把车开进来. 常见的航线可以连接:TP.HCM – Pacific – Plain Nai – Long An – 西航等省份. 因为该厂拥有一些北南货,刘力也可以建议在需要成本时纳入多种运输方式. 为什么选媒体租货车? 巴西 服务于许多货运线路可以使用从市内到各省和南北的服务. 这对各种交叉点的企业来说是方便的. 170 多种车型 根据产品规格选择车辆,而不是应用固定型号的汽车. 121 检索和交付刘下载可以将车辆布局到档案馆,并按照协议交付地址. 从几件小诉讼到很多托盘,无论小的还是大排都是合适的,都可以相应地考虑. 在进行载荷测试前咨询车体,体积和路线帮助限制车型. 以正常业务量为业务服务,航运日历可以按期举行. 转让、账单和证书要求提供的援助是单笔交易。 在租用卡车前需要准备信息,以便迅速和有限度地定价,客户应做好准备:客户。 包裹或托盘。 总重. IP只收钱 IP只提供. 时间需要车。 条件设置. 爱情收据。 客户可以提供地址,以获取和交付以检查适合的车型. 你能租辆卡车去省里吗? 服务服务服务于多种相互关系路线和长度。 有没有卡车载着南北方? 需要全时乘车的货运,可以告知相应的计划. 有小卡车吗? 车的需求和时间,顾客可能要求一个符合载荷的小型载荷. 你在太平洋和奈河平原捡到商品了吗? 这些地区的运输厂和大型工业品都有需求。 整车还是便宜? 很少物品需要与组合计划相比较,而几乎满载汽车的大型物品则可以更适合整个骑行. 170国 你怎么知道租车要多少钱? 租车的价格? [需要引用] 你能拿到货吗? 送到了吗? 当价格被告知确定确切方法时,需要提供交叉点。 除了在TP.HCM、Pacific、Koi's Coon、运至该省或向南运行的出租卡车需要租车服务时向Lawey提供租车装卸服务外,还可通知客户。 档案馆只需要提供有关货物和接收地点的基本信息,就可以支持重力选择、运输标准和适当交付。 客户不能直接使用,而是正确的选择,通过这种方法,时间成本,以及CVVIVWNNNNNNNNL:全部金额的成本. 信托-专业人员"
     },
+    "Nhà đến Ga": {
+      "en": "Door-to-Station",
+      "zh": "门到站"
+    },
+    "Nhà đến Nhà": {
+      "en": "Door-to-Door",
+      "zh": "门到门"
+    },
     "Nhân sự kho.": {
       "en": "Archived personnel.",
       "zh": "存档人员."
@@ -1215,13 +1691,29 @@
       "en": "The group is usually counted heavily on the iTunes or tons.",
       "zh": "该组通常被大量计入iTunes或吨."
     },
+    "Nhận báo giá chính xác": {
+      "en": "Receive the correct price",
+      "zh": "接收正确的价格"
+    },
     "Nhận thông tin đơn hàng.": {
       "en": "Get the order information.",
       "zh": "获取订单信息."
     },
+    "Nhập họ và tên": {
+      "en": "Import family and name",
+      "zh": "输入家族和姓名"
+    },
     "Nhập nội dung cần tìm...": {
       "en": "Import Contents to Find...",
       "zh": "导入要查找的内容..."
+    },
+    "Nhập tên hàng và số lượng tổng để hệ thống tự cập nhật kg và m³ theo bộ nhận diện hiện có.": {
+      "en": "Enter the row name and total number for the self-update system and m3 in the current identification system.",
+      "zh": "输入自更新系统的行名和总数,以及当前识别系统中的m3。"
+    },
+    "Nhập tên máy/thiết bị và số lượng tổng; kg và m³ sẽ tự cập nhật theo bộ nhận diện, có thể sửa bằng số liệu thực tế.": {
+      "en": "Enter the host name/set and total number; kilograms and m3 will self-update by identification, which can be modified by actual figures.",
+      "zh": "输入主机名称/设置和总数;kug和m3会通过识别自我更新,可以通过实际数字修改."
     },
     "Những lưu ý chung": {
       "en": "General Information",
@@ -1275,6 +1767,10 @@
       "en": "If not folded, the business can gather many singles into one transport.",
       "zh": "如果不折叠,企业可以将许多单人集成为一运输."
     },
+    "Nếu không nắm rõ tên mặt hàng, khối lượng tổng, thể tích tổng? Hoặc hàng gồm nhiều loại khác nhau? Vui lòng nhập các thông tin chi tiết vào mục bên dưới, hệ thống sẽ tự động tính ra cho bạn!": {
+      "en": "If you don't know the name of the package, the total mass, the total volume? Or are the lines varied? Please enter detailed information into the item below, the system will automatically calculate it for you!",
+      "zh": "如果你不知道包裹的名称,总质量,总体积? 还是台词不同? 请在下面的项目中输入详细资料,系统会自动为您计算!"
+    },
     "Nếu kích thước tính bằng mét thì kết quả là m³.": {
       "en": "If the size is meters, the result is m3.",
       "zh": "如果尺寸为米,结果为m3."
@@ -1299,6 +1795,10 @@
       "en": "The interior.",
       "zh": "内地."
     },
+    "Pallet": {
+      "en": "Pallet",
+      "zh": "圆盘"
+    },
     "Pallet hàng.": {
       "en": "Pallet stock.",
       "zh": "托盘股票."
@@ -1307,6 +1807,22 @@
       "en": "Pallet is convenient for the use of lifts and arrangements in storage.",
       "zh": "托盘方便于使用升降机和储存安排."
     },
+    "Pallet, tank và kiện hàng trên 200kg bắt buộc sử dụng xe nâng tại 2 đầu ga tàu và có phát sinh phí xe nâng. Tại 2 đầu kho, khách hàng hỗ trợ đưa hàng lên và xuống xe.": {
+      "en": "Pallet, tank and package over 200 kilograms forced to use the lift car at 2 end of the train station and there was a lift fee. At two end of the warehouse, the client assists to load up and down.",
+      "zh": "托盘,坦克和包裹超过200公斤被迫在火车站两端使用升降车,并收取升降费. 在仓库两端,客户协助上下加载."
+    },
+    "Phân loại": {
+      "en": "Category",
+      "zh": "类别"
+    },
+    "Phân loại hàng tự động": {
+      "en": "Automatic Cargo Classification",
+      "zh": "自动识别货物类别"
+    },
+    "Phí lưu kho 200.000đ/ngày": {
+      "en": "US$200/day archive",
+      "zh": "每日200美元档案费"
+    },
     "Phú Thọ.": {
       "en": "Fun Ting.",
       "zh": "乐婷."
@@ -1314,6 +1830,14 @@
     "Phú Yên.": {
       "en": "Fuji Guo",
       "zh": "藤国"
+    },
+    "Phương thức": {
+      "en": "Mode",
+      "zh": "模式"
+    },
+    "Phương thức giao nhận": {
+      "en": "Protocol",
+      "zh": "议定书"
     },
     "Phương tiện chuyên dụng phù hợp từng loại hàng.": {
       "en": "Professional vehicles fit each of the rows.",
@@ -1327,9 +1851,25 @@
       "en": "The option is consistent with:",
       "zh": "该选项符合:"
     },
+    "Phường/Xã": {
+      "en": "Ward/Commune",
+      "zh": "坊／社"
+    },
+    "Phụ phí 900.000đ/lần": {
+      "en": "$900,000 apiece",
+      "zh": "每人90万美元"
+    },
     "Phụ tùng.": {
       "en": "The parts.",
       "zh": "诸部分."
+    },
+    "Piaggio Liberty": {
+      "en": "Piaggio Liberty",
+      "zh": "皮亚焦自由组织"
+    },
+    "QUY CÁCH ĐÓNG HÀNG": {
+      "en": "REVIECTION",
+      "zh": "修订"
     },
     "Quy trình cơ bản:": {
       "en": "Basic process:",
@@ -1338,6 +1878,10 @@
     "Quy trình vận chuyển hàng hóa tại Vận Tải Lưu Lê": {
       "en": "The Transportation Process at the Media",
       "zh": "媒体的运输过程"
+    },
+    "Quy ước 1 m³ = 350 kg: trên 350 kg/m³ tính hàng nặng; từ 350 kg/m³ trở xuống tính hàng nhẹ.": {
+      "en": "Rule 1 m3 = 350 kg: over 350 kg/m3 weights; from 350 kg/m3 to down the light row.",
+      "zh": "规则1m3=350公斤:超过350公斤/立方米体重;从350公斤/立方米到下行轻排."
     },
     "Quãng đường vận chuyển dài.": {
       "en": "Long transport routes.",
@@ -1359,9 +1903,137 @@
       "en": "Guang.",
       "zh": "广曰."
     },
+    "Quận 1": {
+      "en": "District 1",
+      "zh": "区1"
+    },
+    "Quận 10": {
+      "en": "District 10",
+      "zh": "第10区"
+    },
+    "Quận 11": {
+      "en": "District 11",
+      "zh": "第11区"
+    },
+    "Quận 12": {
+      "en": "District 12",
+      "zh": "第12区"
+    },
+    "Quận 3": {
+      "en": "District 3",
+      "zh": "第3区"
+    },
+    "Quận 4": {
+      "en": "District 4",
+      "zh": "第4区"
+    },
+    "Quận 5": {
+      "en": "District 5",
+      "zh": "第5区"
+    },
+    "Quận 6": {
+      "en": "District 6",
+      "zh": "第6区"
+    },
+    "Quận 7": {
+      "en": "District 7",
+      "zh": "第7区"
+    },
+    "Quận 8": {
+      "en": "District 8",
+      "zh": "第8区"
+    },
+    "Quận Ba Đình": {
+      "en": "District of Ting",
+      "zh": "丁区"
+    },
+    "Quận Bình Thạnh": {
+      "en": "District of Peace",
+      "zh": "和平区"
+    },
+    "Quận Bình Tân": {
+      "en": "Penis District",
+      "zh": "佩尼斯区"
+    },
+    "Quận Bắc Từ Liêm": {
+      "en": "North District from the Dyer",
+      "zh": "北区从迪尔"
+    },
+    "Quận Cầu Giấy": {
+      "en": "Paper Bridge District",
+      "zh": "纸桥区"
+    },
+    "Quận Gò Vấp": {
+      "en": "\"President District\".",
+      "zh": "\"区长\"."
+    },
+    "Quận Hai Bà Trưng": {
+      "en": "Two women's district",
+      "zh": "两个女区"
+    },
+    "Quận Hoàn Kiếm": {
+      "en": "The District of Swords",
+      "zh": "剑城区"
+    },
+    "Quận Hoàng Mai": {
+      "en": "Royal Mai District",
+      "zh": "皇家迈区"
+    },
+    "Quận Hà Đông": {
+      "en": "Dutch District",
+      "zh": "荷兰区"
+    },
+    "Quận Long Biên": {
+      "en": "Long Border District",
+      "zh": "长边区"
+    },
+    "Quận Nam Từ Liêm": {
+      "en": "South District from the South",
+      "zh": "南部地区"
+    },
+    "Quận Phú Nhuận": {
+      "en": "Funky District",
+      "zh": "丰基区"
+    },
+    "Quận Thanh Xuân": {
+      "en": "Qing Chun District",
+      "zh": "青春区"
+    },
+    "Quận Tân Bình": {
+      "en": "New Zealand District",
+      "zh": "新西兰区"
+    },
+    "Quận Tân Phú": {
+      "en": "New Funky District",
+      "zh": "新丰基区"
+    },
+    "Quận Tây Hồ": {
+      "en": "West Lake District",
+      "zh": "西湖区"
+    },
+    "Quận Đống Đa": {
+      "en": "Middle District",
+      "zh": "中区"
+    },
+    "Quận/Huyện": {
+      "en": "District",
+      "zh": "区／县"
+    },
+    "Royal Enfield": {
+      "en": "Royal Enfield",
+      "zh": "皇家恩菲尔德"
+    },
     "Rất nhiều khách hàng cần": {
       "en": "Lots of clients need",
       "zh": "需要很多客户"
+    },
+    "SYM Attila": {
+      "en": "SYMtica",
+      "zh": "软件"
+    },
+    "SYM Galaxy": {
+      "en": "SYM Galaxy",
+      "zh": "银河系统"
     },
     "Sau khi có đủ thông tin, Vận Tải Lưu Lê tiến hành báo giá.": {
       "en": "After having enough information, Liu Load conducts the price.",
@@ -1371,6 +2043,10 @@
       "en": "After delivery, both parties confirmed the number and condition of the cargo.",
       "zh": "交货后,双方确认货物数量和状况."
     },
+    "Sau khi gửi, hệ thống sẽ ghi nhận ngay đơn vận chuyển của Quý khách.": {
+      "en": "After the delivery, the system will immediately record the transfer order.",
+      "zh": "交付后,系统会立即记录转移订单."
+    },
     "Sau khi tập kết, hàng được vận chuyển vào TP.HCM hoặc giao tiếp đến Bình Dương, Đồng Nai, Long An và các tỉnh miền Nam.": {
       "en": "After the rally, the package is transported into TP.HCM or communicates to the Pacific, Plain Nai, Long An and the Southern provinces.",
       "zh": "集会后,包裹被运入TP.HCM,或与太平洋,平原直隶,长安等地和南方省份通电."
@@ -1379,25 +2055,97 @@
       "en": "Then transport to the Central provinces.",
       "zh": "后被运至中外各省."
     },
+    "Suzuki Burgman": {
+      "en": "Suzuki Burgman",
+      "zh": "铃木伯格曼"
+    },
+    "Suzuki GSX-R150": {
+      "en": "Suzuki GSX-R150",
+      "zh": "铃木 GSX-R150"
+    },
+    "Suzuki Raider": {
+      "en": "Suzuki Raider",
+      "zh": "铃木突击队"
+    },
+    "Suzuki Satria": {
+      "en": "Suzuki Satria",
+      "zh": "铃木佐特里亚"
+    },
+    "Sảnh / tầng trệt": {
+      "en": "Bottom/floor",
+      "zh": "底楼/底楼"
+    },
+    "Sảnh↔xe: nhẹ 50.000đ/m³; nặng 150.000đ/tấn. Tầng/hầm có thang máy cộng thêm theo quy định": {
+      "en": "The MLIZER: Light 50,000 mph/m3; heavy bleh/dm. The floor/place with elevators added by regulations",
+      "zh": "MLIZER:轻度50000 mph/m3;重度bleh/dm. 法规增加的带有电梯的地板/地点"
+    },
     "Sắp xếp lịch lấy hàng.": {
       "en": "Set a schedule.",
       "zh": "设定日程."
+    },
+    "Số kiện tổng": {
+      "en": "Total Packages",
+      "zh": "总件数"
     },
     "Số kiện.": {
       "en": "Facts.",
       "zh": "事实"
     },
+    "Số liệu thực tế khách nhập luôn được ưu tiên hơn số liệu ước tính.": {
+      "en": "In fact the entry is always preferred over the estimates.",
+      "zh": "事实上,该条目总是比估计数更可取。"
+    },
+    "Số lượng": {
+      "en": "Count",
+      "zh": "计数"
+    },
     "Số lượng nhiều.": {
       "en": "Lot of numbers.",
       "zh": "很多数字"
+    },
+    "Số lượng tổng": {
+      "en": "Total Number",
+      "zh": "总数"
+    },
+    "Số lượng xe": {
+      "en": "Number of cars",
+      "zh": "汽车数量"
+    },
+    "Số ngày lưu kho": {
+      "en": "Number of Archived Days",
+      "zh": "归档天数"
+    },
+    "Số ngày lưu kho xe máy": {
+      "en": "Number of days of motorcycle Archives",
+      "zh": "摩托车档案馆的天数"
     },
     "Số pallet.": {
       "en": "The pallet number.",
       "zh": "托盘号."
     },
+    "Số điện thoại": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
     "Số điện thoại.": {
       "en": "Phone number.",
       "zh": "电话号码。"
+    },
+    "Sử dụng công cụ tính cước nhanh dưới đây của chúng tôi để tra cứu giá cước chính xác nhé:": {
+      "en": "Using our short-lived bottom-up tool to check the exact rate:",
+      "zh": "使用我们短暂的自下而上的工具来检查精确的速率:"
+    },
+    "Sử dụng địa danh mới sau sáp nhập": {
+      "en": "Use updated administrative place names",
+      "zh": "使用行政区划调整后的新地名"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ gửi": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
+    },
+    "Sử dụng địa danh mới sau sáp nhập cho địa chỉ nhận": {
+      "en": "Use the following new name integrating address",
+      "zh": "使用以下新名称集成地址"
     },
     "THÔNG BÁO": {
       "en": "Announcements",
@@ -1455,6 +2203,10 @@
       "en": "TP.HCM.",
       "zh": "TP.HCM (英语)."
     },
+    "TRA CỨU": {
+      "en": "CHECK",
+      "zh": "查询"
+    },
     "TRA CỨU GIÁ CƯỚC": {
       "en": "CENTRAL",
       "zh": "中央"
@@ -1470,6 +2222,14 @@
     "TUYỂN DỤNG": {
       "en": "Careers",
       "zh": "招聘"
+    },
+    "Tank": {
+      "en": "Tank",
+      "zh": "坦克"
+    },
+    "Thang máy": {
+      "en": "Elevator",
+      "zh": "电梯"
     },
     "Thanh Hóa.": {
       "en": "Qing Chem.",
@@ -1491,9 +2251,41 @@
       "en": "City.",
       "zh": "城 City."
     },
+    "Thành phố Cần Thơ": {
+      "en": "City of Need of Poem",
+      "zh": "贫困之城"
+    },
+    "Thành phố Huế": {
+      "en": "Salt City",
+      "zh": "盐城"
+    },
+    "Thành phố Hà Nội": {
+      "en": "Hanoi",
+      "zh": "河内"
+    },
+    "Thành phố Hải Phòng": {
+      "en": "The City of Customs",
+      "zh": "海关"
+    },
+    "Thành phố Hồ Chí Minh": {
+      "en": "Ho Chi Minh City",
+      "zh": "胡志明市"
+    },
+    "Thành phố Thủ Đức": {
+      "en": "German City of Prime Ministers",
+      "zh": "德国总理城"
+    },
+    "Thành phố Đà Nẵng": {
+      "en": "Da Nang City",
+      "zh": "大南市"
+    },
     "Thái Nguyên.": {
       "en": "Yuan.",
       "zh": "Yuan."
+    },
+    "Thôn/Xóm/Ấp, đường và số nhà": {
+      "en": "Hamlet, street and house number",
+      "zh": "村／组、街道及门牌号"
     },
     "Thông thường có hai nhóm chính.": {
       "en": "Usually there are two main groups.",
@@ -1506,6 +2298,10 @@
     "Thông tin chính xác giúp lựa chọn xe phù hợp và hạn chế điều xe quá lớn.": {
       "en": "Accurate information helps select suitable cars and restricts cars to too large.",
       "zh": "准确的信息有助于选择合适的汽车,并限制汽车太大."
+    },
+    "Thông tin hàng hóa": {
+      "en": "Row Information",
+      "zh": "行信息"
     },
     "Thông tin này nên được cung cấp ngay khi báo giá.": {
       "en": "This information should be provided as soon as the price is announced.",
@@ -1523,6 +2319,10 @@
       "en": "The volume is equal to the length of the square root.",
       "zh": "量与平方根相等."
     },
+    "Thể tích tổng": {
+      "en": "Total Volume",
+      "zh": "总体积"
+    },
     "Thể tích.": {
       "en": "Physical.",
       "zh": "有形."
@@ -1530,6 +2330,14 @@
     "Thị trường hiện nay có nhiều đơn vị cung cấp": {
       "en": "The market currently has many supply units",
       "zh": "市场目前有许多供应单位"
+    },
+    "Thị xã Sơn Tây": {
+      "en": "Western Village",
+      "zh": "西村镇"
+    },
+    "Thời gian": {
+      "en": "Time",
+      "zh": "时间"
     },
     "Thời gian phụ thuộc tuyến đường, hình thức vận chuyển, địa điểm nhận giao và đặc điểm đơn hàng. Khách hàng nên cung cấp địa chỉ cụ thể để được tư vấn chính xác.": {
       "en": "The time depends on the route, the form of transportation, the destination receiving delivery, and the unit features. Customers should provide specific address for accurate consultation.",
@@ -1559,6 +2367,10 @@
       "en": "Previous Page",
       "zh": "上一页"
     },
+    "Triumph": {
+      "en": "Triumph",
+      "zh": "凯旋"
+    },
     "Trong hoạt động logistics, vận chuyển là một trong những khâu quan trọng nhất.": {
       "en": "In logistics activity, transport is one of the most important stitches.",
       "zh": "在物流活动中,运输是最重要的缝合之一."
@@ -1574,6 +2386,10 @@
     "Trung tâm hướng dẫn": {
       "en": "Guide Center",
       "zh": "引导中心"
+    },
+    "Trên tầng/lầu": {
+      "en": "Upstairs.",
+      "zh": "楼上"
     },
     "Trước khi nhận hàng cần xác định:": {
       "en": "Prior to receiving items to specify:",
@@ -1627,6 +2443,14 @@
       "en": "Short line.",
       "zh": "短线."
     },
+    "Tuyến vận chuyển": {
+      "en": "Shipping Route",
+      "zh": "运输路线"
+    },
+    "Tuyến đường sắt": {
+      "en": "Railway",
+      "zh": "铁路"
+    },
     "Twitter Vận Tải Lưu Lê": {
       "en": "Twitter Media",
       "zh": "推特媒体"
@@ -1635,13 +2459,25 @@
       "en": "Account",
       "zh": "账户"
     },
+    "Tách rõ cước và phụ phí": {
+      "en": "Itemized Shipping Charges and Surcharges",
+      "zh": "运费与附加费分项列明"
+    },
     "Tây Ninh.": {
       "en": "Western York.",
       "zh": "西约克"
     },
+    "Tên hàng": {
+      "en": "Cargo Description",
+      "zh": "货物名称"
+    },
     "Tên loại hàng.": {
       "en": "The package name.",
       "zh": "包裹名."
+    },
+    "Tên máy/thiết bị": {
+      "en": "Hostname/ Device",
+      "zh": "主机名/ 设备"
     },
     "Tên người nhận.": {
       "en": "The recipient's name.",
@@ -1654,6 +2490,14 @@
     "Tìm kiếm": {
       "en": "Search",
       "zh": "搜索"
+    },
+    "Tích chọn nếu lô đồ gia đình có xe máy đi cùng": {
+      "en": "Select if a family shipment has a motorcycle with it",
+      "zh": "选择家用货有没有摩托车"
+    },
+    "Tính cước ngay": {
+      "en": "Calculate Shipping Cost",
+      "zh": "立即计算运费"
     },
     "Tùy khoảng cách và đặc điểm hàng hóa, quá trình vận chuyển có thể được thực hiện bằng:": {
       "en": "Depending on the distance and characteristics of the goods, the transport process can be done with:",
@@ -1683,9 +2527,253 @@
       "en": "Consulting AI Media",
       "zh": "咨询AI媒体"
     },
+    "Tạm tính trước VAT": {
+      "en": "Publishing VAT",
+      "zh": "公布增值税"
+    },
     "Tần suất vận chuyển.": {
       "en": "Transport frequency.",
       "zh": "运输频率."
+    },
+    "Tầng hầm": {
+      "en": "The basement.",
+      "zh": "地下室 地下室"
+    },
+    "Tầng/lầu hoặc hầm": {
+      "en": "Level/Land or vault",
+      "zh": "级别/地盘或金库"
+    },
+    "Tỉnh An Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Bà Rịa - Vũng Tàu": {
+      "en": "Mrs. Ruyang-Cheng Province",
+      "zh": "鲁阳城夫人"
+    },
+    "Tỉnh Bình Dương": {
+      "en": "Pacific Province",
+      "zh": "太平洋省"
+    },
+    "Tỉnh Bình Phước": {
+      "en": "Lucky Province",
+      "zh": "幸运省"
+    },
+    "Tỉnh Bình Thuận": {
+      "en": "Ping Shun Province",
+      "zh": "平顺省"
+    },
+    "Tỉnh Bình Định": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
+    "Tỉnh Bạc Liêu": {
+      "en": "Silver Province",
+      "zh": "银省"
+    },
+    "Tỉnh Bắc Giang": {
+      "en": "North Jiang Province",
+      "zh": "北江省"
+    },
+    "Tỉnh Bắc Kạn": {
+      "en": "Northern Province",
+      "zh": "北部省"
+    },
+    "Tỉnh Bắc Ninh": {
+      "en": "Northern Kong Province",
+      "zh": "北金刚省"
+    },
+    "Tỉnh Bến Tre": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Cao Bằng": {
+      "en": "High Province With",
+      "zh": "高级省"
+    },
+    "Tỉnh Cà Mau": {
+      "en": "Mau Province",
+      "zh": "马乌省"
+    },
+    "Tỉnh Gia Lai": {
+      "en": "Zhuang Province",
+      "zh": "ang省"
+    },
+    "Tỉnh Hoà Bình": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "Tỉnh Hà Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Hà Nam": {
+      "en": "Henan Province",
+      "zh": "河南省历代进士名表."
+    },
+    "Tỉnh Hà Tĩnh": {
+      "en": "Han Jing Province",
+      "zh": "汉中省"
+    },
+    "Tỉnh Hưng Yên": {
+      "en": "Province of Jingye",
+      "zh": "静业省"
+    },
+    "Tỉnh Hải Dương": {
+      "en": "Ocean Province",
+      "zh": "海洋省"
+    },
+    "Tỉnh Hậu Giang": {
+      "en": "Empress Jiang Province",
+      "zh": "江省皇后"
+    },
+    "Tỉnh Khánh Hòa": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "Tỉnh Kiên Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Kon Tum": {
+      "en": "Kon Tum Province",
+      "zh": "孔屯省"
+    },
+    "Tỉnh Lai Châu": {
+      "en": "Laizhou Province",
+      "zh": "莱州省"
+    },
+    "Tỉnh Long An": {
+      "en": "Long An Province",
+      "zh": "长安省"
+    },
+    "Tỉnh Lào Cai": {
+      "en": "Lao Cai Province",
+      "zh": "老蔡省"
+    },
+    "Tỉnh Lâm Đồng": {
+      "en": "Linong Province",
+      "zh": "利农省"
+    },
+    "Tỉnh Lạng Sơn": {
+      "en": "Shan Province",
+      "zh": "掸邦"
+    },
+    "Tỉnh Nam Định": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Nghệ An": {
+      "en": "Province of Art",
+      "zh": "艺术省"
+    },
+    "Tỉnh Ninh Bình": {
+      "en": "Ninh Ping Province",
+      "zh": "宁平省"
+    },
+    "Tỉnh Ninh Thuận": {
+      "en": "Ninh Shun Province",
+      "zh": "宁顺省"
+    },
+    "Tỉnh Phú Thọ": {
+      "en": "Funky Province",
+      "zh": "丰基省"
+    },
+    "Tỉnh Phú Yên": {
+      "en": "Funky Province",
+      "zh": "丰基省"
+    },
+    "Tỉnh Quảng Bình": {
+      "en": "Guang Guang Province",
+      "zh": "广东省"
+    },
+    "Tỉnh Quảng Nam": {
+      "en": "Guangnan Province",
+      "zh": "广南省"
+    },
+    "Tỉnh Quảng Ngãi": {
+      "en": "Guangxi Province",
+      "zh": "广西省"
+    },
+    "Tỉnh Quảng Ninh": {
+      "en": "Ning Province",
+      "zh": "宁省"
+    },
+    "Tỉnh Quảng Trị": {
+      "en": "Guangdu Province",
+      "zh": "广都省"
+    },
+    "Tỉnh Sóc Trăng": {
+      "en": "Moon Province",
+      "zh": "月球省"
+    },
+    "Tỉnh Sơn La": {
+      "en": "Mountain Province",
+      "zh": "山区省"
+    },
+    "Tỉnh Thanh Hóa": {
+      "en": "Qing hóa Province",
+      "zh": "清河省"
+    },
+    "Tỉnh Thái Bình": {
+      "en": "Pacific Province",
+      "zh": "太平洋省"
+    },
+    "Tỉnh Thái Nguyên": {
+      "en": "Thai Province",
+      "zh": "泰国省"
+    },
+    "Tỉnh Tiền Giang": {
+      "en": "Jiang Province",
+      "zh": "江省 江省"
+    },
+    "Tỉnh Trà Vinh": {
+      "en": "In the province of Tinghan",
+      "zh": "丁汉省"
+    },
+    "Tỉnh Tuyên Quang": {
+      "en": "\"Phian Province\"",
+      "zh": "\"滇汉省志\""
+    },
+    "Tỉnh Tây Ninh": {
+      "en": "Western Province",
+      "zh": "西部省"
+    },
+    "Tỉnh Vĩnh Long": {
+      "en": "Long Province",
+      "zh": "长省"
+    },
+    "Tỉnh Vĩnh Phúc": {
+      "en": "Wing Fu Province",
+      "zh": "荣富省"
+    },
+    "Tỉnh Yên Bái": {
+      "en": "\"Silence Province\"",
+      "zh": "\"静安省志\"."
+    },
+    "Tỉnh Điện Biên": {
+      "en": "Border Area",
+      "zh": "边境地区"
+    },
+    "Tỉnh Đắk Lắk": {
+      "en": "Province",
+      "zh": "省份"
+    },
+    "Tỉnh Đắk Nông": {
+      "en": "In the province of Farm",
+      "zh": "农业省"
+    },
+    "Tỉnh Đồng Nai": {
+      "en": "Plain Nai Province",
+      "zh": "原直隶省"
+    },
+    "Tỉnh Đồng Tháp": {
+      "en": "Council Province",
+      "zh": "议会省"
+    },
+    "Tỉnh/Thành phố": {
+      "en": "Province/City",
+      "zh": "省／直辖市"
     },
     "Tối ưu chi phí trung chuyển.": {
       "en": "Advantages of transportation costs.",
@@ -1694,6 +2782,18 @@
     "Tổ chức bốc xếp.": {
       "en": "Organising.",
       "zh": "组织起来。"
+    },
+    "Tổng số kiện": {
+      "en": "Total Packages",
+      "zh": "总件数"
+    },
+    "Tổng số kiện hàng": {
+      "en": "Total Packages",
+      "zh": "软件包共计"
+    },
+    "Tổng số kiện máy": {
+      "en": "Total machine lawsuit",
+      "zh": "机器诉讼共计"
     },
     "Tổng trọng lượng.": {
       "en": "Total weight.",
@@ -1723,6 +2823,18 @@
       "en": "From province to province.",
       "zh": "从行省出."
     },
+    "TỰ NHẬN DIỆN & TÍNH M³": {
+      "en": "IDENTIFY CARGO & CALCULATE VOLUME",
+      "zh": "自动识别货物并计算体积"
+    },
+    "VAT 8%": {
+      "en": "VAT 8",
+      "zh": "增值税8"
+    },
+    "VAT 8% là mặc định": {
+      "en": "8% VAT Applied by Default",
+      "zh": "默认适用8%增值税"
+    },
     "VAT.": {
       "en": "VAT.",
       "zh": "增值税。"
@@ -1730,6 +2842,34 @@
     "VIDEOS": {
       "en": "LIS",
       "zh": "利比里亚"
+    },
+    "Vespa GTS": {
+      "en": "Vespa GTS",
+      "zh": "维斯帕GTS"
+    },
+    "Vespa Primavera": {
+      "en": "Vespa Primavera",
+      "zh": "维斯帕·普里马维拉"
+    },
+    "Vespa Sprint": {
+      "en": "Vespa Sprint",
+      "zh": "Vespa 冲刺"
+    },
+    "VinFast Evo": {
+      "en": "VinFast Evo",
+      "zh": "温·法斯特·埃沃"
+    },
+    "VinFast Feliz": {
+      "en": "VinFast Feliz",
+      "zh": "费利兹"
+    },
+    "VinFast Klara": {
+      "en": "VinFast Ahmad",
+      "zh": "温·法斯特·艾哈迈德"
+    },
+    "VinFast Vento": {
+      "en": "VinFast Vento",
+      "zh": "文·法斯特·文托"
     },
     "Việc lựa chọn cần dựa trên khoảng cách, khối lượng, thời gian và ngân sách.": {
       "en": "Choices need to be based on distances, mass, time and budget.",
@@ -1742,6 +2882,14 @@
     "Việc tổ chức hai chiều vận chuyển giúp tối ưu luồng phương tiện và thuận lợi hơn cho những doanh nghiệp thường xuyên giao hàng giữa hai miền.": {
       "en": "The two-way organization helps optimize the vehicle flow and is more favorable to the regular business delivery between the two domains.",
       "zh": "双向组织有助于优化车辆流量,更有利于两个领域之间的正常业务交付."
+    },
+    "Vui lòng chọn một phương án": {
+      "en": "Please choose a solution",
+      "zh": "请选择一个解决方案"
+    },
+    "Vui lòng nhập tên và số lượng các đồ dùng cần vận chuyển. Ví dụ: 1 tủ lạnh, 1 tivi, 2 ghế, 5 thùng đồ… Hệ thống sẽ hỗ trợ ước tính tổng thể tích để tính cước.": {
+      "en": "Please enter the name and number of items to transport. For example: 1 refrigerator, 1 TV, 2 seats, 5 barrels...the system will support an overall estimate of the volume to calculate the ID.",
+      "zh": "请输入要运输的物品名称和编号 。 例如: 1个冰箱, 1个电视, 2个座位, 5个桶... 系统将支持对容量的总体估计 来计算ID。"
     },
     "Vì sao nên lựa chọn Vận Tải Lưu Lê?": {
       "en": "Why Select Liu Download?",
@@ -1770,6 +2918,62 @@
     "Ví dụ:": {
       "en": "Examples:",
       "zh": "实例:"
+    },
+    "Ví dụ: 0909 123 456": {
+      "en": "Examples: 0909 123 456",
+      "zh": "例如:0909 123 456"
+    },
+    "Ví dụ: 10": {
+      "en": "Examples: 10",
+      "zh": "实例:10"
+    },
+    "Ví dụ: 1200": {
+      "en": "Examples: 1200",
+      "zh": "实例:1200"
+    },
+    "Ví dụ: 20": {
+      "en": "Examples: 20",
+      "zh": "实例:20"
+    },
+    "Ví dụ: 2000": {
+      "en": "Examples: 2000",
+      "zh": "实例:2000年"
+    },
+    "Ví dụ: 25": {
+      "en": "Examples: 25",
+      "zh": "实例:25"
+    },
+    "Ví dụ: 3.5": {
+      "en": "Examples: 3.5",
+      "zh": "实例:3.5"
+    },
+    "Ví dụ: 30": {
+      "en": "Examples: 30",
+      "zh": "实例:30"
+    },
+    "Ví dụ: 4": {
+      "en": "Examples: 4",
+      "zh": "实例:4"
+    },
+    "Ví dụ: 40": {
+      "en": "Examples: 40",
+      "zh": "实例:40"
+    },
+    "Ví dụ: 60": {
+      "en": "Examples: 60",
+      "zh": "实例:60"
+    },
+    "Ví dụ: 8": {
+      "en": "Examples: 8",
+      "zh": "实例:8"
+    },
+    "Ví dụ: tầng 3 hoặc B1": {
+      "en": "Examples: Level 3 or B1",
+      "zh": "例如:三级或B1级"
+    },
+    "Ví dụ: tầng 5 hoặc B2": {
+      "en": "Examples: Level 5 or B2",
+      "zh": "例如:5级或B2级"
     },
     "Vĩnh Phúc.": {
       "en": "Wing Fu.",
@@ -1983,6 +3187,18 @@
       "en": "Header",
       "zh": "页眉"
     },
+    "Vị trí bốc xếp đầu giao": {
+      "en": "Other Organiser",
+      "zh": "其他联系人"
+    },
+    "Vị trí bốc xếp đầu lấy": {
+      "en": "Headup position take",
+      "zh": "头部位置"
+    },
+    "Vị trí khác": {
+      "en": "Organisation",
+      "zh": "日历"
+    },
     "Với khoảng cách có thể lên đến hàng nghìn kilomet, bài toán không đơn thuần là tìm phương tiện chạy nhanh nhất mà phải cân đối:": {
       "en": "With the distance possible to the thousands of kilometers, the problem is not just finding the fastest vehicle that has to be scaled:",
       "zh": "问题不只在于寻找最快的车辆,"
@@ -2023,6 +3239,10 @@
       "en": "Website",
       "zh": "网站"
     },
+    "Website": {
+      "en": "Website",
+      "zh": "网站"
+    },
     "XE TẢI CHỞ HÀNG": {
       "en": "Truck Transport",
       "zh": "卡车运输"
@@ -2051,6 +3271,14 @@
       "en": "I'm not going anywhere.",
       "zh": "我哪儿也不会去"
     },
+    "Xe côn tay": {
+      "en": "Handwheel",
+      "zh": "手轮"
+    },
+    "Xe ga": {
+      "en": "Train",
+      "zh": "火车"
+    },
     "Xe ghép hàng.": {
       "en": "The assembly car.",
       "zh": "装配车"
@@ -2059,6 +3287,10 @@
       "en": "Motorcycles",
       "zh": "摩托车"
     },
+    "Xe máy điện": {
+      "en": "Electrical Car",
+      "zh": "电动车"
+    },
     "Xe nguyên chuyến phù hợp khi:": {
       "en": "The entire ride fits when:",
       "zh": "整个旅程符合以下条件:"
@@ -2066,6 +3298,14 @@
     "Xe nguyên chuyến.": {
       "en": "Full ride.",
       "zh": "满行."
+    },
+    "Xe phân khối lớn": {
+      "en": "Large block car",
+      "zh": "大块车"
+    },
+    "Xe số": {
+      "en": "Digital Car",
+      "zh": "数字车"
     },
     "Xe tải chở hàng": {
       "en": "Transportation Truck",
@@ -2103,6 +3343,10 @@
       "en": "The car is directed to the customer address or client can deliver the purchase to the destination under agreement.",
       "zh": "该车被指向客户地址,或者客户可以按照协议将购买品送到目的地."
     },
+    "Xem chi tiết cước ▾": {
+      "en": "View details",
+      "zh": "查看细节"
+    },
     "Xem thông tin": {
       "en": "View Information",
       "zh": "查看信息"
@@ -2127,9 +3371,17 @@
       "en": "Requesting billing.",
       "zh": "要求开帐单"
     },
+    "chiếc": {
+      "en": "car",
+      "zh": "汽车"
+    },
     "chuyên nghiệp cần có khả năng đánh giá từng lô hàng thay vì áp dụng một phương án cố định cho tất cả khách hàng.": {
       "en": "Professionals need to be able to assess each shipment rather than apply a fixed plan to all customers.",
       "zh": "专业人员必须能够评估每批货物,而不是对所有客户适用固定计划。"
+    },
+    "cm": {
+      "en": "cm",
+      "zh": "厘米"
     },
     "dịch vụ vận chuyển hàng hóa": {
       "en": "Transportation Services",
@@ -2155,6 +3407,10 @@
       "en": "either",
       "zh": "无论是"
     },
+    "kg": {
+      "en": "kg",
+      "zh": "千克( K)"
+    },
     "không chỉ có việc thuê một chiếc xe.": {
       "en": "Not just renting a car.",
       "zh": "不只是租车"
@@ -2162,6 +3418,10 @@
     "không nên được xác định chỉ dựa vào khoảng cách.": {
       "en": "should not be determined solely by distance.",
       "zh": "不应仅由距离决定。"
+    },
+    "kiện": {
+      "en": "lawsuit",
+      "zh": "诉讼"
     },
     "kết hợp đường sắt – xe giao nhận hai đầu": {
       "en": "› Railroads – Cars receive two heads",
@@ -2187,6 +3447,14 @@
       "en": "The main line in the transport system of Liu Media.",
       "zh": "刘传媒交通系统正线."
     },
+    "m³": {
+      "en": "m3",
+      "zh": "立方米"
+    },
+    "ngày": {
+      "en": "Chile",
+      "zh": "地址"
+    },
     "ngày càng lớn khi Hà Nội vừa là trung tâm kinh tế, thương mại lớn của miền Bắc, vừa là điểm tập kết hàng hóa quan trọng để phân phối đến nhiều khu vực trên cả nước. Từ Hà Nội, hàng hóa có thể được vận chuyển đi miền Trung, Tây Nguyên, Đông Nam Bộ, Tây Nam Bộ và nhiều tỉnh thành khác bằng đường bộ, đường sắt hoặc phương án kết hợp tùy theo đặc điểm từng lô hàng.": {
       "en": "As Hanoi grew larger as he was both the center of economics, the major trade of the North, and an important cargo gathering point for distribution to many areas across the country. From Hanoi, goods can be transported to the Middle, West Plain, Southeast Ministry, southwest Ministry, and many other provinces by foot, railway, or plan in conjunction with the characteristics of each shipment.",
       "zh": "由于河内既是经济中心,是北方主要贸易,也是向全国许多地区发售的重要货物集散地,因此河内逐渐壮大. 从河内起,货物可以按照每次发货的特性,由出行地,铁路,或计划运入中,西平原,东南部,西南部等多省."
@@ -2195,6 +3463,10 @@
       "en": "Increasingly, the area concentrated many industrial areas, the logistics center and the large distribution system. Liu Shui transport was sent from Hanoi to South East Ministry provinces",
       "zh": "该地区日益集中了许多工业区,物流中心和大型分销系统. 刘水运自河内出使东南行省."
     },
+    "pallet": {
+      "en": "pallet",
+      "zh": "托盘"
+    },
     "phù hợp với khách hàng cần gửi hàng từ khu vực phía Bắc đến các tỉnh miền Tây Nam Bộ như": {
       "en": "The customer needs to be sent from the North Region to the South West Department provinces as",
       "zh": "顾客需要从北区送到西南省"
@@ -2202,6 +3474,10 @@
     "phục vụ nhu cầu đưa hàng từ các nhà máy, kho phân phối và khu công nghiệp phía Bắc vào thị trường miền Nam.": {
       "en": "serving the demand for freight from factories, distribution depots and the North Industrial Zone into the South Market.",
       "zh": "满足工厂、销售站和北方工业区进入南方市场的货运需求。"
+    },
+    "tank": {
+      "en": "tank",
+      "zh": "罐头"
     },
     "từ TP.HCM đi Hà Nội, Hà Nội đi TP.HCM, vận chuyển Bắc Nam, vận chuyển liên tỉnh hoặc gửi hàng đến các tỉnh trên toàn quốc, Vận Tải Lưu Lê có thể hỗ trợ xây dựng phương án phù hợp theo từng lô hàng.": {
       "en": "From TP.HCM to Hanoi, Hanoi went to TP.HCM, shipping North South, transmuting provinces or sending supplies to provinces across the country, the Lever Media could support building the right plan according to each shipment.",
@@ -2271,9 +3547,25 @@
       "en": "with various forms of flexible transport.",
       "zh": "包括各种形式的灵活运输。"
     },
+    "xe": {
+      "en": "car",
+      "zh": "汽车"
+    },
     "xe tải đường bộ": {
       "en": "road truck",
       "zh": "公路卡车"
+    },
+    "Áp dụng khi xe đã tới nơi và thông báo khách nhận nhưng khách chưa nhận được, hoặc khi đi giao mà khách không có mặt.": {
+      "en": "Apply when the car has arrived and informs the guests but the guests do not receive it, or when the delivery is not present.",
+      "zh": "乘车到达后通知客人,但客人不接受,或送货不在场。"
+    },
+    "Đang tải dữ liệu…": {
+      "en": "Downloading data...",
+      "zh": "正在下载数据..."
+    },
+    "Điền thông tin và chọn “Tính cước ngay” để xem chi tiết.": {
+      "en": "Enter shipment details and select “Calculate Shipping Cost” to view the estimate.",
+      "zh": "请填写货物信息，然后点击“立即计算运费”查看预估费用。"
     },
     "Điều khoản công ty": {
       "en": "Company Terms",
@@ -2327,9 +3619,17 @@
       "en": "Close",
       "zh": "关闭"
     },
+    "Đóng gói đồ gia đình": {
+      "en": "Pack your bags",
+      "zh": "收拾东西"
+    },
     "Đơn mới": {
       "en": "New Single",
       "zh": "新单人"
+    },
+    "Đường sắt + đường bộ": {
+      "en": "Railroad + Route",
+      "zh": "铁路+路线"
     },
     "Đường sắt đáng cân nhắc khi có các điều kiện như:": {
       "en": "The railway is worth considering when the conditions include:",
@@ -2366,6 +3666,18 @@
     "Để Vận Tải Lưu Lê báo giá chính xác, khách hàng nên cung cấp các thông tin sau:": {
       "en": "For Liu Download to tell the exact price, customers should provide the following information:",
       "zh": "刘下下载要说明确切价格,客户应当提供下列信息: 1."
+    },
+    "ĐỊA CHỈ GỬI": {
+      "en": "PICKUP ADDRESS",
+      "zh": "取货地址"
+    },
+    "ĐỊA CHỈ NHẬN": {
+      "en": "DELIVERY ADDRESS",
+      "zh": "收货地址"
+    },
+    "Địa chỉ chi tiết": {
+      "en": "Street Address",
+      "zh": "详细地址"
     },
     "Địa chỉ giao hàng.": {
       "en": "The delivery address.",
@@ -2467,6 +3779,10 @@
       "en": "Co-Nai.",
       "zh": "共内."
     },
+    "Đổi chiều vận chuyển": {
+      "en": "Change Transportation",
+      "zh": "改变运输"
+    },
     "đáp ứng nhu cầu giao nhận hàng hóa từ Hà Nội đi các tỉnh": {
       "en": "Meet the demand for delivery from Hanoi to the provinces",
       "zh": "满足河内到各省送货的需求"
@@ -2490,6 +3806,10 @@
     "Ưu điểm lớn nhất là tiết kiệm chi phí.": {
       "en": "The biggest advantage is to save costs.",
       "zh": "最大的优势是节省费用。"
+    },
+    "Ước tính chi phí vận chuyển đường sắt kết hợp đường bộ.": {
+      "en": "The cost of rail transport combined the road.",
+      "zh": "铁路运输成本相加."
     },
     "™ Vận chuyển hàng Hà Nội đi Tây Nguyên": {
       "en": "Transfer of Hanoi to West Yuan",
