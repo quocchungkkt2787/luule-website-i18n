@@ -1,40 +1,33 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-25T15:06:57.420428+00:00",
+  "tested_at": "2026-11-26T00:46:30.584791+00:00",
   "public_routes_total": 940,
-  "public_routes_verified": 931,
-  "public_routes_pending": 9,
-  "public_routes_failed": 5,
+  "public_routes_verified": 938,
+  "public_routes_pending": 2,
+  "public_routes_failed": 2,
   "failed_examples": [
-    "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi",
-    "/blogs/thong-bao",
-    "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026",
-    "/blogs/van-chuyen-ha-noi-sai-gon",
-    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon"
+    "/blogs/van-chuyen-ha-noi-sai-gon/gui-xe-may-tu-ha-noi-vao-sai-gon",
+    "/search"
   ],
   "full_live_coverage_verified": false,
   "note": "Anonymous public pages only; excludes private data, image lettering and external apps.",
   "routes": {
     "/blogs/bang-gia-cuoc-chuyen-nha-tron-goi": {
       "fingerprint": "b69b47a79ea3e09b",
-      "status": "fail",
-      "checked_at": "2026-11-25T15:06:02.067688+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-26T00:46:10.137337+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Ngoài ra. Để biết chính xác giá cước chuyển nhà, quý khách vui lòng điền thông tin đầy đủ vào bảng tính cước b"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "House Transfer Table 2026 MEDI TP.HCM & North South"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Ngoài ra. Để biết chính xác giá cước chuyển nhà, quý khách vui lòng điền thông tin đầy đủ vào bảng tính cước b"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "表2026 MEDI TP.HCM 和 南北"
         }
       }
@@ -15868,25 +15861,19 @@
     },
     "/blogs/thong-bao": {
       "fingerprint": "0fa0d46f3608b973",
-      "status": "fail",
-      "checked_at": "2026-11-25T13:10:42.226723+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-26T00:46:16.369524+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Kính gửi: Quý khách hàng và Quý đối tác!Căn cứ Nghị quyết số 28/2026/QH16 của Quốc hội về phát triển văn hóa V",
-            "Thông báo lịch nghỉ lễ Văn hoá Việt Nam 24/11/2026"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Announce"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "Kính gửi: Quý khách hàng và Quý đối tác!Căn cứ Nghị quyết số 28/2026/QH16 của Quốc hội về phát triển văn hóa V",
-            "Thông báo lịch nghỉ lễ Văn hoá Việt Nam 24/11/2026"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "发布"
         }
       }
@@ -15931,32 +15918,20 @@
     },
     "/blogs/thong-bao/lich-nghi-le-van-hoa-viet-nam-24-11-2026": {
       "fingerprint": "1fa81be9db771c2c",
-      "status": "fail",
-      "checked_at": "2026-11-24T13:57:44.630011+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-26T00:46:22.370173+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            ", công ty làm việc và tiếp nhận hàng hóa trở lại bình thường.",
-            ", người lao động được nghỉ làm việc và hưởng nguyên lương.",
-            "Công ty TNHH Vận Tải Lưu Lê chân thành cảm ơn Quý khách hàng và Quý đối tác đã luôn tin tưởng, đồng hành và sử",
-            "Công ty sẽ tiếp nhận và hỗ trợ theo điều kiện thực tế trong thời gian nghỉ lễ.",
-            "Công ty tiếp nhận và xử lý yêu cầu vận chuyển theo lịch làm việc bình thường đến hết ngày"
-          ],
-          "title": "Thông báo lịch nghỉ lễ Văn hoá Việt Nam 24/11/2026"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "Announce Vietnam Cultural Holiday 24/11/2026"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            ", công ty làm việc và tiếp nhận hàng hóa trở lại bình thường.",
-            ", người lao động được nghỉ làm việc và hưởng nguyên lương.",
-            "Công ty TNHH Vận Tải Lưu Lê chân thành cảm ơn Quý khách hàng và Quý đối tác đã luôn tin tưởng, đồng hành và sử",
-            "Công ty sẽ tiếp nhận và hỗ trợ theo điều kiện thực tế trong thời gian nghỉ lễ.",
-            "Công ty tiếp nhận và xử lý yêu cầu vận chuyển theo lịch làm việc bình thường đến hết ngày"
-          ],
-          "title": "Thông báo lịch nghỉ lễ Văn hoá Việt Nam 24/11/2026"
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
+          "title": "宣布越南文化节 24/11/2026 (中文(简体) )."
         }
       }
     },
@@ -16380,27 +16355,19 @@
     },
     "/blogs/van-chuyen-ha-noi-sai-gon": {
       "fingerprint": "f601e0ddb12f9e36",
-      "status": "fail",
-      "checked_at": "2026-11-25T13:11:04.386935+00:00",
+      "status": "pass",
+      "checked_at": "2026-11-26T00:46:30.552964+00:00",
       "languages": {
         "en": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "450.000đ/m3 (cước tàu) + 600.000đ xe lấy",
-            "450.000đ/m3 (cước tàu) + 600.000đ xe lấy + 500.000đ xe giao",
-            "Số lượng hàng <= 10m3 (cước tàu + xe lấy + xe giao)"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "Transporte of Hanoi Saigon"
         },
         "zh": {
-          "ok": false,
-          "reason": "Visible Vietnamese public text",
-          "examples": [
-            "450.000đ/m3 (cước tàu) + 600.000đ xe lấy",
-            "450.000đ/m3 (cước tàu) + 600.000đ xe lấy + 500.000đ xe giao",
-            "Số lượng hàng <= 10m3 (cước tàu + xe lấy + xe giao)"
-          ],
+          "ok": true,
+          "reason": "pass",
+          "examples": [],
           "title": "河内西贡运输公司"
         }
       }
@@ -17594,7 +17561,7 @@
     "/": {
       "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-25T15:05:39.279343+00:00",
+      "checked_at": "2026-11-26T00:45:21.393555+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17611,9 +17578,9 @@
       }
     },
     "/pages/chuyen-nha-tron-goi": {
-      "fingerprint": "78beffb1c496f157",
+      "fingerprint": "fadb02ba007c91a5",
       "status": "pass",
-      "checked_at": "2026-11-17T23:00:43.162437+00:00",
+      "checked_at": "2026-11-26T00:45:41.529185+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17632,7 +17599,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-25T15:05:53.358591+00:00",
+      "checked_at": "2026-11-26T00:45:34.497137+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17649,9 +17616,9 @@
       }
     },
     "/pages/dich-vu-van-chuyen": {
-      "fingerprint": "bf5243b5f32db1bc",
+      "fingerprint": "75ff4efa46eadc28",
       "status": "pass",
-      "checked_at": "2026-11-17T23:00:50.424230+00:00",
+      "checked_at": "2026-11-26T00:45:48.407908+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17839,9 +17806,9 @@
       }
     },
     "/pages/van-chuyen-hang-hoa": {
-      "fingerprint": "ca72018a07cfb7a7",
+      "fingerprint": "857daa118a28a0f0",
       "status": "pass",
-      "checked_at": "2026-11-17T23:22:53.227440+00:00",
+      "checked_at": "2026-11-26T00:45:55.593298+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17877,9 +17844,9 @@
       }
     },
     "/pages/xe-tai-cho-hang": {
-      "fingerprint": "fe3df6dacfb2f0fe",
+      "fingerprint": "a2e858c8e6a9f16d",
       "status": "pass",
-      "checked_at": "2026-11-17T23:23:05.548369+00:00",
+      "checked_at": "2026-11-26T00:46:02.077516+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17897,13 +17864,19 @@
     },
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
-      "status": "pass",
-      "checked_at": "2026-11-25T15:05:47.220744+00:00",
+      "status": "fail",
+      "checked_at": "2026-11-26T00:45:28.760278+00:00",
       "languages": {
         "en": {
-          "ok": true,
-          "reason": "pass",
-          "examples": [],
+          "ok": false,
+          "reason": "Visible Vietnamese public text",
+          "examples": [
+            "Bạn có biết rằng vận chuyển đường sắt là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện ",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp",
+            "Chính vì lẽ đó, Công ty Lưu Lê đã triển khai và cung cấp dịch vụ vận tải đường sắt Bắc Nam nhằm phục vụ nhu cầ",
+            "có nhiều ưu điểm vượt trội như: giá cước ổn định, ít bị ảnh hưởng bởi thời tiết, đảm bảo hàng hóa an toàn...",
+            "là một trong những hình thức vận chuyển hiệu quả và tiết kiệm nhất hiện nay? So với các hình thức vận chuyển k"
+          ],
           "title": "Kết quả tìm kiếm \"vận tải đường sắt\" - Vận Tải Lưu Lê"
         },
         "zh": {
