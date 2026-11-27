@@ -1,7 +1,7 @@
 {
   "version": 1,
   "type": "anonymous-live-translation-check",
-  "tested_at": "2026-11-27T12:43:28.705793+00:00",
+  "tested_at": "2026-11-27T21:42:18.661741+00:00",
   "public_routes_total": 940,
   "public_routes_verified": 940,
   "public_routes_pending": 0,
@@ -17550,7 +17550,7 @@
     "/": {
       "fingerprint": "897b13d5d5dc4953",
       "status": "pass",
-      "checked_at": "2026-11-27T12:43:17.340782+00:00",
+      "checked_at": "2026-11-27T21:42:03.632204+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17588,7 +17588,7 @@
     "/pages/customer": {
       "fingerprint": "43d65c22dd4494d8",
       "status": "pass",
-      "checked_at": "2026-11-27T12:43:28.674218+00:00",
+      "checked_at": "2026-11-27T21:42:18.627744+00:00",
       "languages": {
         "en": {
           "ok": true,
@@ -17854,7 +17854,7 @@
     "/search": {
       "fingerprint": "dbd4690ebc58f93e",
       "status": "pass",
-      "checked_at": "2026-11-27T12:43:23.466259+00:00",
+      "checked_at": "2026-11-27T21:42:12.416986+00:00",
       "languages": {
         "en": {
           "ok": true,
